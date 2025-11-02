@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "id": "dieu_174",
+      "label": "ĐiềuLuật",
+      "name": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_thoi_han_su_dung_dat_khi_nhan_chuyen_quyen",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_loai_dat_co_thoi_han",
+      "label": "KháiNiệm",
+      "name": "Loại đất có quy định thời hạn"
+    },
+    {
+      "id": "khainiem_thoi_gian_su_dung_dat_con_lai",
+      "label": "KháiNiệm",
+      "name": "Thời gian sử dụng đất còn lại"
+    },
+    {
+      "id": "hanhviphaply_gia_han_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Gia hạn sử dụng đất"
+    },
+    {
+      "id": "dieu_172",
+      "label": "ĐiềuLuật",
+      "name": "Điều 172 của Luật Đất đai"
+    },
+    {
+      "id": "chuthe_ca_nhan_truc_tiep_sxnn",
+      "label": "ChủThể",
+      "name": "Cá nhân trực tiếp sản xuất nông nghiệp"
+    },
+    {
+      "id": "hanhviphaply_nhan_qusd_nong_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "Nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất"
+    },
+    {
+      "id": "dieukien_het_thoi_han_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han",
+      "label": "HànhViPhápLý",
+      "name": "Được tiếp tục sử dụng đất mà không phải làm thủ tục gia hạn"
+    },
+    {
+      "id": "chuthe_nguoi_nhan_chuyen_quyen_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người nhận chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_loai_dat_su_dung_on_dinh_lau_dai",
+      "label": "KháiNiệm",
+      "name": "Loại đất sử dụng ổn định lâu dài"
+    },
+    {
+      "id": "khainiem_su_dung_dat_on_dinh_lau_dai",
+      "label": "KháiNiệm",
+      "name": "Được sử dụng đất ổn định lâu dài"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_174",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoi_han_su_dung_dat_khi_nhan_chuyen_quyen"
+    },
+    {
+      "source_id": "khainiem_thoi_han_su_dung_dat_khi_nhan_chuyen_quyen",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_thoi_gian_su_dung_dat_con_lai"
+    },
+    {
+      "source_id": "khainiem_thoi_han_su_dung_dat_khi_nhan_chuyen_quyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_loai_dat_co_thoi_han"
+    },
+    {
+      "source_id": "hanhviphaply_gia_han_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_172"
+    },
+    {
+      "source_id": "dieu_174",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han"
+    },
+    {
+      "source_id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan_truc_tiep_sxnn"
+    },
+    {
+      "source_id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_nhan_qusd_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_het_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_nhan_chuyen_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_su_dung_dat_on_dinh_lau_dai"
+    },
+    {
+      "source_id": "khainiem_su_dung_dat_on_dinh_lau_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_loai_dat_su_dung_on_dinh_lau_dai"
+    }
+  ]
+}

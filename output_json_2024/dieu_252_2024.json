@@ -1,0 +1,160 @@
+{
+  "graph_id": "knowledge_graph_dieu_252_luatdatdai2024",
+  "source_text": {
+    "ten_luat": "Luật Đất đai 2024",
+    "ma_dieu": "252",
+    "noi_dung": "Điều 252. Hiệu lực thi hành\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này .\n2. Điều 190 và Điều 248 của Luật này có hiệu lực thi hành từ ngày 01 tháng 4 năm 2024.\n3. Việc lập, phê duyệt quy hoạch sử dụng đất được tiếp tục thực hiện theo quy định của Nghị quyết số 61/2022/QH15 ngày 16 tháng 6 năm 2022 của Quốc hội về tiếp tục tăng cường hiệu lực, hiệu quả thực hiện chính sách, pháp luật về quy hoạch và một số giải pháp tháo gỡ khó khăn, vướng mắc, đẩy nhanh tiến độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021 - 2030.\nKhoản 9 Điều 60 của Luật này có hiệu lực thi hành từ ngày Nghị quyết số 61/2022/QH15 hết hiệu lực.\n4. Luật Đất đai số 45/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 (sau đây gọi là Luật Đất đai số 45/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+  },
+  "entities": [
+    {
+      "id": "dieu_252",
+      "label": "ĐiềuLuật",
+      "name": "Điều 252",
+      "description": "Quy định về hiệu lực thi hành của Luật Đất đai 2024."
+    },
+    {
+      "id": "khainiem_hieulucthihanh",
+      "label": "KháiNiệm",
+      "name": "Hiệu lực thi hành",
+      "description": "Trạng thái pháp lý khi một văn bản quy phạm pháp luật bắt đầu có giá trị áp dụng."
+    },
+    {
+      "id": "dieu_luatdatdai2024",
+      "label": "ĐiềuLuật",
+      "name": "Luật Đất đai 2024",
+      "description": "Văn bản Luật Đất đai năm 2024."
+    },
+    {
+      "id": "dieukien_ngay_01_01_2025",
+      "label": "ĐiềuKiện",
+      "name": "Ngày 01 tháng 01 năm 2025",
+      "description": "Mốc thời gian có hiệu lực chung của Luật Đất đai 2024."
+    },
+    {
+      "id": "dieu_190",
+      "label": "ĐiềuLuật",
+      "name": "Điều 190 Luật Đất đai 2024",
+      "description": "Điều 190 của Luật Đất đai 2024, có hiệu lực sớm."
+    },
+    {
+      "id": "dieu_248",
+      "label": "ĐiềuLuật",
+      "name": "Điều 248 Luật Đất đai 2024",
+      "description": "Điều 248 của Luật Đất đai 2024, có hiệu lực sớm."
+    },
+    {
+      "id": "dieukien_ngay_01_04_2024",
+      "label": "ĐiềuKiện",
+      "name": "Ngày 01 tháng 4 năm 2024",
+      "description": "Mốc thời gian có hiệu lực của Điều 190 và Điều 248."
+    },
+    {
+      "id": "hanhviphaply_lappheduyetquyhoachsdd",
+      "label": "HànhViPhápLý",
+      "name": "Việc lập, phê duyệt quy hoạch sử dụng đất",
+      "description": "Hoạt động lập và phê duyệt quy hoạch sử dụng đất tiếp tục theo quy định của Nghị quyết 61/2022/QH15."
+    },
+    {
+      "id": "dieu_nghiquyet61_2022_qh15",
+      "label": "ĐiềuLuật",
+      "name": "Nghị quyết số 61/2022/QH15",
+      "description": "Văn bản quy định về việc lập, phê duyệt quy hoạch sử dụng đất trong giai đoạn chuyển tiếp."
+    },
+    {
+      "id": "dieu_khoan9dieu60",
+      "label": "ĐiềuLuật",
+      "name": "Khoản 9 Điều 60 Luật Đất đai 2024",
+      "description": "Điều khoản có hiệu lực thi hành sau khi Nghị quyết 61/2022/QH15 hết hiệu lực."
+    },
+    {
+      "id": "dieukien_ngayhethieulucnq61",
+      "label": "ĐiềuKiện",
+      "name": "Ngày Nghị quyết số 61/2022/QH15 hết hiệu lực",
+      "description": "Mốc thời gian hiệu lực của Khoản 9 Điều 60, phụ thuộc vào một văn bản khác."
+    },
+    {
+      "id": "khainiem_hethieuluc",
+      "label": "KháiNiệm",
+      "name": "Hết hiệu lực",
+      "description": "Trạng thái pháp lý khi một văn bản quy phạm pháp luật chấm dứt giá trị áp dụng."
+    },
+    {
+      "id": "dieu_luatdatdai45_2013_qh13",
+      "label": "ĐiềuLuật",
+      "name": "Luật Đất đai số 45/2013/QH13",
+      "description": "Luật Đất đai năm 2013 hết hiệu lực khi Luật Đất đai 2024 có hiệu lực."
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_252",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hieulucthihanh"
+    },
+    {
+      "source_id": "khainiem_hieulucthihanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_luatdatdai2024"
+    },
+    {
+      "source_id": "dieu_luatdatdai2024",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ngay_01_01_2025"
+    },
+    {
+      "source_id": "khainiem_hieulucthihanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_190"
+    },
+    {
+      "source_id": "khainiem_hieulucthihanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_248"
+    },
+    {
+      "source_id": "dieu_190",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ngay_01_04_2024"
+    },
+    {
+      "source_id": "dieu_248",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ngay_01_04_2024"
+    },
+    {
+      "source_id": "dieu_252",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lappheduyetquyhoachsdd"
+    },
+    {
+      "source_id": "hanhviphaply_lappheduyetquyhoachsdd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_nghiquyet61_2022_qh15"
+    },
+    {
+      "source_id": "khainiem_hieulucthihanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_khoan9dieu60"
+    },
+    {
+      "source_id": "dieu_khoan9dieu60",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ngayhethieulucnq61"
+    },
+    {
+      "source_id": "dieu_252",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hethieuluc"
+    },
+    {
+      "source_id": "khainiem_hethieuluc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_luatdatdai45_2013_qh13"
+    },
+    {
+      "source_id": "dieu_luatdatdai2024",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_hethieuluc"
+    }
+  ]
+}

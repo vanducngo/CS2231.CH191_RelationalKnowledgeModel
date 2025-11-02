@@ -1,0 +1,112 @@
+{
+  "graph_name": "LuatDatDai2024_Dieu175",
+  "entities": [
+    {
+      "id": "dieu_175",
+      "label": "ĐiềuLuật",
+      "name": "Điều 175",
+      "description": "Điều chỉnh thời hạn sử dụng đất của dự án đầu tư"
+    },
+    {
+      "id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh thời hạn sử dụng đất",
+      "description": "Việc điều chỉnh thời hạn sử dụng đất đối với dự án đầu tư có sử dụng đất khi chưa hết thời hạn sử dụng đất."
+    },
+    {
+      "id": "chuthe_duandautu",
+      "label": "ChủThể",
+      "name": "Dự án đầu tư",
+      "description": "Dự án đầu tư có sử dụng đất cần điều chỉnh thời hạn."
+    },
+    {
+      "id": "dieukien_phuhopvoiquyhoachsddcaphuyen",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với quy hoạch sử dụng đất cấp huyện",
+      "description": "Việc điều chỉnh phải phù hợp với quy hoạch sử dụng đất cấp huyện."
+    },
+    {
+      "id": "dieukien_covanbandenghidieuchinh",
+      "label": "ĐiềuKiện",
+      "name": "Có văn bản đề nghị điều chỉnh",
+      "description": "Phải có văn bản đề nghị điều chỉnh thời hạn sử dụng đất của dự án đầu tư."
+    },
+    {
+      "id": "dieukien_hoanthanhnghiavutaichinhvedatdai",
+      "label": "ĐiềuKiện",
+      "name": "Hoàn thành nghĩa vụ tài chính về đất đai",
+      "description": "Đã hoàn thành nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định."
+    },
+    {
+      "id": "dieukien_khongthuoctruonghopthuhoidat",
+      "label": "ĐiềuKiện",
+      "name": "Không thuộc trường hợp thu hồi đất",
+      "description": "Không thuộc trường hợp thu hồi đất quy định tại Điều 81 của Luật Đất đai 2024."
+    },
+    {
+      "id": "dieukien_covanbandieuchinhduandautu",
+      "label": "ĐiềuKiện",
+      "name": "Có văn bản điều chỉnh dự án đầu tư",
+      "description": "Có văn bản của cơ quan có thẩm quyền về việc điều chỉnh dự án đầu tư mà có thay đổi thời hạn hoạt động."
+    },
+    {
+      "id": "dieukien_dapungdieukienvemoitruong",
+      "label": "ĐiềuKiện",
+      "name": "Đáp ứng điều kiện về môi trường",
+      "description": "Đáp ứng các điều kiện về môi trường theo quy định của pháp luật về bảo vệ môi trường."
+    },
+    {
+      "id": "dieukien_thoihansudungdatsaudieuchinh",
+      "label": "ĐiềuKiện",
+      "name": "Thời hạn sử dụng đất sau điều chỉnh",
+      "description": "Thời hạn sử dụng đất sau khi được điều chỉnh không quá thời hạn quy định tại điểm c khoản 1 Điều 172."
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_175",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_dieuchinhthoihansudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_duandautu"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhopvoiquyhoachsddcaphuyen"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_covanbandenghidieuchinh"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hoanthanhnghiavutaichinhvedatdai"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongthuoctruonghopthuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_covanbandieuchinhduandautu"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dapungdieukienvemoitruong"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thoihansudungdatsaudieuchinh"
+    }
+  ]
+}
