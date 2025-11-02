@@ -1,0 +1,1051 @@
+{
+  "entities": [
+    {
+      "id": "dieu_138",
+      "label": "ĐiềuLuật",
+      "name": "Điều 138"
+    },
+    {
+      "id": "dieu_137",
+      "label": "ĐiềuLuật",
+      "name": "Điều 137"
+    },
+    {
+      "id": "dieu_139",
+      "label": "ĐiềuLuật",
+      "name": "Điều 139"
+    },
+    {
+      "id": "dieu_140",
+      "label": "ĐiềuLuật",
+      "name": "Điều 140"
+    },
+    {
+      "id": "dieu_141",
+      "label": "ĐiềuLuật",
+      "name": "Điều 141"
+    },
+    {
+      "id": "dieu_195",
+      "label": "ĐiềuLuật",
+      "name": "Điều 195"
+    },
+    {
+      "id": "dieu_196",
+      "label": "ĐiềuLuật",
+      "name": "Điều 196"
+    },
+    {
+      "id": "dieu_118",
+      "label": "ĐiềuLuật",
+      "name": "Điều 118"
+    },
+    {
+      "id": "dieu_176",
+      "label": "ĐiềuLuật",
+      "name": "Điều 176"
+    },
+    {
+      "id": "khaikiem_giay_chung_nhan_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khaikiem_giay_to_qsd_dat_dieu_137",
+      "label": "KháiNiệm",
+      "name": "giấy tờ về quyền sử dụng đất quy định tại Điều 137"
+    },
+    {
+      "id": "khaikiem_thua_dat_co_nha_o_cong_trinh_pv_doi_song",
+      "label": "KháiNiệm",
+      "name": "thửa đất có nhà ở, nhà ở và công trình phục vụ đời sống"
+    },
+    {
+      "id": "khaikiem_han_muc_cong_nhan_dat_o",
+      "label": "KháiNiệm",
+      "name": "hạn mức công nhận đất ở"
+    },
+    {
+      "id": "khaikiem_khoan5_dieu_141",
+      "label": "KháiNiệm",
+      "name": "khoản 5 Điều 141"
+    },
+    {
+      "id": "khaikiem_thua_dat_sxkd_phi_nong_nghiep_thuong_mai_dich_vu",
+      "label": "KháiNiệm",
+      "name": "thửa đất có sử dụng vào mục đích sản xuất, kinh doanh phi nông nghiệp, thương mại, dịch vụ"
+    },
+    {
+      "id": "khaikiem_hinh_thuc_sd_dat_giao_dat_co_thu_tien",
+      "label": "KháiNiệm",
+      "name": "hình thức sử dụng đất được công nhận như hình thức giao đất có thu tiền sử dụng đất"
+    },
+    {
+      "id": "khaikiem_thoi_han_sd_dat_on_dinh_lau_dai",
+      "label": "KháiNiệm",
+      "name": "thời hạn sử dụng đất là ổn định lâu dài"
+    },
+    {
+      "id": "khaikiem_phan_dien_tich_dat_con_lai",
+      "label": "KháiNiệm",
+      "name": "phần diện tích đất còn lại"
+    },
+    {
+      "id": "khaikiem_han_muc_giao_dat_o",
+      "label": "KháiNiệm",
+      "name": "hạn mức giao đất ở"
+    },
+    {
+      "id": "khaikiem_khoan2_dieu_195_va_khoan2_dieu_196",
+      "label": "KháiNiệm",
+      "name": "khoản 2 Điều 195 và khoản 2 Điều 196"
+    },
+    {
+      "id": "khaikiem_han_muc_dat_o_khoan_1_2_3_dieu_138",
+      "label": "KháiNiệm",
+      "name": "hạn mức đất ở quy định tại các khoản 1, 2 và 3 Điều này"
+    },
+    {
+      "id": "khaikiem_tong_han_muc_dat_o_cac_ho_gd_ca_nhan",
+      "label": "KháiNiệm",
+      "name": "tổng hạn mức đất ở của các hộ gia đình, cá nhân đó"
+    },
+    {
+      "id": "khaikiem_han_muc_giao_dat_nong_nghiep_cho_ca_nhan",
+      "label": "KháiNiệm",
+      "name": "hạn mức giao đất nông nghiệp cho cá nhân"
+    },
+    {
+      "id": "khaikiem_thoi_han_sd_dat_tinh_tu_ngay_cap_gcn",
+      "label": "KháiNiệm",
+      "name": "thời hạn sử dụng đất tính từ ngày được cấp Giấy chứng nhận"
+    },
+    {
+      "id": "khaikiem_han_muc_dat_o_dia_phuong",
+      "label": "KháiNiệm",
+      "name": "hạn mức đất ở của địa phương"
+    },
+    {
+      "id": "khaikiem_trach_nhiem_cap_gcn",
+      "label": "KháiNiệm",
+      "name": "trách nhiệm cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khaikiem_khoan1_dieu_138",
+      "label": "KháiNiệm",
+      "name": "khoản 1 Điều 138"
+    },
+    {
+      "id": "khaikiem_khoan2_dieu_138",
+      "label": "KháiNiệm",
+      "name": "khoản 2 Điều 138"
+    },
+    {
+      "id": "khaikiem_khoan3_dieu_138",
+      "label": "KháiNiệm",
+      "name": "khoản 3 Điều 138"
+    },
+    {
+      "id": "khaikiem_khoan4_dieu_138",
+      "label": "KháiNiệm",
+      "name": "khoản 4 Điều 138"
+    },
+    {
+      "id": "khaikiem_khoan5_dieu_138",
+      "label": "KháiNiệm",
+      "name": "khoản 5 Điều 138"
+    },
+    {
+      "id": "khaikiem_khoan6_dieu_138",
+      "label": "KháiNiệm",
+      "name": "khoản 6 Điều 138"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan",
+      "label": "ChủThể",
+      "name": "hộ gia đình, cá nhân"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_truoc_1980",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân sử dụng đất trước ngày 18 tháng 12 năm 1980"
+    },
+    {
+      "id": "chuthe_nguoi_sd_dat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1980_1993",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân sử dụng đất từ ngày 18 tháng 12 năm 1980 đến trước ngày 15 tháng 10 năm 1993"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1993_2014",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân sử dụng đất từ ngày 15 tháng 10 năm 1993 đến trước ngày 01 tháng 7 năm 2014"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan_dt_giao_dat_nn_theo_dieu_118",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân thuộc đối tượng được giao đất nông nghiệp theo quy định tại khoản 1 Điều 118 của Luật này"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_on_dinh_dat_nn",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân đang sử dụng đất ổn định vào mục đích thuộc nhóm đất nông nghiệp"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_theo_khoan_1_6_dieu_138",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân đang sử dụng đất trong các trường hợp quy định tại các khoản 1, 2, 3, 4, 5 và 6 Điều này"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "label": "HànhViPhápLý",
+      "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "hanhvi_cong_nhan_dt_dat_o_bang_han_muc_cong_nhan_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "diện tích đất ở được công nhận bằng hạn mức công nhận đất ở"
+    },
+    {
+      "id": "hanhvi_cong_nhan_dt_dat_o_theo_dt_thuc_te_xay_dung",
+      "label": "HànhViPhápLý",
+      "name": "diện tích đất ở được công nhận theo diện tích thực tế đã xây dựng nhà ở, nhà ở và công trình phục vụ đời sống đó"
+    },
+    {
+      "id": "hanhvi_nop_tien_sd_dat_dt_vuot_han_muc_cong_nhan_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "nộp tiền sử dụng đất đối với diện tích vượt hạn mức công nhận đất ở"
+    },
+    {
+      "id": "hanhvi_xac_dinh_dt_dat_o_la_toan_bo_thua_dat",
+      "label": "HànhViPhápLý",
+      "name": "diện tích đất ở được xác định là toàn bộ diện tích thửa đất đó"
+    },
+    {
+      "id": "hanhvi_cong_nhan_dat_cs_sxkd_pnnp_tmdv_theo_dt_thuc_te",
+      "label": "HànhViPhápLý",
+      "name": "công nhận đất cơ sở sản xuất phi nông nghiệp, đất thương mại, dịch vụ theo diện tích thực tế đã sử dụng"
+    },
+    {
+      "id": "hanhvi_xac_dinh_theo_hien_trang_sd_dat",
+      "label": "HànhViPhápLý",
+      "name": "được xác định theo hiện trạng sử dụng đất"
+    },
+    {
+      "id": "hanhvi_cong_nhan_theo_qd_diem_c_khoan1",
+      "label": "HànhViPhápLý",
+      "name": "được công nhận theo quy định tại điểm c khoản 1 Điều này"
+    },
+    {
+      "id": "hanhvi_cong_nhan_hinh_thuc_nha_nuoc_giao_dat_khong_thu_tien",
+      "label": "HànhViPhápLý",
+      "name": "được công nhận theo hình thức Nhà nước giao đất không thu tiền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_cong_nhan_vao_muc_dich_phi_nong_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "được công nhận vào mục đích đất phi nông nghiệp"
+    },
+    {
+      "id": "hanhvi_nop_tien_sd_dat_theo_qd_phap_luat",
+      "label": "HànhViPhápLý",
+      "name": "phải nộp tiền sử dụng đất theo quy định của pháp luật"
+    },
+    {
+      "id": "hanhvi_cong_nhan_dt_dat_o_bang_han_muc_giao_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "diện tích đất ở được công nhận bằng hạn mức giao đất ở"
+    },
+    {
+      "id": "hanhvi_toan_bo_thua_dat_duoc_cong_nhan_la_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "toàn bộ diện tích thửa đất được công nhận là đất ở"
+    },
+    {
+      "id": "hanhvi_thuc_hien_nghia_vu_tai_chinh",
+      "label": "HànhViPhápLý",
+      "name": "phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật"
+    },
+    {
+      "id": "hanhvi_xac_dinh_han_muc_dat_o_doi_voi_tung_thua_dat",
+      "label": "HànhViPhápLý",
+      "name": "hạn mức đất ở được xác định đối với từng thửa đất đó"
+    },
+    {
+      "id": "hanhvi_xac_dinh_dt_dat_khi_cap_gcn_theo_khoan_1_4_dieu_138",
+      "label": "HànhViPhápLý",
+      "name": "Diện tích đất được xác định khi cấp Giấy chứng nhận... thực hiện theo quy định tại các khoản 1, 2, 3 và 4 Điều này"
+    },
+    {
+      "id": "hanhvi_cap_gcn_hinh_thuc_nha_nuoc_giao_dat_khong_thu_tien_sd_dat",
+      "label": "HànhViPhápLý",
+      "name": "được cấp Giấy chứng nhận... theo hình thức Nhà nước giao đất không thu tiền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_dt_dat_nn_con_lai_chuyen_sang_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "diện tích đất nông nghiệp còn lại (nếu có) phải chuyển sang thuê đất của Nhà nước"
+    },
+    {
+      "id": "hanhvi_ap_dung_qd_han_muc_dat_o_dia_phuong_de_xac_dinh_dt_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "Việc áp dụng quy định về hạn mức đất ở của địa phương để xác định diện tích đất ở"
+    },
+    {
+      "id": "hanhvi_tam_thoi_sd_dat_theo_hien_trang",
+      "label": "HànhViPhápLý",
+      "name": "tạm thời sử dụng đất theo hiện trạng"
+    },
+    {
+      "id": "hanhvi_ke_khai_dang_ky_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "kê khai đăng ký đất đai theo quy định"
+    },
+    {
+      "id": "hanhvi_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết Điều này"
+    },
+    {
+      "id": "dieukien_sd_dat_khong_co_giay_to_ve_qsd_dat",
+      "label": "ĐiềuKiện",
+      "name": "đang sử dụng đất không có giấy tờ về quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_khong_vi_pham_pl_ve_dat_dai",
+      "label": "ĐiềuKiện",
+      "name": "không vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "dieukien_khong_thuoc_dat_giao_khong_dung_tham_quyen",
+      "label": "ĐiềuKiện",
+      "name": "không thuộc trường hợp đất được giao không đúng thẩm quyền"
+    },
+    {
+      "id": "dieukien_sd_dat_on_dinh",
+      "label": "ĐiềuKiện",
+      "name": "đang sử dụng đất ổn định"
+    },
+    {
+      "id": "dieukien_khong_thuoc_truong_hop_qd_dieu_139_140",
+      "label": "ĐiềuKiện",
+      "name": "không thuộc trường hợp quy định tại Điều 139 và Điều 140"
+    },
+    {
+      "id": "dieukien_ubnd_xac_nhan_khong_tranh_chap",
+      "label": "ĐiềuKiện",
+      "name": "Ủy ban nhân dân cấp xã nơi có đất xác nhận không có tranh chấp"
+    },
+    {
+      "id": "dieukien_dt_thua_dat_bang_hoac_lon_hon_han_muc_cong_nhan_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "diện tích thửa đất bằng hoặc lớn hơn hạn mức công nhận đất ở"
+    },
+    {
+      "id": "dieukien_khong_phai_nop_tien_sd_dat",
+      "label": "ĐiềuKiện",
+      "name": "không phải nộp tiền sử dụng đất"
+    },
+    {
+      "id": "dieukien_dt_dat_da_xay_dung_nha_o_lon_hon_han_muc_cong_nhan_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "diện tích đất đã xây dựng nhà ở, nhà ở và công trình phục vụ đời sống lớn hơn hạn mức công nhận đất ở"
+    },
+    {
+      "id": "dieukien_dt_thua_dat_nho_hon_han_muc_cong_nhan_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "diện tích thửa đất nhỏ hơn hạn mức công nhận đất ở"
+    },
+    {
+      "id": "dieukien_hien_trang_sd_dat_phi_nn_khong_phai_la_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "hiện trạng sử dụng là đất phi nông nghiệp không phải là đất ở"
+    },
+    {
+      "id": "dieukien_hien_trang_sd_dat_nong_nghiep",
+      "label": "ĐiềuKiện",
+      "name": "hiện trạng sử dụng là đất nông nghiệp"
+    },
+    {
+      "id": "dieukien_co_nhu_cau_cong_nhan_muc_dich_phi_nong_nghiep",
+      "label": "ĐiềuKiện",
+      "name": "có nhu cầu công nhận vào mục đích đất phi nông nghiệp"
+    },
+    {
+      "id": "dieukien_phu_hop_quy_hoach_sd_dat_cap_huyen_chung_phan_khu_xd_nong_thon",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với quy hoạch sử dụng đất cấp huyện hoặc quy hoạch chung hoặc quy hoạch phân khu hoặc quy hoạch xây dựng hoặc quy hoạch nông thôn"
+    },
+    {
+      "id": "dieukien_dt_thua_dat_bang_hoac_lon_hon_han_muc_giao_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "diện tích thửa đất bằng hoặc lớn hơn hạn mức giao đất ở"
+    },
+    {
+      "id": "dieukien_dt_dat_da_xay_dung_nha_o_lon_hon_han_muc_giao_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "diện tích đất đã xây dựng nhà ở, nhà ở và công trình phục vụ đời sống lớn hơn hạn mức giao đất ở"
+    },
+    {
+      "id": "dieukien_dt_thua_dat_nho_hon_han_muc_giao_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "diện tích thửa đất nhỏ hơn hạn mức giao đất ở"
+    },
+    {
+      "id": "dieukien_nguoi_sd_dat_duoc_cap_gcn_theo_khoan3",
+      "label": "ĐiềuKiện",
+      "name": "Người sử dụng đất được cấp Giấy chứng nhận... quy định tại khoản này"
+    },
+    {
+      "id": "dieukien_thua_dat_nhieu_ho_gd_ca_nhan_sd_chung",
+      "label": "ĐiềuKiện",
+      "name": "thửa đất có nhiều hộ gia đình, cá nhân sử dụng chung"
+    },
+    {
+      "id": "dieukien_mot_ho_gd_ca_nhan_sd_nhieu_thua_dat_co_nha_o",
+      "label": "ĐiềuKiện",
+      "name": "một hộ gia đình, cá nhân sử dụng nhiều thửa đất có nhà ở, nhà ở và công trình phục vụ đời sống"
+    },
+    {
+      "id": "dieukien_ubnd_xac_nhan_sd_dat_on_dinh_truoc_1993",
+      "label": "ĐiềuKiện",
+      "name": "Ủy ban nhân dân cấp xã nơi có đất xác nhận đã sử dụng đất ổn định từ trước ngày 15 tháng 10 năm 1993"
+    },
+    {
+      "id": "dieukien_da_sd_dat_o_dat_pnnp_truoc_2014",
+      "label": "ĐiềuKiện",
+      "name": "đã sử dụng đất ở, đất phi nông nghiệp trước ngày 01 tháng 7 năm 2014"
+    },
+    {
+      "id": "dieukien_khong_co_giay_to_dieu137",
+      "label": "ĐiềuKiện",
+      "name": "không có các giấy tờ quy định tại Điều 137"
+    },
+    {
+      "id": "dieukien_co_dktt_vung_kinh_te_xh_kho_khan_db_kho_khan",
+      "label": "ĐiềuKiện",
+      "name": "có đăng ký thường trú tại địa phương thuộc vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn"
+    },
+    {
+      "id": "dieukien_dt_sd_khong_vuot_han_muc_giao_dat_nong_nghiep",
+      "label": "ĐiềuKiện",
+      "name": "diện tích đất đang sử dụng nhưng không vượt quá hạn mức giao đất nông nghiệp cho cá nhân"
+    },
+    {
+      "id": "dieukien_ap_dung_qd_pl_tai_thoi_diem_nophoso",
+      "label": "ĐiềuKiện",
+      "name": "quy định của pháp luật tại thời điểm người sử dụng đất nộp hồ sơ"
+    },
+    {
+      "id": "dieukien_khong_du_dk_cap_gcn",
+      "label": "ĐiềuKiện",
+      "name": "không đủ điều kiện được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieukien_da_dang_ky_du_dk_theo_dieu_138",
+      "label": "ĐiềuKiện",
+      "name": "đã đăng ký và đủ điều kiện theo quy định tại Điều này"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sd_dat_khong_co_giay_to_ve_qsd_dat"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_vi_pham_pl_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_thuoc_dat_giao_khong_dung_tham_quyen"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sd_dat_on_dinh"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_giay_to_qsd_dat_dieu_137"
+    },
+    {
+      "source_id": "dieu_137",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_giay_to_qsd_dat_dieu_137"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_thuoc_truong_hop_qd_dieu_139_140"
+    },
+    {
+      "source_id": "dieukien_khong_thuoc_truong_hop_qd_dieu_139_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_139"
+    },
+    {
+      "source_id": "dieukien_khong_thuoc_truong_hop_qd_dieu_139_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_140"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_truoc_1980"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_truoc_1980",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ubnd_xac_nhan_khong_tranh_chap"
+    },
+    {
+      "source_id": "dieukien_ubnd_xac_nhan_khong_tranh_chap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_truoc_1980"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_truoc_1980",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_thua_dat_co_nha_o_cong_trinh_pv_doi_song"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_truoc_1980",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_thua_dat_bang_hoac_lon_hon_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "dieukien_dt_thua_dat_bang_hoac_lon_hon_han_muc_cong_nhan_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cong_nhan_dt_dat_o_bang_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "hanhvi_cong_nhan_dt_dat_o_bang_han_muc_cong_nhan_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_khong_phai_nop_tien_sd_dat"
+    },
+    {
+      "source_id": "khaikiem_han_muc_cong_nhan_dat_o",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan5_dieu_141"
+    },
+    {
+      "source_id": "dieu_141",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan5_dieu_141"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_truoc_1980",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_dat_da_xay_dung_nha_o_lon_hon_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "dieukien_dt_dat_da_xay_dung_nha_o_lon_hon_han_muc_cong_nhan_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cong_nhan_dt_dat_o_theo_dt_thuc_te_xay_dung"
+    },
+    {
+      "source_id": "hanhvi_cong_nhan_dt_dat_o_theo_dt_thuc_te_xay_dung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_nop_tien_sd_dat_dt_vuot_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "hanhvi_nop_tien_sd_dat_dt_vuot_han_muc_cong_nhan_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_sd_dat"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_truoc_1980",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_thua_dat_nho_hon_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "dieukien_dt_thua_dat_nho_hon_han_muc_cong_nhan_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_xac_dinh_dt_dat_o_la_toan_bo_thua_dat"
+    },
+    {
+      "source_id": "hanhvi_xac_dinh_dt_dat_o_la_toan_bo_thua_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_khong_phai_nop_tien_sd_dat"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_truoc_1980",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_thua_dat_sxkd_phi_nong_nghiep_thuong_mai_dich_vu"
+    },
+    {
+      "source_id": "khaikiem_thua_dat_sxkd_phi_nong_nghiep_thuong_mai_dich_vu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cong_nhan_dat_cs_sxkd_pnnp_tmdv_theo_dt_thuc_te"
+    },
+    {
+      "source_id": "hanhvi_cong_nhan_dat_cs_sxkd_pnnp_tmdv_theo_dt_thuc_te",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_hinh_thuc_sd_dat_giao_dat_co_thu_tien"
+    },
+    {
+      "source_id": "hanhvi_cong_nhan_dat_cs_sxkd_pnnp_tmdv_theo_dt_thuc_te",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_thoi_han_sd_dat_on_dinh_lau_dai"
+    },
+    {
+      "source_id": "khaikiem_phan_dien_tich_dat_con_lai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_xac_dinh_theo_hien_trang_sd_dat"
+    },
+    {
+      "source_id": "dieukien_hien_trang_sd_dat_phi_nn_khong_phai_la_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cong_nhan_theo_qd_diem_c_khoan1"
+    },
+    {
+      "source_id": "hanhvi_cong_nhan_theo_qd_diem_c_khoan1",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cong_nhan_dat_cs_sxkd_pnnp_tmdv_theo_dt_thuc_te"
+    },
+    {
+      "source_id": "dieukien_hien_trang_sd_dat_nong_nghiep",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cong_nhan_hinh_thuc_nha_nuoc_giao_dat_khong_thu_tien"
+    },
+    {
+      "source_id": "chuthe_nguoi_sd_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_nhu_cau_cong_nhan_muc_dich_phi_nong_nghiep"
+    },
+    {
+      "source_id": "dieukien_co_nhu_cau_cong_nhan_muc_dich_phi_nong_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_quy_hoach_sd_dat_cap_huyen_chung_phan_khu_xd_nong_thon"
+    },
+    {
+      "source_id": "dieukien_phu_hop_quy_hoach_sd_dat_cap_huyen_chung_phan_khu_xd_nong_thon",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cong_nhan_vao_muc_dich_phi_nong_nghiep"
+    },
+    {
+      "source_id": "hanhvi_cong_nhan_vao_muc_dich_phi_nong_nghiep",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_nop_tien_sd_dat_theo_qd_phap_luat"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1980_1993"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1980_1993",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ubnd_xac_nhan_khong_tranh_chap"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1980_1993",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_thua_dat_co_nha_o_cong_trinh_pv_doi_song"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1980_1993",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_thua_dat_bang_hoac_lon_hon_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1980_1993",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_dat_da_xay_dung_nha_o_lon_hon_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1980_1993",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_thua_dat_nho_hon_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1980_1993",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_thua_dat_sxkd_phi_nong_nghiep_thuong_mai_dich_vu"
+    },
+    {
+      "source_id": "khaikiem_thua_dat_sxkd_phi_nong_nghiep_thuong_mai_dich_vu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cong_nhan_theo_qd_diem_c_khoan1"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1993_2014"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1993_2014",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ubnd_xac_nhan_khong_tranh_chap"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1993_2014",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_thua_dat_co_nha_o_cong_trinh_pv_doi_song"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1993_2014",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_thua_dat_bang_hoac_lon_hon_han_muc_giao_dat_o"
+    },
+    {
+      "source_id": "dieukien_dt_thua_dat_bang_hoac_lon_hon_han_muc_giao_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cong_nhan_dt_dat_o_bang_han_muc_giao_dat_o"
+    },
+    {
+      "source_id": "khaikiem_han_muc_giao_dat_o",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan2_dieu_195_va_khoan2_dieu_196"
+    },
+    {
+      "source_id": "dieu_195",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan2_dieu_195_va_khoan2_dieu_196"
+    },
+    {
+      "source_id": "dieu_196",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan2_dieu_195_va_khoan2_dieu_196"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1993_2014",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_dat_da_xay_dung_nha_o_lon_hon_han_muc_giao_dat_o"
+    },
+    {
+      "source_id": "dieukien_dt_dat_da_xay_dung_nha_o_lon_hon_han_muc_giao_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cong_nhan_dt_dat_o_theo_dt_thuc_te_xay_dung"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1993_2014",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_thua_dat_nho_hon_han_muc_giao_dat_o"
+    },
+    {
+      "source_id": "dieukien_dt_thua_dat_nho_hon_han_muc_giao_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_toan_bo_thua_dat_duoc_cong_nhan_la_dat_o"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_1993_2014",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_thua_dat_sxkd_phi_nong_nghiep_thuong_mai_dich_vu"
+    },
+    {
+      "source_id": "dieukien_nguoi_sd_dat_duoc_cap_gcn_theo_khoan3",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuc_hien_nghia_vu_tai_chinh"
+    },
+    {
+      "source_id": "hanhvi_thuc_hien_nghia_vu_tai_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_sd_dat"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_thua_dat_nhieu_ho_gd_ca_nhan_sd_chung"
+    },
+    {
+      "source_id": "dieukien_thua_dat_nhieu_ho_gd_ca_nhan_sd_chung",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_tong_han_muc_dat_o_cac_ho_gd_ca_nhan"
+    },
+    {
+      "source_id": "khaikiem_tong_han_muc_dat_o_cac_ho_gd_ca_nhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_han_muc_dat_o_khoan_1_2_3_dieu_138"
+    },
+    {
+      "source_id": "khaikiem_han_muc_dat_o_khoan_1_2_3_dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan1_dieu_138"
+    },
+    {
+      "source_id": "khaikiem_han_muc_dat_o_khoan_1_2_3_dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan2_dieu_138"
+    },
+    {
+      "source_id": "khaikiem_han_muc_dat_o_khoan_1_2_3_dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan3_dieu_138"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_mot_ho_gd_ca_nhan_sd_nhieu_thua_dat_co_nha_o"
+    },
+    {
+      "source_id": "dieukien_mot_ho_gd_ca_nhan_sd_nhieu_thua_dat_co_nha_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ubnd_xac_nhan_sd_dat_on_dinh_truoc_1993"
+    },
+    {
+      "source_id": "dieukien_ubnd_xac_nhan_sd_dat_on_dinh_truoc_1993",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_xac_dinh_han_muc_dat_o_doi_voi_tung_thua_dat"
+    },
+    {
+      "source_id": "hanhvi_xac_dinh_han_muc_dat_o_doi_voi_tung_thua_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan1_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_xac_dinh_han_muc_dat_o_doi_voi_tung_thua_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan2_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_xac_dinh_han_muc_dat_o_doi_voi_tung_thua_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan3_dieu_138"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_dt_giao_dat_nn_theo_dieu_118"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_dt_giao_dat_nn_theo_dieu_118",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_da_sd_dat_o_dat_pnnp_truoc_2014"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_dt_giao_dat_nn_theo_dieu_118",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_co_giay_to_dieu137"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_dt_giao_dat_nn_theo_dieu_118",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_dktt_vung_kinh_te_xh_kho_khan_db_kho_khan"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_dt_giao_dat_nn_theo_dieu_118",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ubnd_xac_nhan_khong_tranh_chap"
+    },
+    {
+      "source_id": "dieukien_ubnd_xac_nhan_khong_tranh_chap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_khong_phai_nop_tien_sd_dat"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_qsd_dat_qsh_ts_gan_lien_voi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_xac_dinh_dt_dat_khi_cap_gcn_theo_khoan_1_4_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_xac_dinh_dt_dat_khi_cap_gcn_theo_khoan_1_4_dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan1_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_xac_dinh_dt_dat_khi_cap_gcn_theo_khoan_1_4_dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan2_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_xac_dinh_dt_dat_khi_cap_gcn_theo_khoan_1_4_dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan3_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_xac_dinh_dt_dat_khi_cap_gcn_theo_khoan_1_4_dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khoan4_dieu_138"
+    },
+    {
+      "source_id": "dieu_118",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_dt_giao_dat_nn_theo_dieu_118"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_on_dinh_dat_nn"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_on_dinh_dat_nn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ubnd_xac_nhan_khong_tranh_chap"
+    },
+    {
+      "source_id": "dieukien_ubnd_xac_nhan_khong_tranh_chap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cap_gcn_hinh_thuc_nha_nuoc_giao_dat_khong_thu_tien_sd_dat"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_hinh_thuc_nha_nuoc_giao_dat_khong_thu_tien_sd_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dt_sd_khong_vuot_han_muc_giao_dat_nong_nghiep"
+    },
+    {
+      "source_id": "khaikiem_han_muc_giao_dat_nong_nghiep_cho_ca_nhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_176"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_hinh_thuc_nha_nuoc_giao_dat_khong_thu_tien_sd_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_thoi_han_sd_dat_tinh_tu_ngay_cap_gcn"
+    },
+    {
+      "source_id": "hanhvi_cap_gcn_hinh_thuc_nha_nuoc_giao_dat_khong_thu_tien_sd_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_dt_dat_nn_con_lai_chuyen_sang_thue_dat"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_ap_dung_qd_han_muc_dat_o_dia_phuong_de_xac_dinh_dt_dat_o"
+    },
+    {
+      "source_id": "hanhvi_ap_dung_qd_han_muc_dat_o_dia_phuong_de_xac_dinh_dt_dat_o",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_han_muc_dat_o_dia_phuong"
+    },
+    {
+      "source_id": "hanhvi_ap_dung_qd_han_muc_dat_o_dia_phuong_de_xac_dinh_dt_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_khoan1_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_ap_dung_qd_han_muc_dat_o_dia_phuong_de_xac_dinh_dt_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_khoan2_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_ap_dung_qd_han_muc_dat_o_dia_phuong_de_xac_dinh_dt_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_khoan3_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_ap_dung_qd_han_muc_dat_o_dia_phuong_de_xac_dinh_dt_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_khoan4_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_ap_dung_qd_han_muc_dat_o_dia_phuong_de_xac_dinh_dt_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_khoan5_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_ap_dung_qd_han_muc_dat_o_dia_phuong_de_xac_dinh_dt_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ap_dung_qd_pl_tai_thoi_diem_nophoso"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_theo_khoan_1_6_dieu_138"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_theo_khoan_1_6_dieu_138",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_du_dk_cap_gcn"
+    },
+    {
+      "source_id": "dieukien_khong_du_dk_cap_gcn",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_tam_thoi_sd_dat_theo_hien_trang"
+    },
+    {
+      "source_id": "hanhvi_tam_thoi_sd_dat_theo_hien_trang",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_ke_khai_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhvi_tam_thoi_sd_dat_theo_hien_trang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_theo_khoan_1_6_dieu_138"
+    },
+    {
+      "source_id": "hanhvi_ke_khai_dang_ky_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_sd_dat_theo_khoan_1_6_dieu_138"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_trach_nhiem_cap_gcn"
+    },
+    {
+      "source_id": "khaikiem_trach_nhiem_cap_gcn",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "khaikiem_trach_nhiem_cap_gcn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_da_dang_ky_du_dk_theo_dieu_138"
+    },
+    {
+      "source_id": "dieukien_da_dang_ky_du_dk_theo_dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_138"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhvi_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinh_phu"
+    },
+    {
+      "source_id": "dieukien_ubnd_xac_nhan_khong_tranh_chap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa"
+    }
+  ]
+}

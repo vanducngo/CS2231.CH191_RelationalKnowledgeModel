@@ -1,0 +1,206 @@
+{
+  "entities": [
+    {
+      "id": "dieu_5",
+      "label": "ĐiềuLuật",
+      "name": "Điều 5"
+    },
+    {
+      "id": "khaikiem_nguoisudungdat",
+      "label": "KháiNiệm",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chuthe_hogiadinhcanhan",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân"
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChủThể",
+      "name": "Cộng đồng dân cư"
+    },
+    {
+      "id": "chuthe_cosotongiao",
+      "label": "ChủThể",
+      "name": "Cơ sở tôn giáo"
+    },
+    {
+      "id": "chuthe_tochucnuocngoai_cochucnangngoaigiao",
+      "label": "ChủThể",
+      "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChủThể",
+      "name": "Người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondaubunuocngoai",
+      "label": "ChủThể",
+      "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất"
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_nhanchuyenquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "nhận chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_theoquydinhcualanluatnay",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của Luật này"
+    },
+    {
+      "id": "dieukien_tochuc_theoquydinhphapluatvedansu",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật về dân sự"
+    },
+    {
+      "id": "dieukien_congdongdancu_sinhsongcungdiaban_cungphongtuc",
+      "label": "ĐiềuKiện",
+      "name": "sinh sống trên cùng địa bàn thôn, làng, ấp, bản, buôn, phum, sóc, tổ dân phố và điểm dân cư tương tự có cùng phong tục, tập quán hoặc có chung dòng họ"
+    },
+    {
+      "id": "dieukien_tochucnuocngoai_duocchinhphuvietnamthuanhan",
+      "label": "ĐiềuKiện",
+      "name": "được Chính phủ Việt Nam thừa nhận"
+    },
+    {
+      "id": "dieukien_nguoivietnamdinhcuonuocngoai_theoquydinhphapluatvequoctich",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật về quốc tịch"
+    },
+    {
+      "id": "dieukien_doanhnghiepcovondaubu_theoquydinhphapluatvedaubu",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật về đầu tư"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_5",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_nguoisudungdat"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giaodat"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chothuedat"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_congnhanquyensudungdat"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhanchuyenquyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhcualanluatnay"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhcualanluatnay"
+    },
+    {
+      "source_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhcualanluatnay"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyenquyensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhcualanluatnay"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tochuc_theoquydinhphapluatvedansu"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_hogiadinhcanhan"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_congdongdancu"
+    },
+    {
+      "source_id": "chuthe_congdongdancu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_congdongdancu_sinhsongcungdiaban_cungphongtuc"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_cosotongiao"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_tochucnuocngoai_cochucnangngoaigiao"
+    },
+    {
+      "source_id": "chuthe_tochucnuocngoai_cochucnangngoaigiao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tochucnuocngoai_duocchinhphuvietnamthuanhan"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai"
+    },
+    {
+      "source_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguoivietnamdinhcuonuocngoai_theoquydinhphapluatvequoctich"
+    },
+    {
+      "source_id": "khaikiem_nguoisudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_doanhnghiepcovondaubunuocngoai"
+    },
+    {
+      "source_id": "chuthe_doanhnghiepcovondaubunuocngoai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_doanhnghiepcovondaubu_theoquydinhphapluatvedaubu"
+    }
+  ]
+}

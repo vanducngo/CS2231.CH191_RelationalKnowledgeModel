@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "id": "dieu_50",
+      "label": "ĐiềuLuật",
+      "name": "Điều 50"
+    },
+    {
+      "id": "khauniem_ban_do_dia_chinh",
+      "label": "KháiNiệm",
+      "name": "Bản đồ địa chính"
+    },
+    {
+      "id": "khauniem_cong_tac_quan_ly_nha_nuoc_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "công tác quản lý nhà nước về đất đai"
+    },
+    {
+      "id": "hanhviphaply_xay_dung_csdl_quoc_gia_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "xây dựng cơ sở dữ liệu quốc gia về đất đai"
+    },
+    {
+      "id": "hanhviphaply_do_dac_lap_ban_do_dia_chinh",
+      "label": "HànhViPhápLý",
+      "name": "đo đạc lập bản đồ địa chính"
+    },
+    {
+      "id": "khauniem_thua_dat",
+      "label": "KháiNiệm",
+      "name": "thửa đất"
+    },
+    {
+      "id": "khauniem_don_vi_hanh_chinh_cap_xa",
+      "label": "KháiNiệm",
+      "name": "đơn vị hành chính cấp xã"
+    },
+    {
+      "id": "khauniem_don_vi_hanh_chinh_cap_huyen",
+      "label": "KháiNiệm",
+      "name": "đơn vị hành chính cấp huyện"
+    },
+    {
+      "id": "hanhviphaply_chinh_ly_ban_do_dia_chinh",
+      "label": "HànhViPhápLý",
+      "name": "chỉnh lý bản đồ địa chính"
+    },
+    {
+      "id": "dieukien_thay_doi_thong_tin_lien_quan_ban_do_dia_chinh",
+      "label": "ĐiềuKiện",
+      "name": "có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính"
+    },
+    {
+      "id": "hanhviphaply_cap_nhat_csdl_quoc_gia",
+      "label": "HànhViPhápLý",
+      "name": "cập nhật vào cơ sở dữ liệu quốc gia về đất đai"
+    },
+    {
+      "id": "khauniem_co_so_du_lieu_quoc_gia_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "cơ sở dữ liệu quốc gia về đất đai"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_ban_do_dia_chinh",
+      "label": "HànhViPhápLý",
+      "name": "quản lý bản đồ địa chính"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_50",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_ban_do_dia_chinh"
+    },
+    {
+      "source_id": "khauniem_ban_do_dia_chinh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_cong_tac_quan_ly_nha_nuoc_ve_dat_dai"
+    },
+    {
+      "source_id": "khauniem_ban_do_dia_chinh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_xay_dung_csdl_quoc_gia_ve_dat_dai"
+    },
+    {
+      "source_id": "dieu_50",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_do_dac_lap_ban_do_dia_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_do_dac_lap_ban_do_dia_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_do_dac_lap_ban_do_dia_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_don_vi_hanh_chinh_cap_xa"
+    },
+    {
+      "source_id": "hanhviphaply_do_dac_lap_ban_do_dia_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_don_vi_hanh_chinh_cap_huyen"
+    },
+    {
+      "source_id": "dieu_50",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chinh_ly_ban_do_dia_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_chinh_ly_ban_do_dia_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thay_doi_thong_tin_lien_quan_ban_do_dia_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_chinh_ly_ban_do_dia_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cap_nhat_csdl_quoc_gia"
+    },
+    {
+      "source_id": "hanhviphaply_cap_nhat_csdl_quoc_gia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_co_so_du_lieu_quoc_gia_ve_dat_dai"
+    },
+    {
+      "source_id": "dieu_50",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_do_dac_lap_ban_do_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chinh_ly_ban_do_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_ban_do_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cap_nhat_csdl_quoc_gia"
+    },
+    {
+      "source_id": "dieu_50",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinh_phu"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_50"
+    }
+  ]
+}

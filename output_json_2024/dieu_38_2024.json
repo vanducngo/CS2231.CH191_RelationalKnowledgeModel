@@ -1,0 +1,116 @@
+{
+  "entities": [
+    {
+      "id": "dieu_38",
+      "label": "ĐiềuLuật",
+      "name": "Điều 38. Quyền và nghĩa vụ của cá nhân chuyển mục đích sử dụng đất từ đất không thu tiền sử dụng đất sang đất có thu tiền sử dụng đất hoặc thuê đất"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển mục đích sử dụng đất từ đất không thu tiền sử dụng đất sang đất có thu tiền sử dụng đất hoặc thuê đất"
+    },
+    {
+      "id": "khainiem_quyennghiavuchung",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ chung"
+    },
+    {
+      "id": "khainiem_quyennghiavutruonghop1",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ khi được Nhà nước giao đất có thu tiền hoặc cho thuê đất trả tiền một lần"
+    },
+    {
+      "id": "khainiem_quyennghiavutruonghop2",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ khi được Nhà nước cho thuê đất trả tiền hằng năm"
+    },
+    {
+      "id": "dieukien_giaodatcothutien_thue1lan",
+      "label": "ĐiềuKiện",
+      "name": "Được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "dieukien_thuedathangnam",
+      "label": "ĐiềuKiện",
+      "name": "Được Nhà nước cho thuê đất thu tiền thuê đất hằng năm"
+    },
+    {
+      "id": "dieu_26",
+      "label": "ĐiềuLuật",
+      "name": "Điều 26 của Luật Đất đai 2024"
+    },
+    {
+      "id": "dieu_31",
+      "label": "ĐiềuLuật",
+      "name": "Điều 31 của Luật Đất đai 2024"
+    },
+    {
+      "id": "dieu_37",
+      "label": "ĐiềuLuật",
+      "name": "Điều 37 của Luật Đất đai 2024"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_38",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyennghiavuchung"
+    },
+    {
+      "source_id": "dieu_26",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyennghiavuchung"
+    },
+    {
+      "source_id": "dieu_31",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyennghiavuchung"
+    },
+    {
+      "source_id": "dieukien_giaodatcothutien_thue1lan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_quyennghiavutruonghop1"
+    },
+    {
+      "source_id": "dieukien_thuedathangnam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_quyennghiavutruonghop2"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_giaodatcothutien_thue1lan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuedathangnam"
+    },
+    {
+      "source_id": "dieu_37",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyennghiavutruonghop1"
+    },
+    {
+      "source_id": "dieu_37",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyennghiavutruonghop2"
+    }
+  ]
+}

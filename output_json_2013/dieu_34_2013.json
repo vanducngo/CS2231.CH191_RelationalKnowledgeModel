@@ -1,0 +1,381 @@
+{
+  "entities": [
+    {
+      "id": "dieu_34",
+      "label": "ĐiềuLuật",
+      "name": "Điều 34"
+    },
+    {
+      "id": "khainiem_thongke_kiemke_datdai",
+      "label": "KháiNiệm",
+      "name": "Thống kê, kiểm kê đất đai"
+    },
+    {
+      "id": "khainiem_thongke_kiemke_datdai_dinhky",
+      "label": "KháiNiệm",
+      "name": "Thống kê, kiểm kê đất đai theo định kỳ"
+    },
+    {
+      "id": "khainiem_kiemke_datdai_chuyende",
+      "label": "KháiNiệm",
+      "name": "Kiểm kê đất đai theo chuyên đề"
+    },
+    {
+      "id": "khainiem_bando_hientrang_sudung_dat",
+      "label": "KháiNiệm",
+      "name": "Bản đồ hiện trạng sử dụng đất"
+    },
+    {
+      "id": "chuthe_thutuong_chinhphu",
+      "label": "ChủThể",
+      "name": "Thủ tướng Chính phủ"
+    },
+    {
+      "id": "chuthe_botruong_btnmt",
+      "label": "ChủThể",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_ubnd_caccap",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân các cấp"
+    },
+    {
+      "id": "chuthe_ubnd_capxa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_ubnd_caphuyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_ubnd_captinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_botnmt",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_bo_quocphong",
+      "label": "ChủThể",
+      "name": "Bộ Quốc phòng"
+    },
+    {
+      "id": "chuthe_bo_congan",
+      "label": "ChủThể",
+      "name": "Bộ Công an"
+    },
+    {
+      "id": "chuthe_ubnd_captrentructiep",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp trên trực tiếp"
+    },
+    {
+      "id": "hanhvi_thongke_datdai",
+      "label": "HànhViPhápLý",
+      "name": "Thống kê đất đai"
+    },
+    {
+      "id": "hanhvi_kiemke_datdai",
+      "label": "HànhViPhápLý",
+      "name": "Kiểm kê đất đai"
+    },
+    {
+      "id": "hanhvi_lap_bando_hientrang_sudung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Lập bản đồ hiện trạng sử dụng đất"
+    },
+    {
+      "id": "hanhvi_tochuc_thuchien_thongke_kiemke_lapbando",
+      "label": "HànhViPhápLý",
+      "name": "Tổ chức thực hiện thống kê, kiểm kê đất đai, lập bản đồ hiện trạng sử dụng đất"
+    },
+    {
+      "id": "hanhvi_baocao",
+      "label": "HànhViPhápLý",
+      "name": "Báo cáo"
+    },
+    {
+      "id": "hanhvi_chutri_phoihop_thuchien_thongke_kiemke_datquocphong_anninh",
+      "label": "HànhViPhápLý",
+      "name": "Chủ trì, phối hợp thực hiện thống kê, kiểm kê đất quốc phòng, an ninh"
+    },
+    {
+      "id": "hanhvi_guibaocao_ketqua_datquocphong_anninh",
+      "label": "HànhViPhápLý",
+      "name": "Gửi báo cáo kết quả đất quốc phòng, an ninh"
+    },
+    {
+      "id": "hanhvi_tonghop_baocao",
+      "label": "HànhViPhápLý",
+      "name": "Tổng hợp báo cáo"
+    },
+    {
+      "id": "hanhvi_congbo_ketqua",
+      "label": "HànhViPhápLý",
+      "name": "Công bố kết quả"
+    },
+    {
+      "id": "hanhvi_quydinh_chitiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    },
+    {
+      "id": "dieukien_theodonvi_hanhchinh_capxa",
+      "label": "ĐiềuKiện",
+      "name": "Theo đơn vị hành chính xã, phường, thị trấn"
+    },
+    {
+      "id": "dieukien_thongke_moinam_motlan",
+      "label": "ĐiềuKiện",
+      "name": "Mỗi năm một lần (thống kê)"
+    },
+    {
+      "id": "dieukien_kiemke_05nam_motlan",
+      "label": "ĐiềuKiện",
+      "name": "05 năm một lần (kiểm kê)"
+    },
+    {
+      "id": "dieukien_tunam_kiemke",
+      "label": "ĐiềuKiện",
+      "name": "Trừ năm thực hiện kiểm kê đất đai"
+    },
+    {
+      "id": "dieukien_lapbando_05nam_motlan",
+      "label": "ĐiềuKiện",
+      "name": "05 năm một lần (lập bản đồ)"
+    },
+    {
+      "id": "dieukien_ganvo_kiemke_datdai",
+      "label": "ĐiềuKiện",
+      "name": "Gắn với việc kiểm kê đất đai"
+    },
+    {
+      "id": "dieukien_phucvu_quanly_nhanuoc",
+      "label": "ĐiềuKiện",
+      "name": "Để phục vụ yêu cầu quản lý nhà nước"
+    },
+    {
+      "id": "dieukien_theo_quyetdinh_thutuong_chinhphu",
+      "label": "ĐiềuKiện",
+      "name": "Theo quyết định của Thủ tướng Chính phủ"
+    },
+    {
+      "id": "dieukien_theo_quyetdinh_botruong_btnmt",
+      "label": "ĐiềuKiện",
+      "name": "Theo quyết định của Bộ trưởng Bộ Tài nguyên và Môi trường"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_34",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thongke_kiemke_datdai"
+    },
+    {
+      "source_id": "dieu_34",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_bando_hientrang_sudung_dat"
+    },
+    {
+      "source_id": "khainiem_thongke_kiemke_datdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_thongke_kiemke_datdai_dinhky"
+    },
+    {
+      "source_id": "khainiem_thongke_kiemke_datdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_kiemke_datdai_chuyende"
+    },
+    {
+      "source_id": "khainiem_thongke_kiemke_datdai_dinhky",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theodonvi_hanhchinh_capxa"
+    },
+    {
+      "source_id": "hanhvi_thongke_datdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thongke_moinam_motlan"
+    },
+    {
+      "source_id": "dieukien_thongke_moinam_motlan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tunam_kiemke"
+    },
+    {
+      "source_id": "hanhvi_kiemke_datdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_kiemke_05nam_motlan"
+    },
+    {
+      "source_id": "hanhvi_lap_bando_hientrang_sudung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_lapbando_05nam_motlan"
+    },
+    {
+      "source_id": "hanhvi_lap_bando_hientrang_sudung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ganvo_kiemke_datdai"
+    },
+    {
+      "source_id": "khainiem_kiemke_datdai_chuyende",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phucvu_quanly_nhanuoc"
+    },
+    {
+      "source_id": "khainiem_kiemke_datdai_chuyende",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quyetdinh_thutuong_chinhphu"
+    },
+    {
+      "source_id": "khainiem_kiemke_datdai_chuyende",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quyetdinh_botruong_btnmt"
+    },
+    {
+      "source_id": "dieukien_theo_quyetdinh_thutuong_chinhphu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_thutuong_chinhphu"
+    },
+    {
+      "source_id": "dieukien_theo_quyetdinh_botruong_btnmt",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_botruong_btnmt"
+    },
+    {
+      "source_id": "chuthe_ubnd_caccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_tochuc_thuchien_thongke_kiemke_lapbando"
+    },
+    {
+      "source_id": "hanhvi_tochuc_thuchien_thongke_kiemke_lapbando",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thongke_kiemke_datdai"
+    },
+    {
+      "source_id": "hanhvi_tochuc_thuchien_thongke_kiemke_lapbando",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_lap_bando_hientrang_sudung_dat"
+    },
+    {
+      "source_id": "chuthe_ubnd_capxa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_baocao"
+    },
+    {
+      "source_id": "chuthe_ubnd_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_baocao"
+    },
+    {
+      "source_id": "hanhvi_baocao",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_ubnd_captrentructiep"
+    },
+    {
+      "source_id": "chuthe_ubnd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_baocao"
+    },
+    {
+      "source_id": "hanhvi_baocao",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_botnmt"
+    },
+    {
+      "source_id": "hanhvi_baocao",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thongke_kiemke_datdai"
+    },
+    {
+      "source_id": "hanhvi_baocao",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_lap_bando_hientrang_sudung_dat"
+    },
+    {
+      "source_id": "chuthe_bo_quocphong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_chutri_phoihop_thuchien_thongke_kiemke_datquocphong_anninh"
+    },
+    {
+      "source_id": "chuthe_bo_congan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_chutri_phoihop_thuchien_thongke_kiemke_datquocphong_anninh"
+    },
+    {
+      "source_id": "hanhvi_chutri_phoihop_thuchien_thongke_kiemke_datquocphong_anninh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_ubnd_captinh"
+    },
+    {
+      "source_id": "chuthe_bo_quocphong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_guibaocao_ketqua_datquocphong_anninh"
+    },
+    {
+      "source_id": "chuthe_bo_congan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_guibaocao_ketqua_datquocphong_anninh"
+    },
+    {
+      "source_id": "hanhvi_guibaocao_ketqua_datquocphong_anninh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_botnmt"
+    },
+    {
+      "source_id": "hanhvi_guibaocao_ketqua_datquocphong_anninh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thongke_datdai"
+    },
+    {
+      "source_id": "hanhvi_guibaocao_ketqua_datquocphong_anninh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_kiemke_datdai"
+    },
+    {
+      "source_id": "chuthe_botnmt",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_tonghop_baocao"
+    },
+    {
+      "source_id": "hanhvi_tonghop_baocao",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_thutuong_chinhphu"
+    },
+    {
+      "source_id": "chuthe_botnmt",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_congbo_ketqua"
+    },
+    {
+      "source_id": "hanhvi_congbo_ketqua",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thongke_datdai"
+    },
+    {
+      "source_id": "hanhvi_congbo_ketqua",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_kiemke_datdai"
+    },
+    {
+      "source_id": "chuthe_botruong_btnmt",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_quydinh_chitiet"
+    },
+    {
+      "source_id": "hanhvi_quydinh_chitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thongke_kiemke_datdai"
+    },
+    {
+      "source_id": "hanhvi_quydinh_chitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_lap_bando_hientrang_sudung_dat"
+    }
+  ]
+}

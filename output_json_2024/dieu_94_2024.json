@@ -1,0 +1,272 @@
+{
+  "entities": [
+    {
+      "id": "dieu_94",
+      "label": "ĐiềuLuật",
+      "properties": {
+        "ten": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư",
+        "luat": "Luật Đất đai 2024"
+      }
+    },
+    {
+      "id": "khainiem_kinhphiboisthuonghotrotaidinhcu",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Kinh phí bồi thường, hỗ trợ, tái định cư"
+      }
+    },
+    {
+      "id": "khainiem_phuonganboisthuonghotrotaidinhcu",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Phương án bồi thường, hỗ trợ, tái định cư"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_nguoithuchienduan",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Người thực hiện dự án"
+      }
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Cơ quan có thẩm quyền"
+      }
+    },
+    {
+      "id": "chuthe_coquanthuchienboisthuong",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Cơ quan, đơn vị, tổ chức thực hiện bồi thường"
+      }
+    },
+    {
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Người có đất thu hồi"
+      }
+    },
+    {
+      "id": "chuthe_chusohuutaissan",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Chủ sở hữu tài sản"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Người sử dụng đất được bồi thường"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_chitratienboisthuong",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Chi trả tiền bồi thường, hỗ trợ, tái định cư"
+      }
+    },
+    {
+      "id": "hanhviphaply_ungtruockinhphi",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư"
+      }
+    },
+    {
+      "id": "hanhviphaply_chamchitra",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Chậm chi trả tiền bồi thường, hỗ trợ"
+      }
+    },
+    {
+      "id": "hanhviphaply_khongnhantienboisthuong",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Không nhận tiền bồi thường, hỗ trợ"
+      }
+    },
+    {
+      "id": "chetai_hoantrabangansach",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Được ngân sách nhà nước hoàn trả bằng hình thức trừ vào tiền sử dụng đất, tiền thuê đất"
+      }
+    },
+    {
+      "id": "chetai_tinhvaochiphi",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Kinh phí bồi thường, hỗ trợ, tái định cư được tính vào chi phí đầu tư của dự án"
+      }
+    },
+    {
+      "id": "chetai_thanhtoanthemkhoanchamtra",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp"
+      }
+    },
+    {
+      "id": "chetai_guivaonganhang",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Tiền bồi thường, hỗ trợ được gửi vào tài khoản tiền gửi tại ngân hàng"
+      }
+    },
+    {
+      "id": "chetai_trutiennghiavutaichinh",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Trừ khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường"
+      }
+    },
+    {
+      "id": "dieukien_phuonganduocpheduyet",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Phương án bồi thường, hỗ trợ, tái định cư được cơ quan có thẩm quyền phê duyệt"
+      }
+    },
+    {
+      "id": "dieukien_trong30ngay",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án có hiệu lực"
+      }
+    },
+    {
+      "id": "dieukien_datcotranhchap",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Đất thu hồi, tài sản đang có tranh chấp"
+      }
+    },
+    {
+      "id": "dieukien_chuathuchiennghiavutaichinh",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_94",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_kinhphiboisthuonghotrotaidinhcu"
+    },
+    {
+      "source_id": "dieu_94",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chitratienboisthuong"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_kinhphiboisthuonghotrotaidinhcu"
+    },
+    {
+      "source_id": "khainiem_kinhphiboisthuonghotrotaidinhcu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_ungtruockinhphi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuonganduocpheduyet"
+    },
+    {
+      "source_id": "hanhviphaply_ungtruockinhphi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_hoantrabangansach"
+    },
+    {
+      "source_id": "hanhviphaply_ungtruockinhphi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_tinhvaochiphi"
+    },
+    {
+      "source_id": "hanhviphaply_ungtruockinhphi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoithuchienduan"
+    },
+    {
+      "source_id": "hanhviphaply_chitratienboisthuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong30ngay"
+    },
+    {
+      "source_id": "hanhviphaply_chitratienboisthuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquanthuchienboisthuong"
+    },
+    {
+      "source_id": "hanhviphaply_chamchitra",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thanhtoanthemkhoanchamtra"
+    },
+    {
+      "source_id": "hanhviphaply_khongnhantienboisthuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_guivaonganhang"
+    },
+    {
+      "source_id": "dieukien_datcotranhchap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_guivaonganhang"
+    },
+    {
+      "source_id": "hanhviphaply_khongnhantienboisthuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoicodatthuhoi"
+    },
+    {
+      "source_id": "hanhviphaply_khongnhantienboisthuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chusohuutaissan"
+    },
+    {
+      "source_id": "dieukien_chuathuchiennghiavutaichinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_trutiennghiavutaichinh"
+    },
+    {
+      "source_id": "dieukien_chuathuchiennghiavutaichinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "dieu_94",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chinhphu"
+    }
+  ]
+}

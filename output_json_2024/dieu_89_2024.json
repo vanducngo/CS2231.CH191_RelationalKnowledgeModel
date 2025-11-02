@@ -1,0 +1,221 @@
+{
+  "entities": [
+    {
+      "id": "dieu_89",
+      "label": "ĐiềuLuật",
+      "name": "Điều 89. Cưỡng chế thực hiện quyết định thu hồi đất"
+    },
+    {
+      "id": "chetai_cuongchethuchienquyetdinhthuhoidat",
+      "label": "ChếTài",
+      "name": "Cưỡng chế thực hiện quyết định thu hồi đất"
+    },
+    {
+      "id": "dieukien_nguyentaccuongche",
+      "label": "ĐiềuKiện",
+      "name": "Các nguyên tắc khi cưỡng chế (Công khai, minh bạch, dân chủ, khách quan, an toàn, đúng pháp luật)"
+    },
+    {
+      "id": "dieukien_thoidiemcuongche",
+      "label": "ĐiềuKiện",
+      "name": "Thời điểm tiến hành cưỡng chế (Trong giờ hành chính, không vào ban đêm, ngày lễ, Tết)"
+    },
+    {
+      "id": "dieukien_thuchien_cuongche",
+      "label": "ĐiềuKiện",
+      "name": "Các điều kiện để thực hiện cưỡng chế"
+    },
+    {
+      "id": "chuthe_nguoibicuongche",
+      "label": "ChủThể",
+      "name": "Người bị cưỡng chế (Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất)"
+    },
+    {
+      "id": "chuthe_uybannhandancaphuyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_chutichuybannhandancaphuyen",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_bancuongchethuhoidat",
+      "label": "ChủThể",
+      "name": "Ban cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "chuthe_lucluongcongan",
+      "label": "ChủThể",
+      "name": "Lực lượng công an"
+    },
+    {
+      "id": "chuthe_uybannhandancapxa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_uybanmattrantoquocvietnamcaphuyen",
+      "label": "ChủThể",
+      "name": "Ủy ban Mặt trận tổ quốc Việt Nam cấp huyện"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhvi_banhanhquyetdinhcuongche",
+      "label": "HànhViPhápLý",
+      "name": "Ban hành quyết định cưỡng chế"
+    },
+    {
+      "id": "hanhvi_tochucthuchienquyetdinhcuongche",
+      "label": "HànhViPhápLý",
+      "name": "Tổ chức thực hiện quyết định cưỡng chế"
+    },
+    {
+      "id": "hanhvi_thanhlapbancuongche",
+      "label": "HànhViPhápLý",
+      "name": "Thành lập Ban cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "hanhvi_vandongthuyetphuc",
+      "label": "HànhViPhápLý",
+      "name": "Vận động, thuyết phục, đối thoại với người bị cưỡng chế"
+    },
+    {
+      "id": "hanhvi_baovetrattuantoan",
+      "label": "HànhViPhápLý",
+      "name": "Bảo vệ trật tự, an toàn trong quá trình cưỡng chế"
+    },
+    {
+      "id": "hanhvi_giamsatvieccuongche",
+      "label": "HànhViPhápLý",
+      "name": "Giám sát việc cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "hanhvi_quydinhchitiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết việc cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "khainiem_kinhphicuongche",
+      "label": "KháiNiệm",
+      "name": "Kinh phí cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "chuthe_ngansachnhanuoc",
+      "label": "ChủThể",
+      "name": "Ngân sách nhà nước"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_89",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chetai_cuongchethuchienquyetdinhthuhoidat"
+    },
+    {
+      "source_id": "chetai_cuongchethuchienquyetdinhthuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoibicuongche"
+    },
+    {
+      "source_id": "chetai_cuongchethuchienquyetdinhthuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguyentaccuongche"
+    },
+    {
+      "source_id": "chetai_cuongchethuchienquyetdinhthuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thoidiemcuongche"
+    },
+    {
+      "source_id": "chetai_cuongchethuchienquyetdinhthuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_cuongche"
+    },
+    {
+      "source_id": "hanhvi_banhanhquyetdinhcuongche",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_cuongchethuchienquyetdinhthuhoidat"
+    },
+    {
+      "source_id": "dieu_89",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chutichuybannhandancaphuyen"
+    },
+    {
+      "source_id": "chuthe_chutichuybannhandancaphuyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_banhanhquyetdinhcuongche"
+    },
+    {
+      "source_id": "chuthe_chutichuybannhandancaphuyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thanhlapbancuongche"
+    },
+    {
+      "source_id": "dieu_89",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_bancuongchethuhoidat"
+    },
+    {
+      "source_id": "chuthe_bancuongchethuhoidat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_vandongthuyetphuc"
+    },
+    {
+      "source_id": "chuthe_bancuongchethuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_giamsatvieccuongche"
+    },
+    {
+      "source_id": "hanhvi_giamsatvieccuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uybanmattrantoquocvietnamcaphuyen"
+    },
+    {
+      "source_id": "dieu_89",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_uybannhandancaphuyen"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaphuyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_tochucthuchienquyetdinhcuongche"
+    },
+    {
+      "source_id": "dieu_89",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_lucluongcongan"
+    },
+    {
+      "source_id": "hanhvi_baovetrattuantoan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_lucluongcongan"
+    },
+    {
+      "source_id": "dieu_89",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_kinhphicuongche"
+    },
+    {
+      "source_id": "khainiem_kinhphicuongche",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_ngansachnhanuoc"
+    },
+    {
+      "source_id": "dieu_89",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_quydinhchitiet"
+    },
+    {
+      "source_id": "hanhvi_quydinhchitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinhphu"
+    }
+  ]
+}

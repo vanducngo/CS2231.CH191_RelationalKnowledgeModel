@@ -1,0 +1,176 @@
+{
+  "entities": [
+    {
+      "id": "dieu_7",
+      "label": "ĐiềuLuật",
+      "name": "Điều 7"
+    },
+    {
+      "id": "khainiem_nguoichiutrachnhiemdatgiaoquanly",
+      "label": "KháiNiệm",
+      "name": "Người chịu trách nhiệm trước Nhà nước đối với đất được giao quản lý"
+    },
+    {
+      "id": "chuthe_nguoidaidiencuatochuc",
+      "label": "ChủThể",
+      "name": "Người đại diện của tổ chức"
+    },
+    {
+      "id": "chuthe_chutichubndcapxa_caphuyen",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp xã, Chủ tịch Ủy ban nhân dân cấp huyện nơi không thành lập đơn vị hành chính cấp xã"
+    },
+    {
+      "id": "chuthe_chutichubndcaptinh",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_nguoidaidiencocongdongdancu",
+      "label": "ChủThể",
+      "name": "Người đại diện cho cộng đồng dân cư"
+    },
+    {
+      "id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "label": "HànhViPhápLý",
+      "name": "chịu trách nhiệm đối với việc quản lý đất"
+    },
+    {
+      "id": "dieukien_tochuctrongnuoc_quanlycongtrinh",
+      "label": "ĐiềuKiện",
+      "name": "Tổ chức trong nước được giao quản lý công trình công cộng và hành lang bảo vệ an toàn các công trình theo quy định của pháp luật"
+    },
+    {
+      "id": "dieukien_tochuctrongnuoc_quanlydatmatnuoc",
+      "label": "ĐiềuKiện",
+      "name": "Tổ chức trong nước được giao quản lý đất có mặt nước của các sông và đất có mặt nước chuyên dùng"
+    },
+    {
+      "id": "dieukien_tochuctrongnuoc_quanlydatthuhhoi",
+      "label": "ĐiềuKiện",
+      "name": "Tổ chức trong nước được giao quản lý quỹ đất đã thu hồi theo quyết định của cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "dieukien_tochuckinhte_quanlydatduan",
+      "label": "ĐiềuKiện",
+      "name": "Tổ chức kinh tế được giao quản lý diện tích đất để thực hiện dự án đầu tư theo quy định của pháp luật"
+    },
+    {
+      "id": "dieukien_datmucdichcongcong",
+      "label": "ĐiềuKiện",
+      "name": "đất sử dụng vào mục đích công cộng được giao quản lý"
+    },
+    {
+      "id": "dieukien_datchuagiao",
+      "label": "ĐiềuKiện",
+      "name": "đất chưa giao"
+    },
+    {
+      "id": "dieukien_datchuachothue",
+      "label": "ĐiềuKiện",
+      "name": "đất chưa cho thuê tại địa phương"
+    },
+    {
+      "id": "dieukien_datchuamusudung_daotinh",
+      "label": "ĐiềuKiện",
+      "name": "đất chưa sử dụng tại các đảo chưa giao cho đơn vị hành chính cấp huyện, cấp xã quản lý"
+    },
+    {
+      "id": "dieukien_datgiaocongdongdancu",
+      "label": "ĐiềuKiện",
+      "name": "đất được giao cho cộng đồng dân cư quản lý"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_7",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_nguoichiutrachnhiemdatgiaoquanly"
+    },
+    {
+      "source_id": "dieu_7",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoidaidiencuatochuc"
+    },
+    {
+      "source_id": "chuthe_nguoidaidiencuatochuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chiutrachnhiemquanlydat"
+    },
+    {
+      "source_id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_tochuctrongnuoc_quanlycongtrinh"
+    },
+    {
+      "source_id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_tochuctrongnuoc_quanlydatmatnuoc"
+    },
+    {
+      "source_id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_tochuctrongnuoc_quanlydatthuhhoi"
+    },
+    {
+      "source_id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_tochuckinhte_quanlydatduan"
+    },
+    {
+      "source_id": "dieu_7",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chutichubndcapxa_caphuyen"
+    },
+    {
+      "source_id": "chuthe_chutichubndcapxa_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chiutrachnhiemquanlydat"
+    },
+    {
+      "source_id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_datmucdichcongcong"
+    },
+    {
+      "source_id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_datchuagiao"
+    },
+    {
+      "source_id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_datchuachothue"
+    },
+    {
+      "source_id": "dieu_7",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chutichubndcaptinh"
+    },
+    {
+      "source_id": "chuthe_chutichubndcaptinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chiutrachnhiemquanlydat"
+    },
+    {
+      "source_id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_datchuamusudung_daotinh"
+    },
+    {
+      "source_id": "dieu_7",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoidaidiencocongdongdancu"
+    },
+    {
+      "source_id": "chuthe_nguoidaidiencocongdongdancu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chiutrachnhiemquanlydat"
+    },
+    {
+      "source_id": "hanhviphaply_chiutrachnhiemquanlydat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_datgiaocongdongdancu"
+    }
+  ]
+}

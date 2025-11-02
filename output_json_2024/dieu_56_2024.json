@@ -1,0 +1,651 @@
+{
+  "entities": [
+    {
+      "id": "dieu_56",
+      "label": "ĐiềuLuật",
+      "name": "Điều 56"
+    },
+    {
+      "id": "dieu_60",
+      "label": "ĐiềuLuật",
+      "name": "Điều 60"
+    },
+    {
+      "id": "khoan_5",
+      "label": "ĐiềuLuật",
+      "name": "Khoản 5"
+    },
+    {
+      "id": "khoan_6",
+      "label": "ĐiềuLuật",
+      "name": "Khoản 6"
+    },
+    {
+      "id": "khoan_4_dieu_60",
+      "label": "ĐiềuLuật",
+      "name": "Khoản 4 Điều 60"
+    },
+    {
+      "id": "khainiem_rung_phong_ho",
+      "label": "KháiNiệm",
+      "name": "rừng phòng hộ"
+    },
+    {
+      "id": "khainiem_quy_che_quan_ly_rung",
+      "label": "KháiNiệm",
+      "name": "Quy chế quản lý rừng"
+    },
+    {
+      "id": "khainiem_phap_luat_lien_quan",
+      "label": "KháiNiệm",
+      "name": "pháp luật có liên quan"
+    },
+    {
+      "id": "khainiem_de_an_du_lich_sinh_thai_nghi_duong_giai_tri",
+      "label": "KháiNiệm",
+      "name": "đề án du lịch sinh thái, nghỉ dưỡng, giải trí"
+    },
+    {
+      "id": "khainiem_phuong_an_nuoi_trong_phat_trien_cay_duoc_lieu",
+      "label": "KháiNiệm",
+      "name": "phương án nuôi, trồng phát triển cây dược liệu"
+    },
+    {
+      "id": "khainiem_moi_truong_rung",
+      "label": "KháiNiệm",
+      "name": "môi trường rừng"
+    },
+    {
+      "id": "khainiem_muc_dich_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "mục đích sử dụng đất"
+    },
+    {
+      "id": "khainiem_phap_luat_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "pháp luật về đất đai"
+    },
+    {
+      "id": "khainiem_quyen_chu_rung",
+      "label": "KháiNiệm",
+      "name": "quyền của chủ rừng"
+    },
+    {
+      "id": "chuthe_chu_rung",
+      "label": "ChủThể",
+      "name": "Chủ rừng"
+    },
+    {
+      "id": "chuthe_co_quan_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan có thẩm quyền"
+    },
+    {
+      "id": "chuthe_to_chuc",
+      "label": "ChủThể",
+      "name": "tổ chức"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "hanhvi_nghien_cuu_khoa_hoc",
+      "label": "HànhViPhápLý",
+      "name": "hoạt động nghiên cứu khoa học"
+    },
+    {
+      "id": "hanhvi_giang_day",
+      "label": "HànhViPhápLý",
+      "name": "giảng dạy"
+    },
+    {
+      "id": "hanhvi_thuc_tap",
+      "label": "HànhViPhápLý",
+      "name": "thực tập"
+    },
+    {
+      "id": "hanhvi_du_lich_sinh_thai",
+      "label": "HànhViPhápLý",
+      "name": "du lịch sinh thái"
+    },
+    {
+      "id": "hanhvi_nghi_duong",
+      "label": "HànhViPhápLý",
+      "name": "nghỉ dưỡng"
+    },
+    {
+      "id": "hanhvi_giai_tri",
+      "label": "HànhViPhápLý",
+      "name": "giải trí"
+    },
+    {
+      "id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu",
+      "label": "HànhViPhápLý",
+      "name": "nuôi, trồng phát triển cây dược liệu"
+    },
+    {
+      "id": "hanhvi_xay_dung_cong_trinh_du_lich",
+      "label": "HànhViPhápLý",
+      "name": "xây dựng công trình phục vụ du lịch sinh thái, nghỉ dưỡng, giải trí"
+    },
+    {
+      "id": "hanhvi_tham_dinh_de_an",
+      "label": "HànhViPhápLý",
+      "name": "thẩm định đề án"
+    },
+    {
+      "id": "hanhvi_phe_duyet_de_an",
+      "label": "HànhViPhápLý",
+      "name": "phê duyệt đề án"
+    },
+    {
+      "id": "hanhvi_quan_ly_xay_dung_cong_trinh",
+      "label": "HànhViPhápLý",
+      "name": "quản lý xây dựng công trình"
+    },
+    {
+      "id": "hanhvi_xay_dung_phuong_an",
+      "label": "HànhViPhápLý",
+      "name": "xây dựng phương án"
+    },
+    {
+      "id": "hanhvi_trinh_phe_duyet",
+      "label": "HànhViPhápLý",
+      "name": "trình phê duyệt"
+    },
+    {
+      "id": "hanhvi_tu_to_chuc",
+      "label": "HànhViPhápLý",
+      "name": "tự tổ chức"
+    },
+    {
+      "id": "hanhvi_hop_tac",
+      "label": "HànhViPhápLý",
+      "name": "hợp tác"
+    },
+    {
+      "id": "hanhvi_lien_ket",
+      "label": "HànhViPhápLý",
+      "name": "liên kết"
+    },
+    {
+      "id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê rừng, thuê môi trường rừng"
+    },
+    {
+      "id": "hanhvi_lien_doanh",
+      "label": "HànhViPhápLý",
+      "name": "liên doanh"
+    },
+    {
+      "id": "hanhvi_kinh_doanh_du_lich_sinh_thai_nghi_duong_giai_tri",
+      "label": "HànhViPhápLý",
+      "name": "kinh doanh du lịch sinh thái, nghỉ dưỡng, giải trí"
+    },
+    {
+      "id": "dieukien_trong_rung_phong_ho",
+      "label": "ĐiềuKiện",
+      "name": "trong rừng phòng hộ"
+    },
+    {
+      "id": "dieukien_theo_quy_che_quan_ly_rung",
+      "label": "ĐiềuKiện",
+      "name": "theo Quy chế quản lý rừng"
+    },
+    {
+      "id": "dieukien_theo_quy_dinh_phap_luat_lien_quan",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định khác của pháp luật có liên quan"
+    },
+    {
+      "id": "dieukien_phu_hop_voi_quyen_chu_rung",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với quyền của chủ rừng"
+    },
+    {
+      "id": "dieukien_khong_anh_huong_muc_dich_su_dung_dat_theo_phap_luat_dat_dai",
+      "label": "ĐiềuKiện",
+      "name": "không ảnh hưởng đến mục đích sử dụng đất theo quy định của pháp luật về đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_giang_day"
+    },
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thuc_tap"
+    },
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_du_lich_sinh_thai"
+    },
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_nghi_duong"
+    },
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_giai_tri"
+    },
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_nghien_cuu_khoa_hoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "hanhvi_giang_day",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "hanhvi_thuc_tap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "hanhvi_du_lich_sinh_thai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "hanhvi_nghi_duong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "hanhvi_giai_tri",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khoan_5"
+    },
+    {
+      "source_id": "khoan_5",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_xay_dung_cong_trinh_du_lich"
+    },
+    {
+      "source_id": "hanhvi_xay_dung_cong_trinh_du_lich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "hanhvi_xay_dung_cong_trinh_du_lich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_che_quan_ly_rung"
+    },
+    {
+      "source_id": "hanhvi_xay_dung_cong_trinh_du_lich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_phap_luat_lien_quan"
+    },
+    {
+      "source_id": "khoan_5",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_tham_dinh_de_an"
+    },
+    {
+      "source_id": "hanhvi_tham_dinh_de_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_de_an_du_lich_sinh_thai_nghi_duong_giai_tri"
+    },
+    {
+      "source_id": "hanhvi_tham_dinh_de_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_che_quan_ly_rung"
+    },
+    {
+      "source_id": "hanhvi_tham_dinh_de_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_phap_luat_lien_quan"
+    },
+    {
+      "source_id": "khoan_5",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_phe_duyet_de_an"
+    },
+    {
+      "source_id": "hanhvi_phe_duyet_de_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_de_an_du_lich_sinh_thai_nghi_duong_giai_tri"
+    },
+    {
+      "source_id": "hanhvi_phe_duyet_de_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_che_quan_ly_rung"
+    },
+    {
+      "source_id": "hanhvi_phe_duyet_de_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_phap_luat_lien_quan"
+    },
+    {
+      "source_id": "khoan_5",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_quan_ly_xay_dung_cong_trinh"
+    },
+    {
+      "source_id": "hanhvi_quan_ly_xay_dung_cong_trinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_xay_dung_cong_trinh_du_lich"
+    },
+    {
+      "source_id": "hanhvi_quan_ly_xay_dung_cong_trinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "hanhvi_quan_ly_xay_dung_cong_trinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_che_quan_ly_rung"
+    },
+    {
+      "source_id": "hanhvi_quan_ly_xay_dung_cong_trinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_phap_luat_lien_quan"
+    },
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khoan_6"
+    },
+    {
+      "source_id": "khoan_6",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_rung_phong_ho"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_xay_dung_phuong_an"
+    },
+    {
+      "source_id": "hanhvi_xay_dung_phuong_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_phuong_an_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_xay_dung_phuong_an",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_trinh_phe_duyet"
+    },
+    {
+      "source_id": "hanhvi_trinh_phe_duyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_phuong_an_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_trinh_phe_duyet",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_co_tham_quyen"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_tu_to_chuc"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_hop_tac"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_lien_ket"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cho_thue_rung_moi_truong_rung"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_moi_truong_rung"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvi_tu_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_hop_tac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_lien_ket",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_tu_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "hanhvi_hop_tac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "hanhvi_lien_ket",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_che_quan_ly_rung"
+    },
+    {
+      "source_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_phap_luat_lien_quan"
+    },
+    {
+      "source_id": "dieu_56",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khoan_4_dieu_60"
+    },
+    {
+      "source_id": "khoan_4_dieu_60",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chu_rung"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_tu_to_chuc"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_hop_tac"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_lien_doanh"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_lien_ket"
+    },
+    {
+      "source_id": "chuthe_chu_rung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cho_thue_rung_moi_truong_rung"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvi_tu_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_kinh_doanh_du_lich_sinh_thai_nghi_duong_giai_tri"
+    },
+    {
+      "source_id": "hanhvi_hop_tac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_kinh_doanh_du_lich_sinh_thai_nghi_duong_giai_tri"
+    },
+    {
+      "source_id": "hanhvi_lien_doanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_kinh_doanh_du_lich_sinh_thai_nghi_duong_giai_tri"
+    },
+    {
+      "source_id": "hanhvi_lien_ket",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_kinh_doanh_du_lich_sinh_thai_nghi_duong_giai_tri"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_kinh_doanh_du_lich_sinh_thai_nghi_duong_giai_tri"
+    },
+    {
+      "source_id": "hanhvi_tu_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_hop_tac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_lien_doanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_lien_ket",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu"
+    },
+    {
+      "source_id": "hanhvi_tu_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "hanhvi_hop_tac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "hanhvi_lien_doanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "hanhvi_lien_ket",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_rung_moi_truong_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_nghien_cuu_khoa_hoc"
+    },
+    {
+      "source_id": "hanhvi_kinh_doanh_du_lich_sinh_thai_nghi_duong_giai_tri",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_voi_quyen_chu_rung"
+    },
+    {
+      "source_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_voi_quyen_chu_rung"
+    },
+    {
+      "source_id": "hanhvi_nghien_cuu_khoa_hoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_voi_quyen_chu_rung"
+    },
+    {
+      "source_id": "hanhvi_kinh_doanh_du_lich_sinh_thai_nghi_duong_giai_tri",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_anh_huong_muc_dich_su_dung_dat_theo_phap_luat_dat_dai"
+    },
+    {
+      "source_id": "hanhvi_nuoi_trong_phat_trien_cay_duoc_lieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_anh_huong_muc_dich_su_dung_dat_theo_phap_luat_dat_dai"
+    },
+    {
+      "source_id": "hanhvi_nghien_cuu_khoa_hoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_anh_huong_muc_dich_su_dung_dat_theo_phap_luat_dat_dai"
+    }
+  ]
+}

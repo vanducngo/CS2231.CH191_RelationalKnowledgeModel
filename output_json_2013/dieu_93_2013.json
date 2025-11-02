@@ -1,0 +1,261 @@
+{
+  "entities": [
+    {
+      "id": "dieu_93",
+      "label": "ĐiềuLuật",
+      "name": "Điều 93"
+    },
+    {
+      "id": "khaikiem_chitra_boithuong_hotro_taidinhcu",
+      "label": "KháiNiệm",
+      "name": "Chi trả tiền bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "dieukien_quyetdinhthuhoidat_cohieuluc_trong30ngay",
+      "label": "ĐiềuKiện",
+      "name": "Trong thời hạn 30 ngày kể từ ngày quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền có hiệu lực thi hành"
+    },
+    {
+      "id": "chuthe_coquan_tochuc_boithuong",
+      "label": "ChủThể",
+      "name": "cơ quan, tổ chức có trách nhiệm bồi thường"
+    },
+    {
+      "id": "hanhviphaply_chitra_boithuong_hotro",
+      "label": "HànhViPhápLý",
+      "name": "chi trả tiền bồi thường, hỗ trợ"
+    },
+    {
+      "id": "chuthe_nguoi_codat_thuhoidat",
+      "label": "ChủThể",
+      "name": "người có đất thu hồi"
+    },
+    {
+      "id": "dieukien_chamchitra_boithuong",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp cơ quan, tổ chức có trách nhiệm bồi thường chậm chi trả"
+    },
+    {
+      "id": "hanhviphaply_thanhtoan_boithuong_hotro",
+      "label": "HànhViPhápLý",
+      "name": "thanh toán tiền bồi thường, hỗ trợ"
+    },
+    {
+      "id": "khaikiem_phuongan_boithuong_hotro_taidinhcu",
+      "label": "KháiNiệm",
+      "name": "phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "chetai_tien_chamnop_theoluatquanlythue",
+      "label": "ChếTài",
+      "name": "một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả"
+    },
+    {
+      "id": "khaikiem_luatquanlythue",
+      "label": "KháiNiệm",
+      "name": "Luật quản lý thuế"
+    },
+    {
+      "id": "dieukien_nguoi_codat_khongnhan_boithuong",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp người có đất thu hồi không nhận tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "hanhviphaply_gui_vaotk_tamgiu_khobac",
+      "label": "HànhViPhápLý",
+      "name": "gửi vào tài khoản tạm giữ của Kho bạc nhà nước"
+    },
+    {
+      "id": "chuthe_khobacnhanuoc",
+      "label": "ChủThể",
+      "name": "Kho bạc nhà nước"
+    },
+    {
+      "id": "dieukien_chua_thuchien_nghiavu_taichinh",
+      "label": "ĐiềuKiện",
+      "name": "chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật"
+    },
+    {
+      "id": "khaikiem_nghiavu_taichinh_datdai",
+      "label": "KháiNiệm",
+      "name": "nghĩa vụ tài chính về đất đai"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_trutien_nghiavu_vaoboithuong",
+      "label": "HànhViPhápLý",
+      "name": "trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường"
+    },
+    {
+      "id": "hanhviphaply_hoantra_ngansachnhanuoc",
+      "label": "HànhViPhápLý",
+      "name": "hoàn trả ngân sách nhà nước"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quydinh_chitiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết Điều này"
+    },
+    {
+      "id": "khaikiem_tien_boithuong_hotro",
+      "label": "KháiNiệm",
+      "name": "tiền bồi thường, hỗ trợ"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_93",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_chitra_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "dieu_93",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chitra_boithuong_hotro"
+    },
+    {
+      "source_id": "hanhviphaply_chitra_boithuong_hotro",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_tochuc_boithuong"
+    },
+    {
+      "source_id": "hanhviphaply_chitra_boithuong_hotro",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_codat_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_quyetdinhthuhoidat_cohieuluc_trong30ngay",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chitra_boithuong_hotro"
+    },
+    {
+      "source_id": "dieu_93",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chetai_tien_chamnop_theoluatquanlythue"
+    },
+    {
+      "source_id": "dieukien_chamchitra_boithuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_tien_chamnop_theoluatquanlythue"
+    },
+    {
+      "source_id": "chetai_tien_chamnop_theoluatquanlythue",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_codat_thuhoidat"
+    },
+    {
+      "source_id": "chetai_tien_chamnop_theoluatquanlythue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_luatquanlythue"
+    },
+    {
+      "source_id": "hanhviphaply_thanhtoan_boithuong_hotro",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "hanhviphaply_thanhtoan_boithuong_hotro",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_codat_thuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_thanhtoan_boithuong_hotro",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_tochuc_boithuong"
+    },
+    {
+      "source_id": "chetai_tien_chamnop_theoluatquanlythue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_tien_boithuong_hotro"
+    },
+    {
+      "source_id": "dieu_93",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_gui_vaotk_tamgiu_khobac"
+    },
+    {
+      "source_id": "dieukien_nguoi_codat_khongnhan_boithuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_gui_vaotk_tamgiu_khobac"
+    },
+    {
+      "source_id": "hanhviphaply_gui_vaotk_tamgiu_khobac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_tien_boithuong_hotro"
+    },
+    {
+      "source_id": "hanhviphaply_gui_vaotk_tamgiu_khobac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_khobacnhanuoc"
+    },
+    {
+      "source_id": "dieukien_nguoi_codat_khongnhan_boithuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "dieu_93",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_trutien_nghiavu_vaoboithuong"
+    },
+    {
+      "source_id": "dieukien_chua_thuchien_nghiavu_taichinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_trutien_nghiavu_vaoboithuong"
+    },
+    {
+      "source_id": "hanhviphaply_trutien_nghiavu_vaoboithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_codat_thuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_trutien_nghiavu_vaoboithuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_nghiavu_taichinh_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_trutien_nghiavu_vaoboithuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_tien_boithuong_hotro"
+    },
+    {
+      "source_id": "hanhviphaply_trutien_nghiavu_vaoboithuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_hoantra_ngansachnhanuoc"
+    },
+    {
+      "source_id": "dieu_93",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quydinh_chitiet"
+    },
+    {
+      "source_id": "hanhviphaply_quydinh_chitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinhphu"
+    },
+    {
+      "source_id": "hanhviphaply_quydinh_chitiet",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_93"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_nghiavu_taichinh_datdai"
+    },
+    {
+      "source_id": "khaikiem_tien_boithuong_hotro",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phuongan_boithuong_hotro_taidinhcu"
+    }
+  ]
+}

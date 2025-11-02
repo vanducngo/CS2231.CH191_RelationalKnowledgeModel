@@ -1,0 +1,586 @@
+{
+  "entities": [
+    {
+      "id": "dieu_132",
+      "label": "ĐiềuLuật",
+      "name": "Điều 132"
+    },
+    {
+      "id": "dat_nong_nghiep_su_dung_muc_dich_cong_ich",
+      "label": "KháiNiệm",
+      "name": "Đất nông nghiệp sử dụng vào mục đích công ích"
+    },
+    {
+      "id": "quy_dat_cong_ich",
+      "label": "KháiNiệm",
+      "name": "Quỹ đất nông nghiệp sử dụng vào mục đích công ích"
+    },
+    {
+      "id": "xa_phuong_thi_tran",
+      "label": "ChủThể",
+      "name": "Xã, phường, thị trấn"
+    },
+    {
+      "id": "lap_quy_dat_cong_ich",
+      "label": "HànhViPhápLý",
+      "name": "Lập quỹ đất nông nghiệp sử dụng vào mục đích công ích"
+    },
+    {
+      "id": "khong_qua_5_phan_tram_tong_dien_tich",
+      "label": "ĐiềuKiện",
+      "name": "Không quá 5% tổng diện tích"
+    },
+    {
+      "id": "dat_trong_cay_hang_nam",
+      "label": "KháiNiệm",
+      "name": "Đất trồng cây hàng năm"
+    },
+    {
+      "id": "dat_trong_cay_lau_nam",
+      "label": "KháiNiệm",
+      "name": "Đất trồng cây lâu năm"
+    },
+    {
+      "id": "dat_nuoi_trong_thuy_san",
+      "label": "KháiNiệm",
+      "name": "Đất nuôi trồng thủy sản"
+    },
+    {
+      "id": "phuc_vu_nhu_cau_cong_ich_dia_phuong",
+      "label": "KháiNiệm",
+      "name": "Phục vụ cho các nhu cầu công ích của địa phương"
+    },
+    {
+      "id": "to_chuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "ca_nhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "tra_lai_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Trả lại quyền sử dụng đất"
+    },
+    {
+      "id": "tang_cho_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "dat_khai_hoang",
+      "label": "KháiNiệm",
+      "name": "Đất khai hoang"
+    },
+    {
+      "id": "dat_nong_nghiep_thu_hoi",
+      "label": "KháiNiệm",
+      "name": "Đất nông nghiệp thu hồi"
+    },
+    {
+      "id": "nguon_hinh_thanh_bo_sung_quy_dat_cong_ich",
+      "label": "KháiNiệm",
+      "name": "Nguồn để hình thành hoặc bổ sung cho quỹ đất công ích"
+    },
+    {
+      "id": "quy_dat_vuot_qua_5_phan_tram",
+      "label": "ĐiềuKiện",
+      "name": "Quỹ đất nông nghiệp sử dụng vào mục đích công ích vượt quá 5%"
+    },
+    {
+      "id": "dien_tich_ngoai_muc_5_phan_tram",
+      "label": "KháiNiệm",
+      "name": "Diện tích ngoài mức 5%"
+    },
+    {
+      "id": "su_dung_de_xay_dung_cong_trinh_cong_cong",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng để xây dựng các công trình công cộng của địa phương"
+    },
+    {
+      "id": "boi_thuong_khi_su_dung_dat_khac",
+      "label": "HànhViPhápLý",
+      "name": "Bồi thường khi sử dụng đất khác để xây dựng các công trình công cộng"
+    },
+    {
+      "id": "giao_dat_cho_ho_gia_dinh_ca_nhan",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất cho hộ gia đình, cá nhân"
+    },
+    {
+      "id": "ho_gia_dinh_ca_nhan_thieu_dat",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp, nuôi trồng thủy sản tại địa phương chưa được giao đất hoặc thiếu đất sản xuất"
+    },
+    {
+      "id": "muc_dich_su_dung_quy_dat_cong_ich",
+      "label": "KháiNiệm",
+      "name": "Mục đích sử dụng quỹ đất nông nghiệp sử dụng vào mục đích công ích"
+    },
+    {
+      "id": "xay_dung_cong_trinh_cong_cong",
+      "label": "HànhViPhápLý",
+      "name": "Xây dựng các công trình công cộng của xã, phường, thị trấn"
+    },
+    {
+      "id": "cong_trinh_van_hoa",
+      "label": "KháiNiệm",
+      "name": "Công trình văn hóa"
+    },
+    {
+      "id": "cong_trinh_the_duc_the_thao",
+      "label": "KháiNiệm",
+      "name": "Công trình thể dục thể thao"
+    },
+    {
+      "id": "cong_trinh_vui_choi_giai_tri_cong_cong",
+      "label": "KháiNiệm",
+      "name": "Công trình vui chơi, giải trí công cộng"
+    },
+    {
+      "id": "cong_trinh_y_te",
+      "label": "KháiNiệm",
+      "name": "Công trình y tế"
+    },
+    {
+      "id": "cong_trinh_giao_duc",
+      "label": "KháiNiệm",
+      "name": "Công trình giáo dục"
+    },
+    {
+      "id": "cho",
+      "label": "KháiNiệm",
+      "name": "Chợ"
+    },
+    {
+      "id": "nghia_trang_nghia_dia",
+      "label": "KháiNiệm",
+      "name": "Nghĩa trang, nghĩa địa"
+    },
+    {
+      "id": "cac_cong_trinh_cong_cong_khac",
+      "label": "KháiNiệm",
+      "name": "Các công trình công cộng khác"
+    },
+    {
+      "id": "uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "theo_quy_dinh_uy_ban_nhan_dan_cap_tinh",
+      "label": "ĐiềuKiện",
+      "name": "Theo quy định của Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "boi_thuong_cho_nguoi_co_dat",
+      "label": "HànhViPhápLý",
+      "name": "Bồi thường cho người có đất"
+    },
+    {
+      "id": "nguoi_co_dat",
+      "label": "ChủThể",
+      "name": "Người có đất"
+    },
+    {
+      "id": "cong_trinh_cong_cong_quy_dinh_khoan_2a",
+      "label": "KháiNiệm",
+      "name": "Các công trình công cộng quy định tại điểm a khoản này"
+    },
+    {
+      "id": "xay_dung_nha_tinh_nghia_nha_tinh_thuong",
+      "label": "HànhViPhápLý",
+      "name": "Xây dựng nhà tình nghĩa, nhà tình thương"
+    },
+    {
+      "id": "dien_tich_dat_chua_su_dung_khoan_2",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích đất chưa sử dụng vào các mục đích quy định tại khoản 2 Điều này"
+    },
+    {
+      "id": "uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "cho_thue_dat_san_xuat_nong_nghiep_thuy_san",
+      "label": "HànhViPhápLý",
+      "name": "Cho hộ gia đình, cá nhân tại địa phương thuê để sản xuất nông nghiệp, nuôi trồng thủy sản"
+    },
+    {
+      "id": "ho_gia_dinh_ca_nhan_dia_phuong",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân tại địa phương"
+    },
+    {
+      "id": "hinh_thuc_dau_gia",
+      "label": "ĐiềuKiện",
+      "name": "Theo hình thức đấu giá"
+    },
+    {
+      "id": "thoi_han_thue_khong_qua_5_nam",
+      "label": "ĐiềuKiện",
+      "name": "Thời hạn sử dụng đất đối với mỗi lần thuê không quá 05 năm"
+    },
+    {
+      "id": "tien_thu_tu_cho_thue_dat",
+      "label": "KháiNiệm",
+      "name": "Tiền thu được từ việc cho thuê đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích"
+    },
+    {
+      "id": "nop_vao_ngan_sach_nha_nuoc",
+      "label": "HànhViPhápLý",
+      "name": "Nộp vào ngân sách nhà nước"
+    },
+    {
+      "id": "ngan_sach_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Ngân sách nhà nước"
+    },
+    {
+      "id": "quan_ly_tien_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý tiền thu được từ việc cho thuê đất"
+    },
+    {
+      "id": "su_dung_tien_cho_nhu_cau_cong_ich_xa_phuong_thi_tran",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng tiền cho nhu cầu công ích của xã, phường, thị trấn"
+    },
+    {
+      "id": "theo_quy_dinh_phap_luat",
+      "label": "ĐiềuKiện",
+      "name": "Theo quy định của pháp luật"
+    },
+    {
+      "id": "quan_ly_su_dung_quy_dat_cong_ich",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý, sử dụng quỹ đất nông nghiệp sử dụng vào mục đích công ích"
+    },
+    {
+      "id": "theo_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "Theo quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "phe_duyet_quy_hoach_ke_hoach",
+      "label": "HànhViPhápLý",
+      "name": "Phê duyệt quy hoạch, kế hoạch"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_132",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_nong_nghiep_su_dung_muc_dich_cong_ich"
+    },
+    {
+      "source_id": "xa_phuong_thi_tran",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "lap_quy_dat_cong_ich"
+    },
+    {
+      "source_id": "lap_quy_dat_cong_ich",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quy_dat_cong_ich"
+    },
+    {
+      "source_id": "quy_dat_cong_ich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khong_qua_5_phan_tram_tong_dien_tich"
+    },
+    {
+      "source_id": "khong_qua_5_phan_tram_tong_dien_tich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_trong_cay_hang_nam"
+    },
+    {
+      "source_id": "khong_qua_5_phan_tram_tong_dien_tich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_trong_cay_lau_nam"
+    },
+    {
+      "source_id": "khong_qua_5_phan_tram_tong_dien_tich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_nuoi_trong_thuy_san"
+    },
+    {
+      "source_id": "quy_dat_cong_ich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "phuc_vu_nhu_cau_cong_ich_dia_phuong"
+    },
+    {
+      "source_id": "to_chuc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "tra_lai_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "ho_gia_dinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "tra_lai_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "ca_nhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "tra_lai_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "tra_lai_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "nguon_hinh_thanh_bo_sung_quy_dat_cong_ich"
+    },
+    {
+      "source_id": "to_chuc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "tang_cho_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "ho_gia_dinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "tang_cho_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "ca_nhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "tang_cho_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "tang_cho_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "nguon_hinh_thanh_bo_sung_quy_dat_cong_ich"
+    },
+    {
+      "source_id": "dat_khai_hoang",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "nguon_hinh_thanh_bo_sung_quy_dat_cong_ich"
+    },
+    {
+      "source_id": "dat_nong_nghiep_thu_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "nguon_hinh_thanh_bo_sung_quy_dat_cong_ich"
+    },
+    {
+      "source_id": "nguon_hinh_thanh_bo_sung_quy_dat_cong_ich",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quy_dat_cong_ich"
+    },
+    {
+      "source_id": "tra_lai_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nha_nuoc"
+    },
+    {
+      "source_id": "tang_cho_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nha_nuoc"
+    },
+    {
+      "source_id": "quy_dat_cong_ich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "quy_dat_vuot_qua_5_phan_tram"
+    },
+    {
+      "source_id": "quy_dat_vuot_qua_5_phan_tram",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dien_tich_ngoai_muc_5_phan_tram"
+    },
+    {
+      "source_id": "dien_tich_ngoai_muc_5_phan_tram",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "su_dung_de_xay_dung_cong_trinh_cong_cong"
+    },
+    {
+      "source_id": "dien_tich_ngoai_muc_5_phan_tram",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "boi_thuong_khi_su_dung_dat_khac"
+    },
+    {
+      "source_id": "dien_tich_ngoai_muc_5_phan_tram",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "giao_dat_cho_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "giao_dat_cho_ho_gia_dinh_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh_ca_nhan_thieu_dat"
+    },
+    {
+      "source_id": "dieu_132",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "muc_dich_su_dung_quy_dat_cong_ich"
+    },
+    {
+      "source_id": "muc_dich_su_dung_quy_dat_cong_ich",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "xay_dung_cong_trinh_cong_cong"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_cong_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cong_trinh_van_hoa"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_cong_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cong_trinh_the_duc_the_thao"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_cong_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cong_trinh_vui_choi_giai_tri_cong_cong"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_cong_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cong_trinh_y_te"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_cong_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cong_trinh_giao_duc"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_cong_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cho"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_cong_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "nghia_trang_nghia_dia"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_cong_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cac_cong_trinh_cong_cong_khac"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_cong_cong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "theo_quy_dinh_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "theo_quy_dinh_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "muc_dich_su_dung_quy_dat_cong_ich",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "boi_thuong_cho_nguoi_co_dat"
+    },
+    {
+      "source_id": "boi_thuong_cho_nguoi_co_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nguoi_co_dat"
+    },
+    {
+      "source_id": "boi_thuong_cho_nguoi_co_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cong_trinh_cong_cong_quy_dinh_khoan_2a"
+    },
+    {
+      "source_id": "muc_dich_su_dung_quy_dat_cong_ich",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "xay_dung_nha_tinh_nghia_nha_tinh_thuong"
+    },
+    {
+      "source_id": "dien_tich_dat_chua_su_dung_khoan_2",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "cho_thue_dat_san_xuat_nong_nghiep_thuy_san"
+    },
+    {
+      "source_id": "uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cho_thue_dat_san_xuat_nong_nghiep_thuy_san"
+    },
+    {
+      "source_id": "cho_thue_dat_san_xuat_nong_nghiep_thuy_san",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh_ca_nhan_dia_phuong"
+    },
+    {
+      "source_id": "cho_thue_dat_san_xuat_nong_nghiep_thuy_san",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hinh_thuc_dau_gia"
+    },
+    {
+      "source_id": "cho_thue_dat_san_xuat_nong_nghiep_thuy_san",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thoi_han_thue_khong_qua_5_nam"
+    },
+    {
+      "source_id": "tien_thu_tu_cho_thue_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "nop_vao_ngan_sach_nha_nuoc"
+    },
+    {
+      "source_id": "uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quan_ly_tien_thue_dat"
+    },
+    {
+      "source_id": "quan_ly_tien_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "tien_thu_tu_cho_thue_dat"
+    },
+    {
+      "source_id": "nop_vao_ngan_sach_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ngan_sach_nha_nuoc"
+    },
+    {
+      "source_id": "tien_thu_tu_cho_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "su_dung_tien_cho_nhu_cau_cong_ich_xa_phuong_thi_tran"
+    },
+    {
+      "source_id": "su_dung_tien_cho_nhu_cau_cong_ich_xa_phuong_thi_tran",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "theo_quy_dinh_phap_luat"
+    },
+    {
+      "source_id": "uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quan_ly_su_dung_quy_dat_cong_ich"
+    },
+    {
+      "source_id": "quan_ly_su_dung_quy_dat_cong_ich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quy_dat_cong_ich"
+    },
+    {
+      "source_id": "quan_ly_su_dung_quy_dat_cong_ich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "theo_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "theo_quy_hoach_ke_hoach_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "phe_duyet_quy_hoach_ke_hoach"
+    },
+    {
+      "source_id": "phe_duyet_quy_hoach_ke_hoach",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "co_quan_nha_nuoc_co_tham_quyen"
+    }
+  ]
+}

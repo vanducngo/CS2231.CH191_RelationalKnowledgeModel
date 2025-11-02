@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "id": "dieu_22",
+      "label": "ĐiềuLuật",
+      "name": "Điều 22"
+    },
+    {
+      "id": "khauniem_hethongcoquanquanlydatdai",
+      "label": "KháiNiệm",
+      "name": "Hệ thống cơ quan có chức năng quản lý đất đai"
+    },
+    {
+      "id": "dieukien_tochucthongnhat",
+      "label": "ĐiềuKiện",
+      "name": "tổ chức thống nhất ở trung ương và địa phương"
+    },
+    {
+      "id": "khauniem_coquanquanlydatdaitrunguong",
+      "label": "KháiNiệm",
+      "name": "Cơ quan có chức năng quản lý nhà nước về đất đai ở trung ương"
+    },
+    {
+      "id": "chuthe_botainnguyenmoitruong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "khauniem_coquanquanlydatdaidiaphuong",
+      "label": "KháiNiệm",
+      "name": "Cơ quan có chức năng quản lý đất đai ở địa phương"
+    },
+    {
+      "id": "dieukien_captinh",
+      "label": "ĐiềuKiện",
+      "name": "cấp tỉnh"
+    },
+    {
+      "id": "dieukien_caphuyen",
+      "label": "ĐiềuKiện",
+      "name": "cấp huyện"
+    },
+    {
+      "id": "khauniem_tochucdichvucongvedatdai",
+      "label": "KháiNiệm",
+      "name": "Tổ chức dịch vụ công về đất đai"
+    },
+    {
+      "id": "chuthe_tochucdangkydd",
+      "label": "ChủThể",
+      "name": "tổ chức đăng ký đất đai"
+    },
+    {
+      "id": "chuthe_tochucphattrienquydat",
+      "label": "ChủThể",
+      "name": "tổ chức phát triển quỹ đất"
+    },
+    {
+      "id": "chuthe_cacochucdichvucongkhac",
+      "label": "ChủThể",
+      "name": "các tổ chức dịch vụ công khác"
+    },
+    {
+      "id": "dieukien_quydinhcuachinhphu",
+      "label": "ĐiềuKiện",
+      "name": "quy định của Chính phủ"
+    },
+    {
+      "id": "chuthe_ubndcapxa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_congchucdiachinh",
+      "label": "ChủThể",
+      "name": "công chức làm công tác địa chính"
+    },
+    {
+      "id": "dieukien_luatcanbocongchuc",
+      "label": "ĐiềuKiện",
+      "name": "Luật Cán bộ, công chức"
+    },
+    {
+      "id": "hanhviphaply_quanlydatdaidiaphuong",
+      "label": "HànhViPhápLý",
+      "name": "quản lý đất đai tại địa phương"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_22",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_hethongcoquanquanlydatdai"
+    },
+    {
+      "source_id": "khauniem_hethongcoquanquanlydatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tochucthongnhat"
+    },
+    {
+      "source_id": "dieu_22",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_coquanquanlydatdaitrunguong"
+    },
+    {
+      "source_id": "khauniem_coquanquanlydatdaitrunguong",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_botainnguyenmoitruong"
+    },
+    {
+      "source_id": "dieu_22",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_coquanquanlydatdaidiaphuong"
+    },
+    {
+      "source_id": "khauniem_coquanquanlydatdaidiaphuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_captinh"
+    },
+    {
+      "source_id": "khauniem_coquanquanlydatdaidiaphuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_caphuyen"
+    },
+    {
+      "source_id": "dieu_22",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_tochucdichvucongvedatdai"
+    },
+    {
+      "source_id": "khauniem_tochucdichvucongvedatdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_tochucdangkydd"
+    },
+    {
+      "source_id": "khauniem_tochucdichvucongvedatdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_tochucphattrienquydat"
+    },
+    {
+      "source_id": "khauniem_tochucdichvucongvedatdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_cacochucdichvucongkhac"
+    },
+    {
+      "source_id": "khauniem_tochucdichvucongvedatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quydinhcuachinhphu"
+    },
+    {
+      "source_id": "dieu_22",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ubndcapxa"
+    },
+    {
+      "source_id": "dieu_22",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_congchucdiachinh"
+    },
+    {
+      "source_id": "chuthe_ubndcapxa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_congchucdiachinh"
+    },
+    {
+      "source_id": "chuthe_congchucdiachinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_luatcanbocongchuc"
+    },
+    {
+      "source_id": "chuthe_congchucdiachinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quanlydatdaidiaphuong"
+    },
+    {
+      "source_id": "hanhviphaply_quanlydatdaidiaphuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ubndcapxa"
+    }
+  ]
+}

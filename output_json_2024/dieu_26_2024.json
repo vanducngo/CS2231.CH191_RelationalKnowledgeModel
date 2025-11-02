@@ -1,0 +1,186 @@
+{
+  "entities": [
+    {
+      "id": "dieu_26",
+      "name": "Điều 26",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "name": "Quyền chung của người sử dụng đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "name": "người sử dụng đất",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "name": "Nhà nước",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_cap_giay_chung_nhan",
+      "name": "Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_du_dieu_kien_phap_luat_dat_dai",
+      "name": "có đủ điều kiện theo quy định của pháp luật về đất đai",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_huong_thanh_qua_dau_tu",
+      "name": "Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_huong_loi_ich_tu_dau_tu_dat_nong_nghiep",
+      "name": "Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_nha_nuoc_dau_tu_bao_ve_cai_tao_dat_nong_nghiep",
+      "name": "Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_duoc_huong_dan_giup_do_cai_tao_dat",
+      "name": "Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_duoc_bao_ho",
+      "name": "Được Nhà nước bảo hộ",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_nguoi_khac_xam_pham_quyen_dat_dai",
+      "name": "người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_chuyen_muc_dich_su_dung_dat",
+      "name": "Được quyền chuyển mục đích sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_theo_quy_dinh_luat_phap_luat_lien_quan",
+      "name": "theo quy định của Luật này và quy định khác của pháp luật có liên quan",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_duoc_boi_thuong_ho_tro_tai_dinh_cu",
+      "name": "Được bồi thường, hỗ trợ, tái định cư",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_nha_nuoc_thu_hoi_dat",
+      "name": "Nhà nước thu hồi đất theo quy định của Luật này",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_khieu_nai_to_cao_khoi_kien",
+      "name": "Khiếu nại, tố cáo, khởi kiện",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "khauniem_vi_pham_quyen_su_dung_dat",
+      "name": "những hành vi vi phạm quyền sử dụng đất hợp pháp của mình",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khauniem_vi_pham_phap_luat_dat_dai",
+      "name": "những hành vi khác vi phạm pháp luật về đất đai",
+      "label": "KháiNiệm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_26",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quyen_chung_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_du_dieu_kien_phap_luat_dat_dai"
+    },
+    {
+      "source_id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huong_thanh_qua_dau_tu"
+    },
+    {
+      "source_id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huong_loi_ich_tu_dau_tu_dat_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_huong_loi_ich_tu_dau_tu_dat_nong_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nha_nuoc_dau_tu_bao_ve_cai_tao_dat_nong_nghiep"
+    },
+    {
+      "source_id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duoc_huong_dan_giup_do_cai_tao_dat"
+    },
+    {
+      "source_id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duoc_bao_ho"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_bao_ho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguoi_khac_xam_pham_quyen_dat_dai"
+    },
+    {
+      "source_id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_luat_phap_luat_lien_quan"
+    },
+    {
+      "source_id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duoc_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_boi_thuong_ho_tro_tai_dinh_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nha_nuoc_thu_hoi_dat"
+    },
+    {
+      "source_id": "khauniem_quyen_chung_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khieu_nai_to_cao_khoi_kien"
+    },
+    {
+      "source_id": "hanhviphaply_khieu_nai_to_cao_khoi_kien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_vi_pham_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_khieu_nai_to_cao_khoi_kien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_vi_pham_phap_luat_dat_dai"
+    }
+  ]
+}

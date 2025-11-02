@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "id": "dieu_251",
+      "label": "ĐiềuLuật",
+      "name": "Điều 251"
+    },
+    {
+      "id": "khainiem_baibo_luat_nghiquyet",
+      "label": "KháiNiệm",
+      "name": "Bãi bỏ một số điều của các luật, nghị quyết của Quốc hội có liên quan đến đất đai"
+    },
+    {
+      "id": "hanhviphaply_bai_bo_dieu_khoan",
+      "label": "HànhViPhápLý",
+      "name": "Bãi bỏ một số điều của các luật"
+    },
+    {
+      "id": "hanhviphaply_bai_bo_nghi_quyet",
+      "label": "HànhViPhápLý",
+      "name": "Bãi bỏ Nghị quyết"
+    },
+    {
+      "id": "khainiem_dieu_khoan_luat_taisanco",
+      "label": "KháiNiệm",
+      "name": "khoản 3 Điều 36 và khoản 2 Điều 86 của Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14 và Luật số 07/2022/QH15"
+    },
+    {
+      "id": "khainiem_dieu_khoan_luat_duongsat",
+      "label": "KháiNiệm",
+      "name": "khoản 1 Điều 12 của Luật Đường sắt số 06/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 và Luật số 16/2023/QH15"
+    },
+    {
+      "id": "khainiem_nghi_quyet_132_2020_QH14",
+      "label": "KháiNiệm",
+      "name": "Nghị quyết số 132/2020/QH14 ngày 17 tháng 11 năm 2020 của Quốc hội thí điểm một số chính sách để tháo gỡ vướng mắc, tồn đọng trong quản lý, sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế"
+    },
+    {
+      "id": "chuthe_quoc_hoi",
+      "label": "ChủThể",
+      "name": "Quốc hội"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_251",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_baibo_luat_nghiquyet"
+    },
+    {
+      "source_id": "khainiem_baibo_luat_nghiquyet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_bai_bo_dieu_khoan"
+    },
+    {
+      "source_id": "khainiem_baibo_luat_nghiquyet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_bai_bo_nghi_quyet"
+    },
+    {
+      "source_id": "hanhviphaply_bai_bo_dieu_khoan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dieu_khoan_luat_taisanco"
+    },
+    {
+      "source_id": "hanhviphaply_bai_bo_dieu_khoan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dieu_khoan_luat_duongsat"
+    },
+    {
+      "source_id": "hanhviphaply_bai_bo_nghi_quyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nghi_quyet_132_2020_QH14"
+    },
+    {
+      "source_id": "chuthe_quoc_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_nghi_quyet_132_2020_QH14"
+    }
+  ]
+}

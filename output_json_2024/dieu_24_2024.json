@@ -1,0 +1,286 @@
+{
+  "entities": [
+    {
+      "id": "dieu_24",
+      "label": "ĐiềuLuật",
+      "name": "Điều 24"
+    },
+    {
+      "id": "chuthe_congdan",
+      "label": "ChủThể",
+      "name": "Công dân"
+    },
+    {
+      "id": "chuthe_coquannhanuoc_thamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "khainiem_quyen_tiepcan_thongtin_datdai",
+      "label": "KháiNiệm",
+      "name": "Quyền tiếp cận thông tin đất đai"
+    },
+    {
+      "id": "khainiem_quyhoach_kehoach_sudungdat",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_quyhoach_lienquan_sudungdat",
+      "label": "KháiNiệm",
+      "name": "Các quy hoạch có liên quan đến sử dụng đất"
+    },
+    {
+      "id": "khainiem_ketqua_thongke_kiemke_datdai",
+      "label": "KháiNiệm",
+      "name": "Kết quả thống kê, kiểm kê đất đai"
+    },
+    {
+      "id": "khainiem_banggiadat",
+      "label": "KháiNiệm",
+      "name": "Bảng giá đất"
+    },
+    {
+      "id": "khainiem_phuongan_boithuong_hotro_taidinhcu",
+      "label": "KháiNiệm",
+      "name": "Phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "khainiem_ketqua_thanhtra_kiemtra_giaiquyet_tranhchap_datdai",
+      "label": "KháiNiệm",
+      "name": "Kết quả thanh tra, kiểm tra, giải quyết tranh chấp đất đai"
+    },
+    {
+      "id": "khainiem_ketqua_giaiquyet_khieunai_tocao_datdai",
+      "label": "KháiNiệm",
+      "name": "Kết quả giải quyết khiếu nại, tố cáo về đất đai"
+    },
+    {
+      "id": "khainiem_ketqua_xuly_vipham_phapluat_datdai",
+      "label": "KháiNiệm",
+      "name": "Kết quả xử lý vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "khainiem_thutuc_hanhchinh_datdai",
+      "label": "KháiNiệm",
+      "name": "Thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "khainiem_vanban_quypham_phapluat_datdai",
+      "label": "KháiNiệm",
+      "name": "Văn bản quy phạm pháp luật về đất đai"
+    },
+    {
+      "id": "khainiem_thongtin_datdai_khac",
+      "label": "KháiNiệm",
+      "name": "Các thông tin đất đai khác"
+    },
+    {
+      "id": "khainiem_luat_datdai_2024",
+      "label": "KháiNiệm",
+      "name": "Luật này (Luật Đất đai 2024)"
+    },
+    {
+      "id": "khainiem_phapluat_tiepcan_thongtin",
+      "label": "KháiNiệm",
+      "name": "Pháp luật về tiếp cận thông tin"
+    },
+    {
+      "id": "khainiem_quydinh_khac_phapluat_lienquan",
+      "label": "KháiNiệm",
+      "name": "Quy định khác của pháp luật có liên quan"
+    },
+    {
+      "id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "label": "HànhViPhápLý",
+      "name": "Tiếp cận thông tin đất đai"
+    },
+    {
+      "id": "hanhviphaply_quyetdinh_pheduyet",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định, phê duyệt"
+    },
+    {
+      "id": "hanhviphaply_giaodat_chothuedat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất, cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_congbo",
+      "label": "HànhViPhápLý",
+      "name": "Công bố"
+    },
+    {
+      "id": "hanhviphaply_thuhoildat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "dieukien_thuchien_theoquydinh_luatnay",
+      "label": "ĐiềuKiện",
+      "name": "Thực hiện theo quy định của Luật này"
+    },
+    {
+      "id": "dieukien_thuchien_theoquydinh_phapluat_tiepcan_thongtin",
+      "label": "ĐiềuKiện",
+      "name": "Thực hiện theo quy định của pháp luật về tiếp cận thông tin"
+    },
+    {
+      "id": "dieukien_thuchien_theoquydinh_phapluat_lienquan",
+      "label": "ĐiềuKiện",
+      "name": "Thực hiện theo quy định khác của pháp luật có liên quan"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_24",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_tiepcan_thongtin_datdai"
+    },
+    {
+      "source_id": "khainiem_quyen_tiepcan_thongtin_datdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congdan"
+    },
+    {
+      "source_id": "chuthe_congdan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tiepcan_thongtin_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoach_kehoach_sudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoach_lienquan_sudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ketqua_thongke_kiemke_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giaodat_chothuedat"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_banggiadat"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ketqua_thanhtra_kiemtra_giaiquyet_tranhchap_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ketqua_giaiquyet_khieunai_tocao_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ketqua_xuly_vipham_phapluat_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thutuc_hanhchinh_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_vanban_quypham_phapluat_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thongtin_datdai_khac"
+    },
+    {
+      "source_id": "chuthe_coquannhanuoc_thamquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quyetdinh_pheduyet"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinh_pheduyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyhoach_kehoach_sudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinh_pheduyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyhoach_lienquan_sudungdat"
+    },
+    {
+      "source_id": "chuthe_coquannhanuoc_thamquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_congbo"
+    },
+    {
+      "source_id": "hanhviphaply_congbo",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_banggiadat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuhoildat"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoildat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinh_pheduyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_theoquydinh_luatnay"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_theoquydinh_phapluat_tiepcan_thongtin"
+    },
+    {
+      "source_id": "hanhviphaply_tiepcan_thongtin_datdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_theoquydinh_phapluat_lienquan"
+    },
+    {
+      "source_id": "dieukien_thuchien_theoquydinh_luatnay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_luat_datdai_2024"
+    },
+    {
+      "source_id": "dieukien_thuchien_theoquydinh_phapluat_tiepcan_thongtin",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_phapluat_tiepcan_thongtin"
+    },
+    {
+      "source_id": "dieukien_thuchien_theoquydinh_phapluat_lienquan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_quydinh_khac_phapluat_lienquan"
+    }
+  ]
+}

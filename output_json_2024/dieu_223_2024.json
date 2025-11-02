@@ -1,0 +1,271 @@
+{
+  "entities": [
+    {
+      "id": "dieu_223",
+      "label": "Điều 223",
+      "type": "ĐiềuLuật"
+    },
+    {
+      "id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "label": "Các thủ tục hành chính về đất đai",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat",
+      "label": "Thủ tục thu hồi đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_giao_dat",
+      "label": "Thủ tục giao đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_dat",
+      "label": "Thủ tục cho thuê đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_chuyen_muc_dich_su_dung_dat",
+      "label": "Thủ tục chuyển mục đích sử dụng đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_gia_han_su_dung_dat",
+      "label": "Thủ tục gia hạn sử dụng đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_dieu_chinh_thoi_han_su_dung_dat",
+      "label": "Thủ tục điều chỉnh thời hạn sử dụng đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_dang_ky_dat_dai",
+      "label": "Thủ tục đăng ký đất đai",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_dang_ky_tai_san_gan_lien_voi_dat",
+      "label": "Thủ tục đăng ký tài sản gắn liền với đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_cap_giay_chung_nhan_quyen_su_dung_dat",
+      "label": "Thủ tục cấp Giấy chứng nhận quyền sử dụng đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_cap_giay_chung_nhan_quyen_so_huu_tai_san_gan_lien_voi_dat",
+      "label": "Thủ tục cấp Giấy chứng nhận quyền sở hữu tài sản gắn liền với đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_dinh_chinh_giay_chung_nhan_da_cap",
+      "label": "Thủ tục đính chính giấy chứng nhận đã cấp",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_giay_chung_nhan_da_cap",
+      "label": "Thủ tục thu hồi giấy chứng nhận đã cấp",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_huy_giay_chung_nhan_da_cap",
+      "label": "Thủ tục hủy giấy chứng nhận đã cấp",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_cac_quyen_cua_nguoi_su_dung_dat",
+      "label": "Thủ tục thực hiện các quyền của người sử dụng đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "người sử dụng đất",
+      "type": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_tach_thua_dat",
+      "label": "Thủ tục tách thửa đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_hop_thua_dat",
+      "label": "Thủ tục hợp thửa đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_cuong_che_thuc_hien_quyet_dinh_kiem_dem_bat_buoc",
+      "label": "Thủ tục cưỡng chế thực hiện quyết định kiểm đếm bắt buộc",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_cuong_che_thuc_hien_quyet_dinh_thu_hoi_dat",
+      "label": "Thủ tục cưỡng chế thực hiện quyết định thu hồi đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_hoa_giai_tranh_chap_dat_dai",
+      "label": "Thủ tục hòa giải tranh chấp đất đai",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_giai_quyet_tranh_chap_dat_dai_tai_co_quan_hanh_chinh",
+      "label": "Thủ tục giải quyết tranh chấp đất đai tại cơ quan hành chính",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_xu_phat_vi_pham_hanh_chinh_trong_linh_vuc_dat_dai",
+      "label": "Thủ tục xử phạt vi phạm hành chính trong lĩnh vực đất đai",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_cung_cap_thong_tin_du_lieu_dat_dai",
+      "label": "Thủ tục cung cấp thông tin, dữ liệu đất đai",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_hanh_chinh_khac_ve_dat_dai",
+      "label": "Thủ tục hành chính khác về đất đai",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "Chính phủ",
+      "type": "ChủThể"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_223",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_giao_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_cho_thue_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_gia_han_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_dieu_chinh_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_dang_ky_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan_quyen_so_huu_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_dinh_chinh_giay_chung_nhan_da_cap"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_thu_hoi_giay_chung_nhan_da_cap"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_huy_giay_chung_nhan_da_cap"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_thuc_hien_cac_quyen_cua_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_cac_quyen_cua_nguoi_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_tach_thua_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_hop_thua_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_cuong_che_thuc_hien_quyet_dinh_kiem_dem_bat_buoc"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_cuong_che_thuc_hien_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_hoa_giai_tranh_chap_dat_dai"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_giai_quyet_tranh_chap_dat_dai_tai_co_quan_hanh_chinh"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_xu_phat_vi_pham_hanh_chinh_trong_linh_vuc_dat_dai"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_cung_cap_thong_tin_du_lieu_dat_dai"
+    },
+    {
+      "source_id": "khainiem_cac_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_hanh_chinh_khac_ve_dat_dai"
+    },
+    {
+      "source_id": "dieu_223",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chinh_phu"
+    }
+  ]
+}

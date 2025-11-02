@@ -1,0 +1,311 @@
+{
+  "entities": [
+    {
+      "id": "dieu_64",
+      "label": "ĐiềuLuật",
+      "name": "Điều 64"
+    },
+    {
+      "id": "kniem_viphamphapluatvedatdai",
+      "label": "KháiNiệm",
+      "name": "vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "chu_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chu_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chu_coquannhanuococothammquyen",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chu_chudautu",
+      "label": "ChủThể",
+      "name": "chủ đầu tư"
+    },
+    {
+      "id": "chu_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhvi_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "dieukien_sd_khongdungmucdich_tieptucvipham",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất không đúng mục đích đã được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất và đã bị xử phạt vi phạm hành chính về hành vi sử dụng đất không đúng mục đích mà tiếp tục vi phạm"
+    },
+    {
+      "id": "dieukien_coy_huyhoaidat",
+      "label": "ĐiềuKiện",
+      "name": "Người sử dụng đất cố ý hủy hoại đất"
+    },
+    {
+      "id": "dieukien_datgiaochothue_khongdung",
+      "label": "ĐiềuKiện",
+      "name": "Đất được giao, cho thuê không đúng đối tượng hoặc không đúng thẩm quyền"
+    },
+    {
+      "id": "dieukien_datkhongduocchuyennhuong_manhan",
+      "label": "ĐiềuKiện",
+      "name": "Đất không được chuyển nhượng, tặng cho theo quy định của Luật này mà nhận chuyển nhượng, nhận tặng cho"
+    },
+    {
+      "id": "dieukien_datgiaodequanly_bilanchiem",
+      "label": "ĐiềuKiện",
+      "name": "Đất được Nhà nước giao để quản lý mà để bị lấn, chiếm"
+    },
+    {
+      "id": "dieukien_datkhongduocchuyenquyen_dothieutrachnhiem",
+      "label": "ĐiềuKiện",
+      "name": "Đất không được chuyển quyền sử dụng đất theo quy định của Luật này mà người sử dụng đất do thiếu trách nhiệm để bị lấn, chiếm"
+    },
+    {
+      "id": "dieukien_khongthuchiennghiavu_makhongchaphanh",
+      "label": "ĐiềuKiện",
+      "name": "Người sử dụng đất không thực hiện nghĩa vụ đối với Nhà nước và đã bị xử phạt vi phạm hành chính mà không chấp hành"
+    },
+    {
+      "id": "dieukien_datsudungnongnghiep_khongdungthoihan",
+      "label": "ĐiềuKiện",
+      "name": "Đất trồng cây hàng năm không được sử dụng trong thời hạn 12 tháng liên tục; đất trồng cây lâu năm không được sử dụng trong thời hạn 18 tháng liên tục; đất trồng rừng không được sử dụng trong thời hạn 24 tháng liên tục"
+    },
+    {
+      "id": "dieukien_datduandautu_khongsdhoacchamtiendo",
+      "label": "ĐiềuKiện",
+      "name": "Đất được Nhà nước giao, cho thuê để thực hiện dự án đầu tư mà không được sử dụng trong thời hạn 12 tháng liên tục hoặc tiến độ sử dụng đất chậm 24 tháng so với tiến độ ghi trong dự án đầu tư kể từ khi nhận bàn giao đất trên thực địa phải đưa đất vào sử dụng; hết thời hạn được gia hạn mà chủ đầu tư vẫn chưa đưa đất vào sử dụng"
+    },
+    {
+      "id": "chetai_thuhoidat_khongboithuong",
+      "label": "ChếTài",
+      "name": "thu hồi đất mà không bồi thường về đất và tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieukien_batkhakhang",
+      "label": "ĐiềuKiện",
+      "name": "bất khả kháng"
+    },
+    {
+      "id": "dieukien_cancuvanbanquyetdinh_coquanthamquyen",
+      "label": "ĐiềuKiện",
+      "name": "văn bản, quyết định của cơ quan nhà nước có thẩm quyền xác định hành vi vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "kniem_luatdatdai2013",
+      "label": "KháiNiệm",
+      "name": "Luật Đất đai 2013"
+    },
+    {
+      "id": "hanhvi_giahan_sudungdat_chudautu",
+      "label": "HànhViPhápLý",
+      "name": "gia hạn sử dụng 24 tháng"
+    },
+    {
+      "id": "hanhvi_noptien_giahan",
+      "label": "HànhViPhápLý",
+      "name": "nộp cho Nhà nước khoản tiền tương ứng với mức tiền sử dụng đất, tiền thuê đất đối với thời gian chậm tiến độ thực hiện dự án trong thời gian này"
+    },
+    {
+      "id": "kniem_duandautu",
+      "label": "KháiNiệm",
+      "name": "dự án đầu tư"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_64",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "dieu_64",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "kniem_viphamphapluatvedatdai"
+    },
+    {
+      "source_id": "hanhvi_thuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_cancuvanbanquyetdinh_coquanthamquyen"
+    },
+    {
+      "source_id": "chu_coquannhanuococothammquyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_cancuvanbanquyetdinh_coquanthamquyen"
+    },
+    {
+      "source_id": "kniem_viphamphapluatvedatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_sd_khongdungmucdich_tieptucvipham"
+    },
+    {
+      "source_id": "dieukien_sd_khongdungmucdich_tieptucvipham",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "chu_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_sd_khongdungmucdich_tieptucvipham"
+    },
+    {
+      "source_id": "kniem_viphamphapluatvedatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_coy_huyhoaidat"
+    },
+    {
+      "source_id": "dieukien_coy_huyhoaidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "chu_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_coy_huyhoaidat"
+    },
+    {
+      "source_id": "kniem_viphamphapluatvedatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_datgiaochothue_khongdung"
+    },
+    {
+      "source_id": "dieukien_datgiaochothue_khongdung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "chu_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_datgiaochothue_khongdung"
+    },
+    {
+      "source_id": "kniem_viphamphapluatvedatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_datkhongduocchuyennhuong_manhan"
+    },
+    {
+      "source_id": "dieukien_datkhongduocchuyennhuong_manhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "kniem_luatdatdai2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_datkhongduocchuyennhuong_manhan"
+    },
+    {
+      "source_id": "kniem_viphamphapluatvedatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_datgiaodequanly_bilanchiem"
+    },
+    {
+      "source_id": "dieukien_datgiaodequanly_bilanchiem",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "chu_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_datgiaodequanly_bilanchiem"
+    },
+    {
+      "source_id": "kniem_viphamphapluatvedatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_datkhongduocchuyenquyen_dothieutrachnhiem"
+    },
+    {
+      "source_id": "dieukien_datkhongduocchuyenquyen_dothieutrachnhiem",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "kniem_luatdatdai2013",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_datkhongduocchuyenquyen_dothieutrachnhiem"
+    },
+    {
+      "source_id": "chu_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_datkhongduocchuyenquyen_dothieutrachnhiem"
+    },
+    {
+      "source_id": "kniem_viphamphapluatvedatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_khongthuchiennghiavu_makhongchaphanh"
+    },
+    {
+      "source_id": "dieukien_khongthuchiennghiavu_makhongchaphanh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "chu_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_khongthuchiennghiavu_makhongchaphanh"
+    },
+    {
+      "source_id": "kniem_viphamphapluatvedatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_datsudungnongnghiep_khongdungthoihan"
+    },
+    {
+      "source_id": "dieukien_datsudungnongnghiep_khongdungthoihan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "kniem_viphamphapluatvedatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_datduandautu_khongsdhoacchamtiendo"
+    },
+    {
+      "source_id": "dieukien_datduandautu_khongsdhoacchamtiendo",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "chu_chudautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_datduandautu_khongsdhoacchamtiendo"
+    },
+    {
+      "source_id": "kniem_duandautu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_datduandautu_khongsdhoacchamtiendo"
+    },
+    {
+      "source_id": "chu_chudautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_giahan_sudungdat_chudautu"
+    },
+    {
+      "source_id": "hanhvi_giahan_sudungdat_chudautu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_noptien_giahan"
+    },
+    {
+      "source_id": "dieukien_datduandautu_khongsdhoacchamtiendo",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thuhoidat_khongboithuong"
+    },
+    {
+      "source_id": "chetai_thuhoidat_khongboithuong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_batkhakhang"
+    },
+    {
+      "source_id": "chu_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_64"
+    }
+  ]
+}

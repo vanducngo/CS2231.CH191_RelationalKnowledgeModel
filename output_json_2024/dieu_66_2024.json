@@ -1,0 +1,216 @@
+{
+  "entities": [
+    {
+      "id": "dieu_66",
+      "label": "ĐiềuLuật",
+      "properties": {
+        "ten": "Điều 66. Quy hoạch sử dụng đất cấp huyện",
+        "luat": "Luật Đất đai 2024"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcaphuyen",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Quy hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "dieukien_canculapquyhoach",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Căn cứ lập quy hoạch sử dụng đất cấp huyện",
+        "trichdan": "Khoản 1, Điều 66"
+      }
+    },
+    {
+      "id": "dieukien_noidungquyhoach",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Nội dung quy hoạch sử dụng đất cấp huyện",
+        "trichdan": "Khoản 2, Điều 66"
+      }
+    },
+    {
+      "id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Lập quy hoạch sử dụng đất cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcaptinh",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Quy hoạch sử dụng đất cấp tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachdothi",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Quy hoạch đô thị"
+      }
+    },
+    {
+      "id": "khainiem_kehoachphattrienkinhtexahoi",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Kế hoạch phát triển kinh tế - xã hội cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_nhucausudungdat",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Nhu cầu sử dụng đất của các ngành, lĩnh vực, cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancapxa",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Ủy ban nhân dân cấp xã"
+      }
+    },
+    {
+      "id": "chuthe_dongbaodantocthieuso",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Đồng bào dân tộc thiểu số"
+      }
+    },
+    {
+      "id": "hanhviphaply_capnhatdulieuvaocsdl",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Xây dựng và cập nhật dữ liệu quy hoạch vào cơ sở dữ liệu quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "khainiem_cosodulieuluocgiavedatdai",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Cơ sở dữ liệu quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "chuthe_donvihanhchinhdacouyhoach",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Quận, thành phố, thị xã đã có quy hoạch chung hoặc quy hoạch phân khu"
+      }
+    },
+    {
+      "id": "dieukien_coquyhoachchungduocpheduyet",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Đã có quy hoạch chung hoặc quy hoạch phân khu được phê duyệt",
+        "trichdan": "Khoản 4, Điều 66"
+      }
+    },
+    {
+      "id": "hanhviphaply_lapkehoachsudungdathangnam",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Lập kế hoạch sử dụng đất hằng năm cấp huyện"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachxaydung",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Quy hoạch xây dựng"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachnongthon",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Quy hoạch nông thôn"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_66",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoachsudungdatcaphuyen"
+    },
+    {
+      "source_id": "khainiem_quyhoachsudungdatcaphuyen",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_canculapquyhoach"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_noidungquyhoach"
+    },
+    {
+      "source_id": "dieukien_canculapquyhoach",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyhoachsudungdatcaptinh"
+    },
+    {
+      "source_id": "dieukien_canculapquyhoach",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyhoachdothi"
+    },
+    {
+      "source_id": "dieukien_canculapquyhoach",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_kehoachphattrienkinhtexahoi"
+    },
+    {
+      "source_id": "dieukien_canculapquyhoach",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_nhucausudungdat"
+    },
+    {
+      "source_id": "khainiem_nhucausudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uybannhandancapxa"
+    },
+    {
+      "source_id": "dieukien_noidungquyhoach",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_dongbaodantocthieuso"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capnhatdulieuvaocsdl"
+    },
+    {
+      "source_id": "hanhviphaply_capnhatdulieuvaocsdl",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_cosodulieuluocgiavedatdai"
+    },
+    {
+      "source_id": "dieukien_coquyhoachchungduocpheduyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_donvihanhchinhdacouyhoach"
+    },
+    {
+      "source_id": "chuthe_donvihanhchinhdacouyhoach",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_lapkehoachsudungdathangnam"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyhoachxaydung"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyhoachnongthon"
+    }
+  ]
+}

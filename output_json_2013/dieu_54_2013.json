@@ -1,0 +1,286 @@
+{
+  "entities": [
+    {
+      "id": "dieu_54",
+      "label": "ĐiềuLuật",
+      "name": "Điều 54"
+    },
+    {
+      "id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất không thu tiền sử dụng đất"
+    },
+    {
+      "id": "nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "ho_gia_dinh_ca_nhan",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân"
+    },
+    {
+      "id": "dieu_kien_truc_tiep_san_xuat_nong_lam_nghiep",
+      "label": "ĐiềuKiện",
+      "name": "trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối"
+    },
+    {
+      "id": "dat_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "đất nông nghiệp"
+    },
+    {
+      "id": "dieu_kien_trong_han_muc",
+      "label": "ĐiềuKiện",
+      "name": "trong hạn mức"
+    },
+    {
+      "id": "dieu_129",
+      "label": "ĐiềuLuật",
+      "name": "Điều 129"
+    },
+    {
+      "id": "dat_rung_phong_ho",
+      "label": "KháiNiệm",
+      "name": "đất rừng phòng hộ"
+    },
+    {
+      "id": "dat_rung_dac_dung",
+      "label": "KháiNiệm",
+      "name": "đất rừng đặc dụng"
+    },
+    {
+      "id": "dat_rung_san_xuat_la_rung_tu_nhien",
+      "label": "KháiNiệm",
+      "name": "đất rừng sản xuất là rừng tự nhiên"
+    },
+    {
+      "id": "dat_xay_dung_tru_so_co_quan",
+      "label": "KháiNiệm",
+      "name": "đất xây dựng trụ sở cơ quan"
+    },
+    {
+      "id": "dat_su_dung_muc_dich_quoc_phong_an_ninh",
+      "label": "KháiNiệm",
+      "name": "đất sử dụng vào mục đích quốc phòng, an ninh"
+    },
+    {
+      "id": "dat_su_dung_muc_dich_cong_cong_khong_kinh_doanh",
+      "label": "KháiNiệm",
+      "name": "đất sử dụng vào mục đích công cộng không nhằm mục đích kinh doanh"
+    },
+    {
+      "id": "dat_lam_nghia_trang_nghia_dia",
+      "label": "KháiNiệm",
+      "name": "đất làm nghĩa trang, nghĩa địa"
+    },
+    {
+      "id": "dieu_kien_khong_thuoc_khoan_4_dieu_55",
+      "label": "ĐiềuKiện",
+      "name": "không thuộc trường hợp quy định tại khoản 4 Điều 55"
+    },
+    {
+      "id": "dieu_55",
+      "label": "ĐiềuLuật",
+      "name": "Điều 55"
+    },
+    {
+      "id": "to_chuc_su_nghiep_cong_lap",
+      "label": "ChủThể",
+      "name": "Tổ chức sự nghiệp công lập"
+    },
+    {
+      "id": "dieu_kien_chua_tu_chu_tai_chinh",
+      "label": "ĐiềuKiện",
+      "name": "chưa tự chủ tài chính"
+    },
+    {
+      "id": "dat_xay_dung_cong_trinh_su_nghiep",
+      "label": "KháiNiệm",
+      "name": "đất xây dựng công trình sự nghiệp"
+    },
+    {
+      "id": "to_chuc_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Tổ chức sử dụng đất"
+    },
+    {
+      "id": "nha_o_phuc_vu_tai_dinh_cu",
+      "label": "KháiNiệm",
+      "name": "nhà ở phục vụ tái định cư"
+    },
+    {
+      "id": "dieu_kien_theo_du_an_cua_nha_nuoc",
+      "label": "ĐiềuKiện",
+      "name": "theo dự án của Nhà nước"
+    },
+    {
+      "id": "cong_dong_dan_cu",
+      "label": "ChủThể",
+      "name": "Cộng đồng dân cư"
+    },
+    {
+      "id": "co_so_ton_giao",
+      "label": "ChủThể",
+      "name": "Cơ sở tôn giáo"
+    },
+    {
+      "id": "dat_phi_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "đất phi nông nghiệp"
+    },
+    {
+      "id": "dieu_kien_quy_dinh_khoan_1_dieu_159",
+      "label": "ĐiềuKiện",
+      "name": "quy định tại khoản 1 Điều 159"
+    },
+    {
+      "id": "dieu_159",
+      "label": "ĐiềuLuật",
+      "name": "Điều 159"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_54",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "giao_dat_khong_thu_tien_su_dung_dat"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nha_nuoc"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "ho_gia_dinh_ca_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_truc_tiep_san_xuat_nong_lam_nghiep"
+    },
+    {
+      "source_id": "ho_gia_dinh_ca_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dat_nong_nghiep"
+    },
+    {
+      "source_id": "dat_nong_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_trong_han_muc"
+    },
+    {
+      "source_id": "dieu_kien_trong_han_muc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_129"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_rung_phong_ho"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_rung_dac_dung"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_rung_san_xuat_la_rung_tu_nhien"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_xay_dung_tru_so_co_quan"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_su_dung_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_su_dung_muc_dich_cong_cong_khong_kinh_doanh"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_lam_nghia_trang_nghia_dia"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khong_thuoc_khoan_4_dieu_55"
+    },
+    {
+      "source_id": "dieu_kien_khong_thuoc_khoan_4_dieu_55",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_55"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "to_chuc_su_nghiep_cong_lap"
+    },
+    {
+      "source_id": "to_chuc_su_nghiep_cong_lap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_chua_tu_chu_tai_chinh"
+    },
+    {
+      "source_id": "to_chuc_su_nghiep_cong_lap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dat_xay_dung_cong_trinh_su_nghiep"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "to_chuc_su_dung_dat"
+    },
+    {
+      "source_id": "to_chuc_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "nha_o_phuc_vu_tai_dinh_cu"
+    },
+    {
+      "source_id": "nha_o_phuc_vu_tai_dinh_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_theo_du_an_cua_nha_nuoc"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "cong_dong_dan_cu"
+    },
+    {
+      "source_id": "cong_dong_dan_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dat_nong_nghiep"
+    },
+    {
+      "source_id": "giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "co_so_ton_giao"
+    },
+    {
+      "source_id": "co_so_ton_giao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dat_phi_nong_nghiep"
+    },
+    {
+      "source_id": "dat_phi_nong_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_quy_dinh_khoan_1_dieu_159"
+    },
+    {
+      "source_id": "dieu_kien_quy_dinh_khoan_1_dieu_159",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_159"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "entities": [
+    {
+      "id": "dieu_199",
+      "label": "ĐiềuLuật",
+      "name": "Điều 199"
+    },
+    {
+      "id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng trụ sở cơ quan"
+    },
+    {
+      "id": "chuthe_co_quan_dang_cong_san_viet_nam",
+      "label": "ChủThể",
+      "name": "cơ quan Đảng Cộng sản Việt Nam"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước"
+    },
+    {
+      "id": "chuthe_mat_tran_to_quoc_viet_nam",
+      "label": "ChủThể",
+      "name": "Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "id": "chuthe_to_chuc_chinh_tri_xa_hoi",
+      "label": "ChủThể",
+      "name": "tổ chức chính trị - xã hội"
+    },
+    {
+      "id": "chuthe_to_chuc_chinh_tri_xa_hoi_nghe_nghiep",
+      "label": "ChủThể",
+      "name": "tổ chức chính trị xã hội - nghề nghiệp"
+    },
+    {
+      "id": "chuthe_to_chuc_xa_hoi_nghe_nghiep",
+      "label": "ChủThể",
+      "name": "tổ chức xã hội - nghề nghiệp"
+    },
+    {
+      "id": "chuthe_to_chuc_xa_hoi",
+      "label": "ChủThể",
+      "name": "tổ chức xã hội"
+    },
+    {
+      "id": "chuthe_to_chuc_khac",
+      "label": "ChủThể",
+      "name": "tổ chức khác"
+    },
+    {
+      "id": "dieukien_duoc_thanh_lap_theo_quy_dinh_phap_luat",
+      "label": "ĐiềuKiện",
+      "name": "được thành lập theo quy định của pháp luật"
+    },
+    {
+      "id": "dieukien_duoc_nha_nuoc_giao_nhiem_vu",
+      "label": "ĐiềuKiện",
+      "name": "được Nhà nước giao nhiệm vụ"
+    },
+    {
+      "id": "dieukien_duoc_nha_nuoc_ho_tro_kinh_phi_hoat_dong_thuong_xuyen",
+      "label": "ĐiềuKiện",
+      "name": "hỗ trợ kinh phí hoạt động thường xuyên"
+    },
+    {
+      "id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng công trình sự nghiệp"
+    },
+    {
+      "id": "khainiem_diem_d_khoan_3_dieu_9_luat_dat_dai_2024",
+      "label": "KháiNiệm",
+      "name": "điểm d khoản 3 Điều 9 của Luật này"
+    },
+    {
+      "id": "hanhviphaply_su_dung_dat_khoan_1_khoan_2",
+      "label": "HànhViPhápLý",
+      "name": "Việc sử dụng đất quy định tại khoản 1 và khoản 2 Điều này"
+    },
+    {
+      "id": "dieukien_phu_hop_quy_hoach_ke_hoach_xay_dung_phe_duyet",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "chuthe_nguoi_dai_dien_co_quan_to_chuc_duoc_giao_thue_dat",
+      "label": "ChủThể",
+      "name": "Người đại diện cơ quan, tổ chức được giao đất, cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_bao_toan_dien_tich_dat",
+      "label": "HànhViPhápLý",
+      "name": "bảo toàn diện tích đất được giao, được thuê"
+    },
+    {
+      "id": "hanhviphaply_su_dung_dat_dung_muc_dich",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng đất đúng mục đích"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_su_dung_khai_thac_dat_khoan_1_khoan_2",
+      "label": "HànhViPhápLý",
+      "name": "Việc quản lý, sử dụng, khai thác quỹ đất quy định tại khoản 1 và khoản 2 Điều này"
+    },
+    {
+      "id": "dieukien_thuoc_pham_vi_dieu_chinh_phap_luat_quan_ly_su_dung_tai_san_cong",
+      "label": "ĐiềuKiện",
+      "name": "thuộc phạm vi điều chỉnh của pháp luật về quản lý, sử dụng tài sản công"
+    },
+    {
+      "id": "khainiem_phap_luat_quan_ly_su_dung_tai_san_cong",
+      "label": "KháiNiệm",
+      "name": "pháp luật về quản lý, sử dụng tài sản công"
+    },
+    {
+      "id": "dieukien_noi_dung_khong_duoc_phap_luat_quan_ly_su_dung_tai_san_cong_quy_dinh",
+      "label": "ĐiềuKiện",
+      "name": "những nội dung mà pháp luật về quản lý, sử dụng tài sản công không quy định"
+    },
+    {
+      "id": "khainiem_luat_dat_dai_2024",
+      "label": "KháiNiệm",
+      "name": "Luật Đất đai 2024"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_xay_dung_tru_so_co_quan"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_co_quan_dang_cong_san_viet_nam"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_co_quan_nha_nuoc"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_mat_tran_to_quoc_viet_nam"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_to_chuc_chinh_tri_xa_hoi"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_to_chuc_chinh_tri_xa_hoi_nghe_nghiep"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_to_chuc_xa_hoi_nghe_nghiep"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_to_chuc_xa_hoi"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_to_chuc_khac"
+    },
+    {
+      "source_id": "chuthe_to_chuc_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_thanh_lap_theo_quy_dinh_phap_luat"
+    },
+    {
+      "source_id": "chuthe_to_chuc_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_nha_nuoc_giao_nhiem_vu"
+    },
+    {
+      "source_id": "chuthe_to_chuc_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_nha_nuoc_ho_tro_kinh_phi_hoat_dong_thuong_xuyen"
+    },
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_diem_d_khoan_3_dieu_9_luat_dat_dai_2024"
+    },
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_su_dung_dat_khoan_1_khoan_2"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_khoan_1_khoan_2",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_quy_hoach_ke_hoach_xay_dung_phe_duyet"
+    },
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_dai_dien_co_quan_to_chuc_duoc_giao_thue_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_dai_dien_co_quan_to_chuc_duoc_giao_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_bao_toan_dien_tich_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_dai_dien_co_quan_to_chuc_duoc_giao_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_su_dung_dat_dung_muc_dich"
+    },
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_su_dung_khai_thac_dat_khoan_1_khoan_2"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_su_dung_khai_thac_dat_khoan_1_khoan_2",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuoc_pham_vi_dieu_chinh_phap_luat_quan_ly_su_dung_tai_san_cong"
+    },
+    {
+      "source_id": "dieukien_thuoc_pham_vi_dieu_chinh_phap_luat_quan_ly_su_dung_tai_san_cong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_phap_luat_quan_ly_su_dung_tai_san_cong"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_su_dung_khai_thac_dat_khoan_1_khoan_2",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_noi_dung_khong_duoc_phap_luat_quan_ly_su_dung_tai_san_cong_quy_dinh"
+    },
+    {
+      "source_id": "dieukien_noi_dung_khong_duoc_phap_luat_quan_ly_su_dung_tai_san_cong_quy_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_luat_dat_dai_2024"
+    }
+  ]
+}

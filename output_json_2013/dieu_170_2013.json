@@ -1,0 +1,276 @@
+{
+  "entities": [
+    {
+      "id": "dieu_170",
+      "label": "ĐiềuLuật",
+      "name": "Điều 170"
+    },
+    {
+      "id": "khainiem_nghiavuchungcuanguoisudungdat",
+      "label": "KháiNiệm",
+      "name": "Nghĩa vụ chung của người sử dụng đất"
+    },
+    {
+      "id": "chuthe_ngoisudungdat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "hanhvi_sudungdatdungmucdich",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất đúng mục đích"
+    },
+    {
+      "id": "hanhvi_sudungdatdungranhgioithuadat",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất đúng ranh giới thửa đất"
+    },
+    {
+      "id": "hanhvi_sudungdosautronglongdat",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng độ sâu trong lòng đất"
+    },
+    {
+      "id": "hanhvi_sudungchieucaotrenkhong",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng chiều cao trên không"
+    },
+    {
+      "id": "hanhvi_baovecongtrinhcongcongtronglongdat",
+      "label": "HànhViPhápLý",
+      "name": "Bảo vệ các công trình công cộng trong lòng đất"
+    },
+    {
+      "id": "hanhvi_tuanthaocacquydinhkhaccuaphatluatlienquan",
+      "label": "HànhViPhápLý",
+      "name": "Tuân theo các quy định khác của pháp luật có liên quan"
+    },
+    {
+      "id": "hanhvi_kekhaidangkydatdai",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện kê khai đăng ký đất đai"
+    },
+    {
+      "id": "hanhvi_lamthutucchuyendoiquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Làm đầy đủ thủ tục khi chuyển đổi quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_lamthutucchuyennhuongquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Làm đầy đủ thủ tục khi chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_lamthutucchothuequyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Làm đầy đủ thủ tục khi cho thuê quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_lamthutucchothuelaquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Làm đầy đủ thủ tục khi cho thuê lại quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_lamthutucthuakequyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Làm đầy đủ thủ tục khi thừa kế quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_lamthutuctangchoquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Làm đầy đủ thủ tục khi tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_lamthutucthechapquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Làm đầy đủ thủ tục khi thế chấp quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_lamthutucgopvonbangquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Làm đầy đủ thủ tục khi góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_thuchiennghiavutaichinh",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhvi_thuchiencacbienphapbaovedat",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện các biện pháp bảo vệ đất"
+    },
+    {
+      "id": "hanhvi_tuanthaocacquydinhvebaovemoitruong",
+      "label": "HànhViPhápLý",
+      "name": "Tuân theo các quy định về bảo vệ môi trường"
+    },
+    {
+      "id": "hanhvi_khonglamtonhailoichhopapcuanguoisudungdatlienquan",
+      "label": "HànhViPhápLý",
+      "name": "Không làm tổn hại đến lợi ích hợp pháp của người sử dụng đất có liên quan"
+    },
+    {
+      "id": "hanhvi_tuanthaocacquydinhvetimthayvattronglongdat",
+      "label": "HànhViPhápLý",
+      "name": "Tuân theo các quy định của pháp luật về việc tìm thấy vật trong lòng đất"
+    },
+    {
+      "id": "hanhvi_giaolaidat",
+      "label": "HànhViPhápLý",
+      "name": "Giao lại đất"
+    },
+    {
+      "id": "dieukien_nhanuocquyetdinhthuhoi",
+      "label": "ĐiềuKiện",
+      "name": "Nhà nước có quyết định thu hồi đất"
+    },
+    {
+      "id": "dieukien_hetthoihansudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn sử dụng đất"
+    },
+    {
+      "id": "dieukien_khongduocgianhansudung",
+      "label": "ĐiềuKiện",
+      "name": "Không được cơ quan nhà nước có thẩm quyền gia hạn sử dụng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_170",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_nghiavuchungcuanguoisudungdat"
+    },
+    {
+      "source_id": "dieu_170",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoisudungdat"
+    },
+    {
+      "source_id": "dieu_170",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_nghiavuchungcuanguoisudungdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_sudungdatdungmucdich"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_sudungdatdungranhgioithuadat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_sudungdosautronglongdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_sudungchieucaotrenkhong"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_baovecongtrinhcongcongtronglongdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_tuanthaocacquydinhkhaccuaphatluatlienquan"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_kekhaidangkydatdai"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_lamthutucchuyendoiquyensudungdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_lamthutucchuyennhuongquyensudungdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_lamthutucchothuequyensudungdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_lamthutucchothuelaquyensudungdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_lamthutucthuakequyensudungdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_lamthutuctangchoquyensudungdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_lamthutucthechapquyensudungdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_lamthutucgopvonbangquyensudungdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_thuchiennghiavutaichinh"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_thuchiencacbienphapbaovedat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_tuanthaocacquydinhvebaovemoitruong"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_khonglamtonhailoichhopapcuanguoisudungdatlienquan"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_tuanthaocacquydinhvetimthayvattronglongdat"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_giaolaidat"
+    },
+    {
+      "source_id": "hanhvi_giaolaidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nhanuocquyetdinhthuhoi"
+    },
+    {
+      "source_id": "hanhvi_giaolaidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hetthoihansudungdat"
+    },
+    {
+      "source_id": "hanhvi_giaolaidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongduocgianhansudung"
+    }
+  ]
+}

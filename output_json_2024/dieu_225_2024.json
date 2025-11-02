@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_225",
+      "label": "ĐiềuLuật",
+      "name": "Điều 225. Công bố, công khai thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "khainiem_thutuchanhchinhvedatdai",
+      "label": "KháiNiệm",
+      "name": "Thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "khainiem_noidungcongkhai",
+      "label": "KháiNiệm",
+      "name": "Nội dung công khai thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "chuthe_coquantiepnhanhoso",
+      "label": "ChủThể",
+      "name": "Cơ quan tiếp nhận hồ sơ và trả kết quả"
+    },
+    {
+      "id": "chuthe_doituongthuchien",
+      "label": "ChủThể",
+      "name": "Đối tượng thực hiện thủ tục hành chính"
+    },
+    {
+      "id": "chuthe_uybannhandancapduoi",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện, cấp xã"
+    },
+    {
+      "id": "hanhviphaply_congbo",
+      "label": "HànhViPhápLý",
+      "name": "Công bố thủ tục hành chính"
+    },
+    {
+      "id": "hanhviphaply_congkhai",
+      "label": "HànhViPhápLý",
+      "name": "Công khai thủ tục hành chính"
+    },
+    {
+      "id": "hanhviphaply_pheduyet",
+      "label": "HànhViPhápLý",
+      "name": "Phê duyệt thủ tục hành chính"
+    },
+    {
+      "id": "dieukien_duocpheduyet",
+      "label": "ĐiềuKiện",
+      "name": "Được cơ quan có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "dieukien_niemyet",
+      "label": "ĐiềuKiện",
+      "name": "Công khai bằng hình thức niêm yết thường xuyên tại trụ sở"
+    },
+    {
+      "id": "dieukien_dangtai",
+      "label": "ĐiềuKiện",
+      "name": "Công khai bằng hình thức đăng trên Cổng Dịch vụ công và trang thông tin điện tử"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_225",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thutuchanhchinhvedatdai"
+    },
+    {
+      "source_id": "dieu_225",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_noidungcongkhai"
+    },
+    {
+      "source_id": "khainiem_thutuchanhchinhvedatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_congbo"
+    },
+    {
+      "source_id": "khainiem_thutuchanhchinhvedatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_congkhai"
+    },
+    {
+      "source_id": "khainiem_thutuchanhchinhvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_doituongthuchien"
+    },
+    {
+      "source_id": "hanhviphaply_congbo",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duocpheduyet"
+    },
+    {
+      "source_id": "hanhviphaply_pheduyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thutuchanhchinhvedatdai"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_congbo"
+    },
+    {
+      "source_id": "hanhviphaply_congkhai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_niemyet"
+    },
+    {
+      "source_id": "hanhviphaply_congkhai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dangtai"
+    },
+    {
+      "source_id": "dieukien_niemyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquantiepnhanhoso"
+    },
+    {
+      "source_id": "dieukien_dangtai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uybannhandancapduoi"
+    }
+  ]
+}

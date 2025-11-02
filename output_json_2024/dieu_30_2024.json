@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "id": "dieu_30",
+      "name": "Điều 30",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khainiem_quyen_lua_chon_hinh_thuc_tra_tien_thue_dat",
+      "name": "Quyền lựa chọn hình thức trả tiền thuê đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te",
+      "name": "Tổ chức kinh tế",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_don_vi_su_nghiep_cong_lap",
+      "name": "Đơn vị sự nghiệp công lập",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "name": "Cá nhân",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_goc_viet_nam_dinh_cu_nuoc_ngoai",
+      "name": "Người gốc Việt Nam định cư ở nước ngoài",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai",
+      "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "name": "Nhà nước",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_thue_dat_thu_tien_hang_nam",
+      "name": "Thuê đất thu tiền thuê đất hằng năm",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_thue_dat_thu_tien_mot_lan",
+      "name": "Thuê đất thu tiền thuê đất một lần cho cả thời gian thuê",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_chuyen_sang_thue_dat_mot_lan",
+      "name": "Lựa chọn chuyển sang thuê đất trả tiền thuê đất một lần cho thời gian thuê đất còn lại",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_xac_dinh_lai_gia_dat",
+      "name": "Xác định lại giá đất để tính tiền thuê đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_quyet_dinh_chuyen_sang_thue_dat_mot_lan",
+      "name": "Quyết định cho phép chuyển sang thuê đất theo hình thức trả tiền thuê đất một lần",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_dang_duoc_nha_nuoc_cho_thue_dat_hang_nam",
+      "name": "Đang được Nhà nước cho thuê đất thu tiền thuê đất hằng năm",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_thuoc_truong_hop_duoc_cho_thue_dat_mot_lan",
+      "name": "Thuộc trường hợp được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê theo quy định của Luật này",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_tai_thoi_diem_co_quyet_dinh_chuyen_doi",
+      "name": "Tại thời điểm có quyết định cho phép chuyển sang thuê đất theo hình thức trả tiền thuê đất một lần cho cả thời gian thuê",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_chuyen_sang_thue_dat_hang_nam",
+      "name": "Lựa chọn chuyển sang thuê đất thu tiền thuê đất hằng năm",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_dang_duoc_nha_nuoc_cho_thue_dat_mot_lan",
+      "name": "Đang được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_khau_tru_tien_thue_dat",
+      "name": "Tiền thuê đất đã nộp được khấu trừ vào tiền thuê đất hằng năm",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_theo_quy_dinh_cua_chinh_phu_khau_tru",
+      "name": "Theo quy định của Chính phủ (về khấu trừ tiền thuê đất)",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_giao_dat_khong_thu_tien",
+      "name": "Giao đất không thu tiền sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_su_dung_dat_san_xuat_kinh_doanh_dich_vu",
+      "name": "Sử dụng đất để sản xuất, kinh doanh, cung cấp dịch vụ",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_co_nhu_cau_su_dung_san_xuat_kinh_doanh_dich_vu",
+      "name": "Có nhu cầu sử dụng một phần hoặc toàn bộ diện tích được giao để sản xuất, kinh doanh, cung cấp dịch vụ",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_lua_chon_chuyen_sang_thue_dat_hang_nam_phan_dien_tich",
+      "name": "Lựa chọn chuyển sang hình thức Nhà nước cho thuê đất thu tiền thuê đất hằng năm đối với phần diện tích đó",
+      "label": "HànhViPhápLý"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_30",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_lua_chon_hinh_thuc_tra_tien_thue_dat"
+    },
+    {
+      "source_id": "dieu_30",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "dieu_30",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_don_vi_su_nghiep_cong_lap"
+    },
+    {
+      "source_id": "dieu_30",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "dieu_30",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_nuoc_ngoai"
+    },
+    {
+      "source_id": "dieu_30",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thue_dat_thu_tien_hang_nam"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thue_dat_thu_tien_mot_lan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_sang_thue_dat_mot_lan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_duoc_nha_nuoc_cho_thue_dat_hang_nam"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_sang_thue_dat_mot_lan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuoc_truong_hop_duoc_cho_thue_dat_mot_lan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_sang_thue_dat_mot_lan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thue_dat_thu_tien_mot_lan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_sang_thue_dat_mot_lan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xac_dinh_lai_gia_dat"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_lai_gia_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_thoi_diem_co_quyet_dinh_chuyen_doi"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_chuyen_sang_thue_dat_mot_lan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_tai_thoi_diem_co_quyet_dinh_chuyen_doi"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_sang_thue_dat_hang_nam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_duoc_nha_nuoc_cho_thue_dat_mot_lan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_sang_thue_dat_hang_nam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thue_dat_thu_tien_hang_nam"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_sang_thue_dat_hang_nam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khau_tru_tien_thue_dat"
+    },
+    {
+      "source_id": "hanhviphaply_khau_tru_tien_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_cua_chinh_phu_khau_tru"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giao_dat_khong_thu_tien"
+    },
+    {
+      "source_id": "chuthe_don_vi_su_nghiep_cong_lap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giao_dat_khong_thu_tien"
+    },
+    {
+      "source_id": "hanhviphaply_lua_chon_chuyen_sang_thue_dat_hang_nam_phan_dien_tich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_nhu_cau_su_dung_san_xuat_kinh_doanh_dich_vu"
+    },
+    {
+      "source_id": "hanhviphaply_lua_chon_chuyen_sang_thue_dat_hang_nam_phan_dien_tich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thue_dat_thu_tien_hang_nam"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_lua_chon_chuyen_sang_thue_dat_hang_nam_phan_dien_tich"
+    }
+  ]
+}

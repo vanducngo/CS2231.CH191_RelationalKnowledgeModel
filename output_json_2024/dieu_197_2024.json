@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "id": "dieu_197",
+      "label": "ĐiềuLuật",
+      "name": "Điều 197"
+    },
+    {
+      "id": "khauniem_dat_xay_dung_khu_chung_cu",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng khu chung cư"
+    },
+    {
+      "id": "khauniem_dat_o_xay_dung_nha_chung_cu",
+      "label": "KháiNiệm",
+      "name": "đất ở để xây dựng nhà chung cư"
+    },
+    {
+      "id": "khauniem_cong_trinh_phuc_vu_doi_song_nguoi_dan",
+      "label": "KháiNiệm",
+      "name": "các công trình phục vụ trực tiếp cho đời sống của người dân trong khu chung cư"
+    },
+    {
+      "id": "khauniem_dat_xay_dung_cong_trinh_phuc_vu_cong_dong",
+      "label": "KháiNiệm",
+      "name": "đất để xây dựng các công trình phục vụ cộng đồng"
+    },
+    {
+      "id": "chuthe_nguoi_dan",
+      "label": "ChủThể",
+      "name": "người dân"
+    },
+    {
+      "id": "chuthe_co_quan_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan có thẩm quyền"
+    },
+    {
+      "id": "dieu_kien_theo_quy_hoach_phe_duyet",
+      "label": "ĐiềuKiện",
+      "name": "theo quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "dieu_kien_dong_bo_voi_dat_cong_cong_su_nghiep",
+      "label": "ĐiềuKiện",
+      "name": "bảo đảm đồng bộ với đất sử dụng cho mục đích xây dựng các công trình công cộng, công trình sự nghiệp"
+    },
+    {
+      "id": "dieu_kien_ve_sinh_moi_truong",
+      "label": "ĐiềuKiện",
+      "name": "bảo đảm vệ sinh môi trường"
+    },
+    {
+      "id": "dieu_kien_canh_quan_do_thi",
+      "label": "ĐiềuKiện",
+      "name": "bảo đảm cảnh quan đô thị"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_197",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_dat_xay_dung_khu_chung_cu"
+    },
+    {
+      "source_id": "khauniem_dat_xay_dung_khu_chung_cu",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_dat_o_xay_dung_nha_chung_cu"
+    },
+    {
+      "source_id": "khauniem_dat_xay_dung_khu_chung_cu",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_cong_trinh_phuc_vu_doi_song_nguoi_dan"
+    },
+    {
+      "source_id": "khauniem_cong_trinh_phuc_vu_doi_song_nguoi_dan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_dan"
+    },
+    {
+      "source_id": "khauniem_dat_xay_dung_khu_chung_cu",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_dat_xay_dung_cong_trinh_phuc_vu_cong_dong"
+    },
+    {
+      "source_id": "khauniem_dat_xay_dung_cong_trinh_phuc_vu_cong_dong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_theo_quy_hoach_phe_duyet"
+    },
+    {
+      "source_id": "dieu_kien_theo_quy_hoach_phe_duyet",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_co_tham_quyen"
+    },
+    {
+      "source_id": "khauniem_dat_xay_dung_khu_chung_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dong_bo_voi_dat_cong_cong_su_nghiep"
+    },
+    {
+      "source_id": "khauniem_dat_xay_dung_khu_chung_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_ve_sinh_moi_truong"
+    },
+    {
+      "source_id": "khauniem_dat_xay_dung_khu_chung_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_canh_quan_do_thi"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_197"
+    }
+  ]
+}

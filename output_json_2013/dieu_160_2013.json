@@ -1,0 +1,206 @@
+{
+  "entities": [
+    {
+      "id": "dieu_160",
+      "label": "ĐiềuLuật",
+      "name": "Điều 160"
+    },
+    {
+      "id": "khauniem_dattinnguong",
+      "label": "KháiNiệm",
+      "name": "Đất tín ngưỡng"
+    },
+    {
+      "id": "khauniem_dinh",
+      "label": "KháiNiệm",
+      "name": "đình"
+    },
+    {
+      "id": "khauniem_den",
+      "label": "KháiNiệm",
+      "name": "đền"
+    },
+    {
+      "id": "khauniem_mieu",
+      "label": "KháiNiệm",
+      "name": "miếu"
+    },
+    {
+      "id": "khauniem_am",
+      "label": "KháiNiệm",
+      "name": "am"
+    },
+    {
+      "id": "khauniem_tuduong",
+      "label": "KháiNiệm",
+      "name": "từ đường"
+    },
+    {
+      "id": "khauniem_nhathoho",
+      "label": "KháiNiệm",
+      "name": "nhà thờ họ"
+    },
+    {
+      "id": "hanhviphaply_sudungdattinnguong",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng đất tín ngưỡng"
+    },
+    {
+      "id": "dieukien_dungmucdich",
+      "label": "ĐiềuKiện",
+      "name": "đúng mục đích"
+    },
+    {
+      "id": "dieukien_phuhoppqhkhsd",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_phuhoppqhxdtd",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với quy hoạch xây dựng đô thị"
+    },
+    {
+      "id": "dieukien_phuhoppqhxdtdcnt",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với quy hoạch xây dựng điểm dân cư nông thôn"
+    },
+    {
+      "id": "chuthe_coquannhathuccotq",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_xaydungcongtrinhtinnguong",
+      "label": "HànhViPhápLý",
+      "name": "xây dựng các công trình đình, đền, miếu, am, từ đường, nhà thờ họ"
+    },
+    {
+      "id": "hanhviphaply_morongcongtrinhtinnguong",
+      "label": "HànhViPhápLý",
+      "name": "mở rộng các công trình đình, đền, miếu, am, từ đường, nhà thờ họ"
+    },
+    {
+      "id": "chuthe_congdong",
+      "label": "ChủThể",
+      "name": "cộng đồng"
+    },
+    {
+      "id": "dieukien_duocphepcqnntq",
+      "label": "ĐiềuKiện",
+      "name": "được phép của cơ quan nhà nước có thẩm quyền"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_160",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_dattinnguong"
+    },
+    {
+      "source_id": "khauniem_dattinnguong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_dinh"
+    },
+    {
+      "source_id": "khauniem_dattinnguong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_den"
+    },
+    {
+      "source_id": "khauniem_dattinnguong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_mieu"
+    },
+    {
+      "source_id": "khauniem_dattinnguong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_am"
+    },
+    {
+      "source_id": "khauniem_dattinnguong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_tuduong"
+    },
+    {
+      "source_id": "khauniem_dattinnguong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_nhathoho"
+    },
+    {
+      "source_id": "dieu_160",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sudungdattinnguong"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdattinnguong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dungmucdich"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdattinnguong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhoppqhkhsd"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdattinnguong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhoppqhxdtd"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdattinnguong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhoppqhxdtdcnt"
+    },
+    {
+      "source_id": "dieukien_phuhoppqhkhsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquannhathuccotq"
+    },
+    {
+      "source_id": "dieukien_phuhoppqhxdtd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquannhathuccotq"
+    },
+    {
+      "source_id": "dieukien_phuhoppqhxdtdcnt",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquannhathuccotq"
+    },
+    {
+      "source_id": "dieu_160",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xaydungcongtrinhtinnguong"
+    },
+    {
+      "source_id": "dieu_160",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_morongcongtrinhtinnguong"
+    },
+    {
+      "source_id": "hanhviphaply_xaydungcongtrinhtinnguong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congdong"
+    },
+    {
+      "source_id": "hanhviphaply_morongcongtrinhtinnguong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congdong"
+    },
+    {
+      "source_id": "hanhviphaply_xaydungcongtrinhtinnguong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duocphepcqnntq"
+    },
+    {
+      "source_id": "hanhviphaply_morongcongtrinhtinnguong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duocphepcqnntq"
+    },
+    {
+      "source_id": "dieukien_duocphepcqnntq",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquannhathuccotq"
+    }
+  ]
+}

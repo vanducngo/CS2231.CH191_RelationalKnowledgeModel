@@ -1,0 +1,51 @@
+{
+  "entities": [
+    {
+      "id": "dieu_134",
+      "name": "Điều 134",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khauniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_nguoi_co_quyen_su_dung_dat_quyen_so_huu_nha_o_quyen_so_huu_cong_trinh_xay_dung_gan_lien_voi_dat",
+      "name": "người có quyền sử dụng đất, quyền sở hữu nhà ở, quyền sở hữu công trình xây dựng gắn liền với đất",
+      "label": "ChủThể"
+    },
+    {
+      "id": "dieukien_mau_thong_nhat_trong_ca_nuoc",
+      "name": "mẫu thống nhất trong cả nước",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường",
+      "label": "ChủThể"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_134",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "khauniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_quyen_su_dung_dat_quyen_so_huu_nha_o_quyen_so_huu_cong_trinh_xay_dung_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "khauniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_mau_thong_nhat_trong_ca_nuoc"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
+    }
+  ]
+}

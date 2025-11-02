@@ -1,0 +1,206 @@
+{
+  "entities": [
+    {
+      "id": "dieu_82",
+      "label": "ĐiềuLuật",
+      "name": "Điều 82. Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng"
+    },
+    {
+      "id": "chetai_thu_hoi_dat",
+      "label": "ChếTài",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat",
+      "label": "KháiNiệm",
+      "name": "Chấm dứt việc sử dụng đất theo pháp luật"
+    },
+    {
+      "id": "khainiem_tu_nguyen_tra_lai_dat",
+      "label": "KháiNiệm",
+      "name": "Tự nguyện trả lại đất"
+    },
+    {
+      "id": "khainiem_nguy_co_de_doa_tinh_mang",
+      "label": "KháiNiệm",
+      "name": "Đất có nguy cơ đe dọa tính mạng con người"
+    },
+    {
+      "id": "khainiem_khong_con_kha_nang_su_dung",
+      "label": "KháiNiệm",
+      "name": "Đất không còn khả năng tiếp tục sử dụng"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_co_don_tra_lai_dat",
+      "label": "HànhViPhápLý",
+      "name": "Có đơn tự nguyện trả lại đất"
+    },
+    {
+      "id": "dieukien_to_chuc_bi_giai_the_pha_san",
+      "label": "ĐiềuKiện",
+      "name": "Tổ chức bị giải thể, phá sản hoặc chấm dứt hoạt động"
+    },
+    {
+      "id": "dieukien_canhan_chet_khong_co_nguoi_thua_ke",
+      "label": "ĐiềuKiện",
+      "name": "Cá nhân chết mà không có người nhận thừa kế"
+    },
+    {
+      "id": "dieukien_dat_khong_duoc_gia_han",
+      "label": "ĐiềuKiện",
+      "name": "Đất được giao, cho thuê có thời hạn nhưng không được gia hạn"
+    },
+    {
+      "id": "dieukien_cham_dut_du_an_dau_tu",
+      "label": "ĐiềuKiện",
+      "name": "Chấm dứt dự án đầu tư"
+    },
+    {
+      "id": "dieukien_bi_thu_hoi_rung",
+      "label": "ĐiềuKiện",
+      "name": "Bị thu hồi rừng"
+    },
+    {
+      "id": "dieukien_dat_o_nhiem_moi_truong",
+      "label": "ĐiềuKiện",
+      "name": "Đất trong khu vực bị ô nhiễm môi trường"
+    },
+    {
+      "id": "dieukien_dat_sat_lo_sut_lun_thien_tai",
+      "label": "ĐiềuKiện",
+      "name": "Đất có nguy cơ sạt lở, sụt lún, bị ảnh hưởng bởi thiên tai"
+    },
+    {
+      "id": "dieukien_van_ban_phap_ly",
+      "label": "ĐiềuKiện",
+      "name": "Văn bản của cơ quan có thẩm quyền làm căn cứ thu hồi đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_82",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chetai_thu_hoi_dat"
+    },
+    {
+      "source_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thu_hoi_dat"
+    },
+    {
+      "source_id": "khainiem_tu_nguyen_tra_lai_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thu_hoi_dat"
+    },
+    {
+      "source_id": "khainiem_nguy_co_de_doa_tinh_mang",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thu_hoi_dat"
+    },
+    {
+      "source_id": "khainiem_khong_con_kha_nang_su_dung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieu_82",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
+    },
+    {
+      "source_id": "dieukien_to_chuc_bi_giai_the_pha_san",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "dieukien_to_chuc_bi_giai_the_pha_san",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
+    },
+    {
+      "source_id": "dieukien_canhan_chet_khong_co_nguoi_thua_ke",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "dieukien_canhan_chet_khong_co_nguoi_thua_ke",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
+    },
+    {
+      "source_id": "dieukien_dat_khong_duoc_gia_han",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
+    },
+    {
+      "source_id": "dieukien_cham_dut_du_an_dau_tu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
+    },
+    {
+      "source_id": "dieukien_bi_thu_hoi_rung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
+    },
+    {
+      "source_id": "hanhviphaply_co_don_tra_lai_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_tu_nguyen_tra_lai_dat"
+    },
+    {
+      "source_id": "hanhviphaply_co_don_tra_lai_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_dat_o_nhiem_moi_truong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_nguy_co_de_doa_tinh_mang"
+    },
+    {
+      "source_id": "dieukien_dat_o_nhiem_moi_truong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_khong_con_kha_nang_su_dung"
+    },
+    {
+      "source_id": "dieukien_dat_sat_lo_sut_lun_thien_tai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_nguy_co_de_doa_tinh_mang"
+    },
+    {
+      "source_id": "dieukien_dat_sat_lo_sut_lun_thien_tai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_khong_con_kha_nang_su_dung"
+    },
+    {
+      "source_id": "chetai_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_van_ban_phap_ly"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_82"
+    }
+  ]
+}

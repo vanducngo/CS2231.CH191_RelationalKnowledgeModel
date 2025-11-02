@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "id": "dieu_33",
+      "label": "ĐiềuLuật",
+      "name": "Điều 33 Luật Đất đai 2024"
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_donvi_sunghiep_conglap",
+      "label": "ChủThể",
+      "name": "Đơn vị sự nghiệp công lập"
+    },
+    {
+      "id": "chuthe_tochuc_trongnuoc",
+      "label": "ChủThể",
+      "name": "Tổ chức trong nước"
+    },
+    {
+      "id": "khainiem_quyen_va_nghiavu",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ của tổ chức được giao đất, cho thuê đất"
+    },
+    {
+      "id": "hanhvi_chuyennhuong_qsdd",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_chothue_qsdd",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_chothuelai_qsdd",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê lại quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_tangcho_qsdd",
+      "label": "HànhViPhápLý",
+      "name": "Tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_thechap_qsdd",
+      "label": "HànhViPhápLý",
+      "name": "Thế chấp quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_gopvon_qsdd",
+      "label": "HànhViPhápLý",
+      "name": "Góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_mien_giam_tien",
+      "label": "ĐiềuKiện",
+      "name": "Được miễn, giảm tiền sử dụng đất, tiền thuê đất"
+    },
+    {
+      "id": "hanhvi_nop_tien_miengiam",
+      "label": "HànhViPhápLý",
+      "name": "Nộp khoản tiền tương ứng với số tiền đã được miễn, giảm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_va_nghiavu"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghiavu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_kinhte"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghiavu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_donvi_sunghiep_conglap"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghiavu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_trongnuoc"
+    },
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_chuyennhuong_qsdd"
+    },
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_chothue_qsdd"
+    },
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_chothuelai_qsdd"
+    },
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_tangcho_qsdd"
+    },
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thechap_qsdd"
+    },
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_gopvon_qsdd"
+    },
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_mien_giam_tien"
+    },
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_nop_tien_miengiam"
+    },
+    {
+      "source_id": "hanhvi_chuyennhuong_qsdd",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_nop_tien_miengiam"
+    },
+    {
+      "source_id": "hanhvi_gopvon_qsdd",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_nop_tien_miengiam"
+    }
+  ]
+}

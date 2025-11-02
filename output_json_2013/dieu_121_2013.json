@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_121",
+      "label": "ĐiềuLuật",
+      "name": "Điều 121"
+    },
+    {
+      "id": "khainiem_cosodulieu_datdai_quocgia",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu đất đai quốc gia"
+    },
+    {
+      "id": "hanhviphaply_xaydung_thongnhat",
+      "label": "HànhViPhápLý",
+      "name": "xây dựng thống nhất"
+    },
+    {
+      "id": "khainiem_csdl_vanban_quypfpl_datdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai"
+    },
+    {
+      "id": "khainiem_csdl_diachinh",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu địa chính"
+    },
+    {
+      "id": "khainiem_csdl_dieutra_coban_datdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu điều tra cơ bản về đất đai"
+    },
+    {
+      "id": "khainiem_csdl_quyhoach_kehoach_sudung_dat",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_csdl_gia_dat",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu giá đất"
+    },
+    {
+      "id": "khainiem_csdl_thongke_kiemke_datdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu thống kê, kiểm kê đất đai"
+    },
+    {
+      "id": "khainiem_csdl_thanhtra_kiemtra_giaiquyet_tranhchap_khieunai_tocao_datdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu về thanh tra, kiểm tra, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai"
+    },
+    {
+      "id": "khainiem_csdl_khac_lienquan_datdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu khác liên quan đến đất đai"
+    },
+    {
+      "id": "khainiem_noidung_cautruc_kieuthongtin_csdl_datdai",
+      "label": "KháiNiệm",
+      "name": "Nội dung, cấu trúc và kiểu thông tin cơ sở dữ liệu đất đai"
+    },
+    {
+      "id": "chuthe_botruong_botainguyen_moitruong",
+      "label": "ChủThể",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_121",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_cosodulieu_datdai_quocgia"
+    },
+    {
+      "source_id": "dieu_121",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xaydung_thongnhat"
+    },
+    {
+      "source_id": "hanhviphaply_xaydung_thongnhat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cosodulieu_datdai_quocgia"
+    },
+    {
+      "source_id": "khainiem_cosodulieu_datdai_quocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdl_vanban_quypfpl_datdai"
+    },
+    {
+      "source_id": "khainiem_cosodulieu_datdai_quocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdl_diachinh"
+    },
+    {
+      "source_id": "khainiem_cosodulieu_datdai_quocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdl_dieutra_coban_datdai"
+    },
+    {
+      "source_id": "khainiem_cosodulieu_datdai_quocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdl_quyhoach_kehoach_sudung_dat"
+    },
+    {
+      "source_id": "khainiem_cosodulieu_datdai_quocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdl_gia_dat"
+    },
+    {
+      "source_id": "khainiem_cosodulieu_datdai_quocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdl_thongke_kiemke_datdai"
+    },
+    {
+      "source_id": "khainiem_cosodulieu_datdai_quocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdl_thanhtra_kiemtra_giaiquyet_tranhchap_khieunai_tocao_datdai"
+    },
+    {
+      "source_id": "khainiem_cosodulieu_datdai_quocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdl_khac_lienquan_datdai"
+    },
+    {
+      "source_id": "dieu_121",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_noidung_cautruc_kieuthongtin_csdl_datdai"
+    },
+    {
+      "source_id": "chuthe_botruong_botainguyen_moitruong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_noidung_cautruc_kieuthongtin_csdl_datdai"
+    }
+  ]
+}

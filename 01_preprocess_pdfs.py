@@ -12,7 +12,6 @@ def pdf_to_text(pdf_path):
 
 def clean_text(text):
     """Loại bỏ các header/footer không cần thiết."""
-    # Mẫu regex này có thể cần tinh chỉnh tùy theo cấu trúc file PDF của bạn
     text = re.sub(r'about:blank\s*\d+/\d+', '', text)
     text = re.sub(r'\d+/\d+/\d+, \d+:\d+ [AP]M', '', text)
     return text.strip()

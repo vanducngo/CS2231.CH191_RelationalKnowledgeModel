@@ -1,0 +1,261 @@
+{
+  "entities": [
+    {
+      "id": "dieu_201",
+      "label": "ĐiềuLuật",
+      "name": "Điều 201"
+    },
+    {
+      "id": "khainiem_thanhtrachuyennganhdatdai",
+      "label": "KháiNiệm",
+      "name": "Thanh tra chuyên ngành đất đai"
+    },
+    {
+      "id": "hanhviphaply_hoat_dong_thanh_tra",
+      "label": "HànhViPhápLý",
+      "name": "hoạt động thanh tra"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_co_quan_to_chuc_ca_nhan",
+      "label": "ChủThể",
+      "name": "cơ quan, tổ chức, cá nhân"
+    },
+    {
+      "id": "hanhviphaply_chap_hanh",
+      "label": "HànhViPhápLý",
+      "name": "chấp hành"
+    },
+    {
+      "id": "khainiem_phap_luat_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "pháp luật về đất đai"
+    },
+    {
+      "id": "khainiem_quy_dinh_ve_chuyen_mon_ky_thuat_quan_ly_thuoc_linh_vuc_dat_dai",
+      "label": "KháiNiệm",
+      "name": "quy định về chuyên môn, kỹ thuật, quản lý thuộc lĩnh vực đất đai"
+    },
+    {
+      "id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "hanhviphaply_chi_dao_to_chuc_thuc_hien",
+      "label": "HànhViPhápLý",
+      "name": "chỉ đạo, tổ chức thực hiện"
+    },
+    {
+      "id": "chuthe_co_quan_quan_ly_dat_dai_o_dia_phuong",
+      "label": "ChủThể",
+      "name": "Cơ quan quản lý đất đai ở địa phương"
+    },
+    {
+      "id": "hanhviphaply_to_chuc_thuc_hien",
+      "label": "HànhViPhápLý",
+      "name": "tổ chức thực hiện"
+    },
+    {
+      "id": "hanhviphaply_thanh_tra_viec_chap_hanh",
+      "label": "HànhViPhápLý",
+      "name": "Thanh tra việc chấp hành"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cac_cap",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân các cấp"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "chuthe_to_chuc_ca_nhan_khac_co_lien_quan",
+      "label": "ChủThể",
+      "name": "tổ chức, cá nhân khác có liên quan"
+    },
+    {
+      "id": "khainiem_quy_dinh_ve_chuyen_mon_nghiep_vu_trong_linh_vuc_dat_dai",
+      "label": "KháiNiệm",
+      "name": "quy định về chuyên môn, nghiệp vụ trong lĩnh vực đất đai"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước"
+    },
+    {
+      "id": "khainiem_quan_ly_va_su_dung_dat_dai",
+      "label": "KháiNiệm",
+      "name": "quản lý và sử dụng đất đai"
+    },
+    {
+      "id": "hanhviphaply_phat_hien_ngan_chan_va_xu_ly_vi_pham_phap_luat_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "Phát hiện, ngăn chặn và xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "khainiem_vi_pham_phap_luat_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "chuthe_truong_doan_thanh_tra",
+      "label": "ChủThể",
+      "name": "trưởng đoàn thanh tra"
+    },
+    {
+      "id": "chuthe_thanh_tra_vien",
+      "label": "ChủThể",
+      "name": "thanh tra viên"
+    },
+    {
+      "id": "chuthe_cong_chuc_lam_cong_tac_thanh_tra_chuyen_nganh_dat_dai",
+      "label": "ChủThể",
+      "name": "công chức làm công tác thanh tra chuyên ngành đất đai"
+    },
+    {
+      "id": "khainiem_quy_trinh_tien_hanh_thanh_tra_chuyen_nganh_dat_dai",
+      "label": "KháiNiệm",
+      "name": "quy trình tiến hành thanh tra chuyên ngành đất đai"
+    },
+    {
+      "id": "dieu_kien_thuc_hien_theo_quy_dinh_cua_phap_luat_ve_thanh_tra",
+      "label": "ĐiềuKiện",
+      "name": "thực hiện theo quy định của pháp luật về thanh tra"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_201",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thanhtrachuyennganhdatdai"
+    },
+    {
+      "source_id": "khainiem_thanhtrachuyennganhdatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_hoat_dong_thanh_tra"
+    },
+    {
+      "source_id": "hanhviphaply_hoat_dong_thanh_tra",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "hanhviphaply_hoat_dong_thanh_tra",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_to_chuc_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_hoat_dong_thanh_tra",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chap_hanh"
+    },
+    {
+      "source_id": "hanhviphaply_chap_hanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_phap_luat_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_chap_hanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_dinh_ve_chuyen_mon_ky_thuat_quan_ly_thuoc_linh_vuc_dat_dai"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chi_dao_to_chuc_thuc_hien"
+    },
+    {
+      "source_id": "hanhviphaply_chi_dao_to_chuc_thuc_hien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thanhtrachuyennganhdatdai"
+    },
+    {
+      "source_id": "chuthe_co_quan_quan_ly_dat_dai_o_dia_phuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_to_chuc_thuc_hien"
+    },
+    {
+      "source_id": "hanhviphaply_to_chuc_thuc_hien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thanhtrachuyennganhdatdai"
+    },
+    {
+      "source_id": "khainiem_thanhtrachuyennganhdatdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thanh_tra_viec_chap_hanh"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_tra_viec_chap_hanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_phap_luat_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_tra_viec_chap_hanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cac_cap"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_tra_viec_chap_hanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_tra_viec_chap_hanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_ca_nhan_khac_co_lien_quan"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_tra_viec_chap_hanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_dinh_ve_chuyen_mon_nghiep_vu_trong_linh_vuc_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_tra_viec_chap_hanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nha_nuoc"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_tra_viec_chap_hanh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quan_ly_va_su_dung_dat_dai"
+    },
+    {
+      "source_id": "khainiem_thanhtrachuyennganhdatdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_phat_hien_ngan_chan_va_xu_ly_vi_pham_phap_luat_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_phat_hien_ngan_chan_va_xu_ly_vi_pham_phap_luat_ve_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_vi_pham_phap_luat_ve_dat_dai"
+    },
+    {
+      "source_id": "chuthe_truong_doan_thanh_tra",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_thuc_hien_theo_quy_dinh_cua_phap_luat_ve_thanh_tra"
+    },
+    {
+      "source_id": "chuthe_thanh_tra_vien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_thuc_hien_theo_quy_dinh_cua_phap_luat_ve_thanh_tra"
+    },
+    {
+      "source_id": "chuthe_cong_chuc_lam_cong_tac_thanh_tra_chuyen_nganh_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_thuc_hien_theo_quy_dinh_cua_phap_luat_ve_thanh_tra"
+    },
+    {
+      "source_id": "khainiem_quy_trinh_tien_hanh_thanh_tra_chuyen_nganh_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_thuc_hien_theo_quy_dinh_cua_phap_luat_ve_thanh_tra"
+    }
+  ]
+}

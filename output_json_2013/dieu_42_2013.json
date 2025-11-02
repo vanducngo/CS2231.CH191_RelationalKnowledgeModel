@@ -1,0 +1,196 @@
+{
+  "entities": [
+    {
+      "id": "dieu_42",
+      "label": "ĐiềuLuật",
+      "name": "Điều 42"
+    },
+    {
+      "id": "khauniem_trachnhiem_tochuc_lap_quyhoach_kehoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Trách nhiệm tổ chức lập quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_tochuc_lap",
+      "label": "HànhViPhápLý",
+      "name": "tổ chức lập"
+    },
+    {
+      "id": "khauniem_quyhoach_kehoach_su_dung_dat_cap_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "quy hoạch, kế hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "chuthe_botainguyenvamoitruong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "hanhviphaply_chu_tri_giup",
+      "label": "HànhViPhápLý",
+      "name": "chủ trì giúp"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "khauniem_quyhoach_kehoach_su_dung_dat_cap_tinh",
+      "label": "KháiNiệm",
+      "name": "quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "khauniem_quyhoach_kehoach_su_dung_dat_cap_huyen",
+      "label": "KháiNiệm",
+      "name": "quy hoạch, kế hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "chuthe_co_quan_quan_ly_dat_dai_cap_tinh_cap_huyen",
+      "label": "ChủThể",
+      "name": "Cơ quan quản lý đất đai cấp tỉnh, cấp huyện"
+    },
+    {
+      "id": "chuthe_bo_quoc_phong",
+      "label": "ChủThể",
+      "name": "Bộ Quốc phòng"
+    },
+    {
+      "id": "khauniem_quyhoach_kehoach_su_dung_dat_quoc_phong",
+      "label": "KháiNiệm",
+      "name": "quy hoạch, kế hoạch sử dụng đất quốc phòng"
+    },
+    {
+      "id": "chuthe_bo_cong_an",
+      "label": "ChủThể",
+      "name": "Bộ Công an"
+    },
+    {
+      "id": "khauniem_quyhoach_kehoach_su_dung_dat_an_ninh",
+      "label": "KháiNiệm",
+      "name": "quy hoạch, kế hoạch sử dụng đất an ninh"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_42",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_trachnhiem_tochuc_lap_quyhoach_kehoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tochuc_lap"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_lap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_quyhoach_kehoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "chuthe_botainguyenvamoitruong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chu_tri_giup"
+    },
+    {
+      "source_id": "hanhviphaply_chu_tri_giup",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinhphu"
+    },
+    {
+      "source_id": "hanhviphaply_chu_tri_giup",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quyhoach_kehoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tochuc_lap"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_lap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_quyhoach_kehoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tochuc_lap"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_lap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_quyhoach_kehoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "chuthe_co_quan_quan_ly_dat_dai_cap_tinh_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chu_tri_giup"
+    },
+    {
+      "source_id": "hanhviphaply_chu_tri_giup",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_chu_tri_giup",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
+    },
+    {
+      "source_id": "hanhviphaply_chu_tri_giup",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quyhoach_kehoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_chu_tri_giup",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quyhoach_kehoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "chuthe_bo_quoc_phong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tochuc_lap"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_lap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_quyhoach_kehoach_su_dung_dat_quoc_phong"
+    },
+    {
+      "source_id": "chuthe_bo_cong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tochuc_lap"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_lap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_quyhoach_kehoach_su_dung_dat_an_ninh"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_42"
+    }
+  ]
+}

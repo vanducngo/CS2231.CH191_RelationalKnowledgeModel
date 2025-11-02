@@ -1,0 +1,306 @@
+{
+  "entities": [
+    {
+      "id": "dieu_78",
+      "label": "ĐiềuLuật",
+      "name": "Điều 78"
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_tochuc_su_nghiep_cong_lap_tu_chu_tai_chinh",
+      "label": "ChủThể",
+      "name": "Tổ chức sự nghiệp công lập tự chủ tài chính"
+    },
+    {
+      "id": "chuthe_cong_dong_dan_cu",
+      "label": "ChủThể",
+      "name": "Cộng đồng dân cư"
+    },
+    {
+      "id": "chuthe_co_so_ton_giao",
+      "label": "ChủThể",
+      "name": "Cơ sở tôn giáo"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_su_dung_dat_nong_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "hanhviphaply_giao_dat_co_thu_tien_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất có thu tiền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_dat_tra_tien_mot_lan",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "hanhviphaply_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "nhận chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê đất trả tiền thuê đất hàng năm"
+    },
+    {
+      "id": "hanhviphaply_giao_khoan",
+      "label": "HànhViPhápLý",
+      "name": "giao khoán"
+    },
+    {
+      "id": "chet_tai_boi_thuong_ve_dat",
+      "label": "ChếTài",
+      "name": "được bồi thường về đất"
+    },
+    {
+      "id": "chet_tai_khong_boi_thuong_ve_dat",
+      "label": "ChếTài",
+      "name": "không được bồi thường về đất"
+    },
+    {
+      "id": "chet_tai_boi_thuong_chi_phi_dau_tu_con_lai",
+      "label": "ChếTài",
+      "name": "được bồi thường chi phí đầu tư vào đất còn lại"
+    },
+    {
+      "id": "dieu_kien_du_dieu_kien_dieu_75",
+      "label": "ĐiềuKiện",
+      "name": "có đủ điều kiện được bồi thường quy định tại Điều 75"
+    },
+    {
+      "id": "dieu_kien_thoi_han_su_dung_dat_con_lai",
+      "label": "ĐiềuKiện",
+      "name": "thời hạn sử dụng đất còn lại"
+    },
+    {
+      "id": "dieu_kien_chi_phi_khong_ngan_sach_nha_nuoc",
+      "label": "ĐiềuKiện",
+      "name": "chi phí không có nguồn gốc từ ngân sách nhà nước"
+    },
+    {
+      "id": "dieu_kien_dat_nong_nghiep_khong_phai_dat_rung_dac_dung",
+      "label": "ĐiềuKiện",
+      "name": "đất nông nghiệp không phải là đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất là rừng tự nhiên"
+    },
+    {
+      "id": "dieu_kien_theo_quy_dinh_cua_chinh_phu",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của Chính phủ"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_78",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieu_78",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chet_tai_boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "dieu_78",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chet_tai_khong_boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "dieu_78",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chet_tai_boi_thuong_chi_phi_dau_tu_con_lai"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giao_dat_co_thu_tien_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cho_thue_dat_tra_tien_mot_lan"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam"
+    },
+    {
+      "source_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_su_dung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "chuthe_cong_dong_dan_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_su_dung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "chuthe_co_so_ton_giao",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_su_dung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_kinhte"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_su_nghiep_cong_lap_tu_chu_tai_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_so_ton_giao"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_giao_dat_co_thu_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_kinhte"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat_tra_tien_mot_lan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_kinhte"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_kinhte"
+    },
+    {
+      "source_id": "hanhviphaply_giao_dat_co_thu_tien_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chet_tai_boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat_tra_tien_mot_lan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chet_tai_boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chet_tai_boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "chet_tai_boi_thuong_ve_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_du_dieu_kien_dieu_75"
+    },
+    {
+      "source_id": "chet_tai_boi_thuong_ve_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_thoi_han_su_dung_dat_con_lai"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_kinhte"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_su_nghiep_cong_lap_tu_chu_tai_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chet_tai_khong_boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chet_tai_boi_thuong_chi_phi_dau_tu_con_lai"
+    },
+    {
+      "source_id": "chet_tai_boi_thuong_chi_phi_dau_tu_con_lai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_chi_phi_khong_ngan_sach_nha_nuoc"
+    },
+    {
+      "source_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giao_khoan"
+    },
+    {
+      "source_id": "hanhviphaply_giao_khoan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_giao_khoan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_nong_nghiep_khong_phai_dat_rung_dac_dung"
+    },
+    {
+      "source_id": "hanhviphaply_giao_khoan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chet_tai_khong_boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "hanhviphaply_giao_khoan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chet_tai_boi_thuong_chi_phi_dau_tu_con_lai"
+    },
+    {
+      "source_id": "chet_tai_boi_thuong_ve_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "chet_tai_boi_thuong_ve_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_so_ton_giao"
+    },
+    {
+      "source_id": "dieu_kien_du_dieu_kien_dieu_75",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chet_tai_boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "chet_tai_boi_thuong_ve_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_theo_quy_dinh_cua_chinh_phu"
+    }
+  ]
+}

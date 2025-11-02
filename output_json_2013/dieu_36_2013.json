@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "id": "dieu_36",
+      "label": "ĐiềuLuật",
+      "name": "Điều 36"
+    },
+    {
+      "id": "khainiem_hethong_quyhoach_kethoach_sudungdat",
+      "label": "KháiNiệm",
+      "name": "Hệ thống quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_quyhoach_kethoach_sudungdat_capquocgia",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "khainiem_quyhoach_kethoach_sudungdat_captinh",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "khainiem_quyhoach_kethoach_sudungdat_caphuyen",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "khainiem_quyhoach_kethoach_sudungdat_quocphong",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất quốc phòng"
+    },
+    {
+      "id": "khainiem_quyhoach_kethoach_sudungdat_anninh",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất an ninh"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_36",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hethong_quyhoach_kethoach_sudungdat"
+    },
+    {
+      "source_id": "dieu_36",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoach_kethoach_sudungdat_capquocgia"
+    },
+    {
+      "source_id": "dieu_36",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoach_kethoach_sudungdat_captinh"
+    },
+    {
+      "source_id": "dieu_36",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoach_kethoach_sudungdat_caphuyen"
+    },
+    {
+      "source_id": "dieu_36",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoach_kethoach_sudungdat_quocphong"
+    },
+    {
+      "source_id": "dieu_36",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoach_kethoach_sudungdat_anninh"
+    }
+  ]
+}

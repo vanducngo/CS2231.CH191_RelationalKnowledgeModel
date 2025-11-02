@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_74",
+      "label": "ĐiềuLuật",
+      "name": "Điều 74"
+    },
+    {
+      "id": "khainiem_nguyen_tac_boi_thuong_ve_dat_khi_nha_nuoc_thu_hoi_dat",
+      "label": "KháiNiệm",
+      "name": "Nguyên tắc bồi thường về đất khi Nhà nước thu hồi đất"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "dieu_kien_co_du_dieu_kien_duoc_boi_thuong_quy_dinh_tai_dieu_75",
+      "label": "ĐiềuKiện",
+      "name": "có đủ điều kiện được bồi thường quy định tại Điều 75 của Luật này"
+    },
+    {
+      "id": "dieu_75",
+      "label": "ĐiềuLuật",
+      "name": "Điều 75"
+    },
+    {
+      "id": "hanhviphaply_duoc_boi_thuong",
+      "label": "HànhViPhápLý",
+      "name": "được bồi thường"
+    },
+    {
+      "id": "hanhviphaply_giao_dat_co_cung_muc_dich_su_dung_voi_loai_dat_thu_hoi",
+      "label": "HànhViPhápLý",
+      "name": "giao đất có cùng mục đích sử dụng với loại đất thu hồi"
+    },
+    {
+      "id": "khainiem_gia_dat_cu_the_cua_loai_dat_thu_hoi",
+      "label": "KháiNiệm",
+      "name": "giá đất cụ thể của loại đất thu hồi"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_quyet_dinh_thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "quyết định thu hồi đất"
+    },
+    {
+      "id": "dieu_kien_bao_dam_dan_chu_khach_quan_cong_bang_cong_khai_kip_thoi_va_dung_quy_dinh_cua_phap_luat",
+      "label": "ĐiềuKiện",
+      "name": "bảo đảm dân chủ, khách quan, công bằng, công khai, kịp thời và đúng quy định của pháp luật"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_74",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_nguyen_tac_boi_thuong_ve_dat_khi_nha_nuoc_thu_hoi_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_boi_thuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_boi_thuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_co_du_dieu_kien_duoc_boi_thuong_quy_dinh_tai_dieu_75"
+    },
+    {
+      "source_id": "dieu_75",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_kien_co_du_dieu_kien_duoc_boi_thuong_quy_dinh_tai_dieu_75"
+    },
+    {
+      "source_id": "dieu_74",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duoc_boi_thuong"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_boi_thuong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giao_dat_co_cung_muc_dich_su_dung_voi_loai_dat_thu_hoi"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_boi_thuong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_gia_dat_cu_the_cua_loai_dat_thu_hoi"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_gia_dat_cu_the_cua_loai_dat_thu_hoi"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_thu_hoi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_gia_dat_cu_the_cua_loai_dat_thu_hoi"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_boi_thuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_bao_dam_dan_chu_khach_quan_cong_bang_cong_khai_kip_thoi_va_dung_quy_dinh_cua_phap_luat"
+    }
+  ]
+}

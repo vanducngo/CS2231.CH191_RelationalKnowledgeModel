@@ -1,0 +1,786 @@
+{
+  "entities": [
+    {
+      "id": "dieu_135",
+      "label": "ĐiềuLuật",
+      "name": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensudungdat_quyensohuutaisanganlienvoidat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_thuatdat",
+      "label": "KháiNiệm",
+      "name": "Thửa đất"
+    },
+    {
+      "id": "khainiem_thuatdatnongnghiep",
+      "label": "KháiNiệm",
+      "name": "Thửa đất nông nghiệp"
+    },
+    {
+      "id": "khainiem_xaphuongthitran",
+      "label": "KháiNiệm",
+      "name": "Xã, phường, thị trấn"
+    },
+    {
+      "id": "khainiem_phapluat",
+      "label": "KháiNiệm",
+      "name": "Pháp luật"
+    },
+    {
+      "id": "khainiem_quyensudungdat",
+      "label": "KháiNiệm",
+      "name": "Quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_quyensudungdat_quyensohuutaisanganlienvoidat_khainiem",
+      "label": "KháiNiệm",
+      "name": "Quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (khái niệm quyền)"
+    },
+    {
+      "id": "khainiem_quyensohuutaisanganlienvoidat_khainiem",
+      "label": "KháiNiệm",
+      "name": "Quyền sở hữu tài sản gắn liền với đất (khái niệm quyền)"
+    },
+    {
+      "id": "khainiem_congtrinhphuvoloichungcuacongdong",
+      "label": "KháiNiệm",
+      "name": "Công trình phục vụ lợi ích chung của cộng đồng"
+    },
+    {
+      "id": "khainiem_duonggiaothongtheoquyhoach",
+      "label": "KháiNiệm",
+      "name": "Đường giao thông theo quy hoạch"
+    },
+    {
+      "id": "khainiem_nhatinhnghia",
+      "label": "KháiNiệm",
+      "name": "Nhà tình nghĩa"
+    },
+    {
+      "id": "khainiem_nhatinhthuong",
+      "label": "KháiNiệm",
+      "name": "Nhà tình thương"
+    },
+    {
+      "id": "khainiem_nhadaidoanket",
+      "label": "KháiNiệm",
+      "name": "Nhà đại đoàn kết"
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensohuunhao_quyensudungdat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở"
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensohuunhao",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sở hữu nhà ở"
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensohuucogtrinhxaydung",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sở hữu công trình xây dựng"
+    },
+    {
+      "id": "khainiem_giaychungnhanquyensudungdat_quyensohuunhao_taisan_khacganlienvoidat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giayto_quy_dinh_tai_dieu_137",
+      "label": "KháiNiệm",
+      "name": "Giấy tờ quy định tại Điều 137 của Luật này"
+    },
+    {
+      "id": "khainiem_ranhgioithuatdat",
+      "label": "KháiNiệm",
+      "name": "Ranh giới thửa đất"
+    },
+    {
+      "id": "khainiem_dientichdat",
+      "label": "KháiNiệm",
+      "name": "Diện tích đất"
+    },
+    {
+      "id": "khainiem_so_lieu_do_dac_thuc_te",
+      "label": "KháiNiệm",
+      "name": "Số liệu đo đạc thực tế"
+    },
+    {
+      "id": "chuthe_nguoicoquyensudungdat",
+      "label": "ChủThể",
+      "name": "Người có quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_chusohuutaisanganlienvoidat",
+      "label": "ChủThể",
+      "name": "Chủ sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoidaibieu",
+      "label": "ChủThể",
+      "name": "Người đại diện"
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChủThể",
+      "name": "Cộng đồng dân cư"
+    },
+    {
+      "id": "chuthe_vo",
+      "label": "ChủThể",
+      "name": "Vợ"
+    },
+    {
+      "id": "chuthe_chong",
+      "label": "ChủThể",
+      "name": "Chồng"
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_thanhvienchungquyensudungdat_cuahogiadinh",
+      "label": "ChủThể",
+      "name": "Thành viên có chung quyền sử dụng đất của hộ gia đình"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "chuthe_nguoisudungdat_lienkec",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất liền kề"
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_cap01giaychungnhanchung_chothuanhieu_thua_dat",
+      "label": "HànhViPhápLý",
+      "name": "Cấp 01 Giấy chứng nhận chung cho nhiều thửa đất"
+    },
+    {
+      "id": "hanhviphaply_cap01giaychungnhanchung_chonhieunguoi_chungquyen",
+      "label": "HànhViPhápLý",
+      "name": "Cấp chung 01 Giấy chứng nhận cho nhiều người chung quyền"
+    },
+    {
+      "id": "hanhviphaply_caprieng_cho_moi_nguoi_01_gcn",
+      "label": "HànhViPhápLý",
+      "name": "Cấp cho mỗi người 01 Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_hoanthanhnghiavutaichinh",
+      "label": "HànhViPhápLý",
+      "name": "Hoàn thành nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhviphaply_xacdinhkhongphaithuchiennghiavutaichinh",
+      "label": "HànhViPhápLý",
+      "name": "Xác định không phải thực hiện nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhviphaply_duocmiennghiavutaichinh",
+      "label": "HànhViPhápLý",
+      "name": "Được miễn nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhviphaply_duocghinonghiavutaichinh",
+      "label": "HànhViPhápLý",
+      "name": "Được ghi nợ nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhviphaply_banhanhquyetdinhchothuedat",
+      "label": "HànhViPhápLý",
+      "name": "Ban hành quyết định cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_kyhopdongthuedat",
+      "label": "HànhViPhápLý",
+      "name": "Ký hợp đồng thuê đất"
+    },
+    {
+      "id": "hanhviphaply_tangchoquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_botrikiphithuchienviecdodacchinhlycapnhathosodiachinh",
+      "label": "HànhViPhápLý",
+      "name": "Bố trí kinh phí thực hiện việc đo đạc, chỉnh lý, cập nhật hồ sơ địa chính"
+    },
+    {
+      "id": "hanhviphaply_khongphaitrachiphi",
+      "label": "HànhViPhápLý",
+      "name": "Không phải trả chi phí"
+    },
+    {
+      "id": "hanhviphaply_ghihoten_vocachong",
+      "label": "HànhViPhápLý",
+      "name": "Ghi cả họ, tên vợ và họ, tên chồng vào Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_thoa_thuan_ghiten_motnguoi",
+      "label": "HànhViPhápLý",
+      "name": "Thỏa thuận ghi tên một người"
+    },
+    {
+      "id": "hanhviphaply_capdoi_giaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp đổi Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_ghiten_dayduthuocvien_hogiadinh",
+      "label": "HànhViPhápLý",
+      "name": "Ghi đầy đủ tên thành viên có chung quyền sử dụng đất của hộ gia đình"
+    },
+    {
+      "id": "hanhviphaply_ghiten_daidien_hogiadinh",
+      "label": "HànhViPhápLý",
+      "name": "Ghi tên đại diện hộ gia đình"
+    },
+    {
+      "id": "hanhviphaply_tuthuathuan_xacdinhthanhvien_ghiten",
+      "label": "HànhViPhápLý",
+      "name": "Tự thỏa thuận và chịu trách nhiệm xác định các thành viên có chung quyền sử dụng đất của hộ gia đình"
+    },
+    {
+      "id": "hanhviphaply_xacdinhdientichdat_theosolieudodacthucte",
+      "label": "HànhViPhápLý",
+      "name": "Xác định diện tích đất theo số liệu đo đạc thực tế"
+    },
+    {
+      "id": "hanhviphaply_xemxet_capgiaychungnhan_phandientichchenhlechnhieuhon",
+      "label": "HànhViPhápLý",
+      "name": "Xem xét cấp Giấy chứng nhận phần diện tích chênh lệch nhiều hơn"
+    },
+    {
+      "id": "hanhviphaply_rasoat_capdoi",
+      "label": "HànhViPhápLý",
+      "name": "Rà soát, cấp đổi Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet_vieccapgcn",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết việc cấp Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_xacdinhlaigiadientichdato",
+      "label": "HànhViPhápLý",
+      "name": "Xác định lại diện tích đất ở"
+    },
+    {
+      "id": "hanhviphaply_dinhchinh_gcn",
+      "label": "HànhViPhápLý",
+      "name": "Đính chính Giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "hanhviphaply_thuhoidinhchinh_gcn",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi Giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "hanhviphaply_huygiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Hủy Giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "dieukien_conhucau",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu"
+    },
+    {
+      "id": "dieukien_dudieukientheoquydinhcualuatnay",
+      "label": "ĐiềuKiện",
+      "name": "Đủ điều kiện theo quy định của Luật này"
+    },
+    {
+      "id": "dieukien_sudungnhieuthuadatnongnghiep_taicung01donvihanhtc",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn"
+    },
+    {
+      "id": "dieukien_coyeuCau_capchunggcn_nhieuthuadat",
+      "label": "ĐiềuKiện",
+      "name": "Có yêu cầu cấp chung GCN cho nhiều thửa đất"
+    },
+    {
+      "id": "dieukien_thuatdatconhieunguoi_chungquyen",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất có nhiều người chung quyền sử dụng đất hoặc sở hữu tài sản"
+    },
+    {
+      "id": "dieukien_coyeuCau_capchunggcn_nhieunguoi",
+      "label": "ĐiềuKiện",
+      "name": "Có yêu cầu cấp chung GCN cho nhiều người chung quyền"
+    },
+    {
+      "id": "dieukien_hoanthanhnghiavutaichinh",
+      "label": "ĐiềuKiện",
+      "name": "Hoàn thành nghĩa vụ tài chính"
+    },
+    {
+      "id": "dieukien_khongthuocdoituong_mien_ghino_nghiavutaichinh",
+      "label": "ĐiềuKiện",
+      "name": "Không thuộc đối tượng, được miễn hoặc được ghi nợ nghĩa vụ tài chính"
+    },
+    {
+      "id": "dieukien_coquancothamquyen_xacdinh_mien_ghino",
+      "label": "ĐiềuKiện",
+      "name": "Cơ quan có thẩm quyền xác định không phải thực hiện, được miễn, được ghi nợ nghĩa vụ tài chính"
+    },
+    {
+      "id": "dieukien_thuedattratien_thuedathangnam",
+      "label": "ĐiềuKiện",
+      "name": "Thuê đất trả tiền thuê đất hằng năm"
+    },
+    {
+      "id": "dieukien_coquancothamquyen_banhanh_kyhopdongthuedat",
+      "label": "ĐiềuKiện",
+      "name": "Cơ quan có thẩm quyền ban hành quyết định cho thuê đất, ký hợp đồng thuê đất"
+    },
+    {
+      "id": "dieukien_tangchoquyensudungdat_chonhanuoc_congdong_mucdichcongich",
+      "label": "ĐiềuKiện",
+      "name": "Tặng cho quyền sử dụng đất cho Nhà nước hoặc cộng đồng dân cư phục vụ lợi ích chung"
+    },
+    {
+      "id": "dieukien_quyensudungdat_taisanchungcuavavachong",
+      "label": "ĐiềuKiện",
+      "name": "Quyền sử dụng đất hoặc quyền sở hữu tài sản gắn liền với đất là tài sản chung của vợ và chồng"
+    },
+    {
+      "id": "dieukien_vocachong_thoa_thuan_ghitenmotnguoi",
+      "label": "ĐiềuKiện",
+      "name": "Vợ và chồng có thỏa thuận ghi tên một người"
+    },
+    {
+      "id": "dieukien_gcn_dacap_chighitenvocahoacchong",
+      "label": "ĐiềuKiện",
+      "name": "Giấy chứng nhận đã cấp chỉ ghi họ, tên của vợ hoặc chồng"
+    },
+    {
+      "id": "dieukien_coyeuCau_capdoi_gcnvocachong",
+      "label": "ĐiềuKiện",
+      "name": "Có yêu cầu cấp đổi để ghi tên vợ và chồng"
+    },
+    {
+      "id": "dieukien_thuatdathuocquyensudungcuahogiadinh",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất thuộc quyền sử dụng của hộ gia đình"
+    },
+    {
+      "id": "dieukien_thanhviencochungquyensudungdat_hogiadinhconhucau_ghitendaidien",
+      "label": "ĐiềuKiện",
+      "name": "Các thành viên có chung quyền sử dụng đất của hộ gia đình có nhu cầu ghi tên đại diện"
+    },
+    {
+      "id": "dieukien_chenhlechdientich_dodacthucte_vagiayto",
+      "label": "ĐiềuKiện",
+      "name": "Có sự chênh lệch diện tích giữa số liệu đo đạc thực tế với số liệu ghi trên giấy tờ"
+    },
+    {
+      "id": "dieukien_ranhgioithuatdat_khongthaydoi",
+      "label": "ĐiềuKiện",
+      "name": "Ranh giới thửa đất đang sử dụng không thay đổi so với thời điểm có giấy tờ"
+    },
+    {
+      "id": "dieukien_khongcotranhchap_voinggudat_lienkec",
+      "label": "ĐiềuKiện",
+      "name": "Không có tranh chấp với những người sử dụng đất liền kề"
+    },
+    {
+      "id": "dieukien_dodaclaimaranhgioithuatdat_cothaydoi",
+      "label": "ĐiềuKiện",
+      "name": "Đo đạc lại mà ranh giới thửa đất có thay đổi so với thời điểm có giấy tờ"
+    },
+    {
+      "id": "dieukien_dientichdodacthucte_nhieuhon_dientichghithengiayto",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích đất đo đạc thực tế nhiều hơn diện tích ghi trên giấy tờ"
+    },
+    {
+      "id": "dieukien_gcn_dacap_vitrikhongchinhxac",
+      "label": "ĐiềuKiện",
+      "name": "Giấy chứng nhận đã cấp mà vị trí không chính xác"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_135",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giaychungnhanquyensudungdat_quyensohuutaisanganlienvoidat"
+    },
+    {
+      "source_id": "dieu_135",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoicoquyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chusohuutaisanganlienvoidat"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_conhucau"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dudieukientheoquydinhcualuatnay"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thuatdat"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_sudungnhieuthuadatnongnghiep_taicung01donvihanhtc"
+    },
+    {
+      "source_id": "dieukien_sudungnhieuthuadatnongnghiep_taicung01donvihanhtc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_coyeuCau_capchunggcn_nhieuthuadat"
+    },
+    {
+      "source_id": "dieukien_coyeuCau_capchunggcn_nhieuthuadat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap01giaychungnhanchung_chothuanhieu_thua_dat"
+    },
+    {
+      "source_id": "khainiem_thuatdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_thuatdatconhieunguoi_chungquyen"
+    },
+    {
+      "source_id": "dieukien_thuatdatconhieunguoi_chungquyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_caprieng_cho_moi_nguoi_01_gcn"
+    },
+    {
+      "source_id": "dieukien_thuatdatconhieunguoi_chungquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_coyeuCau_capchunggcn_nhieunguoi"
+    },
+    {
+      "source_id": "dieukien_coyeuCau_capchunggcn_nhieunguoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap01giaychungnhanchung_chonhieunguoi_chungquyen"
+    },
+    {
+      "source_id": "hanhviphaply_cap01giaychungnhanchung_chonhieunguoi_chungquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoidaibieu"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hoanthanhnghiavutaichinh"
+    },
+    {
+      "source_id": "dieukien_hoanthanhnghiavutaichinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "dieukien_hoanthanhnghiavutaichinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chusohuutaisanganlienvoidat"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_coquancothamquyen_xacdinh_mien_ghino"
+    },
+    {
+      "source_id": "dieukien_coquancothamquyen_xacdinh_mien_ghino",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_thuedattratien_thuedathangnam"
+    },
+    {
+      "source_id": "dieukien_thuedattratien_thuedathangnam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_coquancothamquyen_banhanh_kyhopdongthuedat"
+    },
+    {
+      "source_id": "dieukien_coquancothamquyen_banhanh_kyhopdongthuedat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tangchoquyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_tangchoquyensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tangchoquyensudungdat_chonhanuoc_congdong_mucdichcongich"
+    },
+    {
+      "source_id": "dieukien_tangchoquyensudungdat_chonhanuoc_congdong_mucdichcongich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_botrikiphithuchienviecdodacchinhlycapnhathosodiachinh"
+    },
+    {
+      "source_id": "hanhviphaply_botrikiphithuchienviecdodacchinhlycapnhathosodiachinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khongphaitrachiphi"
+    },
+    {
+      "source_id": "hanhviphaply_khongphaitrachiphi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_tangchoquyensudungdat_chonhanuoc_congdong_mucdichcongich"
+    },
+    {
+      "source_id": "khainiem_quyensudungdat_quyensohuutaisanganlienvoidat_khainiem",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_quyensudungdat_taisanchungcuavavachong"
+    },
+    {
+      "source_id": "dieukien_quyensudungdat_taisanchungcuavavachong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ghihoten_vocachong"
+    },
+    {
+      "source_id": "hanhviphaply_ghihoten_vocachong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_vo"
+    },
+    {
+      "source_id": "hanhviphaply_ghihoten_vocachong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chong"
+    },
+    {
+      "source_id": "hanhviphaply_ghihoten_vocachong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giaychungnhanquyensudungdat_quyensohuutaisanganlienvoidat"
+    },
+    {
+      "source_id": "dieukien_quyensudungdat_taisanchungcuavavachong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_vocachong_thoa_thuan_ghitenmotnguoi"
+    },
+    {
+      "source_id": "dieukien_vocachong_thoa_thuan_ghitenmotnguoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thoa_thuan_ghiten_motnguoi"
+    },
+    {
+      "source_id": "dieukien_gcn_dacap_chighitenvocahoacchong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_coyeuCau_capdoi_gcnvocachong"
+    },
+    {
+      "source_id": "dieukien_coyeuCau_capdoi_gcnvocachong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capdoi_giaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_capdoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ghihoten_vocachong"
+    },
+    {
+      "source_id": "khainiem_thuatdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_thuatdathuocquyensudungcuahogiadinh"
+    },
+    {
+      "source_id": "dieukien_thuatdathuocquyensudungcuahogiadinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ghiten_dayduthuocvien_hogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_ghiten_dayduthuocvien_hogiadinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_thanhvienchungquyensudungdat_cuahogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoidaibieu"
+    },
+    {
+      "source_id": "chuthe_thanhvienchungquyensudungdat_cuahogiadinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thanhviencochungquyensudungdat_hogiadinhconhucau_ghitendaidien"
+    },
+    {
+      "source_id": "dieukien_thanhviencochungquyensudungdat_hogiadinhconhucau_ghitendaidien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ghiten_daidien_hogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_ghiten_daidien_hogiadinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_ghiten_daidien_hogiadinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoidaibieu"
+    },
+    {
+      "source_id": "hanhviphaply_tuthuathuan_xacdinhthanhvien_ghiten",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ghiten_dayduthuocvien_hogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_tuthuathuan_xacdinhthanhvien_ghiten",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chiutrachnhiemtruocphapluat"
+    },
+    {
+      "source_id": "dieukien_chenhlechdientich_dodacthucte_vagiayto",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ranhgioithuatdat_khongthaydoi"
+    },
+    {
+      "source_id": "dieukien_chenhlechdientich_dodacthucte_vagiayto",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongcotranhchap_voinggudat_lienkec"
+    },
+    {
+      "source_id": "dieukien_chenhlechdientich_dodacthucte_vagiayto",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xacdinhdientichdat_theosolieudodacthucte"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhdientichdat_theosolieudodacthucte",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhdientichdat_theosolieudodacthucte",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capdoi_giaychungnhan"
+    },
+    {
+      "source_id": "dieukien_dodaclaimaranhgioithuatdat_cothaydoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dientichdodacthucte_nhieuhon_dientichghithengiayto"
+    },
+    {
+      "source_id": "dieukien_dientichdodacthucte_nhieuhon_dientichghithengiayto",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xemxet_capgiaychungnhan_phandientichchenhlechnhieuhon"
+    },
+    {
+      "source_id": "dieukien_gcn_dacap_vitrikhongchinhxac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_rasoat_capdoi"
+    },
+    {
+      "source_id": "hanhviphaply_rasoat_capdoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quydinhchitiet_vieccapgcn"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xacdinhlaigiadientichdato"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_dinhchinh_gcn"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuhoidinhchinh_gcn"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huygiaychungnhan"
+    },
+    {
+      "source_id": "khainiem_giaychungnhanquyensudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giaychungnhanquyensudungdat_quyensohuutaisanganlienvoidat"
+    },
+    {
+      "source_id": "khainiem_giaychungnhanquyensohuunhao_quyensudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giaychungnhanquyensudungdat_quyensohuutaisanganlienvoidat"
+    },
+    {
+      "source_id": "khainiem_giaychungnhanquyensohuunhao",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giaychungnhanquyensudungdat_quyensohuutaisanganlienvoidat"
+    },
+    {
+      "source_id": "khainiem_giaychungnhanquyensohuucogtrinhxaydung",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giaychungnhanquyensudungdat_quyensohuutaisanganlienvoidat"
+    },
+    {
+      "source_id": "khainiem_giaychungnhanquyensudungdat_quyensohuunhao_taisan_khacganlienvoidat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giaychungnhanquyensudungdat_quyensohuutaisanganlienvoidat"
+    }
+  ]
+}

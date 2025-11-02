@@ -1,0 +1,501 @@
+{
+  "entities": [
+    {
+      "id": "dieu_210",
+      "label": "ĐiềuLuật",
+      "name": "Điều 210. Điều khoản chuyển tiếp"
+    },
+    {
+      "id": "luat_dat_dai_2013",
+      "label": "ĐiềuLuật",
+      "name": "Luật Đất đai 2013"
+    },
+    {
+      "id": "dieu_174",
+      "label": "ĐiềuLuật",
+      "name": "Điều 174"
+    },
+    {
+      "id": "khoan_1_dieu_179",
+      "label": "ĐiềuLuật",
+      "name": "khoản 1 Điều 179"
+    },
+    {
+      "id": "khoan_1_dieu_126",
+      "label": "ĐiềuLuật",
+      "name": "khoản 1 Điều 126"
+    },
+    {
+      "id": "luat_dat_dai_2003",
+      "label": "ĐiềuLuật",
+      "name": "Luật đất đai năm 2003"
+    },
+    {
+      "id": "chuthe_nguoi_duoc_nha_nuoc_cho_thue_dat_truoc_01_07_2004",
+      "label": "ChủThể",
+      "name": "Người được Nhà nước cho thuê đất trước ngày 01 tháng 7 năm 2004"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan",
+      "label": "ChủThể",
+      "name": "hộ gia đình, cá nhân"
+    },
+    {
+      "id": "chuthe_nha_dau_tu",
+      "label": "ChủThể",
+      "name": "nhà đầu tư"
+    },
+    {
+      "id": "chuthe_nguoi_thue_lai_dat",
+      "label": "ChủThể",
+      "name": "người thuê lại đất"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan_truc_tiep_san_xuat_nong_nghiep",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_co_quyen_va_nghia_vu_dieu_174",
+      "label": "HànhViPhápLý",
+      "name": "có quyền và nghĩa vụ quy định tại Điều 174"
+    },
+    {
+      "id": "hanhviphaply_co_quyen_va_nghia_vu_khoan_1_dieu_179",
+      "label": "HànhViPhápLý",
+      "name": "có quyền và nghĩa vụ quy định tại khoản 1 Điều 179"
+    },
+    {
+      "id": "hanhviphaply_da_cho_thue_lai_dat_mot_lan",
+      "label": "HànhViPhápLý",
+      "name": "đã cho thuê lại đất có kết cấu hạ tầng theo hình thức trả tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "hanhviphaply_quyen_nghia_vu_nguoi_thue_lai_dat",
+      "label": "HànhViPhápLý",
+      "name": "có quyền và nghĩa vụ như được Nhà nước cho thuê đất trả tiền một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "hanhviphaply_duoc_tiep_tuc_su_dung_dat_dieu_126",
+      "label": "HànhViPhápLý",
+      "name": "được tiếp tục sử dụng đất theo thời hạn quy định tại khoản 1 Điều 126"
+    },
+    {
+      "id": "hanhviphaply_thoi_han_su_dung_dat_thuc_hien_theo_quy_dinh_chinh_phu",
+      "label": "HànhViPhápLý",
+      "name": "thời hạn sử dụng đất được thực hiện theo quy định của Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_theo_phuong_an_da_phe_duyet",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện theo phương án đã phê duyệt"
+    },
+    {
+      "id": "hanhviphaply_duoc_giao_thue_chuyen_muc_dich_cn_qsd_dat",
+      "label": "HànhViPhápLý",
+      "name": "được giao đất, thuê đất, chuyển mục đích sử dụng đất, công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_thoi_diem_tinh_thu_tien_sd_dat_thue_dat_theo_cp",
+      "label": "HànhViPhápLý",
+      "name": "thời điểm tính thu tiền sử dụng đất, tiền thuê đất theo quy định của Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_viec_xu_ly",
+      "label": "HànhViPhápLý",
+      "name": "quy định việc xử lý"
+    },
+    {
+      "id": "chetat_phai_nop_tien_cho_nha_nuoc_theo_chinh_phu",
+      "label": "ChếTài",
+      "name": "phải nộp tiền cho Nhà nước theo quy định của Chính phủ"
+    },
+    {
+      "id": "chetat_khong_ap_dung_luat_nay",
+      "label": "ChếTài",
+      "name": "không áp dụng theo quy định của Luật này"
+    },
+    {
+      "id": "chetat_phai_chuyen_sang_thue_dat",
+      "label": "ChếTài",
+      "name": "phải chuyển sang thuê đất theo quy định của Luật này"
+    },
+    {
+      "id": "dieukien_tra_tien_thue_dat_truoc_01_07_2004_va_con_lai_05_nam",
+      "label": "ĐiềuKiện",
+      "name": "đã trả tiền thuê đất cho cả thời gian thuê hoặc trả trước tiền thuê đất cho nhiều năm mà thời hạn thuê đất đã trả tiền còn lại ít nhất là 05 năm"
+    },
+    {
+      "id": "dieukien_nha_dau_tu_duoc_nn_cho_thue_dat_thu_tien_hang_nam_de_kinh_doanh_kcht",
+      "label": "ĐiềuKiện",
+      "name": "nhà đầu tư được Nhà nước cho thuê đất thu tiền thuê đất hàng năm để đầu tư xây dựng, kinh doanh kết cấu hạ tầng khu công nghiệp, cụm công nghiệp khu chế xuất"
+    },
+    {
+      "id": "dieukien_chu_dau_tu_da_nop_du_tien_thue_dat_vao_nsnn",
+      "label": "ĐiềuKiện",
+      "name": "chủ đầu tư đã nộp đủ tiền thuê đất vào ngân sách nhà nước"
+    },
+    {
+      "id": "dieukien_hgdc_n_sx_nn_da_giao_cn_nhan_chuyen_qsd_truoc_hieu_luc_luat_nay",
+      "label": "ĐiềuKiện",
+      "name": "Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp đã được giao đất, công nhận quyền sử dụng đất, nhận chuyển quyền sử dụng đất nông nghiệp trước ngày Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "dieukien_het_thoi_han_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "khi hết thời hạn sử dụng đất"
+    },
+    {
+      "id": "dieukien_co_nhu_cau_tiep_tuc_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "nếu có nhu cầu"
+    },
+    {
+      "id": "dieukien_hgdc_n_sd_dat_nn_truoc_hieu_luc_ma_chua_duoc_cap_gcn",
+      "label": "ĐiềuKiện",
+      "name": "hộ gia đình, cá nhân sử dụng đất nông nghiệp trước ngày Luật này có hiệu lực thi hành mà chưa được cấp Giấy chứng nhận"
+    },
+    {
+      "id": "dieukien_khong_xac_dinh_thoi_han_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "không xác định thời hạn sử dụng đất"
+    },
+    {
+      "id": "dieukien_du_an_hang_muc_da_chi_tra_xong_bt_ht_tdc_truoc_hieu_luc",
+      "label": "ĐiềuKiện",
+      "name": "những dự án, hạng mục đã chi trả xong bồi thường, hỗ trợ, tái định cư trước ngày Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "dieukien_du_an_hang_muc_da_phe_duyet_hoac_dang_thuc_hien_bt_ht_tdc_truoc_hieu_luc",
+      "label": "ĐiềuKiện",
+      "name": "những dự án, hạng mục đã phê duyệt phương án bồi thường, hỗ trợ, tái định cư hoặc đang thực hiện chi trả bồi thường, hỗ trợ, tái định cư theo phương án đã được phê duyệt trước ngày Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "dieukien_nguoi_sd_dat_chua_hoan_thanh_nghia_vu_tai_chinh",
+      "label": "ĐiềuKiện",
+      "name": "người sử dụng đất chưa hoàn thành nghĩa vụ tài chính"
+    },
+    {
+      "id": "dieukien_hgdc_n_dang_sd_dat_nn_vuot_han_muc_truoc_hieu_luc_luat_nay",
+      "label": "ĐiềuKiện",
+      "name": "Hộ gia đình, cá nhân đang sử dụng diện tích đất nông nghiệp được giao vượt hạn mức trước ngày Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "khainiem_thoi_han_su_dung_dat_tinh_tu_15_10_2013_truong_hop_het_han_ngay_do",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất được tính từ ngày 15 tháng 10 năm 2013 đối với trường hợp hết hạn vào ngày 15 tháng 10 năm 2013 theo quy định của Luật đất đai năm 2003"
+    },
+    {
+      "id": "khainiem_thoi_han_su_dung_dat_tinh_tu_ngay_het_thoi_han_giao_dat_sau_15_10_2013",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất được tính từ ngày hết thời hạn giao đất đối với trường hợp hết hạn sau ngày 15 tháng 10 năm 2013"
+    },
+    {
+      "id": "khainiem_thoi_han_su_dung_dat_khi_cap_gcn_tinh_tu_ngay_luat_nay_hieu_luc",
+      "label": "KháiNiệm",
+      "name": "thời hạn sử dụng đất khi cấp Giấy chứng nhận tính từ ngày Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "khainiem_dat_duoc_nn_giao_cho_tckt_tao_von_xay_csht_theo_du_an",
+      "label": "KháiNiệm",
+      "name": "Đất được Nhà nước giao cho tổ chức kinh tế để tạo vốn xây dựng cơ sở hạ tầng theo dự án"
+    },
+    {
+      "id": "khainiem_dat_co_nguon_goc_trung_dau_gia_qsd_dat_truoc_01_07_2004_cua_tckt",
+      "label": "KháiNiệm",
+      "name": "đất có nguồn gốc trúng đấu giá quyền sử dụng đất trước ngày 01 tháng 7 năm 2004 của các tổ chức kinh tế sử dụng"
+    },
+    {
+      "id": "khainiem_du_an_hang_muc",
+      "label": "KháiNiệm",
+      "name": "dự án, hạng mục"
+    },
+    {
+      "id": "khainiem_truong_hop_dang_sd_dat_vi_pham_phap_luat_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "trường hợp cụ thể đang sử dụng đất vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "khainiem_truong_hop_da_bao_lanh_bang_qsd_dat_truoc_hieu_luc_luat_nay",
+      "label": "KháiNiệm",
+      "name": "các trường hợp đã bảo lãnh bằng quyền sử dụng đất trước ngày Luật này có hiệu lực thi hành"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_duoc_nha_nuoc_cho_thue_dat_truoc_01_07_2004"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_nha_nuoc_cho_thue_dat_truoc_01_07_2004",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tra_tien_thue_dat_truoc_01_07_2004_va_con_lai_05_nam"
+    },
+    {
+      "source_id": "dieukien_tra_tien_thue_dat_truoc_01_07_2004_va_con_lai_05_nam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_co_quyen_va_nghia_vu_dieu_174"
+    },
+    {
+      "source_id": "hanhviphaply_co_quyen_va_nghia_vu_dieu_174",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "hanhviphaply_co_quyen_va_nghia_vu_dieu_174",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_174"
+    },
+    {
+      "source_id": "dieukien_tra_tien_thue_dat_truoc_01_07_2004_va_con_lai_05_nam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_co_quyen_va_nghia_vu_khoan_1_dieu_179"
+    },
+    {
+      "source_id": "hanhviphaply_co_quyen_va_nghia_vu_khoan_1_dieu_179",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_co_quyen_va_nghia_vu_khoan_1_dieu_179",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khoan_1_dieu_179"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nha_dau_tu"
+    },
+    {
+      "source_id": "chuthe_nha_dau_tu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nha_dau_tu_duoc_nn_cho_thue_dat_thu_tien_hang_nam_de_kinh_doanh_kcht"
+    },
+    {
+      "source_id": "dieukien_nha_dau_tu_duoc_nn_cho_thue_dat_thu_tien_hang_nam_de_kinh_doanh_kcht",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_da_cho_thue_lai_dat_mot_lan"
+    },
+    {
+      "source_id": "hanhviphaply_da_cho_thue_lai_dat_mot_lan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetat_phai_nop_tien_cho_nha_nuoc_theo_chinh_phu"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_thue_lai_dat"
+    },
+    {
+      "source_id": "chetat_phai_nop_tien_cho_nha_nuoc_theo_chinh_phu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chu_dau_tu_da_nop_du_tien_thue_dat_vao_nsnn"
+    },
+    {
+      "source_id": "dieukien_chu_dau_tu_da_nop_du_tien_thue_dat_vao_nsnn",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_quyen_nghia_vu_nguoi_thue_lai_dat"
+    },
+    {
+      "source_id": "hanhviphaply_quyen_nghia_vu_nguoi_thue_lai_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_thue_lai_dat"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan_truc_tiep_san_xuat_nong_nghiep"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh_ca_nhan_truc_tiep_san_xuat_nong_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hgdc_n_sx_nn_da_giao_cn_nhan_chuyen_qsd_truoc_hieu_luc_luat_nay"
+    },
+    {
+      "source_id": "dieukien_hgdc_n_sx_nn_da_giao_cn_nhan_chuyen_qsd_truoc_hieu_luc_luat_nay",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_het_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_het_thoi_han_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_nhu_cau_tiep_tuc_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_co_nhu_cau_tiep_tuc_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_duoc_tiep_tuc_su_dung_dat_dieu_126"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_tiep_tuc_su_dung_dat_dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khoan_1_dieu_126"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_tiep_tuc_su_dung_dat_dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoi_han_su_dung_dat_tinh_tu_15_10_2013_truong_hop_het_han_ngay_do"
+    },
+    {
+      "source_id": "khainiem_thoi_han_su_dung_dat_tinh_tu_15_10_2013_truong_hop_het_han_ngay_do",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "luat_dat_dai_2003"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_tiep_tuc_su_dung_dat_dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoi_han_su_dung_dat_tinh_tu_ngay_het_thoi_han_giao_dat_sau_15_10_2013"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_hgdc_n_sd_dat_nn_truoc_hieu_luc_ma_chua_duoc_cap_gcn"
+    },
+    {
+      "source_id": "dieukien_hgdc_n_sd_dat_nn_truoc_hieu_luc_ma_chua_duoc_cap_gcn",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_thoi_han_su_dung_dat_khi_cap_gcn_tinh_tu_ngay_luat_nay_hieu_luc"
+    },
+    {
+      "source_id": "khainiem_thoi_han_su_dung_dat_khi_cap_gcn_tinh_tu_ngay_luat_nay_hieu_luc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "luat_dat_dai_2013"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_duoc_nn_giao_cho_tckt_tao_von_xay_csht_theo_du_an"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_co_nguon_goc_trung_dau_gia_qsd_dat_truoc_01_07_2004_cua_tckt"
+    },
+    {
+      "source_id": "khainiem_dat_duoc_nn_giao_cho_tckt_tao_von_xay_csht_theo_du_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_xac_dinh_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_dat_co_nguon_goc_trung_dau_gia_qsd_dat_truoc_01_07_2004_cua_tckt",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_xac_dinh_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_khong_xac_dinh_thoi_han_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thoi_han_su_dung_dat_thuc_hien_theo_quy_dinh_chinh_phu"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_du_an_hang_muc"
+    },
+    {
+      "source_id": "khainiem_du_an_hang_muc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_du_an_hang_muc_da_chi_tra_xong_bt_ht_tdc_truoc_hieu_luc"
+    },
+    {
+      "source_id": "dieukien_du_an_hang_muc_da_chi_tra_xong_bt_ht_tdc_truoc_hieu_luc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetat_khong_ap_dung_luat_nay"
+    },
+    {
+      "source_id": "chetat_khong_ap_dung_luat_nay",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "luat_dat_dai_2013"
+    },
+    {
+      "source_id": "khainiem_du_an_hang_muc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_du_an_hang_muc_da_phe_duyet_hoac_dang_thuc_hien_bt_ht_tdc_truoc_hieu_luc"
+    },
+    {
+      "source_id": "dieukien_du_an_hang_muc_da_phe_duyet_hoac_dang_thuc_hien_bt_ht_tdc_truoc_hieu_luc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuc_hien_theo_phuong_an_da_phe_duyet"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_theo_phuong_an_da_phe_duyet",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetat_khong_ap_dung_luat_nay"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duoc_giao_thue_chuyen_muc_dich_cn_qsd_dat"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_giao_thue_chuyen_muc_dich_cn_qsd_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguoi_sd_dat_chua_hoan_thanh_nghia_vu_tai_chinh"
+    },
+    {
+      "source_id": "dieukien_nguoi_sd_dat_chua_hoan_thanh_nghia_vu_tai_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_nguoi_sd_dat_chua_hoan_thanh_nghia_vu_tai_chinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thoi_diem_tinh_thu_tien_sd_dat_thue_dat_theo_cp"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_hgdc_n_dang_sd_dat_nn_vuot_han_muc_truoc_hieu_luc_luat_nay"
+    },
+    {
+      "source_id": "dieukien_hgdc_n_dang_sd_dat_nn_vuot_han_muc_truoc_hieu_luc_luat_nay",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "dieukien_hgdc_n_dang_sd_dat_nn_vuot_han_muc_truoc_hieu_luc_luat_nay",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetat_phai_chuyen_sang_thue_dat"
+    },
+    {
+      "source_id": "chetat_phai_chuyen_sang_thue_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "luat_dat_dai_2013"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chinh_phu"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quy_dinh_viec_xu_ly"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_viec_xu_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_truong_hop_dang_sd_dat_vi_pham_phap_luat_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_viec_xu_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_truong_hop_da_bao_lanh_bang_qsd_dat_truoc_hieu_luc_luat_nay"
+    }
+  ]
+}

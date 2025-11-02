@@ -1,0 +1,176 @@
+{
+  "entities": [
+    {
+      "id": "dieu_57",
+      "label": "ĐiềuLuật",
+      "name": "Điều 57"
+    },
+    {
+      "id": "khauniem_phamvi_doituong_thongke_kiemke_datdai",
+      "label": "KháiNiệm",
+      "name": "Phạm vi, đối tượng thống kê, kiểm kê đất đai"
+    },
+    {
+      "id": "khauniem_thongke_kiemke_datdai",
+      "label": "KháiNiệm",
+      "name": "Thống kê, kiểm kê đất đai"
+    },
+    {
+      "id": "khauniem_donvi_hanhchinh_capxa",
+      "label": "KháiNiệm",
+      "name": "đơn vị hành chính cấp xã"
+    },
+    {
+      "id": "khauniem_donvi_hanhchinh_caphuyen",
+      "label": "KháiNiệm",
+      "name": "đơn vị hành chính cấp huyện"
+    },
+    {
+      "id": "khauniem_donvi_hanhchinh_captinh",
+      "label": "KháiNiệm",
+      "name": "đơn vị hành chính cấp tỉnh"
+    },
+    {
+      "id": "khauniem_canuoc",
+      "label": "KháiNiệm",
+      "name": "cả nước"
+    },
+    {
+      "id": "khauniem_thoigian_thuchien_thongke_kiemke_datdai",
+      "label": "KháiNiệm",
+      "name": "Thời gian thực hiện thống kê, kiểm kê đất đai"
+    },
+    {
+      "id": "hanhviphaply_thongke_datdai_thuchien",
+      "label": "HànhViPhápLý",
+      "name": "Thống kê đất đai được thực hiện"
+    },
+    {
+      "id": "dieukien_thongke_hangnam_31_12_trunam_kiemke",
+      "label": "ĐiềuKiện",
+      "name": "hằng năm, tính đến hết ngày 31 tháng 12 của năm thống kê, trừ năm thực hiện kiểm kê đất đai"
+    },
+    {
+      "id": "hanhviphaply_kiemke_datdai_thuchien",
+      "label": "HànhViPhápLý",
+      "name": "Kiểm kê đất đai được thực hiện"
+    },
+    {
+      "id": "dieukien_kiemke_05nam_motlan_31_12_nam_4_hoac_9",
+      "label": "ĐiềuKiện",
+      "name": "05 năm một lần, tính đến hết ngày 31 tháng 12 của năm có chữ số cuối là 4 hoặc 9"
+    },
+    {
+      "id": "khauniem_kiemke_datdai_chuyende",
+      "label": "KháiNiệm",
+      "name": "Kiểm kê đất đai chuyên đề"
+    },
+    {
+      "id": "hanhviphaply_kiemke_datdai_chuyende_thuchien",
+      "label": "HànhViPhápLý",
+      "name": "Kiểm kê đất đai chuyên đề được thực hiện"
+    },
+    {
+      "id": "dieukien_kiemke_chuyende_theo_yeucau_quanly_nhanuoc",
+      "label": "ĐiềuKiện",
+      "name": "theo yêu cầu của quản lý nhà nước về đất đai trong từng thời kỳ"
+    },
+    {
+      "id": "chuthe_botruong_botaimoi",
+      "label": "ChủThể",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_chutich_ubnd_captinh",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_quyetdinh",
+      "label": "HànhViPhápLý",
+      "name": "quyết định"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_57",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_phamvi_doituong_thongke_kiemke_datdai"
+    },
+    {
+      "source_id": "khauniem_phamvi_doituong_thongke_kiemke_datdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_thongke_kiemke_datdai"
+    },
+    {
+      "source_id": "khauniem_thongke_kiemke_datdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_donvi_hanhchinh_capxa"
+    },
+    {
+      "source_id": "khauniem_thongke_kiemke_datdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_donvi_hanhchinh_caphuyen"
+    },
+    {
+      "source_id": "khauniem_thongke_kiemke_datdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_donvi_hanhchinh_captinh"
+    },
+    {
+      "source_id": "khauniem_thongke_kiemke_datdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_canuoc"
+    },
+    {
+      "source_id": "dieu_57",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_thoigian_thuchien_thongke_kiemke_datdai"
+    },
+    {
+      "source_id": "khauniem_thoigian_thuchien_thongke_kiemke_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thongke_datdai_thuchien"
+    },
+    {
+      "source_id": "hanhviphaply_thongke_datdai_thuchien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thongke_hangnam_31_12_trunam_kiemke"
+    },
+    {
+      "source_id": "khauniem_thoigian_thuchien_thongke_kiemke_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_kiemke_datdai_thuchien"
+    },
+    {
+      "source_id": "hanhviphaply_kiemke_datdai_thuchien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_kiemke_05nam_motlan_31_12_nam_4_hoac_9"
+    },
+    {
+      "source_id": "dieu_57",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_kiemke_datdai_chuyende"
+    },
+    {
+      "source_id": "hanhviphaply_kiemke_datdai_chuyende_thuchien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_kiemke_chuyende_theo_yeucau_quanly_nhanuoc"
+    },
+    {
+      "source_id": "chuthe_botruong_botaimoi",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyetdinh"
+    },
+    {
+      "source_id": "chuthe_chutich_ubnd_captinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyetdinh"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_kiemke_datdai_chuyende_thuchien"
+    }
+  ]
+}

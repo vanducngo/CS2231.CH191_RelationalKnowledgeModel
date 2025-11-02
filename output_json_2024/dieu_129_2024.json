@@ -1,0 +1,116 @@
+{
+  "entities": [
+    {
+      "id": "dieu_129",
+      "label": "ĐiềuLuật",
+      "text": "Điều 129"
+    },
+    {
+      "id": "khainiem_thamquyen_quyetdinh_dv_hanhchinh",
+      "label": "KháiNiệm",
+      "text": "Thẩm quyền quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính, đặt tên, đổi tên đơn vị hành chính"
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChủThể",
+      "text": "Quốc hội"
+    },
+    {
+      "id": "chuthe_uybanthuongvuquochoi",
+      "label": "ChủThể",
+      "text": "Ủy ban Thường vụ Quốc hội"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "text": "Chính phủ"
+    },
+    {
+      "id": "hanhvipaply_quyetdinh_dv_hanhchinh_captinh",
+      "label": "HànhViPhápLý",
+      "text": "quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp tỉnh; đặt tên, đổi tên đơn vị hành chính cấp tỉnh"
+    },
+    {
+      "id": "khainiem_donvi_hanhchinh_cap_tinh",
+      "label": "KháiNiệm",
+      "text": "đơn vị hành chính cấp tỉnh"
+    },
+    {
+      "id": "hanhvipaply_quyetdinh_dv_hanhchinh_caphuyen_capxa",
+      "label": "HànhViPhápLý",
+      "text": "quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp huyện, cấp xã; đặt tên, đổi tên đơn vị hành chính cấp huyện, cấp xã"
+    },
+    {
+      "id": "khainiem_donvi_hanhchinh_cap_huyen_cap_xa",
+      "label": "KháiNiệm",
+      "text": "đơn vị hành chính cấp huyện, cấp xã"
+    },
+    {
+      "id": "hanhvipaply_trinh_quyetdinh_ve_dv_hanhchinh",
+      "label": "HànhViPhápLý",
+      "text": "trình để quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính; đặt tên, đổi tên đơn vị hành chính"
+    },
+    {
+      "id": "khainiem_donvi_hanhchinh",
+      "label": "KháiNiệm",
+      "text": "đơn vị hành chính"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_129",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thamquyen_quyetdinh_dv_hanhchinh"
+    },
+    {
+      "source_id": "chuthe_quochoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_quyetdinh_dv_hanhchinh_captinh"
+    },
+    {
+      "source_id": "hanhvipaply_quyetdinh_dv_hanhchinh_captinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_donvi_hanhchinh_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_uybanthuongvuquochoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_quyetdinh_dv_hanhchinh_caphuyen_capxa"
+    },
+    {
+      "source_id": "hanhvipaply_quyetdinh_dv_hanhchinh_caphuyen_capxa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_donvi_hanhchinh_cap_huyen_cap_xa"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_trinh_quyetdinh_ve_dv_hanhchinh"
+    },
+    {
+      "source_id": "hanhvipaply_trinh_quyetdinh_ve_dv_hanhchinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_quochoi"
+    },
+    {
+      "source_id": "hanhvipaply_trinh_quyetdinh_ve_dv_hanhchinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_uybanthuongvuquochoi"
+    },
+    {
+      "source_id": "hanhvipaply_trinh_quyetdinh_ve_dv_hanhchinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_donvi_hanhchinh"
+    },
+    {
+      "source_id": "hanhvipaply_trinh_quyetdinh_ve_dv_hanhchinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_quyetdinh_dv_hanhchinh_captinh"
+    },
+    {
+      "source_id": "hanhvipaply_trinh_quyetdinh_ve_dv_hanhchinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_quyetdinh_dv_hanhchinh_caphuyen_capxa"
+    }
+  ]
+}

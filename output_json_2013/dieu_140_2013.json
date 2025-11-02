@@ -1,0 +1,270 @@
+{
+  "entities": [
+    {
+      "id": "dieu_140",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khauniem_datcomatnuocvenbien",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_coquannhanuocchothamquyen",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_chothue",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_sudung",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_nuoitrongthuysan",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_sanxuatnongnghiep",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_lamnghiep",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_lammuoi",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_phinongnghiep",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_dungquyhoach_kehoach",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_pheduyet_quyhoach_kehoach",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_baovedat_tangboitu",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_baovedat",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_lamtangsuboitudatvenbien",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_baove_hesinhthai",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_baove_hesinhthai",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_khongcantro_anninh_giaothong",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhviphaply_khongcantro_anninhquocgia",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_khongcantro_giaothongtrenbien",
+      "label": "HànhViPhápLý"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_datcomatnuocvenbien"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chothue"
+    },
+    {
+      "source_id": "hanhviphaply_chothue",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_datcomatnuocvenbien"
+    },
+    {
+      "source_id": "hanhviphaply_chothue",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuckinhte"
+    },
+    {
+      "source_id": "hanhviphaply_chothue",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_chothue",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "hanhviphaply_chothue",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai"
+    },
+    {
+      "source_id": "hanhviphaply_chothue",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sudung"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_datcomatnuocvenbien"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_nuoitrongthuysan"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sanxuatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lamnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lammuoi"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_phinongnghiep"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_dungquyhoach_kehoach"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dungquyhoach_kehoach"
+    },
+    {
+      "source_id": "dieukien_dungquyhoach_kehoach",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_pheduyet_quyhoach_kehoach"
+    },
+    {
+      "source_id": "hanhviphaply_pheduyet_quyhoach_kehoach",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquannhanuocchothamquyen"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_coquannhanuocchothamquyen"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_baovedat_tangboitu"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baovedat_tangboitu"
+    },
+    {
+      "source_id": "dieukien_baovedat_tangboitu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_baovedat"
+    },
+    {
+      "source_id": "dieukien_baovedat_tangboitu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_lamtangsuboitudatvenbien"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_baove_hesinhthai"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baove_hesinhthai"
+    },
+    {
+      "source_id": "dieukien_baove_hesinhthai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_baove_hesinhthai"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_khongcantro_anninh_giaothong"
+    },
+    {
+      "source_id": "hanhviphaply_sudung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongcantro_anninh_giaothong"
+    },
+    {
+      "source_id": "dieukien_khongcantro_anninh_giaothong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcantro_anninhquocgia"
+    },
+    {
+      "source_id": "dieukien_khongcantro_anninh_giaothong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcantro_giaothongtrenbien"
+    }
+  ]
+}

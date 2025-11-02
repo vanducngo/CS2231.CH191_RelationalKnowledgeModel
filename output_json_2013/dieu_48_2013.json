@@ -1,0 +1,186 @@
+{
+  "entities": [
+    {
+      "id": "dieu_48",
+      "label": "ĐiềuLuật",
+      "name": "Điều 48"
+    },
+    {
+      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_huyen",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "khainiem_noi_dung_qh_kh_sd_dat_cap_huyen_lien_quan_den_xa_phuong_thi_tran",
+      "label": "KháiNiệm",
+      "name": "nội dung quy hoạch, kế hoạch sử dụng đất cấp huyện có liên quan đến xã, phường, thị trấn"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "hanhviphaply_cong_bo_cong_khai",
+      "label": "HànhViPhápLý",
+      "name": "Công bố công khai"
+    },
+    {
+      "id": "hanhviphaply_quyet_dinh_phe_duyet",
+      "label": "HànhViPhápLý",
+      "name": "quyết định, phê duyệt"
+    },
+    {
+      "id": "dieukien_sau_khi_duoc_quyet_dinh_phe_duyet",
+      "label": "ĐiềuKiện",
+      "name": "sau khi được cơ quan nhà nước có thẩm quyền quyết định, phê duyệt"
+    },
+    {
+      "id": "dieukien_trong_thoi_han_30_ngay_tu_ngay_quyet_dinh_phe_duyet",
+      "label": "ĐiềuKiện",
+      "name": "trong thời hạn 30 ngày kể từ ngày được cơ quan nhà nước có thẩm quyền quyết định, phê duyệt"
+    },
+    {
+      "id": "dieukien_trong_suot_ky_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "trong suốt kỳ quy hoạch, kế hoạch sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_48",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_noi_dung_qh_kh_sd_dat_cap_huyen_lien_quan_den_xa_phuong_thi_tran"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sau_khi_duoc_quyet_dinh_phe_duyet"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_30_ngay_tu_ngay_quyet_dinh_phe_duyet"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_suot_ky_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyet_dinh_phe_duyet"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_phe_duyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_phe_duyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_phe_duyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_noi_dung_qh_kh_sd_dat_cap_huyen_lien_quan_den_xa_phuong_thi_tran"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa"
+    }
+  ]
+}

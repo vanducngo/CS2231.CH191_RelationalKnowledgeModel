@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_37",
+      "label": "ĐiềuLuật",
+      "name": "Điều 37"
+    },
+    {
+      "id": "khainiem_kyquyhoachkehoachsudungdat",
+      "label": "KháiNiệm",
+      "name": "Kỳ quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_kyquyhoachsudungdat",
+      "label": "KháiNiệm",
+      "name": "Kỳ quy hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_10nam",
+      "label": "KháiNiệm",
+      "name": "10 năm"
+    },
+    {
+      "id": "khainiem_kykehoachsudungdatcapquocgiacaptinh",
+      "label": "KháiNiệm",
+      "name": "Kỳ kế hoạch sử dụng đất cấp quốc gia, cấp tỉnh"
+    },
+    {
+      "id": "khainiem_kykehoachsudungdatquocphongdatanninh",
+      "label": "KháiNiệm",
+      "name": "Kỳ kế hoạch sử dụng đất quốc phòng, đất an ninh"
+    },
+    {
+      "id": "khainiem_05nam",
+      "label": "KháiNiệm",
+      "name": "05 năm"
+    },
+    {
+      "id": "khainiem_kehoachsudungdatcaphuyen",
+      "label": "KháiNiệm",
+      "name": "Kế hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "khainiem_hangnam",
+      "label": "KháiNiệm",
+      "name": "hàng năm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_37",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_kyquyhoachkehoachsudungdat"
+    },
+    {
+      "source_id": "khainiem_kyquyhoachsudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_10nam"
+    },
+    {
+      "source_id": "khainiem_kykehoachsudungdatcapquocgiacaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_05nam"
+    },
+    {
+      "source_id": "khainiem_kykehoachsudungdatquocphongdatanninh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_05nam"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdatcaphuyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hangnam"
+    }
+  ]
+}

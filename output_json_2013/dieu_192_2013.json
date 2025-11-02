@@ -1,0 +1,166 @@
+{
+  "entities": [
+    {
+      "id": "dieu_192",
+      "label": "ĐiềuLuật",
+      "name": "Điều 192"
+    },
+    {
+      "id": "khainiem_truonghop_chuyen_nhuong_tang_cho_co_dieu_kien",
+      "label": "KháiNiệm",
+      "name": "Trường hợp hộ gia đình, cá nhân chuyển nhượng, tặng cho quyền sử dụng đất có điều kiện"
+    },
+    {
+      "id": "chuthe_hogiadinh_canhan",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân"
+    },
+    {
+      "id": "hanhviphaply_chuyen_nhuong_tang_cho",
+      "label": "HànhViPhápLý",
+      "name": "chuyển nhượng, tặng cho"
+    },
+    {
+      "id": "khainiem_quyen_su_dung_dat_o_dat_rung_ket_hop_san_xuat_nong_lam_nghiep_nuoi_trong_thuy_san",
+      "label": "KháiNiệm",
+      "name": "quyền sử dụng đất ở, đất rừng kết hợp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản"
+    },
+    {
+      "id": "chuthe_nguoi_sinh_song_trong_phan_khu_bao_ve_nghiem_ngat_rung_dac_dung",
+      "label": "ChủThể",
+      "name": "hộ gia đình, cá nhân sinh sống trong phân khu đó"
+    },
+    {
+      "id": "dieukien_sinh_song_xen_ke_phan_khu_bao_ve_nghiem_ngat_rung_dac_dung_chua_ra_khoi_do",
+      "label": "ĐiềuKiện",
+      "name": "đang sinh sống xen kẽ trong phân khu bảo vệ nghiêm ngặt, phân khu phục hồi sinh thái thuộc rừng đặc dụng nhưng chưa có điều kiện chuyển ra khỏi phân khu đó"
+    },
+    {
+      "id": "khainiem_quyen_su_dung_dat_o_dat_san_xuat_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "quyền sử dụng đất ở, đất sản xuất nông nghiệp"
+    },
+    {
+      "id": "chuthe_nguoi_sinh_song_trong_khu_vuc_rung_phong_ho",
+      "label": "ChủThể",
+      "name": "hộ gia đình, cá nhân đang sinh sống trong khu vực rừng phòng hộ đó"
+    },
+    {
+      "id": "dieukien_duoc_nha_nuoc_giao_dat_o_dat_san_xuat_nong_nghiep_trong_khu_vuc_rung_phong_ho",
+      "label": "ĐiềuKiện",
+      "name": "được Nhà nước giao đất ở, đất sản xuất nông nghiệp trong khu vực rừng phòng hộ"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất"
+    },
+    {
+      "id": "khainiem_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_la_dan_toc_thieu_so_su_dung_dat_do_nha_nuoc_giao_theo_chinh_sach_ho_tro",
+      "label": "ĐiềuKiện",
+      "name": "là dân tộc thiểu số sử dụng đất do Nhà nước giao đất theo chính sách hỗ trợ của Nhà nước"
+    },
+    {
+      "id": "dieukien_thoi_gian_sau_10_nam_ke_tu_ngay_co_quyet_dinh_giao_dat",
+      "label": "ĐiềuKiện",
+      "name": "sau 10 năm, kể từ ngày có quyết định giao đất"
+    },
+    {
+      "id": "dieukien_theo_quy_dinh_cua_chinh_phu",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của Chính phủ"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_192",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_truonghop_chuyen_nhuong_tang_cho_co_dieu_kien"
+    },
+    {
+      "source_id": "dieu_192",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyen_nhuong_tang_cho"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_tang_cho",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinh_canhan"
+    },
+    {
+      "source_id": "chuthe_hogiadinh_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sinh_song_xen_ke_phan_khu_bao_ve_nghiem_ngat_rung_dac_dung_chua_ra_khoi_do"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_tang_cho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyen_su_dung_dat_o_dat_rung_ket_hop_san_xuat_nong_lam_nghiep_nuoi_trong_thuy_san"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_tang_cho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nguoi_sinh_song_trong_phan_khu_bao_ve_nghiem_ngat_rung_dac_dung"
+    },
+    {
+      "source_id": "chuthe_hogiadinh_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_nha_nuoc_giao_dat_o_dat_san_xuat_nong_nghiep_trong_khu_vuc_rung_phong_ho"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_tang_cho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyen_su_dung_dat_o_dat_san_xuat_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_tang_cho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nguoi_sinh_song_trong_khu_vuc_rung_phong_ho"
+    },
+    {
+      "source_id": "chuthe_hogiadinh_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_la_dan_toc_thieu_so_su_dung_dat_do_nha_nuoc_giao_theo_chinh_sach_ho_tro"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giao_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_tang_cho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_tang_cho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thoi_gian_sau_10_nam_ke_tu_ngay_co_quyet_dinh_giao_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_tang_cho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_cua_chinh_phu"
+    },
+    {
+      "source_id": "dieukien_theo_quy_dinh_cua_chinh_phu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chinh_phu"
+    }
+  ]
+}

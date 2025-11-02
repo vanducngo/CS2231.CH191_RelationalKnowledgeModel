@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "id": "dieu_226",
+      "label": "ĐiềuLuật",
+      "name": "Điều 226. Trách nhiệm thực hiện thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "khainiem_thu_tuc_hanh_chinh_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "khainiem_thu_tuc_hanh_chinh_khac_co_lien_quan",
+      "label": "KháiNiệm",
+      "name": "thủ tục hành chính khác có liên quan"
+    },
+    {
+      "id": "chuthe_bo_nganh",
+      "label": "ChủThể",
+      "name": "Bộ, ngành"
+    },
+    {
+      "id": "hanhviphaply_phoi_hop_chi_dao_huong_dan_kiem_tra_tthc_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "phối hợp trong chỉ đạo, hướng dẫn, kiểm tra việc thực hiện thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "hanhviphaply_bao_dam_thong_nhat_giua_tthc_dat_dai_va_tthc_khac",
+      "label": "HànhViPhápLý",
+      "name": "bảo đảm thống nhất giữa thủ tục hành chính về đất đai với các thủ tục hành chính khác có liên quan"
+    },
+    {
+      "id": "dieukien_theo_chuc_nang_nhiem_vu_quyen_han_bo_nganh",
+      "label": "ĐiềuKiện",
+      "name": "theo chức năng, nhiệm vụ, quyền hạn của Bộ, ngành"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cac_cap",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân các cấp"
+    },
+    {
+      "id": "hanhviphaply_chi_dao_huong_dan_kiem_tra_va_to_chuc_thuc_hien_tthc_tai_dia_phuong",
+      "label": "HànhViPhápLý",
+      "name": "chỉ đạo, hướng dẫn, kiểm tra và tổ chức thực hiện thủ tục hành chính tại địa phương"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_viec_phoi_hop_giai_quyet_tthc_o_dia_phuong",
+      "label": "HànhViPhápLý",
+      "name": "quy định việc phối hợp giữa các cơ quan có liên quan ở địa phương để giải quyết thủ tục hành chính về đất đai và thủ tục hành chính khác có liên quan"
+    },
+    {
+      "id": "hanhviphaply_to_chuc_thuc_hien_tthc_tren_moi_truong_dien_tu",
+      "label": "HànhViPhápLý",
+      "name": "tổ chức thực hiện thủ tục hành chính trên môi trường điện tử"
+    },
+    {
+      "id": "chuthe_co_quan_co_tham_quyen_giai_quyet_tthc_ve_dat_dai",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền giải quyết thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_dung_trinh_tu_thu_tuc_tthc",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện đúng trình tự, thủ tục"
+    },
+    {
+      "id": "hanhviphaply_cong_khai_ket_qua_giai_quyet_tthc",
+      "label": "HànhViPhápLý",
+      "name": "công khai kết quả giải quyết thủ tục hành chính"
+    },
+    {
+      "id": "dieukien_theo_quy_dinh",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_226",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_bo_nganh"
+    },
+    {
+      "source_id": "chuthe_bo_nganh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phoi_hop_chi_dao_huong_dan_kiem_tra_tthc_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_phoi_hop_chi_dao_huong_dan_kiem_tra_tthc_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thu_tuc_hanh_chinh_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_phoi_hop_chi_dao_huong_dan_kiem_tra_tthc_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_chuc_nang_nhiem_vu_quyen_han_bo_nganh"
+    },
+    {
+      "source_id": "chuthe_bo_nganh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_bao_dam_thong_nhat_giua_tthc_dat_dai_va_tthc_khac"
+    },
+    {
+      "source_id": "hanhviphaply_bao_dam_thong_nhat_giua_tthc_dat_dai_va_tthc_khac",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thu_tuc_hanh_chinh_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_bao_dam_thong_nhat_giua_tthc_dat_dai_va_tthc_khac",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thu_tuc_hanh_chinh_khac_co_lien_quan"
+    },
+    {
+      "source_id": "hanhviphaply_bao_dam_thong_nhat_giua_tthc_dat_dai_va_tthc_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_chuc_nang_nhiem_vu_quyen_han_bo_nganh"
+    },
+    {
+      "source_id": "dieu_226",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_uy_ban_nhan_dan_cac_cap"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cac_cap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chi_dao_huong_dan_kiem_tra_va_to_chuc_thuc_hien_tthc_tai_dia_phuong"
+    },
+    {
+      "source_id": "hanhviphaply_chi_dao_huong_dan_kiem_tra_va_to_chuc_thuc_hien_tthc_tai_dia_phuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thu_tuc_hanh_chinh_ve_dat_dai"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cac_cap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quy_dinh_viec_phoi_hop_giai_quyet_tthc_o_dia_phuong"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_viec_phoi_hop_giai_quyet_tthc_o_dia_phuong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thu_tuc_hanh_chinh_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_viec_phoi_hop_giai_quyet_tthc_o_dia_phuong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thu_tuc_hanh_chinh_khac_co_lien_quan"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cac_cap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_to_chuc_thuc_hien_tthc_tren_moi_truong_dien_tu"
+    },
+    {
+      "source_id": "hanhviphaply_to_chuc_thuc_hien_tthc_tren_moi_truong_dien_tu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thu_tuc_hanh_chinh_ve_dat_dai"
+    },
+    {
+      "source_id": "dieu_226",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_co_quan_co_tham_quyen_giai_quyet_tthc_ve_dat_dai"
+    },
+    {
+      "source_id": "chuthe_co_quan_co_tham_quyen_giai_quyet_tthc_ve_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_dung_trinh_tu_thu_tuc_tthc"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_dung_trinh_tu_thu_tuc_tthc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thu_tuc_hanh_chinh_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_dung_trinh_tu_thu_tuc_tthc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh"
+    },
+    {
+      "source_id": "chuthe_co_quan_co_tham_quyen_giai_quyet_tthc_ve_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cong_khai_ket_qua_giai_quyet_tthc"
+    },
+    {
+      "source_id": "hanhviphaply_cong_khai_ket_qua_giai_quyet_tthc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thu_tuc_hanh_chinh_ve_dat_dai"
+    }
+  ]
+}

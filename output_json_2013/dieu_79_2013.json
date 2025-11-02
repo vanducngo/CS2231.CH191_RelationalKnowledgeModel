@@ -1,0 +1,326 @@
+{
+  "entities": [
+    {
+      "id": "dieu_79",
+      "label": "ĐiềuLuật",
+      "name": "Điều 79"
+    },
+    {
+      "id": "khai_niem_boi_thuong_ve_dat_khi_nha_nuoc_thu_hoi_dat_o",
+      "label": "KháiNiệm",
+      "name": "Bồi thường về đất khi Nhà nước thu hồi đất ở"
+    },
+    {
+      "id": "chu_the_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chu_the_ca_nhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "chu_the_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "khai_niem_su_dung_dat_o",
+      "label": "KháiNiệm",
+      "name": "sử dụng đất ở"
+    },
+    {
+      "id": "khai_niem_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "sở hữu nhà ở gắn liền với quyền sử dụng đất tại Việt Nam"
+    },
+    {
+      "id": "dieu_kien_du_dieu_kien_boi_thuong_dieu_75",
+      "label": "ĐiềuKiện",
+      "name": "có đủ điều kiện được bồi thường quy định tại Điều 75 của Luật này"
+    },
+    {
+      "id": "khai_niem_thu_hoi_dat",
+      "label": "KháiNiệm",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "chu_the_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "dieu_kien_khong_con_dat_o_nha_o_khac",
+      "label": "ĐiềuKiện",
+      "name": "không còn đất ở, nhà ở nào khác trong địa bàn xã, phường, thị trấn nơi có đất thu hồi"
+    },
+    {
+      "id": "hanh_vi_duoc_boi_thuong_bang_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "được bồi thường bằng đất ở"
+    },
+    {
+      "id": "hanh_vi_duoc_boi_thuong_bang_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "được bồi thường bằng nhà ở"
+    },
+    {
+      "id": "dieu_kien_khong_co_nhu_cau_boi_thuong_bang_dat_o_hoac_nha_o",
+      "label": "ĐiềuKiện",
+      "name": "không có nhu cầu bồi thường bằng đất ở hoặc nhà ở"
+    },
+    {
+      "id": "hanh_vi_duoc_boi_thuong_bang_tien",
+      "label": "HànhViPhápLý",
+      "name": "được bồi thường bằng tiền"
+    },
+    {
+      "id": "dieu_kien_con_dat_o_nha_o",
+      "label": "ĐiềuKiện",
+      "name": "còn đất ở, nhà ở trong địa bàn xã, phường, thị trấn nơi có đất thu hồi"
+    },
+    {
+      "id": "dieu_kien_dia_phuong_co_dieu_kien_ve_quy_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "đối với địa phương có điều kiện về quỹ đất ở"
+    },
+    {
+      "id": "khai_niem_di_chuyen_cho_o",
+      "label": "KháiNiệm",
+      "name": "di chuyển chỗ ở"
+    },
+    {
+      "id": "dieu_kien_khong_du_dieu_kien_boi_thuong_ve_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "không đủ điều kiện được bồi thường về đất ở"
+    },
+    {
+      "id": "dieu_kien_khong_co_cho_o_nao_khac",
+      "label": "ĐiềuKiện",
+      "name": "không có chỗ ở nào khác"
+    },
+    {
+      "id": "hanh_vi_nha_nuoc_ban_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước bán nhà ở"
+    },
+    {
+      "id": "hanh_vi_nha_nuoc_cho_thue_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước cho thuê nhà ở"
+    },
+    {
+      "id": "hanh_vi_nha_nuoc_cho_thue_mua_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước cho thuê mua nhà ở"
+    },
+    {
+      "id": "hanh_vi_nha_nuoc_giao_dat_o_co_thu_tien_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất ở có thu tiền sử dụng đất"
+    },
+    {
+      "id": "chu_the_to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chu_the_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "khai_niem_du_an_xay_dung_nha_o",
+      "label": "KháiNiệm",
+      "name": "dự án xây dựng nhà ở"
+    },
+    {
+      "id": "hanh_vi_duoc_boi_thuong_ve_dat",
+      "label": "HànhViPhápLý",
+      "name": "được bồi thường về đất"
+    },
+    {
+      "id": "chu_the_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanh_vi_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết Điều này"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_79",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_boi_thuong_ve_dat_khi_nha_nuoc_thu_hoi_dat_o"
+    },
+    {
+      "source_id": "chu_the_ho_gia_dinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_su_dung_dat_o"
+    },
+    {
+      "source_id": "chu_the_ca_nhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_su_dung_dat_o"
+    },
+    {
+      "source_id": "chu_the_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "khai_niem_su_dung_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_du_dieu_kien_boi_thuong_dieu_75"
+    },
+    {
+      "source_id": "khai_niem_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_du_dieu_kien_boi_thuong_dieu_75"
+    },
+    {
+      "source_id": "chu_the_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_thu_hoi_dat"
+    },
+    {
+      "source_id": "khai_niem_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_kien_du_dieu_kien_boi_thuong_dieu_75"
+    },
+    {
+      "source_id": "dieu_kien_du_dieu_kien_boi_thuong_dieu_75",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_duoc_boi_thuong_bang_dat_o"
+    },
+    {
+      "source_id": "dieu_kien_du_dieu_kien_boi_thuong_dieu_75",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_duoc_boi_thuong_bang_nha_o"
+    },
+    {
+      "source_id": "dieu_kien_khong_con_dat_o_nha_o_khac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_duoc_boi_thuong_bang_dat_o"
+    },
+    {
+      "source_id": "dieu_kien_khong_con_dat_o_nha_o_khac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_duoc_boi_thuong_bang_nha_o"
+    },
+    {
+      "source_id": "dieu_kien_khong_co_nhu_cau_boi_thuong_bang_dat_o_hoac_nha_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_duoc_boi_thuong_bang_tien"
+    },
+    {
+      "source_id": "dieu_kien_con_dat_o_nha_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_duoc_boi_thuong_bang_tien"
+    },
+    {
+      "source_id": "dieu_kien_dia_phuong_co_dieu_kien_ve_quy_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_duoc_boi_thuong_bang_dat_o"
+    },
+    {
+      "source_id": "chu_the_ho_gia_dinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_di_chuyen_cho_o"
+    },
+    {
+      "source_id": "chu_the_ca_nhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_di_chuyen_cho_o"
+    },
+    {
+      "source_id": "khai_niem_di_chuyen_cho_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khong_du_dieu_kien_boi_thuong_ve_dat_o"
+    },
+    {
+      "source_id": "khai_niem_di_chuyen_cho_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khong_co_cho_o_nao_khac"
+    },
+    {
+      "source_id": "dieu_kien_khong_du_dieu_kien_boi_thuong_ve_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_nha_nuoc_ban_nha_o"
+    },
+    {
+      "source_id": "dieu_kien_khong_du_dieu_kien_boi_thuong_ve_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_nha_nuoc_cho_thue_nha_o"
+    },
+    {
+      "source_id": "dieu_kien_khong_du_dieu_kien_boi_thuong_ve_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_nha_nuoc_cho_thue_mua_nha_o"
+    },
+    {
+      "source_id": "dieu_kien_khong_du_dieu_kien_boi_thuong_ve_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_nha_nuoc_giao_dat_o_co_thu_tien_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_khong_co_cho_o_nao_khac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_nha_nuoc_ban_nha_o"
+    },
+    {
+      "source_id": "dieu_kien_khong_co_cho_o_nao_khac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_nha_nuoc_cho_thue_nha_o"
+    },
+    {
+      "source_id": "dieu_kien_khong_co_cho_o_nao_khac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_nha_nuoc_cho_thue_mua_nha_o"
+    },
+    {
+      "source_id": "dieu_kien_khong_co_cho_o_nao_khac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_nha_nuoc_giao_dat_o_co_thu_tien_su_dung_dat"
+    },
+    {
+      "source_id": "chu_the_to_chuc_kinh_te",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_du_an_xay_dung_nha_o"
+    },
+    {
+      "source_id": "chu_the_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_du_an_xay_dung_nha_o"
+    },
+    {
+      "source_id": "chu_the_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khai_niem_du_an_xay_dung_nha_o"
+    },
+    {
+      "source_id": "khai_niem_du_an_xay_dung_nha_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_du_dieu_kien_boi_thuong_dieu_75"
+    },
+    {
+      "source_id": "dieu_kien_du_dieu_kien_boi_thuong_dieu_75",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_duoc_boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "chu_the_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanh_vi_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanh_vi_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_79"
+    }
+  ]
+}

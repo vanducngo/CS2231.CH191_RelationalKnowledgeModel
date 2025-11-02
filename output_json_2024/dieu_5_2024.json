@@ -1,0 +1,148 @@
+{
+  "entities": [
+    {
+      "id": "dieu_5",
+      "label": "ĐiềuLuật",
+      "properties": {
+        "Tên Điều": "Nguyên tắc sử dụng đất",
+        "Mã Điều": 5,
+        "Tên Luật": "Luật Đất đai 2024"
+      }
+    },
+    {
+      "id": "khainiem_nguyentacsudungdat",
+      "label": "KháiNiệm",
+      "properties": {
+        "Tên": "Nguyên tắc sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "properties": {
+        "Tên": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nguoisudungdatlienkevasungquanh",
+      "label": "ChủThể",
+      "properties": {
+        "Tên": "Người sử dụng đất liền kề và xung quanh"
+      }
+    },
+    {
+      "id": "hanhviphaply_sudungdat",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "Tên": "Sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_baovedat",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "Tên": "Bảo vệ đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_baovemoitruong",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "Tên": "Bảo vệ môi trường"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuchienquyenvanghiavu",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "Tên": "Thực hiện quyền và nghĩa vụ"
+      }
+    },
+    {
+      "id": "hanhviphaply_xamphamquyenloiichhophap",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "Tên": "Xâm phạm quyền, lợi ích hợp pháp",
+        "Mô tả": "Hành vi bị cấm"
+      }
+    },
+    {
+      "id": "dieukien_dungmucdich",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "Tên": "Đúng mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_benvungtietkiemcohieuqua",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "Tên": "Bền vững, tiết kiệm, có hiệu quả"
+      }
+    },
+    {
+      "id": "dieukien_trongthoihansudungdat",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "Tên": "Trong thời hạn sử dụng đất"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_5",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_nguyentacsudungdat"
+    },
+    {
+      "source_id": "khainiem_nguyentacsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_sudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dungmucdich"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_benvungtietkiemcohieuqua"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_baovedat"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_baovemoitruong"
+    },
+    {
+      "source_id": "dieu_5",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchienquyenvanghiavu"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienquyenvanghiavu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trongthoihansudungdat"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xamphamquyenloiichhophap"
+    },
+    {
+      "source_id": "hanhviphaply_xamphamquyenloiichhophap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdatlienkevasungquanh"
+    }
+  ]
+}

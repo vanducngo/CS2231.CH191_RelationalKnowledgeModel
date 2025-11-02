@@ -1,0 +1,306 @@
+{
+  "entities": [
+    {
+      "id": "dieu_192",
+      "label": "ĐiềuLuật",
+      "name": "Điều 192"
+    },
+    {
+      "id": "khauniem_taptungdatnongnghiep",
+      "label": "KháiNiệm",
+      "name": "Tập trung đất nông nghiệp"
+    },
+    {
+      "id": "hanhviply_chuyendoiquyen",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển đổi quyền sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "hanhviply_thuequyen",
+      "label": "HànhViPhápLý",
+      "name": "Thuê quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviply_hoptacsxkd",
+      "label": "HànhViPhápLý",
+      "name": "Hợp tác sản xuất, kinh doanh bằng quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_phuongandondiendoidthua",
+      "label": "ĐiềuKiện",
+      "name": "Phương án dồn điền, đổi thửa"
+    },
+    {
+      "id": "dieukien_baodamconkhai",
+      "label": "ĐiềuKiện",
+      "name": "Bảo đảm công khai, minh bạch, tự nguyện, dân chủ, công bằng"
+    },
+    {
+      "id": "dieukien_baodamquyenloi",
+      "label": "ĐiềuKiện",
+      "name": "Bảo đảm quyền, lợi ích hợp pháp của Nhà nước, người sử dụng đất và của tổ chức, cá nhân có liên quan; không ảnh hưởng đến quốc phòng, an ninh"
+    },
+    {
+      "id": "dieukien_tuanthuphapluat",
+      "label": "ĐiềuKiện",
+      "name": "Tuân thủ quy định của pháp luật về đất đai, pháp luật về dân sự và quy định khác của pháp luật có liên quan; phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "dieukien_phuhopdadai",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với đặc điểm về đất đai, địa hình, khí hậu, văn hóa, quá trình chuyển dịch lao động, chuyển đổi nghề, việc làm ở nông thôn của từng vùng, từng khu vực, từng địa phương và phù hợp với nhu cầu của thị trường"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "khauniem_chinhsachkhuyenkhich",
+      "label": "KháiNiệm",
+      "name": "Chính sách khuyến khích"
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChủThể",
+      "name": "Tổ chức, cá nhân"
+    },
+    {
+      "id": "khauniem_kinhphi",
+      "label": "KháiNiệm",
+      "name": "Kinh phí cho công tác đo đạc, chỉnh lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất để thực hiện dồn điền, đổi thửa nhằm tập trung đất để sản xuất nông nghiệp"
+    },
+    {
+      "id": "chuthe_ngansachnhanuoc",
+      "label": "ChủThể",
+      "name": "Ngân sách nhà nước"
+    },
+    {
+      "id": "chuthe_tochuckinhte_canhan",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế, cá nhân"
+    },
+    {
+      "id": "hanhviply_lapphuongan",
+      "label": "HànhViPhápLý",
+      "name": "Lập phương án sử dụng đất"
+    },
+    {
+      "id": "chuthe_uybannhandancapxa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "hanhviply_thaydoimucdich",
+      "label": "HànhViPhápLý",
+      "name": "Thay đổi mục đích sử dụng đất trong nội bộ nhóm đất nông nghiệp"
+    },
+    {
+      "id": "hanhviply_thoa_thuanhoantra",
+      "label": "HànhViPhápLý",
+      "name": "Thỏa thuận với người sử dụng đất về việc hoàn trả đất nông nghiệp"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "dieukien_saukhithamgia_taptung",
+      "label": "ĐiềuKiện",
+      "name": "Sau khi đã tham gia tập trung đất đai"
+    },
+    {
+      "id": "hanhviply_dieuchinhlaiquyen",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh lại quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_dieu219",
+      "label": "ĐiềuKiện",
+      "name": "Điều 219 của Luật này"
+    },
+    {
+      "id": "chuthe_uybannhandancaccap",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân các cấp"
+    },
+    {
+      "id": "hanhviply_tuyentruyen_phobien",
+      "label": "HànhViPhápLý",
+      "name": "Tuyên truyền, phổ biến chính sách, pháp luật"
+    },
+    {
+      "id": "hanhviply_huongdan_hotro",
+      "label": "HànhViPhápLý",
+      "name": "Hướng dẫn, hỗ trợ các bên"
+    },
+    {
+      "id": "hanhviply_baodamon_dinhquyhoach",
+      "label": "HànhViPhápLý",
+      "name": "Bảo đảm ổn định quy hoạch đối với diện tích đất nông nghiệp đã tập trung"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviply_quydinhchitiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết Điều này"
+    },
+    {
+      "id": "chuthe_tochuccanhan_lienquan",
+      "label": "ChủThể",
+      "name": "Tổ chức, cá nhân có liên quan"
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_192",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_taptungdatnongnghiep"
+    },
+    {
+      "source_id": "khauniem_taptungdatnongnghiep",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviply_chuyendoiquyen"
+    },
+    {
+      "source_id": "khauniem_taptungdatnongnghiep",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviply_thuequyen"
+    },
+    {
+      "source_id": "khauniem_taptungdatnongnghiep",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviply_hoptacsxkd"
+    },
+    {
+      "source_id": "hanhviply_chuyendoiquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuongandondiendoidthua"
+    },
+    {
+      "source_id": "dieu_192",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_baodamconkhai"
+    },
+    {
+      "source_id": "khauniem_taptungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamconkhai"
+    },
+    {
+      "source_id": "khauniem_taptungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamquyenloi"
+    },
+    {
+      "source_id": "khauniem_taptungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tuanthuphapluat"
+    },
+    {
+      "source_id": "khauniem_taptungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhopdadai"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_chinhsachkhuyenkhich"
+    },
+    {
+      "source_id": "khauniem_chinhsachkhuyenkhich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuccanhan"
+    },
+    {
+      "source_id": "chuthe_ngansachnhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_kinhphi"
+    },
+    {
+      "source_id": "chuthe_tochuckinhte_canhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviply_lapphuongan"
+    },
+    {
+      "source_id": "hanhviply_lapphuongan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_uybannhandancapxa"
+    },
+    {
+      "source_id": "hanhviply_thaydoimucdich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviply_thoa_thuanhoantra"
+    },
+    {
+      "source_id": "hanhviply_thoa_thuanhoantra",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhviply_thoa_thuanhoantra",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_saukhithamgia_taptung"
+    },
+    {
+      "source_id": "hanhviply_dieuchinhlaiquyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_dieu219"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviply_tuyentruyen_phobien"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviply_huongdan_hotro"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviply_baodamon_dinhquyhoach"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviply_quydinhchitiet"
+    },
+    {
+      "source_id": "hanhviply_quydinhchitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_192"
+    },
+    {
+      "source_id": "dieukien_tuanthuphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquancothamquyen"
+    },
+    {
+      "source_id": "dieukien_baodamquyenloi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "dieukien_baodamquyenloi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "dieukien_baodamquyenloi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuccanhan_lienquan"
+    }
+  ]
+}

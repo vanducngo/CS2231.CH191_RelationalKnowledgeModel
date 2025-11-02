@@ -1,0 +1,211 @@
+{
+  "entities": [
+    {
+      "id": "dieu_168",
+      "label": "ĐiềuLuật",
+      "name": "Điều 168"
+    },
+    {
+      "id": "khainiem_thoi_diem_duoc_thuc_hien_cac_quyen_cua_nguoi_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Thời điểm được thực hiện các quyền của người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_lai_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê lại quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_tang_cho_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_the_chap_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "thế chấp quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_gop_von_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "góp vốn quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_co_giay_chung_nhan",
+      "label": "ĐiềuKiện",
+      "name": "có Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_chuyen_doi_quyen_su_dung_dat_nong_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "chuyển đổi quyền sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "dieukien_co_quyet_dinh_giao_dat_cho_thue_dat",
+      "label": "ĐiềuKiện",
+      "name": "có quyết định giao đất, cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_nhan_thua_ke_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "nhận thừa kế quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_du_dieu_kien_de_cap_giay_chung_nhan",
+      "label": "ĐiềuKiện",
+      "name": "đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "khainiem_nghia_vu_tai_chinh",
+      "label": "KháiNiệm",
+      "name": "nghĩa vụ tài chính"
+    },
+    {
+      "id": "dieukien_thuc_hien_xong_nghia_vu_tai_chinh",
+      "label": "ĐiềuKiện",
+      "name": "thực hiện xong nghĩa vụ tài chính"
+    },
+    {
+      "id": "khainiem_thoi_diem_chuyen_nhuong_quyen_su_dung_dat_trong_du_an",
+      "label": "KháiNiệm",
+      "name": "Thời điểm người thực hiện chuyển nhượng quyền sử dụng đất trong dự án đầu tư"
+    },
+    {
+      "id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_trong_du_an_dau_tu_xay_dung_kinh_doanh_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "chuyển nhượng quyền sử dụng đất trong dự án đầu tư xây dựng kinh doanh nhà ở để bán hoặc cho thuê"
+    },
+    {
+      "id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_dong_thoi_chuyen_nhuong_toan_bo_du_an_dau_tu_xay_dung_ket_cau_ha_tang",
+      "label": "HànhViPhápLý",
+      "name": "chuyển nhượng quyền sử dụng đất đồng thời chuyển nhượng toàn bộ dự án đối với dự án đầu tư xây dựng kết cấu hạ tầng để chuyển nhượng hoặc cho thuê"
+    },
+    {
+      "id": "dieukien_du_dieu_kien_theo_quy_dinh_tai_dieu_194",
+      "label": "ĐiềuKiện",
+      "name": "đủ điều kiện theo quy định tại Điều 194 của Luật này"
+    },
+    {
+      "id": "dieu_194",
+      "label": "ĐiềuLuật",
+      "name": "Điều 194"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_168",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoi_diem_duoc_thuc_hien_cac_quyen_cua_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_thoi_diem_duoc_thuc_hien_cac_quyen_cua_nguoi_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_lai_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_the_chap_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_gop_von_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_doi_quyen_su_dung_dat_nong_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_quyet_dinh_giao_dat_cho_thue_dat"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_thua_ke_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_thua_ke_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_du_dieu_kien_de_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuc_hien_xong_nghia_vu_tai_chinh"
+    },
+    {
+      "source_id": "dieu_168",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoi_diem_chuyen_nhuong_quyen_su_dung_dat_trong_du_an"
+    },
+    {
+      "source_id": "khainiem_thoi_diem_chuyen_nhuong_quyen_su_dung_dat_trong_du_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_trong_du_an_dau_tu_xay_dung_kinh_doanh_nha_o"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_trong_du_an_dau_tu_xay_dung_kinh_doanh_nha_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_trong_du_an_dau_tu_xay_dung_kinh_doanh_nha_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_du_dieu_kien_theo_quy_dinh_tai_dieu_194"
+    },
+    {
+      "source_id": "khainiem_thoi_diem_chuyen_nhuong_quyen_su_dung_dat_trong_du_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_dong_thoi_chuyen_nhuong_toan_bo_du_an_dau_tu_xay_dung_ket_cau_ha_tang"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_dong_thoi_chuyen_nhuong_toan_bo_du_an_dau_tu_xay_dung_ket_cau_ha_tang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_dong_thoi_chuyen_nhuong_toan_bo_du_an_dau_tu_xay_dung_ket_cau_ha_tang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_du_dieu_kien_theo_quy_dinh_tai_dieu_194"
+    },
+    {
+      "source_id": "dieukien_du_dieu_kien_theo_quy_dinh_tai_dieu_194",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_194"
+    }
+  ]
+}

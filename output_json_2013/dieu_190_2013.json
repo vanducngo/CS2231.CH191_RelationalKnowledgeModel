@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "id": "dieu_190",
+      "label": "ĐiềuLuật",
+      "name": "Điều 190"
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "khauniem_quyensudungdatnongnghiep",
+      "label": "KháiNiệm",
+      "name": "Quyền sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "hanhviphaply_nhanuocgiaodat",
+      "label": "HànhViPhápLý",
+      "name": "Được Nhà nước giao đất"
+    },
+    {
+      "id": "hanhviphaply_chuyendoi_acqusition",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển đổi (nhận quyền)"
+    },
+    {
+      "id": "hanhviphaply_nhanchuyennhuong",
+      "label": "HànhViPhápLý",
+      "name": "Nhận chuyển nhượng"
+    },
+    {
+      "id": "hanhviphaply_nhanthuake",
+      "label": "HànhViPhápLý",
+      "name": "Nhận thừa kế"
+    },
+    {
+      "id": "hanhviphaply_duoctangcho",
+      "label": "HànhViPhápLý",
+      "name": "Được tặng cho"
+    },
+    {
+      "id": "dieukien_quyensudungdathopphap",
+      "label": "ĐiềuKiện",
+      "name": "Quyền sử dụng đất hợp pháp"
+    },
+    {
+      "id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển đổi quyền sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "dieukien_trongcungxaphuongthitran",
+      "label": "ĐiềuKiện",
+      "name": "Trong cùng xã, phường, thị trấn"
+    },
+    {
+      "id": "dieukien_thuanloichosanxuatnongnghiep",
+      "label": "ĐiềuKiện",
+      "name": "Thuận lợi cho sản xuất nông nghiệp"
+    },
+    {
+      "id": "chetai_mienthuethunhap",
+      "label": "ChếTài",
+      "name": "Không phải nộp thuế thu nhập"
+    },
+    {
+      "id": "chetai_mienlephitruocba",
+      "label": "ChếTài",
+      "name": "Không phải nộp lệ phí trước bạ"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_190",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep"
+    },
+    {
+      "source_id": "dieu_190",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quyensudungdatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocgiaodat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_quyensudungdathopphap"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoi_acqusition",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_quyensudungdathopphap"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyennhuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_quyensudungdathopphap"
+    },
+    {
+      "source_id": "hanhviphaply_nhanthuake",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_quyensudungdathopphap"
+    },
+    {
+      "source_id": "hanhviphaply_duoctangcho",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_quyensudungdathopphap"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyensudungdathopphap"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trongcungxaphuongthitran"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuanloichosanxuatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_mienthuethunhap"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_mienlephitruocba"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "entities": [
+    {
+      "id": "dieu_258",
+      "label": "ĐiềuLuật",
+      "name": "Điều 258. Giải quyết về thời hạn sử dụng đất khi Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "khainiem_thoihansudungdat",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_coquannhanuocothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất"
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_trungdaugiaquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Trúng đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_xacdinhthoihansudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Xác định thời hạn sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_giahansudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Gia hạn sử dụng đất"
+    },
+    {
+      "id": "chetai_thuhaidat",
+      "label": "ChếTài",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "dieukien_truocngay01072004",
+      "label": "ĐiềuKiện",
+      "name": "Trước ngày 01 tháng 7 năm 2004"
+    },
+    {
+      "id": "dieukien_hethoihansudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_258",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoihansudungdat"
+    },
+    {
+      "source_id": "dieu_258",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xacdinhthoihansudungdat"
+    },
+    {
+      "source_id": "dieu_258",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuckinhte"
+    },
+    {
+      "source_id": "hanhviphaply_trungdaugiaquyensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_truocngay01072004"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xacdinhthoihansudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_trungdaugiaquyensudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xacdinhthoihansudungdat"
+    },
+    {
+      "source_id": "dieukien_hethoihansudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_giahansudungdat"
+    },
+    {
+      "source_id": "dieukien_hethoihansudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thuhaidat"
+    },
+    {
+      "source_id": "dieu_258",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giahansudungdat"
+    },
+    {
+      "source_id": "dieu_258",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chetai_thuhaidat"
+    }
+  ]
+}

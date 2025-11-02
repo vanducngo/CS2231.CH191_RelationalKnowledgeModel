@@ -1,0 +1,501 @@
+{
+  "entities": [
+    {
+      "id": "dieu_137",
+      "label": "ĐiềuLuật",
+      "name": "Điều 137"
+    },
+    {
+      "id": "dat_rung_dac_dung",
+      "label": "KháiNiệm",
+      "name": "Đất rừng đặc dụng"
+    },
+    {
+      "id": "nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "to_chuc_quan_ly_rung_dac_dung",
+      "label": "ChủThể",
+      "name": "Tổ chức quản lý rừng đặc dụng"
+    },
+    {
+      "id": "giao_dat_rung_dac_dung",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất rừng đặc dụng"
+    },
+    {
+      "id": "quan_ly_bao_ve_dat_rung_dac_dung",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý, bảo vệ đất rừng đặc dụng"
+    },
+    {
+      "id": "quy_hoach_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "phe_duyet_quy_hoach_ke_hoach",
+      "label": "HànhViPhápLý",
+      "name": "Phê duyệt quy hoạch, kế hoạch"
+    },
+    {
+      "id": "ket_hop_su_dung_dat_muc_dich_khac",
+      "label": "HànhViPhápLý",
+      "name": "Kết hợp sử dụng đất vào mục đích khác"
+    },
+    {
+      "id": "phap_luat_ve_bao_ve_va_phat_trien_rung",
+      "label": "KháiNiệm",
+      "name": "Pháp luật về bảo vệ và phát triển rừng"
+    },
+    {
+      "id": "giao_khoan_ngan_han_dat_rung_dac_dung",
+      "label": "HànhViPhápLý",
+      "name": "Giao khoán ngắn hạn đất rừng đặc dụng"
+    },
+    {
+      "id": "phan_khu_bao_ve_nghiem_ngat",
+      "label": "KháiNiệm",
+      "name": "Phân khu bảo vệ nghiêm ngặt"
+    },
+    {
+      "id": "ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "ca_nhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "dieu_kien_chua_chuyen_ra_khoi_khu_vuc",
+      "label": "ĐiềuKiện",
+      "name": "Chưa có điều kiện chuyển ra khỏi khu vực đó"
+    },
+    {
+      "id": "bao_ve_rung",
+      "label": "HànhViPhápLý",
+      "name": "Bảo vệ rừng"
+    },
+    {
+      "id": "giao_khoan_dat_rung_dac_dung",
+      "label": "HànhViPhápLý",
+      "name": "Giao khoán đất rừng đặc dụng"
+    },
+    {
+      "id": "phan_khu_phuc_hoi_sinh_thai",
+      "label": "KháiNiệm",
+      "name": "Phân khu phục hồi sinh thái"
+    },
+    {
+      "id": "dieu_kien_sinh_song_on_dinh",
+      "label": "ĐiềuKiện",
+      "name": "Sinh sống ổn định tại khu vực đó"
+    },
+    {
+      "id": "bao_ve_va_phat_trien_rung",
+      "label": "HànhViPhápLý",
+      "name": "Bảo vệ và phát triển rừng"
+    },
+    {
+      "id": "uy_ban_nhan_dan_cap_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp có thẩm quyền"
+    },
+    {
+      "id": "quyet_dinh_giao_dat_vung_dem",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định giao đất vùng đệm"
+    },
+    {
+      "id": "quyet_dinh_cho_thue_dat_vung_dem",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định cho thuê đất vùng đệm"
+    },
+    {
+      "id": "vung_dem_cua_rung_dac_dung",
+      "label": "KháiNiệm",
+      "name": "Vùng đệm của rừng đặc dụng"
+    },
+    {
+      "id": "to_chuc_khac",
+      "label": "ChủThể",
+      "name": "Tổ chức (Khoản 4)"
+    },
+    {
+      "id": "su_dung_dat_muc_dich_san_xuat",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất vào mục đích sản xuất"
+    },
+    {
+      "id": "su_dung_dat_muc_dich_nghien_cuu_thi_nghiem_lam_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất vào mục đích nghiên cứu, thí nghiệm về lâm nghiệp"
+    },
+    {
+      "id": "ket_hop_quoc_phong_an_ninh",
+      "label": "HànhViPhápLý",
+      "name": "Kết hợp quốc phòng, an ninh"
+    },
+    {
+      "id": "quy_hoach_phat_trien_rung_cua_vung_dem",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch phát triển rừng của vùng đệm"
+    },
+    {
+      "id": "uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "quyet_dinh_cho_thue_dat_rung_dac_dung_cho_to_chuc_kinh_te",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định cho tổ chức kinh tế thuê đất rừng đặc dụng"
+    },
+    {
+      "id": "to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "khu_vuc_duoc_ket_hop_kinh_doanh_canh_quan_du_lich_sinh_thai_moi_truong_duoi_tan_rung",
+      "label": "KháiNiệm",
+      "name": "Khu vực được kết hợp với kinh doanh cảnh quan, du lịch sinh thái - môi trường dưới tán rừng"
+    },
+    {
+      "id": "kinh_doanh_canh_quan_du_lich_sinh_thai_moi_truong_duoi_tan_rung",
+      "label": "HànhViPhápLý",
+      "name": "Kinh doanh cảnh quan, du lịch sinh thái - môi trường dưới tán rừng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_137",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_rung_dac_dung"
+    },
+    {
+      "source_id": "nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "giao_dat_rung_dac_dung"
+    },
+    {
+      "source_id": "giao_dat_rung_dac_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "to_chuc_quan_ly_rung_dac_dung"
+    },
+    {
+      "source_id": "giao_dat_rung_dac_dung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_rung_dac_dung"
+    },
+    {
+      "source_id": "to_chuc_quan_ly_rung_dac_dung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quan_ly_bao_ve_dat_rung_dac_dung"
+    },
+    {
+      "source_id": "quan_ly_bao_ve_dat_rung_dac_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_rung_dac_dung"
+    },
+    {
+      "source_id": "quan_ly_bao_ve_dat_rung_dac_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "co_quan_nha_nuoc_co_tham_quyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "phe_duyet_quy_hoach_ke_hoach"
+    },
+    {
+      "source_id": "phe_duyet_quy_hoach_ke_hoach",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "to_chuc_quan_ly_rung_dac_dung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "ket_hop_su_dung_dat_muc_dich_khac"
+    },
+    {
+      "source_id": "ket_hop_su_dung_dat_muc_dich_khac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_rung_dac_dung"
+    },
+    {
+      "source_id": "ket_hop_su_dung_dat_muc_dich_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "phap_luat_ve_bao_ve_va_phat_trien_rung"
+    },
+    {
+      "source_id": "to_chuc_quan_ly_rung_dac_dung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "giao_khoan_ngan_han_dat_rung_dac_dung"
+    },
+    {
+      "source_id": "giao_khoan_ngan_han_dat_rung_dac_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh"
+    },
+    {
+      "source_id": "giao_khoan_ngan_han_dat_rung_dac_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ca_nhan"
+    },
+    {
+      "source_id": "giao_khoan_ngan_han_dat_rung_dac_dung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_rung_dac_dung"
+    },
+    {
+      "source_id": "dat_rung_dac_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "phan_khu_bao_ve_nghiem_ngat"
+    },
+    {
+      "source_id": "ho_gia_dinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_chua_chuyen_ra_khoi_khu_vuc"
+    },
+    {
+      "source_id": "ca_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_chua_chuyen_ra_khoi_khu_vuc"
+    },
+    {
+      "source_id": "giao_khoan_ngan_han_dat_rung_dac_dung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "bao_ve_rung"
+    },
+    {
+      "source_id": "to_chuc_quan_ly_rung_dac_dung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "giao_khoan_dat_rung_dac_dung"
+    },
+    {
+      "source_id": "giao_khoan_dat_rung_dac_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh"
+    },
+    {
+      "source_id": "giao_khoan_dat_rung_dac_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ca_nhan"
+    },
+    {
+      "source_id": "giao_khoan_dat_rung_dac_dung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_rung_dac_dung"
+    },
+    {
+      "source_id": "dat_rung_dac_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "phan_khu_phuc_hoi_sinh_thai"
+    },
+    {
+      "source_id": "ho_gia_dinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_sinh_song_on_dinh"
+    },
+    {
+      "source_id": "ca_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_sinh_song_on_dinh"
+    },
+    {
+      "source_id": "giao_khoan_dat_rung_dac_dung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "bao_ve_va_phat_trien_rung"
+    },
+    {
+      "source_id": "uy_ban_nhan_dan_cap_co_tham_quyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quyet_dinh_giao_dat_vung_dem"
+    },
+    {
+      "source_id": "uy_ban_nhan_dan_cap_co_tham_quyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quyet_dinh_cho_thue_dat_vung_dem"
+    },
+    {
+      "source_id": "quyet_dinh_giao_dat_vung_dem",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "to_chuc_khac"
+    },
+    {
+      "source_id": "quyet_dinh_giao_dat_vung_dem",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh"
+    },
+    {
+      "source_id": "quyet_dinh_giao_dat_vung_dem",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ca_nhan"
+    },
+    {
+      "source_id": "quyet_dinh_cho_thue_dat_vung_dem",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "to_chuc_khac"
+    },
+    {
+      "source_id": "quyet_dinh_cho_thue_dat_vung_dem",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh"
+    },
+    {
+      "source_id": "quyet_dinh_cho_thue_dat_vung_dem",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ca_nhan"
+    },
+    {
+      "source_id": "quyet_dinh_giao_dat_vung_dem",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "vung_dem_cua_rung_dac_dung"
+    },
+    {
+      "source_id": "quyet_dinh_cho_thue_dat_vung_dem",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "vung_dem_cua_rung_dac_dung"
+    },
+    {
+      "source_id": "to_chuc_khac",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "su_dung_dat_muc_dich_san_xuat"
+    },
+    {
+      "source_id": "ho_gia_dinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "su_dung_dat_muc_dich_san_xuat"
+    },
+    {
+      "source_id": "ca_nhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "su_dung_dat_muc_dich_san_xuat"
+    },
+    {
+      "source_id": "su_dung_dat_muc_dich_san_xuat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "vung_dem_cua_rung_dac_dung"
+    },
+    {
+      "source_id": "su_dung_dat_muc_dich_san_xuat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "quy_hoach_phat_trien_rung_cua_vung_dem"
+    },
+    {
+      "source_id": "to_chuc_khac",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "su_dung_dat_muc_dich_nghien_cuu_thi_nghiem_lam_nghiep"
+    },
+    {
+      "source_id": "ho_gia_dinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "su_dung_dat_muc_dich_nghien_cuu_thi_nghiem_lam_nghiep"
+    },
+    {
+      "source_id": "ca_nhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "su_dung_dat_muc_dich_nghien_cuu_thi_nghiem_lam_nghiep"
+    },
+    {
+      "source_id": "su_dung_dat_muc_dich_nghien_cuu_thi_nghiem_lam_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "vung_dem_cua_rung_dac_dung"
+    },
+    {
+      "source_id": "su_dung_dat_muc_dich_nghien_cuu_thi_nghiem_lam_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "quy_hoach_phat_trien_rung_cua_vung_dem"
+    },
+    {
+      "source_id": "to_chuc_khac",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "ket_hop_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "ho_gia_dinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "ket_hop_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "ca_nhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "ket_hop_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "ket_hop_quoc_phong_an_ninh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "vung_dem_cua_rung_dac_dung"
+    },
+    {
+      "source_id": "ket_hop_quoc_phong_an_ninh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "quy_hoach_phat_trien_rung_cua_vung_dem"
+    },
+    {
+      "source_id": "to_chuc_khac",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "ket_hop_su_dung_dat_muc_dich_khac"
+    },
+    {
+      "source_id": "ho_gia_dinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "ket_hop_su_dung_dat_muc_dich_khac"
+    },
+    {
+      "source_id": "ca_nhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "ket_hop_su_dung_dat_muc_dich_khac"
+    },
+    {
+      "source_id": "ket_hop_su_dung_dat_muc_dich_khac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "vung_dem_cua_rung_dac_dung"
+    },
+    {
+      "source_id": "ket_hop_su_dung_dat_muc_dich_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "phap_luat_ve_bao_ve_va_phat_trien_rung"
+    },
+    {
+      "source_id": "uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quyet_dinh_cho_thue_dat_rung_dac_dung_cho_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "quyet_dinh_cho_thue_dat_rung_dac_dung_cho_to_chuc_kinh_te",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "to_chuc_kinh_te"
+    },
+    {
+      "source_id": "quyet_dinh_cho_thue_dat_rung_dac_dung_cho_to_chuc_kinh_te",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_rung_dac_dung"
+    },
+    {
+      "source_id": "dat_rung_dac_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khu_vuc_duoc_ket_hop_kinh_doanh_canh_quan_du_lich_sinh_thai_moi_truong_duoi_tan_rung"
+    },
+    {
+      "source_id": "to_chuc_kinh_te",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "kinh_doanh_canh_quan_du_lich_sinh_thai_moi_truong_duoi_tan_rung"
+    },
+    {
+      "source_id": "kinh_doanh_canh_quan_du_lich_sinh_thai_moi_truong_duoi_tan_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_rung_dac_dung"
+    }
+  ]
+}

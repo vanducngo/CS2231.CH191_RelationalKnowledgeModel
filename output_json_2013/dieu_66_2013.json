@@ -1,0 +1,251 @@
+{
+  "entities": [
+    {
+      "id": "dieu_66",
+      "label": "ĐiềuLuật",
+      "name": "Điều 66"
+    },
+    {
+      "id": "khainiem_thamquyen_thuhoidat",
+      "label": "KháiNiệm",
+      "name": "Thẩm quyền thu hồi đất"
+    },
+    {
+      "id": "khainiem_datnongnghiep_datcongich",
+      "label": "KháiNiệm",
+      "name": "đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn"
+    },
+    {
+      "id": "khainiem_dat_o",
+      "label": "KháiNiệm",
+      "name": "đất ở"
+    },
+    {
+      "id": "chuthe_ubnd_captinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "tổ chức"
+    },
+    {
+      "id": "chuthe_coso_tongiao",
+      "label": "ChủThể",
+      "name": "cơ sở tôn giáo"
+    },
+    {
+      "id": "chuthe_nguoi_vn_dincu_nn",
+      "label": "ChủThể",
+      "name": "người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_tochuc_nn_chucnang_ngoaigiao",
+      "label": "ChủThể",
+      "name": "tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "id": "chuthe_doanhnghiep_von_dt_nn",
+      "label": "ChủThể",
+      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "chuthe_ubnd_caphuyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_hogia_dinh",
+      "label": "ChủThể",
+      "name": "hộ gia đình"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "chuthe_congdong_dancu",
+      "label": "ChủThể",
+      "name": "cộng đồng dân cư"
+    },
+    {
+      "id": "chuthe_nguoi_vn_dincu_nn_sohuu_nhao",
+      "label": "ChủThể",
+      "name": "người Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam"
+    },
+    {
+      "id": "hanhvipha_ply_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "hanhvipha_ply_quyetdinh_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "quyết định thu hồi đất"
+    },
+    {
+      "id": "hanhvipha_ply_uyquyen",
+      "label": "HànhViPhápLý",
+      "name": "ủy quyền"
+    },
+    {
+      "id": "hanhvipha_ply_sohuu_nhao",
+      "label": "HànhViPhápLý",
+      "name": "sở hữu nhà ở"
+    },
+    {
+      "id": "dieukien_k1a_doituong",
+      "label": "ĐiềuKiện",
+      "name": "đối với tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, tổ chức nước ngoài có chức năng ngoại giao, doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "dieukien_k1b_datnongnghiep",
+      "label": "ĐiềuKiện",
+      "name": "thu hồi đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn"
+    },
+    {
+      "id": "dieukien_k2a_doituong",
+      "label": "ĐiềuKiện",
+      "name": "thu hồi đất đối với hộ gia đình, cá nhân, cộng đồng dân cư"
+    },
+    {
+      "id": "dieukien_k2b_dato_nvndcnn",
+      "label": "ĐiềuKiện",
+      "name": "thu hồi đất ở của người Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam"
+    },
+    {
+      "id": "dieukien_k3_khuvuc_cungluc",
+      "label": "ĐiềuKiện",
+      "name": "trong khu vực thu hồi đất có cả đối tượng quy định tại khoản 1 và khoản 2 Điều này"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_66",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thamquyen_thuhoidat"
+    },
+    {
+      "source_id": "khainiem_thamquyen_thuhoidat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipha_ply_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_ubnd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipha_ply_quyetdinh_thuhoidat"
+    },
+    {
+      "source_id": "hanhvipha_ply_quyetdinh_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_k1a_doituong"
+    },
+    {
+      "source_id": "dieukien_k1a_doituong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "dieukien_k1a_doituong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coso_tongiao"
+    },
+    {
+      "source_id": "dieukien_k1a_doituong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_vn_dincu_nn"
+    },
+    {
+      "source_id": "dieukien_k1a_doituong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_nn_chucnang_ngoaigiao"
+    },
+    {
+      "source_id": "dieukien_k1a_doituong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_doanhnghiep_von_dt_nn"
+    },
+    {
+      "source_id": "hanhvipha_ply_quyetdinh_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_k1b_datnongnghiep"
+    },
+    {
+      "source_id": "dieukien_k1b_datnongnghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datnongnghiep_datcongich"
+    },
+    {
+      "source_id": "chuthe_ubnd_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipha_ply_quyetdinh_thuhoidat"
+    },
+    {
+      "source_id": "hanhvipha_ply_quyetdinh_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_k2a_doituong"
+    },
+    {
+      "source_id": "dieukien_k2a_doituong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogia_dinh"
+    },
+    {
+      "source_id": "dieukien_k2a_doituong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "dieukien_k2a_doituong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congdong_dancu"
+    },
+    {
+      "source_id": "hanhvipha_ply_quyetdinh_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_k2b_dato_nvndcnn"
+    },
+    {
+      "source_id": "dieukien_k2b_dato_nvndcnn",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_o"
+    },
+    {
+      "source_id": "dieukien_k2b_dato_nvndcnn",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_vn_dincu_nn_sohuu_nhao"
+    },
+    {
+      "source_id": "chuthe_nguoi_vn_dincu_nn_sohuu_nhao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipha_ply_sohuu_nhao"
+    },
+    {
+      "source_id": "dieukien_k3_khuvuc_cungluc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_ubnd_captinh"
+    },
+    {
+      "source_id": "chuthe_ubnd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipha_ply_quyetdinh_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_ubnd_captinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipha_ply_uyquyen"
+    },
+    {
+      "source_id": "hanhvipha_ply_uyquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ubnd_caphuyen"
+    },
+    {
+      "source_id": "hanhvipha_ply_uyquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipha_ply_quyetdinh_thuhoidat"
+    }
+  ]
+}

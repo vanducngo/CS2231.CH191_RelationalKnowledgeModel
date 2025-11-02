@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "id": "dieu_169",
+      "label": "ĐiềuLuật",
+      "properties": {
+        "ten": "Điều 169. Bảo đảm an toàn và chế độ bảo mật thông tin, dữ liệu đất đai",
+        "so_hieu": "169"
+      }
+    },
+    {
+      "id": "khainiem_hethongthongtinquocgiavedatdai",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Hệ thống thông tin quốc gia về đất đai"
+      }
+    },
+    {
+      "id": "dieukien_baodamantoan",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Bảo đảm an toàn theo quy định pháp luật"
+      }
+    },
+    {
+      "id": "khainiem_phapluatveantoanthongtinmang",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Pháp luật về an toàn thông tin mạng"
+      }
+    },
+    {
+      "id": "hanhviphaply_hoatdonglienquandendulieubimatnhanuoc",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Hoạt động liên quan đến dữ liệu thuộc phạm vi bí mật nhà nước (in, sao, vận chuyển, cung cấp,...)"
+      }
+    },
+    {
+      "id": "khainiem_phapluatvebaovebimatnhanuoc",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Pháp luật về bảo vệ bí mật nhà nước"
+      }
+    },
+    {
+      "id": "khainiem_danhmucbimatnhanuocvedatdai",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Danh mục bí mật nhà nước về đất đai"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_169",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_baodamantoan"
+    },
+    {
+      "source_id": "dieukien_baodamantoan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongthongtinquocgiavedatdai"
+    },
+    {
+      "source_id": "dieukien_baodamantoan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phapluatveantoanthongtinmang"
+    },
+    {
+      "source_id": "dieu_169",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_hoatdonglienquandendulieubimatnhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_hoatdonglienquandendulieubimatnhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phapluatvebaovebimatnhanuoc"
+    },
+    {
+      "source_id": "dieu_169",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_danhmucbimatnhanuocvedatdai"
+    },
+    {
+      "source_id": "khainiem_danhmucbimatnhanuocvedatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phapluatvebaovebimatnhanuoc"
+    }
+  ]
+}

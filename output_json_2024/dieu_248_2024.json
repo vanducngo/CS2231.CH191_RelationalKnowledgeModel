@@ -1,0 +1,331 @@
+{
+  "entities": [
+    {
+      "id": "dieu_248",
+      "label": "ĐiềuLuật",
+      "name": "Điều 248"
+    },
+    {
+      "id": "hanhviphaply_suadoi_bosung_luat_lamnghiep",
+      "label": "HànhViPhápLý",
+      "name": "Sửa đổi, bổ sung một số điều của Luật Lâm nghiệp"
+    },
+    {
+      "id": "khainiem_luat_lamnghiep_16_2017_qh14",
+      "label": "KháiNiệm",
+      "name": "Luật Lâm nghiệp số 16/2017/QH14"
+    },
+    {
+      "id": "khainiem_luat_16_2023_qh15",
+      "label": "KháiNiệm",
+      "name": "Luật số 16/2023/QH15"
+    },
+    {
+      "id": "hanhviphaply_suadoi_bosung_khoan1_khoan2_dieu14",
+      "label": "HànhViPhápLý",
+      "name": "Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 14"
+    },
+    {
+      "id": "khainiem_dieu_14_luat_lamnghiep",
+      "label": "KháiNiệm",
+      "name": "Điều 14 Luật Lâm nghiệp"
+    },
+    {
+      "id": "dieukien_phuhop_quyhoach_lamnghiep",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với quy hoạch lâm nghiệp cấp quốc gia hoặc quy hoạch tỉnh hoặc quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "khainiem_quyhoach_lamnghiep_capquocgia",
+      "label": "KháiNiệm",
+      "name": "quy hoạch lâm nghiệp cấp quốc gia"
+    },
+    {
+      "id": "khainiem_quyhoach_tinh",
+      "label": "KháiNiệm",
+      "name": "quy hoạch tỉnh"
+    },
+    {
+      "id": "khainiem_quyhoach_sudungdat_caphuyen",
+      "label": "KháiNiệm",
+      "name": "quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "hanhviphaply_khong_chuyenmucdich_rungtunhien",
+      "label": "HànhViPhápLý",
+      "name": "Không chuyển mục đích sử dụng rừng tự nhiên sang mục đích khác"
+    },
+    {
+      "id": "khainiem_rung_tu_nhien",
+      "label": "KháiNiệm",
+      "name": "rừng tự nhiên"
+    },
+    {
+      "id": "dieukien_tru_duan",
+      "label": "ĐiềuKiện",
+      "name": "trừ các dự án"
+    },
+    {
+      "id": "khainiem_duan_quantrong_quocgia",
+      "label": "KháiNiệm",
+      "name": "dự án quan trọng quốc gia"
+    },
+    {
+      "id": "khainiem_duan_phucvu_quocphong_anninh",
+      "label": "KháiNiệm",
+      "name": "dự án phục vụ quốc phòng, an ninh"
+    },
+    {
+      "id": "khainiem_duan_captiet_khac",
+      "label": "KháiNiệm",
+      "name": "dự án cấp thiết khác"
+    },
+    {
+      "id": "khainiem_tieu_chi_chinhphu_quydinh",
+      "label": "KháiNiệm",
+      "name": "tiêu chí do Chính phủ quy định"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_suadoi_bosung_khoan1_dieu15",
+      "label": "HànhViPhápLý",
+      "name": "Sửa đổi, bổ sung khoản 1 Điều 15"
+    },
+    {
+      "id": "khainiem_dieu_15_luat_lamnghiep",
+      "label": "KháiNiệm",
+      "name": "Điều 15 Luật Lâm nghiệp"
+    },
+    {
+      "id": "khainiem_kehoach_giaorung_chothuerung_chuyenmucdich_sudungrung",
+      "label": "KháiNiệm",
+      "name": "Kế hoạch giao rừng, cho thuê rừng, chuyển mục đích sử dụng rừng sang mục đích khác"
+    },
+    {
+      "id": "chuthe_uyban_nhandan_caphuyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_uyban_nhandan_captinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "khainiem_kehoach_sudungdat_hangnam_caphuyen",
+      "label": "KháiNiệm",
+      "name": "kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "chuthe_coquan_cothamquyen",
+      "label": "ChủThể",
+      "name": "cơ quan có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_bosung_diem_d_khoan2_dieu16",
+      "label": "HànhViPhápLý",
+      "name": "Bổ sung điểm đ vào sau điểm d khoản 2 Điều 16"
+    },
+    {
+      "id": "khainiem_dieu_16_luat_lamnghiep",
+      "label": "KháiNiệm",
+      "name": "Điều 16 Luật Lâm nghiệp"
+    },
+    {
+      "id": "chuthe_ban_quanly_rungdacdung",
+      "label": "ChủThể",
+      "name": "Ban quản lý rừng đặc dụng"
+    },
+    {
+      "id": "khainiem_rung_phongho_xenkeden_rungdacdung",
+      "label": "KháiNiệm",
+      "name": "rừng phòng hộ xen kẽ trong diện tích rừng đặc dụng"
+    },
+    {
+      "id": "hanhviphaply_suadoi_bosung_khoan1_dieu19",
+      "label": "HànhViPhápLý",
+      "name": "Sửa đổi, bổ sung khoản 1 Điều 19"
+    },
+    {
+      "id": "khainiem_dieu_19_luat_lamnghiep",
+      "label": "KháiNiệm",
+      "name": "Điều 19 Luật Lâm nghiệp"
+    },
+    {
+      "id": "hanhviphaply_suadoi_bosung_dieu20",
+      "label": "HànhViPhápLý",
+      "name": "Sửa đổi, bổ sung Điều 20"
+    },
+    {
+      "id": "khainiem_dieu_20_luat_lamnghiep",
+      "label": "KháiNiệm",
+      "name": "Điều 20 Luật Lâm nghiệp"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_248",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_suadoi_bosung_luat_lamnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_luat_lamnghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_luat_lamnghiep_16_2017_qh14"
+    },
+    {
+      "source_id": "dieu_248",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_suadoi_bosung_khoan1_khoan2_dieu14"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_khoan1_khoan2_dieu14",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dieu_14_luat_lamnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_khoan1_khoan2_dieu14",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhop_quyhoach_lamnghiep"
+    },
+    {
+      "source_id": "dieukien_phuhop_quyhoach_lamnghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyhoach_lamnghiep_capquocgia"
+    },
+    {
+      "source_id": "dieukien_phuhop_quyhoach_lamnghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyhoach_tinh"
+    },
+    {
+      "source_id": "dieukien_phuhop_quyhoach_lamnghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyhoach_sudungdat_caphuyen"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_khoan1_khoan2_dieu14",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khong_chuyenmucdich_rungtunhien"
+    },
+    {
+      "source_id": "hanhviphaply_khong_chuyenmucdich_rungtunhien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_rung_tu_nhien"
+    },
+    {
+      "source_id": "hanhviphaply_khong_chuyenmucdich_rungtunhien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tru_duan"
+    },
+    {
+      "source_id": "dieukien_tru_duan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_duan_quantrong_quocgia"
+    },
+    {
+      "source_id": "dieukien_tru_duan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_duan_phucvu_quocphong_anninh"
+    },
+    {
+      "source_id": "dieukien_tru_duan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_duan_captiet_khac"
+    },
+    {
+      "source_id": "khainiem_duan_captiet_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_tieu_chi_chinhphu_quydinh"
+    },
+    {
+      "source_id": "khainiem_tieu_chi_chinhphu_quydinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_chinh_phu"
+    },
+    {
+      "source_id": "dieu_248",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_suadoi_bosung_khoan1_dieu15"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_khoan1_dieu15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dieu_15_luat_lamnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_khoan1_dieu15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_kehoach_giaorung_chothuerung_chuyenmucdich_sudungrung"
+    },
+    {
+      "source_id": "khainiem_kehoach_giaorung_chothuerung_chuyenmucdich_sudungrung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uyban_nhandan_caphuyen"
+    },
+    {
+      "source_id": "khainiem_kehoach_giaorung_chothuerung_chuyenmucdich_sudungrung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_uyban_nhandan_captinh"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_khoan1_dieu15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_kehoach_sudungdat_hangnam_caphuyen"
+    },
+    {
+      "source_id": "khainiem_kehoach_sudungdat_hangnam_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquan_cothamquyen"
+    },
+    {
+      "source_id": "dieu_248",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_bosung_diem_d_khoan2_dieu16"
+    },
+    {
+      "source_id": "hanhviphaply_bosung_diem_d_khoan2_dieu16",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dieu_16_luat_lamnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_bosung_diem_d_khoan2_dieu16",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ban_quanly_rungdacdung"
+    },
+    {
+      "source_id": "chuthe_ban_quanly_rungdacdung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_rung_phongho_xenkeden_rungdacdung"
+    },
+    {
+      "source_id": "dieu_248",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_suadoi_bosung_khoan1_dieu19"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_khoan1_dieu19",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dieu_19_luat_lamnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_khoan1_dieu19",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhop_quyhoach_lamnghiep"
+    },
+    {
+      "source_id": "dieu_248",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_suadoi_bosung_dieu20"
+    },
+    {
+      "source_id": "hanhviphaply_suadoi_bosung_dieu20",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dieu_20_luat_lamnghiep"
+    }
+  ]
+}

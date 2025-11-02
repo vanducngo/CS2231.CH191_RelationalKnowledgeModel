@@ -1,0 +1,431 @@
+{
+  "entities": [
+    {
+      "id": "dieu_72",
+      "label": "ĐiềuLuật",
+      "content": "Điều 72. Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "thamquyen_quyetdinhpheduyet_quyhoach_kehoach_sudungdat",
+      "label": "KháiNiệm",
+      "content": "Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "quyhoach_sudungdat_quocgia",
+      "label": "KháiNiệm",
+      "content": "quy hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "quyhoach_sudungdat_quocphong",
+      "label": "KháiNiệm",
+      "content": "quy hoạch sử dụng đất quốc phòng"
+    },
+    {
+      "id": "quyhoach_sudungdat_anninh",
+      "label": "KháiNiệm",
+      "content": "quy hoạch sử dụng đất an ninh"
+    },
+    {
+      "id": "Luat_Quyhoach",
+      "label": "KháiNiệm",
+      "content": "Luật Quy hoạch"
+    },
+    {
+      "id": "thuc_hien_theo_quydinh_Luat_Quyhoach",
+      "label": "ĐiềuKiện",
+      "content": "thực hiện theo quy định của Luật Quy hoạch"
+    },
+    {
+      "id": "Chinh_phu",
+      "label": "ChủThể",
+      "content": "Chính phủ"
+    },
+    {
+      "id": "pheduyet_kehoach_sudungdat_quocgia",
+      "label": "HànhViPhápLý",
+      "content": "phê duyệt kế hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "kehoach_sudungdat_quocgia",
+      "label": "KháiNiệm",
+      "content": "kế hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "Thutuong_Chinhphu",
+      "label": "ChủThể",
+      "content": "Thủ tướng Chính phủ"
+    },
+    {
+      "id": "pheduyet_quyhoach_sudungdat_captinh",
+      "label": "HànhViPhápLý",
+      "content": "phê duyệt quy hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "quyhoach_sudungdat_captinh",
+      "label": "KháiNiệm",
+      "content": "quy hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "pheduyet_kehoach_sudungdat_captinh",
+      "label": "HànhViPhápLý",
+      "content": "phê duyệt kế hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "kehoach_sudungdat_captinh",
+      "label": "KháiNiệm",
+      "content": "kế hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "thanhpho_tructhuoc_Trunguong",
+      "label": "KháiNiệm",
+      "content": "thành phố trực thuộc Trung ương"
+    },
+    {
+      "id": "khong_phai_lap_quyhoach_sudungdat_captinh_doivoi_thanhpho_tructhuoc_Trunguong",
+      "label": "ĐiềuKiện",
+      "content": "không phải lập quy hoạch sử dụng đất cấp tỉnh đối với thành phố trực thuộc Trung ương"
+    },
+    {
+      "id": "Uyban_nhandan_captinh",
+      "label": "ChủThể",
+      "content": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "pheduyet_quyhoach_sudungdat_caphuyen",
+      "label": "HànhViPhápLý",
+      "content": "phê duyệt quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "quyhoach_sudungdat_caphuyen",
+      "label": "KháiNiệm",
+      "content": "quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "pheduyet_kehoach_sudungdat_hangnam_caphuyen",
+      "label": "HànhViPhápLý",
+      "content": "phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "kehoach_sudungdat_hangnam_caphuyen",
+      "label": "KháiNiệm",
+      "content": "kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "truoc_khi_pheduyet_kehoach_sudungdat_hangnam_caphuyen_dieu_kien",
+      "label": "ĐiềuKiện",
+      "content": "Trước khi phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "Hoidong_nhandan_captinh",
+      "label": "ChủThể",
+      "content": "Hội đồng nhân dân cấp tỉnh"
+    },
+    {
+      "id": "trinh_thongqua_danh_muc_congtrinh_duan",
+      "label": "HànhViPhápLý",
+      "content": "trình Hội đồng nhân dân cấp tỉnh thông qua danh mục công trình, dự án"
+    },
+    {
+      "id": "danh_muc_congtrinh_duan",
+      "label": "KháiNiệm",
+      "content": "danh mục công trình, dự án"
+    },
+    {
+      "id": "duan_phai_thuhoihdat",
+      "label": "KháiNiệm",
+      "content": "dự án phải thu hồi đất"
+    },
+    {
+      "id": "thuhoi_dat",
+      "label": "HànhViPhápLý",
+      "content": "thu hồi đất"
+    },
+    {
+      "id": "duan_thuhoihdat_dedaugia_quyensudungdat",
+      "label": "KháiNiệm",
+      "content": "dự án thu hồi đất để đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "daugia_quyensudungdat",
+      "label": "HànhViPhápLý",
+      "content": "đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "duan_thuhoihdat_dethau_luachon_nhadautu_cosudungdat",
+      "label": "KháiNiệm",
+      "content": "dự án thu hồi đất để đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất"
+    },
+    {
+      "id": "dauthau_luachon_nhadautu",
+      "label": "HànhViPhápLý",
+      "content": "đấu thầu lựa chọn nhà đầu tư"
+    },
+    {
+      "id": "duan_phai_chuyenmucdich_sudungdat_codientich_dattronglua_datrung",
+      "label": "KháiNiệm",
+      "content": "dự án phải chuyển mục đích sử dụng đất mà có diện tích đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất theo quy hoạch"
+    },
+    {
+      "id": "chuyen_mucdich_sudungdat",
+      "label": "HànhViPhápLý",
+      "content": "chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "dat_tronglua",
+      "label": "KháiNiệm",
+      "content": "đất trồng lúa"
+    },
+    {
+      "id": "dat_rungdacdung",
+      "label": "KháiNiệm",
+      "content": "đất rừng đặc dụng"
+    },
+    {
+      "id": "dat_rungphongho",
+      "label": "KháiNiệm",
+      "content": "đất rừng phòng hộ"
+    },
+    {
+      "id": "dat_rungsanxuat",
+      "label": "KháiNiệm",
+      "content": "đất rừng sản xuất"
+    },
+    {
+      "id": "quyhoach_chung",
+      "label": "KháiNiệm",
+      "content": "quy hoạch"
+    },
+    {
+      "id": "tru_cactruonghop_quydinh_khoan_4_dieu_67",
+      "label": "ĐiềuKiện",
+      "content": "trừ các trường hợp quy định tại khoản 4 Điều 67 của Luật này"
+    },
+    {
+      "id": "khoan_4_dieu_67_Luat_Datdai_2024",
+      "label": "KháiNiệm",
+      "content": "khoản 4 Điều 67 của Luật này"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_72",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thamquyen_quyetdinhpheduyet_quyhoach_kehoach_sudungdat"
+    },
+    {
+      "source_id": "dieu_72",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quyhoach_sudungdat_quocgia"
+    },
+    {
+      "source_id": "dieu_72",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quyhoach_sudungdat_quocphong"
+    },
+    {
+      "source_id": "dieu_72",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quyhoach_sudungdat_anninh"
+    },
+    {
+      "source_id": "quyhoach_sudungdat_quocgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thuc_hien_theo_quydinh_Luat_Quyhoach"
+    },
+    {
+      "source_id": "quyhoach_sudungdat_quocphong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thuc_hien_theo_quydinh_Luat_Quyhoach"
+    },
+    {
+      "source_id": "quyhoach_sudungdat_anninh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thuc_hien_theo_quydinh_Luat_Quyhoach"
+    },
+    {
+      "source_id": "thuc_hien_theo_quydinh_Luat_Quyhoach",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "Luat_Quyhoach"
+    },
+    {
+      "source_id": "dieu_72",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "Chinh_phu"
+    },
+    {
+      "source_id": "Chinh_phu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "pheduyet_kehoach_sudungdat_quocgia"
+    },
+    {
+      "source_id": "pheduyet_kehoach_sudungdat_quocgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "kehoach_sudungdat_quocgia"
+    },
+    {
+      "source_id": "dieu_72",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "Thutuong_Chinhphu"
+    },
+    {
+      "source_id": "Thutuong_Chinhphu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "pheduyet_quyhoach_sudungdat_captinh"
+    },
+    {
+      "source_id": "pheduyet_quyhoach_sudungdat_captinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyhoach_sudungdat_captinh"
+    },
+    {
+      "source_id": "Thutuong_Chinhphu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "pheduyet_kehoach_sudungdat_captinh"
+    },
+    {
+      "source_id": "pheduyet_kehoach_sudungdat_captinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "kehoach_sudungdat_captinh"
+    },
+    {
+      "source_id": "kehoach_sudungdat_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khong_phai_lap_quyhoach_sudungdat_captinh_doivoi_thanhpho_tructhuoc_Trunguong"
+    },
+    {
+      "source_id": "khong_phai_lap_quyhoach_sudungdat_captinh_doivoi_thanhpho_tructhuoc_Trunguong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "thanhpho_tructhuoc_Trunguong"
+    },
+    {
+      "source_id": "dieu_72",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "Uyban_nhandan_captinh"
+    },
+    {
+      "source_id": "Uyban_nhandan_captinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "pheduyet_quyhoach_sudungdat_caphuyen"
+    },
+    {
+      "source_id": "pheduyet_quyhoach_sudungdat_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyhoach_sudungdat_caphuyen"
+    },
+    {
+      "source_id": "Uyban_nhandan_captinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "pheduyet_kehoach_sudungdat_hangnam_caphuyen"
+    },
+    {
+      "source_id": "pheduyet_kehoach_sudungdat_hangnam_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "kehoach_sudungdat_hangnam_caphuyen"
+    },
+    {
+      "source_id": "dieu_72",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "trinh_thongqua_danh_muc_congtrinh_duan"
+    },
+    {
+      "source_id": "trinh_thongqua_danh_muc_congtrinh_duan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "Uyban_nhandan_captinh"
+    },
+    {
+      "source_id": "trinh_thongqua_danh_muc_congtrinh_duan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "Hoidong_nhandan_captinh"
+    },
+    {
+      "source_id": "truoc_khi_pheduyet_kehoach_sudungdat_hangnam_caphuyen_dieu_kien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "trinh_thongqua_danh_muc_congtrinh_duan"
+    },
+    {
+      "source_id": "truoc_khi_pheduyet_kehoach_sudungdat_hangnam_caphuyen_dieu_kien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "pheduyet_kehoach_sudungdat_hangnam_caphuyen"
+    },
+    {
+      "source_id": "trinh_thongqua_danh_muc_congtrinh_duan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "danh_muc_congtrinh_duan"
+    },
+    {
+      "source_id": "danh_muc_congtrinh_duan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "duan_phai_thuhoihdat"
+    },
+    {
+      "source_id": "duan_phai_thuhoihdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "thuhoi_dat"
+    },
+    {
+      "source_id": "duan_phai_thuhoihdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "duan_thuhoihdat_dedaugia_quyensudungdat"
+    },
+    {
+      "source_id": "duan_thuhoihdat_dedaugia_quyensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "daugia_quyensudungdat"
+    },
+    {
+      "source_id": "duan_phai_thuhoihdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "duan_thuhoihdat_dethau_luachon_nhadautu_cosudungdat"
+    },
+    {
+      "source_id": "duan_thuhoihdat_dethau_luachon_nhadautu_cosudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dauthau_luachon_nhadautu"
+    },
+    {
+      "source_id": "danh_muc_congtrinh_duan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "duan_phai_chuyenmucdich_sudungdat_codientich_dattronglua_datrung"
+    },
+    {
+      "source_id": "duan_phai_chuyenmucdich_sudungdat_codientich_dattronglua_datrung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuyen_mucdich_sudungdat"
+    },
+    {
+      "source_id": "duan_phai_chuyenmucdich_sudungdat_codientich_dattronglua_datrung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_tronglua"
+    },
+    {
+      "source_id": "duan_phai_chuyenmucdich_sudungdat_codientich_dattronglua_datrung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_rungdacdung"
+    },
+    {
+      "source_id": "duan_phai_chuyenmucdich_sudungdat_codientich_dattronglua_datrung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_rungphongho"
+    },
+    {
+      "source_id": "duan_phai_chuyenmucdich_sudungdat_codientich_dattronglua_datrung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_rungsanxuat"
+    },
+    {
+      "source_id": "duan_phai_chuyenmucdich_sudungdat_codientich_dattronglua_datrung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "quyhoach_chung"
+    },
+    {
+      "source_id": "duan_phai_chuyenmucdich_sudungdat_codientich_dattronglua_datrung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "tru_cactruonghop_quydinh_khoan_4_dieu_67"
+    },
+    {
+      "source_id": "tru_cactruonghop_quydinh_khoan_4_dieu_67",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khoan_4_dieu_67_Luat_Datdai_2024"
+    }
+  ]
+}

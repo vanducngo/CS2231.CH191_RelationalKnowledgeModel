@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_18",
+      "label": "ĐiềuLuật",
+      "name": "Điều 18"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_quyetdinhgiadat",
+      "label": "HànhViPhápLý",
+      "name": "quyết định giá đất"
+    },
+    {
+      "id": "hanhviphaply_quydinhnguyentacphuongphapdinhgiadat",
+      "label": "HànhViPhápLý",
+      "name": "quy định nguyên tắc, phương pháp định giá đất"
+    },
+    {
+      "id": "khainiem_nguyentacphuongphapdinhgiadat",
+      "label": "KháiNiệm",
+      "name": "nguyên tắc, phương pháp định giá đất"
+    },
+    {
+      "id": "hanhviphaply_banhanhkhunggiadat",
+      "label": "HànhViPhápLý",
+      "name": "ban hành khung giá đất"
+    },
+    {
+      "id": "khainiem_khunggiadat",
+      "label": "KháiNiệm",
+      "name": "khung giá đất"
+    },
+    {
+      "id": "hanhviphaply_banhanhbanggiadat",
+      "label": "HànhViPhápLý",
+      "name": "ban hành bảng giá đất"
+    },
+    {
+      "id": "khainiem_banggiadat",
+      "label": "KháiNiệm",
+      "name": "bảng giá đất"
+    },
+    {
+      "id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "label": "HànhViPhápLý",
+      "name": "quyết định giá đất cụ thể"
+    },
+    {
+      "id": "khainiem_giadatcuthe",
+      "label": "KháiNiệm",
+      "name": "giá đất cụ thể"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_18",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "dieu_18",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyetdinhgiadat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyetdinhgiadat"
+    },
+    {
+      "source_id": "dieu_18",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quydinhnguyentacphuongphapdinhgiadat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quydinhnguyentacphuongphapdinhgiadat"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhnguyentacphuongphapdinhgiadat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_nguyentacphuongphapdinhgiadat"
+    },
+    {
+      "source_id": "dieu_18",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_banhanhkhunggiadat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_banhanhkhunggiadat"
+    },
+    {
+      "source_id": "hanhviphaply_banhanhkhunggiadat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_khunggiadat"
+    },
+    {
+      "source_id": "dieu_18",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_banhanhbanggiadat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_banhanhbanggiadat"
+    },
+    {
+      "source_id": "hanhviphaply_banhanhbanggiadat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_banggiadat"
+    },
+    {
+      "source_id": "dieu_18",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyetdinhgiadatcuthe"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyetdinhgiadatcuthe"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giadatcuthe"
+    }
+  ]
+}

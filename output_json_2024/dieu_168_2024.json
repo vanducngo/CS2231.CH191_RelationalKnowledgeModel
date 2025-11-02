@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "id": "dieu_168",
+      "label": "ĐiềuLuật",
+      "name": "Điều 168: Bảo đảm kinh phí xây dựng, quản lý, vận hành, bảo trì, nâng cấp hệ thống thông tin quốc gia về đất đai"
+    },
+    {
+      "id": "khainiem_he_thong_thong_tin_quoc_gia_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Hệ thống thông tin quốc gia về đất đai"
+    },
+    {
+      "id": "khainiem_kinh_phi_bao_dam",
+      "label": "KháiNiệm",
+      "name": "Kinh phí xây dựng, quản lý, vận hành, bảo trì, nâng cấp hệ thống thông tin quốc gia về đất đai"
+    },
+    {
+      "id": "khainiem_ngan_sach_nha_nuoc",
+      "label": "KháiNiệm",
+      "name": "Ngân sách nhà nước"
+    },
+    {
+      "id": "khainiem_cac_nguon_khac",
+      "label": "KháiNiệm",
+      "name": "Các nguồn khác theo quy định của pháp luật"
+    },
+    {
+      "id": "khainiem_ngan_sach_trung_uong",
+      "label": "KháiNiệm",
+      "name": "Ngân sách trung ương"
+    },
+    {
+      "id": "khainiem_ngan_sach_dia_phuong",
+      "label": "KháiNiệm",
+      "name": "Ngân sách địa phương"
+    },
+    {
+      "id": "hanhviphaply_hoat_dong_do_trung_uong_thuc_hien",
+      "label": "HànhViPhápLý",
+      "name": "Các hoạt động xây dựng, quản lý, vận hành, bảo trì, nâng cấp hệ thống và cơ sở dữ liệu đất đai do trung ương thực hiện"
+    },
+    {
+      "id": "hanhviphaply_hoat_dong_do_dia_phuong_thuc_hien",
+      "label": "HànhViPhápLý",
+      "name": "Các hoạt động quản lý, vận hành, bảo trì, nâng cấp hệ thống và cơ sở dữ liệu đất đai do địa phương thực hiện"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_tochuc_canhan_du_dieu_kien",
+      "label": "ChủThể",
+      "name": "Tổ chức, cá nhân có đủ điều kiện năng lực"
+    },
+    {
+      "id": "hanhviphaply_tham_gia_dau_tu_cung_cap_dich_vu",
+      "label": "HànhViPhápLý",
+      "name": "Tham gia đầu tư xây dựng, cung cấp dịch vụ liên quan đến hệ thống thông tin và cơ sở dữ liệu quốc gia về đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_168",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_kinh_phi_bao_dam"
+    },
+    {
+      "source_id": "khainiem_kinh_phi_bao_dam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_ngan_sach_nha_nuoc"
+    },
+    {
+      "source_id": "khainiem_kinh_phi_bao_dam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_cac_nguon_khac"
+    },
+    {
+      "source_id": "khainiem_ngan_sach_trung_uong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_hoat_dong_do_trung_uong_thuc_hien"
+    },
+    {
+      "source_id": "khainiem_ngan_sach_dia_phuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_hoat_dong_do_dia_phuong_thuc_hien"
+    },
+    {
+      "source_id": "dieu_168",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tham_gia_dau_tu_cung_cap_dich_vu"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tham_gia_dau_tu_cung_cap_dich_vu"
+    },
+    {
+      "source_id": "hanhviphaply_tham_gia_dau_tu_cung_cap_dich_vu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_canhan_du_dieu_kien"
+    },
+    {
+      "source_id": "khainiem_kinh_phi_bao_dam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_he_thong_thong_tin_quoc_gia_ve_dat_dai"
+    }
+  ]
+}

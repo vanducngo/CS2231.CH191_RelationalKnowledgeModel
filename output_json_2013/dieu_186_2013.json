@@ -1,0 +1,621 @@
+{
+  "entities": [
+    {
+      "id": "dieu_186",
+      "label": "ĐiềuLuật",
+      "name": "Điều 186"
+    },
+    {
+      "id": "khaikiem_quyen_nghia_vu_su_dung_dat_o",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ về sử dụng đất ở"
+    },
+    {
+      "id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_so_huu_nha_o_vn",
+      "label": "ChủThể",
+      "name": "Người Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam"
+    },
+    {
+      "id": "chuthe_nguoi_nuoc_ngoai_hoac_viet_kieu_khong_duoc_mua_nha_o_gan_dat_vn",
+      "label": "ChủThể",
+      "name": "Người nước ngoài hoặc người Việt Nam định cư ở nước ngoài không thuộc đối tượng được mua nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam"
+    },
+    {
+      "id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_du_dieu_kien_so_huu_nha_o",
+      "label": "ChủThể",
+      "name": "Người Việt Nam định cư ở nước ngoài thuộc các đối tượng có quyền sở hữu nhà ở theo quy định của pháp luật về nhà ở"
+    },
+    {
+      "id": "dieukien_thuoc_doi_tuong_co_quyen_so_huu_nha_o_theo_phap_luat_nha_o",
+      "label": "ĐiềuKiện",
+      "name": "thuộc các đối tượng có quyền sở hữu nhà ở theo quy định của pháp luật về nhà ở"
+    },
+    {
+      "id": "hanhviphaply_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat_o_vn",
+      "label": "HànhViPhápLý",
+      "name": "Sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam"
+    },
+    {
+      "id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_da_so_huu_nha_gan_dat_vn",
+      "label": "ChủThể",
+      "name": "Người Việt Nam định cư ở nước ngoài được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam"
+    },
+    {
+      "id": "khaikiem_quyen_va_nghia_vu",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ"
+    },
+    {
+      "id": "khaikiem_quyen_va_nghia_vu_chung",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ chung"
+    },
+    {
+      "id": "dieu_166",
+      "label": "ĐiềuLuật",
+      "name": "Điều 166"
+    },
+    {
+      "id": "dieu_170",
+      "label": "ĐiềuLuật",
+      "name": "Điều 170"
+    },
+    {
+      "id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển quyền sử dụng đất ở"
+    },
+    {
+      "id": "hanhviphaply_ban",
+      "label": "HànhViPhápLý",
+      "name": "Bán nhà ở"
+    },
+    {
+      "id": "hanhviphaply_tang_cho_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "Tặng cho nhà ở"
+    },
+    {
+      "id": "hanhviphaply_thua_ke_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "Để thừa kế nhà ở"
+    },
+    {
+      "id": "hanhviphaply_doi_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "Đổi nhà ở"
+    },
+    {
+      "id": "chuthe_to_chuc_ca_nhan_trong_nuoc",
+      "label": "ChủThể",
+      "name": "Tổ chức, cá nhân trong nước"
+    },
+    {
+      "id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai_duoc_so_huu_nha_de_o",
+      "label": "ChủThể",
+      "name": "người Việt Nam định cư ở nước ngoài thuộc diện được sở hữu nhà ở tại Việt Nam để ở"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_cong_dong_dan_cu",
+      "label": "ChủThể",
+      "name": "Cộng đồng dân cư"
+    },
+    {
+      "id": "hanhviphaply_tang_cho_nha_tinh_nghia",
+      "label": "HànhViPhápLý",
+      "name": "Tặng cho nhà tình nghĩa"
+    },
+    {
+      "id": "dieu_174_khoan_2c",
+      "label": "ĐiềuLuật",
+      "name": "điểm c khoản 2 Điều 174"
+    },
+    {
+      "id": "dieukien_tang_cho_thua_ke_cho_doi_tuong_khong_duoc_so_huu_nha_o",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp tặng cho, để thừa kế cho đối tượng không thuộc diện được sở hữu nhà ở tại Việt Nam"
+    },
+    {
+      "id": "khaikiem_gia_tri_nha_o_gan_dat",
+      "label": "KháiNiệm",
+      "name": "Giá trị của nhà ở gắn liền với quyền sử dụng đất ở"
+    },
+    {
+      "id": "hanhviphaply_the_chap_nha_o_gan_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thế chấp nhà ở gắn liền với quyền sử dụng đất ở"
+    },
+    {
+      "id": "chuthe_to_chuc_tin_dung_tai_viet_nam",
+      "label": "ChủThể",
+      "name": "Tổ chức tín dụng được phép hoạt động tại Việt Nam"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê nhà ở"
+    },
+    {
+      "id": "hanhviphaply_uy_quyen_quan_ly_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "Ủy quyền quản lý nhà ở"
+    },
+    {
+      "id": "dieukien_thoi_gian_khong_su_dung_nha_o",
+      "label": "ĐiềuKiện",
+      "name": "trong thời gian không sử dụng nhà ở"
+    },
+    {
+      "id": "dieukien_tat_ca_nguoi_thua_ke_khong_duoc_mua_nha_gan_dat_vn",
+      "label": "ĐiềuKiện",
+      "name": "Tất cả người nhận thừa kế quyền sử dụng đất, quyền sở hữu nhà ở, tài sản khác gắn liền với đất đều là người nước ngoài hoặc người Việt Nam định cư ở nước ngoài không thuộc đối tượng được mua nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam"
+    },
+    {
+      "id": "chuthe_nguoi_nhan_thua_ke",
+      "label": "ChủThể",
+      "name": "Người nhận thừa kế"
+    },
+    {
+      "id": "hanhviphaply_cap_giay_chung_nhan_dat_nha_o_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_thua_ke",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển nhượng quyền sử dụng đất thừa kế"
+    },
+    {
+      "id": "hanhviphaply_tang_cho_quyen_su_dung_dat_thua_ke",
+      "label": "HànhViPhápLý",
+      "name": "Tặng cho quyền sử dụng đất thừa kế"
+    },
+    {
+      "id": "dieu_186_khoan_1",
+      "label": "ĐiềuLuật",
+      "name": "khoản 1 Điều này (Điều 186)"
+    },
+    {
+      "id": "khaikiem_ben_chuyen_nhuong_hop_dong_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Bên chuyển nhượng trong hợp đồng chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoi_duoc_tang_cho",
+      "label": "ChủThể",
+      "name": "Người được tặng cho"
+    },
+    {
+      "id": "dieukien_doi_tuong_theo_dieu_179_khoan_1e",
+      "label": "ĐiềuKiện",
+      "name": "là đối tượng được quy định tại điểm e khoản 1 Điều 179 của Luật này"
+    },
+    {
+      "id": "dieukien_phu_hop_voi_phap_luat_nha_o",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với quy định của pháp luật về nhà ở"
+    },
+    {
+      "id": "dieu_179_khoan_1e",
+      "label": "ĐiềuLuật",
+      "name": "điểm e khoản 1 Điều 179"
+    },
+    {
+      "id": "khaikiem_ben_tang_cho_hop_dong_cam_ket",
+      "label": "KháiNiệm",
+      "name": "Bên tặng cho trong hợp đồng hoặc văn bản cam kết tặng cho"
+    },
+    {
+      "id": "dieukien_chua_chuyen_nhuong_hoac_tang_cho_quyen_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "chưa chuyển nhượng hoặc chưa tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoi_dai_dien_uy_quyen",
+      "label": "ChủThể",
+      "name": "Người đại diện có văn bản ủy quyền theo quy định"
+    },
+    {
+      "id": "hanhviphaply_nop_ho_so_thua_ke",
+      "label": "HànhViPhápLý",
+      "name": "Nộp hồ sơ về việc nhận thừa kế"
+    },
+    {
+      "id": "khaikiem_co_quan_dang_ky_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Cơ quan đăng ký đất đai"
+    },
+    {
+      "id": "hanhviphaply_cap_nhat_so_dia_chinh",
+      "label": "HànhViPhápLý",
+      "name": "Cập nhật vào Sổ địa chính"
+    },
+    {
+      "id": "dieukien_co_nguoi_viet_nam_dinh_cu_nuoc_ngoai_khong_duoc_mua_nha_gan_dat",
+      "label": "ĐiềuKiện",
+      "name": "trong số những người nhận thừa kế có người Việt Nam định cư ở nước ngoài không thuộc đối tượng được mua nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam"
+    },
+    {
+      "id": "dieukien_nguoi_khac_thuoc_dien_duoc_nhan_thua_ke_dat",
+      "label": "ĐiềuKiện",
+      "name": "những người khác thuộc diện được nhận thừa kế quyền sử dụng đất theo quy định của pháp luật về đất đai"
+    },
+    {
+      "id": "dieukien_chua_phan_chia_thua_ke_quy_en_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "chưa phân chia thừa kế quyền sử dụng đất cho từng người nhận thừa kế"
+    },
+    {
+      "id": "dieukien_sau_khi_giai_quyet_phan_chia_thua_ke",
+      "label": "ĐiềuKiện",
+      "name": "Sau khi giải quyết xong việc phân chia thừa kế"
+    },
+    {
+      "id": "chuthe_nguoi_thuoc_doi_tuong_duoc_cap_giay_chung_nhan",
+      "label": "ChủThể",
+      "name": "người thuộc đối tượng được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "dieu_186_khoan_3",
+      "label": "ĐiềuLuật",
+      "name": "khoản 3 Điều này (Điều 186)"
+    },
+    {
+      "id": "dieukien_cac_truong_hop_dieu_186_khoan_3c_khoan_4",
+      "label": "ĐiềuKiện",
+      "name": "trong các trường hợp quy định tại điểm c khoản 3 và khoản 4 Điều này"
+    },
+    {
+      "id": "dieu_186_khoan_3c",
+      "label": "ĐiềuLuật",
+      "name": "điểm c khoản 3 Điều này (Điều 186)"
+    },
+    {
+      "id": "dieu_186_khoan_4",
+      "label": "ĐiềuLuật",
+      "name": "khoản 4 Điều này (Điều 186)"
+    },
+    {
+      "id": "hanhviphaply_uy_quyen_trong_nom_hoac_tam_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Ủy quyền bằng văn bản cho người trông nom hoặc tạm sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoi_trong_nom_tam_su_dung_dat",
+      "label": "ChủThể",
+      "name": "người trông nom hoặc tạm sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_nghia_vu_theo_phap_luat_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện nghĩa vụ theo quy định của pháp luật về đất đai và quy định khác của pháp luật có liên quan"
+    },
+    {
+      "id": "khaikiem_phap_luat_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Pháp luật về đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_186",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_quyen_nghia_vu_su_dung_dat_o"
+    },
+    {
+      "source_id": "khaikiem_quyen_nghia_vu_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_so_huu_nha_o_vn"
+    },
+    {
+      "source_id": "khaikiem_quyen_nghia_vu_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_nuoc_ngoai_hoac_viet_kieu_khong_duoc_mua_nha_o_gan_dat_vn"
+    },
+    {
+      "source_id": "dieu_186",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_du_dieu_kien_so_huu_nha_o"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_du_dieu_kien_so_huu_nha_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuoc_doi_tuong_co_quyen_so_huu_nha_o_theo_phap_luat_nha_o"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_du_dieu_kien_so_huu_nha_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat_o_vn"
+    },
+    {
+      "source_id": "dieu_186",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_quyen_va_nghia_vu"
+    },
+    {
+      "source_id": "khaikiem_quyen_va_nghia_vu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_da_so_huu_nha_gan_dat_vn"
+    },
+    {
+      "source_id": "khaikiem_quyen_va_nghia_vu_chung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_166"
+    },
+    {
+      "source_id": "khaikiem_quyen_va_nghia_vu_chung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_170"
+    },
+    {
+      "source_id": "khaikiem_quyen_va_nghia_vu_chung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_da_so_huu_nha_gan_dat_vn"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_da_so_huu_nha_gan_dat_vn",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tang_cho_nha_o"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thua_ke_nha_o"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_doi_nha_o"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_ca_nhan_trong_nuoc"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai_duoc_so_huu_nha_de_o"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_nha_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_nha_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_nha_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tang_cho_nha_tinh_nghia"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_nha_tinh_nghia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_174_khoan_2c"
+    },
+    {
+      "source_id": "dieukien_tang_cho_thua_ke_cho_doi_tuong_khong_duoc_so_huu_nha_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_gia_tri_nha_o_gan_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_da_so_huu_nha_gan_dat_vn",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_the_chap_nha_o_gan_dat"
+    },
+    {
+      "source_id": "hanhviphaply_the_chap_nha_o_gan_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_tin_dung_tai_viet_nam"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_da_so_huu_nha_gan_dat_vn",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cho_thue_nha_o"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai_da_so_huu_nha_gan_dat_vn",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_uy_quyen_quan_ly_nha_o"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_nha_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thoi_gian_khong_su_dung_nha_o"
+    },
+    {
+      "source_id": "hanhviphaply_uy_quyen_quan_ly_nha_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thoi_gian_khong_su_dung_nha_o"
+    },
+    {
+      "source_id": "dieu_186",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_tat_ca_nguoi_thua_ke_khong_duoc_mua_nha_gan_dat_vn"
+    },
+    {
+      "source_id": "dieukien_tat_ca_nguoi_thua_ke_khong_duoc_mua_nha_gan_dat_vn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_186_khoan_1"
+    },
+    {
+      "source_id": "dieukien_tat_ca_nguoi_thua_ke_khong_duoc_mua_nha_gan_dat_vn",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_nhan_thua_ke"
+    },
+    {
+      "source_id": "dieukien_tat_ca_nguoi_thua_ke_khong_duoc_mua_nha_gan_dat_vn",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan_dat_nha_o_tai_san"
+    },
+    {
+      "source_id": "chuthe_nguoi_nhan_thua_ke",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_thua_ke"
+    },
+    {
+      "source_id": "chuthe_nguoi_nhan_thua_ke",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tang_cho_quyen_su_dung_dat_thua_ke"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_thua_ke",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_ben_chuyen_nhuong_hop_dong_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_nhan_thua_ke",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_ben_chuyen_nhuong_hop_dong_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat_thua_ke",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_duoc_tang_cho"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_tang_cho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_doi_tuong_theo_dieu_179_khoan_1e"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_tang_cho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_voi_phap_luat_nha_o"
+    },
+    {
+      "source_id": "dieukien_doi_tuong_theo_dieu_179_khoan_1e",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_179_khoan_1e"
+    },
+    {
+      "source_id": "chuthe_nguoi_nhan_thua_ke",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_ben_tang_cho_hop_dong_cam_ket"
+    },
+    {
+      "source_id": "dieu_186",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_chua_chuyen_nhuong_hoac_tang_cho_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_chua_chuyen_nhuong_hoac_tang_cho_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_nop_ho_so_thua_ke"
+    },
+    {
+      "source_id": "hanhviphaply_nop_ho_so_thua_ke",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_nhan_thua_ke"
+    },
+    {
+      "source_id": "hanhviphaply_nop_ho_so_thua_ke",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_dai_dien_uy_quyen"
+    },
+    {
+      "source_id": "hanhviphaply_nop_ho_so_thua_ke",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_co_quan_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_nop_ho_so_thua_ke",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_nhat_so_dia_chinh"
+    },
+    {
+      "source_id": "dieu_186",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_co_nguoi_viet_nam_dinh_cu_nuoc_ngoai_khong_duoc_mua_nha_gan_dat"
+    },
+    {
+      "source_id": "dieukien_co_nguoi_viet_nam_dinh_cu_nuoc_ngoai_khong_duoc_mua_nha_gan_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguoi_khac_thuoc_dien_duoc_nhan_thua_ke_dat"
+    },
+    {
+      "source_id": "dieukien_co_nguoi_viet_nam_dinh_cu_nuoc_ngoai_khong_duoc_mua_nha_gan_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chua_phan_chia_thua_ke_quy_en_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_co_nguoi_viet_nam_dinh_cu_nuoc_ngoai_khong_duoc_mua_nha_gan_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_nop_ho_so_thua_ke"
+    },
+    {
+      "source_id": "dieukien_sau_khi_giai_quyet_phan_chia_thua_ke",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan_dat_nha_o_tai_san"
+    },
+    {
+      "source_id": "hanhviphaply_cap_giay_chung_nhan_dat_nha_o_tai_san",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_thuoc_doi_tuong_duoc_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_nuoc_ngoai_hoac_viet_kieu_khong_duoc_mua_nha_o_gan_dat_vn",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_186_khoan_3"
+    },
+    {
+      "source_id": "dieu_186",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_cac_truong_hop_dieu_186_khoan_3c_khoan_4"
+    },
+    {
+      "source_id": "dieukien_cac_truong_hop_dieu_186_khoan_3c_khoan_4",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_186_khoan_3c"
+    },
+    {
+      "source_id": "dieukien_cac_truong_hop_dieu_186_khoan_3c_khoan_4",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_186_khoan_4"
+    },
+    {
+      "source_id": "dieukien_cac_truong_hop_dieu_186_khoan_3c_khoan_4",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_nhan_thua_ke"
+    },
+    {
+      "source_id": "chuthe_nguoi_nhan_thua_ke",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_uy_quyen_trong_nom_hoac_tam_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_uy_quyen_trong_nom_hoac_tam_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_trong_nom_tam_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_nhan_thua_ke",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_nghia_vu_theo_phap_luat_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_nghia_vu_theo_phap_luat_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phap_luat_ve_dat_dai"
+    }
+  ]
+}

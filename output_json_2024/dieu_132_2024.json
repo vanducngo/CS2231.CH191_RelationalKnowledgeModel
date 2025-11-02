@@ -1,0 +1,106 @@
+{
+  "entities": [
+    {
+      "id": "dieu_132",
+      "label": "ĐiềuLuật",
+      "name": "Điều 132"
+    },
+    {
+      "id": "khauniem_dangky_landau",
+      "label": "KháiNiệm",
+      "name": "Đăng ký lần đầu"
+    },
+    {
+      "id": "khauniem_datdai",
+      "label": "KháiNiệm",
+      "name": "đất đai"
+    },
+    {
+      "id": "khauniem_taisan_ganlien_voidat",
+      "label": "KháiNiệm",
+      "name": "tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieukien_thuadat_dang_sudung_machua_dangky",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất đang sử dụng mà chưa đăng ký"
+    },
+    {
+      "id": "dieukien_thuadat_duoc_nhanuoc_giao_chothue_desudung",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất được Nhà nước giao, cho thuê để sử dụng"
+    },
+    {
+      "id": "dieukien_thuadat_duoc_giao_dequanly_machua_dangky",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất được giao để quản lý mà chưa đăng ký"
+    },
+    {
+      "id": "dieukien_taisan_ganlien_voidat_conhucau_dangky_dongthoi_voidangky_datdai",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản gắn liền với đất mà có nhu cầu đăng ký đồng thời với đăng ký đất đai trong các trường hợp quy định tại các điểm a, b và c khoản này"
+    },
+    {
+      "id": "chuthe_uybannhandan_captinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_chidao_phobien_tuyentruyen_vatochuc_thuchien_dangky_landau",
+      "label": "HànhViPhápLý",
+      "name": "chỉ đạo việc phổ biến, tuyên truyền và tổ chức thực hiện đăng ký lần đầu"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_132",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_dangky_landau"
+    },
+    {
+      "source_id": "khauniem_dangky_landau",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_datdai"
+    },
+    {
+      "source_id": "khauniem_dangky_landau",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_taisan_ganlien_voidat"
+    },
+    {
+      "source_id": "khauniem_dangky_landau",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuadat_dang_sudung_machua_dangky"
+    },
+    {
+      "source_id": "khauniem_dangky_landau",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuadat_duoc_nhanuoc_giao_chothue_desudung"
+    },
+    {
+      "source_id": "khauniem_dangky_landau",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuadat_duoc_giao_dequanly_machua_dangky"
+    },
+    {
+      "source_id": "khauniem_dangky_landau",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisan_ganlien_voidat_conhucau_dangky_dongthoi_voidangky_datdai"
+    },
+    {
+      "source_id": "dieu_132",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_uybannhandan_captinh"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chidao_phobien_tuyentruyen_vatochuc_thuchien_dangky_landau"
+    },
+    {
+      "source_id": "hanhviphaply_chidao_phobien_tuyentruyen_vatochuc_thuchien_dangky_landau",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_dangky_landau"
+    }
+  ]
+}

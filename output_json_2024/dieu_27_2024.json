@@ -1,0 +1,416 @@
+{
+  "entities": [
+    {
+      "id": "dieu_27",
+      "label": "ĐiềuLuật",
+      "name": "Điều 27"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_chuyendoi_qsd",
+      "label": "HànhViPhápLý",
+      "name": "chuyển đổi quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_chuyennhuong_qsd",
+      "label": "HànhViPhápLý",
+      "name": "chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_chothue_qsd",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_chothuelai_qsd",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê lại quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_thuaKe_qsd",
+      "label": "HànhViPhápLý",
+      "name": "thừa kế quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_tangcho_qsd",
+      "label": "HànhViPhápLý",
+      "name": "tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_thechap_qsd",
+      "label": "HànhViPhápLý",
+      "name": "thế chấp quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_gopvon_qsd",
+      "label": "HànhViPhápLý",
+      "name": "góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_theoquydinhphapluat",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của Luật này và luật khác có liên quan"
+    },
+    {
+      "id": "chuthe_nhomnguoisudungdat",
+      "label": "ChủThể",
+      "name": "Nhóm người sử dụng đất"
+    },
+    {
+      "id": "khainiem_quyenvanghiavu",
+      "label": "KháiNiệm",
+      "name": "quyền và nghĩa vụ"
+    },
+    {
+      "id": "chuthe_thanhvien_hogiadinh_canhan",
+      "label": "ChủThể",
+      "name": "Nhóm người sử dụng đất bao gồm thành viên hộ gia đình, cá nhân"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChủThể",
+      "name": "tổ chức kinh tế"
+    },
+    {
+      "id": "dieukien_qsd_phanchia_duoc",
+      "label": "ĐiềuKiện",
+      "name": "quyền sử dụng đất phân chia được theo phần cho từng thành viên"
+    },
+    {
+      "id": "hanhvipaply_dangkybiendong_hoactachthua",
+      "label": "HànhViPhápLý",
+      "name": "đăng ký biến động hoặc tách thửa"
+    },
+    {
+      "id": "hanhvipaply_capgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "làm thủ tục cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieukien_qsd_khongphanchia_duoc",
+      "label": "ĐiềuKiện",
+      "name": "quyền sử dụng đất của nhóm người sử dụng đất không phân chia được theo phần"
+    },
+    {
+      "id": "hanhvipaply_thuchiencungnhau_hoac_uyquyen",
+      "label": "HànhViPhápLý",
+      "name": "cùng nhau thực hiện hoặc ủy quyền cho người đại diện"
+    },
+    {
+      "id": "chuthe_nguoidaidien",
+      "label": "ChủThể",
+      "name": "người đại diện"
+    },
+    {
+      "id": "hanhvipaply_congchung_chungthuc",
+      "label": "HànhViPhápLý",
+      "name": "công chứng, chứng thực hợp đồng, văn bản"
+    },
+    {
+      "id": "dieukien_phai_congchung_chungthuc",
+      "label": "ĐiềuKiện",
+      "name": "phải được công chứng hoặc chứng thực"
+    },
+    {
+      "id": "dieukien_tru_diembkhoan3b",
+      "label": "ĐiềuKiện",
+      "name": "trừ trường hợp quy định tại điểm b khoản này"
+    },
+    {
+      "id": "hanhvipaply_chuyendoi_qsd_nongnghiep",
+      "label": "HànhViPhápLý",
+      "name": "chuyển đổi quyền sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "chuthe_tochuchotdongkinhdoanhbatdongsan",
+      "label": "ChủThể",
+      "name": "tổ chức hoạt động kinh doanh bất động sản"
+    },
+    {
+      "id": "dieukien_duoc_congchung_chungthuc_theo_yeucau",
+      "label": "ĐiềuKiện",
+      "name": "được công chứng hoặc chứng thực theo yêu cầu của các bên"
+    },
+    {
+      "id": "khainiem_phapluat_vedansu",
+      "label": "KháiNiệm",
+      "name": "pháp luật về dân sự"
+    },
+    {
+      "id": "khainiem_phapluat_vecongchung_chungthuc",
+      "label": "KháiNiệm",
+      "name": "pháp luật về công chứng, chứng thực"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_chuyendoi_qsd"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_chuyennhuong_qsd"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_chothue_qsd"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_chothuelai_qsd"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_thuaKe_qsd"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_tangcho_qsd"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_thechap_qsd"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_gopvon_qsd"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyendoi_qsd"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyennhuong_qsd"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chothue_qsd"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chothuelai_qsd"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_thuaKe_qsd"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tangcho_qsd"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_thechap_qsd"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_gopvon_qsd"
+    },
+    {
+      "source_id": "hanhvipaply_chuyendoi_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhphapluat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyennhuong_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhphapluat"
+    },
+    {
+      "source_id": "hanhvipaply_chothue_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhphapluat"
+    },
+    {
+      "source_id": "hanhvipaply_chothuelai_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhphapluat"
+    },
+    {
+      "source_id": "hanhvipaply_thuaKe_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhphapluat"
+    },
+    {
+      "source_id": "hanhvipaply_tangcho_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhphapluat"
+    },
+    {
+      "source_id": "hanhvipaply_thechap_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhphapluat"
+    },
+    {
+      "source_id": "hanhvipaply_gopvon_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhphapluat"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhomnguoisudungdat"
+    },
+    {
+      "source_id": "chuthe_nhomnguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyenvanghiavu"
+    },
+    {
+      "source_id": "chuthe_nhomnguoisudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_thanhvien_hogiadinh_canhan"
+    },
+    {
+      "source_id": "chuthe_thanhvien_hogiadinh_canhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_nhomnguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_tochuckinhte"
+    },
+    {
+      "source_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyenvanghiavu"
+    },
+    {
+      "source_id": "dieukien_qsd_phanchia_duoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_dangkybiendong_hoactachthua"
+    },
+    {
+      "source_id": "hanhvipaply_dangkybiendong_hoactachthua",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "hanhvipaply_capgiaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_quyenvanghiavu"
+    },
+    {
+      "source_id": "dieukien_qsd_khongphanchia_duoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_thuchiencungnhau_hoac_uyquyen"
+    },
+    {
+      "source_id": "hanhvipaply_thuchiencungnhau_hoac_uyquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoidaidien"
+    },
+    {
+      "source_id": "dieu_27",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_congchung_chungthuc"
+    },
+    {
+      "source_id": "hanhvipaply_chuyennhuong_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phai_congchung_chungthuc"
+    },
+    {
+      "source_id": "hanhvipaply_tangcho_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phai_congchung_chungthuc"
+    },
+    {
+      "source_id": "hanhvipaply_thechap_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phai_congchung_chungthuc"
+    },
+    {
+      "source_id": "hanhvipaply_gopvon_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phai_congchung_chungthuc"
+    },
+    {
+      "source_id": "dieukien_phai_congchung_chungthuc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_tru_diembkhoan3b"
+    },
+    {
+      "source_id": "dieukien_tru_diembkhoan3b",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_duoc_congchung_chungthuc_theo_yeucau"
+    },
+    {
+      "source_id": "hanhvipaply_chothue_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_congchung_chungthuc_theo_yeucau"
+    },
+    {
+      "source_id": "hanhvipaply_chothuelai_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_congchung_chungthuc_theo_yeucau"
+    },
+    {
+      "source_id": "hanhvipaply_chuyendoi_qsd_nongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_congchung_chungthuc_theo_yeucau"
+    },
+    {
+      "source_id": "hanhvipaply_chuyennhuong_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_tochuchotdongkinhdoanhbatdongsan"
+    },
+    {
+      "source_id": "chuthe_tochuchotdongkinhdoanhbatdongsan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_duoc_congchung_chungthuc_theo_yeucau"
+    },
+    {
+      "source_id": "hanhvipaply_gopvon_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_tochuchotdongkinhdoanhbatdongsan"
+    },
+    {
+      "source_id": "hanhvipaply_thuaKe_qsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_congchung_chungthuc"
+    },
+    {
+      "source_id": "hanhvipaply_congchung_chungthuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phapluat_vedansu"
+    },
+    {
+      "source_id": "hanhvipaply_congchung_chungthuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phapluat_vecongchung_chungthuc"
+    }
+  ]
+}

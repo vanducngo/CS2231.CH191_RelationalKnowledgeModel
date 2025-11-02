@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "id": "dieu_156",
+      "label": "ĐiềuLuật",
+      "name": "Điều 156"
+    },
+    {
+      "id": "khainiem_chuyen_muc_dich_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "khainiem_gia_han_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "gia hạn sử dụng đất"
+    },
+    {
+      "id": "khainiem_dieu_chinh_thoi_han_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "điều chỉnh thời hạn sử dụng đất"
+    },
+    {
+      "id": "khainiem_tien_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "tiền sử dụng đất"
+    },
+    {
+      "id": "khainiem_tien_thue_dat",
+      "label": "KháiNiệm",
+      "name": "tiền thuê đất"
+    },
+    {
+      "id": "khainiem_muc_chenh_lech",
+      "label": "KháiNiệm",
+      "name": "mức chênh lệch"
+    },
+    {
+      "id": "khainiem_thoi_gian_su_dung_dat_con_lai",
+      "label": "KháiNiệm",
+      "name": "thời gian sử dụng đất còn lại"
+    },
+    {
+      "id": "khainiem_thoi_gian_thue",
+      "label": "KháiNiệm",
+      "name": "thời gian thuê"
+    },
+    {
+      "id": "khainiem_loai_dat_sau_chuyen_muc_dich",
+      "label": "KháiNiệm",
+      "name": "loại đất sau khi chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "khainiem_thoi_gian_duoc_gia_han_dieu_chinh",
+      "label": "KháiNiệm",
+      "name": "thời gian được gia hạn, được điều chỉnh"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhvipaply_nop_tien_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "nộp tiền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_nop_tien_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "nộp tiền thuê đất"
+    },
+    {
+      "id": "hanhvipaply_nop_tien_su_dung_dat_thue_dat_tra_mot_lan",
+      "label": "HànhViPhápLý",
+      "name": "nộp tiền sử dụng đất, tiền thuê đất trả một lần"
+    },
+    {
+      "id": "hanhvipaply_nop_tien_thue_dat_hang_nam",
+      "label": "HànhViPhápLý",
+      "name": "nộp tiền thuê đất hằng năm"
+    },
+    {
+      "id": "hanhvipaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết"
+    },
+    {
+      "id": "dieukien_diem_b_c_d_d_e_g_khoan_1_dieu_121",
+      "label": "ĐiềuKiện",
+      "name": "quy định tại các điểm b, c, d, đ, e và g khoản 1 Điều 121 của Luật này"
+    },
+    {
+      "id": "dieukien_thuoc_doi_tuong_nop_tien",
+      "label": "ĐiềuKiện",
+      "name": "thuộc đối tượng nộp tiền sử dụng đất, tiền thuê đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_156",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_156",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_gia_han_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_156",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dieu_chinh_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_156",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_nop_tien_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_156",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_nop_tien_thue_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_nop_tien_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_nop_tien_thue_dat"
+    },
+    {
+      "source_id": "khainiem_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_diem_b_c_d_d_e_g_khoan_1_dieu_121"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_su_dung_dat_thue_dat_tra_mot_lan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_su_dung_dat_thue_dat_tra_mot_lan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_chenh_lech"
+    },
+    {
+      "source_id": "khainiem_muc_chenh_lech",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_tien_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_muc_chenh_lech",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_tien_thue_dat"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_su_dung_dat_thue_dat_tra_mot_lan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thoi_gian_su_dung_dat_con_lai"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_su_dung_dat_thue_dat_tra_mot_lan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thoi_gian_thue"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_thue_dat_hang_nam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_thue_dat_hang_nam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_loai_dat_sau_chuyen_muc_dich"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_gia_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_gia_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dieu_chinh_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dieu_chinh_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuoc_doi_tuong_nop_tien"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoi_gian_duoc_gia_han_dieu_chinh"
+    },
+    {
+      "source_id": "hanhvipaply_nop_tien_thue_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoi_gian_duoc_gia_han_dieu_chinh"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhvipaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_156"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "id": "dieu_24",
+      "label": "ĐiềuLuật",
+      "name": "Điều 24"
+    },
+    {
+      "id": "khainiem_co_quan_quan_ly_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Cơ quan quản lý đất đai"
+    },
+    {
+      "id": "khainiem_he_thong_to_chuc_co_quan_quan_ly_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Hệ thống tổ chức cơ quan quản lý đất đai"
+    },
+    {
+      "id": "khainiem_co_quan_quan_ly_nha_nuoc_ve_dat_dai_o_trung_uong",
+      "label": "KháiNiệm",
+      "name": "Cơ quan quản lý nhà nước về đất đai ở trung ương"
+    },
+    {
+      "id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "khainiem_co_quan_quan_ly_dat_dai_o_dia_phuong",
+      "label": "KháiNiệm",
+      "name": "Cơ quan quản lý đất đai ở địa phương"
+    },
+    {
+      "id": "hanhviphaply_thanh_lap",
+      "label": "HànhViPhápLý",
+      "name": "thành lập"
+    },
+    {
+      "id": "khainiem_to_chuc_dich_vu_cong_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Tổ chức dịch vụ công về đất đai"
+    },
+    {
+      "id": "hanhviphaply_hoat_dong",
+      "label": "HànhViPhápLý",
+      "name": "hoạt động"
+    },
+    {
+      "id": "dieu_kien_quy_dinh_cua_chinh_phu",
+      "label": "ĐiềuKiện",
+      "name": "quy định của Chính phủ"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_24",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_co_quan_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "dieu_24",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_he_thong_to_chuc_co_quan_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "dieu_24",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_co_quan_quan_ly_nha_nuoc_ve_dat_dai_o_trung_uong"
+    },
+    {
+      "source_id": "khainiem_co_quan_quan_ly_nha_nuoc_ve_dat_dai_o_trung_uong",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_bo_tai_nguyen_va_moi_truong"
+    },
+    {
+      "source_id": "dieu_24",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_co_quan_quan_ly_dat_dai_o_dia_phuong"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_lap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_co_quan_quan_ly_dat_dai_o_dia_phuong"
+    },
+    {
+      "source_id": "dieu_24",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_to_chuc_dich_vu_cong_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_lap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_to_chuc_dich_vu_cong_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_hoat_dong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_to_chuc_dich_vu_cong_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_lap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_quy_dinh_cua_chinh_phu"
+    },
+    {
+      "source_id": "hanhviphaply_hoat_dong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_quy_dinh_cua_chinh_phu"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_kien_quy_dinh_cua_chinh_phu"
+    }
+  ]
+}

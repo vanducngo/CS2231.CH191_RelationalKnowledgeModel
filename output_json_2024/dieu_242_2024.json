@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "id": "dieu_242",
+      "label": "ĐiềuLuật",
+      "name": "Điều 242"
+    },
+    {
+      "id": "hanhviphaply_tiepnhan_xu_ly_vi_pham",
+      "label": "HànhViPhápLý",
+      "name": "Tiếp nhận và xử lý vi phạm"
+    },
+    {
+      "id": "chuthe_thutruong_coquan_quanly_datdai_cac_cap",
+      "label": "ChủThể",
+      "name": "Thủ trưởng cơ quan quản lý đất đai các cấp"
+    },
+    {
+      "id": "chuthe_congchuc_coquan_quanly_datdai_cac_cap",
+      "label": "ChủThể",
+      "name": "Công chức thuộc cơ quan quản lý đất đai các cấp"
+    },
+    {
+      "id": "chuthe_vienchuc_coquan_quanly_datdai_cac_cap",
+      "label": "ChủThể",
+      "name": "Viên chức thuộc cơ quan quản lý đất đai các cấp"
+    },
+    {
+      "id": "chuthe_congchuc_diachinh_capxa",
+      "label": "ChủThể",
+      "name": "Công chức làm công tác địa chính ở cấp xã"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "hanhviphaply_phathien_vi_pham",
+      "label": "HànhViPhápLý",
+      "name": "Phát hiện vi phạm"
+    },
+    {
+      "id": "khainiem_vi_pham_quanly_datdai",
+      "label": "KháiNiệm",
+      "name": "Vi phạm trong quản lý đất đai"
+    },
+    {
+      "id": "hanhviphaply_gui_don_kien_nghi",
+      "label": "HànhViPhápLý",
+      "name": "Gửi đơn kiến nghị"
+    },
+    {
+      "id": "chuthe_chu_tich_ubnd_capxa",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_thutruong_coquan_quanly_datdai_capdo",
+      "label": "ChủThể",
+      "name": "Thủ trưởng cơ quan quản lý đất đai cấp đó"
+    },
+    {
+      "id": "chuthe_chu_tich_ubnd_cungcap",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cùng cấp"
+    },
+    {
+      "id": "dieukien_vi_pham_congchuc_diachinh_capxa",
+      "label": "ĐiềuKiện",
+      "name": "Vi phạm của công chức làm công tác địa chính ở cấp xã"
+    },
+    {
+      "id": "dieukien_vi_pham_congchuc_vienchuc_coquan_quanly_datdai",
+      "label": "ĐiềuKiện",
+      "name": "Vi phạm của công chức, viên chức thuộc cơ quan quản lý đất đai"
+    },
+    {
+      "id": "dieukien_vi_pham_thutruong_coquan_quanly_datdai",
+      "label": "ĐiềuKiện",
+      "name": "Vi phạm của thủ trưởng cơ quan quản lý đất đai"
+    },
+    {
+      "id": "dieukien_thoi_han_30_ngay_tu_ngay_nhan_kien_nghi",
+      "label": "ĐiềuKiện",
+      "name": "Trong thời hạn 30 ngày kể từ ngày nhận được kiến nghị"
+    },
+    {
+      "id": "hanhviphaply_xemxet_giaiquyet_kiennghi",
+      "label": "HànhViPhápLý",
+      "name": "Xem xét, giải quyết kiến nghị"
+    },
+    {
+      "id": "hanhviphaply_thongbao_ketqua_giaiquyet_vanban",
+      "label": "HànhViPhápLý",
+      "name": "Thông báo kết quả giải quyết bằng văn bản"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_242",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tiepnhan_xu_ly_vi_pham"
+    },
+    {
+      "source_id": "hanhviphaply_tiepnhan_xu_ly_vi_pham",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_thutruong_coquan_quanly_datdai_cac_cap"
+    },
+    {
+      "source_id": "hanhviphaply_tiepnhan_xu_ly_vi_pham",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congchuc_coquan_quanly_datdai_cac_cap"
+    },
+    {
+      "source_id": "hanhviphaply_tiepnhan_xu_ly_vi_pham",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_vienchuc_coquan_quanly_datdai_cac_cap"
+    },
+    {
+      "source_id": "hanhviphaply_tiepnhan_xu_ly_vi_pham",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congchuc_diachinh_capxa"
+    },
+    {
+      "source_id": "dieu_242",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_gui_don_kien_nghi"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_gui_don_kien_nghi"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_gui_don_kien_nghi"
+    },
+    {
+      "source_id": "hanhviphaply_phathien_vi_pham",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congchuc_coquan_quanly_datdai_cac_cap"
+    },
+    {
+      "source_id": "hanhviphaply_phathien_vi_pham",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_vienchuc_coquan_quanly_datdai_cac_cap"
+    },
+    {
+      "source_id": "hanhviphaply_phathien_vi_pham",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congchuc_diachinh_capxa"
+    },
+    {
+      "source_id": "hanhviphaply_phathien_vi_pham",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_vi_pham_quanly_datdai"
+    },
+    {
+      "source_id": "khainiem_vi_pham_quanly_datdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_gui_don_kien_nghi"
+    },
+    {
+      "source_id": "dieukien_vi_pham_congchuc_diachinh_capxa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_gui_don_kien_nghi"
+    },
+    {
+      "source_id": "hanhviphaply_gui_don_kien_nghi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chu_tich_ubnd_capxa"
+    },
+    {
+      "source_id": "dieukien_vi_pham_congchuc_vienchuc_coquan_quanly_datdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_gui_don_kien_nghi"
+    },
+    {
+      "source_id": "hanhviphaply_gui_don_kien_nghi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_thutruong_coquan_quanly_datdai_capdo"
+    },
+    {
+      "source_id": "dieukien_vi_pham_thutruong_coquan_quanly_datdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_gui_don_kien_nghi"
+    },
+    {
+      "source_id": "hanhviphaply_gui_don_kien_nghi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chu_tich_ubnd_cungcap"
+    },
+    {
+      "source_id": "dieu_242",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xemxet_giaiquyet_kiennghi"
+    },
+    {
+      "source_id": "hanhviphaply_xemxet_giaiquyet_kiennghi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chu_tich_ubnd_capxa"
+    },
+    {
+      "source_id": "hanhviphaply_xemxet_giaiquyet_kiennghi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_thutruong_coquan_quanly_datdai_capdo"
+    },
+    {
+      "source_id": "hanhviphaply_xemxet_giaiquyet_kiennghi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chu_tich_ubnd_cungcap"
+    },
+    {
+      "source_id": "dieukien_thoi_han_30_ngay_tu_ngay_nhan_kien_nghi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xemxet_giaiquyet_kiennghi"
+    },
+    {
+      "source_id": "hanhviphaply_xemxet_giaiquyet_kiennghi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thongbao_ketqua_giaiquyet_vanban"
+    },
+    {
+      "source_id": "hanhviphaply_thongbao_ketqua_giaiquyet_vanban",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "hanhviphaply_thongbao_ketqua_giaiquyet_vanban",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_canhan"
+    }
+  ]
+}

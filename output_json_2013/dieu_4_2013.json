@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "id": "dieu_4",
+      "label": "ĐiềuLuật",
+      "name": "Điều 4"
+    },
+    {
+      "id": "khauniem_sohuudatdai",
+      "label": "KháiNiệm",
+      "name": "Sở hữu đất đai"
+    },
+    {
+      "id": "khauniem_datdai",
+      "label": "KháiNiệm",
+      "name": "Đất đai"
+    },
+    {
+      "id": "khauniem_sohuutoandan",
+      "label": "KháiNiệm",
+      "name": "sở hữu toàn dân"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_daidienchuthe",
+      "label": "HànhViPhápLý",
+      "name": "đại diện chủ sở hữu"
+    },
+    {
+      "id": "hanhviphaply_thongnhatquanly",
+      "label": "HànhViPhápLý",
+      "name": "thống nhất quản lý"
+    },
+    {
+      "id": "hanhviphaply_traoquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "trao quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_ngoisudungdat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "dieukien_theoquydinhcuanhay",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của Luật này"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_4",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_sohuudatdai"
+    },
+    {
+      "source_id": "khauniem_sohuutoandan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_datdai"
+    },
+    {
+      "source_id": "khauniem_sohuutoandan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_daidienchuthe"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thongnhatquanly"
+    },
+    {
+      "source_id": "dieu_4",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_traoquyensudungdat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_traoquyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_traoquyensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_traoquyensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhcuanhay"
+    }
+  ]
+}

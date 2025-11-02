@@ -1,0 +1,146 @@
+{
+  "entities": [
+    {
+      "id": "dieu_16",
+      "label": "ĐiềuLuật",
+      "name": "Điều 16"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_trung_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "trưng dụng đất"
+    },
+    {
+      "id": "dieu_kien_muc_dich_quoc_phong_an_ninh",
+      "label": "ĐiềuKiện",
+      "name": "mục đích quốc phòng, an ninh"
+    },
+    {
+      "id": "dieu_kien_phat_trien_kinh_te_xa_hoi_vi_loi_ich_quoc_gia_cong_cong",
+      "label": "ĐiềuKiện",
+      "name": "phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+    },
+    {
+      "id": "dieu_kien_vi_pham_phap_luat_ve_dat_dai",
+      "label": "ĐiềuKiện",
+      "name": "vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "dieu_kien_cham_dut_viec_su_dung_dat_theo_phap_luat",
+      "label": "ĐiềuKiện",
+      "name": "chấm dứt việc sử dụng đất theo pháp luật"
+    },
+    {
+      "id": "dieu_kien_tu_nguyen_tra_lai_dat",
+      "label": "ĐiềuKiện",
+      "name": "tự nguyện trả lại đất"
+    },
+    {
+      "id": "dieu_kien_co_nguy_co_de_doa_tinh_mang_con_nguoi",
+      "label": "ĐiềuKiện",
+      "name": "có nguy cơ đe dọa tính mạng con người"
+    },
+    {
+      "id": "dieu_kien_that_can_thiet_de_thuc_hien_nhiem_vu_quoc_phong_an_ninh",
+      "label": "ĐiềuKiện",
+      "name": "thật cần thiết để thực hiện nhiệm vụ quốc phòng, an ninh"
+    },
+    {
+      "id": "dieu_kien_tinh_trang_chien_tranh",
+      "label": "ĐiềuKiện",
+      "name": "trong tình trạng chiến tranh"
+    },
+    {
+      "id": "dieu_kien_tinh_trang_khan_cap",
+      "label": "ĐiềuKiện",
+      "name": "tình trạng khẩn cấp"
+    },
+    {
+      "id": "dieu_kien_phong_chong_thien_tai",
+      "label": "ĐiềuKiện",
+      "name": "phòng, chống thiên tai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_16",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieu_16",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_trung_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_trung_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_phat_trien_kinh_te_xa_hoi_vi_loi_ich_quoc_gia_cong_cong"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_vi_pham_phap_luat_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_cham_dut_viec_su_dung_dat_theo_phap_luat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_tu_nguyen_tra_lai_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_co_nguy_co_de_doa_tinh_mang_con_nguoi"
+    },
+    {
+      "source_id": "hanhviphaply_trung_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_that_can_thiet_de_thuc_hien_nhiem_vu_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "hanhviphaply_trung_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_tinh_trang_chien_tranh"
+    },
+    {
+      "source_id": "hanhviphaply_trung_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_tinh_trang_khan_cap"
+    },
+    {
+      "source_id": "hanhviphaply_trung_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_phong_chong_thien_tai"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "entities": [
+    {
+      "id": "dieu_141",
+      "label": "ĐiềuLuật",
+      "name": "Điều 141. Xác định diện tích đất ở khi công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_hogiadinhcanhan",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền cấp Giấy chứng nhận"
+    },
+    {
+      "id": "khainiem_dientichdato",
+      "label": "KháiNiệm",
+      "name": "Diện tích đất ở"
+    },
+    {
+      "id": "khainiem_quyensudungdat",
+      "label": "KháiNiệm",
+      "name": "Quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_giaychungnhan",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_hanmuccongnhandato",
+      "label": "KháiNiệm",
+      "name": "Hạn mức công nhận đất ở"
+    },
+    {
+      "id": "khainiem_tiensudungdat",
+      "label": "KháiNiệm",
+      "name": "Tiền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_xacdinhdientichdato",
+      "label": "HànhViPhápLý",
+      "name": "Xác định diện tích đất ở"
+    },
+    {
+      "id": "hanhvi_congnhanquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_capgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận"
+    },
+    {
+      "id": "hanhvi_xacdinlaidientichdato",
+      "label": "HànhViPhápLý",
+      "name": "Xác định lại diện tích đất ở"
+    },
+    {
+      "id": "hanhvi_thuhoadat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "chetac_khongphainoptiensudungdat",
+      "label": "ChếTài",
+      "name": "Không phải nộp tiền sử dụng đất"
+    },
+    {
+      "id": "chetac_phainoptiensudungdat",
+      "label": "ChếTài",
+      "name": "Phải nộp tiền sử dụng đất"
+    },
+    {
+      "id": "dieu kien_cogiaytohop lệ",
+      "label": "ĐiềuKiện",
+      "name": "Có giấy tờ về quyền sử dụng đất theo Điều 137"
+    },
+    {
+      "id": "dieu kien_hinhthanhtruoc18121980",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất hình thành trước ngày 18/12/1980"
+    },
+    {
+      "id": "dieu kien_hinhthanhtu18121980den15101993",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất hình thành từ 18/12/1980 đến trước 15/10/1993"
+    },
+    {
+      "id": "dieu kien_daxaydungnhao",
+      "label": "ĐiềuKiện",
+      "name": "Phần diện tích còn lại đã xây dựng nhà ở, công trình phục vụ đời sống"
+    },
+    {
+      "id": "dieu kien_thuadatdaduoccapgcn",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất ở có vườn, ao đã được cấp giấy chứng nhận trước 01/7/2004"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_141",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_xacdinhdientichdato"
+    },
+    {
+      "source_id": "hanhvi_xacdinhdientichdato",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinhcanhan"
+    },
+    {
+      "source_id": "hanhvi_xacdinhdientichdato",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu kien_cogiaytohop le"
+    },
+    {
+      "source_id": "hanhvi_xacdinhdientichdato",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hanmuccongnhandato"
+    },
+    {
+      "source_id": "dieu kien_hinhthanhtruoc18121980",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetac_khongphainoptiensudungdat"
+    },
+    {
+      "source_id": "dieu kien_hinhthanhtu18121980den15101993",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetac_khongphainoptiensudungdat"
+    },
+    {
+      "source_id": "dieu kien_daxaydungnhao",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetac_phainoptiensudungdat"
+    },
+    {
+      "source_id": "hanhvi_xacdinlaidientichdato",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhvi_xacdinlaidientichdato",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu kien_thuadatdaduoccapgcn"
+    },
+    {
+      "source_id": "hanhvi_thuhoadat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_xacdinlaidientichdato"
+    },
+    {
+      "source_id": "chuthe_coquancothamquyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_xacdinlaidientichdato"
+    },
+    {
+      "source_id": "chuthe_coquancothamquyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_capgiaychungnhan"
+    },
+    {
+      "source_id": "hanhvi_congnhanquyensudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dientichdato"
+    }
+  ]
+}

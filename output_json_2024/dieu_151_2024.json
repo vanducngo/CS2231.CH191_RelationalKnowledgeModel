@@ -1,0 +1,676 @@
+{
+  "entities": [
+    {
+      "id": "dieu_151",
+      "label": "ĐiềuLuật",
+      "name": "Điều 151"
+    },
+    {
+      "id": "dieu_179",
+      "label": "ĐiềuLuật",
+      "name": "Điều 179"
+    },
+    {
+      "id": "dieu_7",
+      "label": "ĐiềuLuật",
+      "name": "Điều 7"
+    },
+    {
+      "id": "dieua_khoan2_dieu181",
+      "label": "ĐiềuLuật",
+      "name": "Điểm a khoản 2 Điều 181"
+    },
+    {
+      "id": "dieu_148",
+      "label": "ĐiềuLuật",
+      "name": "Điều 148"
+    },
+    {
+      "id": "dieu_149",
+      "label": "ĐiềuLuật",
+      "name": "Điều 149"
+    },
+    {
+      "id": "khaikiem_giaychungnhan",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khaikiem_mucdicongich",
+      "label": "KháiNiệm",
+      "name": "Mục đích công ích"
+    },
+    {
+      "id": "khaikiem_mucdicongcongkhongkinhdoanh",
+      "label": "KháiNiệm",
+      "name": "Mục đích công cộng không nhằm mục đích kinh doanh"
+    },
+    {
+      "id": "khaikiem_taisan",
+      "label": "KháiNiệm",
+      "name": "Tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_coquannhanuoccothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_chudautuxaydungkinhdoanhkethatang",
+      "label": "ChủThể",
+      "name": "Chủ đầu tư xây dựng kinh doanh kết cấu hạ tầng"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền"
+    },
+    {
+      "id": "chuthe_botaichinh",
+      "label": "ChủThể",
+      "name": "Bộ Tài chính"
+    },
+    {
+      "id": "chuthe_chusohuu",
+      "label": "ChủThể",
+      "name": "Chủ sở hữu"
+    },
+    {
+      "id": "hanhviphaply_khongcapgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_giaodatkhongthutien",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất không thu tiền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_pheduyetquyhoach",
+      "label": "HànhViPhápLý",
+      "name": "Phê duyệt quy hoạch"
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_datnongnghiepcongich",
+      "label": "ĐiềuKiện",
+      "name": "Đất nông nghiệp sử dụng vào mục đích công ích"
+    },
+    {
+      "id": "dieukien_datduocgiaodequanly",
+      "label": "ĐiềuKiện",
+      "name": "Đất được giao để quản lý"
+    },
+    {
+      "id": "dieukien_datduocgiaosudungchung",
+      "label": "ĐiềuKiện",
+      "name": "Đất được giao sử dụng chung với đất được giao để quản lý"
+    },
+    {
+      "id": "dieukien_datthuethuelainguoisudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Đất thuê, thuê lại của người sử dụng đất"
+    },
+    {
+      "id": "dieukien_thuechungcudautuxaydung",
+      "label": "ĐiềuKiện",
+      "name": "Thuê, thuê lại đất của chủ đầu tư xây dựng kinh doanh kết cấu hạ tầng, phù hợp với dự án đầu tư"
+    },
+    {
+      "id": "dieukien_datnhankhoan",
+      "label": "ĐiềuKiện",
+      "name": "Đất nhận khoán"
+    },
+    {
+      "id": "dieukien_datdacogiathoidat",
+      "label": "ĐiềuKiện",
+      "name": "Đất đã có quyết định thu hồi đất"
+    },
+    {
+      "id": "dieukien_quahanthuhoidat",
+      "label": "ĐiềuKiện",
+      "name": "Đã quá 03 năm kể từ thời điểm có quyết định thu hồi đất mà không thực hiện"
+    },
+    {
+      "id": "dieukien_datdangcotranhchap",
+      "label": "ĐiềuKiện",
+      "name": "Đất đang có tranh chấp"
+    },
+    {
+      "id": "dieukien_datdangbikebien",
+      "label": "ĐiềuKiện",
+      "name": "Đất đang bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án"
+    },
+    {
+      "id": "dieukien_quyensudungdatkhancaptamthoi",
+      "label": "ĐiềuKiện",
+      "name": "Quyền sử dụng đất đang bị áp dụng biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": "dieukien_tochucgiaodatkhongthutien",
+      "label": "ĐiềuKiện",
+      "name": "Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất để sử dụng vào mục đích công cộng không nhằm mục đích kinh doanh"
+    },
+    {
+      "id": "dieukien_thuadatkhongduoccapphien1",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất có tài sản đó thuộc trường hợp không cấp Giấy chứng nhận quy định tại khoản 1 Điều này hoặc không đủ điều kiện cấp Giấy chứng nhận"
+    },
+    {
+      "id": "dieukien_taisankhongdudieukien",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản gắn liền với đất không đủ điều kiện cấp Giấy chứng nhận"
+    },
+    {
+      "id": "dieukien_nhahoaccongtrinhtamthoi",
+      "label": "ĐiềuKiện",
+      "name": "Nhà ở hoặc công trình xây dựng được xây dựng tạm thời"
+    },
+    {
+      "id": "dieukien_congtrinhphutro",
+      "label": "ĐiềuKiện",
+      "name": "Công trình phụ trợ nằm ngoài phạm vi công trình chính"
+    },
+    {
+      "id": "dieukien_taisandacothongbaogiaitoa",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản gắn liền với đất đã có thông báo hoặc quyết định giải tỏa"
+    },
+    {
+      "id": "dieukien_taisandacogiathuhoidat",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản gắn liền với đất đã có quyết định thu hồi đất"
+    },
+    {
+      "id": "dieukien_quahanthongbaogiaitoathuhoidat",
+      "label": "ĐiềuKiện",
+      "name": "Đã quá 03 năm kể từ thời điểm có các thông báo, quyết định này mà không thực hiện"
+    },
+    {
+      "id": "dieukien_xaydungsaukhicambuild",
+      "label": "ĐiềuKiện",
+      "name": "Nhà ở, công trình được xây dựng sau thời điểm công bố cấm xây dựng"
+    },
+    {
+      "id": "dieukien_xaydunglanchiemkythuat",
+      "label": "ĐiềuKiện",
+      "name": "Xây dựng lấn, chiếm mốc giới bảo vệ các công trình hạ tầng kỹ thuật"
+    },
+    {
+      "id": "dieukien_xaydunglanchiemditich",
+      "label": "ĐiềuKiện",
+      "name": "Xây dựng lấn, chiếm mốc giới bảo vệ di tích lịch sử - văn hóa đã xếp hạng"
+    },
+    {
+      "id": "dieukien_taisanphuhopquyhoach",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản gắn liền với đất không phù hợp với quy hoạch được duyệt"
+    },
+    {
+      "id": "dieukien_chuthesdcongiayphepxaydunghan",
+      "label": "ĐiềuKiện",
+      "name": "Chủ sở hữu nhà ở, công trình xây dựng không phải là nhà ở theo quy định tại Điều 148 và Điều 149 của Luật này có giấy phép xây dựng có thời hạn"
+    },
+    {
+      "id": "dieukien_taisanthuocsouunhanuoc",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản thuộc sở hữu của Nhà nước"
+    },
+    {
+      "id": "dieukien_taisanvonnnhanuocgopdoanhnghiep",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản đã được xác định là phần vốn của Nhà nước đóng góp vào doanh nghiệp"
+    },
+    {
+      "id": "dieukien_taisankhongthuocdieu148_149",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản gắn liền với đất không thuộc trường hợp quy định tại Điều 148 và Điều 149"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_151",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_khongcapgiaychungnhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_giaychungnhan"
+    },
+    {
+      "source_id": "dieu_151",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "dieu_151",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_taisan"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_datnongnghiepcongich"
+    },
+    {
+      "source_id": "dieukien_datnongnghiepcongich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_datnongnghiepcongich",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_mucdicongich"
+    },
+    {
+      "source_id": "dieukien_datnongnghiepcongich",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_179"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_datduocgiaodequanly"
+    },
+    {
+      "source_id": "dieukien_datduocgiaodequanly",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_datduocgiaodequanly",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_7"
+    },
+    {
+      "source_id": "dieukien_datduocgiaodequanly",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_datduocgiaosudungchung"
+    },
+    {
+      "source_id": "dieukien_datduocgiaosudungchung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_datduocgiaosudungchung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquannhanuoccothamquyen"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_datthuethuelainguoisudungdat"
+    },
+    {
+      "source_id": "dieukien_datthuethuelainguoisudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_datthuethuelainguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuechungcudautuxaydung"
+    },
+    {
+      "source_id": "dieukien_thuechungcudautuxaydung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_thuechungcudautuxaydung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chudautuxaydungkinhdoanhkethatang"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_datnhankhoan"
+    },
+    {
+      "source_id": "dieukien_datnhankhoan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_datnhankhoan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieua_khoan2_dieu181"
+    },
+    {
+      "source_id": "dieua_khoan2_dieu181",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_congnhanquyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_datdacogiathoidat"
+    },
+    {
+      "source_id": "dieukien_datdacogiathoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_datdacogiathoidat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_datdacogiathoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquannhanuoccothamquyen"
+    },
+    {
+      "source_id": "dieukien_datdacogiathoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quahanthuhoidat"
+    },
+    {
+      "source_id": "dieukien_quahanthuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_datdangcotranhchap"
+    },
+    {
+      "source_id": "dieukien_datdangcotranhchap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_datdangbikebien"
+    },
+    {
+      "source_id": "dieukien_datdangbikebien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyensudungdatkhancaptamthoi"
+    },
+    {
+      "source_id": "dieukien_quyensudungdatkhancaptamthoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tochucgiaodatkhongthutien"
+    },
+    {
+      "source_id": "dieukien_tochucgiaodatkhongthutien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_tochucgiaodatkhongthutien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "dieukien_tochucgiaodatkhongthutien",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giaodatkhongthutien"
+    },
+    {
+      "source_id": "dieukien_tochucgiaodatkhongthutien",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_mucdicongcongkhongkinhdoanh"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuadatkhongduoccapphien1"
+    },
+    {
+      "source_id": "dieukien_thuadatkhongduoccapphien1",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_thuadatkhongduoccapphien1",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_151"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisankhongdudieukien"
+    },
+    {
+      "source_id": "dieukien_taisankhongdudieukien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nhahoaccongtrinhtamthoi"
+    },
+    {
+      "source_id": "dieukien_nhahoaccongtrinhtamthoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_congtrinhphutro"
+    },
+    {
+      "source_id": "dieukien_congtrinhphutro",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisandacothongbaogiaitoa"
+    },
+    {
+      "source_id": "dieukien_taisandacothongbaogiaitoa",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisandacogiathuhoidat"
+    },
+    {
+      "source_id": "dieukien_taisandacogiathuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_taisandacogiathuhoidat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_taisandacogiathuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquannhanuoccothamquyen"
+    },
+    {
+      "source_id": "dieukien_taisandacogiathuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quahanthongbaogiaitoathuhoidat"
+    },
+    {
+      "source_id": "dieukien_quahanthongbaogiaitoathuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_xaydungsaukhicambuild"
+    },
+    {
+      "source_id": "dieukien_xaydungsaukhicambuild",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_xaydunglanchiemkythuat"
+    },
+    {
+      "source_id": "dieukien_xaydunglanchiemkythuat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_xaydunglanchiemditich"
+    },
+    {
+      "source_id": "dieukien_xaydunglanchiemditich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisanphuhopquyhoach"
+    },
+    {
+      "source_id": "dieukien_taisanphuhopquyhoach",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_taisanphuhopquyhoach",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_pheduyetquyhoach"
+    },
+    {
+      "source_id": "dieukien_taisanphuhopquyhoach",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquancothamquyen"
+    },
+    {
+      "source_id": "dieukien_taisanphuhopquyhoach",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chuthesdcongiayphepxaydunghan"
+    },
+    {
+      "source_id": "dieukien_chuthesdcongiayphepxaydunghan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_chuthesdcongiayphepxaydunghan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chusohuu"
+    },
+    {
+      "source_id": "dieukien_chuthesdcongiayphepxaydunghan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_148"
+    },
+    {
+      "source_id": "dieukien_chuthesdcongiayphepxaydunghan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_149"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisanthuocsouunhanuoc"
+    },
+    {
+      "source_id": "dieukien_taisanthuocsouunhanuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_taisanthuocsouunhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "dieukien_taisanthuocsouunhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisanvonnnhanuocgopdoanhnghiep"
+    },
+    {
+      "source_id": "dieukien_taisanvonnnhanuocgopdoanhnghiep",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_taisanvonnnhanuocgopdoanhnghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_botaichinh"
+    },
+    {
+      "source_id": "khaikiem_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisankhongthuocdieu148_149"
+    },
+    {
+      "source_id": "dieukien_taisankhongthuocdieu148_149",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongcapgiaychungnhan"
+    },
+    {
+      "source_id": "dieukien_taisankhongthuocdieu148_149",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_148"
+    },
+    {
+      "source_id": "dieukien_taisankhongthuocdieu148_149",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_149"
+    }
+  ]
+}

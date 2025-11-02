@@ -1,0 +1,276 @@
+{
+  "entities": [
+    {
+      "id": "dieu_197",
+      "label": "ĐiềuLuật",
+      "name": "Điều 197"
+    },
+    {
+      "id": "khainiem_thutuchanhchinhvedatdai",
+      "label": "KháiNiệm",
+      "name": "thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "khainiem_thutuchanhchinhkhaccolienquan",
+      "label": "KháiNiệm",
+      "name": "thủ tục hành chính khác có liên quan"
+    },
+    {
+      "id": "khainiem_trinhtru_thutuc",
+      "label": "KháiNiệm",
+      "name": "trình tự, thủ tục"
+    },
+    {
+      "id": "khainiem_nghiuvutaichinh",
+      "label": "KháiNiệm",
+      "name": "nghĩa vụ tài chính"
+    },
+    {
+      "id": "chuthe_bonganh",
+      "label": "ChủThể",
+      "name": "Bộ, ngành"
+    },
+    {
+      "id": "chuthe_uybannhandancaccap",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân các cấp"
+    },
+    {
+      "id": "chuthe_coquancothamquyengiaiquyetthutuchanhchinhvedatdai",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền giải quyết thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoikhaccolienquan",
+      "label": "ChủThể",
+      "name": "Người khác có liên quan"
+    },
+    {
+      "id": "chuthe_caccoquancolienquanodiaphuong",
+      "label": "ChủThể",
+      "name": "các cơ quan có liên quan ở địa phương"
+    },
+    {
+      "id": "hanhvipaply_phoihop",
+      "label": "HànhViPhápLý",
+      "name": "phối hợp"
+    },
+    {
+      "id": "hanhvipaply_chidahoangdan",
+      "label": "HànhViPhápLý",
+      "name": "chỉ đạo, hướng dẫn"
+    },
+    {
+      "id": "hanhvipaply_kiemtra",
+      "label": "HànhViPhápLý",
+      "name": "kiểm tra"
+    },
+    {
+      "id": "hanhvipaply_thuchienthutuchanhchinhvedatdai",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "hanhvipaply_tochucthuchienthutuchanhchinh",
+      "label": "HànhViPhápLý",
+      "name": "tổ chức thực hiện thủ tục hành chính"
+    },
+    {
+      "id": "hanhvipaply_quyinhviecphoihop",
+      "label": "HànhViPhápLý",
+      "name": "quy định việc phối hợp"
+    },
+    {
+      "id": "hanhvipaply_giaiquyetthutuchanhchinh",
+      "label": "HànhViPhápLý",
+      "name": "giải quyết thủ tục hành chính"
+    },
+    {
+      "id": "hanhvipaply_thuchienungtrinhtruthutuc",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện đúng trình tự, thủ tục"
+    },
+    {
+      "id": "hanhvipaply_thuchiendayutrinhtruthutuchanhchinh",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện đầy đủ trình tự, thủ tục hành chính"
+    },
+    {
+      "id": "hanhvipaply_thuchiennghiuvutaichinh",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhvipaply_baodamthongnhat",
+      "label": "HànhViPhápLý",
+      "name": "bảo đảm thống nhất"
+    },
+    {
+      "id": "dieukien_theochucnangnhiemvuquyenhan",
+      "label": "ĐiềuKiện",
+      "name": "theo chức năng, nhiệm vụ, quyền hạn của mình"
+    },
+    {
+      "id": "dieukien_theoquyinh",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định"
+    },
+    {
+      "id": "dieukien_theoquyinhcuaphapluat",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_197",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thutuchanhchinhvedatdai"
+    },
+    {
+      "source_id": "chuthe_bonganh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_phoihop"
+    },
+    {
+      "source_id": "hanhvipaply_phoihop",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chidahoangdan"
+    },
+    {
+      "source_id": "hanhvipaply_phoihop",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_kiemtra"
+    },
+    {
+      "source_id": "hanhvipaply_chidahoangdan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_thuchienthutuchanhchinhvedatdai"
+    },
+    {
+      "source_id": "hanhvipaply_kiemtra",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_thuchienthutuchanhchinhvedatdai"
+    },
+    {
+      "source_id": "chuthe_bonganh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theochucnangnhiemvuquyenhan"
+    },
+    {
+      "source_id": "hanhvipaply_thuchienthutuchanhchinhvedatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_baodamthongnhat"
+    },
+    {
+      "source_id": "hanhvipaply_baodamthongnhat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thutuchanhchinhvedatdai"
+    },
+    {
+      "source_id": "hanhvipaply_baodamthongnhat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thutuchanhchinhkhaccolienquan"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_chidahoangdan"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_kiemtra"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_tochucthuchienthutuchanhchinh"
+    },
+    {
+      "source_id": "hanhvipaply_chidahoangdan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tochucthuchienthutuchanhchinh"
+    },
+    {
+      "source_id": "hanhvipaply_kiemtra",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tochucthuchienthutuchanhchinh"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_quyinhviecphoihop"
+    },
+    {
+      "source_id": "hanhvipaply_quyinhviecphoihop",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_caccoquancolienquanodiaphuong"
+    },
+    {
+      "source_id": "hanhvipaply_quyinhviecphoihop",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_giaiquyetthutuchanhchinh"
+    },
+    {
+      "source_id": "hanhvipaply_giaiquyetthutuchanhchinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thutuchanhchinhvedatdai"
+    },
+    {
+      "source_id": "hanhvipaply_giaiquyetthutuchanhchinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thutuchanhchinhkhaccolienquan"
+    },
+    {
+      "source_id": "chuthe_coquancothamquyengiaiquyetthutuchanhchinhvedatdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_thuchienungtrinhtruthutuc"
+    },
+    {
+      "source_id": "hanhvipaply_thuchienungtrinhtruthutuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquyinh"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_thuchiendayutrinhtruthutuchanhchinh"
+    },
+    {
+      "source_id": "chuthe_nguoikhaccolienquan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_thuchiendayutrinhtruthutuchanhchinh"
+    },
+    {
+      "source_id": "hanhvipaply_thuchiendayutrinhtruthutuchanhchinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thutuchanhchinhvedatdai"
+    },
+    {
+      "source_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_thuchiennghiuvutaichinh"
+    },
+    {
+      "source_id": "chuthe_nguoikhaccolienquan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_thuchiennghiuvutaichinh"
+    },
+    {
+      "source_id": "hanhvipaply_thuchiendayutrinhtruthutuchanhchinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquyinhcuaphapluat"
+    },
+    {
+      "source_id": "hanhvipaply_thuchiennghiuvutaichinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquyinhcuaphapluat"
+    }
+  ]
+}

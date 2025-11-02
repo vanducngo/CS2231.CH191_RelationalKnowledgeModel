@@ -1,0 +1,296 @@
+{
+  "entities": [
+    {
+      "id": "dieu_199",
+      "label": "ĐiềuLuật",
+      "name": "Điều 199. Giám sát của công dân đối với việc quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "chuthe_cong_dan",
+      "label": "ChủThể",
+      "name": "Công dân"
+    },
+    {
+      "id": "chuthe_to_chuc_dai_dien",
+      "label": "ChủThể",
+      "name": "Tổ chức đại diện"
+    },
+    {
+      "id": "chuthe_co_quan_nguoi_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan, người có thẩm quyền"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_to_chuc_ca_nhan_da_phan_anh",
+      "label": "ChủThể",
+      "name": "Tổ chức, cá nhân đã phản ánh"
+    },
+    {
+      "id": "hanhviphaply_giam_sat",
+      "label": "HànhViPhápLý",
+      "name": "Giám sát"
+    },
+    {
+      "id": "hanhviphaply_phan_anh_sai_pham",
+      "label": "HànhViPhápLý",
+      "name": "Phản ánh các sai phạm"
+    },
+    {
+      "id": "hanhviphaply_khieu_nai_to_cao_khong_dung_quy_dinh",
+      "label": "HànhViPhápLý",
+      "name": "Khiếu nại, tố cáo không đúng quy định của pháp luật"
+    },
+    {
+      "id": "hanhviphaply_lap_dieu_chinh_cong_bo_thuc_hien_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Lập, điều chỉnh, công bố, thực hiện quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_giao_dat_cho_thue_dat_cho_phep_chuyen_muc_dich_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat_boi_thuong_ho_tro_tai_dinh_cu",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất, bồi thường, hỗ trợ và tái định cư"
+    },
+    {
+      "id": "hanhviphaply_dang_ky_dat_dai_tai_san_gan_lien_voi_dat_cap_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "name": "Đăng ký đất đai, tài sản gắn liền với đất, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "hanhviphaply_thu_mien_giam_tien_su_dung_dat_tien_thue_dat_thue_lien_quan_den_dat_dinh_gia_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thu, miễn, giảm tiền sử dụng đất, tiền thuê đất, thuế liên quan đến đất đai; định giá đất"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_cac_thu_tuc_hanh_chinh_lien_quan_den_quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện các thủ tục hành chính liên quan đến quyền và nghĩa vụ của người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_truc_tiep_phan_anh_gui_don_kien_nghi",
+      "label": "HànhViPhápLý",
+      "name": "Trực tiếp phản ánh, gửi đơn kiến nghị"
+    },
+    {
+      "id": "hanhviphaply_gui_don_kien_nghi_den_to_chuc_dai_dien",
+      "label": "HànhViPhápLý",
+      "name": "Gửi đơn kiến nghị đến các tổ chức đại diện được pháp luật công nhận"
+    },
+    {
+      "id": "hanhviphaply_kiem_tra_xu_ly_tra_loi_bang_van_ban",
+      "label": "HànhViPhápLý",
+      "name": "Kiểm tra, xử lý, trả lời bằng văn bản"
+    },
+    {
+      "id": "hanhviphaply_chuyen_don_den_co_quan_khac_co_tham_quyen",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển đơn đến cơ quan nhà nước có thẩm quyền khác"
+    },
+    {
+      "id": "hanhviphaply_thong_bao_ket_qua",
+      "label": "HànhViPhápLý",
+      "name": "Thông báo kết quả"
+    },
+    {
+      "id": "khainiem_quan_ly_su_dung_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "dieukien_bao_dam_khach_quan_trung_thuc_dung_phap_luat",
+      "label": "ĐiềuKiện",
+      "name": "Bảo đảm khách quan, trung thực, đúng pháp luật"
+    },
+    {
+      "id": "dieukien_khong_loi_dung_quyen_giam_sat_lam_mat_trat_tu_xa_hoi",
+      "label": "ĐiềuKiện",
+      "name": "Không được lợi dụng quyền giám sát để làm mất trật tự xã hội"
+    },
+    {
+      "id": "dieukien_tinh_chinh_xac_thong_tin",
+      "label": "ĐiềuKiện",
+      "name": "Tính chính xác các thông tin do mình phản ánh"
+    },
+    {
+      "id": "chetac_chiu_trach_nhiem_truoc_phap_luat",
+      "label": "ChếTài",
+      "name": "Chịu trách nhiệm trước pháp luật"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giam_sat"
+    },
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_phan_anh_sai_pham"
+    },
+    {
+      "source_id": "chuthe_cong_dan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giam_sat"
+    },
+    {
+      "source_id": "chuthe_cong_dan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_phan_anh_sai_pham"
+    },
+    {
+      "source_id": "chuthe_to_chuc_dai_dien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giam_sat"
+    },
+    {
+      "source_id": "chuthe_to_chuc_dai_dien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_phan_anh_sai_pham"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quan_ly_su_dung_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_phan_anh_sai_pham",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quan_ly_su_dung_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_bao_dam_khach_quan_trung_thuc_dung_phap_luat"
+    },
+    {
+      "source_id": "hanhviphaply_phan_anh_sai_pham",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_bao_dam_khach_quan_trung_thuc_dung_phap_luat"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_loi_dung_quyen_giam_sat_lam_mat_trat_tu_xa_hoi"
+    },
+    {
+      "source_id": "hanhviphaply_khieu_nai_to_cao_khong_dung_quy_dinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_khong_loi_dung_quyen_giam_sat_lam_mat_trat_tu_xa_hoi"
+    },
+    {
+      "source_id": "hanhviphaply_phan_anh_sai_pham",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tinh_chinh_xac_thong_tin"
+    },
+    {
+      "source_id": "hanhviphaply_phan_anh_sai_pham",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetac_chiu_trach_nhiem_truoc_phap_luat"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lap_dieu_chinh_cong_bo_thuc_hien_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giao_dat_cho_thue_dat_cho_phep_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_hoi_dat_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_dang_ky_dat_dai_tai_san_gan_lien_voi_dat_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_mien_giam_tien_su_dung_dat_tien_thue_dat_thue_lien_quan_den_dat_dinh_gia_dat"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_cac_thu_tuc_hanh_chinh_lien_quan_den_quyen_va_nghia_vu_cua_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_truc_tiep_phan_anh_gui_don_kien_nghi"
+    },
+    {
+      "source_id": "hanhviphaply_giam_sat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_gui_don_kien_nghi_den_to_chuc_dai_dien"
+    },
+    {
+      "source_id": "chuthe_cong_dan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_truc_tiep_phan_anh_gui_don_kien_nghi"
+    },
+    {
+      "source_id": "hanhviphaply_truc_tiep_phan_anh_gui_don_kien_nghi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nguoi_co_tham_quyen"
+    },
+    {
+      "source_id": "chuthe_cong_dan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_gui_don_kien_nghi_den_to_chuc_dai_dien"
+    },
+    {
+      "source_id": "hanhviphaply_gui_don_kien_nghi_den_to_chuc_dai_dien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_dai_dien"
+    },
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_kiem_tra_xu_ly_tra_loi_bang_van_ban"
+    },
+    {
+      "source_id": "hanhviphaply_kiem_tra_xu_ly_tra_loi_bang_van_ban",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyen_don_den_co_quan_khac_co_tham_quyen"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_don_den_co_quan_khac_co_tham_quyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "dieu_199",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thong_bao_ket_qua"
+    },
+    {
+      "source_id": "hanhviphaply_thong_bao_ket_qua",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "hanhviphaply_thong_bao_ket_qua",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_ca_nhan_da_phan_anh"
+    }
+  ]
+}

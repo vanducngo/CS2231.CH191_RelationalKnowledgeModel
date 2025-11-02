@@ -1,0 +1,166 @@
+{
+  "entities": [
+    {
+      "id": "dieu_46",
+      "label": "ĐiềuLuật",
+      "name": "Điều 46"
+    },
+    {
+      "id": "hanhvi_dieu_chinh_quy_hoach_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh quy hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhvi_dieu_chinh_ke_hoach_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_dieu_chinh_chien_luoc_phat_trien",
+      "label": "ĐiềuKiện",
+      "name": "Có sự điều chỉnh chiến lược phát triển kinh tế - xã hội, quốc phòng, an ninh của quốc gia; quy hoạch tổng thể phát triển các vùng kinh tế - xã hội mà sự điều chỉnh đó làm thay đổi cơ cấu sử dụng đất"
+    },
+    {
+      "id": "dieukien_tac_dong_thien_tai_chien_tranh",
+      "label": "ĐiềuKiện",
+      "name": "Do tác động của thiên tai, chiến tranh làm thay đổi mục đích, cơ cấu, vị trí, diện tích sử dụng đất"
+    },
+    {
+      "id": "dieukien_dieu_chinh_quy_hoach_cap_tren",
+      "label": "ĐiềuKiện",
+      "name": "Có sự điều chỉnh quy hoạch sử dụng đất của cấp trên trực tiếp làm ảnh hưởng tới quy hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_dieu_chinh_dia_gioi_hanh_chinh",
+      "label": "ĐiềuKiện",
+      "name": "Có sự điều chỉnh địa giới hành chính của địa phương"
+    },
+    {
+      "id": "dieukien_co_dieu_chinh_quy_hoach_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "có sự điều chỉnh quy hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_thay_doi_kha_nang_thuc_hien_ke_hoach",
+      "label": "ĐiềuKiện",
+      "name": "có sự thay đổi về khả năng thực hiện kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_noi_dung_dieu_chinh_quy_hoach_dat",
+      "label": "KháiNiệm",
+      "name": "Nội dung điều chỉnh quy hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_quy_hoach_dat_da_duoc_quyet_dinh_phe_duyet",
+      "label": "KháiNiệm",
+      "name": "quy hoạch sử dụng đất đã được quyết định, phê duyệt"
+    },
+    {
+      "id": "khainiem_noi_dung_dieu_chinh_ke_hoach_dat",
+      "label": "KháiNiệm",
+      "name": "Nội dung điều chỉnh kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_ke_hoach_dat_da_duoc_quyet_dinh_phe_duyet",
+      "label": "KháiNiệm",
+      "name": "kế hoạch sử dụng đất đã được quyết định, phê duyệt"
+    },
+    {
+      "id": "khainiem_quy_dinh_tai_dieu_42_43_44_48",
+      "label": "KháiNiệm",
+      "name": "quy định tại các điều 42, 43, 44 và 48 của Luật này"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất của cấp nào"
+    },
+    {
+      "id": "khainiem_tham_quyen_dieu_chinh_quy_hoach_ke_hoach_dat",
+      "label": "KháiNiệm",
+      "name": "thẩm quyền quyết định, phê duyệt điều chỉnh quy hoạch, kế hoạch sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_46",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_dieu_chinh_quy_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_46",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_dieu_chinh_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_dieu_chinh_quy_hoach_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dieu_chinh_chien_luoc_phat_trien"
+    },
+    {
+      "source_id": "hanhvi_dieu_chinh_quy_hoach_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tac_dong_thien_tai_chien_tranh"
+    },
+    {
+      "source_id": "hanhvi_dieu_chinh_quy_hoach_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dieu_chinh_quy_hoach_cap_tren"
+    },
+    {
+      "source_id": "hanhvi_dieu_chinh_quy_hoach_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dieu_chinh_dia_gioi_hanh_chinh"
+    },
+    {
+      "source_id": "hanhvi_dieu_chinh_ke_hoach_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_dieu_chinh_quy_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_dieu_chinh_ke_hoach_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thay_doi_kha_nang_thuc_hien_ke_hoach"
+    },
+    {
+      "source_id": "khainiem_noi_dung_dieu_chinh_quy_hoach_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_quy_hoach_dat_da_duoc_quyet_dinh_phe_duyet"
+    },
+    {
+      "source_id": "khainiem_noi_dung_dieu_chinh_ke_hoach_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_ke_hoach_dat_da_duoc_quyet_dinh_phe_duyet"
+    },
+    {
+      "source_id": "hanhvi_dieu_chinh_quy_hoach_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_dinh_tai_dieu_42_43_44_48"
+    },
+    {
+      "source_id": "hanhvi_dieu_chinh_ke_hoach_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_dinh_tai_dieu_42_43_44_48"
+    },
+    {
+      "source_id": "dieu_46",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tham_quyen_dieu_chinh_quy_hoach_ke_hoach_dat"
+    },
+    {
+      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_tham_quyen_dieu_chinh_quy_hoach_ke_hoach_dat"
+    },
+    {
+      "source_id": "khainiem_tham_quyen_dieu_chinh_quy_hoach_ke_hoach_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_dieu_chinh_quy_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_tham_quyen_dieu_chinh_quy_hoach_ke_hoach_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_dieu_chinh_ke_hoach_su_dung_dat"
+    }
+  ]
+}

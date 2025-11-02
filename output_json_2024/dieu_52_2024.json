@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "id": "dieu_52",
+      "label": "ĐiềuLuật",
+      "name": "Điều 52. Các hoạt động điều tra, đánh giá đất đai"
+    },
+    {
+      "id": "hanhviphaply_hoatdongdieutradanhgiadatdai",
+      "label": "HànhViPhápLý",
+      "name": "Hoạt động điều tra, đánh giá đất đai"
+    },
+    {
+      "id": "hanhviphaply_dieutradanhgiachatluongdatti năngdatdai",
+      "label": "HànhViPhápLý",
+      "name": "Điều tra, đánh giá về chất lượng đất, tiềm năng đất đai"
+    },
+    {
+      "id": "hanhviphaply_dieutradanhgiathoaihoadat",
+      "label": "HànhViPhápLý",
+      "name": "Điều tra, đánh giá thoái hóa đất"
+    },
+    {
+      "id": "hanhviphaply_dieutradanhgiaonhiemdat",
+      "label": "HànhViPhápLý",
+      "name": "Điều tra, đánh giá ô nhiễm đất"
+    },
+    {
+      "id": "hanhviphaply_quantracchatluongdatthoaihoadatonhiemdat",
+      "label": "HànhViPhápLý",
+      "name": "Quan trắc chất lượng đất, thoái hóa đất, ô nhiễm đất"
+    },
+    {
+      "id": "hanhviphaply_dieutradanhgiadatdaitheochuyende",
+      "label": "HànhViPhápLý",
+      "name": "Điều tra, đánh giá đất đai theo chuyên đề"
+    },
+    {
+      "id": "dieukien_dinhky05nammotlan",
+      "label": "ĐiềuKiện",
+      "name": "Định kỳ 05 năm một lần"
+    },
+    {
+      "id": "dieukien_theoyeucauquanlynhanuocvedatdai",
+      "label": "ĐiềuKiện",
+      "name": "Theo yêu cầu phục vụ nhiệm vụ quản lý nhà nước về đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_52",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_hoatdongdieutradanhgiadatdai"
+    },
+    {
+      "source_id": "hanhviphaply_hoatdongdieutradanhgiadatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_dieutradanhgiachatluongdatti năngdatdai"
+    },
+    {
+      "source_id": "hanhviphaply_hoatdongdieutradanhgiadatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_dieutradanhgiathoaihoadat"
+    },
+    {
+      "source_id": "hanhviphaply_hoatdongdieutradanhgiadatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_dieutradanhgiaonhiemdat"
+    },
+    {
+      "source_id": "hanhviphaply_hoatdongdieutradanhgiadatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_quantracchatluongdatthoaihoadatonhiemdat"
+    },
+    {
+      "source_id": "hanhviphaply_hoatdongdieutradanhgiadatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "hanhviphaply_dieutradanhgiadatdaitheochuyende"
+    },
+    {
+      "source_id": "hanhviphaply_dieutradanhgiachatluongdatti năngdatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dinhky05nammotlan"
+    },
+    {
+      "source_id": "hanhviphaply_dieutradanhgiathoaihoadat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dinhky05nammotlan"
+    },
+    {
+      "source_id": "hanhviphaply_dieutradanhgiaonhiemdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dinhky05nammotlan"
+    },
+    {
+      "source_id": "hanhviphaply_dieutradanhgiadatdaitheochuyende",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoyeucauquanlynhanuocvedatdai"
+    }
+  ]
+}

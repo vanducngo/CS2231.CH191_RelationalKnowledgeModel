@@ -1,0 +1,190 @@
+{
+  "graph": {
+    "entities": [
+      {
+        "id": "dieu_207",
+        "label": "ĐiềuLuật",
+        "properties": {
+          "ten": "Điều 207",
+          "trich_yeu": "Đất sử dụng vào mục đích công cộng; đất để thực hiện dự án đầu tư theo phương thức đối tác công tư"
+        }
+      },
+      {
+        "id": "khainiem_datsudungvaomucdichcongcong",
+        "label": "KháiNiệm",
+        "properties": {
+          "ten": "Đất sử dụng vào mục đích công cộng"
+        }
+      },
+      {
+        "id": "khainiem_duandaututheophuongthucdoitaccongtu",
+        "label": "KháiNiệm",
+        "properties": {
+          "ten": "Dự án đầu tư theo phương thức đối tác công tư"
+        }
+      },
+      {
+        "id": "khainiem_datsudungkhongcomucdichkinhdoanh",
+        "label": "KháiNiệm",
+        "properties": {
+          "ten": "Đất sử dụng không có mục đích kinh doanh"
+        }
+      },
+      {
+        "id": "khainiem_datsudungcomucdichkinhdoanh",
+        "label": "KháiNiệm",
+        "properties": {
+          "ten": "Đất sử dụng có mục đích kinh doanh"
+        }
+      },
+      {
+        "id": "khainiem_chedoquanlysudungdatnghiavutaichinh",
+        "label": "KháiNiệm",
+        "properties": {
+          "ten": "Chế độ quản lý, sử dụng đất, nghĩa vụ tài chính"
+        }
+      },
+      {
+        "id": "chuthe_nhanuoc",
+        "label": "ChủThể",
+        "properties": {
+          "ten": "Nhà nước"
+        }
+      },
+      {
+        "id": "chuthe_nhadautu",
+        "label": "ChủThể",
+        "properties": {
+          "ten": "Nhà đầu tư"
+        }
+      },
+      {
+        "id": "chuthe_uybannhandancaptinh",
+        "label": "ChủThể",
+        "properties": {
+          "ten": "Ủy ban nhân dân cấp tỉnh"
+        }
+      },
+      {
+        "id": "chuthe_lucluongconganannhandan",
+        "label": "ChủThể",
+        "properties": {
+          "ten": "Lực lượng Công an nhân dân"
+        }
+      },
+      {
+        "id": "hanhviphaply_sudungdatvaomucdichcongcong",
+        "label": "HànhViPhápLý",
+        "properties": {
+          "ten": "Sử dụng đất vào mục đích công cộng"
+        }
+      },
+      {
+        "id": "hanhviphaply_giaodatkhongthutiensudungdat",
+        "label": "HànhViPhápLý",
+        "properties": {
+          "ten": "Giao đất không thu tiền sử dụng đất"
+        }
+      },
+      {
+        "id": "hanhviphaply_chothuedat",
+        "label": "HànhViPhápLý",
+        "properties": {
+          "ten": "Cho thuê đất"
+        }
+      },
+      {
+        "id": "hanhviphaply_giaodathoacchothuedat",
+        "label": "HànhViPhápLý",
+        "properties": {
+          "ten": "Giao đất hoặc cho thuê đất"
+        }
+      },
+      {
+        "id": "hanhviphaply_botriquydatgiaodat",
+        "label": "HànhViPhápLý",
+        "properties": {
+          "ten": "Bố trí quỹ đất, giao đất"
+        }
+      },
+      {
+        "id": "dieu_kien_phuhopvoiquyhoachkehoachsdd",
+        "label": "ĐiềuKiện",
+        "properties": {
+          "ten": "Phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch chuyên ngành"
+        }
+      },
+      {
+        "id": "dieu_kien_phandinhrodientichkinhdoanh",
+        "label": "ĐiềuKiện",
+        "properties": {
+          "ten": "Phân định rõ diện tích đất sử dụng không có mục đích kinh doanh và có mục đích kinh doanh"
+        }
+      },
+      {
+        "id": "dieu_kien_tuanthuluatdatdaivaluatdautuppp",
+        "label": "ĐiềuKiện",
+        "properties": {
+          "ten": "Tuân theo quy định của Luật Đất đai và Luật Đầu tư theo phương thức đối tác công tư"
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "source_id": "dieu_207",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "khainiem_datsudungvaomucdichcongcong"
+      },
+      {
+        "source_id": "dieu_207",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "khainiem_duandaututheophuongthucdoitaccongtu"
+      },
+      {
+        "source_id": "hanhviphaply_sudungdatvaomucdichcongcong",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieu_kien_phuhopvoiquyhoachkehoachsdd"
+      },
+      {
+        "source_id": "khainiem_datsudungvaomucdichcongcong",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieu_kien_phandinhrodientichkinhdoanh"
+      },
+      {
+        "source_id": "hanhviphaply_giaodatkhongthutiensudungdat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_datsudungkhongcomucdichkinhdoanh"
+      },
+      {
+        "source_id": "hanhviphaply_chothuedat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_datsudungcomucdichkinhdoanh"
+      },
+      {
+        "source_id": "hanhviphaply_giaodathoacchothuedat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_nhadautu"
+      },
+      {
+        "source_id": "dieu_207",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "chuthe_nhanuoc"
+      },
+      {
+        "source_id": "khainiem_chedoquanlysudungdatnghiavutaichinh",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieu_kien_tuanthuluatdatdaivaluatdautuppp"
+      },
+      {
+        "source_id": "dieu_207",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "chuthe_uybannhandancaptinh"
+      },
+      {
+        "source_id": "hanhviphaply_botriquydatgiaodat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_lucluongconganannhandan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "entities": [
+    {
+      "id": "dieu_153",
+      "label": "ĐiềuLuật",
+      "name": "Điều 153"
+    },
+    {
+      "id": "khainiem_cackhoanthungansach_datdai",
+      "label": "KháiNiệm",
+      "name": "Các khoản thu ngân sách từ đất đai"
+    },
+    {
+      "id": "khainiem_tiensudungdat",
+      "label": "KháiNiệm",
+      "name": "Tiền sử dụng đất"
+    },
+    {
+      "id": "khainiem_tienthuedat",
+      "label": "KháiNiệm",
+      "name": "Tiền thuê đất"
+    },
+    {
+      "id": "khainiem_tienthu_xupat_vihamhanhchinh_datdai",
+      "label": "KháiNiệm",
+      "name": "Tiền thu từ việc xử phạt vi phạm hành chính về đất đai"
+    },
+    {
+      "id": "khainiem_tienboithuong_nhanuoc_gaythiethai_quanly_sudungdatdai",
+      "label": "KháiNiệm",
+      "name": "Tiền bồi thường cho Nhà nước khi gây thiệt hại trong quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "khainiem_tiensudungdat_tangthem",
+      "label": "KháiNiệm",
+      "name": "Tiền sử dụng đất tăng thêm"
+    },
+    {
+      "id": "khainiem_tienthuedat_tangthem",
+      "label": "KháiNiệm",
+      "name": "Tiền thuê đất tăng thêm"
+    },
+    {
+      "id": "khainiem_thuesudungdat",
+      "label": "KháiNiệm",
+      "name": "Thuế sử dụng đất"
+    },
+    {
+      "id": "khainiem_thuethunhap_chuyenquyensudungdat",
+      "label": "KháiNiệm",
+      "name": "Thuế thu nhập từ chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_phivalephi_quanly_sudungdatdai",
+      "label": "KháiNiệm",
+      "name": "Phí và lệ phí trong quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "khainiem_khoanthukhac_quydinhphapluat",
+      "label": "KháiNiệm",
+      "name": "Khoản thu khác theo quy định của pháp luật"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhvipaply_xupat_vihamhanhchinh_datdai",
+      "label": "HànhViPhápLý",
+      "name": "xử phạt vi phạm hành chính về đất đai"
+    },
+    {
+      "id": "hanhvipaply_gaythiethai_quanly_sudungdatdai",
+      "label": "HànhViPhápLý",
+      "name": "gây thiệt hại trong quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "hanhvipaply_chuyenquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_duan_khongduadat_sudung_chamtiendo",
+      "label": "ĐiềuKiện",
+      "name": "các dự án không đưa đất vào sử dụng, chậm tiến độ sử dụng"
+    },
+    {
+      "id": "khainiem_tienthuedat_hangnam",
+      "label": "KháiNiệm",
+      "name": "Tiền thuê đất hằng năm"
+    },
+    {
+      "id": "khainiem_chuky_05nam_on_dinh_tienthuedat",
+      "label": "KháiNiệm",
+      "name": "chu kỳ 05 năm tính từ thời điểm Nhà nước quyết định cho thuê đất, cho phép chuyển mục đích sử dụng đất gắn với việc chuyển sang hình thức Nhà nước cho thuê đất trả tiền thuê đất hằng năm"
+    },
+    {
+      "id": "hanhvipaply_quyedin_chothuedat",
+      "label": "HànhViPhápLý",
+      "name": "quyết định cho thuê đất"
+    },
+    {
+      "id": "hanhvipaply_chophephuyenmucidich_sudungdat",
+      "label": "HànhViPhápLý",
+      "name": "cho phép chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_chuyensang_hinhthuc_nhanuoc_chothuedat_tratienhuedat_hangnam",
+      "label": "HànhViPhápLý",
+      "name": "chuyển sang hình thức Nhà nước cho thuê đất trả tiền thuê đất hằng năm"
+    },
+    {
+      "id": "khainiem_banggia_dat",
+      "label": "KháiNiệm",
+      "name": "bảng giá đất"
+    },
+    {
+      "id": "dieukien_tienthuedat_tang_sovoichuky_truoc",
+      "label": "ĐiềuKiện",
+      "name": "tiền thuê đất tăng so với chu kỳ trước"
+    },
+    {
+      "id": "khainiem_tyledieuchinh_chinhphu_quydinh",
+      "label": "KháiNiệm",
+      "name": "tỷ lệ do Chính phủ quy định"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "khainiem_tongchiso_giatieudung_cpi_hangnam_05namtruoc",
+      "label": "KháiNiệm",
+      "name": "tổng chỉ số giá tiêu dùng (CPI) hằng năm cả nước của giai đoạn 05 năm trước đó"
+    },
+    {
+      "id": "hanhvipaply_quydinh_chitiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_153",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_cackhoanthungansach_datdai"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tiensudungdat"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienthuedat"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienthu_xupat_vihamhanhchinh_datdai"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienboithuong_nhanuoc_gaythiethai_quanly_sudungdatdai"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tiensudungdat_tangthem"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienthuedat_tangthem"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thuesudungdat"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thuethunhap_chuyenquyensudungdat"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_phivalephi_quanly_sudungdatdai"
+    },
+    {
+      "source_id": "khainiem_cackhoanthungansach_datdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_khoanthukhac_quydinhphapluat"
+    },
+    {
+      "source_id": "hanhvipaply_xupat_vihamhanhchinh_datdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_tienthu_xupat_vihamhanhchinh_datdai"
+    },
+    {
+      "source_id": "hanhvipaply_gaythiethai_quanly_sudungdatdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_tienboithuong_nhanuoc_gaythiethai_quanly_sudungdatdai"
+    },
+    {
+      "source_id": "khainiem_tienboithuong_nhanuoc_gaythiethai_quanly_sudungdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "khainiem_tiensudungdat_tangthem",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duan_khongduadat_sudung_chamtiendo"
+    },
+    {
+      "source_id": "khainiem_tienthuedat_tangthem",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duan_khongduadat_sudung_chamtiendo"
+    },
+    {
+      "source_id": "khainiem_thuethunhap_chuyenquyensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyenquyensudungdat"
+    },
+    {
+      "source_id": "dieu_153",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienthuedat_hangnam"
+    },
+    {
+      "source_id": "khainiem_tienthuedat_hangnam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuky_05nam_on_dinh_tienthuedat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_quyedin_chothuedat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_chophephuyenmucidich_sudungdat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyensang_hinhthuc_nhanuoc_chothuedat_tratienhuedat_hangnam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "khainiem_tienthuedat_hangnam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_banggia_dat"
+    },
+    {
+      "source_id": "khainiem_tienthuedat_hangnam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tienthuedat_tang_sovoichuky_truoc"
+    },
+    {
+      "source_id": "dieukien_tienthuedat_tang_sovoichuky_truoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_tyledieuchinh_chinhphu_quydinh"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_tyledieuchinh_chinhphu_quydinh"
+    },
+    {
+      "source_id": "khainiem_tyledieuchinh_chinhphu_quydinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_tongchiso_giatieudung_cpi_hangnam_05namtruoc"
+    },
+    {
+      "source_id": "dieu_153",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_quydinh_chitiet"
+    },
+    {
+      "source_id": "hanhvipaply_quydinh_chitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinhphu"
+    },
+    {
+      "source_id": "hanhvipaply_quydinh_chitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tiensudungdat"
+    },
+    {
+      "source_id": "hanhvipaply_quydinh_chitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienthuedat"
+    },
+    {
+      "source_id": "hanhvipaply_quydinh_chitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienthu_xupat_vihamhanhchinh_datdai"
+    },
+    {
+      "source_id": "hanhvipaply_quydinh_chitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienboithuong_nhanuoc_gaythiethai_quanly_sudungdatdai"
+    },
+    {
+      "source_id": "hanhvipaply_quydinh_chitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tiensudungdat_tangthem"
+    },
+    {
+      "source_id": "hanhvipaply_quydinh_chitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienthuedat_tangthem"
+    },
+    {
+      "source_id": "hanhvipaply_quydinh_chitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tienthuedat_hangnam"
+    }
+  ]
+}

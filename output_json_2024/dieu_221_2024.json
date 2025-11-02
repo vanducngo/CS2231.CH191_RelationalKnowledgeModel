@@ -1,0 +1,161 @@
+{
+  "entities": [
+    {
+      "id": "dieu_221",
+      "label": "ĐiềuLuật",
+      "name": "Điều 221"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "khainiem_dat_chua_su_dung",
+      "label": "KháiNiệm",
+      "name": "đất chưa sử dụng"
+    },
+    {
+      "id": "khainiem_ho_so_dia_chinh",
+      "label": "KháiNiệm",
+      "name": "hồ sơ địa chính"
+    },
+    {
+      "id": "khainiem_uy_ban_nhan_dan_cap_tren_truc_tiep",
+      "label": "KháiNiệm",
+      "name": "Ủy ban nhân dân cấp trên trực tiếp"
+    },
+    {
+      "id": "khainiem_dao_chua_giao_cho_don_vi_hc",
+      "label": "KháiNiệm",
+      "name": "các đảo chưa giao cho đơn vị hành chính cấp huyện, cấp xã quản lý"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_dat_chua_su_dung_cap_xa",
+      "label": "HànhViPhápLý",
+      "name": "quản lý đất chưa sử dụng"
+    },
+    {
+      "id": "hanhviphaply_bao_ve_dat_chua_su_dung",
+      "label": "HànhViPhápLý",
+      "name": "bảo vệ đất chưa sử dụng"
+    },
+    {
+      "id": "hanhviphaply_dang_ky_ho_so_dia_chinh",
+      "label": "HànhViPhápLý",
+      "name": "đăng ký vào hồ sơ địa chính"
+    },
+    {
+      "id": "hanhviphaply_bao_cao_ubnd_cap_tren",
+      "label": "HànhViPhápLý",
+      "name": "báo cáo Ủy ban nhân dân cấp trên trực tiếp"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_dat_chua_su_dung_cap_tinh",
+      "label": "HànhViPhápLý",
+      "name": "quản lý đất chưa sử dụng"
+    },
+    {
+      "id": "dieu_kien_tai_dia_phuong",
+      "label": "ĐiềuKiện",
+      "name": "tại địa phương"
+    },
+    {
+      "id": "dieu_kien_ve_tinh_hinh_quan_ly_khai_thac_dat",
+      "label": "ĐiềuKiện",
+      "name": "về tình hình quản lý, khai thác quỹ đất chưa sử dụng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_221",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa"
+    },
+    {
+      "source_id": "dieu_221",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quan_ly_dat_chua_su_dung_cap_xa"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung_cap_xa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_tai_dia_phuong"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_bao_ve_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_bao_ve_dat_chua_su_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_bao_ve_dat_chua_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_tai_dia_phuong"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_dang_ky_ho_so_dia_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_dang_ky_ho_so_dia_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_dang_ky_ho_so_dia_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_ho_so_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_bao_cao_ubnd_cap_tren"
+    },
+    {
+      "source_id": "hanhviphaply_bao_cao_ubnd_cap_tren",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_uy_ban_nhan_dan_cap_tren_truc_tiep"
+    },
+    {
+      "source_id": "hanhviphaply_bao_cao_ubnd_cap_tren",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_ve_tinh_hinh_quan_ly_khai_thac_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quan_ly_dat_chua_su_dung_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_dao_chua_giao_cho_don_vi_hc"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "entities": [
+    {
+      "id": "dieu_148",
+      "label": "ĐiềuLuật",
+      "name": "Điều 148"
+    },
+    {
+      "id": "khauniem_datsudungvaomucdichquocphonganninh",
+      "label": "KháiNiệm",
+      "name": "Đất sử dụng vào mục đích quốc phòng, an ninh"
+    },
+    {
+      "id": "dieu_61",
+      "label": "ĐiềuLuật",
+      "name": "Điều 61 của Luật này"
+    },
+    {
+      "id": "chuthe_ubannhandancaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_quanlynhanuocdatquocphonganninh",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý nhà nước đối với đất sử dụng vào mục đích quốc phòng, an ninh"
+    },
+    {
+      "id": "chuthe_boquocphong",
+      "label": "ChủThể",
+      "name": "Bộ Quốc phòng"
+    },
+    {
+      "id": "chuthe_bocongan",
+      "label": "ChủThể",
+      "name": "Bộ Công an"
+    },
+    {
+      "id": "hanhviphaply_phoihoivoiubannhandancaptinh",
+      "label": "HànhViPhápLý",
+      "name": "Phối hợp với Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_lapquyhoachkehoachsudungdatquocphonganninh",
+      "label": "HànhViPhápLý",
+      "name": "Lập quy hoạch, kế hoạch sử dụng đất vào mục đích quốc phòng, an ninh"
+    },
+    {
+      "id": "dieukien_phuhopvoiyeucauphattrienkinhtexahoicungcoquocphonganninh",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với yêu cầu phát triển kinh tế - xã hội, củng cố quốc phòng, an ninh"
+    },
+    {
+      "id": "hanhviphaply_rasoatxacdinhranhgioidatsudungquocphonganninh",
+      "label": "HànhViPhápLý",
+      "name": "Rà soát, xác định ranh giới đất sử dụng cho mục đích quốc phòng, an ninh"
+    },
+    {
+      "id": "hanhviphaply_xacdinhvitridiencichdatquocphonganninhkhongconnhucaukhongdungmucdich",
+      "label": "HànhViPhápLý",
+      "name": "Xác định vị trí, diện tích đất quốc phòng, an ninh không còn nhu cầu sử dụng, sử dụng không đúng mục đích"
+    },
+    {
+      "id": "hanhviphaply_banggiaochodiaphuongquanlysudung",
+      "label": "HànhViPhápLý",
+      "name": "Bàn giao cho địa phương quản lý, sử dụng"
+    },
+    {
+      "id": "dieukien_khuvucnamtrongquyhoachchuanhucausudung",
+      "label": "ĐiềuKiện",
+      "name": "Khu vực nằm trong quy hoạch sử dụng đất vào mục đích quốc phòng, an ninh nhưng chưa có nhu cầu sử dụng"
+    },
+    {
+      "id": "chuthe_nguoidangsudungdat",
+      "label": "ChủThể",
+      "name": "Người đang sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_ductieptucsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Được tiếp tục sử dụng đất"
+    },
+    {
+      "id": "dieukien_denkhicoquyedinhtuhoidat",
+      "label": "ĐiềuKiện",
+      "name": "Đến khi có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "dieukien_khonglambiendangdiahinhtunhien",
+      "label": "ĐiềuKiện",
+      "name": "Không được làm biến dạng địa hình tự nhiên"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_148",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_datsudungvaomucdichquocphonganninh"
+    },
+    {
+      "source_id": "khauniem_datsudungvaomucdichquocphonganninh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieu_61"
+    },
+    {
+      "source_id": "chuthe_ubannhandancaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quanlynhanuocdatquocphonganninh"
+    },
+    {
+      "source_id": "hanhviphaply_quanlynhanuocdatquocphonganninh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_datsudungvaomucdichquocphonganninh"
+    },
+    {
+      "source_id": "chuthe_boquocphong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phoihoivoiubannhandancaptinh"
+    },
+    {
+      "source_id": "chuthe_bocongan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phoihoivoiubannhandancaptinh"
+    },
+    {
+      "source_id": "hanhviphaply_phoihoivoiubannhandancaptinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ubannhandancaptinh"
+    },
+    {
+      "source_id": "hanhviphaply_phoihoivoiubannhandancaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lapquyhoachkehoachsudungdatquocphonganninh"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachkehoachsudungdatquocphonganninh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhopvoiyeucauphattrienkinhtexahoicungcoquocphonganninh"
+    },
+    {
+      "source_id": "hanhviphaply_phoihoivoiubannhandancaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_rasoatxacdinhranhgioidatsudungquocphonganninh"
+    },
+    {
+      "source_id": "hanhviphaply_phoihoivoiubannhandancaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xacdinhvitridiencichdatquocphonganninhkhongconnhucaukhongdungmucdich"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhvitridiencichdatquocphonganninhkhongconnhucaukhongdungmucdich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_banggiaochodiaphuongquanlysudung"
+    },
+    {
+      "source_id": "dieukien_khuvucnamtrongquyhoachchuanhucausudung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoidangsudungdat"
+    },
+    {
+      "source_id": "chuthe_nguoidangsudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ductieptucsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_ductieptucsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_denkhicoquyedinhtuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_ductieptucsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khonglambiendangdiahinhtunhien"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quydinhchitiet"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhchitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_148"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "entities": [
+    {
+      "id": "dieu_102",
+      "label": "ĐiềuLuật",
+      "properties": {
+        "ten": "Bồi thường thiệt hại về nhà, nhà ở, công trình xây dựng gắn liền với đất khi Nhà nước thu hồi đất",
+        "luat": "Luật Đất đai 2024"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Nhà nước"
+      }
+    },
+    {
+      "id": "chuthe_chuso_huu",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Chủ sở hữu nhà ở, công trình",
+        "mo_ta": "Bao gồm hộ gia đình, cá nhân, người gốc Việt Nam định cư ở nước ngoài."
+      }
+    },
+    {
+      "id": "chuthe_uyban_nhandan_captinh",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Chính phủ"
+      }
+    },
+    {
+      "id": "hanhviphaply_thuhoi_dat",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "hanhviphaply_thao_do_hoac_phado",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Tháo dỡ hoặc phá dỡ nhà, công trình"
+      }
+    },
+    {
+      "id": "hanhviphaply_banhanh_dongia_boithuong",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Ban hành đơn giá bồi thường thiệt hại thực tế"
+      }
+    },
+    {
+      "id": "hanhviphaply_quydinh_chitiet",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Quy định chi tiết Điều luật"
+      }
+    },
+    {
+      "id": "khainiem_boithuong_thiet_hai",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Bồi thường thiệt hại về nhà, công trình khi thu hồi đất"
+      }
+    },
+    {
+      "id": "khainiem_nha_o_congtrinh_phucvu_doisong",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Nhà ở, công trình phục vụ đời sống"
+      }
+    },
+    {
+      "id": "khainiem_nha_congtrinh_xaydung_khac",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Nhà, công trình xây dựng không phục vụ đời sống"
+      }
+    },
+    {
+      "id": "khainiem_congtrinh_hatang",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Công trình hạ tầng kỹ thuật, hạ tầng xã hội"
+      }
+    },
+    {
+      "id": "chetai_boithuong_bang_giatri_xaydungmoi",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Bồi thường bằng giá trị xây dựng mới của công trình có tiêu chuẩn kỹ thuật tương đương"
+      }
+    },
+    {
+      "id": "chetai_boithuong_thiethai_theo_thucte",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Bồi thường thiệt hại theo thực tế"
+      }
+    },
+    {
+      "id": "dieukien_phanconlai_khong_dambao_tieuchuan",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Phần còn lại của công trình không bảo đảm tiêu chuẩn kỹ thuật"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_102",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_boithuong_thiet_hai"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thao_do_hoac_phado"
+    },
+    {
+      "source_id": "hanhviphaply_thao_do_hoac_phado",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_boithuong_thiet_hai"
+    },
+    {
+      "source_id": "khainiem_boithuong_thiet_hai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chuso_huu"
+    },
+    {
+      "source_id": "chetai_boithuong_bang_giatri_xaydungmoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nha_o_congtrinh_phucvu_doisong"
+    },
+    {
+      "source_id": "chetai_boithuong_bang_giatri_xaydungmoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_congtrinh_hatang"
+    },
+    {
+      "source_id": "dieukien_phanconlai_khong_dambao_tieuchuan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nha_congtrinh_xaydung_khac"
+    },
+    {
+      "source_id": "dieukien_phanconlai_khong_dambao_tieuchuan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_boithuong_bang_giatri_xaydungmoi"
+    },
+    {
+      "source_id": "chetai_boithuong_thiethai_theo_thucte",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nha_congtrinh_xaydung_khac"
+    },
+    {
+      "source_id": "dieu_102",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_banhanh_dongia_boithuong"
+    },
+    {
+      "source_id": "hanhviphaply_banhanh_dongia_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uyban_nhandan_captinh"
+    },
+    {
+      "source_id": "dieu_102",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quydinh_chitiet"
+    },
+    {
+      "source_id": "hanhviphaply_quydinh_chitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinhphu"
+    }
+  ]
+}

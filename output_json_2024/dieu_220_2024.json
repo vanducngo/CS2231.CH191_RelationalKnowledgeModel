@@ -1,0 +1,571 @@
+{
+  "entities": [
+    {
+      "id": "dieu_220",
+      "label": "ĐiềuLuật",
+      "name": "Điều 220"
+    },
+    {
+      "id": "khainiem_tach_thua_dat",
+      "label": "KháiNiệm",
+      "name": "Tách thửa đất"
+    },
+    {
+      "id": "khainiem_hop_thua_dat",
+      "label": "KháiNiệm",
+      "name": "Hợp thửa đất"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan_quyen_so_huu_nha_o_va_quyen_su_dung_dat_o",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_thoi_han_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất"
+    },
+    {
+      "id": "khainiem_tranh_chap_dat",
+      "label": "KháiNiệm",
+      "name": "Tranh chấp đất"
+    },
+    {
+      "id": "khainiem_ke_bien",
+      "label": "KháiNiệm",
+      "name": "Kê biên"
+    },
+    {
+      "id": "khainiem_bien_phap_khan_cap_tam_thoi",
+      "label": "KháiNiệm",
+      "name": "Biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": "khainiem_loi_di",
+      "label": "KháiNiệm",
+      "name": "Lối đi"
+    },
+    {
+      "id": "khainiem_duong_giao_thong_cong_cong",
+      "label": "KháiNiệm",
+      "name": "Đường giao thông công cộng"
+    },
+    {
+      "id": "khainiem_muc_dich_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Mục đích sử dụng đất"
+    },
+    {
+      "id": "khainiem_hinh_thuc_tra_tien_thue_dat",
+      "label": "KháiNiệm",
+      "name": "Hình thức trả tiền thuê đất"
+    },
+    {
+      "id": "khainiem_dien_tich_toi_thieu",
+      "label": "KháiNiệm",
+      "name": "Diện tích tối thiểu"
+    },
+    {
+      "id": "khainiem_phan_chia_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Phân chia quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_toa_an",
+      "label": "ChủThể",
+      "name": "Tòa án"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện tách thửa đất"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện hợp thửa đất"
+    },
+    {
+      "id": "hanhviphaply_chuyen_muc_dich_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_dieu_chinh_thoi_han_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh thời hạn sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chuyen_hinh_thuc_tra_tien_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển hình thức trả tiền thuê đất"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_cu_the_dieu_kien_dien_tich_toi_thieu",
+      "label": "HànhViPhápLý",
+      "name": "Quy định cụ thể điều kiện, diện tích tối thiểu"
+    },
+    {
+      "id": "dieukien_thua_dat_duoc_cap_gcn",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất đã được cấp một trong các loại giấy chứng nhận"
+    },
+    {
+      "id": "dieukien_thua_dat_con_thoi_han_su_dung",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất còn trong thời hạn sử dụng đất"
+    },
+    {
+      "id": "dieukien_dat_khong_tranh_chap",
+      "label": "ĐiềuKiện",
+      "name": "Đất không có tranh chấp"
+    },
+    {
+      "id": "dieukien_dat_khong_ke_bien",
+      "label": "ĐiềuKiện",
+      "name": "Đất không bị kê biên để bảo đảm thi hành án"
+    },
+    {
+      "id": "dieukien_dat_khong_ap_dung_bien_phap_khan_cap",
+      "label": "ĐiềuKiện",
+      "name": "Đất không bị áp dụng biện pháp khẩn cấp tạm thời của cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "dieukien_bao_dam_loi_di",
+      "label": "ĐiềuKiện",
+      "name": "Phải bảo đảm có lối đi"
+    },
+    {
+      "id": "dieukien_ket_noi_duong_giao_thong",
+      "label": "ĐiềuKiện",
+      "name": "Được kết nối với đường giao thông công cộng hiện có"
+    },
+    {
+      "id": "dieukien_bao_dam_cap_thoat_nuoc_khac",
+      "label": "ĐiềuKiện",
+      "name": "Bảo đảm cấp nước, thoát nước và nhu cầu cần thiết khác một cách hợp lý"
+    },
+    {
+      "id": "dieukien_phan_khong_tranh_chap_duoc_tach_hop",
+      "label": "ĐiềuKiện",
+      "name": "Phần diện tích, ranh giới còn lại không tranh chấp của thửa đất đó được phép tách thửa đất, hợp thửa đất (trong trường hợp đất có tranh chấp nhưng xác định được phạm vi)"
+    },
+    {
+      "id": "dieukien_khong_chuyen_muc_dich_dat_lam_loi_di",
+      "label": "ĐiềuKiện",
+      "name": "Người sử dụng đất dành một phần diện tích làm lối đi thì không phải thực hiện chuyển mục đích sử dụng đất đối với phần diện tích đó"
+    },
+    {
+      "id": "dieukien_sau_tach_dat_dat_dien_tich_toi_thieu",
+      "label": "ĐiềuKiện",
+      "name": "Các thửa đất sau khi tách thửa phải bảo đảm diện tích tối thiểu với loại đất đang sử dụng"
+    },
+    {
+      "id": "dieukien_tach_dat_nho_toi_thieu_phai_hop_thua_lien_ke",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất được tách có diện tích nhỏ hơn diện tích tối thiểu thì phải thực hiện đồng thời việc hợp thửa với thửa đất liền kề"
+    },
+    {
+      "id": "dieukien_chuyen_muc_dich_mot_phan_thi_tach_thua",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp chuyển mục đích sử dụng một phần thửa đất thì thực hiện tách thửa"
+    },
+    {
+      "id": "dieukien_dien_tich_sau_tach_bang_lon_hon_toi_thieu_sau_chuyen_muc_dich",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích tối thiểu của thửa đất sau khi tách phải bằng hoặc lớn hơn diện tích tối thiểu của loại đất sau khi chuyển mục đích sử dụng"
+    },
+    {
+      "id": "dieukien_khong_bat_buoc_tach_thua_khi_chuyen_muc_dich_dat_o_va_dat_khac",
+      "label": "ĐiềuKiện",
+      "name": "Không bắt buộc thực hiện tách thửa khi chuyển mục đích sử dụng một phần thửa đất đối với thửa đất có đất ở và đất khác (trừ khi người sử dụng đất có nhu cầu)"
+    },
+    {
+      "id": "dieukien_khong_tach_thua_khi_phan_chia_theo_ban_an_khong_bao_dam",
+      "label": "ĐiềuKiện",
+      "name": "Không thực hiện tách thửa khi phân chia quyền sử dụng đất theo bản án, quyết định của Tòa án mà việc phân chia không bảo đảm các điều kiện, diện tích, kích thước tách thửa"
+    },
+    {
+      "id": "dieukien_hop_thua_phai_cung_muc_dich_thoi_han_hinh_thuc_tra_tien",
+      "label": "ĐiềuKiện",
+      "name": "Việc hợp các thửa đất phải bảo đảm có cùng mục đích sử dụng đất, thời hạn sử dụng đất, hình thức trả tiền thuê đất"
+    },
+    {
+      "id": "dieukien_hop_thua_khac_muc_dich_phai_chuyen_doi_thong_nhat",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp hợp các thửa đất khác nhau về mục đích sử dụng đất, thời hạn sử dụng đất, hình thức trả tiền thuê đất thì phải thực hiện đồng thời với thủ tục chuyển đổi để thống nhất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_220",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tach_thua_dat"
+    },
+    {
+      "source_id": "dieu_220",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hop_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thua_dat_duoc_cap_gcn"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thua_dat_duoc_cap_gcn"
+    },
+    {
+      "source_id": "dieukien_thua_dat_duoc_cap_gcn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_thua_dat_duoc_cap_gcn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_giay_chung_nhan_quyen_so_huu_nha_o_va_quyen_su_dung_dat_o"
+    },
+    {
+      "source_id": "dieukien_thua_dat_duoc_cap_gcn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "dieukien_thua_dat_duoc_cap_gcn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thua_dat_con_thoi_han_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thua_dat_con_thoi_han_su_dung"
+    },
+    {
+      "source_id": "dieukien_thua_dat_con_thoi_han_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_tranh_chap"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_tranh_chap"
+    },
+    {
+      "source_id": "dieukien_dat_khong_tranh_chap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_tranh_chap_dat"
+    },
+    {
+      "source_id": "khainiem_tranh_chap_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_phan_khong_tranh_chap_duoc_tach_hop"
+    },
+    {
+      "source_id": "dieukien_phan_khong_tranh_chap_duoc_tach_hop",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_tach_thua_dat"
+    },
+    {
+      "source_id": "dieukien_phan_khong_tranh_chap_duoc_tach_hop",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_hop_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_ke_bien"
+    },
+    {
+      "source_id": "dieukien_dat_khong_ke_bien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_ap_dung_bien_phap_khan_cap"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_ap_dung_bien_phap_khan_cap"
+    },
+    {
+      "source_id": "dieukien_dat_khong_ap_dung_bien_phap_khan_cap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_bien_phap_khan_cap_tam_thoi"
+    },
+    {
+      "source_id": "dieukien_dat_khong_ap_dung_bien_phap_khan_cap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_bao_dam_loi_di"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_bao_dam_loi_di"
+    },
+    {
+      "source_id": "dieukien_bao_dam_loi_di",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_loi_di"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ket_noi_duong_giao_thong"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ket_noi_duong_giao_thong"
+    },
+    {
+      "source_id": "dieukien_ket_noi_duong_giao_thong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_duong_giao_thong_cong_cong"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_bao_dam_cap_thoat_nuoc_khac"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_bao_dam_cap_thoat_nuoc_khac"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_khong_chuyen_muc_dich_dat_lam_loi_di"
+    },
+    {
+      "source_id": "dieukien_khong_chuyen_muc_dich_dat_lam_loi_di",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_tach_thua_dat"
+    },
+    {
+      "source_id": "dieukien_khong_chuyen_muc_dich_dat_lam_loi_di",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_hop_thua_dat"
+    },
+    {
+      "source_id": "dieukien_khong_chuyen_muc_dich_dat_lam_loi_di",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_tach_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sau_tach_dat_dat_dien_tich_toi_thieu"
+    },
+    {
+      "source_id": "dieukien_sau_tach_dat_dat_dien_tich_toi_thieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_dien_tich_toi_thieu"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_sau_tach_dat_dat_dien_tich_toi_thieu"
+    },
+    {
+      "source_id": "dieukien_sau_tach_dat_dat_dien_tich_toi_thieu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_tach_dat_nho_toi_thieu_phai_hop_thua_lien_ke"
+    },
+    {
+      "source_id": "dieukien_tach_dat_nho_toi_thieu_phai_hop_thua_lien_ke",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_hop_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_chuyen_muc_dich_mot_phan_thi_tach_thua"
+    },
+    {
+      "source_id": "dieukien_chuyen_muc_dich_mot_phan_thi_tach_thua",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_tach_thua_dat"
+    },
+    {
+      "source_id": "dieukien_chuyen_muc_dich_mot_phan_thi_tach_thua",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dien_tich_sau_tach_bang_lon_hon_toi_thieu_sau_chuyen_muc_dich"
+    },
+    {
+      "source_id": "dieukien_dien_tich_sau_tach_bang_lon_hon_toi_thieu_sau_chuyen_muc_dich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_dien_tich_toi_thieu"
+    },
+    {
+      "source_id": "dieukien_dien_tich_sau_tach_bang_lon_hon_toi_thieu_sau_chuyen_muc_dich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_khong_bat_buoc_tach_thua_khi_chuyen_muc_dich_dat_o_va_dat_khac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_tach_thua_dat"
+    },
+    {
+      "source_id": "dieukien_khong_bat_buoc_tach_thua_khi_chuyen_muc_dich_dat_o_va_dat_khac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_khong_bat_buoc_tach_thua_khi_chuyen_muc_dich_dat_o_va_dat_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_phan_chia_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_toa_an"
+    },
+    {
+      "source_id": "khainiem_phan_chia_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_khong_tach_thua_khi_phan_chia_theo_ban_an_khong_bao_dam"
+    },
+    {
+      "source_id": "dieukien_khong_tach_thua_khi_phan_chia_theo_ban_an_khong_bao_dam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_tach_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hop_thua_phai_cung_muc_dich_thoi_han_hinh_thuc_tra_tien"
+    },
+    {
+      "source_id": "dieukien_hop_thua_phai_cung_muc_dich_thoi_han_hinh_thuc_tra_tien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_hop_thua_phai_cung_muc_dich_thoi_han_hinh_thuc_tra_tien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_hop_thua_phai_cung_muc_dich_thoi_han_hinh_thuc_tra_tien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_hinh_thuc_tra_tien_thue_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_hop_thua_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hop_thua_khac_muc_dich_phai_chuyen_doi_thong_nhat"
+    },
+    {
+      "source_id": "dieukien_hop_thua_khac_muc_dich_phai_chuyen_doi_thong_nhat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_hop_thua_khac_muc_dich_phai_chuyen_doi_thong_nhat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_dieu_chinh_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_hop_thua_khac_muc_dich_phai_chuyen_doi_thong_nhat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chuyen_hinh_thuc_tra_tien_thue_dat"
+    },
+    {
+      "source_id": "dieukien_hop_thua_khac_muc_dich_phai_chuyen_doi_thong_nhat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_hop_thua_khac_muc_dich_phai_chuyen_doi_thong_nhat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_hop_thua_khac_muc_dich_phai_chuyen_doi_thong_nhat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_hinh_thuc_tra_tien_thue_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_quy_dinh_cu_the_dieu_kien_dien_tich_toi_thieu"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_cu_the_dieu_kien_dien_tich_toi_thieu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_sau_tach_dat_dat_dien_tich_toi_thieu"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_cu_the_dieu_kien_dien_tich_toi_thieu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dien_tich_toi_thieu"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_cu_the_dieu_kien_dien_tich_toi_thieu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_tach_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_cu_the_dieu_kien_dien_tich_toi_thieu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_hop_thua_dat"
+    }
+  ]
+}

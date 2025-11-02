@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "id": "dieu_89",
+      "label": "ĐiềuLuật",
+      "properties": {
+        "ten": "Điều 89",
+        "noi_dung": "Bồi thường thiệt hại về nhà, công trình xây dựng trên đất khi Nhà nước thu hồi đất"
+      }
+    },
+    {
+      "id": "boi_thuong_thiet_hai_chung",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Bồi thường thiệt hại về nhà, công trình xây dựng trên đất"
+      }
+    },
+    {
+      "id": "nha_nuoc",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Nhà nước"
+      }
+    },
+    {
+      "id": "thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Thu hồi đất"
+      }
+    },
+    {
+      "id": "nha_o_cong_trinh_phuc_vu_sinh_hoat",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Nhà ở, công trình phục vụ sinh hoạt gắn liền với đất"
+      }
+    },
+    {
+      "id": "ho_gia_dinh",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "ca_nhan",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Cá nhân"
+      }
+    },
+    {
+      "id": "nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Người Việt Nam định cư ở nước ngoài"
+      }
+    },
+    {
+      "id": "thao_do",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Tháo dỡ toàn bộ hoặc một phần"
+      }
+    },
+    {
+      "id": "phan_con_lai_khong_bao_dam_tieu_chuan_ky_thuat",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Phần còn lại không bảo đảm tiêu chuẩn kỹ thuật"
+      }
+    },
+    {
+      "id": "boi_thuong_gia_tri_xay_dung_moi_tuong_duong",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Bồi thường bằng giá trị xây dựng mới của nhà ở, công trình có tiêu chuẩn kỹ thuật tương đương"
+      }
+    },
+    {
+      "id": "phan_con_lai_bao_dam_tieu_chuan_ky_thuat",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Phần còn lại vẫn bảo đảm tiêu chuẩn kỹ thuật"
+      }
+    },
+    {
+      "id": "boi_thuong_thiet_hai_thuc_te",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Bồi thường theo thiệt hại thực tế"
+      }
+    },
+    {
+      "id": "nha_cong_trinh_xay_dung_khac",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Nhà, công trình xây dựng khác gắn liền với đất"
+      }
+    },
+    {
+      "id": "khong_thuoc_truong_hop_khoan_1",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Không thuộc trường hợp quy định tại khoản 1 Điều này"
+      }
+    },
+    {
+      "id": "boi_thuong_thiet_hai_theo_quy_dinh_chinh_phu",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Bồi thường thiệt hại theo quy định của Chính phủ"
+      }
+    },
+    {
+      "id": "chinh_phu",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Chính phủ"
+      }
+    },
+    {
+      "id": "quy_dinh_cua_chinh_phu",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Quy định của Chính phủ"
+      }
+    },
+    {
+      "id": "cong_trinh_ha_tang_ky_thuat_ha_tang_xa_hoi",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Công trình hạ tầng kỹ thuật, hạ tầng xã hội gắn liền với đất"
+      }
+    },
+    {
+      "id": "dang_su_dung",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Đang sử dụng"
+      }
+    },
+    {
+      "id": "khong_thuoc_truong_hop_khoan_1_khoan_2",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Không thuộc trường hợp quy định tại khoản 1 và khoản 2 Điều này"
+      }
+    },
+    {
+      "id": "boi_thuong_gia_tri_xay_dung_moi_cong_trinh_tuong_duong",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Mức bồi thường tính bằng giá trị xây dựng mới của công trình có tiêu chuẩn kỹ thuật tương đương"
+      }
+    },
+    {
+      "id": "phap_luat_chuyen_nganh",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Pháp luật chuyên ngành"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_89",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "boi_thuong_thiet_hai_chung"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai_chung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thu_hoi_dat"
+    },
+    {
+      "source_id": "thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nha_nuoc"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai_chung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nha_o_cong_trinh_phuc_vu_sinh_hoat"
+    },
+    {
+      "source_id": "nha_o_cong_trinh_phuc_vu_sinh_hoat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh"
+    },
+    {
+      "source_id": "nha_o_cong_trinh_phuc_vu_sinh_hoat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ca_nhan"
+    },
+    {
+      "source_id": "nha_o_cong_trinh_phuc_vu_sinh_hoat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thao_do"
+    },
+    {
+      "source_id": "thao_do",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "phan_con_lai_khong_bao_dam_tieu_chuan_ky_thuat"
+    },
+    {
+      "source_id": "phan_con_lai_khong_bao_dam_tieu_chuan_ky_thuat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_gia_tri_xay_dung_moi_tuong_duong"
+    },
+    {
+      "source_id": "boi_thuong_gia_tri_xay_dung_moi_tuong_duong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh"
+    },
+    {
+      "source_id": "boi_thuong_gia_tri_xay_dung_moi_tuong_duong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ca_nhan"
+    },
+    {
+      "source_id": "boi_thuong_gia_tri_xay_dung_moi_tuong_duong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "thao_do",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "phan_con_lai_bao_dam_tieu_chuan_ky_thuat"
+    },
+    {
+      "source_id": "phan_con_lai_bao_dam_tieu_chuan_ky_thuat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_thiet_hai_thuc_te"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai_thuc_te",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ho_gia_dinh"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai_thuc_te",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "ca_nhan"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai_thuc_te",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai_chung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nha_cong_trinh_xay_dung_khac"
+    },
+    {
+      "source_id": "nha_cong_trinh_xay_dung_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khong_thuoc_truong_hop_khoan_1"
+    },
+    {
+      "source_id": "thao_do",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "phan_con_lai_khong_bao_dam_tieu_chuan_ky_thuat"
+    },
+    {
+      "source_id": "khong_thuoc_truong_hop_khoan_1",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_thiet_hai_theo_quy_dinh_chinh_phu"
+    },
+    {
+      "source_id": "phan_con_lai_khong_bao_dam_tieu_chuan_ky_thuat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_thiet_hai_theo_quy_dinh_chinh_phu"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai_theo_quy_dinh_chinh_phu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "quy_dinh_cua_chinh_phu"
+    },
+    {
+      "source_id": "chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quy_dinh_cua_chinh_phu"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai_chung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "cong_trinh_ha_tang_ky_thuat_ha_tang_xa_hoi"
+    },
+    {
+      "source_id": "cong_trinh_ha_tang_ky_thuat_ha_tang_xa_hoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dang_su_dung"
+    },
+    {
+      "source_id": "cong_trinh_ha_tang_ky_thuat_ha_tang_xa_hoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khong_thuoc_truong_hop_khoan_1_khoan_2"
+    },
+    {
+      "source_id": "dang_su_dung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_gia_tri_xay_dung_moi_cong_trinh_tuong_duong"
+    },
+    {
+      "source_id": "khong_thuoc_truong_hop_khoan_1_khoan_2",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_gia_tri_xay_dung_moi_cong_trinh_tuong_duong"
+    },
+    {
+      "source_id": "boi_thuong_gia_tri_xay_dung_moi_cong_trinh_tuong_duong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "phap_luat_chuyen_nganh"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "id": "dieu_182",
+      "label": "ĐiềuLuật",
+      "name": "Điều 182"
+    },
+    {
+      "id": "khainiem_quyen_va_nghia_vu_cua_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ của tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
+      "label": "ChủThể",
+      "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "id": "khainiem_quyen_va_nghia_vu_chung",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ chung"
+    },
+    {
+      "id": "dieu_166",
+      "label": "ĐiềuLuật",
+      "name": "Điều 166"
+    },
+    {
+      "id": "dieu_170",
+      "label": "ĐiềuLuật",
+      "name": "Điều 170"
+    },
+    {
+      "id": "hanhviphaply_xay_dung_cac_cong_trinh_tren_dat",
+      "label": "HànhViPhápLý",
+      "name": "Xây dựng các công trình trên đất"
+    },
+    {
+      "id": "dieukien_giay_phep_cua_co_quan_nha_nuoc_viet_nam_co_tham_quyen",
+      "label": "ĐiềuKiện",
+      "name": "giấy phép của cơ quan nhà nước Việt Nam có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_so_huu_cong_trinh_do_minh_xay_dung_tren_dat_thue",
+      "label": "HànhViPhápLý",
+      "name": "Sở hữu công trình do mình xây dựng trên đất thuê"
+    },
+    {
+      "id": "dieukien_trong_thoi_han_thue_dat",
+      "label": "ĐiềuKiện",
+      "name": "trong thời hạn thuê đất"
+    },
+    {
+      "id": "dieukien_dieu_uoc_quoc_te_quy_dinh_khac",
+      "label": "ĐiềuKiện",
+      "name": "điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác"
+    },
+    {
+      "id": "khainiem_quyen_va_nghia_vu_theo_dieu_uoc_quoc_te",
+      "label": "KháiNiệm",
+      "name": "quyền và nghĩa vụ theo điều ước quốc tế đó"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_182",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_va_nghia_vu_cua_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu_cua_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao"
+    },
+    {
+      "source_id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyen_va_nghia_vu_chung"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu_chung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_166"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu_chung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_170"
+    },
+    {
+      "source_id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xay_dung_cac_cong_trinh_tren_dat"
+    },
+    {
+      "source_id": "hanhviphaply_xay_dung_cac_cong_trinh_tren_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_giay_phep_cua_co_quan_nha_nuoc_viet_nam_co_tham_quyen"
+    },
+    {
+      "source_id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_so_huu_cong_trinh_do_minh_xay_dung_tren_dat_thue"
+    },
+    {
+      "source_id": "hanhviphaply_so_huu_cong_trinh_do_minh_xay_dung_tren_dat_thue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_thue_dat"
+    },
+    {
+      "source_id": "dieukien_dieu_uoc_quoc_te_quy_dinh_khac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_quyen_va_nghia_vu_theo_dieu_uoc_quoc_te"
+    },
+    {
+      "source_id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyen_va_nghia_vu_theo_dieu_uoc_quoc_te"
+    }
+  ]
+}

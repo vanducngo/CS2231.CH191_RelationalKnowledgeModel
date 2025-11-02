@@ -1,0 +1,151 @@
+{
+  "entities": [
+    {
+      "id": "dieu_181",
+      "label": "ĐiềuLuật",
+      "name": "Điều 181"
+    },
+    {
+      "id": "khainiem_quyen_va_nghia_vu_cua_co_so_ton_giao_cong_dong_dan_cu_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ của cơ sở tôn giáo, cộng đồng dân cư sử dụng đất"
+    },
+    {
+      "id": "chuthe_co_so_ton_giao_cong_dong_dan_cu",
+      "label": "ChủThể",
+      "name": "Cơ sở tôn giáo, cộng đồng dân cư"
+    },
+    {
+      "id": "khainiem_quyen_va_nghia_vu_chung",
+      "label": "KháiNiệm",
+      "name": "quyền và nghĩa vụ chung"
+    },
+    {
+      "id": "dieu_166",
+      "label": "ĐiềuLuật",
+      "name": "Điều 166"
+    },
+    {
+      "id": "dieu_170",
+      "label": "ĐiềuLuật",
+      "name": "Điều 170"
+    },
+    {
+      "id": "hanhvi_chuyen_doi_qsd_dat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển đổi quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_chuyen_nhuong_qsd_dat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_cho_thue_qsd_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_tang_cho_qsd_dat",
+      "label": "HànhViPhápLý",
+      "name": "tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_the_chap_qsd_dat",
+      "label": "HànhViPhápLý",
+      "name": "thế chấp quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_gop_von_bang_qsd_dat",
+      "label": "HànhViPhápLý",
+      "name": "góp vốn bằng quyền sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_181",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_quyen_va_nghia_vu_cua_co_so_ton_giao_cong_dong_dan_cu_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_181",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_va_nghia_vu_chung"
+    },
+    {
+      "source_id": "chuthe_co_so_ton_giao_cong_dong_dan_cu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyen_va_nghia_vu_chung"
+    },
+    {
+      "source_id": "dieu_166",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_va_nghia_vu_chung"
+    },
+    {
+      "source_id": "dieu_170",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_va_nghia_vu_chung"
+    },
+    {
+      "source_id": "dieu_181",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_chuyen_doi_qsd_dat"
+    },
+    {
+      "source_id": "dieu_181",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_chuyen_nhuong_qsd_dat"
+    },
+    {
+      "source_id": "dieu_181",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cho_thue_qsd_dat"
+    },
+    {
+      "source_id": "dieu_181",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_tang_cho_qsd_dat"
+    },
+    {
+      "source_id": "dieu_181",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_the_chap_qsd_dat"
+    },
+    {
+      "source_id": "dieu_181",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_gop_von_bang_qsd_dat"
+    },
+    {
+      "source_id": "hanhvi_chuyen_doi_qsd_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_so_ton_giao_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "hanhvi_chuyen_nhuong_qsd_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_so_ton_giao_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_qsd_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_so_ton_giao_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "hanhvi_tang_cho_qsd_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_so_ton_giao_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "hanhvi_the_chap_qsd_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_so_ton_giao_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "hanhvi_gop_von_bang_qsd_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_so_ton_giao_cong_dong_dan_cu"
+    }
+  ]
+}

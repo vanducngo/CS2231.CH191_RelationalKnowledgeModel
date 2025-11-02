@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "id": "dieu_244",
+      "label": "ĐiềuLuật",
+      "name": "Điều 244. Sửa đổi, bổ sung khoản 4 Điều 44 của Luật Thủy sản số 18/2017/QH14",
+      "description": "Thời hạn giao khu vực biển để nuôi trồng thủy sản không quá 50 năm, được tính từ ngày quyết định giao khu vực biển có hiệu lực. Khi hết thời hạn giao, tổ chức, cá nhân có nhu cầu tiếp tục sử dụng khu vực biển đã được giao để nuôi trồng thủy sản được Nhà nước xem xét gia hạn có thể gia hạn nhiều lần nhưng tổng thời gian gia hạn không quá 20 năm. Thời hạn giao khu vực biển cho tổ chức, cá nhân Việt Nam thực hiện nhiệm vụ khoa học và công nghệ phục vụ nuôi trồng thủy sản không quá thời hạn nhiệm vụ khoa học và công nghệ được cơ quan có thẩm quyền phê duyệt."
+    },
+    {
+      "id": "khainiem_thoihangiaokhuvucbien",
+      "label": "KháiNiệm",
+      "name": "Thời hạn giao khu vực biển",
+      "description": "Khoảng thời gian mà Nhà nước giao khu vực biển cho chủ thể sử dụng để nuôi trồng thủy sản hoặc thực hiện nhiệm vụ khoa học công nghệ."
+    },
+    {
+      "id": "khainiem_thoihangiahan",
+      "label": "KháiNiệm",
+      "name": "Thời hạn gia hạn",
+      "description": "Khoảng thời gian được cộng thêm sau khi hết thời hạn giao khu vực biển ban đầu, tổng cộng không quá 20 năm."
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChủThể",
+      "name": "Tổ chức, cá nhân",
+      "description": "Chủ thể được giao hoặc gia hạn khu vực biển để nuôi trồng thủy sản."
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước",
+      "description": "Chủ thể có thẩm quyền xem xét gia hạn việc sử dụng khu vực biển."
+    },
+    {
+      "id": "chuthe_tochuccanhanvietnam",
+      "label": "ChủThể",
+      "name": "Tổ chức, cá nhân Việt Nam",
+      "description": "Chủ thể được giao khu vực biển để thực hiện nhiệm vụ khoa học và công nghệ."
+    },
+    {
+      "id": "hanhviphaply_giaokhuvucbien",
+      "label": "HànhViPhápLý",
+      "name": "Giao khu vực biển để nuôi trồng thủy sản",
+      "description": "Hành vi pháp lý của cơ quan nhà nước có thẩm quyền giao quyền sử dụng một khu vực biển cho tổ chức, cá nhân để nuôi trồng thủy sản."
+    },
+    {
+      "id": "hanhviphaply_giahan",
+      "label": "HànhViPhápLý",
+      "name": "Gia hạn sử dụng khu vực biển",
+      "description": "Hành vi pháp lý của Nhà nước xem xét và cho phép tổ chức, cá nhân tiếp tục sử dụng khu vực biển sau khi hết thời hạn giao ban đầu."
+    },
+    {
+      "id": "hanhviphaply_giaokhuvucbien_khcn",
+      "label": "HànhViPhápLý",
+      "name": "Giao khu vực biển để thực hiện nhiệm vụ khoa học và công nghệ",
+      "description": "Hành vi pháp lý giao khu vực biển cho tổ chức, cá nhân Việt Nam để thực hiện nhiệm vụ khoa học công nghệ phục vụ nuôi trồng thủy sản."
+    },
+    {
+      "id": "dieukien_khongqua50nam",
+      "label": "ĐiềuKiện",
+      "name": "Thời hạn giao không quá 50 năm",
+      "description": "Điều kiện về thời hạn tối đa cho lần giao khu vực biển đầu tiên để nuôi trồng thủy sản."
+    },
+    {
+      "id": "dieukien_khongqua20nam",
+      "label": "ĐiềuKiện",
+      "name": "Tổng thời gian gia hạn không quá 20 năm",
+      "description": "Điều kiện về tổng thời gian gia hạn tối đa cho việc sử dụng khu vực biển."
+    },
+    {
+      "id": "dieukien_hetthoihangiao",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn giao",
+      "description": "Điều kiện tiên quyết để một chủ thể có thể được xem xét gia hạn sử dụng khu vực biển."
+    },
+    {
+      "id": "dieukien_conhucautieptucsudung",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu tiếp tục sử dụng",
+      "description": "Điều kiện về ý chí của chủ thể để được xem xét gia hạn."
+    },
+    {
+      "id": "dieukien_khongquathoihannhiemvu",
+      "label": "ĐiềuKiện",
+      "name": "Không quá thời hạn nhiệm vụ khoa học và công nghệ được phê duyệt",
+      "description": "Điều kiện về thời hạn giao khu vực biển gắn với thời hạn của nhiệm vụ khoa học công nghệ đã được cơ quan có thẩm quyền phê duyệt."
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_244",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoihangiaokhuvucbien"
+    },
+    {
+      "source_id": "dieu_244",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoihangiahan"
+    },
+    {
+      "source_id": "dieu_244",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giaokhuvucbien"
+    },
+    {
+      "source_id": "dieu_244",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giahan"
+    },
+    {
+      "source_id": "dieu_244",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giaokhuvucbien_khcn"
+    },
+    {
+      "source_id": "hanhviphaply_giaokhuvucbien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuccanhan"
+    },
+    {
+      "source_id": "hanhviphaply_giaokhuvucbien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongqua50nam"
+    },
+    {
+      "source_id": "hanhviphaply_giahan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuccanhan"
+    },
+    {
+      "source_id": "hanhviphaply_giahan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hetthoihangiao"
+    },
+    {
+      "source_id": "hanhviphaply_giahan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_conhucautieptucsudung"
+    },
+    {
+      "source_id": "hanhviphaply_giahan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongqua20nam"
+    },
+    {
+      "source_id": "hanhviphaply_giaokhuvucbien_khcn",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuccanhanvietnam"
+    },
+    {
+      "source_id": "hanhviphaply_giaokhuvucbien_khcn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongquathoihannhiemvu"
+    }
+  ]
+}

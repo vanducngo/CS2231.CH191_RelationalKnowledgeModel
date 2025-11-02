@@ -1,0 +1,276 @@
+{
+  "entities": [
+    {
+      "id": "dieu_194",
+      "label": "ĐiềuLuật",
+      "name": "Điều 194"
+    },
+    {
+      "id": "khauniem_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung",
+      "label": "KháiNiệm",
+      "name": "Khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung"
+    },
+    {
+      "id": "khauniem_khuvuc_thuchien_cac_nhiemvu_lienquan_nongsan_lamsan_thuysan_haisan",
+      "label": "KháiNiệm",
+      "name": "khu vực thực hiện một hoặc các nhiệm vụ nghiên cứu, thực nghiệm, nuôi, trồng, sản xuất, bảo quản, chế biến, dịch vụ kho bãi cho nông sản, lâm sản, thủy sản, hải sản"
+    },
+    {
+      "id": "hanhviphaply_sudungdat_xaydung_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất xây dựng khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung"
+    },
+    {
+      "id": "dieukien_phuhop_quyhoach_kehoach_sudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "chuthe_coquan_cothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_chothuedat_lam_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất sử dụng làm khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung"
+    },
+    {
+      "id": "dieukien_thuchien_duan_dautu_xaydung_kinhdoanh_kethaha_chothuelai",
+      "label": "ĐiềuKiện",
+      "name": "Thực hiện dự án đầu tư xây dựng kinh doanh kết cấu hạ tầng khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung để cho thuê lại"
+    },
+    {
+      "id": "dieukien_thuchien_duan_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung",
+      "label": "ĐiềuKiện",
+      "name": "Thực hiện dự án khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung"
+    },
+    {
+      "id": "chuthe_nha_dautu",
+      "label": "ChủThể",
+      "name": "Nhà đầu tư"
+    },
+    {
+      "id": "hanhviphaply_chothuelai_dat",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê lại đất"
+    },
+    {
+      "id": "dieukien_duoc_nhanuoc_chothuedat_tra_tien_hangnam",
+      "label": "ĐiềuKiện",
+      "name": "Được Nhà nước cho thuê đất theo hình thức trả tiền thuê đất hằng năm"
+    },
+    {
+      "id": "khauniem_hinhthuc_tratiente_hangnam",
+      "label": "KháiNiệm",
+      "name": "Hình thức trả tiền thuê đất hằng năm"
+    },
+    {
+      "id": "dieukien_duoc_nhanuoc_chothuedat_thu_tien_motlan",
+      "label": "ĐiềuKiện",
+      "name": "Được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "khauniem_hinhthuc_tratiente_motlan",
+      "label": "KháiNiệm",
+      "name": "Hình thức trả tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "chuthe_nguoi_thuelai_dat",
+      "label": "ChủThể",
+      "name": "Người thuê lại đất"
+    },
+    {
+      "id": "khauniem_quyen_va_nghiavu",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ"
+    },
+    {
+      "id": "dieu_33",
+      "label": "ĐiềuLuật",
+      "name": "Điều 33 của Luật này"
+    },
+    {
+      "id": "dieu_34",
+      "label": "ĐiềuLuật",
+      "name": "Điều 34 của Luật này"
+    },
+    {
+      "id": "chuthe_nguoi_sudung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_sudungdat_dungmucdich",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất đúng mục đích đã được xác định"
+    },
+    {
+      "id": "hanhviphaply_duoc_cap_giay_chungnhan_quyen_sudungdat_quyen_sohuu_taisanganlien",
+      "label": "HànhViPhápLý",
+      "name": "Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khauniem_giay_chungnhan_quyen_sudungdat_quyen_sohuu_taisanganlien",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quydinh_chitiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_194",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung"
+    },
+    {
+      "source_id": "khauniem_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_khuvuc_thuchien_cac_nhiemvu_lienquan_nongsan_lamsan_thuysan_haisan"
+    },
+    {
+      "source_id": "dieu_194",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sudungdat_xaydung_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat_xaydung_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhop_quyhoach_kehoach_sudungdat"
+    },
+    {
+      "source_id": "dieukien_phuhop_quyhoach_kehoach_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquan_cothamquyen"
+    },
+    {
+      "source_id": "dieu_194",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chothuedat_lam_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chothuedat_lam_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat_lam_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_duan_dautu_xaydung_kinhdoanh_kethaha_chothuelai"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat_lam_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_duan_khunuoi_trong_sanxuat_chebien_nongsan_lamsan_thuysan_haisan_tapttrung"
+    },
+    {
+      "source_id": "dieu_194",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nha_dautu"
+    },
+    {
+      "source_id": "chuthe_nha_dautu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chothuelai_dat"
+    },
+    {
+      "source_id": "dieukien_duoc_nhanuoc_chothuedat_tra_tien_hangnam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_dautu"
+    },
+    {
+      "source_id": "dieukien_duoc_nhanuoc_chothuedat_tra_tien_hangnam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_hinhthuc_tratiente_hangnam"
+    },
+    {
+      "source_id": "dieukien_duoc_nhanuoc_chothuedat_thu_tien_motlan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_dautu"
+    },
+    {
+      "source_id": "dieukien_duoc_nhanuoc_chothuedat_thu_tien_motlan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_hinhthuc_tratiente_motlan"
+    },
+    {
+      "source_id": "dieukien_duoc_nhanuoc_chothuedat_thu_tien_motlan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_hinhthuc_tratiente_hangnam"
+    },
+    {
+      "source_id": "dieu_194",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_thuelai_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_thuelai_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quyen_va_nghiavu"
+    },
+    {
+      "source_id": "khauniem_hinhthuc_tratiente_motlan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_thuelai_dat"
+    },
+    {
+      "source_id": "khauniem_hinhthuc_tratiente_motlan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_33"
+    },
+    {
+      "source_id": "khauniem_hinhthuc_tratiente_hangnam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_thuelai_dat"
+    },
+    {
+      "source_id": "khauniem_hinhthuc_tratiente_hangnam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_34"
+    },
+    {
+      "source_id": "dieu_194",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_sudung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_sudung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_sudungdat_dungmucdich"
+    },
+    {
+      "source_id": "chuthe_nguoi_sudung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duoc_cap_giay_chungnhan_quyen_sudungdat_quyen_sohuu_taisanganlien"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_cap_giay_chungnhan_quyen_sudungdat_quyen_sohuu_taisanganlien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_giay_chungnhan_quyen_sudungdat_quyen_sohuu_taisanganlien"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quydinh_chitiet"
+    },
+    {
+      "source_id": "hanhviphaply_quydinh_chitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_194"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "entities": [
+    {
+      "id": "dieu_140",
+      "label": "ĐiềuLuật",
+      "name": "Điều 140 Luật Đất đai 2024"
+    },
+    {
+      "id": "dieu_138",
+      "label": "ĐiềuLuật",
+      "name": "Điều 138 Luật Đất đai 2024"
+    },
+    {
+      "id": "dieu_195",
+      "label": "ĐiềuLuật",
+      "name": "Điều 195 Luật Đất đai 2024"
+    },
+    {
+      "id": "dieu_196",
+      "label": "ĐiềuLuật",
+      "name": "Điều 196 Luật Đất đai 2024"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người đang sử dụng đất"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_dat_giao_khong_dung_tham_quyen",
+      "label": "KháiNiệm",
+      "name": "Đất được giao không đúng thẩm quyền"
+    },
+    {
+      "id": "khainiem_han_muc_giao_dat_o",
+      "label": "KháiNiệm",
+      "name": "Hạn mức giao đất ở"
+    },
+    {
+      "id": "khainiem_nghia_vu_tai_chinh",
+      "label": "KháiNiệm",
+      "name": "Nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhvi_cap_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "hanhvi_thuc_hien_nghia_vu_tai_chinh",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhvi_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    },
+    {
+      "id": "chetai_khong_cap_giay_chung_nhan",
+      "label": "ChếTài",
+      "name": "Không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieukien_su_dung_on_dinh_truoc_1993",
+      "label": "ĐiềuKiện",
+      "name": "Đất đã được sử dụng ổn định trước ngày 15 tháng 10 năm 1993"
+    },
+    {
+      "id": "dieukien_su_dung_on_dinh_tu_1993_den_2004",
+      "label": "ĐiềuKiện",
+      "name": "Đất đã được sử dụng ổn định từ ngày 15 tháng 10 năm 1993 đến trước ngày 01 tháng 7 năm 2004"
+    },
+    {
+      "id": "dieukien_su_dung_on_dinh_tu_2004_den_2014",
+      "label": "ĐiềuKiện",
+      "name": "Đất đã được sử dụng ổn định từ ngày 01 tháng 7 năm 2004 đến trước ngày 01 tháng 7 năm 2014"
+    },
+    {
+      "id": "dieukien_giao_dat_tu_2014_den_hieu_luc",
+      "label": "ĐiềuKiện",
+      "name": "Đất được giao từ ngày 01 tháng 7 năm 2014 đến trước ngày Luật có hiệu lực thi hành"
+    },
+    {
+      "id": "dieukien_giao_dat_sau_2014",
+      "label": "ĐiềuKiện",
+      "name": "Đất đã giao, cho thuê không đúng thẩm quyền từ ngày 01 tháng 7 năm 2014 trở về sau"
+    },
+    {
+      "id": "dieukien_khong_co_tranh_chap",
+      "label": "ĐiềuKiện",
+      "name": "Đất không có tranh chấp và được UBND cấp xã xác nhận"
+    },
+    {
+      "id": "dieukien_phu_hop_quy_hoach",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với quy hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_da_nop_tien_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "Có giấy tờ chứng minh đã nộp tiền để được sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_giao_khong_dung_tham_quyen"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_su_dung_on_dinh_truoc_1993"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_su_dung_on_dinh_tu_1993_den_2004"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_su_dung_on_dinh_tu_2004_den_2014"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_giao_dat_tu_2014_den_hieu_luc"
+    },
+    {
+      "source_id": "dieukien_su_dung_on_dinh_truoc_1993",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "dieukien_su_dung_on_dinh_tu_1993_den_2004",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "dieukien_su_dung_on_dinh_tu_1993_den_2004",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_quy_hoach"
+    },
+    {
+      "source_id": "dieukien_su_dung_on_dinh_tu_2004_den_2014",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "dieukien_su_dung_on_dinh_tu_2004_den_2014",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_quy_hoach"
+    },
+    {
+      "source_id": "dieukien_giao_dat_tu_2014_den_hieu_luc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "dieukien_giao_dat_tu_2014_den_hieu_luc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_quy_hoach"
+    },
+    {
+      "source_id": "dieukien_giao_dat_tu_2014_den_hieu_luc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_da_nop_tien_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_khong_co_tranh_chap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa"
+    },
+    {
+      "source_id": "dieukien_giao_dat_sau_2014",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chetai_khong_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuc_hien_nghia_vu_tai_chinh"
+    },
+    {
+      "source_id": "hanhvi_thuc_hien_nghia_vu_tai_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_140"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_138"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_195"
+    },
+    {
+      "source_id": "dieu_140",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_196"
+    }
+  ]
+}

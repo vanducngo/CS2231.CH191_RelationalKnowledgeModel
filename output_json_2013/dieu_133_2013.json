@@ -1,0 +1,501 @@
+{
+  "entities": [
+    {
+      "id": "dieu_133",
+      "label": "ĐiềuLuật",
+      "name": "Điều 133"
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KháiNiệm",
+      "name": "Đất nông nghiệp"
+    },
+    {
+      "id": "khainiem_sanxuatnongnghiep",
+      "label": "KháiNiệm",
+      "name": "Sản xuất nông nghiệp"
+    },
+    {
+      "id": "khainiem_lamnghiep",
+      "label": "KháiNiệm",
+      "name": "Lâm nghiệp"
+    },
+    {
+      "id": "khainiem_nuoitrongthuysan",
+      "label": "KháiNiệm",
+      "name": "Nuôi trồng thủy sản"
+    },
+    {
+      "id": "khainiem_lammuoi",
+      "label": "KháiNiệm",
+      "name": "Làm muối"
+    },
+    {
+      "id": "khainiem_ngayluathieuluc",
+      "label": "KháiNiệm",
+      "name": "Ngày Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "khainiem_phuongansudungdat",
+      "label": "KháiNiệm",
+      "name": "Phương án sử dụng đất"
+    },
+    {
+      "id": "khainiem_dientichsudung",
+      "label": "KháiNiệm",
+      "name": "Diện tích sử dụng"
+    },
+    {
+      "id": "khainiem_ranhgioisudung",
+      "label": "KháiNiệm",
+      "name": "Ranh giới sử dụng"
+    },
+    {
+      "id": "khainiem_dientichdatgiulaisudung",
+      "label": "KháiNiệm",
+      "name": "Diện tích đất được giữ lại sử dụng"
+    },
+    {
+      "id": "khainiem_thoihansudungdat",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất"
+    },
+    {
+      "id": "khainiem_dientichdatbanggiaochodiaphuong",
+      "label": "KháiNiệm",
+      "name": "Diện tích đất bàn giao cho địa phương"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức (kinh tế, sự nghiệp công lập)"
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChủThể",
+      "name": "Người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChủThể",
+      "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_dantoc_thieuso",
+      "label": "ChủThể",
+      "name": "Dân tộc thiểu số"
+    },
+    {
+      "id": "hanhviphaply_sudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_giaodat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất"
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_thuchien_duan_dautu",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện dự án đầu tư"
+    },
+    {
+      "id": "hanhviphaply_rasoathientrangsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Rà soát hiện trạng sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_lapphuongansudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Lập phương án sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chidao_pheduyet_phuongansd",
+      "label": "HànhViPhápLý",
+      "name": "Chỉ đạo và phê duyệt phương án sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_chuyensangthuedat",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển sang thuê đất"
+    },
+    {
+      "id": "dieukien_nhucausudungdat_sxnn_lm_ntts_lm",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu sử dụng đất để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối"
+    },
+    {
+      "id": "dieukien_duocgiaodat_chothuedat_truoc_luat",
+      "label": "ĐiềuKiện",
+      "name": "Đã được Nhà nước giao đất, cho thuê đất trước ngày Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "dieukien_datkhongsudung",
+      "label": "ĐiềuKiện",
+      "name": "Đất không sử dụng"
+    },
+    {
+      "id": "dieukien_sudungkhongdungmucdich",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng không đúng mục đích"
+    },
+    {
+      "id": "dieukien_giaokhoantraiphapluat",
+      "label": "ĐiềuKiện",
+      "name": "Giao khoán trái pháp luật"
+    },
+    {
+      "id": "dieukien_chothuetraiphapluat",
+      "label": "ĐiềuKiện",
+      "name": "Cho thuê trái pháp luật"
+    },
+    {
+      "id": "dieukien_chomuontraiphapluat",
+      "label": "ĐiềuKiện",
+      "name": "Cho mượn trái pháp luật"
+    },
+    {
+      "id": "dieukien_bilan",
+      "label": "ĐiềuKiện",
+      "name": "Bị lấn"
+    },
+    {
+      "id": "dieukien_bichiem",
+      "label": "ĐiềuKiện",
+      "name": "Bị chiếm"
+    },
+    {
+      "id": "dieukien_khongcodatsanxuat",
+      "label": "ĐiềuKiện",
+      "name": "Không có đất sản xuất"
+    },
+    {
+      "id": "dieukien_thieudatsanxuatoadiaphuong",
+      "label": "ĐiềuKiện",
+      "name": "Thiếu đất sản xuất ở địa phương"
+    },
+    {
+      "id": "dieukien_duocgiaodat_khongthutien",
+      "label": "ĐiềuKiện",
+      "name": "Đã được Nhà nước giao đất không thu tiền sử dụng đất trước ngày Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "chetai_uutien_hogiadinh_canhan_dantoc_thieuso",
+      "label": "ChếTài",
+      "name": "Ưu tiên hộ gia đình, cá nhân là dân tộc thiểu số không có đất hoặc thiếu đất sản xuất ở địa phương"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_133",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_datnongnghiep"
+    },
+    {
+      "source_id": "dieu_133",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "dieu_133",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai"
+    },
+    {
+      "source_id": "dieu_133",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai"
+    },
+    {
+      "source_id": "dieu_133",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_uybannhandancaptinh"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_sudungdat"
+    },
+    {
+      "source_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_sudungdat"
+    },
+    {
+      "source_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_sudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_sanxuatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_lamnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_nuoitrongthuysan"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_lammuoi"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nhucausudungdat_sxnn_lm_ntts_lm"
+    },
+    {
+      "source_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nhucausudungdat_sxnn_lm_ntts_lm"
+    },
+    {
+      "source_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nhucausudungdat_sxnn_lm_ntts_lm"
+    },
+    {
+      "source_id": "dieukien_nhucausudungdat_sxnn_lm_ntts_lm",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chothuedat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chothuedat"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuchien_duan_dautu"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duocgiaodat_chothuedat_truoc_luat"
+    },
+    {
+      "source_id": "dieukien_duocgiaodat_chothuedat_truoc_luat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_rasoathientrangsudungdat"
+    },
+    {
+      "source_id": "dieukien_duocgiaodat_chothuedat_truoc_luat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_lapphuongansudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_rasoathientrangsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "hanhviphaply_lapphuongansudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "khainiem_phuongansudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dientichsudung"
+    },
+    {
+      "source_id": "khainiem_phuongansudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_ranhgioisudung"
+    },
+    {
+      "source_id": "khainiem_phuongansudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dientichdatgiulaisudung"
+    },
+    {
+      "source_id": "khainiem_phuongansudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_thoihansudungdat"
+    },
+    {
+      "source_id": "khainiem_phuongansudungdat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dientichdatbanggiaochodiaphuong"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chidao_pheduyet_phuongansd"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giaodat"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chothuedat"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_datkhongsudung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_sudungkhongdungmucdich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_giaokhoantraiphapluat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_chothuetraiphapluat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_chomuontraiphapluat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_bilan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "dieukien_bichiem",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_giaodat"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chothuedat"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "hanhviphaply_giaodat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetai_uutien_hogiadinh_canhan_dantoc_thieuso"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetai_uutien_hogiadinh_canhan_dantoc_thieuso"
+    },
+    {
+      "source_id": "chetai_uutien_hogiadinh_canhan_dantoc_thieuso",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinh"
+    },
+    {
+      "source_id": "chetai_uutien_hogiadinh_canhan_dantoc_thieuso",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_dantoc_thieuso",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongcodatsanxuat"
+    },
+    {
+      "source_id": "chuthe_dantoc_thieuso",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thieudatsanxuatoadiaphuong"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duocgiaodat_khongthutien"
+    },
+    {
+      "source_id": "dieukien_duocgiaodat_khongthutien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chuyensangthuedat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyensangthuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    }
+  ]
+}

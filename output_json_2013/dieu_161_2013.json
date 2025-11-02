@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "id": "dieu_161",
+      "label": "ĐiềuLuật",
+      "name": "Điều 161"
+    },
+    {
+      "id": "khauniem_dat_xay_dung_cong_trinh_ngam",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng công trình ngầm"
+    },
+    {
+      "id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng đất để xây dựng công trình ngầm"
+    },
+    {
+      "id": "dieukien_phu_hop_voi_quy_hoach_xay_dung_cong_trinh_ngam",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với quy hoạch xây dựng công trình ngầm"
+    },
+    {
+      "id": "dieukien_phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_phu_hop_voi_cac_quy_hoach_khac_co_lien_quan",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với các quy hoạch khác có liên quan"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê đất"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_161",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_dat_xay_dung_cong_trinh_ngam"
+    },
+    {
+      "source_id": "dieu_161",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_voi_quy_hoach_xay_dung_cong_trinh_ngam"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_voi_cac_quy_hoach_khac_co_lien_quan"
+    },
+    {
+      "source_id": "dieukien_phu_hop_voi_quy_hoach_xay_dung_cong_trinh_ngam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "dieukien_phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "dieukien_phu_hop_voi_cac_quy_hoach_khac_co_lien_quan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "dieu_161",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giao_dat"
+    },
+    {
+      "source_id": "dieu_161",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cho_thue_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giao_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cho_thue_dat"
+    },
+    {
+      "source_id": "hanhviphaply_giao_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_dat_xay_dung_cong_trinh_ngam"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_dat_xay_dung_cong_trinh_ngam"
+    },
+    {
+      "source_id": "hanhviphaply_giao_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chinh_phu"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chinh_phu"
+    }
+  ]
+}

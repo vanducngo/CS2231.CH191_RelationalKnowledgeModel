@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_128",
+      "label": "ĐiềuLuật",
+      "name": "Điều 128"
+    },
+    {
+      "id": "khauniem_thoihansudungdatkhinhanchuyenquyen",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_loaidatcoquydinhthoihan",
+      "label": "ĐiềuKiện",
+      "name": "loại đất có quy định thời hạn"
+    },
+    {
+      "id": "khauniem_thoigiansudungdatconlai",
+      "label": "KháiNiệm",
+      "name": "thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoinhanchuyenquyen",
+      "label": "ChủThể",
+      "name": "Người nhận chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_loaidatduocsudungoninhlaudai",
+      "label": "ĐiềuKiện",
+      "name": "loại đất được sử dụng ổn định lâu dài"
+    },
+    {
+      "id": "khauniem_sudungdatoninhlaudai",
+      "label": "KháiNiệm",
+      "name": "sử dụng đất ổn định lâu dài"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_128",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_thoihansudungdatkhinhanchuyenquyen"
+    },
+    {
+      "source_id": "khauniem_thoihansudungdatkhinhanchuyenquyen",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_thoigiansudungdatconlai"
+    },
+    {
+      "source_id": "dieukien_loaidatcoquydinhthoihan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_thoihansudungdatkhinhanchuyenquyen"
+    },
+    {
+      "source_id": "dieu_128",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoinhanchuyenquyen"
+    },
+    {
+      "source_id": "chuthe_nguoinhanchuyenquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_loaidatduocsudungoninhlaudai"
+    },
+    {
+      "source_id": "dieukien_loaidatduocsudungoninhlaudai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_sudungdatoninhlaudai"
+    },
+    {
+      "source_id": "chuthe_nguoinhanchuyenquyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_sudungdatoninhlaudai"
+    }
+  ]
+}

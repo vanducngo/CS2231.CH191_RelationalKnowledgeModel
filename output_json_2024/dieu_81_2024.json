@@ -1,0 +1,376 @@
+{
+  "entities": [
+    {
+      "id": "dieu_81",
+      "label": "ĐiềuLuật",
+      "name": "Điều 81"
+    },
+    {
+      "id": "khainiem_thuhoitdatviphamphapluat",
+      "label": "KháiNiệm",
+      "name": "Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "khainiem_datgiaothuekhongdung",
+      "label": "KháiNiệm",
+      "name": "Đất được giao, cho thuê không đúng đối tượng hoặc không đúng thẩm quyền"
+    },
+    {
+      "id": "khainiem_datduocnhanuocgiaquanly",
+      "label": "KháiNiệm",
+      "name": "Đất được Nhà nước giao quản lý"
+    },
+    {
+      "id": "khainiem_dattongcayhangnam",
+      "label": "KháiNiệm",
+      "name": "Đất trồng cây hằng năm"
+    },
+    {
+      "id": "khainiem_datnuoitongthuysan",
+      "label": "KháiNiệm",
+      "name": "Đất nuôi trồng thủy sản"
+    },
+    {
+      "id": "khainiem_dattongcaylaunam",
+      "label": "KháiNiệm",
+      "name": "Đất trồng cây lâu năm"
+    },
+    {
+      "id": "khainiem_dattongrung",
+      "label": "KháiNiệm",
+      "name": "Đất trồng rừng"
+    },
+    {
+      "id": "khainiem_datduandautu",
+      "label": "KháiNiệm",
+      "name": "Đất để thực hiện dự án đầu tư"
+    },
+    {
+      "id": "khainiem_batkhakhang",
+      "label": "KháiNiệm",
+      "name": "trường hợp bất khả kháng"
+    },
+    {
+      "id": "khainiem_mientru_batkhakhang_khoan678",
+      "label": "KháiNiệm",
+      "name": "Miễn trừ bất khả kháng cho khoản 6, 7 và 8"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_chudautu",
+      "label": "ChủThể",
+      "name": "chủ đầu tư"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphl_sudungdatkhongdungmucdich_taipham",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất không đúng mục đích và tái phạm"
+    },
+    {
+      "id": "hanhviphl_huyhoaidat_taipham",
+      "label": "HànhViPhápLý",
+      "name": "Hủy hoại đất và tái phạm"
+    },
+    {
+      "id": "hanhviphl_nhanchuyennhuong_traituongphap",
+      "label": "HànhViPhápLý",
+      "name": "Nhận chuyển nhượng, tặng cho từ người không được phép"
+    },
+    {
+      "id": "hanhviphl_dedatbilanchiem",
+      "label": "HànhViPhápLý",
+      "name": "Để đất bị lấn đất, chiếm đất"
+    },
+    {
+      "id": "hanhviphl_khongthuchiennghiatuvitaichinh",
+      "label": "HànhViPhápLý",
+      "name": "Không thực hiện nghĩa vụ tài chính với Nhà nước"
+    },
+    {
+      "id": "hanhviphl_khongsudungdat_quathoiandinh",
+      "label": "HànhViPhápLý",
+      "name": "Không sử dụng đất trong thời hạn quy định"
+    },
+    {
+      "id": "hanhviphl_viphamtiendo_duandautu",
+      "label": "HànhViPhápLý",
+      "name": "Vi phạm tiến độ dự án đầu tư"
+    },
+    {
+      "id": "hanhviphl_quydinhchitiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết Điều này"
+    },
+    {
+      "id": "chetasi_thuhoitdat_khongboithuong",
+      "label": "ChếTài",
+      "name": "Thu hồi đất mà không bồi thường"
+    },
+    {
+      "id": "dieukien_daxuphat_sdkhongdungmd",
+      "label": "ĐiềuKiện",
+      "name": "Đã bị xử phạt vi phạm hành chính về hành vi sử dụng đất không đúng mục đích"
+    },
+    {
+      "id": "dieukien_tieptucvipham_sdkhongdungmd",
+      "label": "ĐiềuKiện",
+      "name": "Tiếp tục vi phạm (sử dụng đất không đúng mục đích)"
+    },
+    {
+      "id": "dieukien_daxuphat_huyhoaidat",
+      "label": "ĐiềuKiện",
+      "name": "Đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất"
+    },
+    {
+      "id": "dieukien_tieptucvipham_huyhoaidat",
+      "label": "ĐiềuKiện",
+      "name": "Tiếp tục vi phạm (hủy hoại đất)"
+    },
+    {
+      "id": "dieukien_nguoikhongduocchuyennhuong",
+      "label": "ĐiềuKiện",
+      "name": "Người được Nhà nước giao đất, cho thuê đất không được chuyển nhượng, tặng cho"
+    },
+    {
+      "id": "dieukien_sd12thang_cayhangnam_thuysan",
+      "label": "ĐiềuKiện",
+      "name": "Không được sử dụng trong 12 tháng liên tục (đất trồng cây hằng năm, nuôi trồng thủy sản)"
+    },
+    {
+      "id": "dieukien_sd18thang_caylaunam",
+      "label": "ĐiềuKiện",
+      "name": "Không được sử dụng trong 18 tháng liên tục (đất trồng cây lâu năm)"
+    },
+    {
+      "id": "dieukien_sd24thang_trongrung",
+      "label": "ĐiềuKiện",
+      "name": "Không được sử dụng trong 24 tháng liên tục (đất trồng rừng)"
+    },
+    {
+      "id": "dieukien_daxuphat_khongduavaosudung",
+      "label": "ĐiềuKiện",
+      "name": "Đã bị xử phạt vi phạm hành chính mà không đưa đất vào sử dụng"
+    },
+    {
+      "id": "dieukien_sd12thang_tupangiaodatduan",
+      "label": "ĐiềuKiện",
+      "name": "Không được sử dụng 12 tháng liên tục kể từ khi nhận bàn giao đất trên thực địa (đất dự án)"
+    },
+    {
+      "id": "dieukien_chamtienro24thang_duandautu",
+      "label": "ĐiềuKiện",
+      "name": "Tiến độ sử dụng đất chậm 24 tháng so với tiến độ ghi trong dự án đầu tư"
+    },
+    {
+      "id": "dieukien_duocgiahan_khongqua24thang",
+      "label": "ĐiềuKiện",
+      "name": "Được gia hạn sử dụng không quá 24 tháng"
+    },
+    {
+      "id": "dieukien_phainop_bosungtien_giahan",
+      "label": "ĐiềuKiện",
+      "name": "Phải nộp bổ sung tiền cho thời gian được gia hạn"
+    },
+    {
+      "id": "dieukien_hetgiahan_vankhong_sudung",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn được gia hạn mà vẫn chưa đưa đất vào sử dụng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_81",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thuhoitdatviphamphapluat"
+    },
+    {
+      "source_id": "dieu_81",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_mientru_batkhakhang_khoan678"
+    },
+    {
+      "source_id": "dieu_81",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphl_quydinhchitiet"
+    },
+    {
+      "source_id": "hanhviphl_quydinhchitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinhphu"
+    },
+    {
+      "source_id": "khainiem_thuhoitdatviphamphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphl_sudungdatkhongdungmucdich_taipham"
+    },
+    {
+      "source_id": "hanhviphl_sudungdatkhongdungmucdich_taipham",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_daxuphat_sdkhongdungmd"
+    },
+    {
+      "source_id": "hanhviphl_sudungdatkhongdungmucdich_taipham",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tieptucvipham_sdkhongdungmd"
+    },
+    {
+      "source_id": "khainiem_thuhoitdatviphamphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphl_huyhoaidat_taipham"
+    },
+    {
+      "source_id": "hanhviphl_huyhoaidat_taipham",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhviphl_huyhoaidat_taipham",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_daxuphat_huyhoaidat"
+    },
+    {
+      "source_id": "hanhviphl_huyhoaidat_taipham",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tieptucvipham_huyhoaidat"
+    },
+    {
+      "source_id": "khainiem_thuhoitdatviphamphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_datgiaothuekhongdung"
+    },
+    {
+      "source_id": "khainiem_thuhoitdatviphamphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphl_nhanchuyennhuong_traituongphap"
+    },
+    {
+      "source_id": "hanhviphl_nhanchuyennhuong_traituongphap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguoikhongduocchuyennhuong"
+    },
+    {
+      "source_id": "khainiem_thuhoitdatviphamphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphl_dedatbilanchiem"
+    },
+    {
+      "source_id": "hanhviphl_dedatbilanchiem",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datduocnhanuocgiaquanly"
+    },
+    {
+      "source_id": "khainiem_thuhoitdatviphamphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphl_khongthuchiennghiatuvitaichinh"
+    },
+    {
+      "source_id": "hanhviphl_khongthuchiennghiatuvitaichinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "khainiem_thuhoitdatviphamphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphl_khongsudungdat_quathoiandinh"
+    },
+    {
+      "source_id": "hanhviphl_khongsudungdat_quathoiandinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sd12thang_cayhangnam_thuysan"
+    },
+    {
+      "source_id": "hanhviphl_khongsudungdat_quathoiandinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sd18thang_caylaunam"
+    },
+    {
+      "source_id": "hanhviphl_khongsudungdat_quathoiandinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sd24thang_trongrung"
+    },
+    {
+      "source_id": "hanhviphl_khongsudungdat_quathoiandinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_daxuphat_khongduavaosudung"
+    },
+    {
+      "source_id": "khainiem_thuhoitdatviphamphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphl_viphamtiendo_duandautu"
+    },
+    {
+      "source_id": "hanhviphl_viphamtiendo_duandautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chudautu"
+    },
+    {
+      "source_id": "hanhviphl_viphamtiendo_duandautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datduandautu"
+    },
+    {
+      "source_id": "hanhviphl_viphamtiendo_duandautu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sd12thang_tupangiaodatduan"
+    },
+    {
+      "source_id": "hanhviphl_viphamtiendo_duandautu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chamtienro24thang_duandautu"
+    },
+    {
+      "source_id": "hanhviphl_viphamtiendo_duandautu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hetgiahan_vankhong_sudung"
+    },
+    {
+      "source_id": "dieukien_hetgiahan_vankhong_sudung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duocgiahan_khongqua24thang"
+    },
+    {
+      "source_id": "dieukien_duocgiahan_khongqua24thang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phainop_bosungtien_giahan"
+    },
+    {
+      "source_id": "hanhviphl_viphamtiendo_duandautu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetasi_thuhoitdat_khongboithuong"
+    },
+    {
+      "source_id": "khainiem_mientru_batkhakhang_khoan678",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_batkhakhang"
+    },
+    {
+      "source_id": "khainiem_mientru_batkhakhang_khoan678",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphl_khongthuchiennghiatuvitaichinh"
+    },
+    {
+      "source_id": "khainiem_mientru_batkhakhang_khoan678",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphl_khongsudungdat_quathoiandinh"
+    },
+    {
+      "source_id": "khainiem_mientru_batkhakhang_khoan678",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphl_viphamtiendo_duandautu"
+    }
+  ]
+}

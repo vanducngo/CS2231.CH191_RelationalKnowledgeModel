@@ -1,0 +1,106 @@
+{
+  "entities": [
+    {
+      "id": "dieu_104",
+      "label": "ĐiềuLuật",
+      "name": "Điều 104"
+    },
+    {
+      "id": "khainiem_boithuong_chiphi_dichuyentaisan",
+      "label": "KháiNiệm",
+      "name": "Bồi thường chi phí di chuyển tài sản"
+    },
+    {
+      "id": "hanhviphaply_thu_hoidat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_dichuyentaisan",
+      "label": "HànhViPhápLý",
+      "name": "di chuyển tài sản"
+    },
+    {
+      "id": "khainiem_chiphi_thaodo_dichuyen_lapdat",
+      "label": "KháiNiệm",
+      "name": "chi phí để tháo dỡ, di chuyển, lắp đặt"
+    },
+    {
+      "id": "khainiem_hethong_maymoc_daychuyensanxuat",
+      "label": "KháiNiệm",
+      "name": "hệ thống máy móc, dây chuyền sản xuất"
+    },
+    {
+      "id": "khainiem_thiethai_thaodo_vanchuyen_lapdat",
+      "label": "KháiNiệm",
+      "name": "thiệt hại khi tháo dỡ, vận chuyển, lắp đặt"
+    },
+    {
+      "id": "chuthe_uy_bannhan_dan_captinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "khainiem_muc_boithuong",
+      "label": "KháiNiệm",
+      "name": "mức bồi thường"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_104",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_boithuong_chiphi_dichuyentaisan"
+    },
+    {
+      "source_id": "khainiem_boithuong_chiphi_dichuyentaisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thu_hoidat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_dichuyentaisan"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_chiphi_thaodo_dichuyentaisan"
+    },
+    {
+      "source_id": "hanhviphaply_dichuyentaisan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethong_maymoc_daychuyensanxuat"
+    },
+    {
+      "source_id": "khainiem_hethong_maymoc_daychuyensanxuat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_thiethai_thaodo_vanchuyen_lapdat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thiethai_thaodo_vanchuyen_lapdat"
+    },
+    {
+      "source_id": "chuthe_uy_bannhan_dan_captinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_muc_boithuong"
+    },
+    {
+      "source_id": "khainiem_muc_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_boithuong_chiphi_dichuyentaisan"
+    }
+  ]
+}

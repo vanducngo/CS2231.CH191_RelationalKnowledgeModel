@@ -1,0 +1,476 @@
+{
+  "entities": [
+    {
+      "id": "dieu_182",
+      "label": "ĐiềuLuật",
+      "name": "Điều 182"
+    },
+    {
+      "id": "khainiem_dat_trong_lua",
+      "label": "KháiNiệm",
+      "name": "Đất trồng lúa"
+    },
+    {
+      "id": "khainiem_dat_chuyen_trong_lua",
+      "label": "KháiNiệm",
+      "name": "Đất chuyên trồng lúa"
+    },
+    {
+      "id": "khainiem_dat_trong_lua_con_lai",
+      "label": "KháiNiệm",
+      "name": "Đất trồng lúa còn lại"
+    },
+    {
+      "id": "khainiem_dat_trong_tu_02_vu_lua_tro_len",
+      "label": "KháiNiệm",
+      "name": "đất trồng từ 02 vụ lúa trở lên"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_ho_tro",
+      "label": "HànhViPhápLý",
+      "name": "hỗ trợ"
+    },
+    {
+      "id": "hanhviphaply_dau_tu_xay_dung_ket_cau_ha_tang",
+      "label": "HànhViPhápLý",
+      "name": "đầu tư xây dựng kết cấu hạ tầng"
+    },
+    {
+      "id": "hanhviphaply_ap_dung_khoa_hoc_cong_nghe_hien_dai",
+      "label": "HànhViPhápLý",
+      "name": "áp dụng khoa học và công nghệ hiện đại"
+    },
+    {
+      "id": "khainiem_vung_quy_hoach_trong_lua_co_nang_suat_chat_luong_cao",
+      "label": "KháiNiệm",
+      "name": "vùng quy hoạch trồng lúa có năng suất, chất lượng cao"
+    },
+    {
+      "id": "hanhviphaply_bao_ve_dat_trong_lua",
+      "label": "HànhViPhápLý",
+      "name": "bảo vệ đất trồng lúa"
+    },
+    {
+      "id": "hanhviphaply_han_che_chuyen_dat_trong_lua_sang_muc_dich_phi_nong_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "hạn chế chuyển đất trồng lúa sang sử dụng vào mục đích phi nông nghiệp"
+    },
+    {
+      "id": "khainiem_muc_dich_phi_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "mục đích phi nông nghiệp"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat_trong_lua",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất trồng lúa"
+    },
+    {
+      "id": "hanhviphaply_cai_tao_lam_tang_do_phi_cua_dat",
+      "label": "HànhViPhápLý",
+      "name": "cải tạo, làm tăng độ phì của đất"
+    },
+    {
+      "id": "hanhviphaply_chuyen_sang_su_dung_vao_muc_dich_khac",
+      "label": "HànhViPhápLý",
+      "name": "chuyển sang sử dụng vào mục đích khác"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "dieukien_duoc_co_quan_nha_nuoc_co_tham_quyen_cho_phep",
+      "label": "ĐiềuKiện",
+      "name": "được cơ quan nhà nước có thẩm quyền cho phép"
+    },
+    {
+      "id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat",
+      "label": "ChủThể",
+      "name": "Người được Nhà nước giao đất, cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_su_dung_vao_muc_dich_phi_nong_nghiep_tu_dat_chuyen_trong_lua",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng vào mục đích phi nông nghiệp từ đất chuyên trồng lúa"
+    },
+    {
+      "id": "khainiem_phuong_an_su_dung_tang_dat_mat",
+      "label": "KháiNiệm",
+      "name": "phương án sử dụng tầng đất mặt"
+    },
+    {
+      "id": "khainiem_tang_dat_mat",
+      "label": "KháiNiệm",
+      "name": "tầng đất mặt"
+    },
+    {
+      "id": "dieukien_theo_quy_dinh_phap_luat_ve_trong_trot_cho_tang_dat_mat",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật về trồng trọt (cho tầng đất mặt)"
+    },
+    {
+      "id": "hanhviphaply_nop_mot_khoan_tien",
+      "label": "HànhViPhápLý",
+      "name": "nộp một khoản tiền"
+    },
+    {
+      "id": "dieukien_theo_quy_dinh_phap_luat_ve_nop_tien",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật (cho nộp tiền)"
+    },
+    {
+      "id": "hanhviphaply_bo_sung_dien_tich_dat_chuyen_trong_lua_bi_mat",
+      "label": "HànhViPhápLý",
+      "name": "bổ sung diện tích đất chuyên trồng lúa bị mất"
+    },
+    {
+      "id": "hanhviphaply_tang_hieu_qua_su_dung_dat_trong_lua",
+      "label": "HànhViPhápLý",
+      "name": "tăng hiệu quả sử dụng đất trồng lúa"
+    },
+    {
+      "id": "khainiem_du_an_su_dung_von_dau_tu_cong",
+      "label": "KháiNiệm",
+      "name": "dự án sử dụng vốn đầu tư công"
+    },
+    {
+      "id": "khainiem_von_dau_tu_cong",
+      "label": "KháiNiệm",
+      "name": "vốn đầu tư công"
+    },
+    {
+      "id": "khainiem_du_an_su_dung_von_nha_nuoc_ngoai_dau_tu_cong",
+      "label": "KháiNiệm",
+      "name": "dự án sử dụng vốn nhà nước ngoài đầu tư công"
+    },
+    {
+      "id": "khainiem_von_nha_nuoc_ngoai_dau_tu_cong",
+      "label": "KháiNiệm",
+      "name": "vốn nhà nước ngoài đầu tư công"
+    },
+    {
+      "id": "dieukien_khong_phai_du_an_su_dung_von_dau_tu_cong_hoac_von_nha_nuoc_ngoai_dau_tu_cong",
+      "label": "ĐiềuKiện",
+      "name": "không phải dự án sử dụng vốn đầu tư công hoặc vốn nhà nước ngoài đầu tư công"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_cac_quy_dinh_ve_bao_ve_moi_truong",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện các quy định về bảo vệ môi trường"
+    },
+    {
+      "id": "khainiem_quy_dinh_bao_ve_moi_truong",
+      "label": "KháiNiệm",
+      "name": "các quy định về bảo vệ môi trường"
+    },
+    {
+      "id": "hanhviphaply_khong_lam_anh_huong_den_viec_canh_tac_dat_lien_ke",
+      "label": "HànhViPhápLý",
+      "name": "không làm ảnh hưởng đến việc canh tác đối với diện tích đất trồng lúa liền kề"
+    },
+    {
+      "id": "khainiem_canh_tac_dat_trong_lua_lien_ke",
+      "label": "KháiNiệm",
+      "name": "việc canh tác đối với diện tích đất trồng lúa liền kề"
+    },
+    {
+      "id": "hanhviphaply_chuyen_doi_co_cau_cay_trong_vat_nuoi_tren_dat_trong_lua",
+      "label": "HànhViPhápLý",
+      "name": "chuyển đổi cơ cấu cây trồng, vật nuôi trên đất trồng lúa"
+    },
+    {
+      "id": "dieukien_khong_lam_mat_di_dieu_kien_can_thiet_de_trong_lua_tro_lai",
+      "label": "ĐiềuKiện",
+      "name": "không làm mất đi điều kiện cần thiết để trồng lúa trở lại"
+    },
+    {
+      "id": "khainiem_dieu_kien_can_thiet_de_trong_lua_tro_lai",
+      "label": "KháiNiệm",
+      "name": "điều kiện cần thiết để trồng lúa trở lại"
+    },
+    {
+      "id": "dieukien_theo_quy_dinh_phap_luat_ve_trong_trot_cho_chuyen_doi_co_cau",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật về trồng trọt (cho chuyển đổi cơ cấu)"
+    },
+    {
+      "id": "hanhviphaply_su_dung_mot_phan_dien_tich_dat_de_xay_dung_cong_trinh",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng một phần diện tích đất để xây dựng công trình"
+    },
+    {
+      "id": "khainiem_cong_trinh_phuc_vu_truc_tiep_san_xuat_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "công trình phục vụ trực tiếp sản xuất nông nghiệp"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet_dieu_nay",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết Điều này"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_182",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_trong_lua"
+    },
+    {
+      "source_id": "dieu_182",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "dieu_182",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_su_dung_dat_trong_lua"
+    },
+    {
+      "source_id": "dieu_182",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat"
+    },
+    {
+      "source_id": "dieu_182",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chinh_phu"
+    },
+    {
+      "source_id": "khainiem_dat_trong_lua",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_chuyen_trong_lua"
+    },
+    {
+      "source_id": "khainiem_dat_trong_lua",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_trong_lua_con_lai"
+    },
+    {
+      "source_id": "khainiem_dat_chuyen_trong_lua",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_trong_tu_02_vu_lua_tro_len"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ho_tro"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_dau_tu_xay_dung_ket_cau_ha_tang"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ap_dung_khoa_hoc_cong_nghe_hien_dai"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_vung_quy_hoach_trong_lua_co_nang_su_at_chat_luong_cao"
+    },
+    {
+      "source_id": "hanhviphaply_dau_tu_xay_dung_ket_cau_ha_tang",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_vung_quy_hoach_trong_lua_co_nang_su_at_chat_luong_cao"
+    },
+    {
+      "source_id": "hanhviphaply_ap_dung_khoa_hoc_cong_nghe_hien_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_vung_quy_hoach_trong_lua_co_nang_su_at_chat_luong_cao"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_bao_ve_dat_trong_lua"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_han_che_chuyen_dat_trong_lua_sang_muc_dich_phi_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_han_che_chuyen_dat_trong_lua_sang_muc_dich_phi_nong_nghiep",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_muc_dich_phi_nong_nghiep"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat_trong_lua",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cai_tao_lam_tang_do_phi_cua_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat_trong_lua",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyen_sang_su_dung_vao_muc_dich_khac"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_sang_su_dung_vao_muc_dich_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_co_quan_nha_nuoc_co_tham_quyen_cho_phep"
+    },
+    {
+      "source_id": "dieukien_duoc_co_quan_nha_nuoc_co_tham_quyen_cho_phep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giao_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_cho_thue_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_su_dung_vao_muc_dich_phi_nong_nghiep_tu_dat_chuyen_trong_lua"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phuong_an_su_dung_tang_dat_mat"
+    },
+    {
+      "source_id": "khainiem_phuong_an_su_dung_tang_dat_mat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_phap_luat_ve_trong_trot_cho_tang_dat_mat"
+    },
+    {
+      "source_id": "khainiem_phuong_an_su_dung_tang_dat_mat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tang_dat_mat"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_nop_mot_khoan_tien"
+    },
+    {
+      "source_id": "hanhviphaply_nop_mot_khoan_tien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_phap_luat_ve_nop_tien"
+    },
+    {
+      "source_id": "hanhviphaply_nop_mot_khoan_tien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_bo_sung_dien_tich_dat_chuyen_trong_lua_bi_mat"
+    },
+    {
+      "source_id": "hanhviphaply_nop_mot_khoan_tien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tang_hieu_qua_su_dung_dat_trong_lua"
+    },
+    {
+      "source_id": "hanhviphaply_nop_mot_khoan_tien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_phai_du_an_su_dung_von_dau_tu_cong_hoac_von_nha_nuoc_ngoai_dau_tu_cong"
+    },
+    {
+      "source_id": "dieukien_khong_phai_du_an_su_dung_von_dau_tu_cong_hoac_von_nha_nuoc_ngoai_dau_tu_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_du_an_su_dung_von_dau_tu_cong"
+    },
+    {
+      "source_id": "dieukien_khong_phai_du_an_su_dung_von_dau_tu_cong_hoac_von_nha_nuoc_ngoai_dau_tu_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_du_an_su_dung_von_nha_nuoc_ngoai_dau_tu_cong"
+    },
+    {
+      "source_id": "khainiem_du_an_su_dung_von_dau_tu_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_von_dau_tu_cong"
+    },
+    {
+      "source_id": "khainiem_du_an_su_dung_von_nha_nuoc_ngoai_dau_tu_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_von_nha_nuoc_ngoai_dau_tu_cong"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_cac_quy_dinh_ve_bao_ve_moi_truong"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_cac_quy_dinh_ve_bao_ve_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_dinh_bao_ve_moi_truong"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_khong_lam_anh_huong_den_viec_canh_tac_dat_lien_ke"
+    },
+    {
+      "source_id": "hanhviphaply_khong_lam_anh_huong_den_viec_canh_tac_dat_lien_ke",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_canh_tac_dat_trong_lua_lien_ke"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat_trong_lua",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chuyen_doi_co_cau_cay_trong_vat_nuoi_tren_dat_trong_lua"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_doi_co_cau_cay_trong_vat_nuoi_tren_dat_trong_lua",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_lam_mat_di_dieu_kien_can_thiet_de_trong_lua_tro_lai"
+    },
+    {
+      "source_id": "dieukien_khong_lam_mat_di_dieu_kien_can_thiet_de_trong_lua_tro_lai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dieu_kien_can_thiet_de_trong_lua_tro_lai"
+    },
+    {
+      "source_id": "dieukien_khong_lam_mat_di_dieu_kien_can_thiet_de_trong_lua_tro_lai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_phap_luat_ve_trong_trot_cho_chuyen_doi_co_cau"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat_trong_lua",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_su_dung_mot_phan_dien_tich_dat_de_xay_dung_cong_trinh"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_mot_phan_dien_tich_dat_de_xay_dung_cong_trinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_cong_trinh_phuc_vu_truc_tiep_san_xuat_nong_nghiep"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet_dieu_nay"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet_dieu_nay",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_182"
+    }
+  ]
+}

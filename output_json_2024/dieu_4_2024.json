@@ -1,0 +1,173 @@
+{
+  "graph": {
+    "entities": [
+      {
+        "id": "dieu_4",
+        "label": "ĐiềuLuật",
+        "name": "Điều 4 Luật Đất đai 2024"
+      },
+      {
+        "id": "khainiem_nguoisudungdat",
+        "label": "KháiNiệm",
+        "name": "Người sử dụng đất"
+      },
+      {
+        "id": "chuthe_tochuctrongnuoc",
+        "label": "ChủThể",
+        "name": "Tổ chức trong nước"
+      },
+      {
+        "id": "chuthe_tochuctongiao",
+        "label": "ChủThể",
+        "name": "Tổ chức tôn giáo"
+      },
+      {
+        "id": "chuthe_tochuctongiaotructhuoc",
+        "label": "ChủThể",
+        "name": "Tổ chức tôn giáo trực thuộc"
+      },
+      {
+        "id": "chuthe_canhan",
+        "label": "ChủThể",
+        "name": "Cá nhân trong nước, người Việt Nam định cư ở nước ngoài là công dân Việt Nam"
+      },
+      {
+        "id": "chuthe_congdongdancu",
+        "label": "ChủThể",
+        "name": "Cộng đồng dân cư"
+      },
+      {
+        "id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+        "label": "ChủThể",
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      },
+      {
+        "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+        "label": "ChủThể",
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      },
+      {
+        "id": "chuthe_tochuckinhtecovondautunuocngoai",
+        "label": "ChủThể",
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      },
+      {
+        "id": "hanhviphaply_giaodat",
+        "label": "HànhViPhápLý",
+        "name": "Giao đất"
+      },
+      {
+        "id": "hanhviphaply_chothuedat",
+        "label": "HànhViPhápLý",
+        "name": "Cho thuê đất"
+      },
+      {
+        "id": "hanhviphaply_congnhanquyensudungdat",
+        "label": "HànhViPhápLý",
+        "name": "Công nhận quyền sử dụng đất"
+      },
+      {
+        "id": "hanhviphaply_nhanquyensudungdat",
+        "label": "HànhViPhápLý",
+        "name": "Nhận quyền sử dụng đất"
+      },
+      {
+        "id": "hanhviphaply_thuelaidat",
+        "label": "HànhViPhápLý",
+        "name": "Thuê lại đất"
+      },
+      {
+        "id": "dieukien_sudungdatondinh",
+        "label": "ĐiềuKiện",
+        "name": "Sử dụng đất ổn định"
+      },
+      {
+        "id": "dieukien_dudieukiencapgiaychungnhan",
+        "label": "ĐiềuKiện",
+        "name": "Đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    ],
+    "relationships": [
+      {
+        "source_id": "dieu_4",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "khainiem_nguoisudungdat"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_tochuctrongnuoc"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_tochuctongiao"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_tochuctongiaotructhuoc"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_canhan"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_congdongdancu"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_tochucnuocngoaicochucnangngoaigiao"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_tochuckinhtecovondautunuocngoai"
+      },
+      {
+        "source_id": "hanhviphaply_giaodat",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "khainiem_nguoisudungdat"
+      },
+      {
+        "source_id": "hanhviphaply_chothuedat",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "khainiem_nguoisudungdat"
+      },
+      {
+        "source_id": "hanhviphaply_congnhanquyensudungdat",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "khainiem_nguoisudungdat"
+      },
+      {
+        "source_id": "hanhviphaply_nhanquyensudungdat",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "khainiem_nguoisudungdat"
+      },
+      {
+        "source_id": "hanhviphaply_thuelaidat",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "khainiem_nguoisudungdat"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_sudungdatondinh"
+      },
+      {
+        "source_id": "khainiem_nguoisudungdat",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_dudieukiencapgiaychungnhan"
+      }
+    ]
+  }
+}

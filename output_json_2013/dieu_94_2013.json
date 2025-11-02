@@ -1,0 +1,126 @@
+{
+  "entities": [
+    {
+      "id": "dieu_94",
+      "label": "ĐiềuLuật",
+      "name": "Điều 94"
+    },
+    {
+      "id": "boi_thuong_thiet_hai",
+      "label": "HànhViPhápLý",
+      "name": "Bồi thường thiệt hại"
+    },
+    {
+      "id": "dat_thuoc_hanh_lang_an_toan",
+      "label": "KháiNiệm",
+      "name": "đất thuộc hành lang an toàn"
+    },
+    {
+      "id": "xay_dung_cong_trinh_co_hanh_lang_bao_ve_an_toan",
+      "label": "HànhViPhápLý",
+      "name": "xây dựng công trình có hành lang bảo vệ an toàn"
+    },
+    {
+      "id": "nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "cong_trinh_cong_cong_quoc_phong_an_ninh",
+      "label": "KháiNiệm",
+      "name": "công trình công cộng, quốc phòng, an ninh"
+    },
+    {
+      "id": "thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "pham_vi_hanh_lang_an_toan",
+      "label": "KháiNiệm",
+      "name": "phạm vi hành lang an toàn"
+    },
+    {
+      "id": "nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "han_che_kha_nang_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "hạn chế khả năng sử dụng đất"
+    },
+    {
+      "id": "thiet_hai_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "name": "thiệt hại tài sản gắn liền với đất"
+    },
+    {
+      "id": "quy_dinh_cua_chinh_phu",
+      "label": "ĐiềuKiện",
+      "name": "quy định của Chính phủ"
+    },
+    {
+      "id": "khong_thu_hoi_dat_nam_trong_pham_vi_hanh_lang_an_toan",
+      "label": "ĐiềuKiện",
+      "name": "không thu hồi đất nằm trong phạm vi hành lang an toàn"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_94",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "boi_thuong_thiet_hai"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_thuoc_hanh_lang_an_toan"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_co_hanh_lang_bao_ve_an_toan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nha_nuoc"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_co_hanh_lang_bao_ve_an_toan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cong_trinh_cong_cong_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "xay_dung_cong_trinh_co_hanh_lang_bao_ve_an_toan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_thiet_hai"
+    },
+    {
+      "source_id": "khong_thu_hoi_dat_nam_trong_pham_vi_hanh_lang_an_toan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_thiet_hai"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "han_che_kha_nang_su_dung_dat"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thiet_hai_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "boi_thuong_thiet_hai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "quy_dinh_cua_chinh_phu"
+    },
+    {
+      "source_id": "dat_thuoc_hanh_lang_an_toan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "pham_vi_hanh_lang_an_toan"
+    }
+  ]
+}

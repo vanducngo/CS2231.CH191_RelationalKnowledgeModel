@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "id": "dieu_96",
+      "label": "ĐiềuLuật",
+      "text": "Điều 96"
+    },
+    {
+      "id": "khainiem_ho_so_dia_chinh",
+      "label": "KháiNiệm",
+      "text": "Hồ sơ địa chính"
+    },
+    {
+      "id": "khainiem_thong_tin_chi_tiet_ve_tung_thua_dat",
+      "label": "KháiNiệm",
+      "text": "thông tin chi tiết về từng thửa đất"
+    },
+    {
+      "id": "chuthe_nguoi_duoc_giao_quan_ly_dat",
+      "label": "ChủThể",
+      "text": "người được giao quản lý đất"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "text": "người sử dụng đất"
+    },
+    {
+      "id": "chuthe_chu_so_huu_tai_san_gan_lien_voi_dat",
+      "label": "ChủThể",
+      "text": "chủ sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_cac_quyen_va_thay_doi_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "text": "các quyền và thay đổi quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_quyen_so_huu_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "text": "quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "label": "ChủThể",
+      "text": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "hanhviphaply_lap_ho_so_dia_chinh",
+      "label": "HànhViPhápLý",
+      "text": "lập hồ sơ địa chính"
+    },
+    {
+      "id": "hanhviphaply_chinh_ly_ho_so_dia_chinh",
+      "label": "HànhViPhápLý",
+      "text": "chỉnh lý hồ sơ địa chính"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_ho_so_dia_chinh",
+      "label": "HànhViPhápLý",
+      "text": "quản lý hồ sơ địa chính"
+    },
+    {
+      "id": "khainiem_lo_trinh_chuyen_doi_ho_so_dia_chinh_dang_giay_sang_dang_so",
+      "label": "KháiNiệm",
+      "text": "lộ trình chuyển đổi hồ sơ địa chính dạng giấy sang hồ sơ địa chính dạng số"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_96",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ho_so_dia_chinh"
+    },
+    {
+      "source_id": "khainiem_ho_so_dia_chinh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_thong_tin_chi_tiet_ve_tung_thua_dat"
+    },
+    {
+      "source_id": "khainiem_ho_so_dia_chinh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_nguoi_duoc_giao_quan_ly_dat"
+    },
+    {
+      "source_id": "khainiem_ho_so_dia_chinh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_ho_so_dia_chinh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_chu_so_huu_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "khainiem_ho_so_dia_chinh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_cac_quyen_va_thay_doi_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_ho_so_dia_chinh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_quyen_so_huu_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ho_so_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lap_ho_so_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chinh_ly_ho_so_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_ho_so_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_lo_trinh_chuyen_doi_ho_so_dia_chinh_dang_giay_sang_dang_so"
+    }
+  ]
+}

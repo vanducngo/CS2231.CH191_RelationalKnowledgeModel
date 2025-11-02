@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "id": "dieu_165",
+      "label": "ĐiềuLuật",
+      "name": "Điều 165"
+    },
+    {
+      "id": "khainiem_cosodulieunhadatquocgia",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu quốc gia về đất đai"
+    },
+    {
+      "id": "khainiem_csdlvanbanquyphapluatvedatdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai"
+    },
+    {
+      "id": "khainiem_csdldia_chinh",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu địa chính"
+    },
+    {
+      "id": "khainiem_csdldieutradanhgiabaovecaitaophuchoidat",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất"
+    },
+    {
+      "id": "khainiem_csdlquyhoachkehoachsudungdat",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_csdlgia_dat",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu giá đất"
+    },
+    {
+      "id": "khainiem_csdlthongkekiemkedatdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu thống kê, kiểm kê đất đai"
+    },
+    {
+      "id": "khainiem_csdlthanhtrakieutratiepcongdangiaiquyettranhchapkhieunaitocaovedatdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu về thanh tra, kiểm tra, tiếp công dân, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai"
+    },
+    {
+      "id": "khainiem_csdlkhaclienquanden_datdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu khác liên quan đến đất đai"
+    },
+    {
+      "id": "dieukien_xaydungdongbo_thongnhat",
+      "label": "ĐiềuKiện",
+      "name": "xây dựng đồng bộ, thống nhất"
+    },
+    {
+      "id": "dieukien_theotieuchuanquychuanquocgia",
+      "label": "ĐiềuKiện",
+      "name": "tiêu chuẩn, quy chuẩn quốc gia"
+    },
+    {
+      "id": "chuthe_botruongbotaimong",
+      "label": "ChủThể",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_165",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_cosodulieunhadatquocgia"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdlvanbanquyphapluatvedatdai"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdldia_chinh"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdldieutradanhgiabaovecaitaophuchoidat"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdlquyhoachkehoachsudungdat"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdlgia_dat"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdlthongkekiemkedatdai"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdlthanhtrakieutratiepcongdangiaiquyettranhchapkhieunaitocaovedatdai"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_csdlkhaclienquanden_datdai"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_xaydungdongbo_thongnhat"
+    },
+    {
+      "source_id": "khainiem_cosodulieunhadatquocgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theotieuchuanquychuanquocgia"
+    },
+    {
+      "source_id": "chuthe_botruongbotaimong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_cosodulieunhadatquocgia"
+    }
+  ]
+}

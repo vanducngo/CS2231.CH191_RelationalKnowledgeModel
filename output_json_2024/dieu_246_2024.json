@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "id": "dieu_246",
+      "label": "ĐiềuLuật",
+      "name": "Điều 246"
+    },
+    {
+      "id": "khainiem_khoan_4_dieu_106_luat_thi_hanh_an_dan_su",
+      "label": "KháiNiệm",
+      "name": "khoản 4 Điều 106 của Luật Thi hành án dân sự số 26/2008/QH12"
+    },
+    {
+      "id": "khainiem_tai_san_quyen_su_dung_dat_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "name": "tài sản là quyền sử dụng đất, tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan_da_cap",
+      "label": "KháiNiệm",
+      "name": "giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "chuthe_co_quan_thi_hanh_an",
+      "label": "ChủThể",
+      "name": "cơ quan thi hành án"
+    },
+    {
+      "id": "chuthe_co_quan_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan có thẩm quyền"
+    },
+    {
+      "id": "chuthe_nguoi_mua_tai_san_thi_hanh_an",
+      "label": "ChủThể",
+      "name": "người mua được tài sản thi hành án"
+    },
+    {
+      "id": "chuthe_nguoi_nhan_tai_san_thi_hanh_an",
+      "label": "ChủThể",
+      "name": "người nhận tài sản thi hành án"
+    },
+    {
+      "id": "hanhviphaply_sua_doi_bo_sung",
+      "label": "HànhViPhápLý",
+      "name": "Sửa đổi, bổ sung"
+    },
+    {
+      "id": "hanhviphaply_de_nghi_cap_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "name": "đề nghị cấp Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_cap_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện cấp Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_de_nghi_thu_hoi_huy_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "name": "đề nghị thu hồi hoặc hủy giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_thu_hoi_huy_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện thu hồi hoặc hủy giấy chứng nhận"
+    },
+    {
+      "id": "dieukien_tai_san_du_dieu_kien_chua_duoc_cap_giay_chung_nhan_lan_dau",
+      "label": "ĐiềuKiện",
+      "name": "tài sản là quyền sử dụng đất, tài sản gắn liền với đất mà đủ điều kiện nhưng chưa được cấp giấy chứng nhận lần đầu"
+    },
+    {
+      "id": "dieukien_tai_san_da_duoc_cap_giay_chung_nhan_khong_thu_hoi_duoc",
+      "label": "ĐiềuKiện",
+      "name": "tài sản là quyền sử dụng đất, tài sản gắn liền với đất đã được cấp giấy chứng nhận mà không thu hồi được giấy chứng nhận đã cấp"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_246",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sua_doi_bo_sung"
+    },
+    {
+      "source_id": "hanhviphaply_sua_doi_bo_sung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_khoan_4_dieu_106_luat_thi_hanh_an_dan_su"
+    },
+    {
+      "source_id": "dieu_246",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_tai_san_du_dieu_kien_chua_duoc_cap_giay_chung_nhan_lan_dau"
+    },
+    {
+      "source_id": "dieukien_tai_san_du_dieu_kien_chua_duoc_cap_giay_chung_nhan_lan_dau",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_de_nghi_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_co_quan_thi_hanh_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_de_nghi_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_de_nghi_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_co_tham_quyen"
+    },
+    {
+      "source_id": "chuthe_co_quan_co_tham_quyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_mua_tai_san_thi_hanh_an"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_nhan_tai_san_thi_hanh_an"
+    },
+    {
+      "source_id": "dieu_246",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_tai_san_da_duoc_cap_giay_chung_nhan_khong_thu_hoi_duoc"
+    },
+    {
+      "source_id": "dieukien_tai_san_da_duoc_cap_giay_chung_nhan_khong_thu_hoi_duoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_de_nghi_thu_hoi_huy_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_co_quan_thi_hanh_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_de_nghi_thu_hoi_huy_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_de_nghi_thu_hoi_huy_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_co_tham_quyen"
+    },
+    {
+      "source_id": "chuthe_co_quan_co_tham_quyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_thu_hoi_huy_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_thu_hoi_huy_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_giay_chung_nhan_da_cap"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_thu_hoi_huy_giay_chung_nhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuc_hien_cap_giay_chung_nhan"
+    }
+  ]
+}

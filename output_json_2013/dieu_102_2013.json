@@ -1,0 +1,426 @@
+{
+  "entities": [
+    {
+      "id": "dieu_102",
+      "label": "ĐiềuLuật",
+      "name": "Điều 102"
+    },
+    {
+      "id": "dieu_56",
+      "label": "ĐiềuLuật",
+      "name": "Điều 56"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "khainiem_dat_o",
+      "label": "KháiNiệm",
+      "name": "Đất ở"
+    },
+    {
+      "id": "khainiem_quy_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_khu_dan_cu",
+      "label": "KháiNiệm",
+      "name": "Khu dân cư"
+    },
+    {
+      "id": "khainiem_phuong_an_bo_tri_lai_dat_o",
+      "label": "KháiNiệm",
+      "name": "Phương án bố trí lại diện tích đất ở"
+    },
+    {
+      "id": "khainiem_hop_dong_thue_dat",
+      "label": "KháiNiệm",
+      "name": "Hợp đồng thuê đất"
+    },
+    {
+      "id": "chuthe_to_chuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chuthe_co_so_ton_giao",
+      "label": "ChủThể",
+      "name": "Cơ sở tôn giáo"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat_o",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất ở"
+    },
+    {
+      "id": "chuthe_doanh_nghiep_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Doanh nghiệp nhà nước"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_co_quan_quan_ly_dat_dai_cap_tinh",
+      "label": "ChủThể",
+      "name": "Cơ quan quản lý đất đai cấp tỉnh"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhvipaply_cap_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "hanhvipaply_thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "hanhvipaply_ban_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "Bàn giao đất"
+    },
+    {
+      "id": "hanhvipaply_quan_ly_dat",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý đất"
+    },
+    {
+      "id": "hanhvipaply_phe_duyet_quy_hoach",
+      "label": "HànhViPhápLý",
+      "name": "Phê duyệt quy hoạch"
+    },
+    {
+      "id": "hanhvipaply_lap_phuong_an_bo_tri_lai",
+      "label": "HànhViPhápLý",
+      "name": "Lập phương án bố trí lại"
+    },
+    {
+      "id": "hanhvipaply_phe_duyet_phuong_an",
+      "label": "HànhViPhápLý",
+      "name": "Phê duyệt phương án"
+    },
+    {
+      "id": "hanhvipaply_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất"
+    },
+    {
+      "id": "hanhvipaply_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất"
+    },
+    {
+      "id": "hanhvipaply_ky_hop_dong_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Ký hợp đồng thuê đất"
+    },
+    {
+      "id": "hanhvipaply_cho_phep_hoat_dong",
+      "label": "HànhViPhápLý",
+      "name": "Cho phép hoạt động"
+    },
+    {
+      "id": "hanhvipaply_nhan_chuyen_nhuong_tang_cho",
+      "label": "HànhViPhápLý",
+      "name": "Nhận chuyển nhượng, nhận tặng cho"
+    },
+    {
+      "id": "hanhvipaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    },
+    {
+      "id": "dieu_kien_su_dung_dung_muc_dich",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đúng mục đích"
+    },
+    {
+      "id": "dieu_kien_khong_su_dung",
+      "label": "ĐiềuKiện",
+      "name": "Không sử dụng"
+    },
+    {
+      "id": "dieu_kien_su_dung_khong_dung_muc_dich",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng không đúng mục đích"
+    },
+    {
+      "id": "dieu_kien_cho_muon_trai_phap_luat",
+      "label": "ĐiềuKiện",
+      "name": "Cho mượn trái pháp luật"
+    },
+    {
+      "id": "dieu_kien_cho_thue_trai_phap_luat",
+      "label": "ĐiềuKiện",
+      "name": "Cho thuê trái pháp luật"
+    },
+    {
+      "id": "dieu_kien_dat_bi_lan_chiem",
+      "label": "ĐiềuKiện",
+      "name": "Đất bị lấn, bị chiếm"
+    },
+    {
+      "id": "dieu_kien_dat_o_phu_hop_quy_hoach",
+      "label": "ĐiềuKiện",
+      "name": "Đất ở phù hợp với quy hoạch sử dụng đất"
+    },
+    {
+      "id": "dieu_kien_su_dung_dat_o_truoc_01_07_2004",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất ở trước ngày 01 tháng 7 năm 2004"
+    },
+    {
+      "id": "dieu_kien_nha_nuoc_cho_thue_dat",
+      "label": "ĐiềuKiện",
+      "name": "Nhà nước cho thuê đất"
+    },
+    {
+      "id": "dieu_kien_duoc_nha_nuoc_cho_phep_hoat_dong",
+      "label": "ĐiềuKiện",
+      "name": "Được Nhà nước cho phép hoạt động"
+    },
+    {
+      "id": "dieu_kien_khong_co_tranh_chap",
+      "label": "ĐiềuKiện",
+      "name": "Không có tranh chấp"
+    },
+    {
+      "id": "dieu_kien_khong_phai_dat_nhan_chuyen_nhuong_tang_cho_sau_01_07_2004",
+      "label": "ĐiềuKiện",
+      "name": "Không phải là đất nhận chuyển nhượng, nhận tặng cho sau ngày 01 tháng 7 năm 2004"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_102",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_so_ton_giao"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_su_dung_dung_muc_dich"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "hanhvipaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khong_su_dung"
+    },
+    {
+      "source_id": "hanhvipaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_su_dung_khong_dung_muc_dich"
+    },
+    {
+      "source_id": "hanhvipaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_cho_muon_trai_phap_luat"
+    },
+    {
+      "source_id": "hanhvipaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_cho_thue_trai_phap_luat"
+    },
+    {
+      "source_id": "hanhvipaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_bi_lan_chiem"
+    },
+    {
+      "source_id": "chuthe_to_chuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_ban_giao_dat"
+    },
+    {
+      "source_id": "hanhvipaply_ban_giao_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_quan_ly_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat_o",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_o_phu_hop_quy_hoach"
+    },
+    {
+      "source_id": "dieu_kien_dat_o_phu_hop_quy_hoach",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_phe_duyet_quy_hoach"
+    },
+    {
+      "source_id": "hanhvipaply_phe_duyet_quy_hoach",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_doanh_nghiep_nha_nuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_lap_phuong_an_bo_tri_lai"
+    },
+    {
+      "source_id": "hanhvipaply_lap_phuong_an_bo_tri_lai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_su_dung_dat_o_truoc_01_07_2004"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_giao_dat"
+    },
+    {
+      "source_id": "hanhvipaply_giao_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_doanh_nghiep_nha_nuoc"
+    },
+    {
+      "source_id": "chuthe_doanh_nghiep_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "chuthe_doanh_nghiep_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvipaply_lap_phuong_an_bo_tri_lai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_phuong_an_bo_tri_lai_dat_o"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_phe_duyet_phuong_an"
+    },
+    {
+      "source_id": "hanhvipaply_phe_duyet_phuong_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_phuong_an_bo_tri_lai_dat_o"
+    },
+    {
+      "source_id": "chuthe_doanh_nghiep_nha_nuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_to_chuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_nha_nuoc_cho_thue_dat"
+    },
+    {
+      "source_id": "dieu_kien_nha_nuoc_cho_thue_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_56"
+    },
+    {
+      "source_id": "chuthe_co_quan_quan_ly_dat_dai_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_ky_hop_dong_thue_dat"
+    },
+    {
+      "source_id": "hanhvipaply_ky_hop_dong_thue_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_hop_dong_thue_dat"
+    },
+    {
+      "source_id": "hanhvipaply_ky_hop_dong_thue_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_co_so_ton_giao",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_duoc_nha_nuoc_cho_phep_hoat_dong"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_cho_phep_hoat_dong"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khong_phai_dat_nhan_chuyen_nhuong_tang_cho_sau_01_07_2004"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhvipaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_102"
+    }
+  ]
+}

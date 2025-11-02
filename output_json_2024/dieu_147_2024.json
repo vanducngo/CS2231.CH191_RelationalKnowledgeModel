@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "id": "dieu_147",
+      "label": "ĐiềuLuật",
+      "name": "Điều 147"
+    },
+    {
+      "id": "hanhvipaply_capgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieukien_thuatdatnhieudonvihanhchinhcapxa",
+      "label": "ĐiềuKiện",
+      "name": "thửa đất thuộc phạm vi nhiều đơn vị hành chính cấp xã"
+    },
+    {
+      "id": "dieukien_motcoquan",
+      "label": "ĐiềuKiện",
+      "name": "cùng thuộc thẩm quyền cấp Giấy chứng nhận... của một cơ quan"
+    },
+    {
+      "id": "hanhvipaply_capmotgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_ngoisudungdat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_xacdinhdientich",
+      "label": "HànhViPhápLý",
+      "name": "xác định từng phần diện tích thuộc phạm vi từng đơn vị hành chính cấp xã"
+    },
+    {
+      "id": "dieukien_caccoquankhacnhau",
+      "label": "ĐiềuKiện",
+      "name": "thuộc thẩm quyền cấp Giấy chứng nhận... của các cơ quan khác nhau"
+    },
+    {
+      "id": "hanhvipaply_captunggiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo từng thửa đất thuộc thẩm quyền của từng cơ quan"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_147",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "hanhvipaply_capgiaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_thuatdatnhieudonvihanhchinhcapxa"
+    },
+    {
+      "source_id": "dieukien_thuatdatnhieudonvihanhchinhcapxa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_motcoquan"
+    },
+    {
+      "source_id": "dieukien_motcoquan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_capmotgiaychungnhan"
+    },
+    {
+      "source_id": "hanhvipaply_capmotgiaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoisudungdat"
+    },
+    {
+      "source_id": "hanhvipaply_capmotgiaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_xacdinhdientich"
+    },
+    {
+      "source_id": "dieukien_thuatdatnhieudonvihanhchinhcapxa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_caccoquankhacnhau"
+    },
+    {
+      "source_id": "dieukien_caccoquankhacnhau",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_captunggiaychungnhan"
+    }
+  ]
+}

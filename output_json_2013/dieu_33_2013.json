@@ -1,0 +1,211 @@
+{
+  "entities": [
+    {
+      "id": "dieu_33",
+      "label": "ĐiềuLuật",
+      "name": "Điều 33"
+    },
+    {
+      "id": "chuthe_botainuyenvamoitruong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_botruongbotainuyenvamoitruong",
+      "label": "ChủThể",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia",
+      "label": "HànhViPhápLý",
+      "name": "Tổ chức thực hiện và công bố kết quả điều tra, đánh giá đất đai"
+    },
+    {
+      "id": "hanhviphaply_chidoviec_thuchien_dieutradanhgiadatdai",
+      "label": "HànhViPhápLý",
+      "name": "Chỉ đạo việc thực hiện điều tra, đánh giá đất đai"
+    },
+    {
+      "id": "hanhviphaply_tonghop_congbo_ketqua_dieutradanhgia",
+      "label": "HànhViPhápLý",
+      "name": "Tổng hợp, công bố kết quả điều tra, đánh giá đất đai"
+    },
+    {
+      "id": "hanhviphaply_guiketqua_ve_botnmt_tonghop",
+      "label": "HànhViPhápLý",
+      "name": "Gửi kết quả về Bộ Tài nguyên và Môi trường để tổng hợp"
+    },
+    {
+      "id": "hanhviphaply_quydinh_ve_dieutradanhgia_vadieukiennangluc",
+      "label": "HànhViPhápLý",
+      "name": "Quy định việc điều tra, đánh giá đất đai và điều kiện về năng lực của đơn vị thực hiện điều tra, đánh giá đất đai"
+    },
+    {
+      "id": "dieukien_dinhky_05nam",
+      "label": "ĐiềuKiện",
+      "name": "định kỳ 05 năm một lần"
+    },
+    {
+      "id": "dieukien_theochuyende",
+      "label": "ĐiềuKiện",
+      "name": "theo chuyên đề"
+    },
+    {
+      "id": "dieukien_nangluc_donvi_thuchien",
+      "label": "ĐiềuKiện",
+      "name": "điều kiện về năng lực của đơn vị thực hiện điều tra, đánh giá đất đai"
+    },
+    {
+      "id": "khainiem_dieutradanhgiadatdai",
+      "label": "KháiNiệm",
+      "name": "điều tra, đánh giá đất đai"
+    },
+    {
+      "id": "khainiem_ketqua_dieutradanhgiadatdai",
+      "label": "KháiNiệm",
+      "name": "kết quả điều tra, đánh giá đất đai"
+    },
+    {
+      "id": "khainiem_cannuoc",
+      "label": "KháiNiệm",
+      "name": "cả nước"
+    },
+    {
+      "id": "khainiem_cacvung",
+      "label": "KháiNiệm",
+      "name": "các vùng"
+    },
+    {
+      "id": "khainiem_tinh_thanhpho_tttw",
+      "label": "KháiNiệm",
+      "name": "tỉnh, thành phố trực thuộc trung ương"
+    },
+    {
+      "id": "khainiem_diaphuong",
+      "label": "KháiNiệm",
+      "name": "địa phương"
+    },
+    {
+      "id": "khainiem_donvi_thuchien_dieutradanhgiadatdai",
+      "label": "KháiNiệm",
+      "name": "đơn vị thực hiện điều tra, đánh giá đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_33",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia"
+    },
+    {
+      "source_id": "chuthe_botainuyenvamoitruong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cannuoc"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cacvung"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dinhky_05nam"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theochuyende"
+    },
+    {
+      "source_id": "chuthe_botainuyenvamoitruong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chidoviec_thuchien_dieutradanhgiadatdai"
+    },
+    {
+      "source_id": "hanhviphaply_chidoviec_thuchien_dieutradanhgiadatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_tinh_thanhpho_tttw"
+    },
+    {
+      "source_id": "chuthe_botainuyenvamoitruong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tonghop_congbo_ketqua_dieutradanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_tonghop_congbo_ketqua_dieutradanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cannuoc"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_diaphuong"
+    },
+    {
+      "source_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_guiketqua_ve_botnmt_tonghop"
+    },
+    {
+      "source_id": "hanhviphaply_guiketqua_ve_botnmt_tonghop",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_botainuyenvamoitruong"
+    },
+    {
+      "source_id": "chuthe_botruongbotainuyenvamoitruong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quydinh_ve_dieutradanhgia_vadieukiennangluc"
+    },
+    {
+      "source_id": "hanhviphaply_quydinh_ve_dieutradanhgia_vadieukiennangluc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dieutradanhgiadatdai"
+    },
+    {
+      "source_id": "hanhviphaply_quydinh_ve_dieutradanhgia_vadieukiennangluc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nangluc_donvi_thuchien"
+    },
+    {
+      "source_id": "hanhviphaply_quydinh_ve_dieutradanhgia_vadieukiennangluc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_donvi_thuchien_dieutradanhgiadatdai"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_thuchien_congbo_ketqua_dieutradanhgia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ketqua_dieutradanhgiadatdai"
+    },
+    {
+      "source_id": "khainiem_ketqua_dieutradanhgiadatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dieutradanhgiadatdai"
+    },
+    {
+      "source_id": "hanhviphaply_guiketqua_ve_botnmt_tonghop",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ketqua_dieutradanhgiadatdai"
+    },
+    {
+      "source_id": "hanhviphaply_chidoviec_thuchien_dieutradanhgiadatdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dieutradanhgiadatdai"
+    }
+  ]
+}

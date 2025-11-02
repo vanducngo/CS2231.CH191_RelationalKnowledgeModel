@@ -1,0 +1,286 @@
+{
+  "entities": [
+    {
+      "id": "dieu_8",
+      "label": "ĐiềuLuật",
+      "name": "Điều 8"
+    },
+    {
+      "id": "chuthe_nguoi_chiu_trach_nhiem_truoc_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Người chịu trách nhiệm trước Nhà nước"
+    },
+    {
+      "id": "khainiem_dat_duoc_giao_de_quan_ly",
+      "label": "KháiNiệm",
+      "name": "đất được giao để quản lý"
+    },
+    {
+      "id": "chuthe_nguoi_dung_dau_cua_to_chuc",
+      "label": "ChủThể",
+      "name": "Người đứng đầu của tổ chức"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_dat",
+      "label": "HànhViPhápLý",
+      "name": "quản lý đất"
+    },
+    {
+      "id": "chuthe_to_chuc_duoc_giao_quan_ly_cong_trinh_cong_cong",
+      "label": "ChủThể",
+      "name": "Tổ chức được giao quản lý công trình công cộng"
+    },
+    {
+      "id": "khainiem_cong_trinh_cong_cong",
+      "label": "KháiNiệm",
+      "name": "công trình công cộng"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_dien_tich_dat_thuc_hien_du_an_dau_tu",
+      "label": "HànhViPhápLý",
+      "name": "quản lý diện tích đất để thực hiện dự án đầu tư"
+    },
+    {
+      "id": "khainiem_du_an_dau_tu_bt",
+      "label": "KháiNiệm",
+      "name": "Dự án đầu tư theo hình thức xây dựng - chuyển giao (BT)"
+    },
+    {
+      "id": "khainiem_cac_hinh_thuc_khac_phap_luat_dau_tu",
+      "label": "KháiNiệm",
+      "name": "các hình thức khác theo quy định của pháp luật về đầu tư"
+    },
+    {
+      "id": "chuthe_to_chuc_duoc_giao_quan_ly_dat_mat_nuoc",
+      "label": "ChủThể",
+      "name": "Tổ chức được giao quản lý đất có mặt nước của các sông và đất có mặt nước chuyên dùng"
+    },
+    {
+      "id": "khainiem_dat_co_mat_nuoc_cua_cac_song",
+      "label": "KháiNiệm",
+      "name": "Đất có mặt nước của các sông"
+    },
+    {
+      "id": "khainiem_dat_co_mat_nuoc_chuyen_dung",
+      "label": "KháiNiệm",
+      "name": "đất có mặt nước chuyên dùng"
+    },
+    {
+      "id": "chuthe_to_chuc_duoc_giao_quan_ly_quy_dat_thu_hoi",
+      "label": "ChủThể",
+      "name": "Tổ chức được giao quản lý quỹ đất đã thu hồi"
+    },
+    {
+      "id": "khainiem_quy_dat_da_thu_hoi",
+      "label": "KháiNiệm",
+      "name": "quỹ đất đã thu hồi"
+    },
+    {
+      "id": "dieukien_quyet_dinh_co_quan_nha_nuoc_tham_quyen",
+      "label": "ĐiềuKiện",
+      "name": "quyết định của cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "khainiem_dat_su_dung_muc_dich_cong_cong",
+      "label": "KháiNiệm",
+      "name": "đất sử dụng vào mục đích công cộng"
+    },
+    {
+      "id": "khainiem_dat_chua_giao",
+      "label": "KháiNiệm",
+      "name": "đất chưa giao"
+    },
+    {
+      "id": "khainiem_dat_chua_cho_thue",
+      "label": "KháiNiệm",
+      "name": "đất chưa cho thuê"
+    },
+    {
+      "id": "khainiem_dia_phuong",
+      "label": "KháiNiệm",
+      "name": "địa phương"
+    },
+    {
+      "id": "chuthe_chu_tich_uy_ban_nhan_dan_tinh_tp_truc_thuoc_tw",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương"
+    },
+    {
+      "id": "khainiem_dat_chua_su_dung",
+      "label": "KháiNiệm",
+      "name": "đất chưa sử dụng"
+    },
+    {
+      "id": "khainiem_dao_chua_co_nguoi_o",
+      "label": "KháiNiệm",
+      "name": "đảo chưa có người ở"
+    },
+    {
+      "id": "chuthe_nguoi_dai_dien_cong_dong_dan_cu",
+      "label": "ChủThể",
+      "name": "Người đại diện cho cộng đồng dân cư"
+    },
+    {
+      "id": "khainiem_dat_duoc_giao_cho_cong_dong_dan_cu_quan_ly",
+      "label": "KháiNiệm",
+      "name": "đất được giao cho cộng đồng dân cư quản lý"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_8",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_chiu_trach_nhiem_truoc_nha_nuoc"
+    },
+    {
+      "source_id": "chuthe_nguoi_chiu_trach_nhiem_truoc_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_duoc_giao_de_quan_ly"
+    },
+    {
+      "source_id": "dieu_8",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_dung_dau_cua_to_chuc"
+    },
+    {
+      "source_id": "chuthe_nguoi_dung_dau_cua_to_chuc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_dung_dau_cua_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_duoc_giao_quan_ly_cong_trinh_cong_cong"
+    },
+    {
+      "source_id": "chuthe_to_chuc_duoc_giao_quan_ly_cong_trinh_cong_cong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_cong_trinh_cong_cong"
+    },
+    {
+      "source_id": "chuthe_nguoi_dung_dau_cua_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "chuthe_to_chuc_kinh_te",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_dien_tich_dat_thuc_hien_du_an_dau_tu"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dien_tich_dat_thuc_hien_du_an_dau_tu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_du_an_dau_tu_bt"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dien_tich_dat_thuc_hien_du_an_dau_tu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_cac_hinh_thuc_khac_phap_luat_dau_tu"
+    },
+    {
+      "source_id": "chuthe_nguoi_dung_dau_cua_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_duoc_giao_quan_ly_dat_mat_nuoc"
+    },
+    {
+      "source_id": "chuthe_to_chuc_duoc_giao_quan_ly_dat_mat_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_co_mat_nuoc_cua_cac_song"
+    },
+    {
+      "source_id": "chuthe_to_chuc_duoc_giao_quan_ly_dat_mat_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_co_mat_nuoc_chuyen_dung"
+    },
+    {
+      "source_id": "chuthe_nguoi_dung_dau_cua_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_duoc_giao_quan_ly_quy_dat_thu_hoi"
+    },
+    {
+      "source_id": "chuthe_to_chuc_duoc_giao_quan_ly_quy_dat_thu_hoi",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_dat_da_thu_hoi"
+    },
+    {
+      "source_id": "khainiem_quy_dat_da_thu_hoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyet_dinh_co_quan_nha_nuoc_tham_quyen"
+    },
+    {
+      "source_id": "dieu_8",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_dat"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_su_dung_muc_dich_cong_cong"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_chua_giao"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_chua_cho_thue"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dia_phuong"
+    },
+    {
+      "source_id": "dieu_8",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chu_tich_uy_ban_nhan_dan_tinh_tp_truc_thuoc_tw"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_tinh_tp_truc_thuoc_tw",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_dat"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_chua_su_dung"
+    },
+    {
+      "source_id": "khainiem_dat_chua_su_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dao_chua_co_nguoi_o"
+    },
+    {
+      "source_id": "khainiem_dao_chua_co_nguoi_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dia_phuong"
+    },
+    {
+      "source_id": "dieu_8",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_dai_dien_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "chuthe_nguoi_dai_dien_cong_dong_dan_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_duoc_giao_cho_cong_dong_dan_cu_quan_ly"
+    }
+  ]
+}

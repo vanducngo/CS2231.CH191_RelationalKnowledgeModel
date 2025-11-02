@@ -1,0 +1,461 @@
+{
+  "entities": [
+    {
+      "id": "dieu_103",
+      "label": "ĐiềuLuật",
+      "name": "Điều 103"
+    },
+    {
+      "id": "dieu_100",
+      "label": "ĐiềuLuật",
+      "name": "Điều 100"
+    },
+    {
+      "id": "dieu_143",
+      "label": "ĐiềuLuật",
+      "name": "Điều 143"
+    },
+    {
+      "id": "dieu_144",
+      "label": "ĐiềuLuật",
+      "name": "Điều 144"
+    },
+    {
+      "id": "dieu_10",
+      "label": "ĐiềuLuật",
+      "name": "Điều 10"
+    },
+    {
+      "id": "khainiem_dat_vuon_ao",
+      "label": "KháiNiệm",
+      "name": "Đất vườn, ao"
+    },
+    {
+      "id": "khainiem_dat_o",
+      "label": "KháiNiệm",
+      "name": "Đất ở"
+    },
+    {
+      "id": "khainiem_thua_dat_o_co_vuon_ao",
+      "label": "KháiNiệm",
+      "name": "Thửa đất ở có vườn, ao"
+    },
+    {
+      "id": "khainiem_giay_to_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Giấy tờ về quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_dien_tich_dat_o",
+      "label": "KháiNiệm",
+      "name": "Diện tích đất ở"
+    },
+    {
+      "id": "khainiem_han_muc_giao_dat_o",
+      "label": "KháiNiệm",
+      "name": "Hạn mức giao đất ở"
+    },
+    {
+      "id": "khainiem_han_muc_cong_nhan_dat_o",
+      "label": "KháiNiệm",
+      "name": "Hạn mức công nhận đất ở"
+    },
+    {
+      "id": "khainiem_dien_tich_thua_dat",
+      "label": "KháiNiệm",
+      "name": "Diện tích thửa đất"
+    },
+    {
+      "id": "khainiem_phan_dien_tich_dat_vuon_ao_con_lai",
+      "label": "KháiNiệm",
+      "name": "Phần diện tích đất vườn, ao còn lại"
+    },
+    {
+      "id": "khainiem_muc_dich_hien_trang_su_dung",
+      "label": "KháiNiệm",
+      "name": "Mục đích hiện trạng đang sử dụng"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh_ca_nhan",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân"
+    },
+    {
+      "id": "chuthe_nguoi_dang_su_dung",
+      "label": "ChủThể",
+      "name": "Người đang sử dụng"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "Xác định diện tích đất ở"
+    },
+    {
+      "id": "hanhviphaply_duoc_xac_dinh_la_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "Được xác định là đất ở"
+    },
+    {
+      "id": "hanhviphaply_duoc_hinh_thanh",
+      "label": "HànhViPhápLý",
+      "name": "Được hình thành"
+    },
+    {
+      "id": "hanhviphaply_co_giay_to",
+      "label": "HànhViPhápLý",
+      "name": "Có giấy tờ"
+    },
+    {
+      "id": "hanhviphaply_ghi_ro_dien_tich",
+      "label": "HànhViPhápLý",
+      "name": "Ghi rõ diện tích"
+    },
+    {
+      "id": "hanhviphaply_chua_xac_dinh_ro_dien_tich",
+      "label": "HànhViPhápLý",
+      "name": "Chưa xác định rõ diện tích"
+    },
+    {
+      "id": "hanhviphaply_cong_nhan_khong_phai_nop_tien",
+      "label": "HànhViPhápLý",
+      "name": "Công nhận không phải nộp tiền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_han_muc_cong_nhan",
+      "label": "HànhViPhápLý",
+      "name": "Quy định hạn mức công nhận đất ở"
+    },
+    {
+      "id": "hanhviphaply_su_dung_on_dinh",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng ổn định"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    },
+    {
+      "id": "dieukien_trong_cung_mot_thua_dat_co_nha_o",
+      "label": "ĐiềuKiện",
+      "name": "Trong cùng một thửa đất đang có nhà ở"
+    },
+    {
+      "id": "dieukien_hinh_thanh_truoc_18_12_1980",
+      "label": "ĐiềuKiện",
+      "name": "Hình thành trước ngày 18 tháng 12 năm 1980"
+    },
+    {
+      "id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004",
+      "label": "ĐiềuKiện",
+      "name": "Hình thành từ ngày 18 tháng 12 năm 1980 đến trước ngày 01 tháng 7 năm 2004"
+    },
+    {
+      "id": "dieukien_co_giay_to_theo_dieu_100",
+      "label": "ĐiềuKiện",
+      "name": "Có giấy tờ về quyền sử dụng đất quy định tại Điều 100"
+    },
+    {
+      "id": "dieukien_giay_to_ghi_ro_dien_tich_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "Giấy tờ ghi rõ diện tích đất ở"
+    },
+    {
+      "id": "dieukien_giay_to_khong_ghi_ro_dien_tich_dat_o",
+      "label": "ĐiềuKiện",
+      "name": "Giấy tờ không ghi rõ diện tích đất ở"
+    },
+    {
+      "id": "dieukien_khong_co_giay_to_theo_dieu_100",
+      "label": "ĐiềuKiện",
+      "name": "Không có giấy tờ về quyền sử dụng đất quy định tại Điều 100"
+    },
+    {
+      "id": "dieukien_dat_su_dung_on_dinh_tu_truoc_15_10_1993",
+      "label": "ĐiềuKiện",
+      "name": "Đất đã sử dụng ổn định từ trước ngày 15 tháng 10 năm 1993"
+    },
+    {
+      "id": "dieukien_dat_su_dung_on_dinh_tu_15_10_1993",
+      "label": "ĐiềuKiện",
+      "name": "Đất đã sử dụng ổn định kể từ ngày 15 tháng 10 năm 1993"
+    },
+    {
+      "id": "dieukien_dien_tich_thua_dat_lon_hon_han_muc",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích thửa đất lớn hơn hạn mức công nhận đất ở"
+    },
+    {
+      "id": "dieukien_dien_tich_thua_dat_nho_hon_han_muc",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích thửa đất nhỏ hơn hạn mức công nhận đất ở"
+    },
+    {
+      "id": "dieukien_can_cu_dieu_kien_tap_quan_dia_phuong",
+      "label": "ĐiềuKiện",
+      "name": "Căn cứ vào điều kiện, tập quán tại địa phương"
+    },
+    {
+      "id": "dieukien_theo_so_luong_nhan_khau",
+      "label": "ĐiềuKiện",
+      "name": "Theo số lượng nhân khẩu trong hộ gia đình"
+    },
+    {
+      "id": "dieukien_dien_tich_dat_o_theo_khoan_4_dieu_103",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích đất ở được xác định theo mức quy định tại khoản 4 Điều này"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_103",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xac_dinh_dien_tich_dat_o"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thua_dat_o_co_vuon_ao"
+    },
+    {
+      "source_id": "khainiem_dat_vuon_ao",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "khainiem_dat_vuon_ao",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_duoc_xac_dinh_la_dat_o"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_xac_dinh_la_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_cung_mot_thua_dat_co_nha_o"
+    },
+    {
+      "source_id": "khainiem_thua_dat_o_co_vuon_ao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_duoc_hinh_thanh"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_hinh_thanh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hinh_thanh_truoc_18_12_1980"
+    },
+    {
+      "source_id": "dieukien_hinh_thanh_truoc_18_12_1980",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nguoi_dang_su_dung"
+    },
+    {
+      "source_id": "chuthe_nguoi_dang_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_to_theo_dieu_100"
+    },
+    {
+      "source_id": "dieukien_co_giay_to_theo_dieu_100",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_100"
+    },
+    {
+      "source_id": "dieukien_hinh_thanh_truoc_18_12_1980",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_dien_tich_dat_o"
+    },
+    {
+      "source_id": "khainiem_dien_tich_dat_o",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giay_to_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_giay_to_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chua_xac_dinh_ro_dien_tich"
+    },
+    {
+      "source_id": "hanhviphaply_chua_xac_dinh_ro_dien_tich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_dien_tich_dat_o"
+    },
+    {
+      "source_id": "khainiem_dien_tich_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cong_nhan_khong_phai_nop_tien"
+    },
+    {
+      "source_id": "hanhviphaply_cong_nhan_khong_phai_nop_tien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_han_muc_giao_dat_o"
+    },
+    {
+      "source_id": "khainiem_han_muc_giao_dat_o",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_143"
+    },
+    {
+      "source_id": "khainiem_han_muc_giao_dat_o",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_144"
+    },
+    {
+      "source_id": "khainiem_thua_dat_o_co_vuon_ao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004"
+    },
+    {
+      "source_id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nguoi_dang_su_dung"
+    },
+    {
+      "source_id": "chuthe_nguoi_dang_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_to_theo_dieu_100"
+    },
+    {
+      "source_id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_giay_to_ghi_ro_dien_tich_dat_o"
+    },
+    {
+      "source_id": "dieukien_giay_to_ghi_ro_dien_tich_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_dien_tich_dat_o"
+    },
+    {
+      "source_id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_giay_to_khong_ghi_ro_dien_tich_dat_o"
+    },
+    {
+      "source_id": "dieukien_giay_to_khong_ghi_ro_dien_tich_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xac_dinh_dien_tich_dat_o"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quy_dinh_han_muc_cong_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_han_muc_cong_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "khainiem_han_muc_cong_nhan_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_can_cu_dieu_kien_tap_quan_dia_phuong"
+    },
+    {
+      "source_id": "khainiem_han_muc_cong_nhan_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "khainiem_han_muc_cong_nhan_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_so_luong_nhan_khau"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dien_tich_thua_dat_lon_hon_han_muc"
+    },
+    {
+      "source_id": "dieukien_dien_tich_thua_dat_lon_hon_han_muc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_han_muc_cong_nhan_dat_o"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dien_tich_thua_dat_nho_hon_han_muc"
+    },
+    {
+      "source_id": "dieukien_dien_tich_thua_dat_nho_hon_han_muc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_dien_tich_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_co_giay_to_theo_dieu_100"
+    },
+    {
+      "source_id": "dieukien_khong_co_giay_to_theo_dieu_100",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_100"
+    },
+    {
+      "source_id": "dieukien_khong_co_giay_to_theo_dieu_100",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_su_dung_on_dinh"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_on_dinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_su_dung_on_dinh_tu_truoc_15_10_1993"
+    },
+    {
+      "source_id": "dieukien_dat_su_dung_on_dinh_tu_truoc_15_10_1993",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_dien_tich_dat_o_theo_khoan_4_dieu_103"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_on_dinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_su_dung_on_dinh_tu_15_10_1993"
+    },
+    {
+      "source_id": "dieukien_dat_su_dung_on_dinh_tu_15_10_1993",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_dien_tich_dat_o"
+    },
+    {
+      "source_id": "khainiem_dien_tich_dat_o",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_han_muc_giao_dat_o"
+    },
+    {
+      "source_id": "khainiem_han_muc_giao_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "khainiem_phan_dien_tich_dat_vuon_ao_con_lai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_muc_dich_hien_trang_su_dung"
+    },
+    {
+      "source_id": "khainiem_muc_dich_hien_trang_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_10"
+    },
+    {
+      "source_id": "dieu_103",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinh_phu"
+    }
+  ]
+}

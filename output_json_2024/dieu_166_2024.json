@@ -1,0 +1,441 @@
+{
+  "entities": [
+    {
+      "id": "dieu_166",
+      "label": "ĐiềuLuật",
+      "name": "Điều 166"
+    },
+    {
+      "id": "khainiem_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu quốc gia về đất đai"
+    },
+    {
+      "id": "hanhviphaply_quan_ly",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý"
+    },
+    {
+      "id": "hanhviphaply_van_hanh",
+      "label": "HànhViPhápLý",
+      "name": "Vận hành"
+    },
+    {
+      "id": "hanhviphaply_khai_thac",
+      "label": "HànhViPhápLý",
+      "name": "Khai thác"
+    },
+    {
+      "id": "hanhviphaply_ket_noi_lien_thong",
+      "label": "HànhViPhápLý",
+      "name": "Kết nối liên thông"
+    },
+    {
+      "id": "dieukien_bao_dam_an_ninh_an_toan",
+      "label": "ĐiềuKiện",
+      "name": "bảo đảm an ninh, an toàn"
+    },
+    {
+      "id": "khainiem_an_ninh_an_toan",
+      "label": "KháiNiệm",
+      "name": "an ninh, an toàn"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_tap_trung",
+      "label": "HànhViPhápLý",
+      "name": "quản lý tập trung"
+    },
+    {
+      "id": "hanhviphaply_phan_cap_quan_ly",
+      "label": "HànhViPhápLý",
+      "name": "phân cấp quản lý"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước"
+    },
+    {
+      "id": "dieukien_cap_nhat_day_du_chinh_xac_kip_thoi",
+      "label": "ĐiềuKiện",
+      "name": "cập nhật đầy đủ, chính xác, kịp thời"
+    },
+    {
+      "id": "dieukien_phu_hop_voi_hien_trang_quan_ly_su_dung_dat_dai",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với hiện trạng quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "khainiem_coso_du_lieu_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu quốc gia"
+    },
+    {
+      "id": "khainiem_coso_du_lieu_cua_bo_nganh_dia_phuong",
+      "label": "KháiNiệm",
+      "name": "cơ sở dữ liệu của Bộ, ngành, địa phương"
+    },
+    {
+      "id": "hanhviphaply_ket_noi_voi_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "kết nối với cơ sở dữ liệu quốc gia về đất đai"
+    },
+    {
+      "id": "hanhviphaply_cap_nhat_thong_tin",
+      "label": "HànhViPhápLý",
+      "name": "cập nhật thông tin"
+    },
+    {
+      "id": "hanhviphaply_chia_se_thong_tin",
+      "label": "HànhViPhápLý",
+      "name": "chia sẻ thông tin"
+    },
+    {
+      "id": "hanhviphaply_su_dung_thong_tin",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng thông tin"
+    },
+    {
+      "id": "dieukien_ket_noi_hieu_qua_an_toan_phu_hop_chuc_nang",
+      "label": "ĐiềuKiện",
+      "name": "bảo đảm hiệu quả, an toàn, phù hợp với chức năng, nhiệm vụ, quyền hạn"
+    },
+    {
+      "id": "khainiem_du_lieu_co_gia_tri_su_dung_chinh_thuc",
+      "label": "KháiNiệm",
+      "name": "Dữ liệu có giá trị sử dụng chính thức"
+    },
+    {
+      "id": "dieukien_tuong_duong_van_ban_giay_duoc_cung_cap_boi_co_quan_tham_quyen",
+      "label": "ĐiềuKiện",
+      "name": "tương đương văn bản giấy được cơ quan có thẩm quyền cung cấp"
+    },
+    {
+      "id": "chuthe_co_quan_quan_ly_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "label": "ChủThể",
+      "name": "Cơ quan quản lý cơ sở dữ liệu quốc gia về đất đai"
+    },
+    {
+      "id": "chuthe_co_quan_quan_ly_coso_du_lieu_bo_nganh_dia_phuong",
+      "label": "ChủThể",
+      "name": "cơ quan quản lý cơ sở dữ liệu của Bộ, ngành, địa phương"
+    },
+    {
+      "id": "chuthe_to_chuc_chinh_tri",
+      "label": "ChủThể",
+      "name": "tổ chức chính trị"
+    },
+    {
+      "id": "chuthe_to_chuc_chinh_tri_xa_hoi",
+      "label": "ChủThể",
+      "name": "tổ chức chính trị - xã hội"
+    },
+    {
+      "id": "dieukien_trong_pham_vi_chuc_nang_nhiem_vu_quyen_han",
+      "label": "ĐiềuKiện",
+      "name": "thuộc phạm vi chức năng, nhiệm vụ, quyền hạn của mình"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "dieukien_khai_thac_thong_tin_cua_minh",
+      "label": "ĐiềuKiện",
+      "name": "khai thác thông tin của mình"
+    },
+    {
+      "id": "chuthe_to_chuc_ca_nhan",
+      "label": "ChủThể",
+      "name": "Tổ chức, cá nhân"
+    },
+    {
+      "id": "dieukien_duoc_su_dong_y_cua_co_quan_quan_ly_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "label": "ĐiềuKiện",
+      "name": "được sự đồng ý của cơ quan quản lý cơ sở dữ liệu quốc gia về đất đai"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_tiep_can_khai_thac_thong_tin_du_lieu",
+      "label": "HànhViPhápLý",
+      "name": "tiếp cận, khai thác thông tin, dữ liệu về đất đai"
+    },
+    {
+      "id": "hanhviphaply_khuyen_khich_phan_hoi_cung_cap_bo_sung_thong_tin",
+      "label": "HànhViPhápLý",
+      "name": "khuyến khích phản hồi, cung cấp, bổ sung thông tin"
+    },
+    {
+      "id": "hanhviphaply_tra_phi_khai_thac_su_dung_thong_tin_du_lieu",
+      "label": "HànhViPhápLý",
+      "name": "trả phí khai thác, sử dụng thông tin, dữ liệu"
+    },
+    {
+      "id": "chetat_phi_khai_thac_su_dung_tai_lieu_dat_dai",
+      "label": "ChếTài",
+      "name": "phí khai thác, sử dụng tài liệu đất đai"
+    },
+    {
+      "id": "chetat_gia_cung_cap_dich_vu_thong_tin_du_lieu",
+      "label": "ChếTài",
+      "name": "giá cung cấp dịch vụ thông tin, dữ liệu về đất đai"
+    },
+    {
+      "id": "chuthe_bo_truong_bo_tai_chinh",
+      "label": "ChủThể",
+      "name": "Bộ trưởng Bộ Tài chính"
+    },
+    {
+      "id": "hanhviphaply_huong_dan_muc_thu_che_do_thu_nop_quan_ly_su_dung_phi",
+      "label": "HànhViPhápLý",
+      "name": "hướng dẫn mức thu, chế độ thu, nộp, quản lý, sử dụng phí"
+    },
+    {
+      "id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "label": "ChủThể",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "hanhviphaply_quyet_dinh_gia_san_pham_dich_vu_gia_tang",
+      "label": "HànhViPhápLý",
+      "name": "quyết định giá sản phẩm, dịch vụ gia tăng"
+    },
+    {
+      "id": "khainiem_he_thong_thong_tin_quoc_gia_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Hệ thống thông tin quốc gia về đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_166",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly"
+    },
+    {
+      "source_id": "dieu_166",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_van_hanh"
+    },
+    {
+      "source_id": "dieu_166",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khai_thac"
+    },
+    {
+      "source_id": "dieu_166",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ket_noi_lien_thong"
+    },
+    {
+      "source_id": "dieu_166",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_coso_du_lieu_quoc_gia_ve_dat_dai"
+    },
+    {
+      "source_id": "khainiem_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_bao_dam_an_ninh_an_toan"
+    },
+    {
+      "source_id": "dieukien_bao_dam_an_ninh_an_toan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_an_ninh_an_toan"
+    },
+    {
+      "source_id": "khainiem_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_tap_trung"
+    },
+    {
+      "source_id": "khainiem_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_phan_cap_quan_ly"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_tap_trung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nha_nuoc"
+    },
+    {
+      "source_id": "hanhviphaply_phan_cap_quan_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nha_nuoc"
+    },
+    {
+      "source_id": "khainiem_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_cap_nhat_day_du_chinh_xac_kip_thoi"
+    },
+    {
+      "source_id": "khainiem_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_voi_hien_trang_quan_ly_su_dung_dat_dai"
+    },
+    {
+      "source_id": "khainiem_coso_du_lieu_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_ket_noi_voi_coso_du_lieu_quoc_gia_ve_dat_dai"
+    },
+    {
+      "source_id": "khainiem_coso_du_lieu_cua_bo_nganh_dia_phuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_ket_noi_voi_coso_du_lieu_quoc_gia_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_ket_noi_voi_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_nhat_thong_tin"
+    },
+    {
+      "source_id": "hanhviphaply_ket_noi_voi_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chia_se_thong_tin"
+    },
+    {
+      "source_id": "hanhviphaply_ket_noi_voi_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khai_thac"
+    },
+    {
+      "source_id": "hanhviphaply_ket_noi_voi_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_su_dung_thong_tin"
+    },
+    {
+      "source_id": "hanhviphaply_ket_noi_lien_thong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ket_noi_hieu_qua_an_toan_phu_hop_chuc_nang"
+    },
+    {
+      "source_id": "khainiem_coso_du_lieu_quoc_gia_ve_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_lieu_co_gia_tri_su_dung_chinh_thuc"
+    },
+    {
+      "source_id": "khainiem_du_lieu_co_gia_tri_su_dung_chinh_thuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tuong_duong_van_ban_giay_duoc_cung_cap_boi_co_quan_tham_quyen"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_quan_ly_coso_du_lieu_quoc_gia_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_quan_ly_coso_du_lieu_bo_nganh_dia_phuong"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_nha_nuoc"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_chinh_tri"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_chinh_tri_xa_hoi"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_pham_vi_chuc_nang_nhiem_vu_quyen_han"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khai_thac_thong_tin_cua_minh"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_su_dong_y_cua_co_quan_quan_ly_coso_du_lieu_quoc_gia_ve_dat_dai"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tiep_can_khai_thac_thong_tin_du_lieu"
+    },
+    {
+      "source_id": "hanhviphaply_tiep_can_khai_thac_thong_tin_du_lieu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_ca_nhan"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khuyen_khich_phan_hoi_cung_cap_bo_sung_thong_tin"
+    },
+    {
+      "source_id": "hanhviphaply_khuyen_khich_phan_hoi_cung_cap_bo_sung_thong_tin",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_khai_thac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tra_phi_khai_thac_su_dung_thong_tin_du_lieu"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_thong_tin",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tra_phi_khai_thac_su_dung_thong_tin_du_lieu"
+    },
+    {
+      "source_id": "hanhviphaply_tra_phi_khai_thac_su_dung_thong_tin_du_lieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetat_phi_khai_thac_su_dung_tai_lieu_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_tra_phi_khai_thac_su_dung_thong_tin_du_lieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetat_gia_cung_cap_dich_vu_thong_tin_du_lieu"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_chinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huong_dan_muc_thu_che_do_thu_nop_quan_ly_su_dung_phi"
+    },
+    {
+      "source_id": "hanhviphaply_huong_dan_muc_thu_che_do_thu_nop_quan_ly_su_dung_phi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetat_phi_khai_thac_su_dung_tai_lieu_dat_dai"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyet_dinh_gia_san_pham_dich_vu_gia_tang"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_gia_san_pham_dich_vu_gia_tang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetat_gia_cung_cap_dich_vu_thong_tin_du_lieu"
+    },
+    {
+      "source_id": "chetat_phi_khai_thac_su_dung_tai_lieu_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_he_thong_thong_tin_quoc_gia_ve_dat_dai"
+    }
+  ]
+}

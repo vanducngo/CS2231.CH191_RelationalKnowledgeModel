@@ -1,0 +1,133 @@
+{
+  "entities": [
+    {
+      "id": "dieu_224",
+      "label": "ĐiềuLuật",
+      "name": "Điều 224. Nguyên tắc thực hiện thủ tục hành chính về đất đai",
+      "description": "Quy định các nguyên tắc cơ bản khi thực hiện thủ tục hành chính liên quan đến đất đai."
+    },
+    {
+      "id": "hanhviphaply_thutuchanhchinhvedatdai",
+      "label": "HànhViPhápLý",
+      "name": "Thủ tục hành chính về đất đai",
+      "description": "Các thủ tục hành chính do tổ chức, cá nhân yêu cầu và cơ quan nhà nước giải quyết trong lĩnh vực đất đai."
+    },
+    {
+      "id": "khainiem_nguyentacthuchien",
+      "label": "KháiNiệm",
+      "name": "Nguyên tắc thực hiện thủ tục hành chính về đất đai",
+      "description": "Các quy tắc, tiêu chuẩn cốt lõi phải tuân thủ trong quá trình giải quyết thủ tục hành chính về đất đai."
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức",
+      "description": "Chủ thể yêu cầu thực hiện thủ tục hành chính về đất đai."
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân",
+      "description": "Chủ thể yêu cầu thực hiện thủ tục hành chính về đất đai."
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền",
+      "description": "Cơ quan nhà nước có chức năng, nhiệm vụ liên quan đến việc giải quyết thủ tục hành chính về đất đai."
+    },
+    {
+      "id": "chuthe_coquangiaiquyetthutuc",
+      "label": "ChủThể",
+      "name": "Cơ quan giải quyết thủ tục hành chính về đất đai",
+      "description": "Cơ quan trực tiếp chịu trách nhiệm giải quyết thủ tục hành chính theo đúng thẩm quyền và thời gian quy định."
+    },
+    {
+      "id": "dieukien_binhdang_khachquan_congkhai_minhbach",
+      "label": "ĐiềuKiện",
+      "name": "Bình đẳng, khách quan, công khai, minh bạch",
+      "description": "Yêu cầu về thái độ và phương pháp làm việc của cơ quan có thẩm quyền trong quá trình giải quyết thủ tục."
+    },
+    {
+      "id": "dieukien_dongian_dehieu_dethuchien",
+      "label": "ĐiềuKiện",
+      "name": "Đơn giản, dễ hiểu, dễ thực hiện",
+      "description": "Yêu cầu về phương thức thực hiện thủ tục nhằm tiết kiệm thời gian, chi phí, công sức."
+    },
+    {
+      "id": "dieukien_trachnhiemvetinhchinhxac",
+      "label": "ĐiềuKiện",
+      "name": "Trách nhiệm về tính chính xác, trung thực của hồ sơ",
+      "description": "Nghĩa vụ của tổ chức, cá nhân phải chịu trách nhiệm trước pháp luật về nội dung kê khai và giấy tờ đã nộp."
+    },
+    {
+      "id": "dieukien_hinhthucthuchien",
+      "label": "ĐiềuKiện",
+      "name": "Thực hiện trực tiếp, qua bưu chính, hoặc trên môi trường điện tử",
+      "description": "Các phương thức thực hiện thủ tục hành chính có giá trị pháp lý như nhau."
+    },
+    {
+      "id": "dieukien_dungthamquyen_thoigian",
+      "label": "ĐiềuKiện",
+      "name": "Thực hiện đúng thẩm quyền và thời gian",
+      "description": "Nghĩa vụ của cơ quan giải quyết thủ tục phải tuân thủ quy định của pháp luật về thẩm quyền và thời hạn."
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_224",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_nguyentacthuchien"
+    },
+    {
+      "source_id": "dieu_224",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thutuchanhchinhvedatdai"
+    },
+    {
+      "source_id": "hanhviphaply_thutuchanhchinhvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "hanhviphaply_thutuchanhchinhvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "hanhviphaply_thutuchanhchinhvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquancothamquyen"
+    },
+    {
+      "source_id": "hanhviphaply_thutuchanhchinhvedatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_binhdang_khachquan_congkhai_minhbach"
+    },
+    {
+      "source_id": "hanhviphaply_thutuchanhchinhvedatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dongian_dehieu_dethuchien"
+    },
+    {
+      "source_id": "hanhviphaply_thutuchanhchinhvedatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hinhthucthuchien"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trachnhiemvetinhchinhxac"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trachnhiemvetinhchinhxac"
+    },
+    {
+      "source_id": "chuthe_coquangiaiquyetthutuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dungthamquyen_thoigian"
+    }
+  ]
+}

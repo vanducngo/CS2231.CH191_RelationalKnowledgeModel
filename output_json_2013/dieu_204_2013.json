@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "id": "dieu_204",
+      "label": "ĐiềuLuật",
+      "name": "Điều 204"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoicoquyenloiva_nghianvu",
+      "label": "ChủThể",
+      "name": "người có quyền lợi và nghĩa vụ liên quan đến sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_khieunai",
+      "label": "HànhViPhápLý",
+      "name": "khiếu nại"
+    },
+    {
+      "id": "hanhviphaply_khoikien",
+      "label": "HànhViPhápLý",
+      "name": "khởi kiện"
+    },
+    {
+      "id": "khainiem_quyedinhhanhchinh",
+      "label": "KháiNiệm",
+      "name": "quyết định hành chính"
+    },
+    {
+      "id": "khainiem_hanhvihanhchinhvequanlydatdai",
+      "label": "KháiNiệm",
+      "name": "hành vi hành chính về quản lý đất đai"
+    },
+    {
+      "id": "khainiem_trinhtuthuducgiaiquyetkhieunai",
+      "label": "KháiNiệm",
+      "name": "Trình tự, thủ tục giải quyết khiếu nại quyết định hành chính, hành vi hành chính về đất đai"
+    },
+    {
+      "id": "khainiem_phapluatvekhieunai",
+      "label": "KháiNiệm",
+      "name": "pháp luật về khiếu nại"
+    },
+    {
+      "id": "khainiem_trinhtuthuducgiaiquyetkhoikien",
+      "label": "KháiNiệm",
+      "name": "Trình tự, thủ tục giải quyết khiếu kiện quyết định hành chính, hành vi hành chính về đất đai"
+    },
+    {
+      "id": "khainiem_phapluatvetotunghanhchinh",
+      "label": "KháiNiệm",
+      "name": "pháp luật về tố tụng hành chính"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_204",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khieunai"
+    },
+    {
+      "source_id": "dieu_204",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khoikien"
+    },
+    {
+      "source_id": "hanhviphaply_khieunai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_khieunai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoicoquyenloiva_nghianvu"
+    },
+    {
+      "source_id": "hanhviphaply_khoikien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_khoikien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoicoquyenloiva_nghianvu"
+    },
+    {
+      "source_id": "hanhviphaply_khieunai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyedinhhanhchinh"
+    },
+    {
+      "source_id": "hanhviphaply_khieunai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hanhvihanhchinhvequanlydatdai"
+    },
+    {
+      "source_id": "hanhviphaply_khoikien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyedinhhanhchinh"
+    },
+    {
+      "source_id": "hanhviphaply_khoikien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hanhvihanhchinhvequanlydatdai"
+    },
+    {
+      "source_id": "dieu_204",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_trinhtuthuducgiaiquyetkhieunai"
+    },
+    {
+      "source_id": "dieu_204",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_trinhtuthuducgiaiquyetkhoikien"
+    },
+    {
+      "source_id": "khainiem_trinhtuthuducgiaiquyetkhieunai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phapluatvekhieunai"
+    },
+    {
+      "source_id": "khainiem_trinhtuthuducgiaiquyetkhoikien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phapluatvetotunghanhchinh"
+    }
+  ]
+}

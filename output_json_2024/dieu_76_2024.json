@@ -1,0 +1,391 @@
+{
+  "entities": [
+    {
+      "id": "dieu_76",
+      "label": "ĐiềuLuật",
+      "text": "Điều 76"
+    },
+    {
+      "id": "khauniem_to_chuc_thuc_hien_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "text": "Tổ chức thực hiện quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "text": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_to_chuc_thuc_hien_quy_hoach_ke_hoach_su_dung_dat_quoc_gia",
+      "label": "HànhViPhápLý",
+      "text": "tổ chức thực hiện quy hoạch, kế hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "chuthe_thu_tuong_chinh_phu",
+      "label": "ChủThể",
+      "text": "Thủ tướng Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_phan_bo_chi_tieu_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "phân bổ chỉ tiêu sử dụng đất"
+    },
+    {
+      "id": "khauniem_don_vi_hanh_chinh_cap_tinh",
+      "label": "KháiNiệm",
+      "text": "đơn vị hành chính cấp tỉnh"
+    },
+    {
+      "id": "chuthe_bo_quoc_phong",
+      "label": "ChủThể",
+      "text": "Bộ Quốc phòng"
+    },
+    {
+      "id": "chuthe_bo_cong_an",
+      "label": "ChủThể",
+      "text": "Bộ Công an"
+    },
+    {
+      "id": "dieukien_chi_tieu_su_dung_dat_quoc_gia_da_duoc_quoc_hoi_quyet_dinh",
+      "label": "ĐiềuKiện",
+      "text": "trên cơ sở các chỉ tiêu sử dụng đất quốc gia đã được Quốc hội quyết định"
+    },
+    {
+      "id": "hanhviphaply_to_chuc_thuc_hien_quy_hoach_su_dung_dat_quoc_phong",
+      "label": "HànhViPhápLý",
+      "text": "tổ chức thực hiện quy hoạch sử dụng đất quốc phòng"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_quy_hoach_su_dung_dat_an_ninh",
+      "label": "HànhViPhápLý",
+      "text": "thực hiện quy hoạch sử dụng đất an ninh"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "text": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "text": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "hanhviphaply_to_chuc_thuc_hien_quy_hoach_ke_hoach_su_dung_dat_dia_phuong",
+      "label": "HànhViPhápLý",
+      "text": "tổ chức thực hiện quy hoạch, kế hoạch sử dụng đất của địa phương"
+    },
+    {
+      "id": "dieukien_quy_hoach_su_dung_dat_da_cong_bo_cong_khai_chua_co_ke_hoach_su_dung_dat_hang_nam_cap_huyen",
+      "label": "ĐiềuKiện",
+      "text": "quy hoạch sử dụng đất đã được công bố công khai mà chưa có kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "text": "người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_tiep_tuc_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "tiếp tục sử dụng"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_cac_quyen_nguoi_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "thực hiện các quyền của người sử dụng đất theo quy định của Luật này"
+    },
+    {
+      "id": "dieukien_du_an_thuoc_khoan_4_dieu_67_phai_thu_hoi_dat",
+      "label": "ĐiềuKiện",
+      "text": "dự án thuộc trường hợp quy định tại khoản 4 Điều 67 của Luật này mà phải thu hồi đất"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen_noi_co_du_an",
+      "label": "ChủThể",
+      "text": "Ủy ban nhân dân cấp huyện nơi có dự án"
+    },
+    {
+      "id": "hanhviphaply_cong_bo_cong_khai_pham_vi_thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "text": "công bố công khai phạm vi thu hồi đất theo tiến độ của dự án"
+    },
+    {
+      "id": "dieukien_dat_phai_thu_hoi_chuyen_muc_dich_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "text": "diện tích đất phải thu hồi, chuyển mục đích sử dụng đất trong kế hoạch sử dụng đất hằng năm cấp huyện hoặc phải thu hồi, chuyển mục đích sử dụng đất quy định tại khoản 4 Điều 67 của Luật này"
+    },
+    {
+      "id": "hanhviphaply_tiep_tuc_thuc_hien_cac_quyen_nguoi_su_dung_dat_c6",
+      "label": "HànhViPhápLý",
+      "text": "tiếp tục thực hiện các quyền của người sử dụng đất"
+    },
+    {
+      "id": "chetai_khong_duoc_xay_dung_moi_trong_moi_cay",
+      "label": "ChếTài",
+      "text": "không được xây dựng mới nhà ở, công trình, trồng mới cây lâu năm"
+    },
+    {
+      "id": "hanhviphaply_duoc_xay_dung_cai_tao_sua_chua",
+      "label": "HànhViPhápLý",
+      "text": "được xây dựng theo giấy phép xây dựng có thời hạn, cải tạo, sửa chữa nhà ở, công trình hiện có"
+    },
+    {
+      "id": "dieukien_theo_phap_luat_xay_dung_lien_quan",
+      "label": "ĐiềuKiện",
+      "text": "theo quy định của pháp luật về xây dựng và pháp luật có liên quan"
+    },
+    {
+      "id": "dieukien_dat_trong_ke_hoach_su_dung_dat_2_nam_chua_thu_hoi_chuyen_muc_dich",
+      "label": "ĐiềuKiện",
+      "text": "Diện tích đất được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện đã được cơ quan có thẩm quyền phê duyệt thu hồi để thực hiện dự án hoặc phải chuyển mục đích sử dụng đất mà sau 02 năm liên tục được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện chưa có quyết định thu hồi đất hoặc chưa được phép chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "chuthe_co_quan_tham_quyen_phe_duyet_ke_hoach_su_dung_dat_cap_huyen",
+      "label": "ChủThể",
+      "text": "cơ quan có thẩm quyền phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "hanhviphaply_xem_xet_dieu_chinh_huy_bo",
+      "label": "HànhViPhápLý",
+      "text": "xem xét, đánh giá điều chỉnh, hủy bỏ"
+    },
+    {
+      "id": "hanhviphaply_cong_bo_cong_khai_dieu_chinh_huy_bo",
+      "label": "HànhViPhápLý",
+      "text": "công bố công khai việc điều chỉnh, hủy bỏ"
+    },
+    {
+      "id": "dieukien_co_quan_khong_dieu_chinh_huy_bo_hoac_khong_cong_bo_cong_khai",
+      "label": "ĐiềuKiện",
+      "text": "cơ quan có thẩm quyền phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện không điều chỉnh, hủy bỏ hoặc có điều chỉnh, hủy bỏ nhưng không công bố công khai"
+    },
+    {
+      "id": "chetai_khong_bi_han_che_quyen_su_dung_dat",
+      "label": "ChếTài",
+      "text": "không bị hạn chế về các quyền sử dụng đất đã được pháp luật quy định"
+    },
+    {
+      "id": "hanhviphaply_to_chuc_ra_soat_xu_ly_cong_bo_thu_hoi_chuyen_muc_dich_dieu_chinh_huy_bo",
+      "label": "HànhViPhápLý",
+      "text": "tổ chức rà soát, xử lý và công bố công khai việc thu hồi đất, chuyển mục đích sử dụng đất, điều chỉnh, hủy bỏ việc thu hồi đất, chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "dieukien_dat_da_ghi_trong_ke_hoach_su_dung_dat_hang_nam_cap_huyen",
+      "label": "ĐiềuKiện",
+      "text": "đối với đất đã được ghi trong kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "hanhviphaply_gui_thong_tin_den_cac_co_quan",
+      "label": "HànhViPhápLý",
+      "text": "gửi thông tin đến Bộ Tài nguyên và Môi trường, Ủy ban nhân dân cấp huyện và Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_bo_tai_nguyen_moi_truong",
+      "label": "ChủThể",
+      "text": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "text": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_nguyen_tac_tieu_chi_phan_bo_chi_tieu_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "quy định nguyên tắc, tiêu chí phân bổ chỉ tiêu sử dụng đất cấp tỉnh, chỉ tiêu sử dụng đất cấp huyện"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet_dieu_76",
+      "label": "HànhViPhápLý",
+      "text": "quy định chi tiết Điều này"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_ve_lap_tham_dinh_dieu_chinh_phe_duyet_cong_bo_ke_hoach_quy_hoach_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "quy định chi tiết việc lập, thẩm định, điều chỉnh, lấy ý kiến, phê duyệt, công bố kế hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất cấp tỉnh, quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_76",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_to_chuc_thuc_hien_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_to_chuc_thuc_hien_quy_hoach_ke_hoach_su_dung_dat_quoc_gia"
+    },
+    {
+      "source_id": "chuthe_thu_tuong_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_phan_bo_chi_tieu_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_phan_bo_chi_tieu_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_don_vi_hanh_chinh_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_phan_bo_chi_tieu_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_bo_quoc_phong"
+    },
+    {
+      "source_id": "hanhviphaply_phan_bo_chi_tieu_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_bo_cong_an"
+    },
+    {
+      "source_id": "hanhviphaply_phan_bo_chi_tieu_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chi_tieu_su_dung_dat_quoc_gia_da_duoc_quoc_hoi_quyet_dinh"
+    },
+    {
+      "source_id": "chuthe_bo_quoc_phong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_to_chuc_thuc_hien_quy_hoach_su_dung_dat_quoc_phong"
+    },
+    {
+      "source_id": "chuthe_bo_cong_an",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_quy_hoach_su_dung_dat_an_ninh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_to_chuc_thuc_hien_quy_hoach_ke_hoach_su_dung_dat_dia_phuong"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_to_chuc_thuc_hien_quy_hoach_ke_hoach_su_dung_dat_dia_phuong"
+    },
+    {
+      "source_id": "dieukien_quy_hoach_su_dung_dat_da_cong_bo_cong_khai_chua_co_ke_hoach_su_dung_dat_hang_nam_cap_huyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tiep_tuc_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_cac_quyen_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_du_an_thuoc_khoan_4_dieu_67_phai_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen_noi_co_du_an"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen_noi_co_du_an",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cong_bo_cong_khai_pham_vi_thu_hoi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai_pham_vi_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_dat_phai_thu_hoi_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tiep_tuc_thuc_hien_cac_quyen_nguoi_su_dung_dat_c6"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetai_khong_duoc_xay_dung_moi_trong_moi_cay"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duoc_xay_dung_cai_tao_sua_chua"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_xay_dung_cai_tao_sua_chua",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_phap_luat_xay_dung_lien_quan"
+    },
+    {
+      "source_id": "dieukien_dat_trong_ke_hoach_su_dung_dat_2_nam_chua_thu_hoi_chuyen_muc_dich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_co_quan_tham_quyen_phe_duyet_ke_hoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "chuthe_co_quan_tham_quyen_phe_duyet_ke_hoach_su_dung_dat_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xem_xet_dieu_chinh_huy_bo"
+    },
+    {
+      "source_id": "chuthe_co_quan_tham_quyen_phe_duyet_ke_hoach_su_dung_dat_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cong_bo_cong_khai_dieu_chinh_huy_bo"
+    },
+    {
+      "source_id": "dieukien_co_quan_khong_dieu_chinh_huy_bo_hoac_khong_cong_bo_cong_khai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chetai_khong_bi_han_che_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_to_chuc_ra_soat_xu_ly_cong_bo_thu_hoi_chuyen_muc_dich_dieu_chinh_huy_bo"
+    },
+    {
+      "source_id": "hanhviphaply_to_chuc_ra_soat_xu_ly_cong_bo_thu_hoi_chuyen_muc_dich_dieu_chinh_huy_bo",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_dat_da_ghi_trong_ke_hoach_su_dung_dat_hang_nam_cap_huyen"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_gui_thong_tin_den_cac_co_quan"
+    },
+    {
+      "source_id": "hanhviphaply_gui_thong_tin_den_cac_co_quan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_bo_tai_nguyen_moi_truong"
+    },
+    {
+      "source_id": "hanhviphaply_gui_thong_tin_den_cac_co_quan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
+    },
+    {
+      "source_id": "hanhviphaply_gui_thong_tin_den_cac_co_quan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quy_dinh_nguyen_tac_tieu_chi_phan_bo_chi_tieu_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet_dieu_76"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quy_dinh_ve_lap_tham_dinh_dieu_chinh_phe_duyet_cong_bo_ke_hoach_quy_hoach_su_dung_dat"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "entities": [
+    {
+      "id": "dieu_25",
+      "label": "ĐiềuLuật",
+      "name": "Điều 25"
+    },
+    {
+      "id": "chuthe_congchucdiachinh",
+      "label": "ChủThể",
+      "name": "Công chức địa chính ở xã, phường, thị trấn"
+    },
+    {
+      "id": "chuthe_xaphuongthitran",
+      "label": "ChủThể",
+      "name": "Xã, phường, thị trấn"
+    },
+    {
+      "id": "khainiem_congtacdiachinh",
+      "label": "KháiNiệm",
+      "name": "công tác địa chính"
+    },
+    {
+      "id": "khainiem_luatcanbocongchuc",
+      "label": "KháiNiệm",
+      "name": "Luật cán bộ, công chức"
+    },
+    {
+      "id": "chuthe_uỷbannhandancapxa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "khainiem_quanlydatdai",
+      "label": "KháiNiệm",
+      "name": "quản lý đất đai"
+    },
+    {
+      "id": "hanhviphaply_lamcongtacdiachinh",
+      "label": "HànhViPhápLý",
+      "name": "làm công tác địa chính"
+    },
+    {
+      "id": "hanhviphaply_giupquanlydatdai",
+      "label": "HànhViPhápLý",
+      "name": "giúp quản lý đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_25",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_congchucdiachinh"
+    },
+    {
+      "source_id": "dieu_25",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_xaphuongthitran"
+    },
+    {
+      "source_id": "chuthe_xaphuongthitran",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_lamcongtacdiachinh"
+    },
+    {
+      "source_id": "hanhviphaply_lamcongtacdiachinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congchucdiachinh"
+    },
+    {
+      "source_id": "hanhviphaply_lamcongtacdiachinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_congtacdiachinh"
+    },
+    {
+      "source_id": "hanhviphaply_lamcongtacdiachinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_luatcanbocongchuc"
+    },
+    {
+      "source_id": "chuthe_congchucdiachinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_giupquanlydatdai"
+    },
+    {
+      "source_id": "hanhviphaply_giupquanlydatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uỷbannhandancapxa"
+    },
+    {
+      "source_id": "hanhviphaply_giupquanlydatdai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quanlydatdai"
+    }
+  ]
+}

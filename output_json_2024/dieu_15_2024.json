@@ -1,0 +1,201 @@
+{
+  "entities": [
+    {
+      "id": "dieu_15",
+      "label": "ĐiềuLuật",
+      "name": "Điều 15. Trách nhiệm của Nhà nước đối với người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_ngoisudungdat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "chuthe_ngoitructiepsanxuatnongnghiepkhongcodatsanxuat",
+      "label": "ChủThể",
+      "name": "người trực tiếp sản xuất nông nghiệp không có đất sản xuất"
+    },
+    {
+      "id": "hanhviphaply_cochinhsachtaodieukien",
+      "label": "HànhViPhápLý",
+      "name": "Có chính sách tạo điều kiện"
+    },
+    {
+      "id": "hanhviphaply_daotaonghe",
+      "label": "HànhViPhápLý",
+      "name": "đào tạo nghề"
+    },
+    {
+      "id": "hanhviphaply_chuyendoinghe",
+      "label": "HànhViPhápLý",
+      "name": "chuyển đổi nghề"
+    },
+    {
+      "id": "hanhviphaply_timkiemvieclam",
+      "label": "HànhViPhápLý",
+      "name": "tìm kiếm việc làm"
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "hanhviphaply_thuchienboithuonghotrotaidinhcu",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_tuyentruyenphobienhuongdantrogiapphaply",
+      "label": "HànhViPhápLý",
+      "name": "Tuyên truyền, phổ biến, hướng dẫn, trợ giúp pháp lý"
+    },
+    {
+      "id": "hanhviphaply_thuchienchinhsachphapluat",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện chính sách, pháp luật, thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "hanhviphaply_khaithacthongtincosodulieudatdai",
+      "label": "HànhViPhápLý",
+      "name": "khai thác thông tin trong cơ sở dữ liệu quốc gia về đất đai"
+    },
+    {
+      "id": "hanhviphaply_giaiquyettranhchapdatdai",
+      "label": "HànhViPhápLý",
+      "name": "Giải quyết tranh chấp đất đai"
+    },
+    {
+      "id": "hanhviphaply_giaiquyetkhieunaitocao",
+      "label": "HànhViPhápLý",
+      "name": "giải quyết khiếu nại, tố cáo về đất đai"
+    },
+    {
+      "id": "dieukien_quatrinhchuyendoicocausudungdatvachuyendoicocaukinhte",
+      "label": "ĐiềuKiện",
+      "name": "quá trình chuyển đổi cơ cấu sử dụng đất và chuyển đổi cơ cấu kinh tế"
+    },
+    {
+      "id": "dieukien_coodudieukienphapluatdatdai",
+      "label": "ĐiềuKiện",
+      "name": "có đủ điều kiện theo quy định của pháp luật về đất đai"
+    },
+    {
+      "id": "dieukien_mucdichthuhoidatquocphonganninhkinhtexahoi",
+      "label": "ĐiềuKiện",
+      "name": "mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cochinhsachtaodieukien"
+    },
+    {
+      "source_id": "hanhviphaply_cochinhsachtaodieukien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoitructiepsanxuatnongnghiepkhongcodatsanxuat"
+    },
+    {
+      "source_id": "chuthe_ngoitructiepsanxuatnongnghiepkhongcodatsanxuat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quatrinhchuyendoicocausudungdatvachuyendoicocaukinhte"
+    },
+    {
+      "source_id": "hanhviphaply_cochinhsachtaodieukien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_daotaonghe"
+    },
+    {
+      "source_id": "hanhviphaply_cochinhsachtaodieukien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chuyendoinghe"
+    },
+    {
+      "source_id": "hanhviphaply_cochinhsachtaodieukien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_timkiemvieclam"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_coodudieukienphapluatdatdai"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuchienboithuonghotrotaidinhcu"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienboithuonghotrotaidinhcu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienboithuonghotrotaidinhcu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_mucdichthuhoidatquocphonganninhkinhtexahoi"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tuyentruyenphobienhuongdantrogiapphaply"
+    },
+    {
+      "source_id": "hanhviphaply_tuyentruyenphobienhuongdantrogiapphaply",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_tuyentruyenphobienhuongdantrogiapphaply",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuchienchinhsachphapluat"
+    },
+    {
+      "source_id": "hanhviphaply_tuyentruyenphobienhuongdantrogiapphaply",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_khaithacthongtincosodulieudatdai"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giaiquyettranhchapdatdai"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giaiquyetkhieunaitocao"
+    }
+  ]
+}

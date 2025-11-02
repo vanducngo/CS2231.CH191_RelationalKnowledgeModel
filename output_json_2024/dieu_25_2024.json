@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "id": "dieu_25",
+      "label": "ĐiềuLuật",
+      "name": "Điều 25"
+    },
+    {
+      "id": "khauniem_nghia_vu_cua_cong_dan_doi_voi_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Nghĩa vụ của công dân đối với đất đai"
+    },
+    {
+      "id": "chuthe_cong_dan",
+      "label": "ChủThể",
+      "name": "công dân"
+    },
+    {
+      "id": "hanhviphaply_chap_hanh_dung_cac_quy_dinh_cua_phap_luat_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "Chấp hành đúng các quy định của pháp luật về đất đai"
+    },
+    {
+      "id": "khauniem_phap_luat_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "pháp luật về đất đai"
+    },
+    {
+      "id": "hanhviphaply_giu_gin_bao_ve_va_phat_trien_tai_nguyen_dat",
+      "label": "HànhViPhápLý",
+      "name": "Giữ gìn, bảo vệ và phát triển tài nguyên đất"
+    },
+    {
+      "id": "khauniem_tai_nguyen_dat",
+      "label": "KháiNiệm",
+      "name": "tài nguyên đất"
+    },
+    {
+      "id": "hanhviphaply_ton_trong_quyen_su_dung_dat_cua_nguoi_su_dung_dat_khac",
+      "label": "HànhViPhápLý",
+      "name": "Tôn trọng quyền sử dụng đất của người sử dụng đất khác"
+    },
+    {
+      "id": "khauniem_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat_khac",
+      "label": "ChủThể",
+      "name": "người sử dụng đất khác"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_25",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_nghia_vu_cua_cong_dan_doi_voi_dat_dai"
+    },
+    {
+      "source_id": "khauniem_nghia_vu_cua_cong_dan_doi_voi_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_cong_dan"
+    },
+    {
+      "source_id": "chuthe_cong_dan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chap_hanh_dung_cac_quy_dinh_cua_phap_luat_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_chap_hanh_dung_cac_quy_dinh_cua_phap_luat_ve_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_phap_luat_ve_dat_dai"
+    },
+    {
+      "source_id": "chuthe_cong_dan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_giu_gin_bao_ve_va_phat_trien_tai_nguyen_dat"
+    },
+    {
+      "source_id": "hanhviphaply_giu_gin_bao_ve_va_phat_trien_tai_nguyen_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_tai_nguyen_dat"
+    },
+    {
+      "source_id": "chuthe_cong_dan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_ton_trong_quyen_su_dung_dat_cua_nguoi_su_dung_dat_khac"
+    },
+    {
+      "source_id": "hanhviphaply_ton_trong_quyen_su_dung_dat_cua_nguoi_su_dung_dat_khac",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_ton_trong_quyen_su_dung_dat_cua_nguoi_su_dung_dat_khac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat_khac"
+    }
+  ]
+}

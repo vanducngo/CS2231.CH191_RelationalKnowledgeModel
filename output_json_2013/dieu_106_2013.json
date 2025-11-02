@@ -1,0 +1,341 @@
+{
+  "entities": [
+    {
+      "id": "dieu_106",
+      "label": "ĐiềuLuật",
+      "name": "Điều 106. Đính chính, thu hồi Giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "hanhvi_dinhchinh_giaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Đính chính Giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "hanhvi_thuhoi_giaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi Giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "chuthe_coquan_thamquyen_cap_giaychungnhan",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền cấp Giấy chứng nhận"
+    },
+    {
+      "id": "khaikiem_giaychungnhan_dacap",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "dieukien_saisot_thongtin_nguoisudung",
+      "label": "ĐiềuKiện",
+      "name": "Có sai sót thông tin về tên gọi, giấy tờ pháp nhân hoặc nhân thân, địa chỉ của người sử dụng đất, chủ sở hữu tài sản gắn liền với đất so với giấy tờ pháp nhân hoặc nhân thân tại thời điểm cấp Giấy chứng nhận của người đó"
+    },
+    {
+      "id": "chuthe_nguoi_sudungdat_chusohuu_taisan",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieukien_saisot_thongtin_thuadat_taisan",
+      "label": "ĐiềuKiện",
+      "name": "Có sai sót thông tin về thửa đất, tài sản gắn liền với đất so với hồ sơ kê khai đăng ký đất đai, tài sản gắn liền với đất đã được cơ quan đăng ký đất đai kiểm tra xác nhận"
+    },
+    {
+      "id": "khaikiem_hosokekhai_dangky_datdai_taisan",
+      "label": "KháiNiệm",
+      "name": "Hồ sơ kê khai đăng ký đất đai, tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_coquan_dangky_datdai",
+      "label": "ChủThể",
+      "name": "Cơ quan đăng ký đất đai"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "dieukien_nhanuoc_thuhoi_toanbodientich",
+      "label": "ĐiềuKiện",
+      "name": "Nhà nước thu hồi toàn bộ diện tích đất trên Giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "hanhvi_capdoi_giaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp đổi Giấy chứng nhận đã cấp"
+    },
+    {
+      "id": "hanhvi_dangky_biendong_datdai_taisan",
+      "label": "HànhViPhápLý",
+      "name": "Đăng ký biến động đất đai, tài sản gắn liền với đất"
+    },
+    {
+      "id": "hanhvi_capmoi_giaychungnhan_quyen_sd_sh",
+      "label": "HànhViPhápLý",
+      "name": "Cấp mới Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "dieukien_giaychungnhan_khongdung_thamquyen",
+      "label": "ĐiềuKiện",
+      "name": "Giấy chứng nhận đã cấp không đúng thẩm quyền"
+    },
+    {
+      "id": "dieukien_giaychungnhan_khongdung_doituong",
+      "label": "ĐiềuKiện",
+      "name": "Không đúng đối tượng sử dụng đất"
+    },
+    {
+      "id": "dieukien_giaychungnhan_khongdung_dientich",
+      "label": "ĐiềuKiện",
+      "name": "Không đúng diện tích đất"
+    },
+    {
+      "id": "dieukien_giaychungnhan_khongdu_dieukien",
+      "label": "ĐiềuKiện",
+      "name": "Không đủ điều kiện được cấp"
+    },
+    {
+      "id": "dieukien_giaychungnhan_khongdung_mucdich",
+      "label": "ĐiềuKiện",
+      "name": "Không đúng mục đích sử dụng đất"
+    },
+    {
+      "id": "dieukien_giaychungnhan_khongdung_thoihan",
+      "label": "ĐiềuKiện",
+      "name": "Không đúng thời hạn sử dụng đất"
+    },
+    {
+      "id": "dieukien_giaychungnhan_khongdung_nguongoc",
+      "label": "ĐiềuKiện",
+      "name": "Không đúng nguồn gốc sử dụng đất"
+    },
+    {
+      "id": "khaikiem_phapluat_datdai",
+      "label": "KháiNiệm",
+      "name": "Quy định của pháp luật đất đai"
+    },
+    {
+      "id": "dieukien_ngoaitru_chuyenquyen_sudung_sohuu",
+      "label": "ĐiềuKiện",
+      "name": "Người được cấp Giấy chứng nhận đó đã thực hiện chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật đất đai"
+    },
+    {
+      "id": "hanhvi_chuyenquyen_sudung_sohuu",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieukien_co_ketluan_thanhtra",
+      "label": "ĐiềuKiện",
+      "name": "Đã có kết luận của cơ quan thanh tra cùng cấp"
+    },
+    {
+      "id": "chuthe_coquan_thanhtra_cungcap",
+      "label": "ChủThể",
+      "name": "Cơ quan thanh tra cùng cấp"
+    },
+    {
+      "id": "dieukien_co_vanban_hieuluc_giaiquyet_tranhchap",
+      "label": "ĐiềuKiện",
+      "name": "Văn bản có hiệu lực của cơ quan nhà nước có thẩm quyền về giải quyết tranh chấp đất đai"
+    },
+    {
+      "id": "chuthe_coquan_nhanuoc_giaiquyet_tranhchap",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền về giải quyết tranh chấp đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_106",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_dinhchinh_giaychungnhan"
+    },
+    {
+      "source_id": "dieu_106",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thuhoi_giaychungnhan"
+    },
+    {
+      "source_id": "hanhvi_dinhchinh_giaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquan_thamquyen_cap_giaychungnhan"
+    },
+    {
+      "source_id": "hanhvi_dinhchinh_giaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_giaychungnhan_dacap"
+    },
+    {
+      "source_id": "hanhvi_dinhchinh_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_saisot_thongtin_nguoisudung"
+    },
+    {
+      "source_id": "hanhvi_dinhchinh_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_saisot_thongtin_thuadat_taisan"
+    },
+    {
+      "source_id": "dieukien_saisot_thongtin_nguoisudung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_sudungdat_chusohuu_taisan"
+    },
+    {
+      "source_id": "dieukien_saisot_thongtin_thuadat_taisan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_hosokekhai_dangky_datdai_taisan"
+    },
+    {
+      "source_id": "khaikiem_hosokekhai_dangky_datdai_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquan_dangky_datdai"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_giaychungnhan_dacap"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_nhanuoc_thuhoi_toanbodientich"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_capdoi_giaychungnhan"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_dangky_biendong_datdai_taisan"
+    },
+    {
+      "source_id": "hanhvi_dangky_biendong_datdai_taisan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_sudungdat_chusohuu_taisan"
+    },
+    {
+      "source_id": "hanhvi_dangky_biendong_datdai_taisan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_capmoi_giaychungnhan_quyen_sd_sh"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_giaychungnhan_khongdung_thamquyen"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_giaychungnhan_khongdung_doituong"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_giaychungnhan_khongdung_dientich"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_giaychungnhan_khongdu_dieukien"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_giaychungnhan_khongdung_mucdich"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_giaychungnhan_khongdung_thoihan"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_giaychungnhan_khongdung_nguongoc"
+    },
+    {
+      "source_id": "dieukien_giaychungnhan_khongdung_thamquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phapluat_datdai"
+    },
+    {
+      "source_id": "dieukien_giaychungnhan_khongdung_doituong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phapluat_datdai"
+    },
+    {
+      "source_id": "dieukien_giaychungnhan_khongdung_dientich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phapluat_datdai"
+    },
+    {
+      "source_id": "dieukien_giaychungnhan_khongdu_dieukien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phapluat_datdai"
+    },
+    {
+      "source_id": "dieukien_giaychungnhan_khongdung_mucdich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phapluat_datdai"
+    },
+    {
+      "source_id": "dieukien_giaychungnhan_khongdung_thoihan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phapluat_datdai"
+    },
+    {
+      "source_id": "dieukien_giaychungnhan_khongdung_nguongoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phapluat_datdai"
+    },
+    {
+      "source_id": "dieukien_ngoaitru_chuyenquyen_sudung_sohuu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_chuyenquyen_sudung_sohuu"
+    },
+    {
+      "source_id": "dieukien_ngoaitru_chuyenquyen_sudung_sohuu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_sudungdat_chusohuu_taisan"
+    },
+    {
+      "source_id": "hanhvi_chuyenquyen_sudung_sohuu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phapluat_datdai"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquan_thamquyen_cap_giaychungnhan"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_co_ketluan_thanhtra"
+    },
+    {
+      "source_id": "hanhvi_thuhoi_giaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_co_vanban_hieuluc_giaiquyet_tranhchap"
+    },
+    {
+      "source_id": "dieukien_co_ketluan_thanhtra",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_thanhtra_cungcap"
+    },
+    {
+      "source_id": "dieukien_co_vanban_hieuluc_giaiquyet_tranhchap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_nhanuoc_giaiquyet_tranhchap"
+    }
+  ]
+}

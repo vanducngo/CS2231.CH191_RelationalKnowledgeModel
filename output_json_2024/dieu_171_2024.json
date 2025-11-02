@@ -1,0 +1,286 @@
+{
+  "entities": [
+    {
+      "id": "dieu_171",
+      "label": "ĐiềuLuật",
+      "name": "Điều 171"
+    },
+    {
+      "id": "khainiem_dat_su_dung_on_dinh_lau_dai",
+      "label": "KháiNiệm",
+      "name": "Đất sử dụng ổn định lâu dài"
+    },
+    {
+      "id": "khainiem_dat_o",
+      "label": "KháiNiệm",
+      "name": "Đất ở"
+    },
+    {
+      "id": "khainiem_dat_nong_nghiep_do_cong_dong_dan_cu_su_dung",
+      "label": "KháiNiệm",
+      "name": "Đất nông nghiệp do cộng đồng dân cư sử dụng"
+    },
+    {
+      "id": "chuthe_cong_dong_dan_cu",
+      "label": "ChủThể",
+      "name": "cộng đồng dân cư"
+    },
+    {
+      "id": "khainiem_dat_rung_dac_dung",
+      "label": "KháiNiệm",
+      "name": "Đất rừng đặc dụng"
+    },
+    {
+      "id": "khainiem_dat_rung_phong_ho",
+      "label": "KháiNiệm",
+      "name": "Đất rừng phòng hộ"
+    },
+    {
+      "id": "khainiem_dat_rung_san_xuat",
+      "label": "KháiNiệm",
+      "name": "Đất rừng sản xuất"
+    },
+    {
+      "id": "chuthe_to_chuc",
+      "label": "ChủThể",
+      "name": "tổ chức"
+    },
+    {
+      "id": "khainiem_dat_thuong_mai_dich_vu",
+      "label": "KháiNiệm",
+      "name": "Đất thương mại, dịch vụ"
+    },
+    {
+      "id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "Đất cơ sở sản xuất phi nông nghiệp"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "dieukien_dang_su_dung_on_dinh_duoc_nha_nuoc_cong_nhan",
+      "label": "ĐiềuKiện",
+      "name": "đang sử dụng ổn định được Nhà nước công nhận"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "dieukien_khong_phai_dat_duoc_nha_nuoc_giao_co_thoi_han_cho_thue",
+      "label": "ĐiềuKiện",
+      "name": "không phải là đất được Nhà nước giao có thời hạn, cho thuê"
+    },
+    {
+      "id": "khainiem_dat_xay_dung_tru_so_co_quan",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng trụ sở cơ quan"
+    },
+    {
+      "id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng công trình sự nghiệp"
+    },
+    {
+      "id": "chuthe_don_vi_su_nghiep_cong_lap",
+      "label": "ChủThể",
+      "name": "đơn vị sự nghiệp công lập"
+    },
+    {
+      "id": "khainiem_dat_quoc_phong_an_ninh",
+      "label": "KháiNiệm",
+      "name": "Đất quốc phòng, an ninh"
+    },
+    {
+      "id": "khainiem_dat_tin_nguong",
+      "label": "KháiNiệm",
+      "name": "Đất tín ngưỡng"
+    },
+    {
+      "id": "khainiem_dat_ton_giao",
+      "label": "KháiNiệm",
+      "name": "Đất tôn giáo"
+    },
+    {
+      "id": "khainiem_dat_su_dung_vao_muc_dich_cong_cong_khong_co_muc_dich_kinh_doanh",
+      "label": "KháiNiệm",
+      "name": "Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh"
+    },
+    {
+      "id": "dieukien_khong_co_muc_dich_kinh_doanh",
+      "label": "ĐiềuKiện",
+      "name": "không có mục đích kinh doanh"
+    },
+    {
+      "id": "khainiem_dat_nghia_trang_nha_tang_le_co_so_hoa_tang",
+      "label": "KháiNiệm",
+      "name": "Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng"
+    },
+    {
+      "id": "khainiem_dat_co_so_luu_giu_tro_cot",
+      "label": "KháiNiệm",
+      "name": "Đất cơ sở lưu giữ tro cốt"
+    },
+    {
+      "id": "khainiem_dat_quy_dinh_tai_khoan_3_dieu_173",
+      "label": "KháiNiệm",
+      "name": "Đất quy định tại khoản 3 Điều 173"
+    },
+    {
+      "id": "khainiem_dat_quy_dinh_tai_khoan_2_dieu_174",
+      "label": "KháiNiệm",
+      "name": "Đất quy định tại khoản 2 Điều 174"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_su_dung_on_dinh_lau_dai"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_o"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_nong_nghiep_do_cong_dong_dan_cu_su_dung"
+    },
+    {
+      "source_id": "khainiem_dat_nong_nghiep_do_cong_dong_dan_cu_su_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_rung_dac_dung"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_rung_phong_ho"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_rung_san_xuat"
+    },
+    {
+      "source_id": "khainiem_dat_rung_san_xuat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_thuong_mai_dich_vu"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep"
+    },
+    {
+      "source_id": "khainiem_dat_thuong_mai_dich_vu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "khainiem_dat_thuong_mai_dich_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_su_dung_on_dinh_duoc_nha_nuoc_cong_nhan"
+    },
+    {
+      "source_id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_su_dung_on_dinh_duoc_nha_nuoc_cong_nhan"
+    },
+    {
+      "source_id": "dieukien_dang_su_dung_on_dinh_duoc_nha_nuoc_cong_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "khainiem_dat_thuong_mai_dich_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_phai_dat_duoc_nha_nuoc_giao_co_thoi_han_cho_thue"
+    },
+    {
+      "source_id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_phai_dat_duoc_nha_nuoc_giao_co_thoi_han_cho_thue"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_xay_dung_tru_so_co_quan"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep"
+    },
+    {
+      "source_id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_don_vi_su_nghiep_cong_lap"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_tin_nguong"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_ton_giao"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_su_dung_vao_muc_dich_cong_cong_khong_co_muc_dich_kinh_doanh"
+    },
+    {
+      "source_id": "khainiem_dat_su_dung_vao_muc_dich_cong_cong_khong_co_muc_dich_kinh_doanh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_co_muc_dich_kinh_doanh"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_nghia_trang_nha_tang_le_co_so_hoa_tang"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_co_so_luu_giu_tro_cot"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_quy_dinh_tai_khoan_3_dieu_173"
+    },
+    {
+      "source_id": "dieu_171",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_quy_dinh_tai_khoan_2_dieu_174"
+    }
+  ]
+}

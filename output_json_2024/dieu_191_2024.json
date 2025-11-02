@@ -1,0 +1,226 @@
+{
+  "entities": [
+    {
+      "id": "dieu_191",
+      "label": "ĐiềuLuật",
+      "name": "Điều 191 Luật Đất đai 2024"
+    },
+    {
+      "id": "khainiem_datbaiboivensongvenbien",
+      "label": "KháiNiệm",
+      "name": "Đất bãi bồi ven sông, ven biển"
+    },
+    {
+      "id": "khainiem_datbaisong",
+      "label": "KháiNiệm",
+      "name": "Đất bãi sông"
+    },
+    {
+      "id": "khainiem_datbainoi",
+      "label": "KháiNiệm",
+      "name": "Đất bãi nổi"
+    },
+    {
+      "id": "khainiem_culaotrensong",
+      "label": "KháiNiệm",
+      "name": "Cù lao trên sông"
+    },
+    {
+      "id": "khainiem_datbaiboivenbien",
+      "label": "KháiNiệm",
+      "name": "Đất bãi bồi ven biển"
+    },
+    {
+      "id": "khainiem_culaotrenbien",
+      "label": "KháiNiệm",
+      "name": "Cù lao trên biển"
+    },
+    {
+      "id": "chuthe_uybannhandancaphuyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_nguoigocvietnamdincuoonuocngoai",
+      "label": "ChủThể",
+      "name": "Người gốc Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "chuthe_coquannhanuoccothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_quanlydatbaiboi",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý đất bãi bồi ven sông, ven biển"
+    },
+    {
+      "id": "hanhviphaply_giaochothuedatbaiboi",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất, cho thuê đất bãi bồi ven sông, ven biển"
+    },
+    {
+      "id": "hanhviphaply_lapquyhoachkehoachsddat",
+      "label": "HànhViPhápLý",
+      "name": "Lập quy hoạch, kế hoạch sử dụng đất bãi bồi"
+    },
+    {
+      "id": "hanhviphaply_dieutrakhaosatdanhgia",
+      "label": "HànhViPhápLý",
+      "name": "Điều tra, khảo sát, theo dõi, đánh giá quỹ đất bãi bồi"
+    },
+    {
+      "id": "hanhviphaply_sudungdatbaiboi",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất bãi bồi ven sông, ven biển"
+    },
+    {
+      "id": "dieukien_baotonthiennhien",
+      "label": "ĐiềuKiện",
+      "name": "Nguyên tắc bảo tồn thiên nhiên, đa dạng sinh học"
+    },
+    {
+      "id": "dieukien_baovemoitruong",
+      "label": "ĐiềuKiện",
+      "name": "Nguyên tắc bảo vệ môi trường"
+    },
+    {
+      "id": "dieukien_phongchongsatlo",
+      "label": "ĐiềuKiện",
+      "name": "Nguyên tắc phòng, chống sạt, lở lòng, bờ, bãi sông"
+    },
+    {
+      "id": "dieukien_phongchongthientai",
+      "label": "ĐiềuKiện",
+      "name": "Nguyên tắc phòng chống thiên tai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_191",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_datbaiboivensongvenbien"
+    },
+    {
+      "source_id": "khainiem_datbaiboivensongvenbien",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_datbaisong"
+    },
+    {
+      "source_id": "khainiem_datbaiboivensongvenbien",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_datbainoi"
+    },
+    {
+      "source_id": "khainiem_datbaiboivensongvenbien",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_culaotrensong"
+    },
+    {
+      "source_id": "khainiem_datbaiboivensongvenbien",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_datbaiboivenbien"
+    },
+    {
+      "source_id": "khainiem_datbaiboivensongvenbien",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_culaotrenbien"
+    },
+    {
+      "source_id": "hanhviphaply_quanlydatbaiboi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uybannhandancaphuyen"
+    },
+    {
+      "source_id": "hanhviphaply_giaochothuedatbaiboi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_giaochothuedatbaiboi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquannhanuoccothamquyen"
+    },
+    {
+      "source_id": "hanhviphaply_giaochothuedatbaiboi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuckinhte"
+    },
+    {
+      "source_id": "hanhviphaply_giaochothuedatbaiboi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "hanhviphaply_giaochothuedatbaiboi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoigocvietnamdincuoonuocngoai"
+    },
+    {
+      "source_id": "hanhviphaply_giaochothuedatbaiboi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuckinhtecovondautunuocngoai"
+    },
+    {
+      "source_id": "dieu_191",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_lapquyhoachkehoachsddat"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachkehoachsddat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "dieu_191",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_dieutrakhaosatdanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_dieutrakhaosatdanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uybannhandancaphuyen"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdatbaiboi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baotonthiennhien"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdatbaiboi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baovemoitruong"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdatbaiboi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phongchongsatlo"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdatbaiboi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phongchongthientai"
+    }
+  ]
+}

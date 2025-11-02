@@ -1,0 +1,441 @@
+{
+  "entities": [
+    {
+      "id": "dieu_200",
+      "name": "Điều 200. Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khainiem_hethongtheodoivadanhgia",
+      "name": "Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "hanhviphaply_danhgia_thihanhphapluatdatdai",
+      "name": "đánh giá việc thi hành pháp luật về đất đai",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_danhgia_hieuquasudungdatdai",
+      "name": "đánh giá hiệu quả quản lý và sử dụng đất đai",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_danhgia_tacdongchinhsach",
+      "name": "đánh giá sự tác động của chính sách, pháp luật về đất đai đến kinh tế - xã hội và môi trường",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_xaydung_hethongtheodoivadanhgia",
+      "name": "xây dựng Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_hethongthongtindatdai",
+      "name": "hệ thống thông tin đất đai",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "name": "thu thập các thông tin khác từ quá trình thi hành pháp luật về đất đai",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "khainiem_thongtin_quyhoach_kehoachsd",
+      "name": "Thông tin về quy hoạch, kế hoạch sử dụng đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thongke_kiemkedatdai",
+      "name": "thống kê, kiểm kê đất đai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_giadat_thuedat",
+      "name": "giá đất và thuế đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thongtin_cac_hanhviphaply_datdai",
+      "name": "Thông tin về giao đất, cho thuê đất, thu hồi đất, cho phép chuyển mục đích sử dụng đất, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thongtin_thuchien_duan_dautu_dat",
+      "name": "việc thực hiện các dự án đầu tư có sử dụng đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thongtin_chaphanh_phapluat_datdai",
+      "name": "việc chấp hành pháp luật về đất đai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thongtin_kiemtra_xuly_vipham_datdai",
+      "name": "kiểm tra, thanh tra và xử lý vi phạm về đất đai của các cơ quan hành chính",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thongtin_giaiquyet_tranhchap_khieukien",
+      "name": "Thông tin về giải quyết tranh chấp, khiếu kiện về đất đai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thongtin_giam_sat_thucthi_phapluat",
+      "name": "Thông tin từ quá trình giám sát việc thực thi pháp luật về đất đai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_quochof",
+      "name": "Quốc hội",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_hoidongnhandan_cac_cap",
+      "name": "Hội đồng nhân dân các cấp",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_mattrantoquocvietnam",
+      "name": "Mặt trận Tổ quốc Việt Nam",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_tochucthanhvien_mattran",
+      "name": "các tổ chức thành viên của Mặt trận",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_tochuc_khac_lienquan",
+      "name": "các tổ chức khác có liên quan",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoidan",
+      "name": "người dân",
+      "label": "ChủThể"
+    },
+    {
+      "id": "khainiem_thongtin_thu_nhan_congnghe",
+      "name": "Những thông tin cần thiết phải thu nhận bằng các giải pháp công nghệ",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thongtin_dieutra_xahoihoc",
+      "name": "Những thông tin cần thiết từ dữ liệu điều tra xã hội học về quản lý và sử dụng đất đai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_coquantnmt",
+      "name": "Cơ quan tài nguyên và môi trường",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_quanly_hethongtheodoivadanhgia",
+      "name": "quản lý hệ thống theo dõi và đánh giá",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_tochuc_danhgia_thucthi_phapluat_hieuqua_tacdong",
+      "name": "tổ chức thực hiện đánh giá việc thực thi pháp luật, hiệu quả quản lý và sử dụng đất đai, tác động của chính sách, pháp luật về đất đai đến kinh tế - xã hội và môi trường",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_gui_ketquadanhgia",
+      "name": "gửi kết quả đánh giá định kỳ",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "name": "Chính phủ",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_coquannhaluu_thongtin",
+      "name": "Cơ quan nhà nước lưu giữ thông tin quy định tại khoản 2 Điều này",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_cungcap_thongtin",
+      "name": "cung cấp đầy đủ, chính xác, kịp thời các thông tin",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_capnhat_thongtin_hethong",
+      "name": "cập nhật các thông tin trong hệ thống theo dõi, đánh giá vào hệ thống thông tin đất đai",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_congkhai_hethongtheodoivadanhgia",
+      "name": "công khai Hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "name": "tổ chức",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_canhan",
+      "name": "cá nhân",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_timhieu_thongtin",
+      "name": "tìm hiểu thông tin",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet_xaydung_vanhanh_hethong",
+      "name": "quy định chi tiết về việc xây dựng và vận hành hệ thống theo dõi và đánh giá đối với quản lý và sử dụng đất đai",
+      "label": "HànhViPhápLý"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_200",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hethongtheodoivadanhgia"
+    },
+    {
+      "source_id": "khainiem_hethongtheodoivadanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_danhgia_thihanhphapluatdatdai"
+    },
+    {
+      "source_id": "khainiem_hethongtheodoivadanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_danhgia_hieuquasudungdatdai"
+    },
+    {
+      "source_id": "khainiem_hethongtheodoivadanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_danhgia_tacdongchinhsach"
+    },
+    {
+      "source_id": "dieu_200",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xaydung_hethongtheodoivadanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_xaydung_hethongtheodoivadanhgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hethongthongtindatdai"
+    },
+    {
+      "source_id": "hanhviphaply_xaydung_hethongtheodoivadanhgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuthapthongtin_thihanhphapluat"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongtin_quyhoach_kehoachsd"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongke_kiemkedatdai"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_giadat_thuedat"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongtin_cac_hanhviphaply_datdai"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongtin_thuchien_duan_dautu_dat"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongtin_chaphanh_phapluat_datdai"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongtin_kiemtra_xuly_vipham_datdai"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongtin_giaiquyet_tranhchap_khieukien"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongtin_giam_sat_thucthi_phapluat"
+    },
+    {
+      "source_id": "khainiem_thongtin_giam_sat_thucthi_phapluat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_quochof"
+    },
+    {
+      "source_id": "khainiem_thongtin_giam_sat_thucthi_phapluat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hoidongnhandan_cac_cap"
+    },
+    {
+      "source_id": "khainiem_thongtin_giam_sat_thucthi_phapluat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_mattrantoquocvietnam"
+    },
+    {
+      "source_id": "khainiem_thongtin_giam_sat_thucthi_phapluat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucthanhvien_mattran"
+    },
+    {
+      "source_id": "khainiem_thongtin_giam_sat_thucthi_phapluat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_khac_lienquan"
+    },
+    {
+      "source_id": "khainiem_thongtin_giam_sat_thucthi_phapluat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoidan"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongtin_thu_nhan_congnghe"
+    },
+    {
+      "source_id": "dieukien_thuthapthongtin_thihanhphapluat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thongtin_dieutra_xahoihoc"
+    },
+    {
+      "source_id": "dieu_200",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_coquantnmt"
+    },
+    {
+      "source_id": "chuthe_coquantnmt",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quanly_hethongtheodoivadanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_quanly_hethongtheodoivadanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongtheodoivadanhgia"
+    },
+    {
+      "source_id": "chuthe_coquantnmt",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tochuc_danhgia_thucthi_phapluat_hieuqua_tacdong"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_danhgia_thucthi_phapluat_hieuqua_tacdong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_danhgia_thihanhphapluatdatdai"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_danhgia_thucthi_phapluat_hieuqua_tacdong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_danhgia_hieuquasudungdatdai"
+    },
+    {
+      "source_id": "hanhviphaply_tochuc_danhgia_thucthi_phapluat_hieuqua_tacdong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_danhgia_tacdongchinhsach"
+    },
+    {
+      "source_id": "chuthe_coquantnmt",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_gui_ketquadanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_gui_ketquadanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinhphu"
+    },
+    {
+      "source_id": "hanhviphaply_gui_ketquadanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_quochof"
+    },
+    {
+      "source_id": "dieu_200",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_coquannhaluu_thongtin"
+    },
+    {
+      "source_id": "chuthe_coquannhaluu_thongtin",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cungcap_thongtin"
+    },
+    {
+      "source_id": "hanhviphaply_cungcap_thongtin",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquantnmt"
+    },
+    {
+      "source_id": "chuthe_coquantnmt",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_capnhat_thongtin_hethong"
+    },
+    {
+      "source_id": "hanhviphaply_capnhat_thongtin_hethong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongtheodoivadanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_capnhat_thongtin_hethong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_hethongthongtindatdai"
+    },
+    {
+      "source_id": "dieu_200",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_congkhai_hethongtheodoivadanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_congkhai_hethongtheodoivadanhgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongtheodoivadanhgia"
+    },
+    {
+      "source_id": "hanhviphaply_congkhai_hethongtheodoivadanhgia",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "hanhviphaply_congkhai_hethongtheodoivadanhgia",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_timhieu_thongtin"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_timhieu_thongtin"
+    },
+    {
+      "source_id": "hanhviphaply_timhieu_thongtin",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongtheodoivadanhgia"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quydinhchitiet_xaydung_vanhanh_hethong"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhchitiet_xaydung_vanhanh_hethong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongtheodoivadanhgia"
+    }
+  ]
+}

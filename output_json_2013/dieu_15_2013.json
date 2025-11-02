@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_15",
+      "label": "ĐiềuLuật",
+      "name": "Điều 15"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "khaikiem_hanmuc_sudungdat",
+      "label": "KháiNiệm",
+      "name": "hạn mức sử dụng đất"
+    },
+    {
+      "id": "khaikiem_thoihan_sudungdat",
+      "label": "KháiNiệm",
+      "name": "thời hạn sử dụng đất"
+    },
+    {
+      "id": "khaikiem_hanmuc_giaodatnongnghiep",
+      "label": "KháiNiệm",
+      "name": "hạn mức giao đất nông nghiệp"
+    },
+    {
+      "id": "khaikiem_hanmuc_giaodato",
+      "label": "KháiNiệm",
+      "name": "hạn mức giao đất ở"
+    },
+    {
+      "id": "khaikiem_hanmuc_congnhanquyensudungdato",
+      "label": "KháiNiệm",
+      "name": "hạn mức công nhận quyền sử dụng đất ở"
+    },
+    {
+      "id": "khaikiem_hanmuc_nhanchuyenquyensudungdatnongnghiep",
+      "label": "KháiNiệm",
+      "name": "hạn mức nhận chuyển quyền sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "khaikiem_sudungdatoninhlaudai",
+      "label": "KháiNiệm",
+      "name": "Sử dụng đất ổn định lâu dài"
+    },
+    {
+      "id": "khaikiem_sudungdatcothoihan",
+      "label": "KháiNiệm",
+      "name": "Sử dụng đất có thời hạn"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_sudungdat"
+    },
+    {
+      "source_id": "dieu_15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_thoihan_sudungdat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_sudungdat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_thoihan_sudungdat"
+    },
+    {
+      "source_id": "dieu_15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_giaodatnongnghiep"
+    },
+    {
+      "source_id": "dieu_15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_giaodato"
+    },
+    {
+      "source_id": "dieu_15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_congnhanquyensudungdato"
+    },
+    {
+      "source_id": "dieu_15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_nhanchuyenquyensudungdatnongnghiep"
+    },
+    {
+      "source_id": "khaikiem_hanmuc_sudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_giaodatnongnghiep"
+    },
+    {
+      "source_id": "khaikiem_hanmuc_sudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_giaodato"
+    },
+    {
+      "source_id": "khaikiem_hanmuc_sudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_congnhanquyensudungdato"
+    },
+    {
+      "source_id": "khaikiem_hanmuc_sudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hanmuc_nhanchuyenquyensudungdatnongnghiep"
+    },
+    {
+      "source_id": "dieu_15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_sudungdatoninhlaudai"
+    },
+    {
+      "source_id": "dieu_15",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_sudungdatcothoihan"
+    },
+    {
+      "source_id": "khaikiem_thoihan_sudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_sudungdatoninhlaudai"
+    },
+    {
+      "source_id": "khaikiem_thoihan_sudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_sudungdatcothoihan"
+    }
+  ]
+}

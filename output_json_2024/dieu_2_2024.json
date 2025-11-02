@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "id": "dieu_2",
+      "label": "ĐiềuLuật",
+      "name": "Điều 2"
+    },
+    {
+      "id": "khainiem_doituongapdung",
+      "label": "KháiNiệm",
+      "name": "Đối tượng áp dụng"
+    },
+    {
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước"
+    },
+    {
+      "id": "khainiem_quyenhan_trachnhiem_daidien_chusohuu_toandan_vedatdai",
+      "label": "KháiNiệm",
+      "name": "quyền hạn và trách nhiệm đại diện chủ sở hữu toàn dân về đất đai"
+    },
+    {
+      "id": "hanhviphaply_thuchien_nhiemvu_thongnhat_quanly_nhanuoc_vedatdai",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện nhiệm vụ thống nhất quản lý nhà nước về đất đai"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_cacdoituongkhac_colienquan_den_viec_quanly_sudung_datdai",
+      "label": "ChủThể",
+      "name": "Các đối tượng khác có liên quan đến việc quản lý, sử dụng đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_2",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_doituongapdung"
+    },
+    {
+      "source_id": "khainiem_doituongapdung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquannhanuoc"
+    },
+    {
+      "source_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyenhan_trachnhiem_daidien_chusohuu_toandan_vedatdai"
+    },
+    {
+      "source_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuchien_nhiemvu_thongnhat_quanly_nhanuoc_vedatdai"
+    },
+    {
+      "source_id": "khainiem_doituongapdung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "khainiem_doituongapdung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_cacdoituongkhac_colienquan_den_viec_quanly_sudung_datdai"
+    }
+  ]
+}

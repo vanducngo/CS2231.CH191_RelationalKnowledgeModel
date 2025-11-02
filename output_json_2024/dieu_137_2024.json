@@ -1,0 +1,197 @@
+{
+  "graph_id": "luatdatdai_2024_dieu_137",
+  "entities": [
+    {
+      "id": "dieu_137",
+      "label": "ĐiềuLuật",
+      "properties": {
+        "ten": "Điều 137, Luật Đất đai 2024",
+        "tieu_de": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "hanhvi_cap_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Cá nhân"
+      }
+    },
+    {
+      "id": "chuthe_cong_dong_dan_cu",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Cộng đồng dân cư"
+      }
+    },
+    {
+      "id": "khainiem_giay_to_ve_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Giấy tờ về quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "dieu_kien_su_dung_dat_on_dinh",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Sử dụng đất ổn định"
+      }
+    },
+    {
+      "id": "dieu_kien_khong_co_tranh_chap",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Đất không có tranh chấp"
+      }
+    },
+    {
+      "id": "dieu_kien_co_giay_to_truoc_15_10_1993",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Có một trong các loại giấy tờ về QSDĐ được lập trước ngày 15/10/1993"
+      }
+    },
+    {
+      "id": "dieu_kien_co_giay_to_nong_lam_truong",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Có giấy tờ của nông, lâm trường quốc doanh về việc giao đất trước ngày 01/07/2004"
+      }
+    },
+    {
+      "id": "dieu_kien_co_giay_to_thua_ke_tang_cho_hoa_gia",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Có giấy tờ hợp pháp về thừa kế, tặng cho, giao nhà tình nghĩa, thanh lý, hóa giá nhà ở"
+      }
+    },
+    {
+      "id": "dieu_kien_co_giay_to_nha_nuoc_giao_dat_tu_1993",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Có giấy tờ về việc được Nhà nước giao đất, cho thuê đất từ ngày 15/10/1993"
+      }
+    },
+    {
+      "id": "dieu_kien_giay_to_ghi_ten_nguoi_khac",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Có giấy tờ về QSDĐ ghi tên người khác, kèm giấy tờ chuyển quyền nhưng chưa làm thủ tục"
+      }
+    },
+    {
+      "id": "dieu_kien_su_dung_dat_theo_ban_an_quyet_dinh",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Sử dụng đất theo bản án hoặc quyết định của cơ quan có thẩm quyền đã được thi hành"
+      }
+    },
+    {
+      "id": "dieu_kien_dat_cong_dong_co_xac_nhan_ubnd",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Đất của cộng đồng dân cư có công trình tín ngưỡng, không tranh chấp và có xác nhận của UBND cấp xã"
+      }
+    },
+    {
+      "id": "chetai_khong_nop_tien_su_dung_dat",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Không phải nộp tiền sử dụng đất"
+      }
+    },
+    {
+      "id": "chetai_thuc_hien_nghia_vu_tai_chinh",
+      "label": "ChếTài",
+      "properties": {
+        "ten": "Phải thực hiện nghĩa vụ tài chính theo quy định"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_137",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "dieu_137",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giay_to_ve_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_su_dung_dat_on_dinh"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhvi_cap_giay_chung_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_giay_to_ve_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_co_giay_to_truoc_15_10_1993",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_nop_tien_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_co_giay_to_nong_lam_truong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_nop_tien_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_co_giay_to_thua_ke_tang_cho_hoa_gia",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_nop_tien_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_co_giay_to_nha_nuoc_giao_dat_tu_1993",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thuc_hien_nghia_vu_tai_chinh"
+    },
+    {
+      "source_id": "dieu_kien_giay_to_ghi_ten_nguoi_khac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thuc_hien_nghia_vu_tai_chinh"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_theo_ban_an_quyet_dinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thuc_hien_nghia_vu_tai_chinh"
+    }
+  ]
+}

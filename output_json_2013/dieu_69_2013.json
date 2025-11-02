@@ -1,0 +1,456 @@
+{
+  "entities": [
+    {
+      "id": "dieu_69",
+      "label": "ĐiềuLuật",
+      "name": "Điều 69"
+    },
+    {
+      "id": "khainiem_trinhtuthutuc_thuhoidat",
+      "label": "KháiNiệm",
+      "name": "Trình tự, thủ tục thu hồi đất"
+    },
+    {
+      "id": "khainiem_mucdich_quocphong_anninh",
+      "label": "KháiNiệm",
+      "name": "Mục đích quốc phòng, an ninh"
+    },
+    {
+      "id": "khainiem_loiich_quocgia_congcong",
+      "label": "KháiNiệm",
+      "name": "Lợi ích quốc gia, công cộng"
+    },
+    {
+      "id": "hanhviphaply_xaydung_thuchien_kehoach_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Xây dựng và thực hiện kế hoạch thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_dieutra_khaosat_dodac_kiemdem",
+      "label": "HànhViPhápLý",
+      "name": "Điều tra, khảo sát, đo đạc, kiểm đếm"
+    },
+    {
+      "id": "chuthe_uybannhandan_capcothamquyen_thuhoidat",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp có thẩm quyền thu hồi đất"
+    },
+    {
+      "id": "khainiem_thongbao_thuhoidat",
+      "label": "KháiNiệm",
+      "name": "Thông báo thu hồi đất"
+    },
+    {
+      "id": "chuthe_nguoi_codat_thuhoi",
+      "label": "ChủThể",
+      "name": "Người có đất thu hồi"
+    },
+    {
+      "id": "chuthe_nguoi_dan_khuvuc_codat_thuhoi",
+      "label": "ChủThể",
+      "name": "Người dân trong khu vực có đất thu hồi"
+    },
+    {
+      "id": "chuthe_uybannhandan_capxa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "label": "ChủThể",
+      "name": "Tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng"
+    },
+    {
+      "id": "khainiem_phuongan_boithuong_hotro_taidinhcu",
+      "label": "KháiNiệm",
+      "name": "Phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "chuthe_uyban_mattrantoquoc_vietnam_capxa",
+      "label": "ChủThể",
+      "name": "Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã"
+    },
+    {
+      "id": "hanhviphaply_vandong_thuyetphuc",
+      "label": "HànhViPhápLý",
+      "name": "Vận động, thuyết phục"
+    },
+    {
+      "id": "chuthe_chutich_uybannhandan_caphuyen",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "khainiem_quyetdinh_kiemdem_batbuoc",
+      "label": "KháiNiệm",
+      "name": "Quyết định kiểm đếm bắt buộc"
+    },
+    {
+      "id": "hanhviphaply_cuongche_thuchien_kiemdem_batbuoc",
+      "label": "HànhViPhápLý",
+      "name": "Cưỡng chế thực hiện quyết định kiểm đếm bắt buộc"
+    },
+    {
+      "id": "dieu_70",
+      "label": "ĐiềuLuật",
+      "name": "Điều 70 của Luật này"
+    },
+    {
+      "id": "hanhviphaply_lap_phuongan_boithuong_hotro_taidinhcu",
+      "label": "HànhViPhápLý",
+      "name": "Lập phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_thamdinh_phuongan_boithuong_hotro_taidinhcu",
+      "label": "HànhViPhápLý",
+      "name": "Thẩm định phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "chuthe_coquan_cothamquyen_thamdinh",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền thẩm định"
+    },
+    {
+      "id": "hanhviphaply_layykien_phuongan_boithuong_hotro_taidinhcu",
+      "label": "HànhViPhápLý",
+      "name": "Lấy ý kiến về phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_doithoai_phuongan_boithuong_hotro_taidinhcu",
+      "label": "HànhViPhápLý",
+      "name": "Đối thoại về phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_quyetdinh_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_pheduyet_phuongan_boithuong_hotro_taidinhcu",
+      "label": "HànhViPhápLý",
+      "name": "Phê duyệt phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_thuchien_phuongan_boithuong_hotro_taidinhcu",
+      "label": "HànhViPhápLý",
+      "name": "Tổ chức thực hiện phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "dieu_66",
+      "label": "ĐiềuLuật",
+      "name": "Điều 66 của Luật này"
+    },
+    {
+      "id": "khainiem_quyetdinh_pheduyet_phuongan_boithuong_hotro_taidinhcu",
+      "label": "KháiNiệm",
+      "name": "Quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_bangaodat",
+      "label": "HànhViPhápLý",
+      "name": "Bàn giao đất"
+    },
+    {
+      "id": "khainiem_quyetdinh_cuongche_thuhoidat",
+      "label": "KháiNiệm",
+      "name": "Quyết định cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_cuongche_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "dieu_71",
+      "label": "ĐiềuLuật",
+      "name": "Điều 71 của Luật này"
+    },
+    {
+      "id": "hanhviphaply_quanly_dat_dagiaiphongmatbang",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý đất đã được giải phóng mặt bằng"
+    },
+    {
+      "id": "khainiem_dat_dagiaiphongmatbang",
+      "label": "KháiNiệm",
+      "name": "Đất đã giải phóng mặt bằng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_69",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_trinhtuthutuc_thuhoidat"
+    },
+    {
+      "source_id": "khainiem_trinhtuthutuc_thuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_mucdich_quocphong_anninh"
+    },
+    {
+      "source_id": "khainiem_trinhtuthutuc_thuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_loiich_quocgia_congcong"
+    },
+    {
+      "source_id": "dieu_69",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xaydung_thuchien_kehoach_thuhoidat"
+    },
+    {
+      "source_id": "dieu_69",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_dieutra_khaosat_dodac_kiemdem"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capcothamquyen_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thongbao_thuhoidat"
+    },
+    {
+      "source_id": "khainiem_thongbao_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_codat_thuhoi"
+    },
+    {
+      "source_id": "khainiem_thongbao_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_dan_khuvuc_codat_thuhoi"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capxa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xaydung_thuchien_kehoach_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capxa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_dieutra_khaosat_dodac_kiemdem"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xaydung_thuchien_kehoach_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_dieutra_khaosat_dodac_kiemdem"
+    },
+    {
+      "source_id": "chuthe_nguoi_codat_thuhoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_dieutra_khaosat_dodac_kiemdem"
+    },
+    {
+      "source_id": "chuthe_nguoi_codat_thuhoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_nguoi_codat_thuhoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_vandong_thuyetphuc"
+    },
+    {
+      "source_id": "hanhviphaply_vandong_thuyetphuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_codat_thuhoi"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capxa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_vandong_thuyetphuc"
+    },
+    {
+      "source_id": "chuthe_uyban_mattrantoquoc_vietnam_capxa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_vandong_thuyetphuc"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_vandong_thuyetphuc"
+    },
+    {
+      "source_id": "chuthe_nguoi_codat_thuhoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_quyetdinh_kiemdem_batbuoc"
+    },
+    {
+      "source_id": "chuthe_chutich_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyetdinh_kiemdem_batbuoc"
+    },
+    {
+      "source_id": "chuthe_nguoi_codat_thuhoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyetdinh_kiemdem_batbuoc"
+    },
+    {
+      "source_id": "chuthe_nguoi_codat_thuhoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cuongche_thuchien_kiemdem_batbuoc"
+    },
+    {
+      "source_id": "chuthe_chutich_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_cuongche_thuchien_kiemdem_batbuoc"
+    },
+    {
+      "source_id": "hanhviphaply_cuongche_thuchien_kiemdem_batbuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_70"
+    },
+    {
+      "source_id": "dieu_69",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lap_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "dieu_69",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thamdinh_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_lap_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_layykien_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capxa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_layykien_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_doithoai_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capxa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_doithoai_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_coquan_cothamquyen_thamdinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thamdinh_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "hanhviphaply_thamdinh_phuongan_boithuong_hotro_taidinhcu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "dieu_69",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyetdinh_thuhoidat"
+    },
+    {
+      "source_id": "dieu_69",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_pheduyet_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "dieu_69",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuchien_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "dieu_66",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_uybannhandan_capcothamquyen_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capcothamquyen_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quyetdinh_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capcothamquyen_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_pheduyet_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyetdinh_pheduyet_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capxa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyetdinh_pheduyet_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuchien_phuongan_boithuong_hotro_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_nguoi_codat_thuhoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_vandong_thuyetphuc"
+    },
+    {
+      "source_id": "hanhviphaply_vandong_thuyetphuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_codat_thuhoi"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capxa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_vandong_thuyetphuc"
+    },
+    {
+      "source_id": "chuthe_uyban_mattrantoquoc_vietnam_capxa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_vandong_thuyetphuc"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_vandong_thuyetphuc"
+    },
+    {
+      "source_id": "chuthe_nguoi_codat_thuhoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_quyetdinh_cuongche_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_chutich_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyetdinh_cuongche_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_chutich_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_cuongche_thuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_cuongche_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_71"
+    },
+    {
+      "source_id": "dieu_69",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quanly_dat_dagiaiphongmatbang"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quanly_dat_dagiaiphongmatbang"
+    },
+    {
+      "source_id": "hanhviphaply_quanly_dat_dagiaiphongmatbang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_dat_dagiaiphongmatbang"
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "entities": [
+    {
+      "id": "dieu_160",
+      "label": "ĐiềuLuật",
+      "name": "Điều 160",
+      "description": "Giá đất cụ thể"
+    },
+    {
+      "id": "khainiem_giadatcuthe",
+      "label": "KháiNiệm",
+      "name": "Giá đất cụ thể"
+    },
+    {
+      "id": "hanhviphaply_tinhtiensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Tính tiền sử dụng đất"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_giaodatcothutiensudungdatkhongdaugia",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất có thu tiền sử dụng đất không đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_khongdauthauchonnhaidautu",
+      "label": "HànhViPhápLý",
+      "name": "Không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_giaodatcothutiensudungdatchonhadautrungthau",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất có thu tiền sử dụng đất cho nhà đầu tư trúng thầu"
+    },
+    {
+      "id": "chuthe_nhadautrungthau",
+      "label": "ChủThể",
+      "name": "Nhà đầu tư trúng thầu"
+    },
+    {
+      "id": "chuthe_tochucKinhTethanhlapBoNhaDauTuTrungThau",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế do nhà đầu tư trúng thầu thành lập"
+    },
+    {
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chophephuyenmucdichsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Cho phép chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "dieukien_phainoptiensudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Phải nộp tiền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_tinhtienthuedat",
+      "label": "HànhViPhápLý",
+      "name": "Tính tiền thuê đất"
+    },
+    {
+      "id": "hanhviphaply_nhanuocchothuedatthutienthuedatmotlan",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "dieukien_trutthongquadaugiadayquyensudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Trừ trường hợp thông qua đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_tinhgiatriquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Tính giá trị quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_cophanhoadoanhnghiepnhanuoc",
+      "label": "HànhViPhápLý",
+      "name": "Cổ phần hóa doanh nghiệp nhà nước"
+    },
+    {
+      "id": "dieukien_theoquydinhphapluatvecophanhoa",
+      "label": "ĐiềuKiện",
+      "name": "Theo quy định của pháp luật về cổ phần hóa"
+    },
+    {
+      "id": "hanhviphaply_xacdinhgiakhoixiemdedaugiaduququyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Xác định giá khởi điểm để đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_nhanuocgiaodat",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước giao đất"
+    },
+    {
+      "id": "hanhviphaply_nhanuocchothuedat",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước cho thuê đất"
+    },
+    {
+      "id": "dieukien_trutruonghopdiemikhoan1dieu159",
+      "label": "ĐiềuKiện",
+      "name": "Trừ trường hợp quy định tại điểm i khoản 1 Điều 159 của Luật này"
+    },
+    {
+      "id": "hanhviphaply_giahansudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Gia hạn sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_dieuchinhthoihansudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh thời hạn sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_dieuchinhquyhoachxaydungchitiet",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh quy hoạch xây dựng chi tiết"
+    },
+    {
+      "id": "hanhviphaply_chophephuyehinhthucsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Cho phép chuyển hình thức sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_tinhtienboithuongkhinhathuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Tính tiền bồi thường khi Nhà nước thu hồi đất"
+    },
+    {
+      "id": "khainiem_thamquyenquyetdinhgiadatcuthe",
+      "label": "KháiNiệm",
+      "name": "Thẩm quyền quyết định giá đất cụ thể"
+    },
+    {
+      "id": "chuthe_chutichubndcaptinh",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định giá đất cụ thể"
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "dieukien_thuocthamquyencuaubndcaptinh",
+      "label": "ĐiềuKiện",
+      "name": "Thuộc thẩm quyền của Ủy ban nhân dân cấp tỉnh theo quy định của Luật này"
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_xacdinhgiatriquyensudungdatkhicophanhoadoanhnghiep",
+      "label": "HànhViPhápLý",
+      "name": "Xác định giá trị quyền sử dụng đất khi cổ phần hóa doanh nghiệp"
+    },
+    {
+      "id": "chuthe_chutichubndcaphuyen",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "dieukien_thuocthamquyencuaubndcaphuyen",
+      "label": "ĐiềuKiện",
+      "name": "Thuộc thẩm quyền của Ủy ban nhân dân cấp huyện theo quy định của Luật này"
+    },
+    {
+      "id": "chuthe_coquancochucnangquanlydatdai",
+      "label": "ChủThể",
+      "name": "Cơ quan có chức năng quản lý đất đai"
+    },
+    {
+      "id": "chuthe_chutichubndcungcap",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cùng cấp"
+    },
+    {
+      "id": "hanhviphaply_tochucviecxacdinhgiadatcuthe",
+      "label": "HànhViPhápLý",
+      "name": "Tổ chức việc xác định giá đất cụ thể"
+    },
+    {
+      "id": "chuthe_tochuctuvanxacdinhgiadat",
+      "label": "ChủThể",
+      "name": "Tổ chức tư vấn xác định giá đất"
+    },
+    {
+      "id": "hanhviphaply_thuetochuctuvanxacdinhgiadat",
+      "label": "HànhViPhápLý",
+      "name": "Thuê tổ chức tư vấn xác định giá đất"
+    },
+    {
+      "id": "dieukien_khuvucdacoBangGiaDat",
+      "label": "ĐiềuKiện",
+      "name": "Khu vực đã có bảng giá đất tới từng thửa đất trên cơ sở vùng giá trị, thửa đất chuẩn"
+    },
+    {
+      "id": "khainiem_banggidat",
+      "label": "KháiNiệm",
+      "name": "Bảng giá đất"
+    },
+    {
+      "id": "khainiem_thoidiemdinhgiadat",
+      "label": "KháiNiệm",
+      "name": "Thời điểm định giá đất"
+    },
+    {
+      "id": "hanhviphaply_giadatcutheduocxacdinhtheobanggidat",
+      "label": "HànhViPhápLý",
+      "name": "Giá đất cụ thể được xác định theo bảng giá đất tại thời điểm định giá đất"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_160",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giadatcuthe"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tinhtiensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_tinhtiensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_giaodatcothutiensudungdatkhongdaugia"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongdauthauchonnhaidautu"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_giaodatcothutiensudungdatchonhadautrungthau"
+    },
+    {
+      "source_id": "hanhviphaply_giaodatcothutiensudungdatchonhadautrungthau",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhadautrungthau"
+    },
+    {
+      "source_id": "hanhviphaply_giaodatcothutiensudungdatchonhadautrungthau",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucKinhTethanhlapBoNhaDauTuTrungThau"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_congnhanquyensudungdat"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chophephuyehinhthucsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chophephuyehinhthucsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phainoptiensudungdat"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tinhtienthuedat"
+    },
+    {
+      "source_id": "hanhviphaply_tinhtienthuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhanuocchothuedatthutienthuedatmotlan"
+    },
+    {
+      "source_id": "hanhviphaply_nhanuocchothuedatthutienthuedatmotlan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trutthongquadaugiadayquyensudungdat"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tinhgiatriquyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_tinhgiatriquyensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_cophanhoadoanhnghiepnhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_cophanhoadoanhnghiepnhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinhphapluatvecophanhoa"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_xacdinhgiakhoixiemdedaugiaduququyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhgiakhoixiemdedaugiaduququyensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhanuocgiaodat"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhgiakhoixiemdedaugiaduququyensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhanuocchothuedat"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhgiakhoixiemdedaugiaduququyensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trutruonghopdiemikhoan1dieu159"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giahansudungdat"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_dieuchinhthoihansudungdat"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_dieuchinhquyhoachxaydungchitiet"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chophephuyehinhthucsudungdat"
+    },
+    {
+      "source_id": "khainiem_giadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tinhtienboithuongkhinhathuhoidat"
+    },
+    {
+      "source_id": "dieu_160",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thamquyenquyetdinhgiadatcuthe"
+    },
+    {
+      "source_id": "chuthe_chutichubndcaptinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_quyetdinhgiadatcuthe"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_giadatcuthe"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhanuocgiaodat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhanuocchothuedat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chophephuyehinhthucsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_congnhanquyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giahansudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_dieuchinhthoihansudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_dieuchinhquyhoachxaydungchitiet"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_xacdinhgiakhoixiemdedaugiaduququyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_xacdinhgiatriquyensudungdatkhicophanhoadoanhnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuocthamquyencuaubndcaptinh"
+    },
+    {
+      "source_id": "chuthe_chutichubndcaphuyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_quyetdinhgiadatcuthe"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhgiadatcuthe",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuocthamquyencuaubndcaphuyen"
+    },
+    {
+      "source_id": "dieu_160",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_coquancochucnangquanlydatdai"
+    },
+    {
+      "source_id": "chuthe_coquancochucnangquanlydatdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tochucviecxacdinhgiadatcuthe"
+    },
+    {
+      "source_id": "hanhviphaply_tochucviecxacdinhgiadatcuthe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chutichubndcungcap"
+    },
+    {
+      "source_id": "hanhviphaply_tochucviecxacdinhgiadatcuthe",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_giadatcuthe"
+    },
+    {
+      "source_id": "chuthe_coquancochucnangquanlydatdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuetochuctuvanxacdinhgiadat"
+    },
+    {
+      "source_id": "hanhviphaply_thuetochuctuvanxacdinhgiadat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuctuvanxacdinhgiadat"
+    },
+    {
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_giadatcuthe"
+    },
+    {
+      "source_id": "dieu_160",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giadatcutheduocxacdinhtheobanggidat"
+    },
+    {
+      "source_id": "hanhviphaply_giadatcutheduocxacdinhtheobanggidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khuvucdacoBangGiaDat"
+    },
+    {
+      "source_id": "hanhviphaply_giadatcutheduocxacdinhtheobanggidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_giadatcuthe"
+    },
+    {
+      "source_id": "hanhviphaply_giadatcutheduocxacdinhtheobanggidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_banggidat"
+    },
+    {
+      "source_id": "hanhviphaply_giadatcutheduocxacdinhtheobanggidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thoidiemdinhgiadat"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_quydinhchitiet"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhchitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_160"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "entities": [
+    {
+      "id": "dieu_101",
+      "label": "ĐiềuLuật",
+      "name": "Điều 101",
+      "description": "Trường hợp không được bồi thường về đất khi Nhà nước thu hồi đất"
+    },
+    {
+      "id": "khaikiem_khongduocboithuongvedat",
+      "label": "KháiNiệm",
+      "name": "Không được bồi thường về đất"
+    },
+    {
+      "id": "hanhviphaply_nhanuoc_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước thu hồi đất"
+    },
+    {
+      "id": "dieukien_cac_truonghop_khoan1_dieu107",
+      "label": "ĐiềuKiện",
+      "name": "Các trường hợp quy định tại khoản 1 Điều 107 của Luật này"
+    },
+    {
+      "id": "dieuluat_khoan1_dieu107",
+      "label": "ĐiềuLuật",
+      "name": "Khoản 1 Điều 107"
+    },
+    {
+      "id": "dieukien_dat_do_coquan_tochuc_quanly",
+      "label": "ĐiềuKiện",
+      "name": "Đất do cơ quan, tổ chức của Nhà nước quản lý"
+    },
+    {
+      "id": "chuthe_coquan_tochuc_nhanuoc",
+      "label": "ChủThể",
+      "name": "cơ quan, tổ chức của Nhà nước"
+    },
+    {
+      "id": "dieuluat_dieu217",
+      "label": "ĐiềuLuật",
+      "name": "Điều 217"
+    },
+    {
+      "id": "dieukien_dat_thuhoidat_dieuluat_81_82",
+      "label": "ĐiềuKiện",
+      "name": "Đất thu hồi trong các trường hợp quy định tại Điều 81, khoản 1 và khoản 2 Điều 82 của Luật này"
+    },
+    {
+      "id": "dieuluat_dieu81",
+      "label": "ĐiềuLuật",
+      "name": "Điều 81"
+    },
+    {
+      "id": "dieuluat_khoan1_dieu82",
+      "label": "ĐiềuLuật",
+      "name": "Khoản 1 Điều 82"
+    },
+    {
+      "id": "dieuluat_khoan2_dieu82",
+      "label": "ĐiềuLuật",
+      "name": "Khoản 2 Điều 82"
+    },
+    {
+      "id": "dieukien_khong_du_dk_cap_gcn",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp không đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khaikiem_giaychungnhan_quyen_sd_dat_ts",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieuluat_khoan3_dieu96",
+      "label": "ĐiềuLuật",
+      "name": "Khoản 3 Điều 96"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_101",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_khongduocboithuongvedat"
+    },
+    {
+      "source_id": "khaikiem_khongduocboithuongvedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhanuoc_thuhoidat"
+    },
+    {
+      "source_id": "dieu_101",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_cac_truonghop_khoan1_dieu107"
+    },
+    {
+      "source_id": "dieukien_cac_truonghop_khoan1_dieu107",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_khongduocboithuongvedat"
+    },
+    {
+      "source_id": "dieukien_cac_truonghop_khoan1_dieu107",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_khoan1_dieu107"
+    },
+    {
+      "source_id": "dieu_101",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_dat_do_coquan_tochuc_quanly"
+    },
+    {
+      "source_id": "dieukien_dat_do_coquan_tochuc_quanly",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_khongduocboithuongvedat"
+    },
+    {
+      "source_id": "dieukien_dat_do_coquan_tochuc_quanly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_tochuc_nhanuoc"
+    },
+    {
+      "source_id": "dieukien_dat_do_coquan_tochuc_quanly",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_dieu217"
+    },
+    {
+      "source_id": "dieu_101",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_dat_thuhoidat_dieuluat_81_82"
+    },
+    {
+      "source_id": "dieukien_dat_thuhoidat_dieuluat_81_82",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_khongduocboithuongvedat"
+    },
+    {
+      "source_id": "dieukien_dat_thuhoidat_dieuluat_81_82",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_dieu81"
+    },
+    {
+      "source_id": "dieukien_dat_thuhoidat_dieuluat_81_82",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_khoan1_dieu82"
+    },
+    {
+      "source_id": "dieukien_dat_thuhoidat_dieuluat_81_82",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_khoan2_dieu82"
+    },
+    {
+      "source_id": "dieu_101",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_khong_du_dk_cap_gcn"
+    },
+    {
+      "source_id": "dieukien_khong_du_dk_cap_gcn",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_khongduocboithuongvedat"
+    },
+    {
+      "source_id": "dieukien_khong_du_dk_cap_gcn",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_giaychungnhan_quyen_sd_dat_ts"
+    },
+    {
+      "source_id": "dieukien_khong_du_dk_cap_gcn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_khoan3_dieu96"
+    }
+  ]
+}

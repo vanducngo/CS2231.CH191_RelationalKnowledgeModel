@@ -1,0 +1,101 @@
+{
+  "entities": [
+    {
+      "id": "dieu_249",
+      "name": "Điều 249",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "hanhviphaply_sua_doi_bo_sung",
+      "name": "Sửa đổi, bổ sung",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "khainiem_luat_thue_su_dung_dat_phi_nong_nghiep",
+      "name": "Luật Thuế sử dụng đất phi nông nghiệp số 48/2010/QH12",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_khoan_3_dieu_6",
+      "name": "khoản 3 Điều 6",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_gia_01_m2_dat",
+      "name": "Giá của 01 m2 đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_gia_dat_theo_bang_gia_dat",
+      "name": "giá đất theo bảng giá đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_bang_gia_dat",
+      "name": "bảng giá đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_muc_dich_su_dung",
+      "name": "mục đích sử dụng",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_on_dinh_gia",
+      "name": "ổn định giá",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "dieukien_theo_chu_ky_05_nam",
+      "name": "theo chu kỳ 05 năm",
+      "label": "ĐiềuKiện"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_249",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sua_doi_bo_sung"
+    },
+    {
+      "source_id": "hanhviphaply_sua_doi_bo_sung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_khoan_3_dieu_6"
+    },
+    {
+      "source_id": "khainiem_luat_thue_su_dung_dat_phi_nong_nghiep",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_khoan_3_dieu_6"
+    },
+    {
+      "source_id": "khainiem_khoan_3_dieu_6",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_gia_01_m2_dat"
+    },
+    {
+      "source_id": "khainiem_gia_01_m2_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_gia_dat_theo_bang_gia_dat"
+    },
+    {
+      "source_id": "khainiem_gia_dat_theo_bang_gia_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_bang_gia_dat"
+    },
+    {
+      "source_id": "khainiem_gia_dat_theo_bang_gia_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_muc_dich_su_dung"
+    },
+    {
+      "source_id": "khainiem_gia_01_m2_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_on_dinh_gia"
+    },
+    {
+      "source_id": "khainiem_on_dinh_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_chu_ky_05_nam"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "id": "dieu_196",
+      "label": "ĐiềuLuật",
+      "name": "Điều 196"
+    },
+    {
+      "id": "cong_khai_thu_tuc_hanh_chinh_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Công khai thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "noi_dung_cong_khai",
+      "label": "KháiNiệm",
+      "name": "Nội dung công khai thủ tục hành chính về đất đai"
+    },
+    {
+      "id": "co_quan_co_tham_quyen_tiep_nhan_ho_so_va_tra_ket_qua",
+      "label": "KháiNiệm",
+      "name": "Cơ quan có thẩm quyền tiếp nhận hồ sơ và trả kết quả"
+    },
+    {
+      "id": "thoi_gian_giai_quyet_thu_tuc_hanh_chinh",
+      "label": "KháiNiệm",
+      "name": "Thời gian giải quyết đối với mỗi thủ tục hành chính"
+    },
+    {
+      "id": "thanh_phan_ho_so_thu_tuc_hanh_chinh",
+      "label": "KháiNiệm",
+      "name": "Thành phần hồ sơ đối với từng thủ tục hành chính"
+    },
+    {
+      "id": "quy_trinh_va_trach_nhiem_giai_quyet_thu_tuc_hanh_chinh",
+      "label": "KháiNiệm",
+      "name": "Quy trình và trách nhiệm giải quyết từng loại thủ tục hành chính"
+    },
+    {
+      "id": "nghia_vu_tai_chinh_phi_le_phi_thu_tuc_hanh_chinh",
+      "label": "KháiNiệm",
+      "name": "Nghĩa vụ tài chính, phí và lệ phí phải nộp đối với từng thủ tục hành chính"
+    },
+    {
+      "id": "thuc_hien_cong_khai",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện công khai"
+    },
+    {
+      "id": "hinh_thuc_niem_yet_thuong_xuyen_tai_tru_so_co_quan",
+      "label": "KháiNiệm",
+      "name": "Hình thức niêm yết thường xuyên tại trụ sở cơ quan tiếp nhận hồ sơ và trả kết quả"
+    },
+    {
+      "id": "hinh_thuc_dang_tren_trang_thong_tin_dien_tu_co_so_du_lieu_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Hình thức đăng trên trang thông tin điện tử cơ sở dữ liệu quốc gia về thủ tục hành chính"
+    },
+    {
+      "id": "hinh_thuc_dang_tren_trang_thong_tin_dien_tu_ubnd_cap_tinh",
+      "label": "KháiNiệm",
+      "name": "Hình thức đăng trên trang thông tin điện tử của Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hinh_thuc_dang_tren_trang_thong_tin_dien_tu_ubnd_cap_huyen",
+      "label": "KháiNiệm",
+      "name": "Hình thức đăng trên trang thông tin điện tử của Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "co_quan_tiep_nhan_ho_so_va_tra_ket_qua",
+      "label": "ChủThể",
+      "name": "Cơ quan tiếp nhận hồ sơ và trả kết quả"
+    },
+    {
+      "id": "co_so_du_lieu_quoc_gia_ve_thu_tuc_hanh_chinh",
+      "label": "ChủThể",
+      "name": "Cơ sở dữ liệu quốc gia về thủ tục hành chính"
+    },
+    {
+      "id": "uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_196",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "cong_khai_thu_tuc_hanh_chinh_ve_dat_dai"
+    },
+    {
+      "source_id": "cong_khai_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "noi_dung_cong_khai"
+    },
+    {
+      "source_id": "noi_dung_cong_khai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "co_quan_co_tham_quyen_tiep_nhan_ho_so_va_tra_ket_qua"
+    },
+    {
+      "source_id": "noi_dung_cong_khai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thoi_gian_giai_quyet_thu_tuc_hanh_chinh"
+    },
+    {
+      "source_id": "noi_dung_cong_khai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thanh_phan_ho_so_thu_tuc_hanh_chinh"
+    },
+    {
+      "source_id": "noi_dung_cong_khai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quy_trinh_va_trach_nhiem_giai_quyet_thu_tuc_hanh_chinh"
+    },
+    {
+      "source_id": "noi_dung_cong_khai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "nghia_vu_tai_chinh_phi_le_phi_thu_tuc_hanh_chinh"
+    },
+    {
+      "source_id": "cong_khai_thu_tuc_hanh_chinh_ve_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thuc_hien_cong_khai"
+    },
+    {
+      "source_id": "thuc_hien_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hinh_thuc_niem_yet_thuong_xuyen_tai_tru_so_co_quan"
+    },
+    {
+      "source_id": "thuc_hien_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hinh_thuc_dang_tren_trang_thong_tin_dien_tu_co_so_du_lieu_quoc_gia"
+    },
+    {
+      "source_id": "thuc_hien_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hinh_thuc_dang_tren_trang_thong_tin_dien_tu_ubnd_cap_tinh"
+    },
+    {
+      "source_id": "thuc_hien_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hinh_thuc_dang_tren_trang_thong_tin_dien_tu_ubnd_cap_huyen"
+    },
+    {
+      "source_id": "hinh_thuc_niem_yet_thuong_xuyen_tai_tru_so_co_quan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "co_quan_tiep_nhan_ho_so_va_tra_ket_qua"
+    },
+    {
+      "source_id": "hinh_thuc_dang_tren_trang_thong_tin_dien_tu_co_so_du_lieu_quoc_gia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "co_so_du_lieu_quoc_gia_ve_thu_tuc_hanh_chinh"
+    },
+    {
+      "source_id": "hinh_thuc_dang_tren_trang_thong_tin_dien_tu_ubnd_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "hinh_thuc_dang_tren_trang_thong_tin_dien_tu_ubnd_cap_huyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "uy_ban_nhan_dan_cap_huyen"
+    }
+  ]
+}

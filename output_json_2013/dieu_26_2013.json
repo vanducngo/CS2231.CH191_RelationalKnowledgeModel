@@ -1,0 +1,391 @@
+{
+  "entities": [
+    {
+      "id": "dieu_26",
+      "label": "ĐiềuLuật",
+      "name": "Điều 26"
+    },
+    {
+      "id": "khainiem_baodamcuanhaduocdoivonguoisudungdat",
+      "label": "KháiNiệm",
+      "name": "Bảo đảm của Nhà nước đối với người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_baohorquyenvataisan",
+      "label": "HànhViPhápLý",
+      "name": "Bảo hộ quyền sử dụng đất và tài sản gắn liền với đất hợp pháp"
+    },
+    {
+      "id": "khainiem_quyensudungdat",
+      "label": "KháiNiệm",
+      "name": "quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_taisan_gan_lien_voi_dat_hop_phap",
+      "label": "KháiNiệm",
+      "name": "tài sản gắn liền với đất hợp pháp"
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giaychungnhan_quyensudungdat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "dieukien_dudieu_kienphapluat",
+      "label": "ĐiềuKiện",
+      "name": "có đủ điều kiện theo quy định của pháp luật"
+    },
+    {
+      "id": "hanhviphaply_thuhoildat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "dieukien_mucdichquocphonganinh",
+      "label": "ĐiềuKiện",
+      "name": "mục đích quốc phòng, an ninh"
+    },
+    {
+      "id": "dieukien_phattrienkinhtexahoi",
+      "label": "ĐiềuKiện",
+      "name": "phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+    },
+    {
+      "id": "chetat_boithuong",
+      "label": "ChếTài",
+      "name": "bồi thường"
+    },
+    {
+      "id": "chetat_hotro",
+      "label": "ChếTài",
+      "name": "hỗ trợ"
+    },
+    {
+      "id": "chetat_taidinhcu",
+      "label": "ChếTài",
+      "name": "tái định cư"
+    },
+    {
+      "id": "khainiem_chinhsach_taodieukien",
+      "label": "KháiNiệm",
+      "name": "chính sách tạo điều kiện"
+    },
+    {
+      "id": "chuthe_nguoitructiepsanxuat",
+      "label": "ChủThể",
+      "name": "người trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối"
+    },
+    {
+      "id": "dieukien_khongcodatsanxuat",
+      "label": "ĐiềuKiện",
+      "name": "không có đất sản xuất"
+    },
+    {
+      "id": "dieukien_chuyendoicau_sudungdat",
+      "label": "ĐiềuKiện",
+      "name": "quá trình chuyển đổi cơ cấu sử dụng đất"
+    },
+    {
+      "id": "dieukien_chuyendoicau_kinhte",
+      "label": "ĐiềuKiện",
+      "name": "quá trình chuyển đổi cơ cấu kinh tế"
+    },
+    {
+      "id": "hanhviphaply_daotaonghe",
+      "label": "HànhViPhápLý",
+      "name": "được đào tạo nghề"
+    },
+    {
+      "id": "hanhviphaply_chuyendoinghe",
+      "label": "HànhViPhápLý",
+      "name": "chuyển đổi nghề"
+    },
+    {
+      "id": "hanhviphaply_timkiemvieclam",
+      "label": "HànhViPhápLý",
+      "name": "tìm kiếm việc làm"
+    },
+    {
+      "id": "hanhviphaply_khongthuanhan_doilaidat",
+      "label": "HànhViPhápLý",
+      "name": "không thừa nhận việc đòi lại đất"
+    },
+    {
+      "id": "khainiem_datduocgiao",
+      "label": "KháiNiệm",
+      "name": "đất đã được giao theo quy định của Nhà nước"
+    },
+    {
+      "id": "chuthe_nguoikhacsudung",
+      "label": "ChủThể",
+      "name": "người khác sử dụng"
+    },
+    {
+      "id": "khainiem_chinhsachdatdai",
+      "label": "KháiNiệm",
+      "name": "chính sách đất đai"
+    },
+    {
+      "id": "khainiem_nhanuoc_vndcch",
+      "label": "KháiNiệm",
+      "name": "Nhà nước Việt Nam dân chủ cộng hòa"
+    },
+    {
+      "id": "khainiem_chinhphu_cmt_chmnvn",
+      "label": "KháiNiệm",
+      "name": "Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam"
+    },
+    {
+      "id": "khainiem_nhanuoc_chxhcnvn",
+      "label": "KháiNiệm",
+      "name": "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_26",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_baodamcuanhaduocdoivonguoisudungdat"
+    },
+    {
+      "source_id": "khainiem_baodamcuanhaduocdoivonguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "khainiem_baodamcuanhaduocdoivonguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "dieu_26",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_baohorquyenvataisan"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_baohorquyenvataisan"
+    },
+    {
+      "source_id": "hanhviphaply_baohorquyenvataisan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_baohorquyenvataisan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_taisan_gan_lien_voi_dat_hop_phap"
+    },
+    {
+      "source_id": "hanhviphaply_baohorquyenvataisan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "dieu_26",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giaychungnhan_quyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dudieu_kienphapluat"
+    },
+    {
+      "source_id": "dieu_26",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuhoildat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuhoildat"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoildat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_mucdichquocphonganinh"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoildat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phattrienkinhtexahoi"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoildat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetat_boithuong"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoildat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetat_hotro"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoildat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetat_taidinhcu"
+    },
+    {
+      "source_id": "chetat_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "chetat_hotro",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "chetat_taidinhcu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetat_boithuong"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetat_hotro"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetat_taidinhcu"
+    },
+    {
+      "source_id": "dieu_26",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_chinhsach_taodieukien"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_chinhsach_taodieukien"
+    },
+    {
+      "source_id": "khainiem_chinhsach_taodieukien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoitructiepsanxuat"
+    },
+    {
+      "source_id": "chuthe_nguoitructiepsanxuat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongcodatsanxuat"
+    },
+    {
+      "source_id": "dieukien_khongcodatsanxuat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_chuyendoicau_sudungdat"
+    },
+    {
+      "source_id": "dieukien_khongcodatsanxuat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_chuyendoicau_kinhte"
+    },
+    {
+      "source_id": "khainiem_chinhsach_taodieukien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_daotaonghe"
+    },
+    {
+      "source_id": "khainiem_chinhsach_taodieukien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chuyendoinghe"
+    },
+    {
+      "source_id": "khainiem_chinhsach_taodieukien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_timkiemvieclam"
+    },
+    {
+      "source_id": "hanhviphaply_daotaonghe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoitructiepsanxuat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoinghe",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoitructiepsanxuat"
+    },
+    {
+      "source_id": "hanhviphaply_timkiemvieclam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoitructiepsanxuat"
+    },
+    {
+      "source_id": "dieu_26",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khongthuanhan_doilaidat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_khongthuanhan_doilaidat"
+    },
+    {
+      "source_id": "hanhviphaply_khongthuanhan_doilaidat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_datduocgiao"
+    },
+    {
+      "source_id": "khainiem_datduocgiao",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoikhacsudung"
+    },
+    {
+      "source_id": "khainiem_datduocgiao",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_chinhsachdatdai"
+    },
+    {
+      "source_id": "khainiem_chinhsachdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nhanuoc_vndcch"
+    },
+    {
+      "source_id": "khainiem_chinhsachdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chinhphu_cmt_chmnvn"
+    },
+    {
+      "source_id": "khainiem_chinhsachdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nhanuoc_chxhcnvn"
+    }
+  ]
+}

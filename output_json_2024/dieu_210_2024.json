@@ -1,0 +1,176 @@
+{
+  "nodes": [
+    {
+      "id": "dieu_210",
+      "label": "ĐiềuLuật",
+      "name": "Điều 210. Đất xây dựng các công trình, khu vực có hành lang bảo vệ an toàn"
+    },
+    {
+      "id": "khainiem_dat_xaydung_congtrinh_co_hanhlang_baove_antoan",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng công trình, khu vực có hành lang bảo vệ an toàn"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_chu_cong_trinh",
+      "label": "ChủThể",
+      "name": "Chủ công trình"
+    },
+    {
+      "id": "chuthe_co_quan_quan_ly_cong_trinh",
+      "label": "ChủThể",
+      "name": "Cơ quan, tổ chức trực tiếp quản lý công trình, khu vực có hành lang bảo vệ an toàn"
+    },
+    {
+      "id": "chuthe_ubnd_cac_cap",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân các cấp"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_su_dung_dat_trong_hanh_lang",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất trong hành lang bảo vệ an toàn"
+    },
+    {
+      "id": "hanhviphaply_khac_phuc",
+      "label": "HànhViPhápLý",
+      "name": "Có biện pháp khắc phục khi sử dụng đất gây ảnh hưởng đến an toàn công trình"
+    },
+    {
+      "id": "hanhviphaply_bao_cao_va_xu_ly_lan_chiem",
+      "label": "HànhViPhápLý",
+      "name": "Báo cáo và xử lý khi đất thuộc hành lang bảo vệ bị lấn, chiếm, sử dụng trái phép"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_va_bao_ve",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý và bảo vệ an toàn công trình, khu vực có hành lang bảo vệ"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết điều luật"
+    },
+    {
+      "id": "chetai_thu_hoi_dat_va_boi_thuong",
+      "label": "ChếTài",
+      "name": "Thu hồi đất và bồi thường"
+    },
+    {
+      "id": "dieukien_su_dung_dat_dung_muc_dich",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất theo đúng mục đích, không gây cản trở, đảm bảo tiết kiệm đất"
+    },
+    {
+      "id": "dieukien_khong_khac_phuc_duoc",
+      "label": "ĐiềuKiện",
+      "name": "Không khắc phục được ảnh hưởng đến an toàn công trình"
+    },
+    {
+      "id": "dieukien_dat_bi_lan_chiem_su_dung_trai_phep",
+      "label": "ĐiềuKiện",
+      "name": "Đất thuộc hành lang bảo vệ bị lấn, chiếm, sử dụng trái phép"
+    }
+  ],
+  "edges": [
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_xaydung_congtrinh_co_hanhlang_baove_antoan"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_su_dung_dat_trong_hanh_lang"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_trong_hanh_lang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_trong_hanh_lang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_su_dung_dat_dung_muc_dich"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_trong_hanh_lang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_khac_phuc"
+    },
+    {
+      "source_id": "hanhviphaply_khac_phuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_khac_phuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chu_cong_trinh"
+    },
+    {
+      "source_id": "dieukien_khong_khac_phuc_duoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_thu_hoi_dat_va_boi_thuong"
+    },
+    {
+      "source_id": "chetai_thu_hoi_dat_va_boi_thuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_va_bao_ve"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_va_bao_ve",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_quan_ly_cong_trinh"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_va_bao_ve",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ubnd_cac_cap"
+    },
+    {
+      "source_id": "dieukien_dat_bi_lan_chiem_su_dung_trai_phep",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_bao_cao_va_xu_ly_lan_chiem"
+    },
+    {
+      "source_id": "hanhviphaply_bao_cao_va_xu_ly_lan_chiem",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_quan_ly_cong_trinh"
+    },
+    {
+      "source_id": "hanhviphaply_bao_cao_va_xu_ly_lan_chiem",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ubnd_cac_cap"
+    },
+    {
+      "source_id": "dieu_210",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinh_phu"
+    }
+  ]
+}

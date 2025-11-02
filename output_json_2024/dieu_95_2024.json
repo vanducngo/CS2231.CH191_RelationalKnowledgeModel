@@ -1,0 +1,173 @@
+{
+  "knowledge_graph": {
+    "entities": [
+      {
+        "id": "dieu_95",
+        "label": "ĐiềuLuật",
+        "name": "Điều 95. Điều kiện được bồi thường về đất khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+      },
+      {
+        "id": "hanhviphaply_thuhoi_dat",
+        "label": "HànhViPhápLý",
+        "name": "Thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+      },
+      {
+        "id": "chetac_boithuong_ve_dat",
+        "label": "ChếTài",
+        "name": "Bồi thường về đất"
+      },
+      {
+        "id": "chuthe_ho_gia_dinh_ca_nhan",
+        "label": "ChủThể",
+        "name": "Hộ gia đình, cá nhân đang sử dụng đất không phải là đất thuê trả tiền thuê đất hằng năm"
+      },
+      {
+        "id": "chuthe_cong_dong_dan_cu",
+        "label": "ChủThể",
+        "name": "Cộng đồng dân cư đang sử dụng đất có công trình tín ngưỡng, đất nông nghiệp và đất đó không có tranh chấp"
+      },
+      {
+        "id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai",
+        "label": "ChủThể",
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      },
+      {
+        "id": "chuthe_to_chuc_ton_giao",
+        "label": "ChủThể",
+        "name": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước cho phép hoạt động"
+      },
+      {
+        "id": "chuthe_to_chuc",
+        "label": "ChủThể",
+        "name": "Tổ chức được Nhà nước giao đất có thu tiền, cho thuê đất trả tiền một lần, nhận thừa kế, nhận chuyển nhượng, nhận góp vốn"
+      },
+      {
+        "id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
+        "label": "ChủThể",
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      },
+      {
+        "id": "chuthe_to_chuc_kinh_te",
+        "label": "ChủThể",
+        "name": "Tổ chức kinh tế"
+      },
+      {
+        "id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai",
+        "label": "ChủThể",
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      },
+      {
+        "id": "chuthe_chinh_phu",
+        "label": "ChủThể",
+        "name": "Chính phủ"
+      },
+      {
+        "id": "dieukien_co_giay_chung_nhan",
+        "label": "ĐiềuKiện",
+        "name": "Có Giấy chứng nhận quyền sử dụng đất hoặc các loại giấy chứng nhận tương đương"
+      },
+      {
+        "id": "dieukien_co_quyet_dinh_cua_co_quan_nha_nuoc",
+        "label": "ĐiềuKiện",
+        "name": "Có quyết định giao đất, cho thuê đất, hoặc cho phép chuyển mục đích sử dụng đất của cơ quan nhà nước có thẩm quyền"
+      },
+      {
+        "id": "dieukien_co_giay_to_ve_quyen_su_dung_dat",
+        "label": "ĐiềuKiện",
+        "name": "Có một trong các giấy tờ về quyền sử dụng đất theo quy định tại Điều 137"
+      },
+      {
+        "id": "dieukien_nhan_chuyen_quyen_chua_hoan_thanh_thu_tuc",
+        "label": "ĐiềuKiện",
+        "name": "Nhận chuyển quyền sử dụng đất hợp pháp nhưng chưa hoàn thành thủ tục đăng ký đất đai"
+      },
+      {
+        "id": "dieukien_su_dung_dat_tu_hop_dong_the_chap_hoac_dau_gia",
+        "label": "ĐiềuKiện",
+        "name": "Sử dụng đất theo thỏa thuận trong hợp đồng thế chấp để xử lý nợ hoặc văn bản công nhận kết quả đấu giá"
+      }
+    ],
+    "relationships": [
+      {
+        "source_id": "dieu_95",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "chetac_boithuong_ve_dat"
+      },
+      {
+        "source_id": "hanhviphaply_thuhoi_dat",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "chetac_boithuong_ve_dat"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_cong_dong_dan_cu"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_to_chuc_ton_giao"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_to_chuc"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_to_chuc_kinh_te"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_co_giay_chung_nhan"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_co_quyet_dinh_cua_co_quan_nha_nuoc"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_co_giay_to_ve_quyen_su_dung_dat"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_nhan_chuyen_quyen_chua_hoan_thanh_thu_tuc"
+      },
+      {
+        "source_id": "chetac_boithuong_ve_dat",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_su_dung_dat_tu_hop_dong_the_chap_hoac_dau_gia"
+      },
+      {
+        "source_id": "dieu_95",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "chuthe_chinh_phu"
+      }
+    ]
+  }
+}

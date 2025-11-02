@@ -1,0 +1,246 @@
+{
+  "entities": [
+    {
+      "id": "dieu_138",
+      "label": "ĐiềuLuật",
+      "name": "Điều 138"
+    },
+    {
+      "id": "khaikiem_datlammuoi",
+      "label": "KháiNiệm",
+      "name": "Đất làm muối"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChủThể",
+      "name": "hộ gia đình"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "khaikiem_hanmucgiaodat",
+      "label": "KháiNiệm",
+      "name": "hạn mức giao đất"
+    },
+    {
+      "id": "hanhviphaply_sanxuatmuoi",
+      "label": "HànhViPhápLý",
+      "name": "sản xuất muối"
+    },
+    {
+      "id": "hanhviphaply_sudungvuothanmuc",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng vượt hạn mức"
+    },
+    {
+      "id": "hanhviphaply_chuyensangthuedat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển sang thuê đất"
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChủThể",
+      "name": "tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_nguoivietnamdincuoinuocngoai",
+      "label": "ChủThể",
+      "name": "người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChủThể",
+      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "hanhviphaply_thuchien_duan_dautu_sanxuatmuoi",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện dự án đầu tư sản xuất muối"
+    },
+    {
+      "id": "khaikiem_vungdatlammuoiconangsuat_chatluongcao",
+      "label": "KháiNiệm",
+      "name": "vùng đất làm muối có năng suất, chất lượng cao"
+    },
+    {
+      "id": "hanhviphaply_baove",
+      "label": "HànhViPhápLý",
+      "name": "bảo vệ"
+    },
+    {
+      "id": "hanhviphaply_uutiensanxuatmuoi",
+      "label": "HànhViPhápLý",
+      "name": "ưu tiên cho việc sản xuất muối"
+    },
+    {
+      "id": "khaikiem_vungdatcokhananglammuoi",
+      "label": "KháiNiệm",
+      "name": "vùng đất có khả năng làm muối"
+    },
+    {
+      "id": "hanhviphaply_khuyenkhichsudung",
+      "label": "HànhViPhápLý",
+      "name": "khuyến khích việc sử dụng"
+    },
+    {
+      "id": "khaikiem_nhucaucongnghiep",
+      "label": "KháiNiệm",
+      "name": "nhu cầu công nghiệp"
+    },
+    {
+      "id": "khaikiem_doisong",
+      "label": "KháiNiệm",
+      "name": "đời sống"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_datlammuoi"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_vungdatlammuoiconangsuat_chatluongcao"
+    },
+    {
+      "source_id": "dieu_138",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_vungdatcokhananglammuoi"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_datlammuoi"
+    },
+    {
+      "source_id": "khaikiem_datlammuoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinh"
+    },
+    {
+      "source_id": "khaikiem_datlammuoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_hogiadinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_hanmucgiaodat"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_hanmucgiaodat"
+    },
+    {
+      "source_id": "khaikiem_datlammuoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_sanxuatmuoi"
+    },
+    {
+      "source_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sudungvuothanmuc"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sudungvuothanmuc"
+    },
+    {
+      "source_id": "hanhviphaply_sudungvuothanmuc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chuyensangthuedat"
+    },
+    {
+      "source_id": "khaikiem_datlammuoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuckinhte"
+    },
+    {
+      "source_id": "khaikiem_datlammuoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoivietnamdincuoinuocngoai"
+    },
+    {
+      "source_id": "khaikiem_datlammuoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai"
+    },
+    {
+      "source_id": "chuthe_tochuckinhte",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchien_duan_dautu_sanxuatmuoi"
+    },
+    {
+      "source_id": "chuthe_nguoivietnamdincuoinuocngoai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchien_duan_dautu_sanxuatmuoi"
+    },
+    {
+      "source_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchien_duan_dautu_sanxuatmuoi"
+    },
+    {
+      "source_id": "hanhviphaply_thuchien_duan_dautu_sanxuatmuoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_datlammuoi"
+    },
+    {
+      "source_id": "khaikiem_vungdatlammuoiconangsuat_chatluongcao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_baove"
+    },
+    {
+      "source_id": "khaikiem_vungdatlammuoiconangsuat_chatluongcao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_uutiensanxuatmuoi"
+    },
+    {
+      "source_id": "hanhviphaply_uutiensanxuatmuoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_sanxuatmuoi"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khuyenkhichsudung"
+    },
+    {
+      "source_id": "hanhviphaply_khuyenkhichsudung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_vungdatcokhananglammuoi"
+    },
+    {
+      "source_id": "khaikiem_vungdatcokhananglammuoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_sanxuatmuoi"
+    },
+    {
+      "source_id": "hanhviphaply_sanxuatmuoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_nhucaucongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_sanxuatmuoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_doisong"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "entities": [
+    {
+      "id": "dieu_167",
+      "label": "ĐiềuLuật",
+      "name": "Điều 167. Dịch vụ công trực tuyến và giao dịch điện tử về đất đai"
+    },
+    {
+      "id": "khaikiem_dich_vu_cong_truc_tuyen_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Dịch vụ công trực tuyến về đất đai"
+    },
+    {
+      "id": "khaikiem_dich_vu_hanh_chinh_cong_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "dịch vụ hành chính công về đất đai"
+    },
+    {
+      "id": "khaikiem_dich_vu_khac_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "dịch vụ khác về đất đai"
+    },
+    {
+      "id": "chuthe_to_chuc",
+      "label": "ChủThể",
+      "name": "tổ chức"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "hanhviphaply_cung_cap_dich_vu_cong_truc_tuyen_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "cung cấp dịch vụ công trực tuyến về đất đai"
+    },
+    {
+      "id": "chuthe_co_quan_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_bao_dam_ket_noi_lien_thong",
+      "label": "HànhViPhápLý",
+      "name": "bảo đảm kết nối liên thông, thuận tiện, đơn giản, an toàn"
+    },
+    {
+      "id": "chuthe_co_quan",
+      "label": "ChủThể",
+      "name": "cơ quan"
+    },
+    {
+      "id": "hanhviphaply_phuc_vu_cong_tac_quan_ly_nha_nuoc_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "phục vụ công tác quản lý nhà nước về đất đai"
+    },
+    {
+      "id": "khaikiem_hinh_thuc_xac_nhan_quyen_nghia_vu",
+      "label": "KháiNiệm",
+      "name": "Các hình thức xác nhận của Nhà nước đối với quyền và nghĩa vụ"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_xac_nhan_quyen_va_nghia_vu",
+      "label": "HànhViPhápLý",
+      "name": "xác nhận quyền và nghĩa vụ"
+    },
+    {
+      "id": "dieu_kien_tren_ho_so_so",
+      "label": "ĐiềuKiện",
+      "name": "trên hồ sơ số"
+    },
+    {
+      "id": "dieu_kien_xac_thuc_dien_tu",
+      "label": "ĐiềuKiện",
+      "name": "xác thực điện tử"
+    },
+    {
+      "id": "khaikiem_giao_dich_dien_tu_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Giao dịch điện tử về đất đai"
+    },
+    {
+      "id": "dieu_kien_bang_phuong_tien_dien_tu",
+      "label": "ĐiềuKiện",
+      "name": "bằng phương tiện điện tử"
+    },
+    {
+      "id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_huong_dan_trien_khai_cung_cap_dich_vu_cong_truc_tuyen_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "hướng dẫn triển khai việc cung cấp dịch vụ công trực tuyến về đất đai"
+    },
+    {
+      "id": "hanhviphaply_huong_dan_trien_khai_giao_dich_dien_tu_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "hướng dẫn triển khai giao dịch điện tử về đất đai"
+    },
+    {
+      "id": "dieu_kien_tren_moi_truong_mang",
+      "label": "ĐiềuKiện",
+      "name": "trên môi trường mạng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_167",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_dich_vu_cong_truc_tuyen_ve_dat_dai"
+    },
+    {
+      "source_id": "dieu_167",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_giao_dich_dien_tu_ve_dat_dai"
+    },
+    {
+      "source_id": "khaikiem_dich_vu_cong_truc_tuyen_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_dich_vu_hanh_chinh_cong_ve_dat_dai"
+    },
+    {
+      "source_id": "khaikiem_dich_vu_cong_truc_tuyen_ve_dat_dai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_dich_vu_khac_ve_dat_dai"
+    },
+    {
+      "source_id": "khaikiem_dich_vu_cong_truc_tuyen_ve_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc"
+    },
+    {
+      "source_id": "khaikiem_dich_vu_cong_truc_tuyen_ve_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_cung_cap_dich_vu_cong_truc_tuyen_ve_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_tren_moi_truong_mang"
+    },
+    {
+      "source_id": "dieu_167",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cung_cap_dich_vu_cong_truc_tuyen_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_cung_cap_dich_vu_cong_truc_tuyen_ve_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_co_tham_quyen"
+    },
+    {
+      "source_id": "chuthe_co_quan_co_tham_quyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_bao_dam_ket_noi_lien_thong"
+    },
+    {
+      "source_id": "hanhviphaply_bao_dam_ket_noi_lien_thong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan"
+    },
+    {
+      "source_id": "hanhviphaply_bao_dam_ket_noi_lien_thong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc"
+    },
+    {
+      "source_id": "hanhviphaply_bao_dam_ket_noi_lien_thong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "chuthe_co_quan_co_tham_quyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phuc_vu_cong_tac_quan_ly_nha_nuoc_ve_dat_dai"
+    },
+    {
+      "source_id": "dieu_167",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_hinh_thuc_xac_nhan_quyen_nghia_vu"
+    },
+    {
+      "source_id": "khaikiem_hinh_thuc_xac_nhan_quyen_nghia_vu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc"
+    },
+    {
+      "source_id": "khaikiem_hinh_thuc_xac_nhan_quyen_nghia_vu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_xac_nhan_quyen_va_nghia_vu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "hanhviphaply_xac_nhan_quyen_va_nghia_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_tren_ho_so_so"
+    },
+    {
+      "source_id": "hanhviphaply_xac_nhan_quyen_va_nghia_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_xac_thuc_dien_tu"
+    },
+    {
+      "source_id": "khaikiem_giao_dich_dien_tu_ve_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_bang_phuong_tien_dien_tu"
+    },
+    {
+      "source_id": "dieu_167",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_bo_tai_nguyen_va_moi_truong"
+    },
+    {
+      "source_id": "dieu_167",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huong_dan_trien_khai_cung_cap_dich_vu_cong_truc_tuyen_ve_dat_dai"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huong_dan_trien_khai_giao_dich_dien_tu_ve_dat_dai"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huong_dan_trien_khai_cung_cap_dich_vu_cong_truc_tuyen_ve_dat_dai"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huong_dan_trien_khai_giao_dich_dien_tu_ve_dat_dai"
+    }
+  ]
+}

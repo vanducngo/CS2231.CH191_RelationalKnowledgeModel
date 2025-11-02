@@ -1,0 +1,631 @@
+{
+  "entities": [
+    {
+      "id": "dieu_126",
+      "label": "ĐiềuLuật",
+      "name": "Điều 126"
+    },
+    {
+      "id": "dat_su_dung_co_thoi_han",
+      "label": "KháiNiệm",
+      "name": "Đất sử dụng có thời hạn"
+    },
+    {
+      "id": "thoi_han_giao_dat_cn_qsd_dat_nn_hkcn_tructiep_sxnn",
+      "label": "KháiNiệm",
+      "name": "Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp"
+    },
+    {
+      "id": "50_nam_khoan_1",
+      "label": "KháiNiệm",
+      "name": "50 năm (Khoản 1)"
+    },
+    {
+      "id": "thoi_han_cho_thue_dat_nn_hkcn",
+      "label": "KháiNiệm",
+      "name": "Thời hạn cho thuê đất nông nghiệp đối với hộ gia đình, cá nhân"
+    },
+    {
+      "id": "khong_qua_50_nam_khoan_2",
+      "label": "KháiNiệm",
+      "name": "Không quá 50 năm (Khoản 2)"
+    },
+    {
+      "id": "thoi_han_giao_cho_thue_dat_muc_dich_khac_to_chuc_hkcn_nvndcon_dovn",
+      "label": "KháiNiệm",
+      "name": "Thời hạn giao đất, cho thuê đất đối với tổ chức, hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài (mục đích khác)"
+    },
+    {
+      "id": "khong_qua_50_nam_khoan_3",
+      "label": "KháiNiệm",
+      "name": "Không quá 50 năm (Khoản 3)"
+    },
+    {
+      "id": "khong_qua_70_nam_khoan_3",
+      "label": "KháiNiệm",
+      "name": "Không quá 70 năm (Khoản 3)"
+    },
+    {
+      "id": "thoi_han_giao_dat_chu_dau_tu_du_an_kinh_doanh_nha_o",
+      "label": "KháiNiệm",
+      "name": "Thời hạn giao đất cho chủ đầu tư dự án kinh doanh nhà ở"
+    },
+    {
+      "id": "thoi_han_cua_du_an",
+      "label": "KháiNiệm",
+      "name": "Thời hạn của dự án"
+    },
+    {
+      "id": "su_dung_dat_on_dinh_lau_dai",
+      "label": "KháiNiệm",
+      "name": "Sử dụng đất ổn định lâu dài"
+    },
+    {
+      "id": "thoi_han_cho_thue_dat_tru_so_to_chuc_nn_cn_ngoai_giao",
+      "label": "KháiNiệm",
+      "name": "Thời hạn cho thuê đất xây dựng trụ sở tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "id": "khong_qua_99_nam_khoan_4",
+      "label": "KháiNiệm",
+      "name": "Không quá 99 năm (Khoản 4)"
+    },
+    {
+      "id": "thoi_han_cho_thue_dat_cong_ich_xa_phuong_thi_tran",
+      "label": "KháiNiệm",
+      "name": "Thời hạn cho thuê đất công ích của xã, phường, thị trấn"
+    },
+    {
+      "id": "khong_qua_05_nam_khoan_5",
+      "label": "KháiNiệm",
+      "name": "Không quá 05 năm (Khoản 5)"
+    },
+    {
+      "id": "thoi_han_dat_xd_cong_trinh_su_nghiep_cc_kd",
+      "label": "KháiNiệm",
+      "name": "Thời hạn đất xây dựng công trình sự nghiệp và công trình công cộng có mục đích kinh doanh"
+    },
+    {
+      "id": "khong_qua_70_nam_khoan_6",
+      "label": "KháiNiệm",
+      "name": "Không quá 70 năm (Khoản 6)"
+    },
+    {
+      "id": "thoi_han_su_dung_dat_da_muc_dich",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất đa mục đích"
+    },
+    {
+      "id": "thoi_han_loai_dat_su_dung_muc_dich_chinh",
+      "label": "KháiNiệm",
+      "name": "Thời hạn của loại đất sử dụng vào mục đích chính"
+    },
+    {
+      "id": "thoi_diem_tinh_thoi_han_giao_cho_thue_dat",
+      "label": "KháiNiệm",
+      "name": "Thời điểm tính thời hạn giao đất, cho thuê đất"
+    },
+    {
+      "id": "ngay_co_quyet_dinh_giao_cho_thue_dat_cqnn_ctq",
+      "label": "KháiNiệm",
+      "name": "Ngày có quyết định giao đất, cho thuê đất của cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chu_the_ho_gia_dinh_ca_nhan",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân"
+    },
+    {
+      "id": "chu_the_ho_gia_dinh_ca_nhan_truc_tiep_sx_nong_nghiep",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp"
+    },
+    {
+      "id": "chu_the_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chu_the_to_chuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chu_the_nguoi_viet_nam_dinh_cu_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "Người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chu_the_doanh_nghiep_von_dau_tu_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "chu_the_chu_dau_tu",
+      "label": "ChủThể",
+      "name": "Chủ đầu tư"
+    },
+    {
+      "id": "chu_the_nguoi_mua_nha_o_gan_lien_voi_qsd_dat",
+      "label": "ChủThể",
+      "name": "Người mua nhà ở gắn liền với quyền sử dụng đất"
+    },
+    {
+      "id": "chu_the_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chu_the_to_chuc_nuoc_ngoai_chuc_nang_ngoai_giao",
+      "label": "ChủThể",
+      "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "id": "chu_the_to_chuc_su_nghiep_cong_lap_tu_chu_tai_chinh",
+      "label": "ChủThể",
+      "name": "Tổ chức sự nghiệp công lập tự chủ tài chính"
+    },
+    {
+      "id": "chu_the_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "hanh_vi_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất"
+    },
+    {
+      "id": "hanh_vi_cong_nhan_qsd_dat_nong_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "Công nhận quyền sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "hanh_vi_tiep_tuc_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Tiếp tục sử dụng đất"
+    },
+    {
+      "id": "hanh_vi_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất"
+    },
+    {
+      "id": "hanh_vi_xem_xet_tiep_tuc_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Xem xét tiếp tục cho thuê đất"
+    },
+    {
+      "id": "hanh_vi_xem_xet_gia_han_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Xem xét gia hạn sử dụng đất"
+    },
+    {
+      "id": "hanh_vi_cho_thue_dat_xd_tru_so_ngoai_giao",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất để xây dựng trụ sở ngoại giao"
+    },
+    {
+      "id": "hanh_vi_xem_xet_gia_han_hoac_cho_thue_dat_khac",
+      "label": "HànhViPhápLý",
+      "name": "Xem xét gia hạn hoặc cho thuê đất khác"
+    },
+    {
+      "id": "hanh_vi_cho_thue_dat_cong_ich",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất công ích"
+    },
+    {
+      "id": "dieu_kien_truc_tiep_sx_nong_nghiep",
+      "label": "ĐiềuKiện",
+      "name": "Trực tiếp sản xuất nông nghiệp"
+    },
+    {
+      "id": "dieu_kien_co_nhu_cau_tiep_tuc_su_dung_khoan_1",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu tiếp tục sử dụng (Khoản 1)"
+    },
+    {
+      "id": "dieu_kien_het_thoi_han_khoan_1",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn (Khoản 1)"
+    },
+    {
+      "id": "dieu_kien_co_nhu_cau_thue_dat_tiep_khoan_2",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu tiếp tục cho thuê đất (Khoản 2)"
+    },
+    {
+      "id": "dieu_kien_het_thoi_han_khoan_2",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn thuê đất (Khoản 2)"
+    },
+    {
+      "id": "dieu_kien_muc_dich_sx_nn_lm_ntts_muoi",
+      "label": "ĐiềuKiện",
+      "name": "Mục đích sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối"
+    },
+    {
+      "id": "dieu_kien_muc_dich_tm_dv_cs_sx_phi_nn",
+      "label": "ĐiềuKiện",
+      "name": "Mục đích thương mại, dịch vụ, làm cơ sở sản xuất phi nông nghiệp"
+    },
+    {
+      "id": "dieu_kien_thuc_hien_du_an_dau_tu",
+      "label": "ĐiềuKiện",
+      "name": "Thực hiện các dự án đầu tư"
+    },
+    {
+      "id": "dieu_kien_du_an_von_dau_tu_lon_thu_hoi_cham",
+      "label": "ĐiềuKiện",
+      "name": "Dự án có vốn đầu tư lớn nhưng thu hồi vốn chậm"
+    },
+    {
+      "id": "dieu_kien_du_an_dau_tu_dia_ban_kho_khan",
+      "label": "ĐiềuKiện",
+      "name": "Dự án đầu tư vào địa bàn có điều kiện kinh tế - xã hội khó khăn, địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn"
+    },
+    {
+      "id": "dieu_kien_du_an_kinh_doanh_nha_o",
+      "label": "ĐiềuKiện",
+      "name": "Dự án kinh doanh nhà ở"
+    },
+    {
+      "id": "dieu_kien_co_nhu_cau_tiep_tuc_su_dung_khoan_3",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu tiếp tục sử dụng (Khoản 3)"
+    },
+    {
+      "id": "dieu_kien_het_thoi_han_khoan_3",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn (Khoản 3)"
+    },
+    {
+      "id": "dieu_kien_co_nhu_cau_su_dung_dat_khoan_4",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu sử dụng đất (Khoản 4)"
+    },
+    {
+      "id": "dieu_kien_het_thoi_han_khoan_4",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn (Khoản 4)"
+    },
+    {
+      "id": "dieu_kien_cong_trinh_cong_cong_co_muc_dich_kinh_doanh",
+      "label": "ĐiềuKiện",
+      "name": "Công trình công cộng có mục đích kinh doanh"
+    },
+    {
+      "id": "dieu_kien_co_nhu_cau_tiep_tuc_su_dung_khoan_6",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu tiếp tục sử dụng (Khoản 6)"
+    },
+    {
+      "id": "dieu_kien_het_thoi_han_khoan_6",
+      "label": "ĐiềuKiện",
+      "name": "Hết thời hạn (Khoản 6)"
+    },
+    {
+      "id": "dieu_kien_thua_dat_su_dung_nhieu_muc_dich",
+      "label": "ĐiềuKiện",
+      "name": "Thửa đất sử dụng cho nhiều mục đích"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_su_dung_co_thoi_han"
+    },
+    {
+      "source_id": "dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thoi_han_giao_dat_cn_qsd_dat_nn_hkcn_tructiep_sxnn"
+    },
+    {
+      "source_id": "thoi_han_giao_dat_cn_qsd_dat_nn_hkcn_tructiep_sxnn",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "50_nam_khoan_1"
+    },
+    {
+      "source_id": "thoi_han_giao_dat_cn_qsd_dat_nn_hkcn_tructiep_sxnn",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_ho_gia_dinh_ca_nhan_truc_tiep_sx_nong_nghiep"
+    },
+    {
+      "source_id": "chu_the_ho_gia_dinh_ca_nhan_truc_tiep_sx_nong_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_truc_tiep_sx_nong_nghiep"
+    },
+    {
+      "source_id": "dieu_kien_het_thoi_han_khoan_1",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_tiep_tuc_su_dung_dat"
+    },
+    {
+      "source_id": "hanh_vi_tiep_tuc_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_co_nhu_cau_tiep_tuc_su_dung_khoan_1"
+    },
+    {
+      "source_id": "hanh_vi_tiep_tuc_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_ho_gia_dinh_ca_nhan_truc_tiep_sx_nong_nghiep"
+    },
+    {
+      "source_id": "dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thoi_han_cho_thue_dat_nn_hkcn"
+    },
+    {
+      "source_id": "thoi_han_cho_thue_dat_nn_hkcn",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khong_qua_50_nam_khoan_2"
+    },
+    {
+      "source_id": "thoi_han_cho_thue_dat_nn_hkcn",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "dieu_kien_het_thoi_han_khoan_2",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_xem_xet_tiep_tuc_cho_thue_dat"
+    },
+    {
+      "source_id": "hanh_vi_xem_xet_tiep_tuc_cho_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_co_nhu_cau_thue_dat_tiep_khoan_2"
+    },
+    {
+      "source_id": "hanh_vi_xem_xet_tiep_tuc_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "chu_the_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanh_vi_xem_xet_tiep_tuc_cho_thue_dat"
+    },
+    {
+      "source_id": "dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thoi_han_giao_cho_thue_dat_muc_dich_khac_to_chuc_hkcn_nvndcon_dovn"
+    },
+    {
+      "source_id": "thoi_han_giao_cho_thue_dat_muc_dich_khac_to_chuc_hkcn_nvndcon_dovn",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khong_qua_50_nam_khoan_3"
+    },
+    {
+      "source_id": "khong_qua_50_nam_khoan_3",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc"
+    },
+    {
+      "source_id": "chu_the_to_chuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_muc_dich_sx_nn_lm_ntts_muoi"
+    },
+    {
+      "source_id": "khong_qua_50_nam_khoan_3",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_ho_gia_dinh_ca_nhan"
+    },
+    {
+      "source_id": "chu_the_ho_gia_dinh_ca_nhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_muc_dich_tm_dv_cs_sx_phi_nn"
+    },
+    {
+      "source_id": "khong_qua_50_nam_khoan_3",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc"
+    },
+    {
+      "source_id": "chu_the_to_chuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_muc_dich_tm_dv_cs_sx_phi_nn"
+    },
+    {
+      "source_id": "khong_qua_50_nam_khoan_3",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_nguoi_viet_nam_dinh_cu_nuoc_ngoai"
+    },
+    {
+      "source_id": "chu_the_nguoi_viet_nam_dinh_cu_nuoc_ngoai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_thuc_hien_du_an_dau_tu"
+    },
+    {
+      "source_id": "khong_qua_50_nam_khoan_3",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_doanh_nghiep_von_dau_tu_nuoc_ngoai"
+    },
+    {
+      "source_id": "chu_the_doanh_nghiep_von_dau_tu_nuoc_ngoai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_thuc_hien_du_an_dau_tu"
+    },
+    {
+      "source_id": "thoi_han_giao_cho_thue_dat_muc_dich_khac_to_chuc_hkcn_nvndcon_dovn",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khong_qua_70_nam_khoan_3"
+    },
+    {
+      "source_id": "khong_qua_70_nam_khoan_3",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_du_an_von_dau_tu_lon_thu_hoi_cham"
+    },
+    {
+      "source_id": "khong_qua_70_nam_khoan_3",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_du_an_dau_tu_dia_ban_kho_khan"
+    },
+    {
+      "source_id": "hanh_vi_giao_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_chu_dau_tu"
+    },
+    {
+      "source_id": "chu_the_chu_dau_tu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_du_an_kinh_doanh_nha_o"
+    },
+    {
+      "source_id": "thoi_han_giao_dat_chu_dau_tu_du_an_kinh_doanh_nha_o",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "thoi_han_cua_du_an"
+    },
+    {
+      "source_id": "chu_the_nguoi_mua_nha_o_gan_lien_voi_qsd_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "su_dung_dat_on_dinh_lau_dai"
+    },
+    {
+      "source_id": "dieu_kien_het_thoi_han_khoan_3",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_xem_xet_gia_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanh_vi_xem_xet_gia_han_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_co_nhu_cau_tiep_tuc_su_dung_khoan_3"
+    },
+    {
+      "source_id": "hanh_vi_xem_xet_gia_han_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chu_the_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanh_vi_xem_xet_gia_han_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thoi_han_cho_thue_dat_tru_so_to_chuc_nn_cn_ngoai_giao"
+    },
+    {
+      "source_id": "thoi_han_cho_thue_dat_tru_so_to_chuc_nn_cn_ngoai_giao",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khong_qua_99_nam_khoan_4"
+    },
+    {
+      "source_id": "thoi_han_cho_thue_dat_tru_so_to_chuc_nn_cn_ngoai_giao",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_nuoc_ngoai_chuc_nang_ngoai_giao"
+    },
+    {
+      "source_id": "dieu_kien_het_thoi_han_khoan_4",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_xem_xet_gia_han_hoac_cho_thue_dat_khac"
+    },
+    {
+      "source_id": "hanh_vi_xem_xet_gia_han_hoac_cho_thue_dat_khac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_co_nhu_cau_su_dung_dat_khoan_4"
+    },
+    {
+      "source_id": "hanh_vi_xem_xet_gia_han_hoac_cho_thue_dat_khac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_nuoc_ngoai_chuc_nang_ngoai_giao"
+    },
+    {
+      "source_id": "chu_the_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanh_vi_xem_xet_gia_han_hoac_cho_thue_dat_khac"
+    },
+    {
+      "source_id": "dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thoi_han_cho_thue_dat_cong_ich_xa_phuong_thi_tran"
+    },
+    {
+      "source_id": "thoi_han_cho_thue_dat_cong_ich_xa_phuong_thi_tran",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khong_qua_05_nam_khoan_5"
+    },
+    {
+      "source_id": "dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thoi_han_dat_xd_cong_trinh_su_nghiep_cc_kd"
+    },
+    {
+      "source_id": "thoi_han_dat_xd_cong_trinh_su_nghiep_cc_kd",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khong_qua_70_nam_khoan_6"
+    },
+    {
+      "source_id": "khong_qua_70_nam_khoan_6",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_su_nghiep_cong_lap_tu_chu_tai_chinh"
+    },
+    {
+      "source_id": "khong_qua_70_nam_khoan_6",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_cong_trinh_cong_cong_co_muc_dich_kinh_doanh"
+    },
+    {
+      "source_id": "dieu_kien_het_thoi_han_khoan_6",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_xem_xet_gia_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanh_vi_xem_xet_gia_han_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_co_nhu_cau_tiep_tuc_su_dung_khoan_6"
+    },
+    {
+      "source_id": "hanh_vi_xem_xet_gia_han_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chu_the_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanh_vi_xem_xet_gia_han_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thoi_han_su_dung_dat_da_muc_dich"
+    },
+    {
+      "source_id": "thoi_han_su_dung_dat_da_muc_dich",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "thoi_han_loai_dat_su_dung_muc_dich_chinh"
+    },
+    {
+      "source_id": "thoi_han_su_dung_dat_da_muc_dich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_thua_dat_su_dung_nhieu_muc_dich"
+    },
+    {
+      "source_id": "dieu_126",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "thoi_diem_tinh_thoi_han_giao_cho_thue_dat"
+    },
+    {
+      "source_id": "thoi_diem_tinh_thoi_han_giao_cho_thue_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "ngay_co_quyet_dinh_giao_cho_thue_dat_cqnn_ctq"
+    },
+    {
+      "source_id": "ngay_co_quyet_dinh_giao_cho_thue_dat_cqnn_ctq",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanh_vi_giao_dat"
+    },
+    {
+      "source_id": "ngay_co_quyet_dinh_giao_cho_thue_dat_cqnn_ctq",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanh_vi_cho_thue_dat"
+    },
+    {
+      "source_id": "chu_the_co_quan_nha_nuoc_co_tham_quyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "ngay_co_quyet_dinh_giao_cho_thue_dat_cqnn_ctq"
+    }
+  ]
+}

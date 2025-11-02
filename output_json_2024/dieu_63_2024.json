@@ -1,0 +1,61 @@
+{
+  "entities": [
+    {
+      "id": "dieu_63",
+      "name": "Điều 63",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khainiem_kinhphichohoatdongquyhoach",
+      "name": "Kinh phí cho hoạt động quy hoạch",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_kinhphi_cho_cac_hoat_dong_quyhoach_kehoachsudungdat",
+      "name": "Kinh phí lập, điều chỉnh, thẩm định, quyết định, phê duyệt, công bố quy hoạch, kế hoạch sử dụng đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_ngansachnhanuoc",
+      "name": "ngân sách nhà nước",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_nguonsunghiepkinhte",
+      "name": "nguồn sự nghiệp kinh tế",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "hanhviphaply_baodam",
+      "name": "bảo đảm",
+      "label": "HànhViPhápLý"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_63",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_kinhphichohoatdongquyhoach"
+    },
+    {
+      "source_id": "khainiem_kinhphichohoatdongquyhoach",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_kinhphi_cho_cac_hoat_dong_quyhoach_kehoachsudungdat"
+    },
+    {
+      "source_id": "khainiem_kinhphi_cho_cac_hoat_dong_quyhoach_kehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_baodam"
+    },
+    {
+      "source_id": "hanhviphaply_baodam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_ngansachnhanuoc"
+    },
+    {
+      "source_id": "khainiem_ngansachnhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_nguonsunghiepkinhte"
+    }
+  ]
+}

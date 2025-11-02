@@ -1,0 +1,251 @@
+{
+  "entities": [
+    {
+      "id": "dieu_193",
+      "label": "ĐiềuLuật",
+      "name": "Điều 193"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "hanhviphaply_nhan_chuyen_nhuong",
+      "label": "HànhViPhápLý",
+      "name": "Nhận chuyển nhượng"
+    },
+    {
+      "id": "hanhviphaply_nhan_gop_von",
+      "label": "HànhViPhápLý",
+      "name": "Nhận góp vốn"
+    },
+    {
+      "id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thuê quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_quyen_su_dung_dat_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "Quyền sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "khainiem_du_an_dau_tu_san_xuat_kinh_doanh_phi_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "Dự án đầu tư sản xuất, kinh doanh phi nông nghiệp"
+    },
+    {
+      "id": "dieukien_van_ban_chap_thuan_cqnn",
+      "label": "ĐiềuKiện",
+      "name": "Có văn bản chấp thuận của cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "dieukien_muc_dich_su_dung_phu_hop_quy_hoach",
+      "label": "ĐiềuKiện",
+      "name": "Mục đích sử dụng đất phù hợp với quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_muc_dich_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Mục đích sử dụng đất"
+    },
+    {
+      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_dat_chuyen_trong_lua_nuoc_theo_dieu_134_k3",
+      "label": "ĐiềuKiện",
+      "name": "Đối với đất chuyên trồng lúa nước thì phải thực hiện theo quy định tại khoản 3 Điều 134 của Luật này"
+    },
+    {
+      "id": "khainiem_dat_chuyen_trong_lua_nuoc",
+      "label": "KháiNiệm",
+      "name": "Đất chuyên trồng lúa nước"
+    },
+    {
+      "id": "dieu_134_khoan_3",
+      "label": "ĐiềuLuật",
+      "name": "Khoản 3 Điều 134"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_193",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_nhan_chuyen_nhuong"
+    },
+    {
+      "source_id": "dieu_193",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_nhan_gop_von"
+    },
+    {
+      "source_id": "dieu_193",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thue_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_to_chuc_kinh_te",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhan_chuyen_nhuong"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhan_chuyen_nhuong"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhan_chuyen_nhuong"
+    },
+    {
+      "source_id": "chuthe_to_chuc_kinh_te",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhan_gop_von"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhan_gop_von"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_nhan_gop_von"
+    },
+    {
+      "source_id": "chuthe_to_chuc_kinh_te",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thue_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thue_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thue_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_su_dung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_su_dung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_su_dung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_an_dau_tu_san_xuat_kinh_doanh_phi_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_an_dau_tu_san_xuat_kinh_doanh_phi_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_an_dau_tu_san_xuat_kinh_doanh_phi_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_van_ban_chap_thuan_cqnn"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_van_ban_chap_thuan_cqnn"
+    },
+    {
+      "source_id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_van_ban_chap_thuan_cqnn"
+    },
+    {
+      "source_id": "dieukien_van_ban_chap_thuan_cqnn",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_muc_dich_su_dung_phu_hop_quy_hoach"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_muc_dich_su_dung_phu_hop_quy_hoach"
+    },
+    {
+      "source_id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_muc_dich_su_dung_phu_hop_quy_hoach"
+    },
+    {
+      "source_id": "dieukien_muc_dich_su_dung_phu_hop_quy_hoach",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_muc_dich_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_chuyen_trong_lua_nuoc_theo_dieu_134_k3"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_chuyen_trong_lua_nuoc_theo_dieu_134_k3"
+    },
+    {
+      "source_id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_chuyen_trong_lua_nuoc_theo_dieu_134_k3"
+    },
+    {
+      "source_id": "dieukien_dat_chuyen_trong_lua_nuoc_theo_dieu_134_k3",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dat_chuyen_trong_lua_nuoc"
+    },
+    {
+      "source_id": "dieukien_dat_chuyen_trong_lua_nuoc_theo_dieu_134_k3",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_134_khoan_3"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "entities": [
+    {
+      "id": "dieu_136",
+      "label": "ĐiềuLuật",
+      "name": "Điều 136 - Thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giaychungnhan",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_coquanqlydatdai",
+      "label": "ChủThể",
+      "name": "Cơ quan có chức năng quản lý đất đai"
+    },
+    {
+      "id": "chuthe_tochucdkdatdai",
+      "label": "ChủThể",
+      "name": "Tổ chức đăng ký đất đai"
+    },
+    {
+      "id": "chuthe_chinhanhtochucdkdatdai",
+      "label": "ChủThể",
+      "name": "Chi nhánh của tổ chức đăng ký đất đai"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_chusohuutaisan",
+      "label": "ChủThể",
+      "name": "Chủ sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_tochuctrongnuoc",
+      "label": "ChủThể",
+      "name": "Tổ chức trong nước"
+    },
+    {
+      "id": "chuthe_tochuctongiao",
+      "label": "ChủThể",
+      "name": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc"
+    },
+    {
+      "id": "chuthe_tochucnuocngoaidpl",
+      "label": "ChủThể",
+      "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "id": "chuthe_tochucktcovdt",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "chuthe_tochucnuocngoai",
+      "label": "ChủThể",
+      "name": "Tổ chức nước ngoài"
+    },
+    {
+      "id": "chuthe_canhannuocngoai",
+      "label": "ChủThể",
+      "name": "Cá nhân nước ngoài"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_congdongdancu",
+      "label": "ChủThể",
+      "name": "Cộng đồng dân cư"
+    },
+    {
+      "id": "chuthe_nguoigocvn",
+      "label": "ChủThể",
+      "name": "Người gốc Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_xacnhanthaydoi",
+      "label": "HànhViPhápLý",
+      "name": "Xác nhận thay đổi vào giấy chứng nhận"
+    },
+    {
+      "id": "hanhviphaply_uyquyen",
+      "label": "HànhViPhápLý",
+      "name": "Ủy quyền"
+    },
+    {
+      "id": "hanhviphaply_sudungcondau",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng con dấu"
+    },
+    {
+      "id": "dieukien_caplandau",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp đăng ký, cấp Giấy chứng nhận lần đầu"
+    },
+    {
+      "id": "dieukien_dangkybiendong",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp đăng ký biến động"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_136",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "dieu_136",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xacnhanthaydoi"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_caplandau"
+    },
+    {
+      "source_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dangkybiendong"
+    },
+    {
+      "source_id": "hanhviphaply_xacnhanthaydoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dangkybiendong"
+    },
+    {
+      "source_id": "dieukien_caplandau",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_ubndcaptinh"
+    },
+    {
+      "source_id": "dieukien_caplandau",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_ubndcaphuyen"
+    },
+    {
+      "source_id": "dieukien_dangkybiendong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_tochucdkdatdai"
+    },
+    {
+      "source_id": "dieukien_dangkybiendong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chinhanhtochucdkdatdai"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_uyquyen"
+    },
+    {
+      "source_id": "hanhviphaply_uyquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquanqlydatdai"
+    },
+    {
+      "source_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congdongdancu"
+    },
+    {
+      "source_id": "chuthe_tochucdkdatdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_tochucdkdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuctrongnuoc"
+    },
+    {
+      "source_id": "chuthe_tochucdkdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuctongiao"
+    },
+    {
+      "source_id": "chuthe_tochucdkdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucnuocngoaidpl"
+    },
+    {
+      "source_id": "chuthe_tochucdkdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucktcovdt"
+    },
+    {
+      "source_id": "chuthe_tochucdkdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucnuocngoai"
+    },
+    {
+      "source_id": "chuthe_tochucdkdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhannuocngoai"
+    },
+    {
+      "source_id": "chuthe_chinhanhtochucdkdatdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "chuthe_chinhanhtochucdkdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_chinhanhtochucdkdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congdongdancu"
+    },
+    {
+      "source_id": "chuthe_chinhanhtochucdkdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoigocvn"
+    },
+    {
+      "source_id": "chuthe_tochucdkdatdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_sudungcondau"
+    },
+    {
+      "source_id": "chuthe_chinhanhtochucdkdatdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_sudungcondau"
+    }
+  ]
+}

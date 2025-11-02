@@ -1,0 +1,391 @@
+{
+  "entities": [
+    {
+      "id": "dieu_19",
+      "label": "ĐiềuLuật",
+      "name": "Điều 19"
+    },
+    {
+      "id": "khainiem_quanlyvasudungdatdai",
+      "label": "KháiNiệm",
+      "name": "quản lý và sử dụng đất đai"
+    },
+    {
+      "id": "chuthe_uybantrunguongmattrantoquocvietnam",
+      "label": "ChủThể",
+      "name": "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "label": "ChủThể",
+      "name": "Ủy ban Mặt trận Tổ quốc Việt Nam các cấp"
+    },
+    {
+      "id": "chuthe_mattrantoquocvietnam",
+      "label": "ChủThể",
+      "name": "Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "id": "chuthe_cactochucthanhvienmattran",
+      "label": "ChủThể",
+      "name": "các tổ chức thành viên của Mặt trận"
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChủThể",
+      "name": "Quốc hội"
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChủThể",
+      "name": "Thủ tướng Chính phủ"
+    },
+    {
+      "id": "chuthe_ho dongnhandancungcap",
+      "label": "ChủThể",
+      "name": "Hội đồng nhân dân cùng cấp"
+    },
+    {
+      "id": "chuthe_uybannhandancungcap",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cùng cấp"
+    },
+    {
+      "id": "chuthe_nhandan",
+      "label": "ChủThể",
+      "name": "Nhân dân"
+    },
+    {
+      "id": "hanhviphaply_thamgiaxaydungphapluat",
+      "label": "HànhViPhápLý",
+      "name": "Tham gia xây dựng pháp luật"
+    },
+    {
+      "id": "hanhviphaply_thuchienphanbienxahoi",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện phản biện xã hội"
+    },
+    {
+      "id": "hanhviphaply_quyetdinhchapthuantruongdaotu",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định, chấp thuận chủ trương đầu tư"
+    },
+    {
+      "id": "hanhviphaply_thamgiaykienvetruonghopthuhoiland",
+      "label": "HànhViPhápLý",
+      "name": "Tham gia ý kiến về trường hợp thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_thamgiaykienvephuonganboithuonghotrotaidinhcu",
+      "label": "HànhViPhápLý",
+      "name": "Tham gia ý kiến về phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_thamgiaykienvetruonghopcuongchethuchienthuhoiland",
+      "label": "HànhViPhápLý",
+      "name": "Tham gia ý kiến về trường hợp cưỡng chế khi thực hiện thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_thamgiaykienvexaydungbanggiadat",
+      "label": "HànhViPhápLý",
+      "name": "Tham gia ý kiến về quá trình xây dựng bảng giá đất"
+    },
+    {
+      "id": "hanhviphaply_giamsatxaydungvathuchienbanggiadat",
+      "label": "HànhViPhápLý",
+      "name": "Giám sát quá trình xây dựng bảng giá đất và thực hiện bảng giá đất"
+    },
+    {
+      "id": "hanhviphaply_thamgiahoagiaitranhchapdatdai",
+      "label": "HànhViPhápLý",
+      "name": "Tham gia hòa giải tranh chấp đất đai"
+    },
+    {
+      "id": "hanhviphaply_giamsatthuchienchinhsachphapluatvedatdai",
+      "label": "HànhViPhápLý",
+      "name": "Giám sát việc thực hiện chính sách, pháp luật về đất đai"
+    },
+    {
+      "id": "hanhviphaply_tuyentruyenphobienchinhsachphapluatvedatdai",
+      "label": "HànhViPhápLý",
+      "name": "Tuyên truyền, phổ biến chính sách, pháp luật về đất đai"
+    },
+    {
+      "id": "hanhviphaply_vandongnhandanthuchienvachaphanhchinhsachphapluatvedatdai",
+      "label": "HànhViPhápLý",
+      "name": "Vận động Nhân dân thực hiện và chấp hành tốt chính sách, pháp luật về đất đai"
+    },
+    {
+      "id": "dieukien_duthaovanbanphapluatvedatdai",
+      "label": "ĐiềuKiện",
+      "name": "dự thảo văn bản pháp luật về đất đai"
+    },
+    {
+      "id": "dieukien_duthaoquyhoachkehoachsudungdatquocgia",
+      "label": "ĐiềuKiện",
+      "name": "dự thảo quy hoạch, kế hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "dieukien_duanconsudungdatdoquochoithutuongchinhphuquyetdinhchutruongdaotu",
+      "label": "ĐiềuKiện",
+      "name": "dự án có sử dụng đất do Quốc hội, Thủ tướng Chính phủ quyết định, chấp thuận chủ trương đầu tư"
+    },
+    {
+      "id": "dieukien_duthaoquyhoachkehoachsudungdatcungcap",
+      "label": "ĐiềuKiện",
+      "name": "dự thảo quy hoạch, kế hoạch sử dụng đất cùng cấp"
+    },
+    {
+      "id": "dieukien_duanconsudungdatdoho dongnhandancungcapuybannhandancungcapquyetdinhchutruongdaotu",
+      "label": "ĐiềuKiện",
+      "name": "dự án có sử dụng đất do Hội đồng nhân dân, Ủy ban nhân dân cùng cấp quyết định, chấp thuận chủ trương đầu tư"
+    },
+    {
+      "id": "dieukien_truonghopthuhoiland",
+      "label": "ĐiềuKiện",
+      "name": "trường hợp thu hồi đất"
+    },
+    {
+      "id": "dieukien_phuonganboithuonghotrotaidinhcu",
+      "label": "ĐiềuKiện",
+      "name": "phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "dieukien_truonghopcuongchekhithuchienthuhoiland",
+      "label": "ĐiềuKiện",
+      "name": "trường hợp cưỡng chế khi thực hiện thu hồi đất"
+    },
+    {
+      "id": "dieukien_quatrinhxaydungbanggiadat",
+      "label": "ĐiềuKiện",
+      "name": "quá trình xây dựng bảng giá đất"
+    },
+    {
+      "id": "dieukien_thuchienbanggiadat",
+      "label": "ĐiềuKiện",
+      "name": "thực hiện bảng giá đất"
+    },
+    {
+      "id": "dieukien_tranhchapdatdai",
+      "label": "ĐiềuKiện",
+      "name": "tranh chấp đất đai"
+    },
+    {
+      "id": "dieukien_chinhsachphapluatthuhoilandtrungdungdat",
+      "label": "ĐiềuKiện",
+      "name": "chính sách, pháp luật về thu hồi đất, trưng dụng đất"
+    },
+    {
+      "id": "dieukien_chinhsachphapluatboithuonghotrotaidinhcu",
+      "label": "ĐiềuKiện",
+      "name": "chính sách, pháp luật về bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "dieukien_chinhsachphapluatgiaodatchothuedatchuyenmucdichsudungdat",
+      "label": "ĐiềuKiện",
+      "name": "chính sách, pháp luật về giao đất, cho thuê đất, chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "dieukien_chinhsachphapluatcapgiaychungnhanquyensudungdatquyensohuutaidansunglienvoidat",
+      "label": "ĐiềuKiện",
+      "name": "chính sách, pháp luật về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieukien_chinhsachphapluatvedatdai",
+      "label": "ĐiềuKiện",
+      "name": "chính sách, pháp luật về đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_19",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quanlyvasudungdatdai"
+    },
+    {
+      "source_id": "dieu_19",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_mattrantoquocvietnam"
+    },
+    {
+      "source_id": "dieu_19",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_cactochucthanhvienmattran"
+    },
+    {
+      "source_id": "chuthe_uybantrunguongmattrantoquocvietnam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thamgiaxaydungphapluat"
+    },
+    {
+      "source_id": "chuthe_uybantrunguongmattrantoquocvietnam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchienphanbienxahoi"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienphanbienxahoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_duthaovanbanphapluatvedatdai"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienphanbienxahoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_duthaoquyhoachkehoachsudungdatquocgia"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienphanbienxahoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_duanconsudungdatdoquochoithutuongchinhphuquyetdinhchutruongdaotu"
+    },
+    {
+      "source_id": "chuthe_quochoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyetdinhchapthuantruongdaotu"
+    },
+    {
+      "source_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyetdinhchapthuantruongdaotu"
+    },
+    {
+      "source_id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thamgiaxaydungphapluat"
+    },
+    {
+      "source_id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchienphanbienxahoi"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienphanbienxahoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_duthaovanbanphapluatvedatdai"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienphanbienxahoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_duthaoquyhoachkehoachsudungdatcungcap"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienphanbienxahoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_duanconsudungdatdoho dongnhandancungcapuybannhandancungcapquyetdinhchutruongdaotu"
+    },
+    {
+      "source_id": "chuthe_ho dongnhandancungcap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyetdinhchapthuantruongdaotu"
+    },
+    {
+      "source_id": "chuthe_uybannhandancungcap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyetdinhchapthuantruongdaotu"
+    },
+    {
+      "source_id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thamgiaykienvetruonghopthuhoiland"
+    },
+    {
+      "source_id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thamgiaykienvephuonganboithuonghotrotaidinhcu"
+    },
+    {
+      "source_id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thamgiaykienvetruonghopcuongchekhithuchienthuhoiland"
+    },
+    {
+      "source_id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thamgiaykienvexaydungbanggiadat"
+    },
+    {
+      "source_id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_giamsatxaydungvathuchienbanggiadat"
+    },
+    {
+      "source_id": "hanhviphaply_giamsatxaydungvathuchienbanggiadat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_quatrinhxaydungbanggiadat"
+    },
+    {
+      "source_id": "hanhviphaply_giamsatxaydungvathuchienbanggiadat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_thuchienbanggiadat"
+    },
+    {
+      "source_id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thamgiahoagiaitranhchapdatdai"
+    },
+    {
+      "source_id": "hanhviphaply_thamgiahoagiaitranhchapdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_tranhchapdatdai"
+    },
+    {
+      "source_id": "chuthe_uybanmattrantoquocvietnamcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_giamsatthuchienchinhsachphapluatvedatdai"
+    },
+    {
+      "source_id": "hanhviphaply_giamsatthuchienchinhsachphapluatvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_chinhsachphapluatthuhoilandtrungdungdat"
+    },
+    {
+      "source_id": "hanhviphaply_giamsatthuchienchinhsachphapluatvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_chinhsachphapluatboithuonghotrotaidinhcu"
+    },
+    {
+      "source_id": "hanhviphaply_giamsatthuchienchinhsachphapluatvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_chinhsachphapluatgiaodatchothuedatchuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_giamsatthuchienchinhsachphapluatvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_chinhsachphapluatcapgiaychungnhanquyensudungdatquyensohuutaidansunglienvoidat"
+    },
+    {
+      "source_id": "chuthe_mattrantoquocvietnam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tuyentruyenphobienchinhsachphapluatvedatdai"
+    },
+    {
+      "source_id": "chuthe_cactochucthanhvienmattran",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tuyentruyenphobienchinhsachphapluatvedatdai"
+    },
+    {
+      "source_id": "hanhviphaply_tuyentruyenphobienchinhsachphapluatvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_chinhsachphapluatvedatdai"
+    },
+    {
+      "source_id": "chuthe_mattrantoquocvietnam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_vandongnhandanthuchienvachaphanhchinhsachphapluatvedatdai"
+    },
+    {
+      "source_id": "chuthe_cactochucthanhvienmattran",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_vandongnhandanthuchienvachaphanhchinhsachphapluatvedatdai"
+    },
+    {
+      "source_id": "hanhviphaply_vandongnhandanthuchienvachaphanhchinhsachphapluatvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhandan"
+    },
+    {
+      "source_id": "hanhviphaply_vandongnhandanthuchienvachaphanhchinhsachphapluatvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_chinhsachphapluatvedatdai"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "entities": [
+    {
+      "id": "dieu_208",
+      "label": "ĐiềuLuật",
+      "name": "Điều 208"
+    },
+    {
+      "id": "chuthe_chu_tich_uy_ban_nhan_dan_cac_cap",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân các cấp"
+    },
+    {
+      "id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_nguoi_co_hanh_vi_vi_pham",
+      "label": "ChủThể",
+      "name": "người có hành vi vi phạm"
+    },
+    {
+      "id": "khainiem_vi_pham_phap_luat_ve_quan_ly_va_su_dung_dat_dai",
+      "label": "KháiNiệm",
+      "name": "vi phạm pháp luật về quản lý và sử dụng đất đai"
+    },
+    {
+      "id": "khainiem_chuyen_quyen_su_dung_dat_trai_phep",
+      "label": "KháiNiệm",
+      "name": "chuyển quyền sử dụng đất trái phép"
+    },
+    {
+      "id": "khainiem_chuyen_muc_dich_su_dung_dat_trai_phep",
+      "label": "KháiNiệm",
+      "name": "chuyển mục đích sử dụng đất trái phép"
+    },
+    {
+      "id": "khainiem_xay_dung_cong_trinh_tren_dat_lan_chiem_hoac_su_dung_khong_dung_muc_dich",
+      "label": "KháiNiệm",
+      "name": "xây dựng các công trình trên đất lấn, chiếm, đất sử dụng không đúng mục đích"
+    },
+    {
+      "id": "hanhviphaply_phat_hien",
+      "label": "HànhViPhápLý",
+      "name": "phát hiện"
+    },
+    {
+      "id": "hanhviphaply_ngan_chan",
+      "label": "HànhViPhápLý",
+      "name": "ngăn chặn"
+    },
+    {
+      "id": "hanhviphaply_xu_ly",
+      "label": "HànhViPhápLý",
+      "name": "xử lý"
+    },
+    {
+      "id": "chetai_buoc_khoi_phuc_tinh_trang_dat",
+      "label": "ChếTài",
+      "name": "buộc khôi phục lại tình trạng của đất trước khi vi phạm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_208",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chu_tich_uy_ban_nhan_dan_cac_cap"
+    },
+    {
+      "source_id": "dieu_208",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_vi_pham_phap_luat_ve_quan_ly_va_su_dung_dat_dai"
+    },
+    {
+      "source_id": "dieu_208",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_phat_hien"
+    },
+    {
+      "source_id": "dieu_208",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ngan_chan"
+    },
+    {
+      "source_id": "dieu_208",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xu_ly"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cac_cap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phat_hien"
+    },
+    {
+      "source_id": "hanhviphaply_phat_hien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_vi_pham_phap_luat_ve_quan_ly_va_su_dung_dat_dai"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cac_cap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_ngan_chan"
+    },
+    {
+      "source_id": "hanhviphaply_ngan_chan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_vi_pham_phap_luat_ve_quan_ly_va_su_dung_dat_dai"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cac_cap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xu_ly"
+    },
+    {
+      "source_id": "hanhviphaply_xu_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_vi_pham_phap_luat_ve_quan_ly_va_su_dung_dat_dai"
+    },
+    {
+      "source_id": "dieu_208",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phat_hien"
+    },
+    {
+      "source_id": "hanhviphaply_phat_hien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_quyen_su_dung_dat_trai_phep"
+    },
+    {
+      "source_id": "hanhviphaply_phat_hien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat_trai_phep"
+    },
+    {
+      "source_id": "hanhviphaply_phat_hien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_xay_dung_cong_trinh_tren_dat_lan_chiem_hoac_su_dung_khong_dung_muc_dich"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_ngan_chan"
+    },
+    {
+      "source_id": "hanhviphaply_ngan_chan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_quyen_su_dung_dat_trai_phep"
+    },
+    {
+      "source_id": "hanhviphaply_ngan_chan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat_trai_phep"
+    },
+    {
+      "source_id": "hanhviphaply_ngan_chan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_xay_dung_cong_trinh_tren_dat_lan_chiem_hoac_su_dung_khong_dung_muc_dich"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xu_ly"
+    },
+    {
+      "source_id": "hanhviphaply_xu_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_quyen_su_dung_dat_trai_phep"
+    },
+    {
+      "source_id": "hanhviphaply_xu_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat_trai_phep"
+    },
+    {
+      "source_id": "hanhviphaply_xu_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_xay_dung_cong_trinh_tren_dat_lan_chiem_hoac_su_dung_khong_dung_muc_dich"
+    },
+    {
+      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetai_buoc_khoi_phuc_tinh_trang_dat"
+    },
+    {
+      "source_id": "chetai_buoc_khoi_phuc_tinh_trang_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_hanh_vi_vi_pham"
+    },
+    {
+      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_chuyen_quyen_su_dung_dat_trai_phep"
+    },
+    {
+      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat_trai_phep"
+    },
+    {
+      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_xay_dung_cong_trinh_tren_dat_lan_chiem_hoac_su_dung_khong_dung_muc_dich"
+    }
+  ]
+}

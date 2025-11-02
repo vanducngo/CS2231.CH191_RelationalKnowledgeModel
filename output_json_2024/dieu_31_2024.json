@@ -1,0 +1,406 @@
+{
+  "entities": [
+    {
+      "id": "dieu_31",
+      "label": "ĐiềuLuật",
+      "text": "Điều 31"
+    },
+    {
+      "id": "nghia_vu_chung_cua_nguoi_su_dung_dat",
+      "label": "KháiNiệm",
+      "text": "Nghĩa vụ chung của người sử dụng đất"
+    },
+    {
+      "id": "nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "text": "người sử dụng đất"
+    },
+    {
+      "id": "su_dung_dat_dung_muc_dich",
+      "label": "HànhViPhápLý",
+      "text": "Sử dụng đất đúng mục đích"
+    },
+    {
+      "id": "su_dung_dat_dung_ranh_gioi_thua_dat",
+      "label": "HànhViPhápLý",
+      "text": "Sử dụng đất đúng ranh giới thửa đất"
+    },
+    {
+      "id": "su_dung_dat_dung_do_sau_va_chieu_cao_tren_khong",
+      "label": "HànhViPhápLý",
+      "text": "sử dụng độ sâu trong lòng đất và chiều cao trên không"
+    },
+    {
+      "id": "bao_ve_cong_trinh_cong_cong_trong_long_dat",
+      "label": "HànhViPhápLý",
+      "text": "bảo vệ các công trình công cộng trong lòng đất"
+    },
+    {
+      "id": "tuan_thu_quy_dinh_phap_luat_khac_lien_quan",
+      "label": "HànhViPhápLý",
+      "text": "tuân thủ quy định khác của pháp luật có liên quan"
+    },
+    {
+      "id": "ke_khai_dang_ky_dat_dai",
+      "label": "HànhViPhápLý",
+      "text": "Thực hiện kê khai đăng ký đất đai"
+    },
+    {
+      "id": "thuc_hien_day_du_thu_tuc",
+      "label": "HànhViPhápLý",
+      "text": "thực hiện đầy đủ thủ tục"
+    },
+    {
+      "id": "chuyen_doi_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "chuyển đổi quyền sử dụng đất"
+    },
+    {
+      "id": "chuyen_nhuong_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "cho_thue_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "cho thuê quyền sử dụng đất"
+    },
+    {
+      "id": "cho_thue_lai_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "cho thuê lại quyền sử dụng đất"
+    },
+    {
+      "id": "thua_ke_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "thừa kế quyền sử dụng đất"
+    },
+    {
+      "id": "tang_cho_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "the_chap_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "thế chấp quyền sử dụng đất"
+    },
+    {
+      "id": "gop_von_bang_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "text": "góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "text": "quyền sử dụng đất"
+    },
+    {
+      "id": "thuc_hien_nghia_vu_tai_chinh_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "text": "Thực hiện nghĩa vụ tài chính về đất đai"
+    },
+    {
+      "id": "thuc_hien_bien_phap_bao_ve_dat",
+      "label": "HànhViPhápLý",
+      "text": "Thực hiện biện pháp bảo vệ đất"
+    },
+    {
+      "id": "xu_ly_cai_tao_va_phuc_hoi_dat",
+      "label": "HànhViPhápLý",
+      "text": "xử lý, cải tạo và phục hồi đất"
+    },
+    {
+      "id": "khu_vuc_dat_bi_o_nhiem_thoai_hoa",
+      "label": "KháiNiệm",
+      "text": "khu vực đất bị ô nhiễm, thoái hóa"
+    },
+    {
+      "id": "do_minh_gay_ra",
+      "label": "ĐiềuKiện",
+      "text": "do mình gây ra"
+    },
+    {
+      "id": "tuan_thu_quy_dinh_ve_bao_ve_moi_truong",
+      "label": "HànhViPhápLý",
+      "text": "Tuân thủ quy định về bảo vệ môi trường"
+    },
+    {
+      "id": "khong_lam_ton_hai_den_tai_san_va_loi_ich_hop_phap",
+      "label": "HànhViPhápLý",
+      "text": "không làm tổn hại đến tài sản và lợi ích hợp pháp"
+    },
+    {
+      "id": "tai_san_hop_phap",
+      "label": "KháiNiệm",
+      "text": "tài sản hợp pháp"
+    },
+    {
+      "id": "loi_ich_hop_phap",
+      "label": "KháiNiệm",
+      "text": "lợi ích hợp pháp"
+    },
+    {
+      "id": "nguoi_su_dung_dat_co_lien_quan",
+      "label": "ChủThể",
+      "text": "người sử dụng đất có liên quan"
+    },
+    {
+      "id": "tuan_thu_quy_dinh_phap_luat_ve_tim_thay_vat_trong_long_dat",
+      "label": "HànhViPhápLý",
+      "text": "Tuân thủ quy định của pháp luật về việc tìm thấy vật trong lòng đất"
+    },
+    {
+      "id": "vat_trong_long_dat",
+      "label": "KháiNiệm",
+      "text": "vật trong lòng đất"
+    },
+    {
+      "id": "ban_giao_lai_dat",
+      "label": "HànhViPhápLý",
+      "text": "Bàn giao lại đất"
+    },
+    {
+      "id": "Nha_nuoc",
+      "label": "ChủThể",
+      "text": "Nhà nước"
+    },
+    {
+      "id": "thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "text": "thu hồi đất"
+    },
+    {
+      "id": "theo_quy_dinh_cua_phap_luat",
+      "label": "ĐiềuKiện",
+      "text": "theo quy định của pháp luật"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_31",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "nghia_vu_chung_cua_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "nghia_vu_chung_cua_nguoi_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "su_dung_dat_dung_muc_dich"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "su_dung_dat_dung_ranh_gioi_thua_dat"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "su_dung_dat_dung_do_sau_va_chieu_cao_tren_khong"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "bao_ve_cong_trinh_cong_cong_trong_long_dat"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "tuan_thu_quy_dinh_phap_luat_khac_lien_quan"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ke_khai_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "ke_khai_dang_ky_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "theo_quy_dinh_cua_phap_luat"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thuc_hien_day_du_thu_tuc"
+    },
+    {
+      "source_id": "thuc_hien_day_du_thu_tuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuyen_doi_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "thuc_hien_day_du_thu_tuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuyen_nhuong_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "thuc_hien_day_du_thu_tuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "cho_thue_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "thuc_hien_day_du_thu_tuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "cho_thue_lai_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "thuc_hien_day_du_thu_tuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "thua_ke_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "thuc_hien_day_du_thu_tuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "tang_cho_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "thuc_hien_day_du_thu_tuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "the_chap_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "thuc_hien_day_du_thu_tuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "gop_von_bang_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "chuyen_doi_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyen_su_dung_dat"
+    },
+    {
+      "source_id": "chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyen_su_dung_dat"
+    },
+    {
+      "source_id": "cho_thue_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyen_su_dung_dat"
+    },
+    {
+      "source_id": "cho_thue_lai_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyen_su_dung_dat"
+    },
+    {
+      "source_id": "thua_ke_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyen_su_dung_dat"
+    },
+    {
+      "source_id": "tang_cho_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyen_su_dung_dat"
+    },
+    {
+      "source_id": "the_chap_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyen_su_dung_dat"
+    },
+    {
+      "source_id": "gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "quyen_su_dung_dat"
+    },
+    {
+      "source_id": "thuc_hien_day_du_thu_tuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "theo_quy_dinh_cua_phap_luat"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thuc_hien_nghia_vu_tai_chinh_ve_dat_dai"
+    },
+    {
+      "source_id": "thuc_hien_nghia_vu_tai_chinh_ve_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "theo_quy_dinh_cua_phap_luat"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thuc_hien_bien_phap_bao_ve_dat"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "xu_ly_cai_tao_va_phuc_hoi_dat"
+    },
+    {
+      "source_id": "xu_ly_cai_tao_va_phuc_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khu_vuc_dat_bi_o_nhiem_thoai_hoa"
+    },
+    {
+      "source_id": "xu_ly_cai_tao_va_phuc_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "do_minh_gay_ra"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "tuan_thu_quy_dinh_ve_bao_ve_moi_truong"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khong_lam_ton_hai_den_tai_san_va_loi_ich_hop_phap"
+    },
+    {
+      "source_id": "khong_lam_ton_hai_den_tai_san_va_loi_ich_hop_phap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "tai_san_hop_phap"
+    },
+    {
+      "source_id": "khong_lam_ton_hai_den_tai_san_va_loi_ich_hop_phap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "loi_ich_hop_phap"
+    },
+    {
+      "source_id": "tai_san_hop_phap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nguoi_su_dung_dat_co_lien_quan"
+    },
+    {
+      "source_id": "loi_ich_hop_phap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nguoi_su_dung_dat_co_lien_quan"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "tuan_thu_quy_dinh_phap_luat_ve_tim_thay_vat_trong_long_dat"
+    },
+    {
+      "source_id": "tuan_thu_quy_dinh_phap_luat_ve_tim_thay_vat_trong_long_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "vat_trong_long_dat"
+    },
+    {
+      "source_id": "nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ban_giao_lai_dat"
+    },
+    {
+      "source_id": "ban_giao_lai_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thu_hoi_dat"
+    },
+    {
+      "source_id": "Nha_nuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "thu_hoi_dat"
+    },
+    {
+      "source_id": "thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "theo_quy_dinh_cua_phap_luat"
+    }
+  ]
+}

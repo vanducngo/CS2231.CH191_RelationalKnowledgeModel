@@ -1,0 +1,121 @@
+{
+  "entities": [
+    {
+      "id": "dieu_198",
+      "label": "ĐiềuLuật",
+      "name": "Điều 198"
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChủThể",
+      "name": "Quốc hội"
+    },
+    {
+      "id": "chuthe_hoidongnhandancaccap",
+      "label": "ChủThể",
+      "name": "Hội đồng nhân dân các cấp"
+    },
+    {
+      "id": "chuthe_mattrantoquocvietnam",
+      "label": "ChủThể",
+      "name": "Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "id": "chuthe_cactochucthanhviencuamattran",
+      "label": "ChủThể",
+      "name": "các tổ chức thành viên của Mặt trận"
+    },
+    {
+      "id": "hanhviphaply_giamsat",
+      "label": "HànhViPhápLý",
+      "name": "Giám sát"
+    },
+    {
+      "id": "hanhviphaply_quanlyvasudungdatdai",
+      "label": "HànhViPhápLý",
+      "name": "quản lý và sử dụng đất đai"
+    },
+    {
+      "id": "dieukien_quydinhhienphap",
+      "label": "ĐiềuKiện",
+      "name": "quy định của Hiến pháp"
+    },
+    {
+      "id": "dieukien_quydinhluathoatdonggiamsatquochoi",
+      "label": "ĐiềuKiện",
+      "name": "quy định của Luật hoạt động giám sát của Quốc hội"
+    },
+    {
+      "id": "dieukien_quydinhluattochuchdndvaubnd",
+      "label": "ĐiềuKiện",
+      "name": "quy định của Luật tổ chức Hội đồng nhân dân và Ủy ban nhân dân"
+    },
+    {
+      "id": "dieukien_quydinhluatmattrantoquocvietnam",
+      "label": "ĐiềuKiện",
+      "name": "quy định của Luật Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "id": "dieukien_quydinhkhacphapluatlienquan",
+      "label": "ĐiềuKiện",
+      "name": "quy định khác của pháp luật có liên quan"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_198",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giamsat"
+    },
+    {
+      "source_id": "hanhviphaply_giamsat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quanlyvasudungdatdai"
+    },
+    {
+      "source_id": "chuthe_quochoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giamsat"
+    },
+    {
+      "source_id": "chuthe_hoidongnhandancaccap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giamsat"
+    },
+    {
+      "source_id": "hanhviphaply_giamsat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quydinhhienphap"
+    },
+    {
+      "source_id": "hanhviphaply_giamsat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quydinhluathoatdonggiamsatquochoi"
+    },
+    {
+      "source_id": "hanhviphaply_giamsat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quydinhluattochuchdndvaubnd"
+    },
+    {
+      "source_id": "chuthe_mattrantoquocvietnam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giamsat"
+    },
+    {
+      "source_id": "chuthe_cactochucthanhviencuamattran",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giamsat"
+    },
+    {
+      "source_id": "hanhviphaply_giamsat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quydinhluatmattrantoquocvietnam"
+    },
+    {
+      "source_id": "hanhviphaply_giamsat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quydinhkhacphapluatlienquan"
+    }
+  ]
+}

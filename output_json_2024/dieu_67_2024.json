@@ -1,0 +1,256 @@
+{
+  "entities": [
+    {
+      "id": "dieu_67",
+      "label": "ĐiềuLuật",
+      "name": "Điều 67. Kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "label": "KháiNiệm",
+      "name": "Kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "khainiem_kehoachsuddungdatcaptinh",
+      "label": "KháiNiệm",
+      "name": "Kế hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "khainiem_quyhoachsuddungdatcaphuyen",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "khainiem_quyhoachxaydung",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch xây dựng"
+    },
+    {
+      "id": "khainiem_quyhoachdothi",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch đô thị"
+    },
+    {
+      "id": "dieukien_hientrangsudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Hiện trạng sử dụng đất"
+    },
+    {
+      "id": "dieukien_nhucaukhanangsudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Nhu cầu, khả năng sử dụng đất"
+    },
+    {
+      "id": "chuthe_cactochuc",
+      "label": "ChủThể",
+      "name": "Các tổ chức, ngành, lĩnh vực"
+    },
+    {
+      "id": "dieukien_khanangdautuhuydongnguonluc",
+      "label": "ĐiềuKiện",
+      "name": "Khả năng đầu tư, huy động nguồn lực"
+    },
+    {
+      "id": "khainiem_congtrinhduanutien",
+      "label": "KháiNiệm",
+      "name": "Công trình, dự án ưu tiên"
+    },
+    {
+      "id": "dieukien_baodamquocphonganinh",
+      "label": "ĐiềuKiện",
+      "name": "Bảo đảm quốc phòng, an ninh"
+    },
+    {
+      "id": "dieukien_hieuquakinhtexahoimoitruong",
+      "label": "ĐiềuKiện",
+      "name": "Hiệu quả kinh tế, xã hội, môi trường"
+    },
+    {
+      "id": "dieukien_tinhkhathicuaviecthuchien",
+      "label": "ĐiềuKiện",
+      "name": "Tính khả thi của việc thực hiện"
+    },
+    {
+      "id": "khainiem_danhmuccongtrinhduan",
+      "label": "KháiNiệm",
+      "name": "Danh mục các công trình, dự án"
+    },
+    {
+      "id": "khainiem_duanthuhoidat",
+      "label": "KháiNiệm",
+      "name": "Dự án thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "khainiem_giaiphapnguonlucthuchien",
+      "label": "KháiNiệm",
+      "name": "Giải pháp, nguồn lực thực hiện kế hoạch"
+    },
+    {
+      "id": "hanhviphaply_thuchienduankhongcanbosungkehoach",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện dự án không cần bổ sung kế hoạch"
+    },
+    {
+      "id": "dieukien_dacouyetdinhdautu",
+      "label": "ĐiềuKiện",
+      "name": "Đã có quyết định đầu tư theo pháp luật đầu tư công"
+    },
+    {
+      "id": "dieukien_dacouyetdinhpheduyetduanppp",
+      "label": "ĐiềuKiện",
+      "name": "Đã có quyết định phê duyệt dự án theo pháp luật PPP"
+    },
+    {
+      "id": "dieukien_dacochapdthuanchutruongdautu",
+      "label": "ĐiềuKiện",
+      "name": "Đã có quyết định chấp thuận chủ trương đầu tư"
+    },
+    {
+      "id": "chuthe_coquannhanuoccothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền (Quốc hội, Thủ tướng...)"
+    },
+    {
+      "id": "hanhviphaply_xaydungvacapnhatdulieu",
+      "label": "HànhViPhápLý",
+      "name": "Xây dựng và cập nhật dữ liệu kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_cosodulieuquocgiavedatdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu quốc gia về đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_67",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_kehoachsudungdathangnamcaphuyen"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_kehoachsuddungdatcaptinh"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyhoachsuddungdatcaphuyen"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyhoachxaydung"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyhoachdothi"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hientrangsudungdat"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nhucaukhanangsudungdat"
+    },
+    {
+      "source_id": "dieukien_nhucaukhanangsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_cactochuc"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khanangdautuhuydongnguonluc"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_congtrinhduanutien"
+    },
+    {
+      "source_id": "khainiem_congtrinhduanutien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamquocphonganinh"
+    },
+    {
+      "source_id": "khainiem_congtrinhduanutien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hieuquakinhtexahoimoitruong"
+    },
+    {
+      "source_id": "khainiem_congtrinhduanutien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tinhkhathicuaviecthuchien"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_danhmuccongtrinhduan"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_duanthuhoidat"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_giaiphapnguonlucthuchien"
+    },
+    {
+      "source_id": "dieukien_dacouyetdinhdautu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuchienduankhongcanbosungkehoach"
+    },
+    {
+      "source_id": "dieukien_dacouyetdinhpheduyetduanppp",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuchienduankhongcanbosungkehoach"
+    },
+    {
+      "source_id": "dieukien_dacochapdthuanchutruongdautu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuchienduankhongcanbosungkehoach"
+    },
+    {
+      "source_id": "dieukien_dacouyetdinhdautu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_coquannhanuoccothamquyen"
+    },
+    {
+      "source_id": "dieukien_dacouyetdinhpheduyetduanppp",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_coquannhanuoccothamquyen"
+    },
+    {
+      "source_id": "dieukien_dacochapdthuanchutruongdautu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_coquannhanuoccothamquyen"
+    },
+    {
+      "source_id": "dieu_67",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xaydungvacapnhatdulieu"
+    },
+    {
+      "source_id": "hanhviphaply_xaydungvacapnhatdulieu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_cosodulieuquocgiavedatdai"
+    }
+  ]
+}

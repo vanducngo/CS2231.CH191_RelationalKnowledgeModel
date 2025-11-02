@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "id": "dieu_121",
+      "label": "ĐiềuLuật",
+      "name": "Điều 121 - Chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "chuthe_coquannhanuocothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "dieukien_phaiduocchophep",
+      "label": "ĐiềuKiện",
+      "name": "Phải được cơ quan nhà nước có thẩm quyền cho phép"
+    },
+    {
+      "id": "chetai_nghiavutaichinh",
+      "label": "ChếTài",
+      "name": "Nghĩa vụ tài chính"
+    },
+    {
+      "id": "dieukien_phuhopvoiquyhoachsudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với quy hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_dattronglua",
+      "label": "KháiNiệm",
+      "name": "Đất trồng lúa"
+    },
+    {
+      "id": "khainiem_datrungdacdung",
+      "label": "KháiNiệm",
+      "name": "Đất rừng đặc dụng"
+    },
+    {
+      "id": "khainiem_datrungphongho",
+      "label": "KháiNiệm",
+      "name": "Đất rừng phòng hộ"
+    },
+    {
+      "id": "khainiem_datrungsanxuat",
+      "label": "KháiNiệm",
+      "name": "Đất rừng sản xuất"
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KháiNiệm",
+      "name": "Đất nông nghiệp"
+    },
+    {
+      "id": "khainiem_datphinongnghiep",
+      "label": "KháiNiệm",
+      "name": "Đất phi nông nghiệp"
+    },
+    {
+      "id": "khainiem_datchannuoitaptrung",
+      "label": "KháiNiệm",
+      "name": "Đất chăn nuôi tập trung"
+    },
+    {
+      "id": "khainiem_dato",
+      "label": "KháiNiệm",
+      "name": "Đất ở"
+    },
+    {
+      "id": "khainiem_datxaydungcongtrinhsunghiep",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng công trình sự nghiệp"
+    },
+    {
+      "id": "khainiem_datsudungvaomucdichcongcong",
+      "label": "KháiNiệm",
+      "name": "Đất sử dụng vào mục đích công cộng"
+    },
+    {
+      "id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
+      "label": "KháiNiệm",
+      "name": "Đất sản xuất, kinh doanh phi nông nghiệp"
+    },
+    {
+      "id": "khainiem_datthuongmaidichvu",
+      "label": "KháiNiệm",
+      "name": "Đất thương mại, dịch vụ"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_121",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phaiduocchophep"
+    },
+    {
+      "source_id": "dieukien_phaiduocchophep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquannhanuocothamquyen"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiavutaichinh"
+    },
+    {
+      "source_id": "chetai_nghiavutaichinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhopvoiquyhoachsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dattronglua"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datrungdacdung"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datrungphongho"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datrungsanxuat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datphinongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dato"
+    }
+  ]
+}

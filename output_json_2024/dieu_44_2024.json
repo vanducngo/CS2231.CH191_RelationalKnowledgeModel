@@ -1,0 +1,174 @@
+{
+  "entities": [
+    {
+      "id": "dieu_44",
+      "label": "ĐiềuLuật",
+      "name": "Điều 44. Quyền và nghĩa vụ về sử dụng đất ở của người gốc Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam; người nước ngoài hoặc người gốc Việt Nam định cư ở nước ngoài không thuộc đối tượng được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam",
+      "description": "Quy định quyền và nghĩa vụ liên quan đến đất ở cho người gốc Việt Nam định cư ở nước ngoài, phân loại thành hai nhóm: được sở hữu nhà ở và không được sở hữu nhà ở, đặc biệt trong các trường hợp chuyển quyền và thừa kế."
+    },
+    {
+      "id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai_duoc_so_huu_nha_o",
+      "label": "ChủThể",
+      "name": "Người gốc Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam",
+      "description": "Là người gốc Việt Nam định cư ở nước ngoài, được phép nhập cảnh vào Việt Nam và có quyền sở hữu nhà ở gắn liền với quyền sử dụng đất ở."
+    },
+    {
+      "id": "chuthe_nguoi_khong_duoc_so_huu_nha_o_tai_viet_nam",
+      "label": "ChủThể",
+      "name": "Người không được sở hữu nhà ở tại Việt Nam",
+      "description": "Bao gồm người nước ngoài hoặc người gốc Việt Nam định cư ở nước ngoài không thuộc đối tượng được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam."
+    },
+    {
+      "id": "chuthe_nguoi_nhan_thua_ke",
+      "label": "ChủThể",
+      "name": "Người nhận thừa kế",
+      "description": "Cá nhân được hưởng thừa kế quyền sử dụng đất, quyền sở hữu nhà ở theo quy định pháp luật."
+    },
+    {
+      "id": "dieukien_duoc_phep_nhap_canh_vao_viet_nam",
+      "label": "ĐiềuKiện",
+      "name": "Được phép nhập cảnh vào Việt Nam",
+      "description": "Là điều kiện cần thiết để người gốc Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam."
+    },
+    {
+      "id": "dieukien_thua_ke_toan_bo_khong_duoc_so_huu",
+      "label": "ĐiềuKiện",
+      "name": "Tất cả người nhận thừa kế không được sở hữu nhà ở tại Việt Nam",
+      "description": "Trường hợp tất cả người thừa kế quyền sử dụng đất đều là người nước ngoài hoặc người gốc Việt Nam không đủ điều kiện sở hữu nhà ở."
+    },
+    {
+      "id": "hanhviphaply_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "Sở hữu nhà ở gắn liền với quyền sử dụng đất ở",
+      "description": "Quyền sở hữu hợp pháp nhà ở và quyền sử dụng đất ở tại Việt Nam theo quy định."
+    },
+    {
+      "id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển quyền sử dụng đất ở",
+      "description": "Thực hiện các giao dịch như bán, tặng cho, để thừa kế, đổi, chuyển nhượng, cho thuê, góp vốn bằng quyền sử dụng đất ở."
+    },
+    {
+      "id": "hanhviphaply_the_chap_nha_o",
+      "label": "HànhViPhápLý",
+      "name": "Thế chấp nhà ở gắn liền với quyền sử dụng đất ở",
+      "description": "Dùng nhà ở và quyền sử dụng đất ở làm tài sản bảo đảm tại tổ chức tín dụng được phép hoạt động tại Việt Nam."
+    },
+    {
+      "id": "hanhviphaply_chuyen_nhuong_hoac_tang_cho_quyen_thua_ke",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển nhượng hoặc tặng cho quyền sử dụng đất thừa kế",
+      "description": "Quyền của người nhận thừa kế không được cấp Giấy chứng nhận được phép chuyển nhượng hoặc tặng cho quyền sử dụng đất đã thừa kế."
+    },
+    {
+      "id": "hanhviphaply_uy_quyen_trong_nom_dat",
+      "label": "HànhViPhápLý",
+      "name": "Ủy quyền trông nom hoặc tạm sử dụng đất",
+      "description": "Người nhận thừa kế có thể ủy quyền bằng văn bản cho người khác trông nom hoặc tạm thời sử dụng đất trong thời gian chờ xử lý."
+    },
+    {
+      "id": "chetai_khong_duoc_cap_giay_chung_nhan",
+      "label": "ChếTài",
+      "name": "Không được cấp Giấy chứng nhận quyền sử dụng đất",
+      "description": "Hậu quả pháp lý khi người nhận quyền sử dụng đất không thuộc đối tượng được sở hữu nhà ở tại Việt Nam."
+    },
+    {
+      "id": "chetai_chi_duoc_huong_gia_tri_nha_o",
+      "label": "ChếTài",
+      "name": "Chỉ được hưởng giá trị của nhà ở",
+      "description": "Khi nhận tặng cho hoặc thừa kế nhưng không đủ điều kiện sở hữu, đối tượng chỉ được nhận giá trị tương đương của nhà ở và đất ở."
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_44",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai_duoc_so_huu_nha_o"
+    },
+    {
+      "source_id": "dieu_44",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_khong_duoc_so_huu_nha_o_tai_viet_nam"
+    },
+    {
+      "source_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai_duoc_so_huu_nha_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_phep_nhap_canh_vao_viet_nam"
+    },
+    {
+      "source_id": "dieu_44",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat_o"
+    },
+    {
+      "source_id": "hanhviphaply_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai_duoc_so_huu_nha_o"
+    },
+    {
+      "source_id": "dieu_44",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai_duoc_so_huu_nha_o"
+    },
+    {
+      "source_id": "dieu_44",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_the_chap_nha_o"
+    },
+    {
+      "source_id": "hanhviphaply_the_chap_nha_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai_duoc_so_huu_nha_o"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_duoc_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat_o",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_chi_duoc_huong_gia_tri_nha_o"
+    },
+    {
+      "source_id": "chetai_khong_duoc_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_khong_duoc_so_huu_nha_o_tai_viet_nam"
+    },
+    {
+      "source_id": "chetai_chi_duoc_huong_gia_tri_nha_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_khong_duoc_so_huu_nha_o_tai_viet_nam"
+    },
+    {
+      "source_id": "dieukien_thua_ke_toan_bo_khong_duoc_so_huu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_duoc_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "dieukien_thua_ke_toan_bo_khong_duoc_so_huu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyen_nhuong_hoac_tang_cho_quyen_thua_ke"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_nhuong_hoac_tang_cho_quyen_thua_ke",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_nhan_thua_ke"
+    },
+    {
+      "source_id": "dieu_44",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_uy_quyen_trong_nom_dat"
+    },
+    {
+      "source_id": "hanhviphaply_uy_quyen_trong_nom_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_nhan_thua_ke"
+    }
+  ]
+}

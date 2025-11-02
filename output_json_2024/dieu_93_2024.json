@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "id": "dieu_93",
+      "label": "ĐiềuLuật",
+      "name": "Điều 93"
+    },
+    {
+      "id": "hanhviphaply_tach_noi_dung_bth_ht_tdc_thanh_du_an_doc_lap",
+      "label": "HànhViPhápLý",
+      "name": "tách nội dung bồi thường, hỗ trợ, tái định cư thành dự án độc lập"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat_bth_ht_tdc",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất, bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "khainiem_du_an_bth_ht_tdc",
+      "label": "KháiNiệm",
+      "name": "dự án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "khainiem_du_an_doc_lap",
+      "label": "KháiNiệm",
+      "name": "dự án độc lập"
+    },
+    {
+      "id": "khainiem_phap_luat_ve_dau_tu_cong",
+      "label": "KháiNiệm",
+      "name": "pháp luật về đầu tư công"
+    },
+    {
+      "id": "khainiem_luat_dat_dai_2024",
+      "label": "KháiNiệm",
+      "name": "Luật Đất đai 2024"
+    },
+    {
+      "id": "dieukien_du_an_bth_ht_tdc_duoc_tach_du_an_doc_lap",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp dự án bồi thường, hỗ trợ, tái định cư được tách ra thành dự án độc lập theo quy định của pháp luật về đầu tư công"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_93",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_tach_noi_dung_bth_ht_tdc_thanh_du_an_doc_lap"
+    },
+    {
+      "source_id": "dieu_93",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_hoi_dat_bth_ht_tdc"
+    },
+    {
+      "source_id": "hanhviphaply_tach_noi_dung_bth_ht_tdc_thanh_du_an_doc_lap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_du_an_bth_ht_tdc"
+    },
+    {
+      "source_id": "hanhviphaply_tach_noi_dung_bth_ht_tdc_thanh_du_an_doc_lap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_an_doc_lap"
+    },
+    {
+      "source_id": "dieukien_du_an_bth_ht_tdc_duoc_tach_du_an_doc_lap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_du_an_bth_ht_tdc"
+    },
+    {
+      "source_id": "dieukien_du_an_bth_ht_tdc_duoc_tach_du_an_doc_lap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_du_an_doc_lap"
+    },
+    {
+      "source_id": "dieukien_du_an_bth_ht_tdc_duoc_tach_du_an_doc_lap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phap_luat_ve_dau_tu_cong"
+    },
+    {
+      "source_id": "dieukien_du_an_bth_ht_tdc_duoc_tach_du_an_doc_lap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thu_hoi_dat_bth_ht_tdc"
+    },
+    {
+      "source_id": "khainiem_luat_dat_dai_2024",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_hoi_dat_bth_ht_tdc"
+    }
+  ]
+}

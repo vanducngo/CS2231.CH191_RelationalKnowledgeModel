@@ -1,0 +1,170 @@
+{
+  "entities": [
+    {
+      "id": "dieu_31",
+      "name": "Điều 31",
+      "labels": [
+        "ĐiềuLuật"
+      ]
+    },
+    {
+      "id": "hanhviphaply_lap_bando_dia_chinh",
+      "name": "lập bản đồ địa chính",
+      "labels": [
+        "HànhViPhápLý"
+      ]
+    },
+    {
+      "id": "hanhviphaply_chinh_ly_bando_dia_chinh",
+      "name": "chỉnh lý bản đồ địa chính",
+      "labels": [
+        "HànhViPhápLý"
+      ]
+    },
+    {
+      "id": "hanhviphaply_do_dac_dia_chinh",
+      "name": "đo đạc địa chính",
+      "labels": [
+        "HànhViPhápLý"
+      ]
+    },
+    {
+      "id": "khainiem_thua_dat",
+      "name": "thửa đất",
+      "labels": [
+        "KháiNiệm"
+      ]
+    },
+    {
+      "id": "khainiem_don_vi_hanh_chinh_xa_phuong_thi_tran",
+      "name": "đơn vị hành chính xã, phường, thị trấn",
+      "labels": [
+        "KháiNiệm"
+      ]
+    },
+    {
+      "id": "khainiem_hinh_dang_kich_thuoc_dien_tich_thua_dat",
+      "name": "hình dạng kích thước diện tích thửa đất",
+      "labels": [
+        "KháiNiệm"
+      ]
+    },
+    {
+      "id": "khainiem_cac_yeu_to_khac_lien_quan_bando_dia_chinh",
+      "name": "các yếu tố khác có liên quan đến nội dung bản đồ địa chính",
+      "labels": [
+        "KháiNiệm"
+      ]
+    },
+    {
+      "id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường",
+      "labels": [
+        "ChủThể"
+      ]
+    },
+    {
+      "id": "hanhviphaply_quan_ly_bando_dia_chinh",
+      "name": "quản lý bản đồ địa chính",
+      "labels": [
+        "HànhViPhápLý"
+      ]
+    },
+    {
+      "id": "dieukien_hanh_nghe_do_dac_dia_chinh",
+      "name": "điều kiện hành nghề đo đạc địa chính",
+      "labels": [
+        "ĐiềuKiện"
+      ]
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "name": "Ủy ban nhân dân cấp tỉnh",
+      "labels": [
+        "ChủThể"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_31",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lap_bando_dia_chinh"
+    },
+    {
+      "source_id": "dieu_31",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chinh_ly_bando_dia_chinh"
+    },
+    {
+      "source_id": "dieu_31",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_do_dac_dia_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_do_dac_dia_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_do_dac_dia_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_don_vi_hanh_chinh_xa_phuong_thi_tran"
+    },
+    {
+      "source_id": "hanhviphaply_lap_bando_dia_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_lap_bando_dia_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_don_vi_hanh_chinh_xa_phuong_thi_tran"
+    },
+    {
+      "source_id": "hanhviphaply_chinh_ly_bando_dia_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_hinh_dang_kich_thuoc_dien_tich_thua_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chinh_ly_bando_dia_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_cac_yeu_to_khac_lien_quan_bando_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lap_bando_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chinh_ly_bando_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_bando_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_hanh_nghe_do_dac_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_lap_bando_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chinh_ly_bando_dia_chinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quan_ly_bando_dia_chinh"
+    }
+  ]
+}

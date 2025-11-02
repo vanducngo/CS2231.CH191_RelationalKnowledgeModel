@@ -1,0 +1,211 @@
+{
+  "entities": [
+    {
+      "id": "dieu_190",
+      "label": "ĐiềuLuật",
+      "name": "Điều 190. Hoạt động lấn biển"
+    },
+    {
+      "id": "khainiem_hoatdonglanbien",
+      "label": "KháiNiệm",
+      "name": "Hoạt động lấn biển"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_tochuccanhan",
+      "label": "ChủThể",
+      "name": "Tổ chức, cá nhân"
+    },
+    {
+      "id": "chuthe_nhadautu",
+      "label": "ChủThể",
+      "name": "Nhà đầu tư"
+    },
+    {
+      "id": "chuthe_nguoidancongdong",
+      "label": "ChủThể",
+      "name": "Người dân, cộng đồng"
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChủThể",
+      "name": "Quốc hội"
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChủThể",
+      "name": "Thủ tướng Chính phủ"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "chuthe_botainguyenvamoitruong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_khuyenkhichhotrouudai",
+      "label": "HànhViPhápLý",
+      "name": "Khuyến khích, hỗ trợ, ưu đãi cho nhà đầu tư"
+    },
+    {
+      "id": "hanhviphaply_thuchienlanbien",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện hoạt động lấn biển"
+    },
+    {
+      "id": "hanhviphaply_chapthuanchutruongdautu",
+      "label": "HànhViPhápLý",
+      "name": "Chấp thuận, quyết định chủ trương đầu tư"
+    },
+    {
+      "id": "hanhviphaply_quanlynhanuoc",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý nhà nước về hoạt động lấn biển"
+    },
+    {
+      "id": "hanhviphaply_giaokhuvucbien_giaodat",
+      "label": "HànhViPhápLý",
+      "name": "Giao khu vực biển để lấn biển và giao đất, cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết Điều luật"
+    },
+    {
+      "id": "dieukien_baodam_qpan_loiichquocgia",
+      "label": "ĐiềuKiện",
+      "name": "Bảo đảm quốc phòng, an ninh, chủ quyền, lợi ích quốc gia trên biển"
+    },
+    {
+      "id": "dieukien_danhgiadaydu_kt_xh_mt",
+      "label": "ĐiềuKiện",
+      "name": "Dựa trên cơ sở đánh giá đầy đủ về kinh tế, xã hội, môi trường, phát triển bền vững"
+    },
+    {
+      "id": "dieukien_phuhopquyhoach",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với quy hoạch (tỉnh, huyện, xây dựng, đô thị)"
+    },
+    {
+      "id": "dieukien_baodam_loiich_tiepcanbien",
+      "label": "ĐiềuKiện",
+      "name": "Bảo đảm hài hòa lợi ích và quyền tiếp cận biển của người dân"
+    },
+    {
+      "id": "dieukien_lapthanhduandautu",
+      "label": "ĐiềuKiện",
+      "name": "Phải được lập thành dự án đầu tư hoặc hạng mục của dự án đầu tư"
+    },
+    {
+      "id": "dieukien_thuockhuvucdacbiet",
+      "label": "ĐiềuKiện",
+      "name": "Hoạt động lấn biển thuộc khu vực được bảo vệ (di tích, di sản, vườn quốc gia,...)"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_190",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hoatdonglanbien"
+    },
+    {
+      "source_id": "dieu_190",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khuyenkhichhotrouudai"
+    },
+    {
+      "source_id": "hanhviphaply_khuyenkhichhotrouudai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhadautu"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienlanbien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuccanhan"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienlanbien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodam_qpan_loiichquocgia"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienlanbien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_danhgiadaydu_kt_xh_mt"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienlanbien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhopquyhoach"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienlanbien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodam_loiich_tiepcanbien"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienlanbien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_lapthanhduandautu"
+    },
+    {
+      "source_id": "dieukien_thuockhuvucdacbiet",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_chapthuanchutruongdautu"
+    },
+    {
+      "source_id": "hanhviphaply_chapthuanchutruongdautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_quochoi"
+    },
+    {
+      "source_id": "hanhviphaply_chapthuanchutruongdautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_thutuongchinhphu"
+    },
+    {
+      "source_id": "dieu_190",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quanlynhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_quanlynhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_botainguyenvamoitruong"
+    },
+    {
+      "source_id": "hanhviphaply_quanlynhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uybannhandancaptinh"
+    },
+    {
+      "source_id": "hanhviphaply_giaokhuvucbien_giaodat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_hoatdonglanbien"
+    },
+    {
+      "source_id": "dieu_190",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quydinhchitiet"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhchitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinhphu"
+    }
+  ]
+}

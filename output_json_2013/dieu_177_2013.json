@@ -1,0 +1,481 @@
+{
+  "entities": [
+    {
+      "id": "dieu_177",
+      "label": "ĐiềuLuật",
+      "name": "Điều 177"
+    },
+    {
+      "id": "kyniem_quyen_va_nghia_vu",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "hanhvi_nhan_gop_von_bang_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Nhận góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te_khac",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế khác"
+    },
+    {
+      "id": "dieu_174",
+      "label": "ĐiềuLuật",
+      "name": "Điều 174"
+    },
+    {
+      "id": "dieu_kien_dat_tckt_gop_von_nn_giao_thu_tien",
+      "label": "ĐiềuKiện",
+      "name": "Đất của tổ chức kinh tế góp vốn có nguồn gốc do được Nhà nước giao có thu tiền sử dụng đất"
+    },
+    {
+      "id": "dieu_kien_dat_tckt_gop_von_nn_cho_thue_mot_lan",
+      "label": "ĐiềuKiện",
+      "name": "Đất của tổ chức kinh tế góp vốn được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "dieu_kien_dat_tckt_gop_von_nhan_chuyen_nhuong",
+      "label": "ĐiềuKiện",
+      "name": "Đất của tổ chức kinh tế góp vốn do nhận chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "dieu_kien_dat_hdcn_gop_von_khong_phai_nn_cho_thue_hang_nam",
+      "label": "ĐiềuKiện",
+      "name": "Đất của hộ gia đình, cá nhân góp vốn mà không phải là đất được Nhà nước cho thuê trả tiền thuê đất hàng năm"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhvi_giao_dat_co_thu_tien_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất có thu tiền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_cho_thue_dat_thu_tien_mot_lan",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất thu tiền một lần"
+    },
+    {
+      "id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Nhận chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "kyniem_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_hop_tac_xa",
+      "label": "ChủThể",
+      "name": "Hợp tác xã"
+    },
+    {
+      "id": "dieu_kien_giai_the",
+      "label": "ĐiềuKiện",
+      "name": "Giải thể"
+    },
+    {
+      "id": "dieu_kien_pha_san",
+      "label": "ĐiềuKiện",
+      "name": "Phá sản"
+    },
+    {
+      "id": "dieu_kien_dat_nn_giao_khong_thu_tien_sd_dat",
+      "label": "ĐiềuKiện",
+      "name": "Đất được Nhà nước giao đất không thu tiền sử dụng đất"
+    },
+    {
+      "id": "dieu_kien_dat_nn_giao_co_thu_tien_sd_dat",
+      "label": "ĐiềuKiện",
+      "name": "Đất được Nhà nước giao đất có thu tiền sử dụng đất"
+    },
+    {
+      "id": "dieu_kien_dat_nn_cho_thue",
+      "label": "ĐiềuKiện",
+      "name": "Đất được Nhà nước cho thuê đất"
+    },
+    {
+      "id": "dieu_kien_dat_mua_tai_san_gan_lien_voi_dat",
+      "label": "ĐiềuKiện",
+      "name": "Đất do mua tài sản gắn liền với đất"
+    },
+    {
+      "id": "dieu_kien_dat_nhan_chuyen_nhuong_hop_phap",
+      "label": "ĐiềuKiện",
+      "name": "Đất do nhận chuyển nhượng quyền sử dụng đất hợp pháp từ người khác"
+    },
+    {
+      "id": "dieu_kien_tien_co_nguon_goc_tu_ngan_sach_nha_nuoc",
+      "label": "ĐiềuKiện",
+      "name": "Tiền có nguồn gốc từ ngân sách nhà nước"
+    },
+    {
+      "id": "chet_tai_nha_nuoc_thu_hoi_dat",
+      "label": "ChếTài",
+      "name": "Nhà nước thu hồi đất"
+    },
+    {
+      "id": "hanhvi_giao_dat_khong_thu_tien_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất không thu tiền sử dụng đất"
+    },
+    {
+      "id": "hanhvi_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất"
+    },
+    {
+      "id": "hanhvi_mua_tai_san_gan_lien_voi_dat",
+      "label": "HànhViPhápLý",
+      "name": "Mua tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_ngan_sach_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Ngân sách nhà nước"
+    },
+    {
+      "id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "label": "KháiNiệm",
+      "name": "Quyền sử dụng đất đó là của hợp tác xã"
+    },
+    {
+      "id": "dieu_kien_dat_thue_tra_tien_mot_lan",
+      "label": "ĐiềuKiện",
+      "name": "Thuê đất trả tiền một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "dieu_kien_tien_khong_co_nguon_goc_tu_ngan_sach_nha_nuoc",
+      "label": "ĐiềuKiện",
+      "name": "Tiền không có nguồn gốc từ ngân sách nhà nước"
+    },
+    {
+      "id": "dieu_kien_dat_do_thanh_vien_gop_quyen_su_dung_vao_hop_tac_xa",
+      "label": "ĐiềuKiện",
+      "name": "Đất do thành viên góp quyền sử dụng vào hợp tác xã"
+    },
+    {
+      "id": "chuthe_thanh_vien_hop_tac_xa",
+      "label": "ChủThể",
+      "name": "Thành viên hợp tác xã"
+    },
+    {
+      "id": "kyniem_xu_ly_theo_dieu_le_hop_tac_xa",
+      "label": "KháiNiệm",
+      "name": "Xử lý theo điều lệ của hợp tác xã"
+    },
+    {
+      "id": "kyniem_xu_ly_theo_nghi_quyet_dai_hoi_thanh_vien",
+      "label": "KháiNiệm",
+      "name": "Xử lý theo nghị quyết của đại hội thành viên"
+    },
+    {
+      "id": "hanhvi_gop_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Góp quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te_la_doanh_nghiep",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế là doanh nghiệp"
+    },
+    {
+      "id": "kyniem_quy_dinh_cua_phap_luat",
+      "label": "KháiNiệm",
+      "name": "Quy định của pháp luật"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_177",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "kyniem_quyen_va_nghia_vu"
+    },
+    {
+      "source_id": "dieu_177",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "kyniem_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "kyniem_quyen_va_nghia_vu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "chuthe_to_chuc_kinh_te",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_nhan_gop_von_bang_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_nhan_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvi_nhan_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvi_nhan_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te_khac"
+    },
+    {
+      "source_id": "kyniem_quyen_va_nghia_vu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_174"
+    },
+    {
+      "source_id": "kyniem_quyen_va_nghia_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_tckt_gop_von_nn_giao_thu_tien"
+    },
+    {
+      "source_id": "kyniem_quyen_va_nghia_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_tckt_gop_von_nn_cho_thue_mot_lan"
+    },
+    {
+      "source_id": "kyniem_quyen_va_nghia_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_tckt_gop_von_nhan_chuyen_nhuong"
+    },
+    {
+      "source_id": "kyniem_quyen_va_nghia_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_hdcn_gop_von_khong_phai_nn_cho_thue_hang_nam"
+    },
+    {
+      "source_id": "dieu_kien_dat_tckt_gop_von_nn_giao_thu_tien",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_giao_dat_co_thu_tien_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_dat_tckt_gop_von_nn_cho_thue_mot_lan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cho_thue_dat_thu_tien_mot_lan"
+    },
+    {
+      "source_id": "dieu_kien_dat_tckt_gop_von_nhan_chuyen_nhuong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_giao_dat_co_thu_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_dat_thu_tien_mot_lan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hop_tac_xa"
+    },
+    {
+      "source_id": "chuthe_hop_tac_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_giai_the"
+    },
+    {
+      "source_id": "chuthe_hop_tac_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_pha_san"
+    },
+    {
+      "source_id": "chet_tai_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hop_tac_xa"
+    },
+    {
+      "source_id": "chet_tai_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_nn_giao_khong_thu_tien_sd_dat"
+    },
+    {
+      "source_id": "chet_tai_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_nn_giao_co_thu_tien_sd_dat"
+    },
+    {
+      "source_id": "chet_tai_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_nn_cho_thue"
+    },
+    {
+      "source_id": "chet_tai_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_mua_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "chet_tai_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_nhan_chuyen_nhuong_hop_phap"
+    },
+    {
+      "source_id": "chet_tai_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_tien_co_nguon_goc_tu_ngan_sach_nha_nuoc"
+    },
+    {
+      "source_id": "dieu_kien_dat_nn_giao_khong_thu_tien_sd_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_giao_dat_khong_thu_tien_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_dat_nn_giao_co_thu_tien_sd_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_giao_dat_co_thu_tien_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_dat_nn_cho_thue",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cho_thue_dat"
+    },
+    {
+      "source_id": "dieu_kien_dat_mua_tai_san_gan_lien_voi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_mua_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "dieu_kien_dat_nhan_chuyen_nhuong_hop_phap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_giao_dat_khong_thu_tien_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "hanhvi_mua_tai_san_gan_lien_voi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hop_tac_xa"
+    },
+    {
+      "source_id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hop_tac_xa"
+    },
+    {
+      "source_id": "dieu_kien_tien_co_nguon_goc_tu_ngan_sach_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ngan_sach_nha_nuoc"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hop_tac_xa"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_nn_giao_co_thu_tien_sd_dat"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_thue_tra_tien_mot_lan"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_mua_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_nhan_chuyen_nhuong_hop_phap"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_tien_khong_co_nguon_goc_tu_ngan_sach_nha_nuoc"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_dat_do_thanh_vien_gop_quyen_su_dung_vao_hop_tac_xa"
+    },
+    {
+      "source_id": "dieu_kien_dat_thue_tra_tien_mot_lan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_cho_thue_dat_thu_tien_mot_lan"
+    },
+    {
+      "source_id": "dieu_kien_tien_khong_co_nguon_goc_tu_ngan_sach_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ngan_sach_nha_nuoc"
+    },
+    {
+      "source_id": "dieu_kien_dat_do_thanh_vien_gop_quyen_su_dung_vao_hop_tac_xa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_thanh_vien_hop_tac_xa"
+    },
+    {
+      "source_id": "dieu_kien_dat_do_thanh_vien_gop_quyen_su_dung_vao_hop_tac_xa",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_gop_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "kyniem_xu_ly_theo_dieu_le_hop_tac_xa"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat_cua_hop_tac_xa",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "kyniem_xu_ly_theo_nghi_quyet_dai_hoi_thanh_vien"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te_la_doanh_nghiep"
+    },
+    {
+      "source_id": "chuthe_to_chuc_kinh_te_la_doanh_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_giai_the"
+    },
+    {
+      "source_id": "chuthe_to_chuc_kinh_te_la_doanh_nghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_pha_san"
+    },
+    {
+      "source_id": "kyniem_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "kyniem_quy_dinh_cua_phap_luat"
+    }
+  ]
+}

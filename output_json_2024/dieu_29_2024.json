@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "id": "dieu_29",
+      "label": "ĐiềuLuật",
+      "name": "Điều 29"
+    },
+    {
+      "id": "dieu_133",
+      "label": "ĐiềuLuật",
+      "name": "Điều 133"
+    },
+    {
+      "id": "khainiem_quyenduoithuadatlienke",
+      "label": "KháiNiệm",
+      "name": "Quyền đối với thửa đất liền kề"
+    },
+    {
+      "id": "khainiem_quyenveloidi",
+      "label": "KháiNiệm",
+      "name": "quyền về lối đi"
+    },
+    {
+      "id": "khainiem_capnuocthoatnuoc",
+      "label": "KháiNiệm",
+      "name": "cấp nước, thoát nước"
+    },
+    {
+      "id": "khainiem_tuoinuoctieunuoc",
+      "label": "KháiNiệm",
+      "name": "tưới nước, tiêu nước trong canh tác"
+    },
+    {
+      "id": "khainiem_capkhiga",
+      "label": "KháiNiệm",
+      "name": "cấp khí ga"
+    },
+    {
+      "id": "khainiem_lapduongdaytaidienthongtinlienlac",
+      "label": "KháiNiệm",
+      "name": "lắp đường dây tải điện, thông tin liên lạc"
+    },
+    {
+      "id": "khainiem_nhucaucantthietkhac",
+      "label": "KháiNiệm",
+      "name": "các nhu cầu cần thiết khác"
+    },
+    {
+      "id": "hanhviphaply_xaclap",
+      "label": "HànhViPhápLý",
+      "name": "xác lập"
+    },
+    {
+      "id": "hanhviphaply_thaydoi",
+      "label": "HànhViPhápLý",
+      "name": "thay đổi"
+    },
+    {
+      "id": "hanhviphaply_chamdut",
+      "label": "HànhViPhápLý",
+      "name": "chấm dứt"
+    },
+    {
+      "id": "hanhviphaply_thuchiendangky",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện đăng ký"
+    },
+    {
+      "id": "dieukien_theoquytrinhphapluat",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật"
+    },
+    {
+      "id": "dieukien_theoquytrinhphapluatvedansu",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật về dân sự"
+    },
+    {
+      "id": "dieukien_truonghopdangky",
+      "label": "ĐiềuKiện",
+      "name": "trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_29",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyenduoithuadatlienke"
+    },
+    {
+      "source_id": "khainiem_quyenduoithuadatlienke",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_quyenveloidi"
+    },
+    {
+      "source_id": "khainiem_quyenduoithuadatlienke",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_capnuocthoatnuoc"
+    },
+    {
+      "source_id": "khainiem_quyenduoithuadatlienke",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_tuoinuoctieunuoc"
+    },
+    {
+      "source_id": "khainiem_quyenduoithuadatlienke",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_capkhiga"
+    },
+    {
+      "source_id": "khainiem_quyenduoithuadatlienke",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_lapduongdaytaidienthongtinlienlac"
+    },
+    {
+      "source_id": "khainiem_quyenduoithuadatlienke",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_nhucaucantthietkhac"
+    },
+    {
+      "source_id": "khainiem_nhucaucantthietkhac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquytrinhphapluat"
+    },
+    {
+      "source_id": "hanhviphaply_xaclap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyenduoithuadatlienke"
+    },
+    {
+      "source_id": "hanhviphaply_thaydoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyenduoithuadatlienke"
+    },
+    {
+      "source_id": "hanhviphaply_chamdut",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyenduoithuadatlienke"
+    },
+    {
+      "source_id": "hanhviphaply_xaclap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquytrinhphapluatvedansu"
+    },
+    {
+      "source_id": "hanhviphaply_thaydoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquytrinhphapluatvedansu"
+    },
+    {
+      "source_id": "hanhviphaply_chamdut",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquytrinhphapluatvedansu"
+    },
+    {
+      "source_id": "hanhviphaply_thuchiendangky",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyenduoithuadatlienke"
+    },
+    {
+      "source_id": "hanhviphaply_thuchiendangky",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_133"
+    },
+    {
+      "source_id": "dieukien_truonghopdangky",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchiendangky"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "entities": [
+    {
+      "id": "ĐiềuLuật_dieu108",
+      "label": "ĐiềuLuật",
+      "name": "Điều 108"
+    },
+    {
+      "id": "ĐiềuLuật_dieu114",
+      "label": "ĐiềuLuật",
+      "name": "Điều 114"
+    },
+    {
+      "id": "KháiNiệm_tiensudungdat",
+      "label": "KháiNiệm",
+      "name": "Tiền sử dụng đất"
+    },
+    {
+      "id": "KháiNiệm_tienthuedat",
+      "label": "KháiNiệm",
+      "name": "Tiền thuê đất"
+    },
+    {
+      "id": "KháiNiệm_cancutinhtiensudungdat",
+      "label": "KháiNiệm",
+      "name": "Căn cứ tính tiền sử dụng đất"
+    },
+    {
+      "id": "KháiNiệm_cancutinhtienthuedat",
+      "label": "KháiNiệm",
+      "name": "Căn cứ tính tiền cho thuê đất"
+    },
+    {
+      "id": "KháiNiệm_thoixiemtinhthutiensudungdattienthuedat",
+      "label": "KháiNiệm",
+      "name": "Thời điểm tính thu tiền sử dụng đất, tiền thuê đất"
+    },
+    {
+      "id": "KháiNiệm_giadat",
+      "label": "KháiNiệm",
+      "name": "Giá đất"
+    },
+    {
+      "id": "KháiNiệm_dongiathuedat",
+      "label": "KháiNiệm",
+      "name": "Đơn giá thuê đất"
+    },
+    {
+      "id": "ChủThể_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "HànhViPhápLý_giaodat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất"
+    },
+    {
+      "id": "HànhViPhápLý_chuyenmucdichsudung",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển mục đích sử dụng"
+    },
+    {
+      "id": "HànhViPhápLý_congnhanquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "HànhViPhápLý_daugiaquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "HànhViPhápLý_chothuedat",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất"
+    },
+    {
+      "id": "HànhViPhápLý_daugiaquyenthuedat",
+      "label": "HànhViPhápLý",
+      "name": "Đấu giá quyền thuê đất"
+    },
+    {
+      "id": "HànhViPhápLý_quyetdinhgiaodat",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định giao đất"
+    },
+    {
+      "id": "HànhViPhápLý_quyetdinhchothuedat",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định cho thuê đất"
+    },
+    {
+      "id": "HànhViPhápLý_chophephuyenmucdichsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Cho phép chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "HànhViPhápLý_quyetdinhcongnhanquyensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "ĐiềuKiện_dientichdatduocgiao",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích đất được giao"
+    },
+    {
+      "id": "ĐiềuKiện_dientichdatduocchuyenmucdichsudung",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích đất được chuyển mục đích sử dụng"
+    },
+    {
+      "id": "ĐiềuKiện_dientichdatduoccongnhanquyensudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích đất được công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "ĐiềuKiện_mucdichsudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Mục đích sử dụng đất"
+    },
+    {
+      "id": "ĐiềuKiện_giadatthquydinhtaidieu114",
+      "label": "ĐiềuKiện",
+      "name": "Giá đất theo quy định tại Điều 114 của Luật này"
+    },
+    {
+      "id": "ĐiềuKiện_giatrungdaugiaquyensudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Giá trúng đấu giá"
+    },
+    {
+      "id": "ĐiềuKiện_dientichdatchothue",
+      "label": "ĐiềuKiện",
+      "name": "Diện tích đất cho thuê"
+    },
+    {
+      "id": "ĐiềuKiện_thoihanchothuedat",
+      "label": "ĐiềuKiện",
+      "name": "Thời hạn cho thuê đất"
+    },
+    {
+      "id": "ĐiềuKiện_dongiathuedat",
+      "label": "ĐiềuKiện",
+      "name": "Đơn giá thuê đất"
+    },
+    {
+      "id": "ĐiềuKiện_dongiatrungdaugiaquyenthuedat",
+      "label": "ĐiềuKiện",
+      "name": "Đơn giá trúng đấu giá"
+    },
+    {
+      "id": "ĐiềuKiện_hinhthucnhanuocchothuedatthutienthuedathangnam",
+      "label": "ĐiềuKiện",
+      "name": "Hình thức Nhà nước cho thuê đất thu tiền thuê đất hàng năm"
+    },
+    {
+      "id": "ĐiềuKiện_hinhthucnhanuocchothuedatthutienthuedatmotlanchocathoigianthue",
+      "label": "ĐiềuKiện",
+      "name": "Hình thức Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "ĐiềuLuật_dieu108",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "KháiNiệm_cancutinhtiensudungdat"
+    },
+    {
+      "source_id": "ĐiềuLuật_dieu108",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "KháiNiệm_cancutinhtienthuedat"
+    },
+    {
+      "source_id": "ĐiềuLuật_dieu108",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "KháiNiệm_thoixiemtinhthutiensudungdattienthuedat"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtiensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_dientichdatduocgiao"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtiensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_dientichdatduocchuyenmucdichsudung"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtiensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_dientichdatduoccongnhanquyensudungdat"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtiensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_mucdichsudungdat"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtiensudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "KháiNiệm_giadat"
+    },
+    {
+      "source_id": "KháiNiệm_giadat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_giadatthquydinhtaidieu114"
+    },
+    {
+      "source_id": "HànhViPhápLý_daugiaquyensudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "ĐiềuKiện_giatrungdaugiaquyensudungdat"
+    },
+    {
+      "source_id": "ĐiềuKiện_giatrungdaugiaquyensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "KháiNiệm_giadat"
+    },
+    {
+      "source_id": "ĐiềuLuật_dieu114",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "KháiNiệm_giadat"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_dientichdatchothue"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_thoihanchothuedat"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "KháiNiệm_dongiathuedat"
+    },
+    {
+      "source_id": "KháiNiệm_dongiathuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_dongiathuedat"
+    },
+    {
+      "source_id": "HànhViPhápLý_daugiaquyenthuedat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "ĐiềuKiện_dongiatrungdaugiaquyenthuedat"
+    },
+    {
+      "source_id": "ĐiềuKiện_dongiatrungdaugiaquyenthuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "KháiNiệm_dongiathuedat"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_hinhthucnhanuocchothuedatthutienthuedathangnam"
+    },
+    {
+      "source_id": "KháiNiệm_cancutinhtienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "ĐiềuKiện_hinhthucnhanuocchothuedatthutienthuedatmotlanchocathoigianthue"
+    },
+    {
+      "source_id": "KháiNiệm_thoixiemtinhthutiensudungdattienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "HànhViPhápLý_quyetdinhgiaodat"
+    },
+    {
+      "source_id": "KháiNiệm_thoixiemtinhthutiensudungdattienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "HànhViPhápLý_quyetdinhchothuedat"
+    },
+    {
+      "source_id": "KháiNiệm_thoixiemtinhthutiensudungdattienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "HànhViPhápLý_chophephuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "KháiNiệm_thoixiemtinhthutiensudungdattienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "HànhViPhápLý_quyetdinhcongnhanquyensudungdat"
+    },
+    {
+      "source_id": "ChủThể_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "HànhViPhápLý_quyetdinhgiaodat"
+    },
+    {
+      "source_id": "ChủThể_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "HànhViPhápLý_quyetdinhchothuedat"
+    },
+    {
+      "source_id": "ChủThể_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "HànhViPhápLý_chophephuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "ChủThể_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "HànhViPhápLý_quyetdinhcongnhanquyensudungdat"
+    },
+    {
+      "source_id": "KháiNiệm_tiensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "KháiNiệm_cancutinhtiensudungdat"
+    },
+    {
+      "source_id": "KháiNiệm_tienthuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "KháiNiệm_cancutinhtienthuedat"
+    },
+    {
+      "source_id": "KháiNiệm_tiensudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "KháiNiệm_thoixiemtinhthutiensudungdattienthuedat"
+    },
+    {
+      "source_id": "KháiNiệm_tienthuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "KháiNiệm_thoixiemtinhthutiensudungdattienthuedat"
+    }
+  ]
+}

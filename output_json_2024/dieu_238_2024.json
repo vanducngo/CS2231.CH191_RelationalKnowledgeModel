@@ -1,0 +1,96 @@
+{
+  "entities": [
+    {
+      "id": "dieu_238",
+      "label": "ĐiềuLuật",
+      "name": "Điều 238"
+    },
+    {
+      "id": "khainiem_giaiquyet_tocao_quanly_sudung_datdai",
+      "label": "KháiNiệm",
+      "name": "Giải quyết tố cáo về quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "hanhviphaply_tocao",
+      "label": "HànhViPhápLý",
+      "name": "tố cáo"
+    },
+    {
+      "id": "khainiem_hanhvi_vipham_phapluat_quanly_sudung_datdai",
+      "label": "KháiNiệm",
+      "name": "hành vi vi phạm pháp luật về quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "hanhviphaply_giaiquyet_tocao",
+      "label": "HànhViPhápLý",
+      "name": "giải quyết tố cáo"
+    },
+    {
+      "id": "dieukien_theoquydinh_phapluat_vetocao",
+      "label": "ĐiềuKiện",
+      "name": "theo quy định của pháp luật về tố cáo"
+    },
+    {
+      "id": "hanhviphaply_thuthap_hoso_tocao",
+      "label": "HànhViPhápLý",
+      "name": "thu thập, bảo quản, sử dụng và lưu trữ hồ sơ, tài liệu liên quan đến giải quyết tố cáo về quản lý, sử dụng đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_238",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_giaiquyet_tocao_quanly_sudung_datdai"
+    },
+    {
+      "source_id": "dieu_238",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tocao"
+    },
+    {
+      "source_id": "hanhviphaply_tocao",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hanhvi_vipham_phapluat_quanly_sudung_datdai"
+    },
+    {
+      "source_id": "dieu_238",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giaiquyet_tocao"
+    },
+    {
+      "source_id": "hanhviphaply_giaiquyet_tocao",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hanhvi_vipham_phapluat_quanly_sudung_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_giaiquyet_tocao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinh_phapluat_vetocao"
+    },
+    {
+      "source_id": "dieu_238",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuthap_hoso_tocao"
+    },
+    {
+      "source_id": "hanhviphaply_thuthap_hoso_tocao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinh_phapluat_vetocao"
+    },
+    {
+      "source_id": "hanhviphaply_thuthap_hoso_tocao",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_giaiquyet_tocao_quanly_sudung_datdai"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "graph": {
+    "entities": [
+      {
+        "id": "dieu_187",
+        "label": "ĐiềuLuật",
+        "name": "Điều 187. Đất làm muối",
+        "description": "Quy định về việc giao đất, cho thuê đất, bảo vệ và khuyến khích sử dụng đất để làm muối."
+      },
+      {
+        "id": "khainiem_datlammuoi",
+        "label": "KháiNiệm",
+        "name": "Đất làm muối"
+      },
+      {
+        "id": "khainiem_hanmucgiaodat",
+        "label": "KháiNiệm",
+        "name": "Hạn mức giao đất",
+        "description": "Hạn mức giao đất được quy định tại Điều 176 của Luật Đất đai 2024."
+      },
+      {
+        "id": "khainiem_phanvuothanmuc",
+        "label": "KháiNiệm",
+        "name": "Phần vượt hạn mức giao đất"
+      },
+      {
+        "id": "khainiem_vungdatlammuoichatluongcao",
+        "label": "KháiNiệm",
+        "name": "Vùng đất làm muối có năng suất, chất lượng cao"
+      },
+      {
+        "id": "chuthe_nhanuoc",
+        "label": "ChủThể",
+        "name": "Nhà nước"
+      },
+      {
+        "id": "chuthe_canhan",
+        "label": "ChủThể",
+        "name": "Cá nhân"
+      },
+      {
+        "id": "chuthe_tochuckinhte",
+        "label": "ChủThể",
+        "name": "Tổ chức kinh tế"
+      },
+      {
+        "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+        "label": "ChủThể",
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      },
+      {
+        "id": "chuthe_tochuckinhtecovondautunuocngoai",
+        "label": "ChủThể",
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      },
+      {
+        "id": "hanhviphaply_giaodat",
+        "label": "HànhViPhápLý",
+        "name": "Giao đất làm muối"
+      },
+      {
+        "id": "hanhviphaply_thuedat",
+        "label": "HànhViPhápLý",
+        "name": "Thuê đất làm muối"
+      },
+      {
+        "id": "hanhviphaply_sudungvuothanmuc",
+        "label": "HànhViPhápLý",
+        "name": "Sử dụng đất vượt hạn mức giao đất"
+      },
+      {
+        "id": "hanhviphaply_chuyensangthuedat",
+        "label": "HànhViPhápLý",
+        "name": "Chuyển sang thuê đất"
+      },
+      {
+        "id": "hanhviphaply_baovevauutien",
+        "label": "HànhViPhápLý",
+        "name": "Bảo vệ và ưu tiên cho việc sản xuất muối"
+      },
+      {
+        "id": "hanhviphaply_khuyenkhichsudung",
+        "label": "HànhViPhápLý",
+        "name": "Khuyến khích sử dụng đất có khả năng làm muối"
+      },
+      {
+        "id": "dieukien_tronghanmuc",
+        "label": "ĐiềuKiện",
+        "name": "Trong hạn mức giao đất"
+      }
+    ],
+    "relationships": [
+      {
+        "source_id": "dieu_187",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "khainiem_datlammuoi"
+      },
+      {
+        "source_id": "dieu_187",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "hanhviphaply_giaodat"
+      },
+      {
+        "source_id": "dieu_187",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "hanhviphaply_thuedat"
+      },
+      {
+        "source_id": "hanhviphaply_giaodat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_nhanuoc"
+      },
+      {
+        "source_id": "hanhviphaply_giaodat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_canhan"
+      },
+      {
+        "source_id": "hanhviphaply_giaodat",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_tronghanmuc"
+      },
+      {
+        "source_id": "dieukien_tronghanmuc",
+        "relationship_type": "ĐỊNH_NGHĨA",
+        "target_id": "khainiem_hanmucgiaodat"
+      },
+      {
+        "source_id": "hanhviphaply_sudungvuothanmuc",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "hanhviphaply_chuyensangthuedat"
+      },
+      {
+        "source_id": "hanhviphaply_chuyensangthuedat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_phanvuothanmuc"
+      },
+      {
+        "source_id": "hanhviphaply_thuedat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_nhanuoc"
+      },
+      {
+        "source_id": "hanhviphaply_thuedat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_tochuckinhte"
+      },
+      {
+        "source_id": "hanhviphaply_thuedat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai"
+      },
+      {
+        "source_id": "hanhviphaply_thuedat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_tochuckinhtecovondautunuocngoai"
+      },
+      {
+        "source_id": "dieu_187",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "hanhviphaply_baovevauutien"
+      },
+      {
+        "source_id": "hanhviphaply_baovevauutien",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_vungdatlammuoichatluongcao"
+      },
+      {
+        "source_id": "dieu_187",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "hanhviphaply_khuyenkhichsudung"
+      },
+      {
+        "source_id": "hanhviphaply_khuyenkhichsudung",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_nhanuoc"
+      }
+    ]
+  }
+}

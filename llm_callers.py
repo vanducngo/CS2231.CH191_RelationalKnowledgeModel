@@ -9,7 +9,7 @@ load_dotenv()
 
 # --- Cấu hình cho Google Gemini ---
 # GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-GOOGLE_API_KEY = 'AI1190zaSyAc41TEIexvRx4agbYkM_5MICkeGUpY6Do'
+GOOGLE_API_KEY = 'vanducngo'
 if GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)
 
@@ -20,7 +20,7 @@ if GOOGLE_API_KEY:
         print("-------------------------")
 
     # gemini_model = genai.GenerativeModel('gemini-pro')
-    gemini_model = genai.GenerativeModel('gemini-pro-latest')
+    gemini_model = genai.GenerativeModel('gemini-2.5-flash')
 else:
     print("CẢNH BÁO: GOOGLE_API_KEY không được tìm thấy trong file .env")
     gemini_model = None
@@ -83,7 +83,7 @@ def call_openai_api(prompt: str, model: str = "gpt-3.5-turbo") -> str:
                 print("Không thể kết nối đến OpenAI API sau nhiều lần thử.")
                 raise
 
-# Ví dụ sử dụng để bạn có thể test file này một cách độc lập
+# Test file này một cách độc lập
 if __name__ == '__main__':
     test_prompt = "Luật đất đai 2024 có hiệu lực khi nào?"
     

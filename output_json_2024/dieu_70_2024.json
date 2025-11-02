@@ -1,0 +1,173 @@
+{
+  "knowledge_graph": {
+    "entities": [
+      {
+        "id": "dieu_70",
+        "label": "ĐiềuLuật",
+        "name": "Điều 70. Lấy ý kiến về quy hoạch, kế hoạch sử dụng đất",
+        "description": "Quy định về việc lấy ý kiến đối với các loại quy hoạch, kế hoạch sử dụng đất ở các cấp khác nhau."
+      },
+      {
+        "id": "hanhviphaply_layykien",
+        "label": "HànhViPhápLý",
+        "name": "Lấy ý kiến về quy hoạch, kế hoạch sử dụng đất",
+        "description": "Hành vi tổ chức thu thập ý kiến của các cơ quan, tổ chức, cộng đồng và cá nhân về dự thảo quy hoạch, kế hoạch sử dụng đất."
+      },
+      {
+        "id": "hanhviphaply_tonghoptiepthugiaitrinh",
+        "label": "HànhViPhápLý",
+        "name": "Tổng hợp, tiếp thu, giải trình ý kiến",
+        "description": "Hành vi tập hợp, xem xét, giải thích các ý kiến đóng góp và hoàn thiện phương án quy hoạch, kế hoạch sử dụng đất trước khi trình thẩm định, phê duyệt."
+      },
+      {
+        "id": "khainiem_quyhoachsudungdat_quocgia_quocphong_anninh",
+        "label": "KháiNiệm",
+        "name": "Quy hoạch sử dụng đất quốc gia, quốc phòng, an ninh",
+        "description": "Các loại quy hoạch sử dụng đất ở cấp độ cao nhất, việc lấy ý kiến thực hiện theo pháp luật về quy hoạch."
+      },
+      {
+        "id": "khainiem_quyhoachsudungdatcaptinh",
+        "label": "KháiNiệm",
+        "name": "Quy hoạch sử dụng đất cấp tỉnh",
+        "description": "Việc phân bổ và khoanh vùng đất đai theo không gian sử dụng cho các mục tiêu phát triển ở cấp tỉnh."
+      },
+      {
+        "id": "khainiem_quyhoachsudungdatcaphuyen",
+        "label": "KháiNiệm",
+        "name": "Quy hoạch sử dụng đất cấp huyện",
+        "description": "Việc phân bổ và khoanh vùng đất đai theo không gian sử dụng cho các mục tiêu phát triển ở cấp huyện."
+      },
+      {
+        "id": "khainiem_kehoachsudungdathangnamcaphuyen",
+        "label": "KháiNiệm",
+        "name": "Kế hoạch sử dụng đất hằng năm cấp huyện",
+        "description": "Kế hoạch được lập hằng năm để triển khai quy hoạch sử dụng đất cấp huyện."
+      },
+      {
+        "id": "chuthe_coquanlapquyhoachcaptinh",
+        "label": "ChủThể",
+        "name": "Cơ quan lập quy hoạch sử dụng đất cấp tỉnh",
+        "description": "Chủ thể có trách nhiệm tổ chức lấy ý kiến về quy hoạch sử dụng đất cấp tỉnh."
+      },
+      {
+        "id": "chuthe_coquanlapquyhoachcaphuyen",
+        "label": "ChủThể",
+        "name": "Cơ quan lập quy hoạch sử dụng đất cấp huyện",
+        "description": "Chủ thể có trách nhiệm tổ chức lấy ý kiến về quy hoạch sử dụng đất và kế hoạch sử dụng đất hằng năm cấp huyện."
+      },
+      {
+        "id": "chuthe_doituonggopyy",
+        "label": "ChủThể",
+        "name": "Cơ quan, tổ chức, cộng đồng dân cư, cá nhân có liên quan",
+        "description": "Các đối tượng được lấy ý kiến, bao gồm các cơ quan nhà nước, tổ chức xã hội, cộng đồng và cá nhân chịu tác động của quy hoạch."
+      },
+      {
+        "id": "dieukien_thoigian45ngay",
+        "label": "ĐiềuKiện",
+        "name": "Thời gian lấy ý kiến là 45 ngày",
+        "description": "Thời hạn lấy ý kiến về quy hoạch sử dụng đất cấp tỉnh."
+      },
+      {
+        "id": "dieukien_thoigian30ngay",
+        "label": "ĐiềuKiện",
+        "name": "Thời gian lấy ý kiến là 30 ngày",
+        "description": "Thời hạn lấy ý kiến về quy hoạch sử dụng đất cấp huyện."
+      },
+      {
+        "id": "dieukien_thoigian20ngay",
+        "label": "ĐiềuKiện",
+        "name": "Thời gian lấy ý kiến là 20 ngày",
+        "description": "Thời hạn lấy ý kiến về kế hoạch sử dụng đất hằng năm cấp huyện."
+      },
+      {
+        "id": "dieukien_hinhthuclayykien",
+        "label": "ĐiềuKiện",
+        "name": "Hình thức lấy ý kiến công khai",
+        "description": "Bao gồm công khai trên trang thông tin điện tử, niêm yết tại trụ sở, tổ chức hội nghị, hội thảo, phát phiếu lấy ý kiến."
+      },
+      {
+        "id": "dieukien_xulyykienkhachquan",
+        "label": "ĐiềuKiện",
+        "name": "Yêu cầu về xử lý ý kiến",
+        "description": "Các ý kiến phải được tổng hợp đầy đủ, chính xác và tiếp thu, giải trình một cách khách quan, minh bạch, nghiêm túc, thấu đáo."
+      }
+    ],
+    "relationships": [
+      {
+        "source_id": "dieu_70",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "hanhviphaply_layykien"
+      },
+      {
+        "source_id": "hanhviphaply_layykien",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_quyhoachsudungdat_quocgia_quocphong_anninh"
+      },
+      {
+        "source_id": "hanhviphaply_layykien",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_quyhoachsudungdatcaptinh"
+      },
+      {
+        "source_id": "hanhviphaply_layykien",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_quyhoachsudungdatcaphuyen"
+      },
+      {
+        "source_id": "hanhviphaply_layykien",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_kehoachsudungdathangnamcaphuyen"
+      },
+      {
+        "source_id": "hanhviphaply_layykien",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_coquanlapquyhoachcaptinh"
+      },
+      {
+        "source_id": "hanhviphaply_layykien",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_coquanlapquyhoachcaphuyen"
+      },
+      {
+        "source_id": "chuthe_coquanlapquyhoachcaptinh",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "chuthe_doituonggopyy"
+      },
+      {
+        "source_id": "chuthe_coquanlapquyhoachcaphuyen",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "chuthe_doituonggopyy"
+      },
+      {
+        "source_id": "hanhviphaply_layykien",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_hinhthuclayykien"
+      },
+      {
+        "source_id": "khainiem_quyhoachsudungdatcaptinh",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_thoigian45ngay"
+      },
+      {
+        "source_id": "khainiem_quyhoachsudungdatcaphuyen",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_thoigian30ngay"
+      },
+      {
+        "source_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_thoigian20ngay"
+      },
+      {
+        "source_id": "hanhviphaply_layykien",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "hanhviphaply_tonghoptiepthugiaitrinh"
+      },
+      {
+        "source_id": "hanhviphaply_tonghoptiepthugiaitrinh",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieukien_xulyykienkhachquan"
+      }
+    ]
+  }
+}

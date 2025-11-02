@@ -1,0 +1,311 @@
+{
+  "entities": [
+    {
+      "id": "dieu_173",
+      "label": "ĐiềuLuật",
+      "name": "Điều 173"
+    },
+    {
+      "id": "khauniem_thoihansudungdat",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "khauniem_datrungdacdung",
+      "label": "KháiNiệm",
+      "name": "đất rừng đặc dụng"
+    },
+    {
+      "id": "khauniem_datrungphongho",
+      "label": "KháiNiệm",
+      "name": "đất rừng phòng hộ"
+    },
+    {
+      "id": "khauniem_loaidatsaukhichuyenmucdich",
+      "label": "KháiNiệm",
+      "name": "loại đất sau khi được chuyển mục đích sử dụng"
+    },
+    {
+      "id": "hanhviphaply_xacdinhthoihan",
+      "label": "HànhViPhápLý",
+      "name": "xác định thời hạn"
+    },
+    {
+      "id": "khauniem_quyedinchohepchuyenmucdichsudungdat",
+      "label": "KháiNiệm",
+      "name": "quyết định cho phép chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_tinhtoihan",
+      "label": "HànhViPhápLý",
+      "name": "tính thời hạn"
+    },
+    {
+      "id": "khauniem_dattroangcayhangnam",
+      "label": "KháiNiệm",
+      "name": "đất trồng cây hằng năm"
+    },
+    {
+      "id": "khauniem_dattroangcaylaunam",
+      "label": "KháiNiệm",
+      "name": "đất trồng cây lâu năm"
+    },
+    {
+      "id": "khauniem_datrungsanxuat",
+      "label": "KháiNiệm",
+      "name": "đất rừng sản xuất"
+    },
+    {
+      "id": "khauniem_datnuoitrongthuysan",
+      "label": "KháiNiệm",
+      "name": "đất nuôi trồng thủy sản"
+    },
+    {
+      "id": "khauniem_datlammuoi",
+      "label": "KháiNiệm",
+      "name": "đất làm muối"
+    },
+    {
+      "id": "khauniem_thoihanoninhlaudai",
+      "label": "KháiNiệm",
+      "name": "ổn định lâu dài"
+    },
+    {
+      "id": "khauniem_cacloaidatnongnghiep",
+      "label": "KháiNiệm",
+      "name": "các loại đất nông nghiệp"
+    },
+    {
+      "id": "dieukien_khongthuoctruonghop1a1b",
+      "label": "ĐiềuKiện",
+      "name": "không thuộc trường hợp quy định tại điểm a và điểm b khoản này"
+    },
+    {
+      "id": "hanhviphaply_tieptucsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "tiếp tục sử dụng đất"
+    },
+    {
+      "id": "khauniem_thoihandagiaochothue",
+      "label": "KháiNiệm",
+      "name": "thời hạn đã được giao, cho thuê"
+    },
+    {
+      "id": "khauniem_datnongnghiep",
+      "label": "KháiNiệm",
+      "name": "đất nông nghiệp"
+    },
+    {
+      "id": "khauniem_datphinongnghiep",
+      "label": "KháiNiệm",
+      "name": "đất phi nông nghiệp"
+    },
+    {
+      "id": "hanhviphaply_thuchienduanautu",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện dự án đầu tư"
+    },
+    {
+      "id": "khauniem_quydinhtaidiemckhoan1dieu172",
+      "label": "KháiNiệm",
+      "name": "quy định tại điểm c khoản 1 Điều 172 của Luật này"
+    },
+    {
+      "id": "dieukien_trutruonghopkhoan3",
+      "label": "ĐiềuKiện",
+      "name": "trừ trường hợp quy định tại khoản 3 Điều này"
+    },
+    {
+      "id": "khauniem_datphinongnghieusudungoninhlaudai",
+      "label": "KháiNiệm",
+      "name": "đất phi nông nghiệp sử dụng ổn định lâu dài"
+    },
+    {
+      "id": "khauniem_datphinongnghieusudungcothoihan",
+      "label": "KháiNiệm",
+      "name": "đất phi nông nghiệp sử dụng có thời hạn"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_173",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_thoihansudungdat"
+    },
+    {
+      "source_id": "dieu_173",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "khauniem_thoihansudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_datrungdacdung"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_datrungphongho"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_loaidatsaukhichuyenmucdich"
+    },
+    {
+      "source_id": "khauniem_thoihansudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xacdinhthoihan"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhthoihan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_loaidatsaukhichuyenmucdich"
+    },
+    {
+      "source_id": "hanhviphaply_tinhtoihan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_quyedinchohepchuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_dattroangcayhangnam"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_dattroangcaylaunam"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_datrungsanxuat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_datnuoitrongthuysan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_datlammuoi"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_datrungdacdung"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_datrungphongho"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_thoihanoninhlaudai"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_cacloaidatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongthuoctruonghop1a1b"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tieptucsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_tieptucsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_thoihandagiaochothue"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tieptucsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_datnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_datphinongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienduanautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_thoihansudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchienduanautu"
+    },
+    {
+      "source_id": "khauniem_thoihansudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quydinhtaidiemckhoan1dieu172"
+    },
+    {
+      "source_id": "khauniem_thoihansudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trutruonghopkhoan3"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_datphinongnghieusudungoninhlaudai"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_datphinongnghieusudungcothoihan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_datphinongnghieusudungcothoihan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_datphinongnghieusudungoninhlaudai"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_thoihanoninhlaudai"
+    }
+  ]
+}

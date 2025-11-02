@@ -1,0 +1,376 @@
+{
+  "entities": [
+    {
+      "id": "dieu_124",
+      "label": "ĐiềuLuật",
+      "name": "Điều 124"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "khainiem_hethongthongtindatdai",
+      "label": "KháiNiệm",
+      "name": "Hệ thống thông tin đất đai"
+    },
+    {
+      "id": "khainiem_cosodulieudatdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu đất đai"
+    },
+    {
+      "id": "hanhviphaply_dautuxaydung_httt_csdl",
+      "label": "HànhViPhápLý",
+      "name": "Đầu tư xây dựng hệ thống thông tin đất đai, cơ sở dữ liệu đất đai"
+    },
+    {
+      "id": "khainiem_kinhphivanhanhduytri_httt_csdl",
+      "label": "KháiNiệm",
+      "name": "Kinh phí vận hành, duy trì hệ thống thông tin đất đai, cơ sở dữ liệu đất đai"
+    },
+    {
+      "id": "hanhviphaply_baodam_kinhphivanhanhduytri",
+      "label": "HànhViPhápLý",
+      "name": "Bảo đảm kinh phí vận hành, duy trì hệ thống thông tin đất đai, cơ sở dữ liệu đất đai"
+    },
+    {
+      "id": "chuthe_botainnguyenmoitruong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "khainiem_hethongthongtindatdaiquocgia",
+      "label": "KháiNiệm",
+      "name": "Hệ thống thông tin đất đai quốc gia"
+    },
+    {
+      "id": "khainiem_cosodulieudatdaiquocgia",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu đất đai quốc gia"
+    },
+    {
+      "id": "hanhviphaply_tochucxaydungquanlykhaithac_httt_csdl_quocgia",
+      "label": "HànhViPhápLý",
+      "name": "Tổ chức xây dựng, quản lý, khai thác hệ thống thông tin, cơ sở dữ liệu đất đai quốc gia"
+    },
+    {
+      "id": "khainiem_dichvucongdientu_linhvucdatdai",
+      "label": "KháiNiệm",
+      "name": "Dịch vụ công điện tử trong lĩnh vực đất đai"
+    },
+    {
+      "id": "hanhviphaply_thuchiendichvucongdientu",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện dịch vụ công điện tử trong lĩnh vực đất đai"
+    },
+    {
+      "id": "dieukien_quydinhcuachinhphu",
+      "label": "ĐiềuKiện",
+      "name": "Theo quy định của Chính phủ"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "chuthe_bonganhcoquancolienquan",
+      "label": "ChủThể",
+      "name": "Bộ, ngành, cơ quan có liên quan"
+    },
+    {
+      "id": "khainiem_ketquadieutracoban_dulieuthongtin_datdai",
+      "label": "KháiNiệm",
+      "name": "Kết quả điều tra cơ bản và các dữ liệu, thông tin có liên quan đến đất đai"
+    },
+    {
+      "id": "hanhviphaply_cungcap_kqdieutracoban_dulieuthongtin",
+      "label": "HànhViPhápLý",
+      "name": "Cung cấp kết quả điều tra cơ bản và các dữ liệu, thông tin có liên quan đến đất đai"
+    },
+    {
+      "id": "hanhviphaply_capnhat_csdldatdaiquocgia_htttdatdai",
+      "label": "HànhViPhápLý",
+      "name": "Cập nhật vào cơ sở dữ liệu đất đai quốc gia, hệ thống thông tin đất đai"
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "khainiem_hethongthongtindatdaidiaphuong",
+      "label": "KháiNiệm",
+      "name": "Hệ thống thông tin đất đai ở địa phương"
+    },
+    {
+      "id": "khainiem_cosodulieudatdaidiaphuong",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu đất đai ở địa phương"
+    },
+    {
+      "id": "hanhviphaply_tochucxaydungquanlykhaithac_httt_csdl_diaphuong",
+      "label": "HànhViPhápLý",
+      "name": "Tổ chức xây dựng, quản lý, khai thác hệ thống thông tin, cơ sở dữ liệu đất đai ở địa phương"
+    },
+    {
+      "id": "khainiem_dulieudatdai",
+      "label": "KháiNiệm",
+      "name": "Dữ liệu đất đai"
+    },
+    {
+      "id": "hanhviphaply_cungcapdulieudatdai",
+      "label": "HànhViPhápLý",
+      "name": "Cung cấp dữ liệu đất đai"
+    },
+    {
+      "id": "hanhviphaply_tichhopvaocsdldatdaiquocgia",
+      "label": "HànhViPhápLý",
+      "name": "Tích hợp vào cơ sở dữ liệu đất đai quốc gia"
+    },
+    {
+      "id": "chuthe_botruongbotainnguyenmoitruong",
+      "label": "ChủThể",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet_xaydungquanlykhaithac_htttdatdai",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết về xây dựng, quản lý, khai thác hệ thống thông tin đất đai"
+    },
+    {
+      "id": "dieukien_tochuccanhan_hoatdongtuvan",
+      "label": "ĐiềuKiện",
+      "name": "Điều kiện của tổ chức, cá nhân hoạt động tư vấn về xây dựng cơ sở dữ liệu, hệ thống thông tin đất đai"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "hanhviphaply_hoatdongtuvan_xaydungcsdl_htttdatdai",
+      "label": "HànhViPhápLý",
+      "name": "Hoạt động tư vấn về xây dựng cơ sở dữ liệu, hệ thống thông tin đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_124",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_dautuxaydung_httt_csdl"
+    },
+    {
+      "source_id": "hanhviphaply_dautuxaydung_httt_csdl",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongthongtindatdai"
+    },
+    {
+      "source_id": "hanhviphaply_dautuxaydung_httt_csdl",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cosodulieudatdai"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_baodam_kinhphivanhanhduytri"
+    },
+    {
+      "source_id": "hanhviphaply_baodam_kinhphivanhanhduytri",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_kinhphivanhanhduytri_httt_csdl"
+    },
+    {
+      "source_id": "khainiem_kinhphivanhanhduytri_httt_csdl",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongthongtindatdai"
+    },
+    {
+      "source_id": "khainiem_kinhphivanhanhduytri_httt_csdl",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cosodulieudatdai"
+    },
+    {
+      "source_id": "dieu_124",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_botainnguyenmoitruong"
+    },
+    {
+      "source_id": "chuthe_botainnguyenmoitruong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tochucxaydungquanlykhaithac_httt_csdl_quocgia"
+    },
+    {
+      "source_id": "hanhviphaply_tochucxaydungquanlykhaithac_httt_csdl_quocgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongthongtindatdaiquocgia"
+    },
+    {
+      "source_id": "hanhviphaply_tochucxaydungquanlykhaithac_httt_csdl_quocgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cosodulieudatdaiquocgia"
+    },
+    {
+      "source_id": "chuthe_botainnguyenmoitruong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchiendichvucongdientu"
+    },
+    {
+      "source_id": "hanhviphaply_thuchiendichvucongdientu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dichvucongdientu_linhvucdatdai"
+    },
+    {
+      "source_id": "hanhviphaply_thuchiendichvucongdientu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quydinhcuachinhphu"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_quydinhcuachinhphu"
+    },
+    {
+      "source_id": "dieu_124",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_bonganhcoquancolienquan"
+    },
+    {
+      "source_id": "chuthe_bonganhcoquancolienquan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cungcap_kqdieutracoban_dulieuthongtin"
+    },
+    {
+      "source_id": "hanhviphaply_cungcap_kqdieutracoban_dulieuthongtin",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_ketquadieutracoban_dulieuthongtin_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_cungcap_kqdieutracoban_dulieuthongtin",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_botainnguyenmoitruong"
+    },
+    {
+      "source_id": "chuthe_botainnguyenmoitruong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_capnhat_csdldatdaiquocgia_htttdatdai"
+    },
+    {
+      "source_id": "hanhviphaply_capnhat_csdldatdaiquocgia_htttdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cosodulieudatdaiquocgia"
+    },
+    {
+      "source_id": "hanhviphaply_capnhat_csdldatdaiquocgia_htttdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongthongtindatdai"
+    },
+    {
+      "source_id": "dieu_124",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ubndcaptinh"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tochucxaydungquanlykhaithac_httt_csdl_diaphuong"
+    },
+    {
+      "source_id": "hanhviphaply_tochucxaydungquanlykhaithac_httt_csdl_diaphuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongthongtindatdaidiaphuong"
+    },
+    {
+      "source_id": "hanhviphaply_tochucxaydungquanlykhaithac_httt_csdl_diaphuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cosodulieudatdaidiaphuong"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cungcapdulieudatdai"
+    },
+    {
+      "source_id": "hanhviphaply_cungcapdulieudatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_dulieudatdai"
+    },
+    {
+      "source_id": "hanhviphaply_cungcapdulieudatdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_botainnguyenmoitruong"
+    },
+    {
+      "source_id": "chuthe_botainnguyenmoitruong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tichhopvaocsdldatdaiquocgia"
+    },
+    {
+      "source_id": "hanhviphaply_tichhopvaocsdldatdaiquocgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cosodulieudatdaiquocgia"
+    },
+    {
+      "source_id": "dieu_124",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_botruongbotainnguyenmoitruong"
+    },
+    {
+      "source_id": "chuthe_botruongbotainnguyenmoitruong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quydinhchitiet_xaydungquanlykhaithac_htttdatdai"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhchitiet_xaydungquanlykhaithac_htttdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongthongtindatdai"
+    },
+    {
+      "source_id": "chuthe_botruongbotainnguyenmoitruong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tochuccanhan_hoatdongtuvan"
+    },
+    {
+      "source_id": "dieukien_tochuccanhan_hoatdongtuvan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "dieukien_tochuccanhan_hoatdongtuvan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_hoatdongtuvan_xaydungcsdl_htttdatdai"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_hoatdongtuvan_xaydungcsdl_htttdatdai"
+    },
+    {
+      "source_id": "hanhviphaply_hoatdongtuvan_xaydungcsdl_htttdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cosodulieudatdai"
+    },
+    {
+      "source_id": "hanhviphaply_hoatdongtuvan_xaydungcsdl_htttdatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_hethongthongtindatdai"
+    }
+  ]
+}

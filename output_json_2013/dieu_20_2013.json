@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {
+      "id": "dieu_20",
+      "label": "ĐiềuLuật",
+      "name": "Điều 20"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "quyền và nghĩa vụ của người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_hinh_thuc_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "hình thức giao đất"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_cong_nhan_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_nguon_goc_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "nguồn gốc sử dụng đất"
+    },
+    {
+      "id": "dieukien_nghia_vu_tai_chinh_cua_nguoi_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "nghĩa vụ tài chính của người sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_20",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_hinh_thuc_giao_dat"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cho_thue_dat"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cong_nhan_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguon_goc_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nghia_vu_tai_chinh_cua_nguoi_su_dung_dat"
+    }
+  ]
+}

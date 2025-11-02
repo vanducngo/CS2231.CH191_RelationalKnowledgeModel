@@ -1,0 +1,173 @@
+{
+  "graph": {
+    "entities": [
+      {
+        "id": "dieu_103",
+        "label": "ĐiềuLuật",
+        "name": "Điều 103. Bồi thường đối với cây trồng, vật nuôi"
+      },
+      {
+        "id": "chuthe_nhanuoc",
+        "label": "ChủThể",
+        "name": "Nhà nước"
+      },
+      {
+        "id": "hanhviphaply_thuhoidat",
+        "label": "HànhViPhápLý",
+        "name": "Thu hồi đất"
+      },
+      {
+        "id": "dieukien_gaythietbaidoivoicaytrongvatnuoi",
+        "label": "ĐiềuKiện",
+        "name": "Gây thiệt hại đối với cây trồng, vật nuôi"
+      },
+      {
+        "id": "chetai_boithuong",
+        "label": "ChếTài",
+        "name": "Bồi thường đối với cây trồng, vật nuôi"
+      },
+      {
+        "id": "khainiem_cayhangnam",
+        "label": "KháiNiệm",
+        "name": "Cây hằng năm"
+      },
+      {
+        "id": "chetai_boithuongbanggiatrisanluong",
+        "label": "ChếTài",
+        "name": "Bồi thường bằng giá trị sản lượng của vụ thu hoạch"
+      },
+      {
+        "id": "khainiem_caylaunam",
+        "label": "KháiNiệm",
+        "name": "Cây lâu năm"
+      },
+      {
+        "id": "chetai_boithuongtheogiatridetbaithucte",
+        "label": "ChếTài",
+        "name": "Bồi thường theo giá trị thiệt hại thực tế"
+      },
+      {
+        "id": "khainiem_caytrongcothedichuyen",
+        "label": "KháiNiệm",
+        "name": "Cây trồng có thể di chuyển"
+      },
+      {
+        "id": "chetai_boithuongchiphidichuyen",
+        "label": "ChếTài",
+        "name": "Bồi thường chi phí di chuyển và thiệt hại thực tế"
+      },
+      {
+        "id": "khainiem_cayrung",
+        "label": "KháiNiệm",
+        "name": "Cây rừng"
+      },
+      {
+        "id": "khainiem_vatnuoikhongthedichuyen",
+        "label": "KháiNiệm",
+        "name": "Vật nuôi không thể di chuyển"
+      },
+      {
+        "id": "chuthe_chusohuucaytrongvatnuoi",
+        "label": "ChủThể",
+        "name": "Chủ sở hữu cây trồng, vật nuôi"
+      },
+      {
+        "id": "hanhviphaply_tuthuhoicaytrongvatnuoi",
+        "label": "HànhViPhápLý",
+        "name": "Tự thu hồi cây trồng, vật nuôi"
+      },
+      {
+        "id": "chuthe_uybannhandancaptinh",
+        "label": "ChủThể",
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      },
+      {
+        "id": "hanhviphaply_banhanhdongiaboithuong",
+        "label": "HànhViPhápLý",
+        "name": "Ban hành đơn giá bồi thường"
+      }
+    ],
+    "relationships": [
+      {
+        "source_id": "dieu_103",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "chetai_boithuong"
+      },
+      {
+        "source_id": "hanhviphaply_thuhoidat",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_nhanuoc"
+      },
+      {
+        "source_id": "hanhviphaply_thuhoidat",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "dieukien_gaythietbaidoivoicaytrongvatnuoi"
+      },
+      {
+        "source_id": "dieukien_gaythietbaidoivoicaytrongvatnuoi",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "chetai_boithuong"
+      },
+      {
+        "source_id": "dieu_103",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "chetai_boithuongbanggiatrisanluong"
+      },
+      {
+        "source_id": "chetai_boithuongbanggiatrisanluong",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_cayhangnam"
+      },
+      {
+        "source_id": "dieu_103",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "chetai_boithuongtheogiatridetbaithucte"
+      },
+      {
+        "source_id": "chetai_boithuongtheogiatridetbaithucte",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_caylaunam"
+      },
+      {
+        "source_id": "chetai_boithuongtheogiatridetbaithucte",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_cayrung"
+      },
+      {
+        "source_id": "chetai_boithuongtheogiatridetbaithucte",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_vatnuoikhongthedichuyen"
+      },
+      {
+        "source_id": "dieu_103",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "chetai_boithuongchiphidichuyen"
+      },
+      {
+        "source_id": "chetai_boithuongchiphidichuyen",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_caytrongcothedichuyen"
+      },
+      {
+        "source_id": "dieu_103",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "hanhviphaply_tuthuhoicaytrongvatnuoi"
+      },
+      {
+        "source_id": "hanhviphaply_tuthuhoicaytrongvatnuoi",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_chusohuucaytrongvatnuoi"
+      },
+      {
+        "source_id": "dieu_103",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "hanhviphaply_banhanhdongiaboithuong"
+      },
+      {
+        "source_id": "hanhviphaply_banhanhdongiaboithuong",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_uybannhandancaptinh"
+      }
+    ]
+  }
+}

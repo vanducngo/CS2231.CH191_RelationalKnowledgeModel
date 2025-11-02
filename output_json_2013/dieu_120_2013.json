@@ -1,0 +1,82 @@
+{
+  "entities": [
+    {
+      "id": "dieu_120",
+      "label": "ĐiềuLuật",
+      "name": "Điều 120",
+      "description": "Hệ thống thông tin đất đai"
+    },
+    {
+      "id": "khainiem_hethongthongtindatdai",
+      "label": "KháiNiệm",
+      "name": "Hệ thống thông tin đất đai"
+    },
+    {
+      "id": "dieukien_thongnhatphamvicanuoc",
+      "label": "ĐiềuKiện",
+      "name": "Thống nhất trên phạm vi cả nước"
+    },
+    {
+      "id": "dieukien_phucvudamuctieu",
+      "label": "ĐiềuKiện",
+      "name": "Phục vụ đa mục tiêu"
+    },
+    {
+      "id": "dieukien_theotieuchuanquycuan",
+      "label": "ĐiềuKiện",
+      "name": "Theo tiêu chuẩn, quy chuẩn quốc gia, quốc tế được công nhận tại Việt Nam"
+    },
+    {
+      "id": "khainiem_hatangkythuatcnttdatdai",
+      "label": "KháiNiệm",
+      "name": "Hạ tầng kỹ thuật công nghệ thông tin đất đai"
+    },
+    {
+      "id": "khainiem_hethongphanmem",
+      "label": "KháiNiệm",
+      "name": "Hệ thống phần mềm hệ điều hành, phần mềm hệ thống và phần mềm ứng dụng"
+    },
+    {
+      "id": "khainiem_cosodulieudatdaiquocgia",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu đất đai quốc gia"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_120",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hethongthongtindatdai"
+    },
+    {
+      "source_id": "khainiem_hethongthongtindatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thongnhatphamvicanuoc"
+    },
+    {
+      "source_id": "khainiem_hethongthongtindatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phucvudamuctieu"
+    },
+    {
+      "source_id": "khainiem_hethongthongtindatdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theotieuchuanquycuan"
+    },
+    {
+      "source_id": "khainiem_hethongthongtindatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_hatangkythuatcnttdatdai"
+    },
+    {
+      "source_id": "khainiem_hethongthongtindatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_hethongphanmem"
+    },
+    {
+      "source_id": "khainiem_hethongthongtindatdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_cosodulieudatdaiquocgia"
+    }
+  ]
+}

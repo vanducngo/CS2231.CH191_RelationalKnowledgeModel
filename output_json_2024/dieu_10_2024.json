@@ -1,0 +1,78 @@
+{
+  "entities": [
+    {
+      "id": "dieu_10",
+      "label": "ĐiềuLuật",
+      "name": "Điều 10: Xác định loại đất",
+      "description": "Quy định về các căn cứ và trường hợp đặc biệt để xác định loại đất."
+    },
+    {
+      "id": "hanhviphaply_xacdinhloaidat",
+      "label": "HànhViPhápLý",
+      "name": "Xác định loại đất",
+      "description": "Hành vi pháp lý nhằm xác định loại đất theo quy định của pháp luật."
+    },
+    {
+      "id": "dieu_kien_giaychungnhan",
+      "label": "ĐiềuKiện",
+      "name": "Giấy chứng nhận (quyền sử dụng đất, quyền sở hữu nhà ở...)",
+      "description": "Một trong các căn cứ để xác định loại đất, bao gồm các loại Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất."
+    },
+    {
+      "id": "dieu_kien_giaytovequyensudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Giấy tờ về quyền sử dụng đất theo Điều 137",
+      "description": "Một trong các căn cứ để xác định loại đất đối với trường hợp chưa được cấp Giấy chứng nhận."
+    },
+    {
+      "id": "dieu_kien_quyetdinhcuacoquannhanuoc",
+      "label": "ĐiềuKiện",
+      "name": "Quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất",
+      "description": "Một trong các căn cứ để xác định loại đất do cơ quan nhà nước có thẩm quyền ban hành, áp dụng khi chưa được cấp Giấy chứng nhận."
+    },
+    {
+      "id": "dieu_kien_khongcogiaytohoackhacbiet",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp không có giấy tờ hoặc loại đất trên giấy tờ khác với phân loại/hiện trạng",
+      "description": "Điều kiện để việc xác định loại đất được thực hiện theo một quy trình đặc biệt do Chính phủ quy định."
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ",
+      "description": "Chủ thể có thẩm quyền ban hành quy định về việc xác định loại đất trong các trường hợp đặc biệt."
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_10",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xacdinhloaidat"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhloaidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_giaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhloaidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_giaytovequyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhloaidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_quyetdinhcuacoquannhanuoc"
+    },
+    {
+      "source_id": "dieu_kien_khongcogiaytohoackhacbiet",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xacdinhloaidat"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xacdinhloaidat"
+    }
+  ]
+}

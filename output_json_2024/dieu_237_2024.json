@@ -1,0 +1,166 @@
+{
+  "entities": [
+    {
+      "id": "dieu_237",
+      "label": "ĐiềuLuật",
+      "name": "Điều 237"
+    },
+    {
+      "id": "khainiem_giai_quyet_khieu_nai_khoi_kien_ve_quan_ly_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Giải quyết khiếu nại, khởi kiện về quản lý đất đai"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoi_co_quyen_va_nghia_vu_lien_quan_den_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người có quyền và nghĩa vụ liên quan đến sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_khieu_nai",
+      "label": "HànhViPhápLý",
+      "name": "khiếu nại"
+    },
+    {
+      "id": "hanhviphaply_khoi_kien",
+      "label": "HànhViPhápLý",
+      "name": "khởi kiện"
+    },
+    {
+      "id": "khainiem_quyet_dinh_hanh_chinh_ve_quan_ly_dat_dai",
+      "label": "KháiNiệm",
+      "name": "quyết định hành chính về quản lý đất đai"
+    },
+    {
+      "id": "khainiem_hanh_vi_hanh_chinh_ve_quan_ly_dat_dai",
+      "label": "KháiNiệm",
+      "name": "hành vi hành chính về quản lý đất đai"
+    },
+    {
+      "id": "khainiem_trinh_tu_thu_tuc_giai_quyet_khieu_nai_quyet_dinh_hanh_chinh_hanh_vi_hanh_chinh_ve_quan_ly_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Trình tự, thủ tục giải quyết khiếu nại quyết định hành chính, hành vi hành chính về quản lý đất đai"
+    },
+    {
+      "id": "khainiem_phap_luat_ve_khieu_nai",
+      "label": "KháiNiệm",
+      "name": "pháp luật về khiếu nại"
+    },
+    {
+      "id": "khainiem_trinh_tu_thu_tuc_khoi_kien_quyet_dinh_hanh_chinh_hanh_vi_hanh_chinh_ve_quan_ly_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Trình tự, thủ tục khởi kiện quyết định hành chính, hành vi hành chính về quản lý đất đai"
+    },
+    {
+      "id": "khainiem_phap_luat_ve_to_tung_hanh_chinh",
+      "label": "KháiNiệm",
+      "name": "pháp luật về tố tụng hành chính"
+    },
+    {
+      "id": "hanhviphaply_viec_thu_thap_bao_quan_su_dung_va_luu_tru_ho_so_tai_lieu_lien_quan_den_giai_quyet_khieu_nai_ve_quan_ly_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "Việc thu thập, bảo quản, sử dụng và lưu trữ hồ sơ, tài liệu liên quan đến giải quyết khiếu nại về quản lý đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_237",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giai_quyet_khieu_nai_khoi_kien_ve_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "dieu_237",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_237",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_co_quyen_va_nghia_vu_lien_quan_den_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_237",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khieu_nai"
+    },
+    {
+      "source_id": "dieu_237",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khoi_kien"
+    },
+    {
+      "source_id": "hanhviphaply_khieu_nai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_khieu_nai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_quyen_va_nghia_vu_lien_quan_den_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_khoi_kien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_khoi_kien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_quyen_va_nghia_vu_lien_quan_den_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_khieu_nai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyet_dinh_hanh_chinh_ve_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_khieu_nai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hanh_vi_hanh_chinh_ve_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_khoi_kien",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyet_dinh_hanh_chinh_ve_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_khoi_kien",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hanh_vi_hanh_chinh_ve_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "dieu_237",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_trinh_tu_thu_tuc_giai_quyet_khieu_nai_quyet_dinh_hanh_chinh_hanh_vi_hanh_chinh_ve_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "khainiem_trinh_tu_thu_tuc_giai_quyet_khieu_nai_quyet_dinh_hanh_chinh_hanh_vi_hanh_chinh_ve_quan_ly_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phap_luat_ve_khieu_nai"
+    },
+    {
+      "source_id": "dieu_237",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_trinh_tu_thu_tuc_khoi_kien_quyet_dinh_hanh_chinh_hanh_vi_hanh_chinh_ve_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "khainiem_trinh_tu_thu_tuc_khoi_kien_quyet_dinh_hanh_chinh_hanh_vi_hanh_chinh_ve_quan_ly_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phap_luat_ve_to_tung_hanh_chinh"
+    },
+    {
+      "source_id": "dieu_237",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_viec_thu_thap_bao_quan_su_dung_va_luu_tru_ho_so_tai_lieu_lien_quan_den_giai_quyet_khieu_nai_ve_quan_ly_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_viec_thu_thap_bao_quan_su_dung_va_luu_tru_ho_so_tai_lieu_lien_quan_den_giai_quyet_khieu_nai_ve_quan_ly_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phap_luat_ve_khieu_nai"
+    }
+  ]
+}

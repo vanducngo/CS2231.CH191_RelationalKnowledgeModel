@@ -1,0 +1,166 @@
+{
+  "entities": [
+    {
+      "id": "dieu_83",
+      "label": "ĐiềuLuật",
+      "name": "Điều 83. Thẩm quyền thu hồi đất và xử lý trường hợp thu hồi đất, tài sản gắn liền với đất là tài sản công"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "hanhviphaply_thuhoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "chuthe_tochuc_trongnuoc",
+      "label": "ChủThể",
+      "name": "Tổ chức trong nước"
+    },
+    {
+      "id": "chuthe_tochuc_tongiao",
+      "label": "ChủThể",
+      "name": "Tổ chức tôn giáo"
+    },
+    {
+      "id": "chuthe_tochuc_tongiao_tructhuoc",
+      "label": "ChủThể",
+      "name": "Tổ chức tôn giáo trực thuộc"
+    },
+    {
+      "id": "chuthe_nguoi_gocvietnam_dinhcu_o_nuocngoai",
+      "label": "ChủThể",
+      "name": "Người gốc Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_tochuc_nuocngoai_co_chucnang_ngoaigiao",
+      "label": "ChủThể",
+      "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "id": "chuthe_tochuc_kinhte_co_von_dautu_nuocngoai",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "chuthe_ho_giadinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_congdong_dancu",
+      "label": "ChủThể",
+      "name": "Cộng đồng dân cư"
+    },
+    {
+      "id": "dieukien_thuhoi_dat_theo_dieu_81_va_82",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp thu hồi đất theo Điều 81 và Điều 82"
+    },
+    {
+      "id": "dieukien_thuhoi_dat_theo_dieu_78_va_79",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp thu hồi đất theo Điều 78 và Điều 79"
+    },
+    {
+      "id": "khainiem_taisan_cong",
+      "label": "KháiNiệm",
+      "name": "Tài sản công"
+    },
+    {
+      "id": "hanhviphaply_khong_phai_thuchien_sapxep_xuly_taisan_cong",
+      "label": "HànhViPhápLý",
+      "name": "Không phải thực hiện việc sắp xếp lại, xử lý tài sản công"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_83",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuhoi_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_trongnuoc"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_tongiao"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_tongiao_tructhuoc"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_gocvietnam_dinhcu_o_nuocngoai"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_nuocngoai_co_chucnang_ngoaigiao"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_kinhte_co_von_dautu_nuocngoai"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuhoi_dat_theo_dieu_81_va_82"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_giadinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congdong_dancu"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuhoi_dat_theo_dieu_78_va_79"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuhoi_dat_theo_dieu_81_va_82"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_taisan_cong"
+    },
+    {
+      "source_id": "khainiem_taisan_cong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khong_phai_thuchien_sapxep_xuly_taisan_cong"
+    }
+  ]
+}

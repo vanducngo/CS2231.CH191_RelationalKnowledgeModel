@@ -1,0 +1,245 @@
+{
+  "nodes": [
+    {
+      "id": "dieu_245",
+      "label": "ĐiềuLuật",
+      "properties": {
+        "ten": "Điều 245",
+        "tieu_de": "Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13"
+      }
+    },
+    {
+      "id": "chuthe_hoidongnhandancaptinh",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Hội đồng nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_thutuongchinhphu",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Thủ tướng Chính phủ"
+      }
+    },
+    {
+      "id": "chuthe_hoidongnhandancaphuyen",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Hội đồng nhân dân cấp huyện"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Ủy ban nhân dân cấp tỉnh"
+      }
+    },
+    {
+      "id": "chuthe_hoidongnhandanthanhphotructhuoctrunguong",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Hội đồng nhân dân thành phố trực thuộc Trung ương"
+      }
+    },
+    {
+      "id": "chuthe_uybannhandanthanhphotructhuoctrunguong",
+      "label": "ChủThể",
+      "properties": {
+        "ten": "Ủy ban nhân dân thành phố trực thuộc Trung ương"
+      }
+    },
+    {
+      "id": "hanhvi_thongqua_quyhoachsudungdatcuatinh",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Thông qua quy hoạch sử dụng đất của tỉnh"
+      }
+    },
+    {
+      "id": "hanhvi_quyetdinh_bienphapquanly",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Quyết định biện pháp quản lý, sử dụng đất đai, tài nguyên"
+      }
+    },
+    {
+      "id": "hanhvi_thongqua_quyhoachsudungdatcahuyen",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Thông qua quy hoạch sử dụng đất của huyện"
+      }
+    },
+    {
+      "id": "hanhvi_thongqua_kehoachsudungdatcuatptttw",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Thông qua kế hoạch sử dụng đất của thành phố trực thuộc Trung ương"
+      }
+    },
+    {
+      "id": "hanhvi_pheduyet_quyhoachkehoachsudungdatcahuyentructhuoc",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Phê duyệt quy hoạch, kế hoạch sử dụng đất của huyện trực thuộc"
+      }
+    },
+    {
+      "id": "hanhvi_pheduyet",
+      "label": "HànhViPhápLý",
+      "properties": {
+        "ten": "Phê duyệt"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcuatinh",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Quy hoạch sử dụng đất của tỉnh"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachsudungdatcahuyen",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Quy hoạch sử dụng đất của huyện"
+      }
+    },
+    {
+      "id": "khainiem_kehoachsudungdatcuatptttw",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Kế hoạch sử dụng đất của thành phố trực thuộc Trung ương"
+      }
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdatcahuyentructhuoc",
+      "label": "KháiNiệm",
+      "properties": {
+        "ten": "Quy hoạch, kế hoạch sử dụng đất của huyện trực thuộc"
+      }
+    },
+    {
+      "id": "dieukien_trinhthutuongchinhphupheduyet",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Trình Thủ tướng Chính phủ phê duyệt"
+      }
+    },
+    {
+      "id": "dieukien_trinhuybannhandancaptinhpheduyet",
+      "label": "ĐiềuKiện",
+      "properties": {
+        "ten": "Trình Ủy ban nhân dân cấp tỉnh phê duyệt"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source_id": "dieu_245",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thongqua_quyhoachsudungdatcuatinh"
+    },
+    {
+      "source_id": "dieu_245",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_quyetdinh_bienphapquanly"
+    },
+    {
+      "source_id": "dieu_245",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thongqua_quyhoachsudungdatcahuyen"
+    },
+    {
+      "source_id": "dieu_245",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thongqua_kehoachsudungdatcuatptttw"
+    },
+    {
+      "source_id": "dieu_245",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_pheduyet_quyhoachkehoachsudungdatcahuyentructhuoc"
+    },
+    {
+      "source_id": "hanhvi_thongqua_quyhoachsudungdatcuatinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hoidongnhandancaptinh"
+    },
+    {
+      "source_id": "hanhvi_thongqua_quyhoachsudungdatcuatinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoachsudungdatcuatinh"
+    },
+    {
+      "source_id": "hanhvi_thongqua_quyhoachsudungdatcuatinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trinhthutuongchinhphupheduyet"
+    },
+    {
+      "source_id": "hanhvi_quyetdinh_bienphapquanly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hoidongnhandancaptinh"
+    },
+    {
+      "source_id": "dieukien_trinhthutuongchinhphupheduyet",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_pheduyet"
+    },
+    {
+      "source_id": "hanhvi_pheduyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_thutuongchinhphu"
+    },
+    {
+      "source_id": "hanhvi_thongqua_quyhoachsudungdatcahuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hoidongnhandancaphuyen"
+    },
+    {
+      "source_id": "hanhvi_thongqua_quyhoachsudungdatcahuyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoachsudungdatcahuyen"
+    },
+    {
+      "source_id": "hanhvi_thongqua_quyhoachsudungdatcahuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trinhuybannhandancaptinhpheduyet"
+    },
+    {
+      "source_id": "dieukien_trinhuybannhandancaptinhpheduyet",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_pheduyet"
+    },
+    {
+      "source_id": "hanhvi_pheduyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uybannhandancaptinh"
+    },
+    {
+      "source_id": "hanhvi_thongqua_kehoachsudungdatcuatptttw",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hoidongnhandanthanhphotructhuoctrunguong"
+    },
+    {
+      "source_id": "hanhvi_thongqua_kehoachsudungdatcuatptttw",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_kehoachsudungdatcuatptttw"
+    },
+    {
+      "source_id": "hanhvi_thongqua_kehoachsudungdatcuatptttw",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trinhthutuongchinhphupheduyet"
+    },
+    {
+      "source_id": "hanhvi_pheduyet_quyhoachkehoachsudungdatcahuyentructhuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uybannhandanthanhphotructhuoctrunguong"
+    },
+    {
+      "source_id": "hanhvi_pheduyet_quyhoachkehoachsudungdatcahuyentructhuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoachkehoachsudungdatcahuyentructhuoc"
+    }
+  ]
+}

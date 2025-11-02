@@ -1,0 +1,196 @@
+{
+  "entities": [
+    {
+      "id": "dieu_61",
+      "name": "Điều 61",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
+      "name": "Hệ thống quy hoạch, kế hoạch sử dụng đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat_quoc_gia",
+      "name": "Quy hoạch, kế hoạch sử dụng đất quốc gia",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh_item_1b",
+      "name": "Quy hoạch, kế hoạch sử dụng đất cấp tỉnh",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_su_dung_dat_cap_huyen",
+      "name": "Quy hoạch sử dụng đất cấp huyện",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen",
+      "name": "Kế hoạch sử dụng đất hằng năm cấp huyện",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong",
+      "name": "Quy hoạch sử dụng đất quốc phòng",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_su_dung_dat_an_ninh",
+      "name": "Quy hoạch sử dụng đất an ninh",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_su_dung_dat_quoc_gia",
+      "name": "Quy hoạch sử dụng đất quốc gia",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_he_thong_quy_hoach_quoc_gia",
+      "name": "Hệ thống quy hoạch quốc gia",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_luat_nay",
+      "name": "Luật này",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_phap_luat_ve_quy_hoach",
+      "name": "pháp luật về quy hoạch",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_su_dung_dat_cap_tinh",
+      "name": "Quy hoạch sử dụng đất cấp tỉnh",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh",
+      "name": "quy hoạch có tính chất kỹ thuật, chuyên ngành",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_cap_quoc_gia",
+      "name": "quy hoạch cấp quốc gia",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_vung",
+      "name": "quy hoạch vùng",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khaikiem_quy_hoach_tinh",
+      "name": "quy hoạch tỉnh",
+      "label": "KháiNiệm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_61",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat_quoc_gia"
+    },
+    {
+      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh_item_1b"
+    },
+    {
+      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_quy_hoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen"
+    },
+    {
+      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong"
+    },
+    {
+      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_quy_hoach_su_dung_dat_an_ninh"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_gia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_he_thong_quy_hoach_quoc_gia"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_he_thong_quy_hoach_quoc_gia"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_an_ninh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_he_thong_quy_hoach_quoc_gia"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_luat_nay"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phap_luat_ve_quy_hoach"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_luat_nay"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phap_luat_ve_quy_hoach"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_an_ninh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_luat_nay"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_an_ninh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_phap_luat_ve_quy_hoach"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_cap_tinh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_su_dung_dat_cap_huyen",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_quy_hoach_cap_quoc_gia"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_quy_hoach_vung"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_quy_hoach_tinh"
+    }
+  ]
+}

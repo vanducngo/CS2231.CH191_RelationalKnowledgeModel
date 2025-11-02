@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "dieu_212",
+      "label": "ĐiềuLuật",
+      "name": "Điều 212"
+    },
+    {
+      "id": "khauniem_cacdieukhoanduocgiao",
+      "label": "KháiNiệm",
+      "name": "các điều, khoản được giao trong Luật"
+    },
+    {
+      "id": "khauniem_luatdatdai2013",
+      "label": "KháiNiệm",
+      "name": "Luật Đất đai 2013"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "chuthe_quochoi",
+      "label": "ChủThể",
+      "name": "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6"
+    },
+    {
+      "id": "chuthe_nguyensinhhung",
+      "label": "ChủThể",
+      "name": "Chủ tịch Quốc hội Nguyễn Sinh Hùng"
+    },
+    {
+      "id": "hanhviphaply_quydinhchitiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết"
+    },
+    {
+      "id": "hanhviphaply_thongqua",
+      "label": "HànhViPhápLý",
+      "name": "thông qua"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_212",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quydinhchitiet"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quydinhchitiet"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhchitiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_cacdieukhoanduocgiao"
+    },
+    {
+      "source_id": "chuthe_quochoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thongqua"
+    },
+    {
+      "source_id": "hanhviphaply_thongqua",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_luatdatdai2013"
+    },
+    {
+      "source_id": "chuthe_nguyensinhhung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_luatdatdai2013"
+    }
+  ]
+}

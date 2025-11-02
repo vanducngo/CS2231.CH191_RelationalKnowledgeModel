@@ -1,0 +1,246 @@
+{
+  "entities": [
+    {
+      "id": "dieu_205",
+      "label": "ĐiềuLuật",
+      "name": "Điều 205"
+    },
+    {
+      "id": "khainiem_datsudungchohoatdongkhoangsan",
+      "label": "KháiNiệm",
+      "name": "Đất sử dụng cho hoạt động khoáng sản"
+    },
+    {
+      "id": "khainiem_datdethamdokhaithackhoangsan",
+      "label": "KháiNiệm",
+      "name": "đất để thăm dò, khai thác khoáng sản"
+    },
+    {
+      "id": "khainiem_khuvuccaccongtrinhphutro",
+      "label": "KháiNiệm",
+      "name": "khu vực các công trình phụ trợ cho hoạt động khoáng sản"
+    },
+    {
+      "id": "hanhviphaply_suddchohoatdongkhoangsan",
+      "label": "HànhViPhápLý",
+      "name": "Việc sử dụng đất cho hoạt động khoáng sản"
+    },
+    {
+      "id": "dieukien_giaypheptamdokhaithackhoangsan",
+      "label": "ĐiềuKiện",
+      "name": "Giấy phép thăm dò, khai thác khoáng sản"
+    },
+    {
+      "id": "dieukien_qdchothuedat",
+      "label": "ĐiềuKiện",
+      "name": "Quyết định cho thuê đất"
+    },
+    {
+      "id": "chuthe_cqnnctq",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "dieukien_khongsu_dunglopdatmat",
+      "label": "ĐiềuKiện",
+      "name": "khai thác khoáng sản mà không sử dụng lớp đất mặt, không ảnh hưởng đến việc sử dụng mặt đất"
+    },
+    {
+      "id": "hanhviphaply_khongphai_thuedat",
+      "label": "HànhViPhápLý",
+      "name": "không phải thuê đất"
+    },
+    {
+      "id": "hanhviphaply_apdungbpcnthichhop",
+      "label": "HànhViPhápLý",
+      "name": "Áp dụng biện pháp công nghệ thích hợp"
+    },
+    {
+      "id": "hanhviphaply_khaithacvsdhlkt",
+      "label": "HànhViPhápLý",
+      "name": "khai thác, sử dụng đất hợp lý, tiết kiệm"
+    },
+    {
+      "id": "hanhviphaply_thuchienbpbaovemt",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện các biện pháp bảo vệ môi trường, xử lý chất thải"
+    },
+    {
+      "id": "dieukien_khonggaythiethai",
+      "label": "ĐiềuKiện",
+      "name": "không gây thiệt hại"
+    },
+    {
+      "id": "chuthe_ngoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "dieukien_suddphuhoptdduan",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất phù hợp với tiến độ dự án khai thác khoáng sản"
+    },
+    {
+      "id": "dieukien_giayphepkhaithackhoangsan",
+      "label": "ĐiềuKiện",
+      "name": "giấy phép khai thác khoáng sản"
+    },
+    {
+      "id": "hanhviphaply_tralaidat",
+      "label": "HànhViPhápLý",
+      "name": "có trách nhiệm trả lại đất"
+    },
+    {
+      "id": "dieukien_dungvtdkhaithac",
+      "label": "ĐiềuKiện",
+      "name": "đúng với tiến độ khai thác khoáng sản"
+    },
+    {
+      "id": "dieukien_trangthailopdatmat",
+      "label": "ĐiềuKiện",
+      "name": "trạng thái lớp đất mặt được quy định trong hợp đồng thuê đất"
+    },
+    {
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_xemxetbotriquydatgiaodat",
+      "label": "HànhViPhápLý",
+      "name": "xem xét, bố trí quỹ đất, giao đất"
+    },
+    {
+      "id": "chuthe_llcand",
+      "label": "ChủThể",
+      "name": "lực lượng Công an nhân dân"
+    },
+    {
+      "id": "hanhviphaply_baodamananhtrattu",
+      "label": "HànhViPhápLý",
+      "name": "bảo đảm an ninh, trật tự"
+    },
+    {
+      "id": "dieukien_khicoyeucau",
+      "label": "ĐiềuKiện",
+      "name": "khi có yêu cầu"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_205",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_datsudungchohoatdongkhoangsan"
+    },
+    {
+      "source_id": "khainiem_datsudungchohoatdongkhoangsan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_datdethamdokhaithackhoangsan"
+    },
+    {
+      "source_id": "khainiem_datsudungchohoatdongkhoangsan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_khuvuccaccongtrinhphutro"
+    },
+    {
+      "source_id": "dieu_205",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_suddchohoatdongkhoangsan"
+    },
+    {
+      "source_id": "hanhviphaply_suddchohoatdongkhoangsan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_giaypheptamdokhaithackhoangsan"
+    },
+    {
+      "source_id": "hanhviphaply_suddchohoatdongkhoangsan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_qdchothuedat"
+    },
+    {
+      "source_id": "dieukien_khongsu_dunglopdatmat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khongphai_thuedat"
+    },
+    {
+      "source_id": "hanhviphaply_suddchohoatdongkhoangsan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_apdungbpcnthichhop"
+    },
+    {
+      "source_id": "hanhviphaply_apdungbpcnthichhop",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khaithacvsdhlkt"
+    },
+    {
+      "source_id": "hanhviphaply_suddchohoatdongkhoangsan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchienbpbaovemt"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienbpbaovemt",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_khonggaythiethai"
+    },
+    {
+      "source_id": "dieukien_khonggaythiethai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_suddchohoatdongkhoangsan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_suddphuhoptdduan"
+    },
+    {
+      "source_id": "dieukien_suddphuhoptdduan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_giayphepkhaithackhoangsan"
+    },
+    {
+      "source_id": "chuthe_ngoisudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_tralaidat"
+    },
+    {
+      "source_id": "hanhviphaply_tralaidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dungvtdkhaithac"
+    },
+    {
+      "source_id": "hanhviphaply_tralaidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trangthailopdatmat"
+    },
+    {
+      "source_id": "dieu_205",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_ubndcaptinh"
+    },
+    {
+      "source_id": "chuthe_ubndcaptinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xemxetbotriquydatgiaodat"
+    },
+    {
+      "source_id": "hanhviphaply_xemxetbotriquydatgiaodat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_llcand"
+    },
+    {
+      "source_id": "chuthe_llcand",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_baodamananhtrattu"
+    },
+    {
+      "source_id": "hanhviphaply_baodamananhtrattu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datsudungchohoatdongkhoangsan"
+    },
+    {
+      "source_id": "hanhviphaply_xemxetbotriquydatgiaodat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khicoyeucau"
+    }
+  ]
+}

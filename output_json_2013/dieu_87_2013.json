@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "id": "dieu_87",
+      "label": "ĐiềuLuật",
+      "name": "Điều 87"
+    },
+    {
+      "id": "dieu_65",
+      "label": "ĐiềuLuật",
+      "name": "Điều 65"
+    },
+    {
+      "id": "khainiem_boi_thuong_ho_tro_tai_dinh_cu_doi_voi_cac_truong_hop_dac_biet",
+      "label": "KháiNiệm",
+      "name": "Bồi thường, hỗ trợ, tái định cư đối với các trường hợp đặc biệt"
+    },
+    {
+      "id": "khainiem_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu",
+      "label": "KháiNiệm",
+      "name": "khung chính sách bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "khainiem_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu_cam_ket",
+      "label": "KháiNiệm",
+      "name": "khung chính sách bồi thường, hỗ trợ, tái định cư (có cam kết)"
+    },
+    {
+      "id": "khainiem_boi_thuong_ho_tro_tai_dinh_cu_on_dinh_doi_song_san_xuat",
+      "label": "KháiNiệm",
+      "name": "bồi thường, hỗ trợ, tái định cư để ổn định đời sống, sản xuất"
+    },
+    {
+      "id": "chuthe_quoc_hoi",
+      "label": "ChủThể",
+      "name": "Quốc hội"
+    },
+    {
+      "id": "chuthe_thu_tuong_chinh_phu",
+      "label": "ChủThể",
+      "name": "Thủ tướng Chính phủ"
+    },
+    {
+      "id": "chuthe_nha_nuoc_viet_nam",
+      "label": "ChủThể",
+      "name": "Nhà nước Việt Nam"
+    },
+    {
+      "id": "chuthe_nguoi_co_dat_thu_hoi",
+      "label": "ChủThể",
+      "name": "người có đất thu hồi"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quyet_dinh_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu",
+      "label": "HànhViPhápLý",
+      "name": "quyết định khung chính sách bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_theo_khung_chinh_sach_cam_ket",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện theo khung chính sách đó"
+    },
+    {
+      "id": "hanhviphaply_duoc_boi_thuong_ho_tro_tai_dinh_cu",
+      "label": "HànhViPhápLý",
+      "name": "được bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "dieukien_du_an_dau_tu_do_quoc_hoi_quyet_dinh_chu_truong_dau_tu",
+      "label": "ĐiềuKiện",
+      "name": "dự án đầu tư do Quốc hội quyết định chủ trương đầu tư"
+    },
+    {
+      "id": "dieukien_du_an_dau_tu_do_thu_tuong_chinh_phu_chap_thuan_chu_truong_dau_tu",
+      "label": "ĐiềuKiện",
+      "name": "Thủ tướng Chính phủ chấp thuận chủ trương đầu tư"
+    },
+    {
+      "id": "dieukien_du_an_di_chuyen_ca_cong_dong_dan_cu",
+      "label": "ĐiềuKiện",
+      "name": "phải di chuyển cả cộng đồng dân cư"
+    },
+    {
+      "id": "dieukien_du_an_anh_huong_den_doi_song_kinh_te_xa_hoi_truyen_thong_van_hoa",
+      "label": "ĐiềuKiện",
+      "name": "làm ảnh hưởng đến toàn bộ đời sống, kinh tế - xã hội, truyền thống văn hóa của cộng đồng"
+    },
+    {
+      "id": "dieukien_du_an_thu_hoi_dat_lien_quan_den_nhieu_tinh_tp_truc_thuoc_tw",
+      "label": "ĐiềuKiện",
+      "name": "các dự án thu hồi đất liên quan đến nhiều tỉnh, thành phố trực thuộc trung ương"
+    },
+    {
+      "id": "dieukien_du_an_su_dung_von_vay_to_chuc_quoc_te_nuoc_ngoai",
+      "label": "ĐiềuKiện",
+      "name": "dự án sử dụng vốn vay của các tổ chức quốc tế, nước ngoài"
+    },
+    {
+      "id": "dieukien_nha_nuoc_viet_nam_cam_ket_ve_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu",
+      "label": "ĐiềuKiện",
+      "name": "Nhà nước Việt Nam có cam kết về khung chính sách bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "dieukien_truong_hop_thu_hoi_quy_dinh_tai_d_e_khoan_1_dieu_65",
+      "label": "ĐiềuKiện",
+      "name": "trường hợp thu hồi quy định tại điểm đ và điểm e khoản 1 Điều 65"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_87",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_boi_thuong_ho_tro_tai_dinh_cu_doi_voi_cac_truong_hop_dac_biet"
+    },
+    {
+      "source_id": "dieu_87",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_quoc_hoi"
+    },
+    {
+      "source_id": "dieu_87",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_thu_tuong_chinh_phu"
+    },
+    {
+      "source_id": "dieu_87",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyet_dinh_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieu_87",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nha_nuoc_viet_nam"
+    },
+    {
+      "source_id": "dieu_87",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_theo_khung_chinh_sach_cam_ket"
+    },
+    {
+      "source_id": "dieu_87",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_co_dat_thu_hoi"
+    },
+    {
+      "source_id": "dieu_87",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duoc_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieu_87",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_chinh_phu"
+    },
+    {
+      "source_id": "dieukien_du_an_dau_tu_do_quoc_hoi_quyet_dinh_chu_truong_dau_tu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyet_dinh_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_du_an_dau_tu_do_thu_tuong_chinh_phu_chap_thuan_chu_truong_dau_tu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyet_dinh_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_du_an_di_chuyen_ca_cong_dong_dan_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyet_dinh_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_du_an_anh_huong_den_doi_song_kinh_te_xa_hoi_truyen_thong_van_hoa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyet_dinh_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_du_an_thu_hoi_dat_lien_quan_den_nhieu_tinh_tp_truc_thuoc_tw",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyet_dinh_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_thu_tuong_chinh_phu"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_du_an_su_dung_von_vay_to_chuc_quoc_te_nuoc_ngoai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_theo_khung_chinh_sach_cam_ket"
+    },
+    {
+      "source_id": "dieukien_nha_nuoc_viet_nam_cam_ket_ve_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_theo_khung_chinh_sach_cam_ket"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_theo_khung_chinh_sach_cam_ket",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc_viet_nam"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_theo_khung_chinh_sach_cam_ket",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_khung_chinh_sach_boi_thuong_ho_tro_tai_dinh_cu_cam_ket"
+    },
+    {
+      "source_id": "dieukien_truong_hop_thu_hoi_quy_dinh_tai_d_e_khoan_1_dieu_65",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_duoc_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieu_65",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_truong_hop_thu_hoi_quy_dinh_tai_d_e_khoan_1_dieu_65"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_boi_thuong_ho_tro_tai_dinh_cu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_dat_thu_hoi"
+    },
+    {
+      "source_id": "hanhviphaply_duoc_boi_thuong_ho_tro_tai_dinh_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_boi_thuong_ho_tro_tai_dinh_cu_on_dinh_doi_song_san_xuat"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duoc_boi_thuong_ho_tro_tai_dinh_cu"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_53",
+      "label": "ĐiềuLuật",
+      "name": "Điều 53"
+    },
+    {
+      "id": "khainiem_giaodat_chothuedat_doivoi_dat_dang_co_nguoi_su_dung_cho_nguoi_khac",
+      "label": "KháiNiệm",
+      "name": "Giao đất, cho thuê đất đối với đất đang có người sử dụng cho người khác"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung",
+      "label": "ChủThể",
+      "name": "người sử dụng"
+    },
+    {
+      "id": "chuthe_nguoi_khac",
+      "label": "ChủThể",
+      "name": "người khác"
+    },
+    {
+      "id": "hanhviphaply_quyetdinh_giaodat_chothuedat",
+      "label": "HànhViPhápLý",
+      "name": "quyết định giao đất, cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_thuhoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_boi_thuong_ho_tro_tai_dinh_cu",
+      "label": "HànhViPhápLý",
+      "name": "bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_giai_phong_mat_bang",
+      "label": "HànhViPhápLý",
+      "name": "giải phóng mặt bằng"
+    },
+    {
+      "id": "dieukien_co_quan_nha_nuoc_co_tham_quyen_quyet_dinh_thu_hoi_dat",
+      "label": "ĐiềuKiện",
+      "name": "sau khi cơ quan nhà nước có thẩm quyền quyết định thu hồi đất theo quy định của Luật này"
+    },
+    {
+      "id": "dieukien_thuc_hien_xong_viec_boi_thuong_ho_tro_tai_dinh_cu",
+      "label": "ĐiềuKiện",
+      "name": "phải thực hiện xong việc bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật đối với trường hợp phải giải phóng mặt bằng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_53",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giaodat_chothuedat_doivoi_dat_dang_co_nguoi_su_dung_cho_nguoi_khac"
+    },
+    {
+      "source_id": "dieu_53",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyetdinh_giaodat_chothuedat"
+    },
+    {
+      "source_id": "dieu_53",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuhoi_dat"
+    },
+    {
+      "source_id": "dieu_53",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieu_53",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_giai_phong_mat_bang"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quyetdinh_giaodat_chothuedat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinh_giaodat_chothuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_khac"
+    },
+    {
+      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuhoi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinh_giaodat_chothuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_quan_nha_nuoc_co_tham_quyen_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinh_giaodat_chothuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuc_hien_xong_viec_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_co_quan_nha_nuoc_co_tham_quyen_quyet_dinh_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuhoi_dat"
+    },
+    {
+      "source_id": "dieukien_thuc_hien_xong_viec_boi_thuong_ho_tro_tai_dinh_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_boi_thuong_ho_tro_tai_dinh_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_giai_phong_mat_bang"
+    }
+  ]
+}

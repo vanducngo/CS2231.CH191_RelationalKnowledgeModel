@@ -1,0 +1,96 @@
+{
+  "entities": [
+    {
+      "id": "dieu_14",
+      "label": "ĐiềuLuật",
+      "name": "Điều 14"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_quyetdinhmucdichsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "quyết định mục đích sử dụng đất"
+    },
+    {
+      "id": "khaikiem_mucdichsudungdat",
+      "label": "KháiNiệm",
+      "name": "mục đích sử dụng đất"
+    },
+    {
+      "id": "khaikiem_quyhoachsudungdat",
+      "label": "KháiNiệm",
+      "name": "quy hoạch sử dụng đất"
+    },
+    {
+      "id": "khaikiem_kehoachsudungdat",
+      "label": "KháiNiệm",
+      "name": "kế hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chophepchuyenmucdichsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "cho phép chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển mục đích sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_14",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "dieu_14",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quyetdinhmucdichsudungdat"
+    },
+    {
+      "source_id": "dieu_14",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chophepchuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quyetdinhmucdichsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhmucdichsudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_mucdichsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_quyhoachsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhmucdichsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_kehoachsudungdat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chophepchuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chophepchuyenmucdichsudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_mucdichsudungdat"
+    }
+  ]
+}

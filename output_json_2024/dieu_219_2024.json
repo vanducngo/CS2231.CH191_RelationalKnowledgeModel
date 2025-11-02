@@ -1,0 +1,526 @@
+{
+  "entities": [
+    {
+      "id": "dieu_219",
+      "label": "ĐiềuLuật",
+      "name": "Điều 219"
+    },
+    {
+      "id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Góp quyền sử dụng đất, điều chỉnh lại đất đai"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "chuthe_co_quan_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_sap_xep_lai_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "sắp xếp lại đất đai"
+    },
+    {
+      "id": "hanhviphaply_dieu_chinh_lai_toan_bo_hoac_mot_phan_dien_tich_dat",
+      "label": "HànhViPhápLý",
+      "name": "điều chỉnh lại toàn bộ hoặc một phần diện tích đất"
+    },
+    {
+      "id": "hanhviphaply_dong_thuan",
+      "label": "HànhViPhápLý",
+      "name": "đồng thuận"
+    },
+    {
+      "id": "khainiem_phuong_an_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "label": "KháiNiệm",
+      "name": "Phương án góp quyền sử dụng đất, điều chỉnh lại đất đai"
+    },
+    {
+      "id": "hanhviphaply_phe_duyet_phuong_an",
+      "label": "HànhViPhápLý",
+      "name": "phê duyệt phương án"
+    },
+    {
+      "id": "hanhviphaply_tap_trung_dat_nong_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "Tập trung đất nông nghiệp"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_san_xuat",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện sản xuất"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_du_an_chinh_trang_phat_trien_khu_dan_cu_nong_thon",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện dự án chỉnh trang, phát triển khu dân cư nông thôn"
+    },
+    {
+      "id": "hanhviphaply_mo_rong_nang_cap_duong_giao_thong_nong_thon",
+      "label": "HànhViPhápLý",
+      "name": "mở rộng, nâng cấp đường giao thông nông thôn"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_du_an_chinh_trang_phat_trien_do_thi",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện dự án chỉnh trang, phát triển đô thị"
+    },
+    {
+      "id": "hanhviphaply_cai_tao_nang_cap_xay_dung_lai_khu_nha_chung_cu",
+      "label": "HànhViPhápLý",
+      "name": "cải tạo, nâng cấp hoặc xây dựng lại các khu nhà chung cư"
+    },
+    {
+      "id": "hanhviphaply_mo_rong_nang_cap_duong_giao_thong_trong_do_thi",
+      "label": "HànhViPhápLý",
+      "name": "mở rộng, nâng cấp đường giao thông trong đô thị"
+    },
+    {
+      "id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat_va_xay_dung_do_thi",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với quy hoạch, kế hoạch sử dụng đất; quy hoạch xây dựng; quy hoạch đô thị"
+    },
+    {
+      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_quy_hoach_xay_dung",
+      "label": "KháiNiệm",
+      "name": "quy hoạch xây dựng"
+    },
+    {
+      "id": "khainiem_quy_hoach_do_thi",
+      "label": "KháiNiệm",
+      "name": "quy hoạch đô thị"
+    },
+    {
+      "id": "dieukien_phuong_an_duoc_dong_thuan_va_phe_duyet",
+      "label": "ĐiềuKiện",
+      "name": "Có phương án góp quyền sử dụng đất, điều chỉnh lại đất đai được người sử dụng đất đồng thuận và được cơ quan có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "khainiem_hien_trang_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Hiện trạng sử dụng đất"
+    },
+    {
+      "id": "khainiem_ha_tang_ky_thuat",
+      "label": "KháiNiệm",
+      "name": "hạ tầng kỹ thuật"
+    },
+    {
+      "id": "khainiem_ha_tang_xa_hoi",
+      "label": "KháiNiệm",
+      "name": "hạ tầng xã hội"
+    },
+    {
+      "id": "khainiem_ha_tang_moi_truong",
+      "label": "KháiNiệm",
+      "name": "hạ tầng môi trường"
+    },
+    {
+      "id": "khainiem_dien_tich_dat_nhan_lai",
+      "label": "KháiNiệm",
+      "name": "Vị trí, diện tích đất được nhận lại"
+    },
+    {
+      "id": "khainiem_dien_tich_dat_do_co_quan_to_chuc_nha_nuoc_quan_ly",
+      "label": "KháiNiệm",
+      "name": "diện tích đất do cơ quan, tổ chức của Nhà nước quản lý"
+    },
+    {
+      "id": "hanhviphaply_su_dung_de_xay_dung_nang_cap_he_thong_ha_tang",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng để xây dựng, nâng cấp hệ thống hạ tầng, dịch vụ công cộng khu dân cư"
+    },
+    {
+      "id": "hanhviphaply_dau_gia_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_tien_thu_tu_dau_gia",
+      "label": "KháiNiệm",
+      "name": "Tiền thu được từ việc đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_du_an",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện dự án"
+    },
+    {
+      "id": "dieukien_co_du_an_dau_tu",
+      "label": "ĐiềuKiện",
+      "name": "phải có dự án đầu tư"
+    },
+    {
+      "id": "khainiem_du_an_dau_tu",
+      "label": "KháiNiệm",
+      "name": "dự án đầu tư"
+    },
+    {
+      "id": "chuthe_cong_dong_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "cộng đồng người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nha_dau_tu",
+      "label": "ChủThể",
+      "name": "nhà đầu tư"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_du_an_dau_tu",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện dự án đầu tư"
+    },
+    {
+      "id": "hanhviphaply_lien_danh_lien_ket",
+      "label": "HànhViPhápLý",
+      "name": "liên danh, liên kết"
+    },
+    {
+      "id": "hanhviphaply_cung_cap_thong_tin",
+      "label": "HànhViPhápLý",
+      "name": "Cung cấp thông tin"
+    },
+    {
+      "id": "hanhviphaply_cap_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_219",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sap_xep_lai_dat_dai"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_dieu_chinh_lai_toan_bo_hoac_mot_phan_dien_tich_dat"
+    },
+    {
+      "source_id": "hanhviphaply_sap_xep_lai_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_dong_thuan"
+    },
+    {
+      "source_id": "hanhviphaply_dieu_chinh_lai_toan_bo_hoac_mot_phan_dien_tich_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_dong_thuan"
+    },
+    {
+      "source_id": "hanhviphaply_dong_thuan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phuong_an_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai"
+    },
+    {
+      "source_id": "khainiem_phuong_an_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phe_duyet_phuong_an"
+    },
+    {
+      "source_id": "hanhviphaply_phe_duyet_phuong_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_co_quan_co_tham_quyen"
+    },
+    {
+      "source_id": "dieu_219",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tap_trung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_tap_trung_dat_nong_nghiep",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuc_hien_san_xuat"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_du_an_chinh_trang_phat_trien_khu_dan_cu_nong_thon"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_mo_rong_nang_cap_duong_giao_thong_nong_thon"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_du_an_chinh_trang_phat_trien_do_thi"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_cai_tao_nang_cap_xay_dung_lai_khu_nha_chung_cu"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_mo_rong_nang_cap_duong_giao_thong_trong_do_thi"
+    },
+    {
+      "source_id": "dieu_219",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat_va_xay_dung_do_thi"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat_va_xay_dung_do_thi"
+    },
+    {
+      "source_id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat_va_xay_dung_do_thi",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat_va_xay_dung_do_thi",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_xay_dung"
+    },
+    {
+      "source_id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat_va_xay_dung_do_thi",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_do_thi"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuong_an_duoc_dong_thuan_va_phe_duyet"
+    },
+    {
+      "source_id": "dieukien_phuong_an_duoc_dong_thuan_va_phe_duyet",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_phuong_an_duoc_dong_thuan_va_phe_duyet",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phe_duyet_phuong_an"
+    },
+    {
+      "source_id": "hanhviphaply_phe_duyet_phuong_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_phe_duyet_phuong_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
+    },
+    {
+      "source_id": "dieu_219",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_phuong_an_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai"
+    },
+    {
+      "source_id": "khainiem_phuong_an_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hien_trang_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_phuong_an_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_phuong_an_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sap_xep_lai_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_sap_xep_lai_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ha_tang_ky_thuat"
+    },
+    {
+      "source_id": "hanhviphaply_sap_xep_lai_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ha_tang_xa_hoi"
+    },
+    {
+      "source_id": "hanhviphaply_sap_xep_lai_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ha_tang_moi_truong"
+    },
+    {
+      "source_id": "khainiem_phuong_an_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dien_tich_dat_nhan_lai"
+    },
+    {
+      "source_id": "khainiem_dien_tich_dat_nhan_lai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_219",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dien_tich_dat_do_co_quan_to_chuc_nha_nuoc_quan_ly"
+    },
+    {
+      "source_id": "khainiem_dien_tich_dat_do_co_quan_to_chuc_nha_nuoc_quan_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_su_dung_de_xay_dung_nang_cap_he_thong_ha_tang"
+    },
+    {
+      "source_id": "khainiem_dien_tich_dat_do_co_quan_to_chuc_nha_nuoc_quan_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_dau_gia_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_dau_gia_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_tien_thu_tu_dau_gia"
+    },
+    {
+      "source_id": "khainiem_tien_thu_tu_dau_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_du_an"
+    },
+    {
+      "source_id": "khainiem_gop_quyen_su_dung_dat_dieu_chinh_lai_dat_dai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_du_an_dau_tu"
+    },
+    {
+      "source_id": "dieukien_co_du_an_dau_tu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_du_an_dau_tu"
+    },
+    {
+      "source_id": "dieukien_co_du_an_dau_tu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_cong_dong_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_cong_dong_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuc_hien_du_an_dau_tu"
+    },
+    {
+      "source_id": "chuthe_cong_dong_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lien_danh_lien_ket"
+    },
+    {
+      "source_id": "hanhviphaply_lien_danh_lien_ket",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_dau_tu"
+    },
+    {
+      "source_id": "dieu_219",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "dieu_219",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cung_cap_thong_tin"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cung_cap_thong_tin"
+    },
+    {
+      "source_id": "hanhviphaply_cung_cap_thong_tin",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hien_trang_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_cung_cap_thong_tin",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_cung_cap_thong_tin",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_xay_dung"
+    },
+    {
+      "source_id": "hanhviphaply_cung_cap_thong_tin",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_do_thi"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_cap_giay_chung_nhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "dieu_219",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinh_phu"
+    }
+  ]
+}

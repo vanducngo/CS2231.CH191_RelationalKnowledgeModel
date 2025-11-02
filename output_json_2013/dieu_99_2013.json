@@ -1,0 +1,446 @@
+{
+  "entities": [
+    {
+      "id": "dieu_99",
+      "name": "Điều 99",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khauniem_giay_chung_nhan",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khauniem_truong_hop_su_dung_dat",
+      "name": "Trường hợp sử dụng đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "name": "Nhà nước",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_dang_su_dung_dat",
+      "name": "Người đang sử dụng đất",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat",
+      "name": "Người được Nhà nước giao đất, cho thuê đất",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_nhan_quyen_chuyen_doi_thua_ke_tang_cho_gop_von",
+      "name": "Người được chuyển đổi, nhận chuyển nhượng, được thừa kế, nhận tặng cho quyền sử dụng đất, nhận góp vốn bằng quyền sử dụng đất",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_nhan_quyen_xu_ly_the_chap",
+      "name": "Người nhận quyền sử dụng đất khi xử lý hợp đồng thế chấp bằng quyền sử dụng đất để thu hồi nợ",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_duoc_su_dung_dat_hoa_giai_thanh",
+      "name": "Người được sử dụng đất theo kết quả hòa giải thành đối với tranh chấp đất đai",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_duoc_su_dung_dat_ban_an_toa_an",
+      "name": "Người được sử dụng đất theo bản án hoặc quyết định của Tòa án nhân dân, quyết định thi hành án của cơ quan thi hành án hoặc quyết định giải quyết tranh chấp, khiếu nại, tố cáo về đất đai của cơ quan nhà nước có thẩm quyền đã được thi hành",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_trung_dau_gia",
+      "name": "Người trúng đấu giá quyền sử dụng đất",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat_khu_cong_nghiep",
+      "name": "Người sử dụng đất trong khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_mua_nha_o_tai_san_gan_lien",
+      "name": "Người mua nhà ở, tài sản khác gắn liền với đất",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_duoc_nha_nuoc_thanh_ly_hoa_gia",
+      "name": "Người được Nhà nước thanh lý, hóa giá nhà ở gắn liền với đất ở",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_mua_nha_o_so_huu_nha_nuoc",
+      "name": "Người mua nhà ở thuộc sở hữu nhà nước",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat_tach_thua_hop_thua",
+      "name": "Người sử dụng đất tách thửa, hợp thửa",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nhom_nguoi_su_dung_dat_chia_tach_hop_nhat",
+      "name": "Nhóm người sử dụng đất hoặc các thành viên hộ gia đình, hai vợ chồng, tổ chức sử dụng đất chia tách, hợp nhất quyền sử dụng đất hiện có",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat_de_nghi_cap_doi_cap_lai",
+      "name": "Người sử dụng đất đề nghị cấp đổi hoặc cấp lại Giấy chứng nhận bị mất",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "name": "Chính phủ",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_cap_giay_chung_nhan",
+      "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_giao_dat",
+      "name": "giao đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_dat",
+      "name": "cho thuê đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_chuyen_doi",
+      "name": "chuyển đổi quyền sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_nhan_chuyen_nhuong",
+      "name": "nhận chuyển nhượng quyền sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_thua_ke",
+      "name": "thừa kế quyền sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_nhan_tang_cho",
+      "name": "nhận tặng cho quyền sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_nhan_gop_von",
+      "name": "nhận góp vốn bằng quyền sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_xu_ly_hop_dong_the_chap",
+      "name": "xử lý hợp đồng thế chấp bằng quyền sử dụng đất để thu hồi nợ",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_hoa_giai_thanh_tranh_chap",
+      "name": "hòa giải thành đối với tranh chấp đất đai",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_ket_qua_ban_an_quyet_dinh",
+      "name": "bản án hoặc quyết định của Tòa án nhân dân, quyết định thi hành án của cơ quan thi hành án hoặc quyết định giải quyết tranh chấp, khiếu nại, tố cáo về đất đai của cơ quan nhà nước có thẩm quyền đã được thi hành",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_dau_gia_quyen",
+      "name": "đấu giá quyền sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_mua_nha",
+      "name": "mua nhà ở, tài sản khác gắn liền với đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_thanh_ly_hoa_gia",
+      "name": "thanh lý, hóa giá nhà ở gắn liền với đất ở",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_mua_nha_so_huu_nha_nuoc",
+      "name": "mua nhà ở thuộc sở hữu nhà nước",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_tach_thua",
+      "name": "tách thửa",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_hop_thua",
+      "name": "hợp thửa",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_chia_tach_quyen",
+      "name": "chia tách quyền sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_hop_nhat_quyen",
+      "name": "hợp nhất quyền sử dụng đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_de_nghi_cap_doi",
+      "name": "đề nghị cấp đổi Giấy chứng nhận",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_de_nghi_cap_lai",
+      "name": "đề nghị cấp lại Giấy chứng nhận bị mất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet",
+      "name": "quy định chi tiết Điều này",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_du_dieu_kien",
+      "name": "có đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo quy định tại các điều 100, 101 và 102 của Luật này",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_sau_ngay_luat_co_hieu_luc",
+      "name": "từ sau ngày Luật này có hiệu lực thi hành",
+      "label": "ĐiềuKiện"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_99",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_cap_giay_chung_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_giay_chung_nhan"
+    },
+    {
+      "source_id": "khauniem_truong_hop_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_dang_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_dang_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_du_dieu_kien"
+    },
+    {
+      "source_id": "dieukien_du_dieu_kien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giao_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_cho_thue_dat"
+    },
+    {
+      "source_id": "hanhviphaply_giao_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_nha_nuoc_giao_dat_cho_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sau_ngay_luat_co_hieu_luc"
+    },
+    {
+      "source_id": "chuthe_nguoi_nhan_quyen_chuyen_doi_thua_ke_tang_cho_gop_von",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_nhan_quyen_xu_ly_the_chap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_doi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_thua_ke",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_tang_cho",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_xu_ly_hop_dong_the_chap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_su_dung_dat_hoa_giai_thanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_su_dung_dat_ban_an_toa_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_hoa_giai_thanh_tranh_chap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_ket_qua_ban_an_quyet_dinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_trung_dau_gia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_dau_gia_quyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat_khu_cong_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_mua_nha_o_tai_san_gan_lien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_mua_nha",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_duoc_nha_nuoc_thanh_ly_hoa_gia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_mua_nha_o_so_huu_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thanh_ly_hoa_gia",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_mua_nha_so_huu_nha_nuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat_tach_thua_hop_thua",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nhom_nguoi_su_dung_dat_chia_tach_hop_nhat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_tach_thua",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_hop_thua",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_chia_tach_quyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_hop_nhat_quyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat_de_nghi_cap_doi_cap_lai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khauniem_truong_hop_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_de_nghi_cap_doi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_de_nghi_cap_lai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_99"
+    }
+  ]
+}

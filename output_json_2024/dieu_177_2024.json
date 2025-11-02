@@ -1,0 +1,116 @@
+{
+  "entities": [
+    {
+      "id": "dieu_177",
+      "label": "ĐiềuLuật",
+      "name": "Điều 177"
+    },
+    {
+      "id": "khainiem_hanmucnhanchuyenquyensudungdatnongnghiepcuacanhan",
+      "label": "KháiNiệm",
+      "name": "Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "khainiem_hanmucgiaodatnongnghiepcuacanhan",
+      "label": "KháiNiệm",
+      "name": "hạn mức giao đất nông nghiệp của cá nhân"
+    },
+    {
+      "id": "hanhviphaply_xacdinhhanmucnhanchuyenquyensudungdatnongnghiep",
+      "label": "HànhViPhápLý",
+      "name": "Việc xác định hạn mức nhận chuyển quyền sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "dieukien_dieukienvedatdaivacongnghesanxuat",
+      "label": "ĐiềuKiện",
+      "name": "Điều kiện về đất đai và công nghệ sản xuất"
+    },
+    {
+      "id": "dieukien_chuyendichlucluonglaodongcocaukekinhte",
+      "label": "ĐiềuKiện",
+      "name": "Chuyển dịch lực lượng lao động, cơ cấu kinh tế"
+    },
+    {
+      "id": "dieukien_quatrinhdothihhoa",
+      "label": "ĐiềuKiện",
+      "name": "quá trình đô thị hóa"
+    },
+    {
+      "id": "chuthe_ubannhandancaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_quydinhhanmucnhanchuyenquyensudungdatnongnghiepcuacanhan",
+      "label": "HànhViPhápLý",
+      "name": "quy định hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân"
+    },
+    {
+      "id": "dieukien_dieukienthecuadiaphuong",
+      "label": "ĐiềuKiện",
+      "name": "điều kiện cụ thể của địa phương"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_177",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hanmucnhanchuyenquyensudungdatnongnghiepcuacanhan"
+    },
+    {
+      "source_id": "khainiem_hanmucnhanchuyenquyensudungdatnongnghiepcuacanhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "khainiem_hanmucnhanchuyenquyensudungdatnongnghiepcuacanhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hanmucgiaodatnongnghiepcuacanhan"
+    },
+    {
+      "source_id": "dieu_177",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xacdinhhanmucnhanchuyenquyensudungdatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhhanmucnhanchuyenquyensudungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dieukienvedatdaivacongnghesanxuat"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhhanmucnhanchuyenquyensudungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chuyendichlucluonglaodongcocaukekinhte"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinhhanmucnhanchuyenquyensudungdatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quatrinhdothihhoa"
+    },
+    {
+      "source_id": "chuthe_ubannhandancaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quydinhhanmucnhanchuyenquyensudungdatnongnghiepcuacanhan"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhhanmucnhanchuyenquyensudungdatnongnghiepcuacanhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_hanmucnhanchuyenquyensudungdatnongnghiepcuacanhan"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhhanmucnhanchuyenquyensudungdatnongnghiepcuacanhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xacdinhhanmucnhanchuyenquyensudungdatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_quydinhhanmucnhanchuyenquyensudungdatnongnghiepcuacanhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dieukienthecuadiaphuong"
+    }
+  ]
+}

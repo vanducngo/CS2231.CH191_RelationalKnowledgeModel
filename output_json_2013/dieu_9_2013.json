@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "id": "dieu_9",
+      "label": "ĐiềuLuật",
+      "name": "Điều 9"
+    },
+    {
+      "id": "khainiem_khuyenkhichdautuvadai",
+      "label": "KháiNiệm",
+      "name": "Khuyến khích đầu tư vào đất đai"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_chinhsachkhuyenkhich",
+      "label": "HànhViPhápLý",
+      "name": "chính sách khuyến khích"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_dautu",
+      "label": "HànhViPhápLý",
+      "name": "đầu tư"
+    },
+    {
+      "id": "khainiem_laodong",
+      "label": "KháiNiệm",
+      "name": "lao động"
+    },
+    {
+      "id": "khainiem_vattutienvon",
+      "label": "KháiNiệm",
+      "name": "vật tư tiền vốn"
+    },
+    {
+      "id": "khainiem_thanhtuuhoahoccongnghe",
+      "label": "KháiNiệm",
+      "name": "thành tựu khoa học, công nghệ"
+    },
+    {
+      "id": "hanhviphaply_baovecaitaolamtangdomaumocuadat",
+      "label": "HànhViPhápLý",
+      "name": "Bảo vệ, cải tạo, làm tăng độ màu mỡ của đất"
+    },
+    {
+      "id": "hanhviphaply_khaihoangphuchuoilanbien",
+      "label": "HànhViPhápLý",
+      "name": "Khai hoang, phục hóa, lấn biển"
+    },
+    {
+      "id": "hanhviphaply_duadienhdattronghoanghoavasudung",
+      "label": "HànhViPhápLý",
+      "name": "đưa diện tích đất trống, đồi núi trọc, đất có mặt nước hoang hóa vào sử dụng"
+    },
+    {
+      "id": "khainiem_quyhoachkehoachsudungdat",
+      "label": "KháiNiệm",
+      "name": "quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_phattrienketcauhatang",
+      "label": "HànhViPhápLý",
+      "name": "Phát triển kết cấu hạ tầng để làm tăng giá trị của đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_9",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_khuyenkhichdautuvadai"
+    },
+    {
+      "source_id": "dieu_9",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chinhsachkhuyenkhich"
+    },
+    {
+      "source_id": "hanhviphaply_chinhsachkhuyenkhich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_chinhsachkhuyenkhich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_dautu"
+    },
+    {
+      "source_id": "hanhviphaply_dautu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_laodong"
+    },
+    {
+      "source_id": "hanhviphaply_dautu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_vattutienvon"
+    },
+    {
+      "source_id": "hanhviphaply_dautu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thanhtuuhoahoccongnghe"
+    },
+    {
+      "source_id": "hanhviphaply_dautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_baovecaitaolamtangdomaumocuadat"
+    },
+    {
+      "source_id": "hanhviphaply_dautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_khaihoangphuchuoilanbien"
+    },
+    {
+      "source_id": "hanhviphaply_dautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_duadienhdattronghoanghoavasudung"
+    },
+    {
+      "source_id": "hanhviphaply_duadienhdattronghoanghoavasudung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyhoachkehoachsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_dautu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_phattrienketcauhatang"
+    }
+  ]
+}

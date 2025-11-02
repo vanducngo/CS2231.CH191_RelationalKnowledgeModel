@@ -1,0 +1,81 @@
+{
+  "entities": [
+    {
+      "id": "dieu_239",
+      "label": "ĐiềuLuật",
+      "name": "Điều 239"
+    },
+    {
+      "id": "chuthe_nguoi",
+      "label": "ChủThể",
+      "name": "Người"
+    },
+    {
+      "id": "hanhviphaply_hanhviphamphapluatvedatdai",
+      "label": "HànhViPhápLý",
+      "name": "hành vi vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "chetai_xulykyluat",
+      "label": "ChếTài",
+      "name": "xử lý kỷ luật"
+    },
+    {
+      "id": "chetai_xulyviphamhanhchinh",
+      "label": "ChếTài",
+      "name": "xử lý vi phạm hành chính"
+    },
+    {
+      "id": "chetai_truycautrachnhiemhinhsu",
+      "label": "ChếTài",
+      "name": "truy cứu trách nhiệm hình sự"
+    },
+    {
+      "id": "chetai_boithuong",
+      "label": "ChếTài",
+      "name": "bồi thường"
+    },
+    {
+      "id": "dieukien_gaythiethai",
+      "label": "ĐiềuKiện",
+      "name": "gây thiệt hại"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_239",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_hanhviphamphapluatvedatdai"
+    },
+    {
+      "source_id": "hanhviphaply_hanhviphamphapluatvedatdai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi"
+    },
+    {
+      "source_id": "chuthe_nguoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_xulykyluat"
+    },
+    {
+      "source_id": "chuthe_nguoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_xulyviphamhanhchinh"
+    },
+    {
+      "source_id": "chuthe_nguoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_truycautrachnhiemhinhsu"
+    },
+    {
+      "source_id": "dieukien_gaythiethai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetai_boithuong"
+    },
+    {
+      "source_id": "chetai_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi"
+    }
+  ]
+}

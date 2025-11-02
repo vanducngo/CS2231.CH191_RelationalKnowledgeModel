@@ -1,0 +1,136 @@
+{
+  "graph": {
+    "entities": [
+      {
+        "id": "dieu_163",
+        "label": "ĐiềuLuật",
+        "properties": {
+          "name": "Điều 163. Hệ thống thông tin quốc gia về đất đai",
+          "text": "1. Hệ thống thông tin quốc gia về  đất đai được xây dựng tập trung, thống nhất từ trung ương đến địa phương, đồng bộ, đa mục tiêu và kết nối liên thông trên phạm vi cả nước. 2. Hệ thống thông tin quốc gia về đất đai được xây dựng phục vụ công tác quản lý nhà nước về đất đai, cải cách hành chính, chuyển đổi số trong lĩnh vực đất đai; kết nối, chia sẻ dữ liệu với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu của các Bộ, ngành, địa phương tạo nền tảng phát triển Chính phủ điện tử, hướng tới Chính phủ số, nền kinh tế số và xã hội số. 3. Hệ thống thông tin quốc gia về  đất đai bao gồm các thành phần cơ bản sau đây: a) Hạ tầng kỹ thuật công nghệ thông tin; b) Phần mềm của Hệ thống thông tin quốc gia về đất đai; c) Cơ sở dữ liệu quốc gia về đất đai."
+        }
+      },
+      {
+        "id": "khainiem_hethongthongtinqgvedatdai",
+        "label": "KháiNiệm",
+        "properties": {
+          "name": "Hệ thống thông tin quốc gia về đất đai"
+        }
+      },
+      {
+        "id": "dieu_kien_xaydungtaptrungthongnhatdongbo",
+        "label": "ĐiềuKiện",
+        "properties": {
+          "name": "Xây dựng tập trung, thống nhất, đồng bộ, đa mục tiêu và kết nối liên thông"
+        }
+      },
+      {
+        "id": "khainiem_congtacqlnnvedatdai",
+        "label": "KháiNiệm",
+        "properties": {
+          "name": "Công tác quản lý nhà nước về đất đai"
+        }
+      },
+      {
+        "id": "khainiem_caicachhanhchinh",
+        "label": "KháiNiệm",
+        "properties": {
+          "name": "Cải cách hành chính"
+        }
+      },
+      {
+        "id": "khainiem_chuyendoisotronglinhvucdatdai",
+        "label": "KháiNiệm",
+        "properties": {
+          "name": "Chuyển đổi số trong lĩnh vực đất đai"
+        }
+      },
+      {
+        "id": "hanhviphaply_ketnoichiasedulieu",
+        "label": "HànhViPhápLý",
+        "properties": {
+          "name": "Kết nối, chia sẻ dữ liệu"
+        }
+      },
+      {
+        "id": "khainiem_chinhphudientuvaso",
+        "label": "KháiNiệm",
+        "properties": {
+          "name": "Chính phủ điện tử, Chính phủ số, nền kinh tế số và xã hội số"
+        }
+      },
+      {
+        "id": "khainiem_hatangkythuatcntt",
+        "label": "KháiNiệm",
+        "properties": {
+          "name": "Hạ tầng kỹ thuật công nghệ thông tin"
+        }
+      },
+      {
+        "id": "khainiem_phanmemcuahthongtinqgvedatdai",
+        "label": "KháiNiệm",
+        "properties": {
+          "name": "Phần mềm của Hệ thống thông tin quốc gia về đất đai"
+        }
+      },
+      {
+        "id": "khainiem_cosodulieuqgvedatdai",
+        "label": "KháiNiệm",
+        "properties": {
+          "name": "Cơ sở dữ liệu quốc gia về đất đai"
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "source_id": "dieu_163",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "khainiem_hethongthongtinqgvedatdai"
+      },
+      {
+        "source_id": "khainiem_hethongthongtinqgvedatdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "dieu_kien_xaydungtaptrungthongnhatdongbo"
+      },
+      {
+        "source_id": "khainiem_hethongthongtinqgvedatdai",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_congtacqlnnvedatdai"
+      },
+      {
+        "source_id": "khainiem_hethongthongtinqgvedatdai",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_caicachhanhchinh"
+      },
+      {
+        "source_id": "khainiem_hethongthongtinqgvedatdai",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_chuyendoisotronglinhvucdatdai"
+      },
+      {
+        "source_id": "khainiem_hethongthongtinqgvedatdai",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "hanhviphaply_ketnoichiasedulieu"
+      },
+      {
+        "source_id": "hanhviphaply_ketnoichiasedulieu",
+        "relationship_type": "DẪN_ĐẾN",
+        "target_id": "khainiem_chinhphudientuvaso"
+      },
+      {
+        "source_id": "khainiem_hethongthongtinqgvedatdai",
+        "relationship_type": "ĐỊNH_NGHĨA",
+        "target_id": "khainiem_hatangkythuatcntt"
+      },
+      {
+        "source_id": "khainiem_hethongthongtinqgvedatdai",
+        "relationship_type": "ĐỊNH_NGHĨA",
+        "target_id": "khainiem_phanmemcuahthongtinqgvedatdai"
+      },
+      {
+        "source_id": "khainiem_hethongthongtinqgvedatdai",
+        "relationship_type": "ĐỊNH_NGHĨA",
+        "target_id": "khainiem_cosodulieuqgvedatdai"
+      }
+    ]
+  }
+}

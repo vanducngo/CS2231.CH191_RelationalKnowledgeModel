@@ -1,0 +1,246 @@
+{
+  "entities": [
+    {
+      "id": "dieu_122",
+      "label": "ĐiềuLuật",
+      "name": "Điều 122"
+    },
+    {
+      "id": "khauniem_thongtin_csdldd",
+      "label": "KháiNiệm",
+      "name": "Thông tin trong cơ sở dữ liệu đất đai"
+    },
+    {
+      "id": "khauniem_cosodulieu_datdai",
+      "label": "KháiNiệm",
+      "name": "Cơ sở dữ liệu đất đai"
+    },
+    {
+      "id": "khauniem_giatri_phaply",
+      "label": "KháiNiệm",
+      "name": "Giá trị pháp lý"
+    },
+    {
+      "id": "khauniem_hosogiay",
+      "label": "KháiNiệm",
+      "name": "Hồ sơ dạng giấy"
+    },
+    {
+      "id": "khauniem_taisannhanuoc",
+      "label": "KháiNiệm",
+      "name": "Tài sản của Nhà nước"
+    },
+    {
+      "id": "khauniem_an_ninh_an_toan",
+      "label": "KháiNiệm",
+      "name": "An ninh, an toàn chặt chẽ"
+    },
+    {
+      "id": "khauniem_congthongtin_datdai",
+      "label": "KháiNiệm",
+      "name": "Cổng thông tin đất đai"
+    },
+    {
+      "id": "khauniem_phi",
+      "label": "KháiNiệm",
+      "name": "Phí"
+    },
+    {
+      "id": "khauniem_quydinhphapluat",
+      "label": "KháiNiệm",
+      "name": "Quy định của pháp luật"
+    },
+    {
+      "id": "chuthe_coquannhanuoc_cothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "hanhviphanly_quanly_khaithac_csdldd",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý, khai thác cơ sở dữ liệu đất đai"
+    },
+    {
+      "id": "hanhviphanly_cungcap_thongtin",
+      "label": "HànhViPhápLý",
+      "name": "Cung cấp thông tin"
+    },
+    {
+      "id": "hanhviphanly_dam_bao_anninh_antoan",
+      "label": "HànhViPhápLý",
+      "name": "Bảo đảm an ninh, an toàn chặt chẽ"
+    },
+    {
+      "id": "hanhviphanly_truycap_traiphep",
+      "label": "HànhViPhápLý",
+      "name": "Truy cập trái phép"
+    },
+    {
+      "id": "hanhviphanly_pha_hoai",
+      "label": "HànhViPhápLý",
+      "name": "Phá hoại"
+    },
+    {
+      "id": "hanhviphanly_lam_sai_lech_thongtin",
+      "label": "HànhViPhápLý",
+      "name": "Làm sai lệch thông tin"
+    },
+    {
+      "id": "hanhviphanly_khaithac_sudung_thongtin",
+      "label": "HànhViPhápLý",
+      "name": "Khai thác, sử dụng thông tin, dữ liệu đất đai"
+    },
+    {
+      "id": "hanhviphanly_nop_phi",
+      "label": "HànhViPhápLý",
+      "name": "Nộp phí"
+    },
+    {
+      "id": "hanhviphanly_thuchien_dung_quydinh_phapluat",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện đúng quy định của pháp luật"
+    },
+    {
+      "id": "chetuan_nghiemcam",
+      "label": "ChếTài",
+      "name": "Nghiêm cấm"
+    },
+    {
+      "id": "dieukien_conhu_cau_thongtin",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu về thông tin, dữ liệu đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_122",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphanly_quanly_khaithac_csdldd"
+    },
+    {
+      "source_id": "hanhviphanly_cungcap_thongtin",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_thongtin_csdldd"
+    },
+    {
+      "source_id": "chuthe_coquannhanuoc_cothamquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphanly_cungcap_thongtin"
+    },
+    {
+      "source_id": "khauniem_thongtin_csdldd",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_giatri_phaply"
+    },
+    {
+      "source_id": "khauniem_giatri_phaply",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_hosogiay"
+    },
+    {
+      "source_id": "khauniem_cosodulieu_datdai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_taisannhanuoc"
+    },
+    {
+      "source_id": "khauniem_cosodulieu_datdai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphanly_dam_bao_anninh_antoan"
+    },
+    {
+      "source_id": "hanhviphanly_dam_bao_anninh_antoan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_an_ninh_an_toan"
+    },
+    {
+      "source_id": "chetuan_nghiemcam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphanly_truycap_traiphep"
+    },
+    {
+      "source_id": "hanhviphanly_truycap_traiphep",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_cosodulieu_datdai"
+    },
+    {
+      "source_id": "chetuan_nghiemcam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphanly_pha_hoai"
+    },
+    {
+      "source_id": "hanhviphanly_pha_hoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_cosodulieu_datdai"
+    },
+    {
+      "source_id": "chetuan_nghiemcam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphanly_lam_sai_lech_thongtin"
+    },
+    {
+      "source_id": "hanhviphanly_lam_sai_lech_thongtin",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_thongtin_csdldd"
+    },
+    {
+      "source_id": "chuthe_tochuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_conhu_cau_thongtin"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_conhu_cau_thongtin"
+    },
+    {
+      "source_id": "dieukien_conhu_cau_thongtin",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphanly_khaithac_sudung_thongtin"
+    },
+    {
+      "source_id": "hanhviphanly_khaithac_sudung_thongtin",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_thongtin_csdldd"
+    },
+    {
+      "source_id": "hanhviphanly_khaithac_sudung_thongtin",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_congthongtin_datdai"
+    },
+    {
+      "source_id": "hanhviphanly_khaithac_sudung_thongtin",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphanly_nop_phi"
+    },
+    {
+      "source_id": "hanhviphanly_nop_phi",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_phi"
+    },
+    {
+      "source_id": "hanhviphanly_khaithac_sudung_thongtin",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphanly_thuchien_dung_quydinh_phapluat"
+    },
+    {
+      "source_id": "hanhviphanly_thuchien_dung_quydinh_phapluat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quydinhphapluat"
+    }
+  ]
+}

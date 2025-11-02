@@ -1,0 +1,371 @@
+{
+  "entities": [
+    {
+      "id": "dieu_73",
+      "label": "ĐiềuLuật",
+      "name": "Điều 73"
+    },
+    {
+      "id": "khaikiem_rasoat_dieuchinh_qh_khsd",
+      "label": "KháiNiệm",
+      "name": "Rà soát, điều chỉnh quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "chuthe_coquan_thamquyen_qd_pd",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền quyết định hoặc phê duyệt"
+    },
+    {
+      "id": "chuthe_coquan_thamquyen_tl_qh_khsd",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền tổ chức lập quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "chuthe_coquan_thamquyen_tl_qhsd",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền tổ chức lập quy hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_dieuchinh_qh_khsd",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_do_coquan_thamquyen_qd_pd_qh_khsd",
+      "label": "ĐiềuKiện",
+      "name": "phải do cơ quan có thẩm quyền quyết định hoặc phê duyệt quy hoạch, kế hoạch sử dụng đất quyết định hoặc phê duyệt"
+    },
+    {
+      "id": "dieukien_chiu_trachnhiem_tl_dieuchinh_qh_khsd",
+      "label": "ĐiềuKiện",
+      "name": "chịu trách nhiệm tổ chức lập điều chỉnh quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_khong_thaydoi_muctieu_qh_khsd",
+      "label": "ĐiềuKiện",
+      "name": "không làm thay đổi mục tiêu của quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_khong_thaydoi_chitieu_qhsd_captren_xacdinh",
+      "label": "ĐiềuKiện",
+      "name": "không làm thay đổi chỉ tiêu sử dụng đất đã được quy hoạch sử dụng đất cấp trên xác định, phân bổ"
+    },
+    {
+      "id": "dieukien_tuanthu_trinhtu_thutuc_luatnay",
+      "label": "ĐiềuKiện",
+      "name": "Tuân thủ trình tự, thủ tục theo quy định của Luật này"
+    },
+    {
+      "id": "hanhviphaply_rasoat_qhsd_dinhky_05nam",
+      "label": "HànhViPhápLý",
+      "name": "Rà soát quy hoạch sử dụng đất định kỳ 05 năm"
+    },
+    {
+      "id": "dieukien_dieu_chinh_phuhop_kttx_tung_giai_doan",
+      "label": "ĐiềuKiện",
+      "name": "điều chỉnh phù hợp với tình hình phát triển kinh tế - xã hội trong từng giai đoạn"
+    },
+    {
+      "id": "hanhviphaply_rasoat_dieuchinh_qhsd_quocgia",
+      "label": "HànhViPhápLý",
+      "name": "Rà soát, điều chỉnh quy hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "hanhviphaply_rasoat_dieuchinh_qhsd_quocphong",
+      "label": "HànhViPhápLý",
+      "name": "Rà soát, điều chỉnh quy hoạch sử dụng đất quốc phòng"
+    },
+    {
+      "id": "hanhviphaply_rasoat_dieuchinh_qhsd_anninh",
+      "label": "HànhViPhápLý",
+      "name": "Rà soát, điều chỉnh quy hoạch sử dụng đất an ninh"
+    },
+    {
+      "id": "dieukien_thuchien_theo_phapluat_ve_quyhoach",
+      "label": "ĐiềuKiện",
+      "name": "thực hiện theo quy định của pháp luật về quy hoạch"
+    },
+    {
+      "id": "hanhviphaply_dieuchinh_qhsd_captinh",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh quy hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "khaikiem_cancu_dieuchinh_qhsd_captinh",
+      "label": "KháiNiệm",
+      "name": "Căn cứ điều chỉnh quy hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "dieukien_dieuchinh_qh_captren_thaydoi_cocau_captinh",
+      "label": "ĐiềuKiện",
+      "name": "Do điều chỉnh quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh, quy hoạch có tính chất kỹ thuật, chuyên ngành có sử dụng đất cấp quốc gia, liên tỉnh làm thay đổi cơ cấu sử dụng đất của cấp tỉnh"
+    },
+    {
+      "id": "dieukien_thanh_lap_nhap_chia_diagioi_hanhchinh_captinh",
+      "label": "ĐiềuKiện",
+      "name": "Do việc thành lập, nhập, chia, điều chỉnh địa giới đơn vị hành chính của đơn vị hành chính cấp tỉnh, đơn vị hành chính trực thuộc"
+    },
+    {
+      "id": "dieukien_tacdong_thientai_chien_tranh_qpan_thaydoi_sd_captinh",
+      "label": "ĐiềuKiện",
+      "name": "Do tác động của thiên tai, chiến tranh, yêu cầu bảo đảm quốc phòng, an ninh làm thay đổi mục đích, cơ cấu, vị trí, diện tích sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_dieuchinh_qhsd_caphuyen",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "khaikiem_cancu_dieuchinh_qhsd_caphuyen",
+      "label": "KháiNiệm",
+      "name": "Căn cứ điều chỉnh quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "dieukien_dieuchinh_qh_captrentructiep_thaydoi_cocau_caphuyen",
+      "label": "ĐiềuKiện",
+      "name": "Do điều chỉnh quy hoạch cấp trên trực tiếp làm thay đổi cơ cấu sử dụng đất của cấp huyện"
+    },
+    {
+      "id": "dieukien_thanh_lap_nhap_chia_diagioi_hanhchinh_diaphuong_caphuyen",
+      "label": "ĐiềuKiện",
+      "name": "Do việc thành lập, nhập, chia, điều chỉnh địa giới đơn vị hành chính của địa phương"
+    },
+    {
+      "id": "dieukien_chien_tranh_qpan_thaydoi_sd_caphuyen",
+      "label": "ĐiềuKiện",
+      "name": "Do chiến tranh, yêu cầu bảo đảm quốc phòng, an ninh làm thay đổi mục đích, cơ cấu, vị trí, diện tích sử dụng đất"
+    },
+    {
+      "id": "dieukien_tacdong_thientai_suco_moitruong_thaydoi_mucdich_sd_caphuyen",
+      "label": "ĐiềuKiện",
+      "name": "Do tác động của thiên tai, ứng phó sự cố về môi trường làm thay đổi mục đích sử dụng đất"
+    },
+    {
+      "id": "dieukien_trienkhai_qh_tacdong_tieucuc_ansinh_moitruong_congdong",
+      "label": "ĐiềuKiện",
+      "name": "việc triển khai thực hiện quy hoạch tác động tiêu cực đến an sinh xã hội, môi trường sinh thái và ảnh hưởng đến cộng đồng"
+    },
+    {
+      "id": "dieukien_biendong_nguonluc_duan_trongdiem_thaydoi_dinhhuong_sd",
+      "label": "ĐiềuKiện",
+      "name": "Có biến động về nguồn lực thực hiện quy hoạch, hình thành dự án trọng điểm phục vụ lợi ích quốc gia, lợi ích công cộng làm thay đổi định hướng sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_dieuchinh_quyhoach",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh quy hoạch"
+    },
+    {
+      "id": "dieukien_mot_trong_cancu_khoan4_khoan5",
+      "label": "ĐiềuKiện",
+      "name": "khi có một trong các căn cứ quy định tại khoản 4 và khoản 5 Điều này"
+    },
+    {
+      "id": "dieukien_duoc_coquan_thamquyen_qd_pd_chophep_dieuchinh",
+      "label": "ĐiềuKiện",
+      "name": "được cơ quan có thẩm quyền quyết định hoặc phê duyệt cho phép điều chỉnh"
+    },
+    {
+      "id": "hanhviphaply_dieuchinh_kehoach_sudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Điều chỉnh kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_co_dieuchinh_qhsd",
+      "label": "ĐiềuKiện",
+      "name": "khi có sự điều chỉnh quy hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_co_dieuchinh_qh_dothi",
+      "label": "ĐiềuKiện",
+      "name": "khi có sự điều chỉnh quy hoạch đô thị"
+    },
+    {
+      "id": "dieukien_thaydoi_kha_nang_thuchien_khsd",
+      "label": "ĐiềuKiện",
+      "name": "hoặc có sự thay đổi về khả năng thực hiện kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_thuchien_theo_dieu64_den_dieu75",
+      "label": "ĐiềuKiện",
+      "name": "thực hiện theo quy định tại các điều 64, 65, 66, 67, 68, 69, 70, 71, 72 và 75 của Luật này"
+    },
+    {
+      "id": "hanhviphaply_qd_pd_dieuchinh_qh_khsd",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định, phê duyệt điều chỉnh quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_thamquyen_theo_cap",
+      "label": "ĐiềuKiện",
+      "name": "quy hoạch, kế hoạch sử dụng đất của cấp nào thì có thẩm quyền quyết định, phê duyệt điều chỉnh quy hoạch, kế hoạch sử dụng đất của cấp đó"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_73",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_rasoat_dieuchinh_qh_khsd"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_qh_khsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_do_coquan_thamquyen_qd_pd_qh_khsd"
+    },
+    {
+      "source_id": "dieukien_do_coquan_thamquyen_qd_pd_qh_khsd",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_thamquyen_qd_pd"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_qh_khsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chiu_trachnhiem_tl_dieuchinh_qh_khsd"
+    },
+    {
+      "source_id": "dieukien_chiu_trachnhiem_tl_dieuchinh_qh_khsd",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_thamquyen_tl_qh_khsd"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_qh_khsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_thaydoi_muctieu_qh_khsd"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_qh_khsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_thaydoi_chitieu_qhsd_captren_xacdinh"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_qh_khsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tuanthu_trinhtu_thutuc_luatnay"
+    },
+    {
+      "source_id": "chuthe_coquan_thamquyen_tl_qhsd",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_rasoat_qhsd_dinhky_05nam"
+    },
+    {
+      "source_id": "hanhviphaply_rasoat_qhsd_dinhky_05nam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_dieu_chinh_phuhop_kttx_tung_giai_doan"
+    },
+    {
+      "source_id": "hanhviphaply_rasoat_dieuchinh_qhsd_quocgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_theo_phapluat_ve_quyhoach"
+    },
+    {
+      "source_id": "hanhviphaply_rasoat_dieuchinh_qhsd_quocphong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_theo_phapluat_ve_quyhoach"
+    },
+    {
+      "source_id": "hanhviphaply_rasoat_dieuchinh_qhsd_anninh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_theo_phapluat_ve_quyhoach"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_qhsd_captinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_cancu_dieuchinh_qhsd_captinh"
+    },
+    {
+      "source_id": "khaikiem_cancu_dieuchinh_qhsd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dieuchinh_qh_captren_thaydoi_cocau_captinh"
+    },
+    {
+      "source_id": "khaikiem_cancu_dieuchinh_qhsd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thanh_lap_nhap_chia_diagioi_hanhchinh_captinh"
+    },
+    {
+      "source_id": "khaikiem_cancu_dieuchinh_qhsd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tacdong_thientai_chien_tranh_qpan_thaydoi_sd_captinh"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_qhsd_caphuyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_cancu_dieuchinh_qhsd_caphuyen"
+    },
+    {
+      "source_id": "khaikiem_cancu_dieuchinh_qhsd_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dieuchinh_qh_captrentructiep_thaydoi_cocau_caphuyen"
+    },
+    {
+      "source_id": "khaikiem_cancu_dieuchinh_qhsd_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thanh_lap_nhap_chia_diagioi_hanhchinh_diaphuong_caphuyen"
+    },
+    {
+      "source_id": "khaikiem_cancu_dieuchinh_qhsd_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chien_tranh_qpan_thaydoi_sd_caphuyen"
+    },
+    {
+      "source_id": "khaikiem_cancu_dieuchinh_qhsd_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tacdong_thientai_suco_moitruong_thaydoi_mucdich_sd_caphuyen"
+    },
+    {
+      "source_id": "khaikiem_cancu_dieuchinh_qhsd_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trienkhai_qh_tacdong_tieucuc_ansinh_moitruong_congdong"
+    },
+    {
+      "source_id": "khaikiem_cancu_dieuchinh_qhsd_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_biendong_nguonluc_duan_trongdiem_thaydoi_dinhhuong_sd"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_quyhoach",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_mot_trong_cancu_khoan4_khoan5"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_quyhoach",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_coquan_thamquyen_qd_pd_chophep_dieuchinh"
+    },
+    {
+      "source_id": "dieukien_duoc_coquan_thamquyen_qd_pd_chophep_dieuchinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_thamquyen_qd_pd"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_kehoach_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_dieuchinh_qhsd"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_kehoach_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_dieuchinh_qh_dothi"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_kehoach_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thaydoi_kha_nang_thuchien_khsd"
+    },
+    {
+      "source_id": "hanhviphaply_dieuchinh_qh_khsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuchien_theo_dieu64_den_dieu75"
+    },
+    {
+      "source_id": "chuthe_coquan_thamquyen_qd_pd",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_qd_pd_dieuchinh_qh_khsd"
+    },
+    {
+      "source_id": "hanhviphaply_qd_pd_dieuchinh_qh_khsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thamquyen_theo_cap"
+    }
+  ]
+}

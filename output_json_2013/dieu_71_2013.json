@@ -1,0 +1,786 @@
+{
+  "entities": [
+    {
+      "id": "dieu_71",
+      "label": "ĐiềuLuật",
+      "name": "Điều 71"
+    },
+    {
+      "id": "khaikiem_cuongche_thuchien_quyetdinh_thuhoidat",
+      "label": "KháiNiệm",
+      "name": "Cưỡng chế thực hiện quyết định thu hồi đất"
+    },
+    {
+      "id": "khaikiem_nguyentac_cuongche_thuhoidat",
+      "label": "KháiNiệm",
+      "name": "Nguyên tắc cưỡng chế thực hiện quyết định thu hồi đất"
+    },
+    {
+      "id": "khaikiem_quyetdinh_thuhoidat",
+      "label": "KháiNiệm",
+      "name": "Quyết định thu hồi đất"
+    },
+    {
+      "id": "khaikiem_quyetdinh_cuongche",
+      "label": "KháiNiệm",
+      "name": "Quyết định cưỡng chế thực hiện quyết định thu hồi đất"
+    },
+    {
+      "id": "khaikiem_trinhtu_thutuc_cuongche_thuhoidat",
+      "label": "KháiNiệm",
+      "name": "Trình tự, thủ tục thực hiện cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "khaikiem_phuongan_cuongche",
+      "label": "KháiNiệm",
+      "name": "Phương án cưỡng chế"
+    },
+    {
+      "id": "khaikiem_dutoan_kinhphi",
+      "label": "KháiNiệm",
+      "name": "Dự toán kinh phí"
+    },
+    {
+      "id": "khaikiem_taisans",
+      "label": "KháiNiệm",
+      "name": "Tài sản"
+    },
+    {
+      "id": "khaikiem_kinhphi_cuongche_thuhoidat",
+      "label": "KháiNiệm",
+      "name": "Kinh phí cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "khaikiem_phuongan_taidinhcu",
+      "label": "KháiNiệm",
+      "name": "Phương án tái định cư"
+    },
+    {
+      "id": "khaikiem_bienban",
+      "label": "KháiNiệm",
+      "name": "Biên bản"
+    },
+    {
+      "id": "khaikiem_khudat_cuongche",
+      "label": "KháiNiệm",
+      "name": "Khu đất cưỡng chế"
+    },
+    {
+      "id": "chuthe_nguoi_co_dat_thuhoidat",
+      "label": "ChủThể",
+      "name": "Người có đất thu hồi"
+    },
+    {
+      "id": "chuthe_uybannhandan_capsa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_uyban_matttran_toquoc_vietnam_capsa",
+      "label": "ChủThể",
+      "name": "Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã"
+    },
+    {
+      "id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "label": "ChủThể",
+      "name": "Tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng"
+    },
+    {
+      "id": "chuthe_nguoi_bi_cuongche",
+      "label": "ChủThể",
+      "name": "Người bị cưỡng chế"
+    },
+    {
+      "id": "chuthe_chutich_uybannhandan_caphuyen",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_ban_thuchien_cuongche",
+      "label": "ChủThể",
+      "name": "Ban thực hiện cưỡng chế"
+    },
+    {
+      "id": "chuthe_nguoi_co_lienquan_den_nguoi_bi_cuongche",
+      "label": "ChủThể",
+      "name": "Những người có liên quan"
+    },
+    {
+      "id": "chuthe_chusohuu_taisans",
+      "label": "ChủThể",
+      "name": "Chủ sở hữu"
+    },
+    {
+      "id": "chuthe_luc_luong_congan",
+      "label": "ChủThể",
+      "name": "Lực lượng Công an"
+    },
+    {
+      "id": "chuthe_coquan_donvi_colienquan",
+      "label": "ChủThể",
+      "name": "Cơ quan, đơn vị có liên quan"
+    },
+    {
+      "id": "chuthe_coquan_tochuc_canhan_khac_colienquan",
+      "label": "ChủThể",
+      "name": "Cơ quan, tổ chức, cá nhân khác có liên quan"
+    },
+    {
+      "id": "chuthe_chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "chuthe_uybannhandan_cap_thamquyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_khong_chap_hanh_quyet_dinh_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Không chấp hành quyết định thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_van_dong_thuyet_phuc",
+      "label": "HànhViPhápLý",
+      "name": "Vận động, thuyết phục"
+    },
+    {
+      "id": "hanhviphaply_niem_yet_cong_khai",
+      "label": "HànhViPhápLý",
+      "name": "Niêm yết công khai"
+    },
+    {
+      "id": "hanhviphaply_tiep_nhan_quyet_dinh_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Nhận được quyết định cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_tu_choi_nhan_quyet_dinh_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Từ chối không nhận quyết định cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_vang_mat_khi_giao_quyet_dinh_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Vắng mặt khi giao quyết định cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_lap_bien_ban",
+      "label": "HànhViPhápLý",
+      "name": "Lập biên bản"
+    },
+    {
+      "id": "hanhviphaply_ban_hanh_quyet_dinh_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Ban hành quyết định cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_to_chuc_thuc_hien_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Tổ chức thực hiện quyết định cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_quyet_dinh_thanh_lap_ban_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định thành lập Ban thực hiện cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_doi_thoai",
+      "label": "HànhViPhápLý",
+      "name": "Đối thoại"
+    },
+    {
+      "id": "hanhviphaply_lap_bien_ban_ghi_nhan_chap_hanh",
+      "label": "HànhViPhápLý",
+      "name": "Lập biên bản ghi nhận sự chấp hành"
+    },
+    {
+      "id": "hanhviphaply_ban_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "Bàn giao đất"
+    },
+    {
+      "id": "hanhviphaply_buoc_roi_khoi_khu_dat_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Buộc ra khỏi khu đất cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_tu_chuyen_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Tự chuyển tài sản ra khỏi khu đất cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_di_chuyen_nguoi_va_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Di chuyển người và tài sản"
+    },
+    {
+      "id": "hanhviphaply_tu_choi_nhan_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Từ chối nhận tài sản"
+    },
+    {
+      "id": "hanhviphaply_bao_quan_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Bảo quản tài sản"
+    },
+    {
+      "id": "hanhviphaply_thong_bao_nhan_lai_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Thông báo cho người có tài sản nhận lại tài sản"
+    },
+    {
+      "id": "hanhviphaply_giai_quyet_khieu_nai",
+      "label": "HànhViPhápLý",
+      "name": "Giải quyết khiếu nại"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_phuong_an_tai_dinh_cu",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện phương án tái định cư"
+    },
+    {
+      "id": "hanhviphaply_bao_dam_dieu_kien_phuong_tien",
+      "label": "HànhViPhápLý",
+      "name": "Bảo đảm điều kiện, phương tiện cần thiết"
+    },
+    {
+      "id": "hanhviphaply_bo_tri_kinh_phi_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Bố trí kinh phí cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_lap_phuong_an_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Lập phương án cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_lap_du_toan_kinh_phi",
+      "label": "HànhViPhápLý",
+      "name": "Lập dự toán kinh phí"
+    },
+    {
+      "id": "hanhviphaply_trinh_phe_duyet",
+      "label": "HànhViPhápLý",
+      "name": "Trình phê duyệt"
+    },
+    {
+      "id": "hanhviphaply_phe_duyet",
+      "label": "HànhViPhápLý",
+      "name": "Phê duyệt"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_cuong_che_theo_phuong_an",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện cưỡng chế theo phương án đã được phê duyệt"
+    },
+    {
+      "id": "hanhviphaply_ban_giao_dat_cho_to_chuc_boithuong",
+      "label": "HànhViPhápLý",
+      "name": "Bàn giao đất cho tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng"
+    },
+    {
+      "id": "hanhviphaply_thanh_toan_chi_phi_bao_quan_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Chịu trách nhiệm thanh toán chi phí bảo quản"
+    },
+    {
+      "id": "hanhviphaply_bao_ve_trat_tu_an_toan",
+      "label": "HànhViPhápLý",
+      "name": "Bảo vệ trật tự, an toàn"
+    },
+    {
+      "id": "hanhviphaply_phoi_hop_giao_quyet_dinh_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Phối hợp thực hiện việc giao quyết định cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_phoi_hop_niem_yet_quyet_dinh_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Phối hợp niêm yết công khai quyết định cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_tham_gia_thuc_hien_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Tham gia thực hiện cưỡng chế"
+    },
+    {
+      "id": "hanhviphaply_niem_phong_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Niêm phong tài sản"
+    },
+    {
+      "id": "hanhviphaply_di_chuyen_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Di chuyển tài sản"
+    },
+    {
+      "id": "hanhviphaply_phoi_hop_thuc_hien_cuong_che",
+      "label": "HànhViPhápLý",
+      "name": "Phối hợp thực hiện việc cưỡng chế thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    },
+    {
+      "id": "dieukien_du_dieu_kien_cuong_che",
+      "label": "ĐiềuKiện",
+      "name": "Đủ các điều kiện"
+    },
+    {
+      "id": "dieukien_nguoi_khong_chap_hanh_sau_van_dong",
+      "label": "ĐiềuKiện",
+      "name": "Người có đất thu hồi không chấp hành quyết định thu hồi đất sau khi đã vận động, thuyết phục"
+    },
+    {
+      "id": "dieukien_quyet_dinh_cuong_che_da_niem_yet",
+      "label": "ĐiềuKiện",
+      "name": "Quyết định cưỡng chế đã được niêm yết công khai"
+    },
+    {
+      "id": "dieukien_quyet_dinh_cuong_che_da_hieu_luc",
+      "label": "ĐiềuKiện",
+      "name": "Quyết định cưỡng chế đã có hiệu lực thi hành"
+    },
+    {
+      "id": "dieukien_nguoi_bi_cuong_che_da_nhan_quyet_dinh",
+      "label": "ĐiềuKiện",
+      "name": "Người bị cưỡng chế đã nhận được quyết định cưỡng chế có hiệu lực thi hành"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_71",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_cuongche_thuchien_quyetdinh_thuhoidat"
+    },
+    {
+      "source_id": "khaikiem_cuongche_thuchien_quyetdinh_thuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_nguyentac_cuongche_thuhoidat"
+    },
+    {
+      "source_id": "dieu_71",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_nguyentac_cuongche_thuhoidat"
+    },
+    {
+      "source_id": "khaikiem_cuongche_thuchien_quyetdinh_thuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_du_dieu_kien_cuong_che"
+    },
+    {
+      "source_id": "dieu_71",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_du_dieu_kien_cuong_che"
+    },
+    {
+      "source_id": "dieukien_du_dieu_kien_cuong_che",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguoi_khong_chap_hanh_sau_van_dong"
+    },
+    {
+      "source_id": "dieukien_du_dieu_kien_cuong_che",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyet_dinh_cuong_che_da_niem_yet"
+    },
+    {
+      "source_id": "dieukien_du_dieu_kien_cuong_che",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyet_dinh_cuong_che_da_hieu_luc"
+    },
+    {
+      "source_id": "dieukien_du_dieu_kien_cuong_che",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguoi_bi_cuong_che_da_nhan_quyet_dinh"
+    },
+    {
+      "source_id": "chuthe_nguoi_co_dat_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_khong_chap_hanh_quyet_dinh_thuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_khong_chap_hanh_quyet_dinh_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_nguoi_khong_chap_hanh_sau_van_dong"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capsa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_van_dong_thuyet_phuc"
+    },
+    {
+      "source_id": "chuthe_uyban_matttran_toquoc_vietnam_capsa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_van_dong_thuyet_phuc"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_van_dong_thuyet_phuc"
+    },
+    {
+      "source_id": "hanhviphaply_van_dong_thuyet_phuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_dat_thuhoidat"
+    },
+    {
+      "source_id": "khaikiem_quyetdinh_cuongche",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_quyet_dinh_cuong_che_da_niem_yet"
+    },
+    {
+      "source_id": "hanhviphaply_niem_yet_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_quyetdinh_cuongche"
+    },
+    {
+      "source_id": "khaikiem_quyetdinh_cuongche",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_quyet_dinh_cuong_che_da_hieu_luc"
+    },
+    {
+      "source_id": "chuthe_nguoi_bi_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tiep_nhan_quyet_dinh_cuong_che"
+    },
+    {
+      "source_id": "hanhviphaply_tiep_nhan_quyet_dinh_cuong_che",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_nguoi_bi_cuong_che_da_nhan_quyet_dinh"
+    },
+    {
+      "source_id": "chuthe_nguoi_bi_cuongche",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tu_choi_nhan_quyet_dinh_cuong_che"
+    },
+    {
+      "source_id": "chuthe_nguoi_bi_cuongche",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_vang_mat_khi_giao_quyet_dinh_cuong_che"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capsa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_lap_bien_ban"
+    },
+    {
+      "source_id": "chuthe_chutich_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_hanh_quyet_dinh_cuong_che"
+    },
+    {
+      "source_id": "hanhviphaply_ban_hanh_quyet_dinh_cuong_che",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_quyetdinh_cuongche"
+    },
+    {
+      "source_id": "chuthe_chutich_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_to_chuc_thuc_hien_cuong_che"
+    },
+    {
+      "source_id": "hanhviphaply_to_chuc_thuc_hien_cuong_che",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_quyetdinh_cuongche"
+    },
+    {
+      "source_id": "dieu_71",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_trinhtu_thutuc_cuongche_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_chutich_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quyet_dinh_thanh_lap_ban_cuong_che"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_thanh_lap_ban_cuong_che",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chuthe_ban_thuchien_cuongche"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_van_dong_thuyet_phuc"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_doi_thoai"
+    },
+    {
+      "source_id": "hanhviphaply_van_dong_thuyet_phuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_bi_cuongche"
+    },
+    {
+      "source_id": "hanhviphaply_doi_thoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_bi_cuongche"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_lap_bien_ban_ghi_nhan_chap_hanh"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_giao_dat"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_cuong_che_theo_phuong_an"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_buoc_roi_khoi_khu_dat_cuong_che"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_di_chuyen_nguoi_va_tai_san"
+    },
+    {
+      "source_id": "hanhviphaply_buoc_roi_khoi_khu_dat_cuong_che",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_bi_cuongche"
+    },
+    {
+      "source_id": "hanhviphaply_buoc_roi_khoi_khu_dat_cuong_che",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_lienquan_den_nguoi_bi_cuongche"
+    },
+    {
+      "source_id": "hanhviphaply_tu_chuyen_tai_san",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_bi_cuongche"
+    },
+    {
+      "source_id": "hanhviphaply_di_chuyen_nguoi_va_tai_san",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_bi_cuongche"
+    },
+    {
+      "source_id": "hanhviphaply_di_chuyen_nguoi_va_tai_san",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_lienquan_den_nguoi_bi_cuongche"
+    },
+    {
+      "source_id": "hanhviphaply_di_chuyen_nguoi_va_tai_san",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_taisans"
+    },
+    {
+      "source_id": "chuthe_nguoi_bi_cuongche",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tu_choi_nhan_tai_san"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_lap_bien_ban"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_bao_quan_tai_san"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thong_bao_nhan_lai_tai_san"
+    },
+    {
+      "source_id": "hanhviphaply_thong_bao_nhan_lai_tai_san",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chusohuu_taisans"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_to_chuc_thuc_hien_cuong_che"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_giai_quyet_khieu_nai"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_phuong_an_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_phuong_an_tai_dinh_cu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_phuongan_taidinhcu"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_bao_dam_dieu_kien_phuong_tien"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_caphuyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_bo_tri_kinh_phi_cuong_che"
+    },
+    {
+      "source_id": "hanhviphaply_bo_tri_kinh_phi_cuong_che",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_kinhphi_cuongche_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_lap_phuong_an_cuong_che"
+    },
+    {
+      "source_id": "hanhviphaply_lap_phuong_an_cuong_che",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_phuongan_cuongche"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_lap_du_toan_kinh_phi"
+    },
+    {
+      "source_id": "hanhviphaply_lap_du_toan_kinh_phi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dutoan_kinhphi"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_trinh_phe_duyet"
+    },
+    {
+      "source_id": "hanhviphaply_trinh_phe_duyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uybannhandan_cap_thamquyen"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_cap_thamquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_phe_duyet"
+    },
+    {
+      "source_id": "hanhviphaply_phe_duyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_phuongan_cuongche"
+    },
+    {
+      "source_id": "hanhviphaply_phe_duyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dutoan_kinhphi"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thuc_hien_cuong_che_theo_phuong_an"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_giao_dat_cho_to_chuc_boithuong"
+    },
+    {
+      "source_id": "hanhviphaply_ban_giao_dat_cho_to_chuc_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_bao_quan_tai_san"
+    },
+    {
+      "source_id": "chuthe_chusohuu_taisans",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thanh_toan_chi_phi_bao_quan_tai_san"
+    },
+    {
+      "source_id": "chuthe_luc_luong_congan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_bao_ve_trat_tu_an_toan"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capsa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_phoi_hop_giao_quyet_dinh_cuong_che"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capsa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_phoi_hop_niem_yet_quyet_dinh_cuong_che"
+    },
+    {
+      "source_id": "chuthe_coquan_donvi_colienquan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phoi_hop_giao_quyet_dinh_cuong_che"
+    },
+    {
+      "source_id": "chuthe_coquan_donvi_colienquan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_phoi_hop_niem_yet_quyet_dinh_cuong_che"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capsa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tham_gia_thuc_hien_cuong_che"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capsa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_niem_phong_tai_san"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_niem_phong_tai_san"
+    },
+    {
+      "source_id": "chuthe_uybannhandan_capsa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_di_chuyen_tai_san"
+    },
+    {
+      "source_id": "chuthe_tochuc_lamnhiemvu_boithuong_giaiphongmatbang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_di_chuyen_tai_san"
+    },
+    {
+      "source_id": "chuthe_coquan_tochuc_canhan_khac_colienquan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_phoi_hop_thuc_hien_cuong_che"
+    },
+    {
+      "source_id": "chuthe_ban_thuchien_cuongche",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquan_tochuc_canhan_khac_colienquan"
+    },
+    {
+      "source_id": "chuthe_chinhphu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_71"
+    }
+  ]
+}

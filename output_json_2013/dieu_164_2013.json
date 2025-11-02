@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_164",
+      "label": "ĐiềuLuật",
+      "name": "Điều 164"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quan_ly_dat_chua_su_dung",
+      "label": "HànhViPhápLý",
+      "name": "Quản lý đất chưa sử dụng"
+    },
+    {
+      "id": "hanhviphaply_bao_ve_dat_chua_su_dung",
+      "label": "HànhViPhápLý",
+      "name": "bảo vệ đất chưa sử dụng"
+    },
+    {
+      "id": "hanhviphaply_dang_ky_vao_ho_so_dia_chinh",
+      "label": "HànhViPhápLý",
+      "name": "đăng ký vào hồ sơ địa chính"
+    },
+    {
+      "id": "khaikiem_dat_chua_su_dung",
+      "label": "KháiNiệm",
+      "name": "đất chưa sử dụng"
+    },
+    {
+      "id": "khaikiem_ho_so_dia_chinh",
+      "label": "KháiNiệm",
+      "name": "hồ sơ địa chính"
+    },
+    {
+      "id": "khaikiem_dao_chua_co_nguoi_o",
+      "label": "KháiNiệm",
+      "name": "các đảo chưa có người ở"
+    },
+    {
+      "id": "khaikiem_quy_dinh_cua_chinh_phu",
+      "label": "KháiNiệm",
+      "name": "quy định của Chính phủ"
+    },
+    {
+      "id": "dieukien_tai_dia_phuong",
+      "label": "ĐiềuKiện",
+      "name": "tại địa phương"
+    },
+    {
+      "id": "dieukien_tai_cac_dao_chua_co_nguoi_o",
+      "label": "ĐiềuKiện",
+      "name": "tại các đảo chưa có người ở"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_164",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quan_ly_dat_chua_su_dung"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quan_ly_dat_chua_su_dung"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_bao_ve_dat_chua_su_dung"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_dang_ky_vao_ho_so_dia_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_bao_ve_dat_chua_su_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_dang_ky_vao_ho_so_dia_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_dang_ky_vao_ho_so_dia_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_ho_so_dia_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_dia_phuong"
+    },
+    {
+      "source_id": "hanhviphaply_bao_ve_dat_chua_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_dia_phuong"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quan_ly_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_cac_dao_chua_co_nguoi_o"
+    },
+    {
+      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_quy_dinh_cua_chinh_phu"
+    }
+  ]
+}

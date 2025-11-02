@@ -1,0 +1,202 @@
+{
+  "entities": [
+    {
+      "id": "dieuluat_120",
+      "label": "ĐiềuLuật",
+      "name": "Điều 120",
+      "attributes": {
+        "Tên": "Cho thuê đất",
+        "Luật": "Luật Đất đai 2024"
+      }
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước",
+      "attributes": {}
+    },
+    {
+      "id": "hanhviphaply_chothuedat",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất",
+      "attributes": {}
+    },
+    {
+      "id": "hanhviphaply_thutienmotlan",
+      "label": "HànhViPhápLý",
+      "name": "Thu tiền thuê đất một lần cho cả thời gian thuê",
+      "attributes": {}
+    },
+    {
+      "id": "hanhviphaply_thutienhangnam",
+      "label": "HànhViPhápLý",
+      "name": "Thu tiền thuê đất hằng năm",
+      "attributes": {}
+    },
+    {
+      "id": "dieukien_duannonglamthuysan",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất để thực hiện dự án đầu tư sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối",
+      "attributes": {}
+    },
+    {
+      "id": "dieukien_khucongnghiep",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất khu công nghiệp, cụm công nghiệp, khu công nghệ cao, nhà lưu trú công nhân trong khu công nghiệp",
+      "attributes": {}
+    },
+    {
+      "id": "dieukien_datkinhdoanh",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất vào mục đích công cộng có mục đích kinh doanh; sử dụng đất thương mại, dịch vụ để hoạt động du lịch, kinh doanh văn phòng",
+      "attributes": {}
+    },
+    {
+      "id": "dieukien_nhaoxahoichothue",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất để xây dựng nhà ở xã hội cho thuê",
+      "attributes": {}
+    },
+    {
+      "id": "dieukien_nhucautratienhangnam",
+      "label": "ĐiềuKiện",
+      "name": "Có nhu cầu trả tiền thuê đất hằng năm",
+      "attributes": {}
+    },
+    {
+      "id": "chuthe_donvisunghiepconglap",
+      "label": "ChủThể",
+      "name": "Đơn vị sự nghiệp công lập",
+      "attributes": {}
+    },
+    {
+      "id": "dieuluat_118",
+      "label": "ĐiềuLuật",
+      "name": "Điều 118",
+      "attributes": {}
+    },
+    {
+      "id": "dieuluat_119",
+      "label": "ĐiềuLuật",
+      "name": "Điều 119",
+      "attributes": {}
+    },
+    {
+      "id": "dieuluat_124",
+      "label": "ĐiềuLuật",
+      "name": "Điều 124",
+      "attributes": {}
+    },
+    {
+      "id": "dieuluat_125",
+      "label": "ĐiềuLuật",
+      "name": "Điều 125",
+      "attributes": {}
+    },
+    {
+      "id": "dieuluat_126",
+      "label": "ĐiềuLuật",
+      "name": "Điều 126",
+      "attributes": {}
+    },
+    {
+      "id": "dieuluat_30",
+      "label": "ĐiềuLuật",
+      "name": "Điều 30",
+      "attributes": {}
+    },
+    {
+      "id": "dieukien_khongthuocdieu118_119",
+      "label": "ĐiềuKiện",
+      "name": "Các trường hợp không thuộc quy định tại Điều 118 và Điều 119",
+      "attributes": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieuluat_120",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_chothuedat"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_chothuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongthuocdieu118_119"
+    },
+    {
+      "source_id": "dieuluat_120",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thutienmotlan"
+    },
+    {
+      "source_id": "dieuluat_120",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thutienhangnam"
+    },
+    {
+      "source_id": "dieukien_duannonglamthuysan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thutienmotlan"
+    },
+    {
+      "source_id": "dieukien_khucongnghiep",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thutienmotlan"
+    },
+    {
+      "source_id": "dieukien_datkinhdoanh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thutienmotlan"
+    },
+    {
+      "source_id": "dieukien_nhaoxahoichothue",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thutienmotlan"
+    },
+    {
+      "source_id": "dieukien_nhucautratienhangnam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thutienhangnam"
+    },
+    {
+      "source_id": "hanhviphaply_thutienhangnam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_donvisunghiepconglap"
+    },
+    {
+      "source_id": "dieukien_khongthuocdieu118_119",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_118"
+    },
+    {
+      "source_id": "dieukien_khongthuocdieu118_119",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_119"
+    },
+    {
+      "source_id": "chuthe_donvisunghiepconglap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_30"
+    },
+    {
+      "source_id": "dieuluat_120",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_124"
+    },
+    {
+      "source_id": "dieuluat_120",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_125"
+    },
+    {
+      "source_id": "dieuluat_120",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieuluat_126"
+    }
+  ]
+}

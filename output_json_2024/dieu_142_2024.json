@@ -1,0 +1,718 @@
+{
+  "entities": [
+    {
+      "id": "dieu_142",
+      "label": "ĐiềuLuật",
+      "name": "Điều 142",
+      "description": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho tổ chức đang sử dụng đất"
+    },
+    {
+      "id": "chuthe_tochucdang_sudungdat",
+      "label": "ChủThể",
+      "name": "Tổ chức đang sử dụng đất",
+      "description": "Chủ thể tổ chức đang sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_cap_giaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+      "description": "Hành vi cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giaychungnhan_qsd_qsh_tsglvdat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
+      "description": "Loại giấy chứng nhận về quyền sử dụng đất và quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giaychungnhan_qsd",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất",
+      "description": "Loại giấy chứng nhận về quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_giaychungnhan_qsh_nhao_qsd_dato",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở",
+      "description": "Loại giấy chứng nhận về quyền sở hữu nhà ở và quyền sử dụng đất ở"
+    },
+    {
+      "id": "khainiem_giaychungnhan_qsd_qsh_nhao_tskhacglvdat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+      "description": "Loại giấy chứng nhận về quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "dieukien_chuaduoc_capgiaychungnhan",
+      "label": "ĐiềuKiện",
+      "name": "Chưa được cấp Giấy chứng nhận",
+      "description": "Tổ chức chưa được cấp Giấy chứng nhận về quyền sử dụng đất hoặc quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "hanhviphaply_kekhai_hientrang_sudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Tự kê khai hiện trạng sử dụng đất",
+      "description": "Hành vi tự kê khai tình hình sử dụng đất hiện tại"
+    },
+    {
+      "id": "hanhviphaply_baocao_ubnd_captinh",
+      "label": "HànhViPhápLý",
+      "name": "Báo cáo Ủy ban nhân dân cấp tỉnh",
+      "description": "Hành vi báo cáo Ủy ban nhân dân cấp tỉnh nơi có đất"
+    },
+    {
+      "id": "chuthe_ubnd_captinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh",
+      "description": "Ủy ban nhân dân cấp tỉnh nơi có đất hoặc có thẩm quyền tương đương"
+    },
+    {
+      "id": "dieukien_tren_coso_baocao",
+      "label": "ĐiềuKiện",
+      "name": "Trên cơ sở báo cáo hiện trạng sử dụng đất",
+      "description": "Điều kiện khi có báo cáo hiện trạng sử dụng đất của tổ chức"
+    },
+    {
+      "id": "hanhviphaply_kiemtra_thucte_sudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Kiểm tra thực tế sử dụng đất",
+      "description": "Hành vi kiểm tra thực tế tình hình sử dụng đất"
+    },
+    {
+      "id": "dieukien_cogiatay_dieu137",
+      "label": "ĐiềuKiện",
+      "name": "Có giấy tờ quy định tại Điều 137",
+      "description": "Diện tích đất của tổ chức có giấy tờ quy định tại Điều 137 của Luật này"
+    },
+    {
+      "id": "dieu_137",
+      "label": "ĐiềuLuật",
+      "name": "Điều 137",
+      "description": "Điều 137 của Luật Đất đai"
+    },
+    {
+      "id": "dieukien_sudung_dungmucdich",
+      "label": "ĐiềuKiện",
+      "name": "Đang sử dụng đúng mục đích",
+      "description": "Diện tích đất đang được sử dụng đúng mục đích"
+    },
+    {
+      "id": "chuthe_coquannhanuoc_cothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền",
+      "description": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_xacdinh_hinhthuc_sudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Xác định hình thức sử dụng đất",
+      "description": "Hành vi xác định hình thức sử dụng đất theo quy định pháp luật"
+    },
+    {
+      "id": "dieukien_khongcogiatay_dieu137",
+      "label": "ĐiềuKiện",
+      "name": "Không có giấy tờ quy định tại Điều 137",
+      "description": "Trường hợp sử dụng đất không có giấy tờ quy định tại Điều 137 của Luật này"
+    },
+    {
+      "id": "dieu_118_119_120",
+      "label": "ĐiềuLuật",
+      "name": "Điều 118, 119 và 120",
+      "description": "Các điều 118, 119 và 120 của Luật Đất đai"
+    },
+    {
+      "id": "dieukien_nhanuoc_chothuedat_dieu120",
+      "label": "ĐiềuKiện",
+      "name": "Nhà nước cho thuê đất theo Điều 120",
+      "description": "Tổ chức đang sử dụng đất thuộc trường hợp Nhà nước cho thuê đất quy định tại Điều 120 của Luật này"
+    },
+    {
+      "id": "dieu_120",
+      "label": "ĐiềuLuật",
+      "name": "Điều 120",
+      "description": "Điều 120 của Luật Đất đai"
+    },
+    {
+      "id": "chuthe_coquan_ql_dd_captinh",
+      "label": "ChủThể",
+      "name": "Cơ quan có chức năng quản lý đất đai cấp tỉnh",
+      "description": "Cơ quan có chức năng quản lý đất đai cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_ky_hopdong_thuedat",
+      "label": "HànhViPhápLý",
+      "name": "Ký hợp đồng thuê đất",
+      "description": "Hành vi ký hợp đồng thuê đất"
+    },
+    {
+      "id": "khainiem_thoihan_sudungdat",
+      "label": "KháiNiệm",
+      "name": "Thời hạn sử dụng đất",
+      "description": "Khoảng thời gian được phép sử dụng đất"
+    },
+    {
+      "id": "dieukien_cogiatay_qsd_dieu137",
+      "label": "ĐiềuKiện",
+      "name": "Có giấy tờ về quyền sử dụng đất quy định tại Điều 137",
+      "description": "Trường hợp có giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này"
+    },
+    {
+      "id": "dieukien_giayto_khong_ghithoihan",
+      "label": "ĐiềuKiện",
+      "name": "Giấy tờ không ghi thời hạn sử dụng đất",
+      "description": "Trường hợp trong giấy tờ về quyền sử dụng đất không ghi thời hạn sử dụng đất"
+    },
+    {
+      "id": "dieukien_giayto_ghithoihan_khongphuhop",
+      "label": "ĐiềuKiện",
+      "name": "Giấy tờ ghi thời hạn sử dụng đất không phù hợp",
+      "description": "Trường hợp giấy tờ ghi thời hạn sử dụng đất nhưng không phù hợp với quy định của pháp luật"
+    },
+    {
+      "id": "dieu_172",
+      "label": "ĐiềuLuật",
+      "name": "Điều 172",
+      "description": "Điều 172 của Luật Đất đai"
+    },
+    {
+      "id": "dieukien_sudungdat_truoc_15_10_1993",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất trước ngày 15/10/1993",
+      "description": "Trường hợp sử dụng đất trước ngày 15 tháng 10 năm 1993"
+    },
+    {
+      "id": "dieukien_sudungdat_tu_15_10_1993",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất từ ngày 15/10/1993 trở về sau",
+      "description": "Trường hợp sử dụng đất từ ngày 15 tháng 10 năm 1993 trở về sau"
+    },
+    {
+      "id": "dieukien_dat_sudung_khongdung_mucdich",
+      "label": "ĐiềuKiện",
+      "name": "Đất sử dụng không đúng mục đích",
+      "description": "Diện tích đất sử dụng không đúng mục đích"
+    },
+    {
+      "id": "dieukien_dat_bi_lan_chiem",
+      "label": "ĐiềuKiện",
+      "name": "Đất bị lấn, bị chiếm",
+      "description": "Diện tích đất do bị lấn, bị chiếm"
+    },
+    {
+      "id": "dieukien_dat_cho_thue_muon",
+      "label": "ĐiềuKiện",
+      "name": "Đất đã cho thuê, mượn sử dụng",
+      "description": "Diện tích đất đã cho các tổ chức khác, hộ gia đình, cá nhân thuê hoặc mượn sử dụng"
+    },
+    {
+      "id": "dieukien_dat_lien_doanh_ket_trai_phap_luat",
+      "label": "ĐiềuKiện",
+      "name": "Đất đã liên doanh, liên kết trái pháp luật",
+      "description": "Diện tích đất đã liên doanh, liên kết trái pháp luật"
+    },
+    {
+      "id": "dieukien_dat_khong_sudung_qua_12thang",
+      "label": "ĐiềuKiện",
+      "name": "Đất không được sử dụng quá 12 tháng",
+      "description": "Diện tích đất không được sử dụng đã quá 12 tháng"
+    },
+    {
+      "id": "dieukien_dat_tien_do_cham_qua_24thang",
+      "label": "ĐiềuKiện",
+      "name": "Tiến độ sử dụng chậm quá 24 tháng",
+      "description": "Tiến độ sử dụng đất chậm đã quá 24 tháng"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước",
+      "description": "Cơ quan Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_quyetdinh_thuhoi",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định thu hồi",
+      "description": "Hành vi quyết định thu hồi đất của Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chetay_thu_hoi_dat",
+      "label": "ChếTài",
+      "name": "Thu hồi đất",
+      "description": "Chế tài thu hồi đất theo quy định của pháp luật"
+    },
+    {
+      "id": "dieukien_dat_bo_tri_nhao_truoc_hieuluc_luat",
+      "label": "ĐiềuKiện",
+      "name": "Đất bố trí nhà ở trước ngày Luật có hiệu lực",
+      "description": "Diện tích đất của tổ chức đã bố trí cho hộ gia đình, cá nhân là cán bộ, công nhân viên làm nhà ở trước ngày Luật này có hiệu lực thi hành"
+    },
+    {
+      "id": "chuthe_hogiadinh_canhan_canbocongnhanvien",
+      "label": "ChủThể",
+      "name": "Hộ gia đình, cá nhân là cán bộ, công nhân viên của tổ chức",
+      "description": "Hộ gia đình, cá nhân là cán bộ, công nhân viên của tổ chức"
+    },
+    {
+      "id": "hanhviphaply_bangiao_ubnd_caphuyen",
+      "label": "HànhViPhápLý",
+      "name": "Bàn giao cho Ủy ban nhân dân cấp huyện",
+      "description": "Hành vi bàn giao đất cho Ủy ban nhân dân cấp huyện nơi có đất"
+    },
+    {
+      "id": "chuthe_ubnd_caphuyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện",
+      "description": "Ủy ban nhân dân cấp huyện nơi có đất"
+    },
+    {
+      "id": "hanhviphaply_cap_giaychungnhan_chonguoisudungdato",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận cho người sử dụng đất ở",
+      "description": "Hành vi cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất ở"
+    },
+    {
+      "id": "chuthe_nguoisudung_dato",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất ở",
+      "description": "Người sử dụng đất ở"
+    },
+    {
+      "id": "hanhviphaply_thuchien_nghiavu_taichinh",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện nghĩa vụ tài chính",
+      "description": "Hành vi thực hiện nghĩa vụ tài chính theo quy định của pháp luật"
+    },
+    {
+      "id": "khainiem_nghiavu_taichinh",
+      "label": "KháiNiệm",
+      "name": "Nghĩa vụ tài chính",
+      "description": "Nghĩa vụ tài chính theo quy định của pháp luật"
+    },
+    {
+      "id": "chuthe_doanhnghiep_nnuoc_sx_nn_lm_ntts_lm",
+      "label": "ChủThể",
+      "name": "Doanh nghiệp nhà nước sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối",
+      "description": "Doanh nghiệp nhà nước sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối"
+    },
+    {
+      "id": "dieukien_duoc_nhanuoc_giaodat",
+      "label": "ĐiềuKiện",
+      "name": "Đã được Nhà nước giao đất",
+      "description": "Doanh nghiệp nhà nước đã được Nhà nước giao đất"
+    },
+    {
+      "id": "dieukien_dn_bo_tri_dato_truoc_01_07_2004",
+      "label": "ĐiềuKiện",
+      "name": "Doanh nghiệp bố trí đất ở trước 01/07/2004",
+      "description": "Doanh nghiệp đó cho hộ gia đình, cá nhân sử dụng một phần quỹ đất làm đất ở trước ngày 01 tháng 7 năm 2004"
+    },
+    {
+      "id": "hanhviphaply_lap_phuongan_botri_dato_khudancu",
+      "label": "HànhViPhápLý",
+      "name": "Lập phương án bố trí lại đất ở thành khu dân cư",
+      "description": "Hành vi lập phương án bố trí lại diện tích đất ở thành khu dân cư"
+    },
+    {
+      "id": "hanhviphaply_trinh_ubnd_captinh_pheduyet",
+      "label": "HànhViPhápLý",
+      "name": "Trình Ủy ban nhân dân cấp tỉnh phê duyệt",
+      "description": "Hành vi trình Ủy ban nhân dân cấp tỉnh nơi có đất phê duyệt"
+    },
+    {
+      "id": "hanhviphaply_bangiao_diaphuong_quanly",
+      "label": "HànhViPhápLý",
+      "name": "Bàn giao cho địa phương quản lý",
+      "description": "Hành vi bàn giao đất cho địa phương quản lý"
+    },
+    {
+      "id": "dieukien_dat_dang_cotranhchap",
+      "label": "ĐiềuKiện",
+      "name": "Đất đang có tranh chấp",
+      "description": "Diện tích đất đang có tranh chấp"
+    },
+    {
+      "id": "hanhviphaply_giaiquyet_tranhchap",
+      "label": "HànhViPhápLý",
+      "name": "Giải quyết tranh chấp",
+      "description": "Hành vi giải quyết tranh chấp theo quy định của pháp luật"
+    },
+    {
+      "id": "chuthe_tochuc_nhanchuyennhuong_duan_bds",
+      "label": "ChủThể",
+      "name": "Tổ chức nhận chuyển nhượng dự án bất động sản",
+      "description": "Tổ chức nhận chuyển nhượng dự án bất động sản theo quy định của pháp luật về kinh doanh bất động sản"
+    },
+    {
+      "id": "hanhviphaply_nhanchuyennhuong_duan_bds",
+      "label": "HànhViPhápLý",
+      "name": "Nhận chuyển nhượng dự án bất động sản",
+      "description": "Hành vi nhận chuyển nhượng dự án bất động sản"
+    },
+    {
+      "id": "chuthe_ben_chuyennhuong_duan",
+      "label": "ChủThể",
+      "name": "Bên chuyển nhượng dự án",
+      "description": "Bên chuyển nhượng dự án bất động sản"
+    },
+    {
+      "id": "chuthe_ben_nhanchuyennhuong_duan",
+      "label": "ChủThể",
+      "name": "Bên nhận chuyển nhượng dự án",
+      "description": "Bên nhận chuyển nhượng dự án bất động sản"
+    },
+    {
+      "id": "dieukien_hoanthanh_nghiavu_taichinh",
+      "label": "ĐiềuKiện",
+      "name": "Hoàn thành nghĩa vụ tài chính",
+      "description": "Bên chuyển nhượng dự án và bên nhận chuyển nhượng dự án đã thực hiện xong nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhviphaply_xemxet_cap_giaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Xem xét cấp Giấy chứng nhận",
+      "description": "Hành vi xem xét cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cap_giaychungnhan"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_tochucdang_sudungdat"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giaychungnhan_qsd_qsh_tsglvdat"
+    },
+    {
+      "source_id": "chuthe_tochucdang_sudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_142"
+    },
+    {
+      "source_id": "dieukien_chuaduoc_capgiaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucdang_sudungdat"
+    },
+    {
+      "source_id": "dieukien_chuaduoc_capgiaychungnhan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_kekhai_hientrang_sudungdat"
+    },
+    {
+      "source_id": "chuthe_tochucdang_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_kekhai_hientrang_sudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_kekhai_hientrang_sudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_baocao_ubnd_captinh"
+    },
+    {
+      "source_id": "chuthe_tochucdang_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_baocao_ubnd_captinh"
+    },
+    {
+      "source_id": "hanhviphaply_baocao_ubnd_captinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ubnd_captinh"
+    },
+    {
+      "source_id": "dieukien_tren_coso_baocao",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_kiemtra_thucte_sudungdat"
+    },
+    {
+      "source_id": "chuthe_ubnd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_kiemtra_thucte_sudungdat"
+    },
+    {
+      "source_id": "dieukien_cogiatay_dieu137",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucdang_sudungdat"
+    },
+    {
+      "source_id": "dieukien_sudung_dungmucdich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucdang_sudungdat"
+    },
+    {
+      "source_id": "dieukien_cogiatay_dieu137",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xacdinh_hinhthuc_sudungdat"
+    },
+    {
+      "source_id": "dieukien_sudung_dungmucdich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xacdinh_hinhthuc_sudungdat"
+    },
+    {
+      "source_id": "chuthe_coquannhanuoc_cothamquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xacdinh_hinhthuc_sudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_xacdinh_hinhthuc_sudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giaychungnhan"
+    },
+    {
+      "source_id": "chuthe_coquannhanuoc_cothamquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cap_giaychungnhan"
+    },
+    {
+      "source_id": "dieukien_khongcogiatay_dieu137",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucdang_sudungdat"
+    },
+    {
+      "source_id": "dieukien_khongcogiatay_dieu137",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_118_119_120"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_137"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_118_119_120"
+    },
+    {
+      "source_id": "dieukien_nhanuoc_chothuedat_dieu120",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucdang_sudungdat"
+    },
+    {
+      "source_id": "dieukien_nhanuoc_chothuedat_dieu120",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ky_hopdong_thuedat"
+    },
+    {
+      "source_id": "chuthe_coquan_ql_dd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_ky_hopdong_thuedat"
+    },
+    {
+      "source_id": "hanhviphaply_ky_hopdong_thuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cap_giaychungnhan"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_120"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoihan_sudungdat"
+    },
+    {
+      "source_id": "dieukien_cogiatay_qsd_dieu137",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_thoihan_sudungdat"
+    },
+    {
+      "source_id": "dieukien_giayto_khong_ghithoihan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_172"
+    },
+    {
+      "source_id": "dieukien_giayto_ghithoihan_khongphuhop",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieu_172"
+    },
+    {
+      "source_id": "dieu_172",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoihan_sudungdat"
+    },
+    {
+      "source_id": "dieukien_sudungdat_truoc_15_10_1993",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_thoihan_sudungdat"
+    },
+    {
+      "source_id": "dieukien_sudungdat_tu_15_10_1993",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_thoihan_sudungdat"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_172"
+    },
+    {
+      "source_id": "dieukien_dat_sudung_khongdung_mucdich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetay_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_dat_bi_lan_chiem",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetay_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_dat_cho_thue_muon",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetay_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_dat_lien_doanh_ket_trai_phap_luat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetay_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_dat_khong_sudung_qua_12thang",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetay_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_dat_tien_do_cham_qua_24thang",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetay_thu_hoi_dat"
+    },
+    {
+      "source_id": "chuthe_ubnd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyetdinh_thuhoi"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinh_thuhoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetay_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chetay_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_dat_bo_tri_nhao_truoc_hieuluc_luat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_bangiao_ubnd_caphuyen"
+    },
+    {
+      "source_id": "chuthe_tochucdang_sudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_bangiao_ubnd_caphuyen"
+    },
+    {
+      "source_id": "hanhviphaply_bangiao_ubnd_caphuyen",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giaychungnhan_chonguoisudungdato"
+    },
+    {
+      "source_id": "chuthe_ubnd_caphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cap_giaychungnhan_chonguoisudungdato"
+    },
+    {
+      "source_id": "hanhviphaply_cap_giaychungnhan_chonguoisudungdato",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudung_dato"
+    },
+    {
+      "source_id": "chuthe_nguoisudung_dato",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuchien_nghiavu_taichinh"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_nghiavu_taichinh"
+    },
+    {
+      "source_id": "dieukien_dn_bo_tri_dato_truoc_01_07_2004",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_doanhnghiep_nnuoc_sx_nn_lm_ntts_lm"
+    },
+    {
+      "source_id": "dieukien_dn_bo_tri_dato_truoc_01_07_2004",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_lap_phuongan_botri_dato_khudancu"
+    },
+    {
+      "source_id": "chuthe_doanhnghiep_nnuoc_sx_nn_lm_ntts_lm",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_lap_phuongan_botri_dato_khudancu"
+    },
+    {
+      "source_id": "hanhviphaply_lap_phuongan_botri_dato_khudancu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_trinh_ubnd_captinh_pheduyet"
+    },
+    {
+      "source_id": "chuthe_ubnd_captinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_trinh_ubnd_captinh_pheduyet"
+    },
+    {
+      "source_id": "hanhviphaply_trinh_ubnd_captinh_pheduyet",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_bangiao_diaphuong_quanly"
+    },
+    {
+      "source_id": "dieukien_dat_dang_cotranhchap",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_giaiquyet_tranhchap"
+    },
+    {
+      "source_id": "hanhviphaply_cap_giaychungnhan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_giaiquyet_tranhchap"
+    },
+    {
+      "source_id": "chuthe_tochuc_nhanchuyennhuong_duan_bds",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_nhanchuyennhuong_duan_bds"
+    },
+    {
+      "source_id": "dieukien_hoanthanh_nghiavu_taichinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_nhanchuyennhuong_duan_bds"
+    },
+    {
+      "source_id": "dieukien_hoanthanh_nghiavu_taichinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xemxet_cap_giaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyennhuong_duan_bds",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xemxet_cap_giaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_xemxet_cap_giaychungnhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_nhanchuyennhuong_duan_bds"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giaychungnhan_qsd"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giaychungnhan_qsh_nhao_qsd_dato"
+    },
+    {
+      "source_id": "dieu_142",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giaychungnhan_qsd_qsh_nhao_tskhacglvdat"
+    }
+  ]
+}

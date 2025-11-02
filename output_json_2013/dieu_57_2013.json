@@ -1,0 +1,371 @@
+{
+  "entities": [
+    {
+      "id": "dieu_57",
+      "label": "ĐiềuLuật",
+      "name": "Điều 57"
+    },
+    {
+      "id": "khaikiem_chuyen_muc_dich_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "dieukien_duoc_phep_cua_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ĐiềuKiện",
+      "name": "Phải được phép của cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "khaikiem_dat_trong_lua",
+      "label": "KháiNiệm",
+      "name": "Đất trồng lúa"
+    },
+    {
+      "id": "khaikiem_dat_trong_cay_lau_nam",
+      "label": "KháiNiệm",
+      "name": "Đất trồng cây lâu năm"
+    },
+    {
+      "id": "khaikiem_dat_trong_rung",
+      "label": "KháiNiệm",
+      "name": "Đất trồng rừng"
+    },
+    {
+      "id": "khaikiem_dat_nuoi_trong_thuy_san",
+      "label": "KháiNiệm",
+      "name": "Đất nuôi trồng thủy sản"
+    },
+    {
+      "id": "khaikiem_dat_lam_muoi",
+      "label": "KháiNiệm",
+      "name": "Đất làm muối"
+    },
+    {
+      "id": "khaikiem_dat_trong_cay_hang_nam_khac",
+      "label": "KháiNiệm",
+      "name": "Đất trồng cây hàng năm khác"
+    },
+    {
+      "id": "khaikiem_dat_nuoi_trong_thuy_san_nuoc_man",
+      "label": "KháiNiệm",
+      "name": "Đất nuôi trồng thủy sản nước mặn"
+    },
+    {
+      "id": "khaikiem_dat_nuoi_trong_thuy_san_ao_ho_dam",
+      "label": "KháiNiệm",
+      "name": "Đất nuôi trồng thủy sản dưới hình thức ao, hồ, đầm"
+    },
+    {
+      "id": "khaikiem_dat_rung_dac_dung",
+      "label": "KháiNiệm",
+      "name": "Đất rừng đặc dụng"
+    },
+    {
+      "id": "khaikiem_dat_rung_phong_ho",
+      "label": "KháiNiệm",
+      "name": "Đất rừng phòng hộ"
+    },
+    {
+      "id": "khaikiem_dat_rung_san_xuat",
+      "label": "KháiNiệm",
+      "name": "Đất rừng sản xuất"
+    },
+    {
+      "id": "khaikiem_muc_dich_khac_trong_nhom_dat_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "Mục đích khác trong nhóm đất nông nghiệp"
+    },
+    {
+      "id": "khaikiem_dat_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "Đất nông nghiệp"
+    },
+    {
+      "id": "khaikiem_dat_phi_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "Đất phi nông nghiệp"
+    },
+    {
+      "id": "khaikiem_dat_phi_nong_nghiep_giao_khong_thu_tien",
+      "label": "KháiNiệm",
+      "name": "Đất phi nông nghiệp được Nhà nước giao đất không thu tiền sử dụng đất"
+    },
+    {
+      "id": "khaikiem_dat_phi_nong_nghiep_giao_co_thu_tien",
+      "label": "KháiNiệm",
+      "name": "Đất phi nông nghiệp được Nhà nước giao đất có thu tiền sử dụng đất"
+    },
+    {
+      "id": "khaikiem_thue_dat",
+      "label": "KháiNiệm",
+      "name": "Thuê đất"
+    },
+    {
+      "id": "khaikiem_dat_phi_nong_nghiep_khong_phai_dat_o",
+      "label": "KháiNiệm",
+      "name": "Đất phi nông nghiệp không phải là đất ở"
+    },
+    {
+      "id": "khaikiem_dat_o",
+      "label": "KháiNiệm",
+      "name": "Đất ở"
+    },
+    {
+      "id": "khaikiem_dat_xay_dung_cong_trinh_su_nghiep",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng công trình sự nghiệp"
+    },
+    {
+      "id": "khaikiem_dat_su_dung_muc_dich_cong_cong_co_kinh_doanh",
+      "label": "KháiNiệm",
+      "name": "Đất sử dụng vào mục đích công cộng có mục đích kinh doanh"
+    },
+    {
+      "id": "khaikiem_dat_san_xuat_kinh_doanh_phi_nong_nghiep_khong_phai_tmdv",
+      "label": "KháiNiệm",
+      "name": "Đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ"
+    },
+    {
+      "id": "khaikiem_dat_thuong_mai_dich_vu",
+      "label": "KháiNiệm",
+      "name": "Đất thương mại, dịch vụ"
+    },
+    {
+      "id": "khaikiem_dat_co_so_san_xuat_phi_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "Đất cơ sở sản xuất phi nông nghiệp"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "khaikiem_nghia_vu_tai_chinh",
+      "label": "KháiNiệm",
+      "name": "Nghĩa vụ tài chính"
+    },
+    {
+      "id": "hanhvipaply_thuc_hien_nghia_vu_tai_chinh",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện nghĩa vụ tài chính"
+    },
+    {
+      "id": "khaikiem_che_do_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Chế độ sử dụng đất"
+    },
+    {
+      "id": "khaikiem_quy_en_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Quyền và nghĩa vụ của người sử dụng đất"
+    },
+    {
+      "id": "khaikiem_loai_dat_sau_khi_chuyen_muc_dich",
+      "label": "KháiNiệm",
+      "name": "Loại đất sau khi được chuyển mục đích sử dụng"
+    },
+    {
+      "id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Chuyển mục đích sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_57",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_57",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duoc_phep_cua_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "dieukien_duoc_phep_cua_co_quan_nha_nuoc_co_tham_quyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_duoc_phep_cua_co_quan_nha_nuoc_co_tham_quyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "khaikiem_dat_trong_lua",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_trong_cay_lau_nam"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_trong_rung"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_nuoi_trong_thuy_san"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_lam_muoi"
+    },
+    {
+      "source_id": "khaikiem_dat_trong_cay_hang_nam_khac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_nuoi_trong_thuy_san_nuoc_man"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_lam_muoi"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_nuoi_trong_thuy_san_ao_ho_dam"
+    },
+    {
+      "source_id": "khaikiem_dat_rung_dac_dung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "khaikiem_dat_rung_phong_ho",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "khaikiem_dat_rung_san_xuat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_muc_dich_khac_trong_nhom_dat_nong_nghiep"
+    },
+    {
+      "source_id": "khaikiem_dat_nong_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_phi_nong_nghiep"
+    },
+    {
+      "source_id": "khaikiem_dat_phi_nong_nghiep_giao_khong_thu_tien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_phi_nong_nghiep_giao_co_thu_tien"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_thue_dat"
+    },
+    {
+      "source_id": "khaikiem_dat_phi_nong_nghiep_khong_phai_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_o"
+    },
+    {
+      "source_id": "khaikiem_dat_xay_dung_cong_trinh_su_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "khaikiem_dat_su_dung_muc_dich_cong_cong_co_kinh_doanh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "khaikiem_dat_san_xuat_kinh_doanh_phi_nong_nghiep_khong_phai_tmdv",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_thuong_mai_dich_vu"
+    },
+    {
+      "source_id": "khaikiem_dat_thuong_mai_dich_vu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "khaikiem_dat_xay_dung_cong_trinh_su_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_dat_co_so_san_xuat_phi_nong_nghiep"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_thuc_hien_nghia_vu_tai_chinh"
+    },
+    {
+      "source_id": "hanhvipaply_thuc_hien_nghia_vu_tai_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_nghia_vu_tai_chinh"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khaikiem_loai_dat_sau_khi_chuyen_muc_dich"
+    },
+    {
+      "source_id": "khaikiem_loai_dat_sau_khi_chuyen_muc_dich",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_che_do_su_dung_dat"
+    },
+    {
+      "source_id": "khaikiem_loai_dat_sau_khi_chuyen_muc_dich",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_quy_en_va_nghia_vu_cua_nguoi_su_dung_dat"
+    }
+  ]
+}

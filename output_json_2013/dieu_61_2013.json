@@ -1,0 +1,141 @@
+{
+  "entities": [
+    {
+      "id": "dieu_61",
+      "name": "Điều 61",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "name": "Nhà nước",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat",
+      "name": "thu hồi đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "khainiem_muc_dich_quoc_phong_an_ninh",
+      "name": "mục đích quốc phòng, an ninh",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "dieu_kien_lam_noi_dong_quan_tru_so_lam_viec",
+      "name": "Làm nơi đóng quân, trụ sở làm việc",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieu_kien_xay_dung_can_cu_quan_su",
+      "name": "Xây dựng căn cứ quân sự",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieu_kien_xay_dung_cong_trinh_phong_thu_quoc_gia_tran_dia_va_cong_trinh_dac_biet_ve_quoc_phong_an_ninh",
+      "name": "Xây dựng công trình phòng thủ quốc gia, trận địa và công trình đặc biệt về quốc phòng, an ninh",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieu_kien_xay_dung_ga_cang_quan_su",
+      "name": "Xây dựng ga, cảng quân sự",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieu_kien_xay_dung_cong_trinh_cong_nghiep_khoa_hoc_va_cong_nghe_van_hoa_the_thao_phuc_vu_truc_tiep_cho_quoc_phong_an_ninh",
+      "name": "Xây dựng công trình công nghiệp, khoa học và công nghệ, văn hóa, thể thao phục vụ trực tiếp cho quốc phòng, an ninh",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieu_kien_xay_dung_kho_tang_cua_luc_luong_vu_trang_nhan_dan",
+      "name": "Xây dựng kho tàng của lực lượng vũ trang nhân dân",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieu_kien_lam_truong_ban_thao_truong_bai_thu_vu_khi_bai_huy_vu_khi",
+      "name": "Làm trường bắn, thao trường, bãi thử vũ khí, bãi hủy vũ khí",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieu_kien_xay_dung_co_so_dao_tao_trung_tam_huan_luyen_benh_vien_nha_an_duong_cua_luc_luong_vu_trang_nhan_dan",
+      "name": "Xây dựng cơ sở đào tạo, trung tâm huấn luyện, bệnh viện, nhà an dưỡng của lực lượng vũ trang nhân dân",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieu_kien_xay_dung_nha_cong_vu_cua_luc_luong_vu_trang_nhan_dan",
+      "name": "Xây dựng nhà công vụ của lực lượng vũ trang nhân dân",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieu_kien_xay_dung_co_so_giam_giu_co_so_giao_duc_do_bo_quoc_phong_bo_cong_an_quan_ly",
+      "name": "Xây dựng cơ sở giam giữ, cơ sở giáo dục do Bộ Quốc phòng, Bộ Công an quản lý",
+      "label": "ĐiềuKiện"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_61",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_lam_noi_dong_quan_tru_so_lam_viec",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_xay_dung_can_cu_quan_su",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_xay_dung_cong_trinh_phong_thu_quoc_gia_tran_dia_va_cong_trinh_dac_biet_ve_quoc_phong_an_ninh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_xay_dung_ga_cang_quan_su",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_xay_dung_cong_trinh_cong_nghiep_khoa_hoc_va_cong_nghe_van_hoa_the_thao_phuc_vu_truc_tiep_cho_quoc_phong_an_ninh",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_xay_dung_kho_tang_cua_luc_luong_vu_trang_nhan_dan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_lam_truong_ban_thao_truong_bai_thu_vu_khi_bai_huy_vu_khi",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_xay_dung_co_so_dao_tao_trung_tam_huan_luyen_benh_vien_nha_an_duong_cua_luc_luong_vu_trang_nhan_dan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_xay_dung_nha_cong_vu_cua_luc_luong_vu_trang_nhan_dan",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    },
+    {
+      "source_id": "dieu_kien_xay_dung_co_so_giam_giu_co_so_giao_duc_do_bo_quoc_phong_bo_cong_an_quan_ly",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_muc_dich_quoc_phong_an_ninh"
+    }
+  ]
+}

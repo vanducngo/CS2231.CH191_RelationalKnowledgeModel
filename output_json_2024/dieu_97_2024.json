@@ -1,0 +1,146 @@
+{
+  "entities": [
+    {
+      "id": "dieu_97",
+      "label": "ĐiềuLuật",
+      "name": "Điều 97"
+    },
+    {
+      "id": "boi_thuong_ve_dat",
+      "label": "HànhViPhápLý",
+      "name": "Bồi thường về đất"
+    },
+    {
+      "id": "nha_nuoc_thu_hoi_dat_nong_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước thu hồi đất nông nghiệp"
+    },
+    {
+      "id": "to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "cong_dong_dan_cu",
+      "label": "ChủThể",
+      "name": "Cộng đồng dân cư"
+    },
+    {
+      "id": "to_chuc_ton_giao",
+      "label": "ChủThể",
+      "name": "Tổ chức tôn giáo"
+    },
+    {
+      "id": "to_chuc_ton_giao_truc_thuoc",
+      "label": "ChủThể",
+      "name": "Tổ chức tôn giáo trực thuộc"
+    },
+    {
+      "id": "dieu_kien_boi_thuong_dieu_95",
+      "label": "ĐiềuKiện",
+      "name": "đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này"
+    },
+    {
+      "id": "dang_su_dung_dat_nong_nghiep",
+      "label": "ĐiềuKiện",
+      "name": "đang sử dụng đất nông nghiệp"
+    },
+    {
+      "id": "duoc_nha_nuoc_giao_dat_co_thu_tien_sd_dat",
+      "label": "ĐiềuKiện",
+      "name": "được Nhà nước giao đất có thu tiền sử dụng đất"
+    },
+    {
+      "id": "duoc_cho_thue_dat_thu_tien_thue_mot_lan",
+      "label": "ĐiềuKiện",
+      "name": "cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "nhận chuyển nhượng quyền sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_97",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "boi_thuong_ve_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "nha_nuoc_thu_hoi_dat_nong_nghiep"
+    },
+    {
+      "source_id": "boi_thuong_ve_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "to_chuc_kinh_te"
+    },
+    {
+      "source_id": "to_chuc_kinh_te",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "duoc_nha_nuoc_giao_dat_co_thu_tien_sd_dat"
+    },
+    {
+      "source_id": "to_chuc_kinh_te",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "duoc_cho_thue_dat_thu_tien_thue_mot_lan"
+    },
+    {
+      "source_id": "to_chuc_kinh_te",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "nhan_chuyen_nhuong_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "to_chuc_kinh_te",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_boi_thuong_dieu_95"
+    },
+    {
+      "source_id": "boi_thuong_ve_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "cong_dong_dan_cu"
+    },
+    {
+      "source_id": "cong_dong_dan_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dang_su_dung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "cong_dong_dan_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_boi_thuong_dieu_95"
+    },
+    {
+      "source_id": "boi_thuong_ve_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "to_chuc_ton_giao"
+    },
+    {
+      "source_id": "to_chuc_ton_giao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dang_su_dung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "to_chuc_ton_giao",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_boi_thuong_dieu_95"
+    },
+    {
+      "source_id": "boi_thuong_ve_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "to_chuc_ton_giao_truc_thuoc"
+    },
+    {
+      "source_id": "to_chuc_ton_giao_truc_thuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dang_su_dung_dat_nong_nghiep"
+    },
+    {
+      "source_id": "to_chuc_ton_giao_truc_thuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_boi_thuong_dieu_95"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "entities": [
+    {
+      "id": "dieu_185",
+      "label": "Điều 185",
+      "type": "ĐiềuLuật"
+    },
+    {
+      "id": "dieu_174",
+      "label": "Điều 174",
+      "type": "ĐiềuLuật"
+    },
+    {
+      "id": "dieu_175",
+      "label": "Điều 175",
+      "type": "ĐiềuLuật"
+    },
+    {
+      "id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "label": "Người Việt Nam định cư ở nước ngoài",
+      "type": "ChủThể"
+    },
+    {
+      "id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
+      "label": "doanh nghiệp có vốn đầu tư nước ngoài",
+      "type": "ChủThể"
+    },
+    {
+      "id": "hanhvi_su_dung_dat",
+      "label": "sử dụng đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "label": "nhận chuyển nhượng quyền sử dụng đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhvi_thue_dat",
+      "label": "thuê đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhvi_thue_lai_dat",
+      "label": "thuê lại đất",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "khainiem_quyen_va_nghia_vu",
+      "label": "Quyền và nghĩa vụ",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_quyen_su_dung_dat",
+      "label": "quyền sử dụng đất",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_khu_cong_nghiep",
+      "label": "khu công nghiệp",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_cum_cong_nghiep",
+      "label": "cụm công nghiệp",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_khu_che_xuat",
+      "label": "khu chế xuất",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_khu_cong_nghe_cao",
+      "label": "khu công nghệ cao",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_khu_kinh_te",
+      "label": "khu kinh tế",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "dieukien_tra_tien_thue_dat_thue_lai_mot_lan",
+      "label": "trả tiền thuê đất, thuê lại đất một lần cho cả thời gian thuê, thuê lại",
+      "type": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_tra_tien_thue_dat_thue_lai_hang_nam",
+      "label": "trả tiền thuê đất, thuê lại đất hàng năm",
+      "type": "ĐiềuKiện"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_185",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_va_nghia_vu"
+    },
+    {
+      "source_id": "dieu_185",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "dieu_185",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai"
+    },
+    {
+      "source_id": "dieu_185",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_cong_nghiep"
+    },
+    {
+      "source_id": "hanhvi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_cum_cong_nghiep"
+    },
+    {
+      "source_id": "hanhvi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_che_xuat"
+    },
+    {
+      "source_id": "hanhvi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_cong_nghe_cao"
+    },
+    {
+      "source_id": "hanhvi_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_kinh_te"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_nhan_chuyen_nuong_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_cong_nghiep"
+    },
+    {
+      "source_id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_cum_cong_nghiep"
+    },
+    {
+      "source_id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_che_xuat"
+    },
+    {
+      "source_id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_cong_nghe_cao"
+    },
+    {
+      "source_id": "hanhvi_nhan_chuyen_nhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_kinh_te"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyen_va_nghia_vu"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_174"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thue_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thue_lai_dat"
+    },
+    {
+      "source_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thue_dat"
+    },
+    {
+      "source_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thue_lai_dat"
+    },
+    {
+      "source_id": "hanhvi_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_cong_nghiep"
+    },
+    {
+      "source_id": "hanhvi_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_cum_cong_nghiep"
+    },
+    {
+      "source_id": "hanhvi_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_che_xuat"
+    },
+    {
+      "source_id": "hanhvi_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_cong_nghe_cao"
+    },
+    {
+      "source_id": "hanhvi_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_kinh_te"
+    },
+    {
+      "source_id": "hanhvi_thue_lai_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_cong_nghiep"
+    },
+    {
+      "source_id": "hanhvi_thue_lai_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_cum_cong_nghiep"
+    },
+    {
+      "source_id": "hanhvi_thue_lai_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_che_xuat"
+    },
+    {
+      "source_id": "hanhvi_thue_lai_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_cong_nghe_cao"
+    },
+    {
+      "source_id": "hanhvi_thue_lai_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_kinh_te"
+    },
+    {
+      "source_id": "dieukien_tra_tien_thue_dat_thue_lai_mot_lan",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_quyen_va_nghia_vu"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_174"
+    },
+    {
+      "source_id": "dieukien_tra_tien_thue_dat_thue_lai_hang_nam",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_quyen_va_nghia_vu"
+    },
+    {
+      "source_id": "khainiem_quyen_va_nghia_vu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_175"
+    }
+  ]
+}

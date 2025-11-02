@@ -1,0 +1,206 @@
+{
+  "entities": [
+    {
+      "id": "dieu_97",
+      "name": "Điều 97",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khauniem_GCN_moi",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_nguoi_co_quyen",
+      "name": "người có quyền sử dụng đất, quyền sở hữu nhà ở, quyền sở hữu tài sản khác gắn liền với đất",
+      "label": "ChủThể"
+    },
+    {
+      "id": "khauniem_mau_thong_nhat",
+      "name": "một loại mẫu thống nhất trong cả nước",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_bo_truong_BTNMT",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhvi_quy_dinh_cu_the",
+      "name": "quy định cụ thể",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "khauniem_GCN_QSDĐ_cu",
+      "name": "Giấy chứng nhận quyền sử dụng đất (đã cấp trước 10/12/2009)",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khauniem_GCN_QSHNO_QSDĐO_cu",
+      "name": "Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở (đã cấp trước 10/12/2009)",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khauniem_GCN_QSHNO_cu",
+      "name": "Giấy chứng nhận quyền sở hữu nhà ở (đã cấp trước 10/12/2009)",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khauniem_GCN_QSHCTXD_cu",
+      "name": "Giấy chứng nhận quyền sở hữu công trình xây dựng (đã cấp trước 10/12/2009)",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khauniem_phap_luat_dat_dai",
+      "name": "pháp luật về đất đai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khauniem_phap_luat_nha_o",
+      "name": "pháp luật về nhà ở",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khauniem_phap_luat_xay_dung",
+      "name": "pháp luật về xây dựng",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "dieukien_cap_truoc_10_12_2009",
+      "name": "trước ngày 10 tháng 12 năm 2009",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "khauniem_gia_tri_phap_ly",
+      "name": "giá trị pháp lý",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_nguoi_da_duoc_cap_GCN_truoc_2009",
+      "name": "người đã được cấp Giấy chứng nhận trước ngày 10 tháng 12 năm 2009",
+      "label": "ChủThể"
+    },
+    {
+      "id": "dieukien_co_nhu_cau_cap_doi",
+      "name": "có nhu cầu cấp đổi",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "hanhvi_cap_doi",
+      "name": "cấp đổi Giấy chứng nhận",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "khauniem_Luat_Dat_dai_2013",
+      "name": "Luật này (Luật Đất đai 2013)",
+      "label": "KháiNiệm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_97",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_GCN_moi"
+    },
+    {
+      "source_id": "khauniem_GCN_moi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_quyen"
+    },
+    {
+      "source_id": "khauniem_GCN_moi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_mau_thong_nhat"
+    },
+    {
+      "source_id": "chuthe_bo_truong_BTNMT",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_GCN_moi"
+    },
+    {
+      "source_id": "chuthe_bo_truong_BTNMT",
+      "relationship_type": "THỰC_HIỆN",
+      "target_id": "hanhvi_quy_dinh_cu_the"
+    },
+    {
+      "source_id": "khauniem_GCN_QSDĐ_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_cap_truoc_10_12_2009"
+    },
+    {
+      "source_id": "khauniem_GCN_QSHNO_QSDĐO_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_cap_truoc_10_12_2009"
+    },
+    {
+      "source_id": "khauniem_GCN_QSHNO_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_cap_truoc_10_12_2009"
+    },
+    {
+      "source_id": "khauniem_GCN_QSHCTXD_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_cap_truoc_10_12_2009"
+    },
+    {
+      "source_id": "khauniem_GCN_QSDĐ_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_phap_luat_dat_dai"
+    },
+    {
+      "source_id": "khauniem_GCN_QSHNO_QSDĐO_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_phap_luat_nha_o"
+    },
+    {
+      "source_id": "khauniem_GCN_QSHNO_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_phap_luat_nha_o"
+    },
+    {
+      "source_id": "khauniem_GCN_QSHCTXD_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_phap_luat_xay_dung"
+    },
+    {
+      "source_id": "khauniem_GCN_QSDĐ_cu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_gia_tri_phap_ly"
+    },
+    {
+      "source_id": "khauniem_GCN_QSHNO_QSDĐO_cu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_gia_tri_phap_ly"
+    },
+    {
+      "source_id": "khauniem_GCN_QSHNO_cu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_gia_tri_phap_ly"
+    },
+    {
+      "source_id": "khauniem_GCN_QSHCTXD_cu",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_gia_tri_phap_ly"
+    },
+    {
+      "source_id": "hanhvi_cap_doi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_da_duoc_cap_GCN_truoc_2009"
+    },
+    {
+      "source_id": "hanhvi_cap_doi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_nhu_cau_cap_doi"
+    },
+    {
+      "source_id": "hanhvi_cap_doi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khauniem_GCN_moi"
+    },
+    {
+      "source_id": "hanhvi_cap_doi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khauniem_Luat_Dat_dai_2013"
+    }
+  ]
+}

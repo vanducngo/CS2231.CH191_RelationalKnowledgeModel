@@ -1,0 +1,191 @@
+{
+  "entities": [
+    {
+      "id": "dieu_71",
+      "label": "ĐiềuLuật",
+      "name": "Điều 71. Thẩm định quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhvi_thamdinh_quyhoach_kehoach_sudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Thẩm định quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_hoidong_thamdinh",
+      "label": "KháiNiệm",
+      "name": "Hội đồng thẩm định quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "chuthe_thutuong_chinhphu",
+      "label": "ChủThể",
+      "name": "Thủ tướng Chính phủ"
+    },
+    {
+      "id": "chuthe_botruong_bo_tnmt",
+      "label": "ChủThể",
+      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_chutich_ubnd_captinh",
+      "label": "ChủThể",
+      "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_hoidong_thamdinh",
+      "label": "ChủThể",
+      "name": "Hội đồng thẩm định"
+    },
+    {
+      "id": "chuthe_coquan_tochuc_lap_qh_kh",
+      "label": "ChủThể",
+      "name": "Cơ quan tổ chức lập quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_noidung_thamdinh",
+      "label": "KháiNiệm",
+      "name": "Nội dung thẩm định quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhvi_thamdinh_qhsd_captinh_huyen",
+      "label": "HànhViPhápLý",
+      "name": "Thẩm định quy hoạch sử dụng đất cấp tỉnh và cấp huyện"
+    },
+    {
+      "id": "hanhvi_thamdinh_khsd",
+      "label": "HànhViPhápLý",
+      "name": "Thẩm định kế hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhvi_thamdinh_qhsd_quocphong_anninh",
+      "label": "HànhViPhápLý",
+      "name": "Thẩm định quy hoạch sử dụng đất quốc phòng, an ninh"
+    },
+    {
+      "id": "hanhvi_tiepthu_giaitrinh",
+      "label": "HànhViPhápLý",
+      "name": "Tiếp thu, giải trình theo nội dung thông báo kết quả thẩm định"
+    },
+    {
+      "id": "hanhvi_kiemtra_khaosat_thucdia",
+      "label": "HànhViPhápLý",
+      "name": "Kiểm tra, khảo sát thực địa"
+    },
+    {
+      "id": "hanhvi_thanhlap_hoidong_thamdinh",
+      "label": "HànhViPhápLý",
+      "name": "Thành lập Hội đồng thẩm định"
+    },
+    {
+      "id": "dieukien_coso_phaply_khoahoc",
+      "label": "ĐiềuKiện",
+      "name": "Cơ sở pháp lý, cơ sở khoa học"
+    },
+    {
+      "id": "dieukien_mucdo_phuhop",
+      "label": "ĐiềuKiện",
+      "name": "Mức độ phù hợp với quy hoạch đã được phê duyệt"
+    },
+    {
+      "id": "dieukien_hieuqua_kt_xh_mt",
+      "label": "ĐiềuKiện",
+      "name": "Hiệu quả kinh tế, xã hội, môi trường"
+    },
+    {
+      "id": "dieukien_tinh_khathi",
+      "label": "ĐiềuKiện",
+      "name": "Tính khả thi"
+    },
+    {
+      "id": "khainiem_phapluat_ve_quyhoach",
+      "label": "KháiNiệm",
+      "name": "Pháp luật về quy hoạch"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_71",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thamdinh_quyhoach_kehoach_sudungdat"
+    },
+    {
+      "source_id": "dieu_71",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_hoidong_thamdinh"
+    },
+    {
+      "source_id": "dieu_71",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_noidung_thamdinh"
+    },
+    {
+      "source_id": "hanhvi_thanhlap_hoidong_thamdinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_thutuong_chinhphu"
+    },
+    {
+      "source_id": "hanhvi_thanhlap_hoidong_thamdinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_botruong_bo_tnmt"
+    },
+    {
+      "source_id": "hanhvi_thanhlap_hoidong_thamdinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chutich_ubnd_captinh"
+    },
+    {
+      "source_id": "hanhvi_thamdinh_qhsd_captinh_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_coso_phaply_khoahoc"
+    },
+    {
+      "source_id": "hanhvi_thamdinh_qhsd_captinh_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_mucdo_phuhop"
+    },
+    {
+      "source_id": "hanhvi_thamdinh_qhsd_captinh_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hieuqua_kt_xh_mt"
+    },
+    {
+      "source_id": "hanhvi_thamdinh_qhsd_captinh_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tinh_khathi"
+    },
+    {
+      "source_id": "hanhvi_thamdinh_khsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_mucdo_phuhop"
+    },
+    {
+      "source_id": "hanhvi_thamdinh_khsd",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tinh_khathi"
+    },
+    {
+      "source_id": "chuthe_hoidong_thamdinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_thamdinh_quyhoach_kehoach_sudungdat"
+    },
+    {
+      "source_id": "hanhvi_thamdinh_quyhoach_kehoach_sudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_tiepthu_giaitrinh"
+    },
+    {
+      "source_id": "hanhvi_tiepthu_giaitrinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_tochuc_lap_qh_kh"
+    },
+    {
+      "source_id": "chuthe_hoidong_thamdinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_kiemtra_khaosat_thucdia"
+    },
+    {
+      "source_id": "hanhvi_thamdinh_qhsd_quocphong_anninh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phapluat_ve_quyhoach"
+    }
+  ]
+}

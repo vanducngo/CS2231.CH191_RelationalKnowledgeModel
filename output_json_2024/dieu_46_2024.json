@@ -1,0 +1,281 @@
+{
+  "entities": [
+    {
+      "id": "dieu_46",
+      "label": "ĐiềuLuật",
+      "name": "Điều 46"
+    },
+    {
+      "id": "khaikiem_dieukien_ban_taisan_gan_lien_voi_dat_quyen_thue_hang_nam",
+      "label": "KháiNiệm",
+      "name": "Điều kiện bán tài sản gắn liền với đất, quyền thuê trong hợp đồng thuê đất được Nhà nước cho thuê đất thu tiền thuê đất hằng năm"
+    },
+    {
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "người gốc Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_tochuc_kinhte_co_von_dau_tu_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "tổ chức kinh tế có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "chuthe_nguoi_mua_taisan",
+      "label": "ChủThể",
+      "name": "Người mua tài sản gắn liền với đất hoặc mua tài sản gắn liền với đất và quyền thuê trong hợp đồng thuê đất"
+    },
+    {
+      "id": "hanhviphaply_ban_taisan_gan_lien_voi_dat",
+      "label": "HànhViPhápLý",
+      "name": "bán tài sản gắn liền với đất"
+    },
+    {
+      "id": "hanhviphaply_nha_nuoc_cho_thue_dat_thu_tien_hang_nam",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước cho thuê đất thu tiền thuê đất hằng năm"
+    },
+    {
+      "id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue",
+      "label": "HànhViPhápLý",
+      "name": "bán tài sản gắn liền với đất và quyền thuê trong hợp đồng thuê"
+    },
+    {
+      "id": "hanhviphaply_nha_nuoc_cho_thue_dat_tra_tien_hang_nam",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước cho thuê đất trả tiền thuê đất hằng năm"
+    },
+    {
+      "id": "hanhviphaply_su_dung_dat_dung_muc_dich",
+      "label": "HànhViPhápLý",
+      "name": "tiếp tục sử dụng đất đúng mục đích trong thời hạn sử dụng đất còn lại"
+    },
+    {
+      "id": "hanhviphaply_khau_tru_tien_ung_truoc",
+      "label": "HànhViPhápLý",
+      "name": "tiếp tục khấu trừ tiền đã ứng trước"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_thu_tuc_dang_ky_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện thủ tục đăng ký đất đai"
+    },
+    {
+      "id": "hanhviphaply_tach_thua",
+      "label": "HànhViPhápLý",
+      "name": "tách thửa"
+    },
+    {
+      "id": "hanhviphaply_cap_giay_chung_nhan",
+      "label": "HànhViPhápLý",
+      "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "hanhviphaply_nha_nuoc_cho_thue_dat_kd_kcht",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước cho thuê đất trả tiền thuê đất hằng năm để thực hiện dự án xây dựng kinh doanh kết cấu hạ tầng"
+    },
+    {
+      "id": "dieukien_taisan_taolap_hop_phap",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản gắn liền với đất thuê được tạo lập hợp pháp"
+    },
+    {
+      "id": "dieukien_taisan_da_dang_ky",
+      "label": "ĐiềuKiện",
+      "name": "đã được đăng ký theo quy định của pháp luật"
+    },
+    {
+      "id": "dieukien_hoan_thanh_xay_dung_theo_quy_hoach_du_an",
+      "label": "ĐiềuKiện",
+      "name": "Đã hoàn thành việc xây dựng theo đúng quy hoạch xây dựng chi tiết và dự án đầu tư"
+    },
+    {
+      "id": "dieukien_ung_truoc_boi_thuong_chua_khau_tru_het",
+      "label": "ĐiềuKiện",
+      "name": "Đã ứng trước tiền bồi thường, hỗ trợ, tái định cư mà chưa khấu trừ hết vào tiền thuê đất phải nộp"
+    },
+    {
+      "id": "dieukien_du_dieu_kien_tach_thua",
+      "label": "ĐiềuKiện",
+      "name": "đủ điều kiện tách thửa"
+    },
+    {
+      "id": "dieukien_khoan_1_dieu_45",
+      "label": "ĐiềuKiện",
+      "name": "điều kiện quy định tại khoản 1 Điều 45 của Luật này"
+    },
+    {
+      "id": "dieukien_luat_kinh_doanh_bds",
+      "label": "ĐiềuKiện",
+      "name": "điều kiện khác theo quy định của Luật Kinh doanh bất động sản"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_46",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_dieukien_ban_taisan_gan_lien_voi_dat_quyen_thue_hang_nam"
+    },
+    {
+      "source_id": "dieu_46",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "dieu_46",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue"
+    },
+    {
+      "source_id": "dieu_46",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_mua_taisan"
+    },
+    {
+      "source_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "chuthe_tochuc_kinhte_co_von_dau_tu_nuoc_ngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_nha_nuoc_cho_thue_dat_thu_tien_hang_nam"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisan_taolap_hop_phap"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisan_da_dang_ky"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hoan_thanh_xay_dung_theo_quy_hoach_du_an"
+    },
+    {
+      "source_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue"
+    },
+    {
+      "source_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue"
+    },
+    {
+      "source_id": "chuthe_tochuc_kinhte_co_von_dau_tu_nuoc_ngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_nha_nuoc_cho_thue_dat_tra_tien_hang_nam"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisan_taolap_hop_phap"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_taisan_da_dang_ky"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hoan_thanh_xay_dung_theo_quy_hoach_du_an"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_va_quyen_thue_hd_thue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ung_truoc_boi_thuong_chua_khau_tru_het"
+    },
+    {
+      "source_id": "chuthe_nguoi_mua_taisan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_su_dung_dat_dung_muc_dich"
+    },
+    {
+      "source_id": "chuthe_nguoi_mua_taisan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_khau_tru_tien_ung_truoc"
+    },
+    {
+      "source_id": "hanhviphaply_khau_tru_tien_ung_truoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ung_truoc_boi_thuong_chua_khau_tru_het"
+    },
+    {
+      "source_id": "chuthe_nguoi_mua_taisan",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_thu_tuc_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_du_dieu_kien_tach_thua"
+    },
+    {
+      "source_id": "dieukien_du_dieu_kien_tach_thua",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tach_thua"
+    },
+    {
+      "source_id": "hanhviphaply_tach_thua",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_nha_nuoc_cho_thue_dat_kd_kcht"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khoan_1_dieu_45"
+    },
+    {
+      "source_id": "hanhviphaply_ban_taisan_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_luat_kinh_doanh_bds"
+    }
+  ]
+}

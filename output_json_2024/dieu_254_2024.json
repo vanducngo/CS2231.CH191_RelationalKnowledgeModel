@@ -1,0 +1,516 @@
+{
+  "entities": [
+    {
+      "id": "dieu_254",
+      "label": "ĐiềuLuật",
+      "name": "Điều 254 Luật Đất đai 2024"
+    },
+    {
+      "id": "khainiem_quyet_dinh_thu_hoi_dat",
+      "label": "KháiNiệm",
+      "name": "quyết định thu hồi đất"
+    },
+    {
+      "id": "khainiem_luat_dat_dai_2024",
+      "label": "KháiNiệm",
+      "name": "Luật Đất đai 2024"
+    },
+    {
+      "id": "khainiem_quyet_dinh_phe_duyet_phuong_an_bt_ht_tdc",
+      "label": "KháiNiệm",
+      "name": "quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "khainiem_boi_thuong_ho_tro_tai_dinh_cu",
+      "label": "KháiNiệm",
+      "name": "bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "khainiem_phap_luat_thoi_diem_thu_hoi_dat",
+      "label": "KháiNiệm",
+      "name": "pháp luật tại thời điểm Nhà nước ban hành quyết định thu hồi đất"
+    },
+    {
+      "id": "khainiem_van_ban_xac_dinh_vi_pham",
+      "label": "KháiNiệm",
+      "name": "văn bản xác định hành vi vi phạm"
+    },
+    {
+      "id": "chuthe_chu_dau_tu",
+      "label": "ChủThể",
+      "name": "chủ đầu tư"
+    },
+    {
+      "id": "khainiem_khong_su_dung_dat_hoac_cham_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "không đưa đất vào sử dụng hoặc chậm đưa đất vào sử dụng"
+    },
+    {
+      "id": "khainiem_dieu_64_ldd_2013",
+      "label": "KháiNiệm",
+      "name": "điểm i khoản 1 Điều 64 của Luật Đất đai số 45/2013/QH13"
+    },
+    {
+      "id": "chuthe_ubnd_cap_co_tham_quyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp có thẩm quyền"
+    },
+    {
+      "id": "khainiem_dieu_81_ldd_2024",
+      "label": "KháiNiệm",
+      "name": "khoản 8 và khoản 9 Điều 81 của Luật Đất đai 2024"
+    },
+    {
+      "id": "khainiem_tien_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "tiền sử dụng đất"
+    },
+    {
+      "id": "khainiem_tien_thue_dat",
+      "label": "KháiNiệm",
+      "name": "tiền thuê đất"
+    },
+    {
+      "id": "khainiem_tai_san_tren_dat_thu_hoi",
+      "label": "KháiNiệm",
+      "name": "tài sản đã đầu tư trên đất thu hồi"
+    },
+    {
+      "id": "khainiem_quyet_dinh_giao_dat_tai_dinh_cu",
+      "label": "KháiNiệm",
+      "name": "quyết định giao đất tái định cư"
+    },
+    {
+      "id": "khainiem_gia_dat_tinh_tien_su_dung_dat_tai_dinh_cu",
+      "label": "KháiNiệm",
+      "name": "giá đất tính tiền sử dụng đất tại nơi tái định cư"
+    },
+    {
+      "id": "khainiem_gia_dat_tai_dinh_cu",
+      "label": "KháiNiệm",
+      "name": "giá đất tái định cư"
+    },
+    {
+      "id": "khainiem_du_an_dau_tu",
+      "label": "KháiNiệm",
+      "name": "Dự án đầu tư"
+    },
+    {
+      "id": "chuthe_thu_tuong_chinh_phu",
+      "label": "ChủThể",
+      "name": "Thủ tướng Chính phủ"
+    },
+    {
+      "id": "khainiem_khung_chinh_sach_bt_ht_tdc",
+      "label": "KháiNiệm",
+      "name": "Khung chính sách bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "chuthe_nguoi_co_dat_thu_hoi",
+      "label": "ChủThể",
+      "name": "người có đất thu hồi"
+    },
+    {
+      "id": "khainiem_chinh_sach_co_loi_hon",
+      "label": "KháiNiệm",
+      "name": "các chính sách có lợi hơn"
+    },
+    {
+      "id": "khainiem_luat_dat_dai_2013",
+      "label": "KháiNiệm",
+      "name": "Luật Đất đai số 45/2013/QH13"
+    },
+    {
+      "id": "chuthe_ubnd_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "dieukien_chua_phuong_an_bt_ht_tdc",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp đã có quyết định thu hồi đất trước hiệu lực Luật này nhưng chưa có quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_tiep_tuc_thuc_hien_bt_ht_tdc_theo_luat_nay",
+      "label": "HànhViPhápLý",
+      "name": "Tiếp tục thực hiện bồi thường, hỗ trợ, tái định cư theo Luật Đất đai 2024"
+    },
+    {
+      "id": "dieukien_da_co_phuong_an_bt_ht_tdc_nhung_chua_thuc_hien",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp đã có quyết định thu hồi đất và phương án bồi thường, hỗ trợ, tái định cư trước hiệu lực Luật này nhưng chưa thực hiện"
+    },
+    {
+      "id": "hanhviphaply_tiep_tuc_thuc_hien_phuong_an_bt_ht_tdc_da_phe_duyet",
+      "label": "HànhViPhápLý",
+      "name": "Tiếp tục thực hiện phương án bồi thường, hỗ trợ, tái định cư đã phê duyệt"
+    },
+    {
+      "id": "hanhviphaply_xu_ly_chi_tra_bt_cham",
+      "label": "HànhViPhápLý",
+      "name": "Xử lý chi trả bồi thường chậm"
+    },
+    {
+      "id": "dieukien_vi_pham_khong_su_dung_dat_hoac_cham_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp vi phạm không đưa đất vào sử dụng hoặc chậm đưa đất vào sử dụng trước hiệu lực Luật này"
+    },
+    {
+      "id": "dieukien_chua_co_quyet_dinh_thu_hoi_dat",
+      "label": "ĐiềuKiện",
+      "name": "Chưa có quyết định thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_ubnd_xu_ly_theo_dieu_81",
+      "label": "HànhViPhápLý",
+      "name": "Ủy ban nhân dân cấp có thẩm quyền xử lý theo Điều 81 Luật Đất đai 2024"
+    },
+    {
+      "id": "dieukien_da_ban_hanh_quyet_dinh_thu_hoi_dat",
+      "label": "ĐiềuKiện",
+      "name": "Đã ban hành quyết định thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_thu_hoi_dat_va_xu_ly_tai_san",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện thu hồi đất và xử lý tiền sử dụng đất, tiền thuê đất, tài sản trên đất thu hồi"
+    },
+    {
+      "id": "dieukien_da_co_phuong_an_bt_ht_tdc_truoc_luc_luat_co_hieu_luc_nhung_quyet_dinh_giao_dat_tdc_sau_luc",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp có phương án bồi thường, hỗ trợ, tái định cư trước hiệu lực Luật này nhưng quyết định giao đất tái định cư sau hiệu lực Luật này"
+    },
+    {
+      "id": "hanhviphaply_xac_dinh_gia_dat_tdc_theo_thoi_diem_phe_duyet_phuong_an",
+      "label": "HànhViPhápLý",
+      "name": "Xác định giá đất tái định cư theo thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "dieukien_gia_dat_tdc_thap_hon_phuong_an",
+      "label": "ĐiềuKiện",
+      "name": "Giá đất tái định cư thấp hơn giá đất trong phương án bồi thường, hỗ trợ, tái định cư"
+    },
+    {
+      "id": "hanhviphaply_ap_dung_gia_dat_thoi_diem_giao_dat_tdc",
+      "label": "HànhViPhápLý",
+      "name": "Áp dụng giá đất tại thời điểm ban hành quyết định giao đất tái định cư"
+    },
+    {
+      "id": "dieukien_du_an_co_khung_chinh_sach_bt_ht_tdc_truoc_luc_luat_nhung_dia_phuong_chua_phe_duyet_phuong_an",
+      "label": "ĐiềuKiện",
+      "name": "Dự án đầu tư có Khung chính sách bồi thường, hỗ trợ, tái định cư trước hiệu lực Luật này nhưng địa phương chưa phê duyệt phương án"
+    },
+    {
+      "id": "hanhviphaply_ap_dung_chinh_sach_co_loi_hon",
+      "label": "HànhViPhápLý",
+      "name": "Áp dụng các chính sách có lợi hơn"
+    },
+    {
+      "id": "dieukien_du_an_thoa_thuan_chuyen_quyen_su_dung_dat_chua_hoan_thanh_truoc_luc_luat",
+      "label": "ĐiềuKiện",
+      "name": "Dự án đầu tư đang thực hiện thỏa thuận chuyển quyền sử dụng đất theo Luật Đất đai 2013 nhưng chưa hoàn thành trước hiệu lực Luật này"
+    },
+    {
+      "id": "hanhviphaply_thoa_thuan_chuyen_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "thỏa thuận về nhận chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_ubnd_cap_tinh_quyet_dinh_tiep_tuc_thoa_thuan_chuyen_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Ủy ban nhân dân cấp tỉnh quyết định cho phép tiếp tục thực hiện thỏa thuận chuyển quyền sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_254",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_chua_phuong_an_bt_ht_tdc"
+    },
+    {
+      "source_id": "dieukien_chua_phuong_an_bt_ht_tdc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tiep_tuc_thuc_hien_bt_ht_tdc_theo_luat_nay"
+    },
+    {
+      "source_id": "hanhviphaply_tiep_tuc_thuc_hien_bt_ht_tdc_theo_luat_nay",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_luat_dat_dai_2024"
+    },
+    {
+      "source_id": "dieukien_chua_phuong_an_bt_ht_tdc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_chua_phuong_an_bt_ht_tdc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_phe_duyet_phuong_an_bt_ht_tdc"
+    },
+    {
+      "source_id": "dieukien_chua_phuong_an_bt_ht_tdc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "dieu_254",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_da_co_phuong_an_bt_ht_tdc_nhung_chua_thuc_hien"
+    },
+    {
+      "source_id": "dieukien_da_co_phuong_an_bt_ht_tdc_nhung_chua_thuc_hien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_tiep_tuc_thuc_hien_phuong_an_bt_ht_tdc_da_phe_duyet"
+    },
+    {
+      "source_id": "dieukien_da_co_phuong_an_bt_ht_tdc_nhung_chua_thuc_hien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xu_ly_chi_tra_bt_cham"
+    },
+    {
+      "source_id": "hanhviphaply_xu_ly_chi_tra_bt_cham",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phap_luat_thoi_diem_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_da_co_phuong_an_bt_ht_tdc_nhung_chua_thuc_hien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_da_co_phuong_an_bt_ht_tdc_nhung_chua_thuc_hien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_phe_duyet_phuong_an_bt_ht_tdc"
+    },
+    {
+      "source_id": "dieu_254",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_vi_pham_khong_su_dung_dat_hoac_cham_su_dung_dat"
+    },
+    {
+      "source_id": "dieukien_vi_pham_khong_su_dung_dat_hoac_cham_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "dieukien_vi_pham_khong_su_dung_dat_hoac_cham_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_van_ban_xac_dinh_vi_pham"
+    },
+    {
+      "source_id": "dieukien_vi_pham_khong_su_dung_dat_hoac_cham_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chu_dau_tu"
+    },
+    {
+      "source_id": "dieukien_vi_pham_khong_su_dung_dat_hoac_cham_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khong_su_dung_dat_hoac_cham_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_khong_su_dung_dat_hoac_cham_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_dieu_64_ldd_2013"
+    },
+    {
+      "source_id": "dieukien_vi_pham_khong_su_dung_dat_hoac_cham_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_chua_co_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_chua_co_quyet_dinh_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ubnd_xu_ly_theo_dieu_81"
+    },
+    {
+      "source_id": "hanhviphaply_ubnd_xu_ly_theo_dieu_81",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ubnd_cap_co_tham_quyen"
+    },
+    {
+      "source_id": "hanhviphaply_ubnd_xu_ly_theo_dieu_81",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_dieu_81_ldd_2024"
+    },
+    {
+      "source_id": "dieukien_vi_pham_khong_su_dung_dat_hoac_cham_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_da_ban_hanh_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_da_ban_hanh_quyet_dinh_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuc_hien_thu_hoi_dat_va_xu_ly_tai_san"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_thu_hoi_dat_va_xu_ly_tai_san",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phap_luat_thoi_diem_thu_hoi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_thu_hoi_dat_va_xu_ly_tai_san",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tien_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_thu_hoi_dat_va_xu_ly_tai_san",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tien_thue_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_thu_hoi_dat_va_xu_ly_tai_san",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tai_san_tren_dat_thu_hoi"
+    },
+    {
+      "source_id": "dieu_254",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_da_co_phuong_an_bt_ht_tdc_truoc_luc_luat_co_hieu_luc_nhung_quyet_dinh_giao_dat_tdc_sau_luc"
+    },
+    {
+      "source_id": "dieukien_da_co_phuong_an_bt_ht_tdc_truoc_luc_luat_co_hieu_luc_nhung_quyet_dinh_giao_dat_tdc_sau_luc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_da_co_phuong_an_bt_ht_tdc_truoc_luc_luat_co_hieu_luc_nhung_quyet_dinh_giao_dat_tdc_sau_luc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_phe_duyet_phuong_an_bt_ht_tdc"
+    },
+    {
+      "source_id": "dieukien_da_co_phuong_an_bt_ht_tdc_truoc_luc_luat_co_hieu_luc_nhung_quyet_dinh_giao_dat_tdc_sau_luc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_giao_dat_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_da_co_phuong_an_bt_ht_tdc_truoc_luc_luat_co_hieu_luc_nhung_quyet_dinh_giao_dat_tdc_sau_luc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xac_dinh_gia_dat_tdc_theo_thoi_diem_phe_duyet_phuong_an"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_gia_dat_tdc_theo_thoi_diem_phe_duyet_phuong_an",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_gia_dat_tinh_tien_su_dung_dat_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_gia_dat_tdc_theo_thoi_diem_phe_duyet_phuong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_phe_duyet_phuong_an_bt_ht_tdc"
+    },
+    {
+      "source_id": "dieukien_da_co_phuong_an_bt_ht_tdc_truoc_luc_luat_co_hieu_luc_nhung_quyet_dinh_giao_dat_tdc_sau_luc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_gia_dat_tdc_thap_hon_phuong_an"
+    },
+    {
+      "source_id": "dieukien_gia_dat_tdc_thap_hon_phuong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_gia_dat_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_gia_dat_tdc_thap_hon_phuong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_giao_dat_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_gia_dat_tdc_thap_hon_phuong_an",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ap_dung_gia_dat_thoi_diem_giao_dat_tdc"
+    },
+    {
+      "source_id": "hanhviphaply_ap_dung_gia_dat_thoi_diem_giao_dat_tdc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_gia_dat_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_ap_dung_gia_dat_thoi_diem_giao_dat_tdc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_giao_dat_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieu_254",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_du_an_co_khung_chinh_sach_bt_ht_tdc_truoc_luc_luat_nhung_dia_phuong_chua_phe_duyet_phuong_an"
+    },
+    {
+      "source_id": "dieukien_du_an_co_khung_chinh_sach_bt_ht_tdc_truoc_luc_luat_nhung_dia_phuong_chua_phe_duyet_phuong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_du_an_dau_tu"
+    },
+    {
+      "source_id": "dieukien_du_an_co_khung_chinh_sach_bt_ht_tdc_truoc_luc_luat_nhung_dia_phuong_chua_phe_duyet_phuong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_thu_tuong_chinh_phu"
+    },
+    {
+      "source_id": "dieukien_du_an_co_khung_chinh_sach_bt_ht_tdc_truoc_luc_luat_nhung_dia_phuong_chua_phe_duyet_phuong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khung_chinh_sach_bt_ht_tdc"
+    },
+    {
+      "source_id": "dieukien_du_an_co_khung_chinh_sach_bt_ht_tdc_truoc_luc_luat_nhung_dia_phuong_chua_phe_duyet_phuong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quyet_dinh_phe_duyet_phuong_an_bt_ht_tdc"
+    },
+    {
+      "source_id": "dieukien_du_an_co_khung_chinh_sach_bt_ht_tdc_truoc_luc_luat_nhung_dia_phuong_chua_phe_duyet_phuong_an",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ap_dung_chinh_sach_co_loi_hon"
+    },
+    {
+      "source_id": "hanhviphaply_ap_dung_chinh_sach_co_loi_hon",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_co_dat_thu_hoi"
+    },
+    {
+      "source_id": "hanhviphaply_ap_dung_chinh_sach_co_loi_hon",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khung_chinh_sach_bt_ht_tdc"
+    },
+    {
+      "source_id": "hanhviphaply_ap_dung_chinh_sach_co_loi_hon",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_luat_dat_dai_2024"
+    },
+    {
+      "source_id": "dieu_254",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_du_an_thoa_thuan_chuyen_quyen_su_dung_dat_chua_hoan_thanh_truoc_luc_luat"
+    },
+    {
+      "source_id": "dieukien_du_an_thoa_thuan_chuyen_quyen_su_dung_dat_chua_hoan_thanh_truoc_luc_luat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_du_an_dau_tu"
+    },
+    {
+      "source_id": "dieukien_du_an_thoa_thuan_chuyen_quyen_su_dung_dat_chua_hoan_thanh_truoc_luc_luat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thoa_thuan_chuyen_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thoa_thuan_chuyen_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_luat_dat_dai_2013"
+    },
+    {
+      "source_id": "dieukien_du_an_thoa_thuan_chuyen_quyen_su_dung_dat_chua_hoan_thanh_truoc_luc_luat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ubnd_cap_tinh_quyet_dinh_tiep_tuc_thoa_thuan_chuyen_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_ubnd_cap_tinh_quyet_dinh_tiep_tuc_thoa_thuan_chuyen_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ubnd_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_ubnd_cap_tinh_quyet_dinh_tiep_tuc_thoa_thuan_chuyen_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thoa_thuan_chuyen_quyen_su_dung_dat"
+    }
+  ]
+}

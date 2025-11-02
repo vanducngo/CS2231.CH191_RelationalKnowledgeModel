@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_53",
+      "label": "ĐiềuLuật",
+      "name": "Điều 53"
+    },
+    {
+      "id": "khainiem_rungdacdung",
+      "label": "KháiNiệm",
+      "name": "Rừng đặc dụng"
+    },
+    {
+      "id": "chuthe_churung",
+      "label": "ChủThể",
+      "name": "Chủ rừng"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_hoatdongnghiencuukhoahoc",
+      "label": "HànhViPhápLý",
+      "name": "Hoạt động nghiên cứu khoa học"
+    },
+    {
+      "id": "hanhviphaply_nuoitrongphattrienthuhachcayduoclieu",
+      "label": "HànhViPhápLý",
+      "name": "Nuôi, trồng phát triển, thu hoạch cây dược liệu"
+    },
+    {
+      "id": "hanhviphaply_xaydungcongtrinhphucvudulich",
+      "label": "HànhViPhápLý",
+      "name": "Xây dựng công trình phục vụ du lịch sinh thái, nghỉ dưỡng, giải trí"
+    },
+    {
+      "id": "hanhviphaply_xaydungphuongan",
+      "label": "HànhViPhápLý",
+      "name": "Xây dựng phương án nuôi, trồng phát triển, thu hoạch cây dược liệu"
+    },
+    {
+      "id": "hanhviphaply_thuemoitruongrung",
+      "label": "HànhViPhápLý",
+      "name": "Thuê môi trường rừng"
+    },
+    {
+      "id": "dieukien_quychequanlyrung",
+      "label": "ĐiềuKiện",
+      "name": "Quy chế quản lý rừng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_53",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xaydungcongtrinhphucvudulich"
+    },
+    {
+      "source_id": "dieu_53",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_nuoitrongphattrienthuhachcayduoclieu"
+    },
+    {
+      "source_id": "dieu_53",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_rungdacdung"
+    },
+    {
+      "source_id": "dieu_53",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_churung"
+    },
+    {
+      "source_id": "hanhviphaply_xaydungcongtrinhphucvudulich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quychequanlyrung"
+    },
+    {
+      "source_id": "hanhviphaply_nuoitrongphattrienthuhachcayduoclieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quychequanlyrung"
+    },
+    {
+      "source_id": "hanhviphaply_nuoitrongphattrienthuhachcayduoclieu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xaydungphuongan"
+    },
+    {
+      "source_id": "hanhviphaply_xaydungphuongan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_churung"
+    },
+    {
+      "source_id": "hanhviphaply_xaydungphuongan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquancothamquyen"
+    },
+    {
+      "source_id": "chuthe_churung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuemoitruongrung"
+    },
+    {
+      "source_id": "hanhviphaply_thuemoitruongrung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "hanhviphaply_thuemoitruongrung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "hanhviphaply_thuemoitruongrung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_nuoitrongphattrienthuhachcayduoclieu"
+    },
+    {
+      "source_id": "hanhviphaply_thuemoitruongrung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_hoatdongnghiencuukhoahoc"
+    }
+  ]
+}

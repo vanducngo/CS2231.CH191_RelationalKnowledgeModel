@@ -1,0 +1,726 @@
+{
+  "entities": [
+    {
+      "id": "dieu_159",
+      "label": "ĐiềuLuật",
+      "name": "Điều 159"
+    },
+    {
+      "id": "khauniem_banggia_dat",
+      "label": "KháiNiệm",
+      "name": "Bảng giá đất"
+    },
+    {
+      "id": "khauniem_quyen_su_dung_dat_o",
+      "label": "KháiNiệm",
+      "name": "quyền sử dụng đất ở"
+    },
+    {
+      "id": "khauniem_muc_dich_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "mục đích sử dụng đất"
+    },
+    {
+      "id": "khauniem_tien_thue_dat_hang_nam",
+      "label": "KháiNiệm",
+      "name": "tiền thuê đất hằng năm"
+    },
+    {
+      "id": "khauniem_thue_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "thuế sử dụng đất"
+    },
+    {
+      "id": "khauniem_thue_thu_nhap_tu_chuyen_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "thuế thu nhập từ chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "khauniem_le_phi_trong_quan_ly_su_dung_dat_dai",
+      "label": "KháiNiệm",
+      "name": "lệ phí trong quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "khauniem_tien_xu_phat_vi_pham_hanh_chinh",
+      "label": "KháiNiệm",
+      "name": "tiền xử phạt vi phạm hành chính"
+    },
+    {
+      "id": "khauniem_linh_vuc_dat_dai",
+      "label": "KháiNiệm",
+      "name": "lĩnh vực đất đai"
+    },
+    {
+      "id": "khauniem_tien_boi_thuong_cho_nha_nuoc",
+      "label": "KháiNiệm",
+      "name": "tiền bồi thường cho Nhà nước"
+    },
+    {
+      "id": "khauniem_thiet_hai_trong_quan_ly_su_dung_dat_dai",
+      "label": "KháiNiệm",
+      "name": "thiệt hại trong quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "khauniem_hinh_thuc_giao_dat_co_thu_tien_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "giao đất có thu tiền sử dụng đất"
+    },
+    {
+      "id": "khauniem_hinh_thuc_cho_thue_dat_thu_tien_mot_lan",
+      "label": "KháiNiệm",
+      "name": "cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "khauniem_gia_khoi_diem_dau_gia_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "giá khởi điểm để đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "khauniem_quy_hoach_chi_tiet_xay_dung",
+      "label": "KháiNiệm",
+      "name": "quy hoạch chi tiết xây dựng"
+    },
+    {
+      "id": "khauniem_nha_o_thuoc_so_huu_nha_nuoc",
+      "label": "KháiNiệm",
+      "name": "nhà ở thuộc sở hữu nhà nước"
+    },
+    {
+      "id": "khauniem_khu_vuc_xay_dung_banggia_dat",
+      "label": "KháiNiệm",
+      "name": "khu vực (xây dựng bảng giá đất)"
+    },
+    {
+      "id": "khauniem_vi_tri_xay_dung_banggia_dat",
+      "label": "KháiNiệm",
+      "name": "vị trí (xây dựng bảng giá đất)"
+    },
+    {
+      "id": "khauniem_ban_do_dia_chinh_so",
+      "label": "KháiNiệm",
+      "name": "bản đồ địa chính số"
+    },
+    {
+      "id": "khauniem_co_so_du_lieu_gia_dat",
+      "label": "KháiNiệm",
+      "name": "cơ sở dữ liệu giá đất"
+    },
+    {
+      "id": "khauniem_thua_dat",
+      "label": "KháiNiệm",
+      "name": "thửa đất"
+    },
+    {
+      "id": "khauniem_vung_gia_tri",
+      "label": "KháiNiệm",
+      "name": "vùng giá trị"
+    },
+    {
+      "id": "khauniem_thua_dat_chuan",
+      "label": "KháiNiệm",
+      "name": "thửa đất chuẩn"
+    },
+    {
+      "id": "khauniem_banggia_dat_lan_dau",
+      "label": "KháiNiệm",
+      "name": "bảng giá đất lần đầu"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "hộ gia đình"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "chuthe_nguoi_dang_thue",
+      "label": "ChủThể",
+      "name": "người đang thuê"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_hoi_dong_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Hội đồng nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_co_quan_quan_ly_dat_dai_cap_tinh",
+      "label": "ChủThể",
+      "name": "Cơ quan có chức năng quản lý đất đai cấp tỉnh"
+    },
+    {
+      "id": "chuthe_to_chuc_tu_van_xac_dinh_gia_dat",
+      "label": "ChủThể",
+      "name": "tổ chức tư vấn xác định giá đất"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhvipaply_tinh_tien_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Tính tiền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_cong_nhan_quyen_su_dung_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "công nhận quyền sử dụng đất ở"
+    },
+    {
+      "id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_tinh_tien_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Tính tiền thuê đất"
+    },
+    {
+      "id": "hanhvipaply_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê đất"
+    },
+    {
+      "id": "hanhvipaply_tinh_thue_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Tính thuế sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_tinh_thue_thu_nhap_tu_chuyen_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Tính thuế thu nhập từ chuyển quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_tinh_le_phi",
+      "label": "HànhViPhápLý",
+      "name": "Tính lệ phí"
+    },
+    {
+      "id": "hanhvipaply_quan_ly_su_dung_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "hanhvipaply_tinh_tien_xu_phat_vi_pham_hanh_chinh",
+      "label": "HànhViPhápLý",
+      "name": "Tính tiền xử phạt vi phạm hành chính"
+    },
+    {
+      "id": "hanhvipaply_gay_thiet_hai_trong_quan_ly_su_dung_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "gây thiệt hại trong quản lý, sử dụng đất đai"
+    },
+    {
+      "id": "hanhvipaply_tinh_tien_boi_thuong_cho_nha_nuoc",
+      "label": "HànhViPhápLý",
+      "name": "Tính tiền bồi thường cho Nhà nước"
+    },
+    {
+      "id": "hanhvipaply_cong_nhan_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "công nhận quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất"
+    },
+    {
+      "id": "hanhvipaply_tinh_gia_khoi_diem_dau_gia_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Tính giá khởi điểm để đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_giao_dat_khong_thong_qua_dau_gia_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất không thông qua đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_ban_nha_o_thuoc_so_huu_nha_nuoc",
+      "label": "HànhViPhápLý",
+      "name": "bán nhà ở thuộc sở hữu nhà nước"
+    },
+    {
+      "id": "hanhvipaply_xay_dung_banggia_dat",
+      "label": "HànhViPhápLý",
+      "name": "xây dựng bảng giá đất"
+    },
+    {
+      "id": "hanhvipaply_trinh_banggia_dat",
+      "label": "HànhViPhápLý",
+      "name": "trình bảng giá đất"
+    },
+    {
+      "id": "hanhvipaply_quyet_dinh_banggia_dat",
+      "label": "HànhViPhápLý",
+      "name": "quyết định bảng giá đất"
+    },
+    {
+      "id": "hanhvipaply_cong_bo_banggia_dat",
+      "label": "HànhViPhápLý",
+      "name": "công bố bảng giá đất"
+    },
+    {
+      "id": "hanhvipaply_ap_dung_banggia_dat",
+      "label": "HànhViPhápLý",
+      "name": "áp dụng bảng giá đất"
+    },
+    {
+      "id": "hanhvipaply_dieu_chinh_banggia_dat",
+      "label": "HànhViPhápLý",
+      "name": "điều chỉnh bảng giá đất"
+    },
+    {
+      "id": "hanhvipaply_sua_doi_banggia_dat",
+      "label": "HànhViPhápLý",
+      "name": "sửa đổi bảng giá đất"
+    },
+    {
+      "id": "hanhvipaply_bo_sung_banggia_dat",
+      "label": "HànhViPhápLý",
+      "name": "bổ sung bảng giá đất"
+    },
+    {
+      "id": "hanhvipaply_giup_to_chuc_xay_dung_banggia_dat",
+      "label": "HànhViPhápLý",
+      "name": "giúp tổ chức việc xây dựng bảng giá đất"
+    },
+    {
+      "id": "hanhvipaply_thue_to_chuc_tu_van_xac_dinh_gia_dat",
+      "label": "HànhViPhápLý",
+      "name": "thuê tổ chức tư vấn xác định giá đất"
+    },
+    {
+      "id": "hanhvipaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết"
+    },
+    {
+      "id": "dieu_kien_thua_dat_khu_dat_dau_tu_ha_tang_theo_quy_hoach",
+      "label": "ĐiềuKiện",
+      "name": "thửa đất, khu đất đã được đầu tư hạ tầng kỹ thuật theo quy hoạch chi tiết xây dựng"
+    },
+    {
+      "id": "dieu_kien_khu_vuc_co_ban_do_dia_chinh_so_va_csdl_gia_dat",
+      "label": "ĐiềuKiện",
+      "name": "khu vực có bản đồ địa chính số và cơ sở dữ liệu giá đất"
+    },
+    {
+      "id": "dieu_kien_hang_nam_dieu_chinh",
+      "label": "ĐiềuKiện",
+      "name": "Hằng năm (điều chỉnh bảng giá đất)"
+    },
+    {
+      "id": "dieu_kien_can_thiet_dieu_chinh_trong_nam",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp cần thiết phải điều chỉnh, sửa đổi, bổ sung bảng giá đất trong năm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_159",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_banggia_dat"
+    },
+    {
+      "source_id": "dieu_159",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_xay_dung_banggia_dat"
+    },
+    {
+      "source_id": "dieu_159",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_ap_dung_banggia_dat"
+    },
+    {
+      "source_id": "dieu_159",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tinh_tien_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_tien_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat_o"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_tien_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat_o"
+    },
+    {
+      "source_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat_o",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tinh_tien_thue_dat"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_tien_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_cho_thue_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cho_thue_dat"
+    },
+    {
+      "source_id": "hanhvipaply_cho_thue_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_tien_thue_dat_hang_nam"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tinh_thue_su_dung_dat"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tinh_thue_thu_nhap_tu_chuyen_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_thue_thu_nhap_tu_chuyen_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_thue_thu_nhap_tu_chuyen_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tinh_le_phi"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_le_phi",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_quan_ly_su_dung_dat_dai"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tinh_tien_xu_phat_vi_pham_hanh_chinh"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_tien_xu_phat_vi_pham_hanh_chinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_linh_vuc_dat_dai"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tinh_tien_boi_thuong_cho_nha_nuoc"
+    },
+    {
+      "source_id": "hanhvipaply_gay_thiet_hai_trong_quan_ly_su_dung_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_tinh_tien_boi_thuong_cho_nha_nuoc"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_tien_boi_thuong_cho_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_tien_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_tien_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_hinh_thuc_giao_dat_co_thu_tien_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_hinh_thuc_cho_thue_dat_thu_tien_mot_lan"
+    },
+    {
+      "source_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvipaply_cong_nhan_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvipaply_tinh_gia_khoi_diem_dau_gia_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_gia_khoi_diem_dau_gia_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_giao_dat"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_gia_khoi_diem_dau_gia_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_cho_thue_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_giao_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cho_thue_dat"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_gia_khoi_diem_dau_gia_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_thua_dat_khu_dat_dau_tu_ha_tang_theo_quy_hoach"
+    },
+    {
+      "source_id": "dieu_kien_thua_dat_khu_dat_dau_tu_ha_tang_theo_quy_hoach",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_quy_hoach_chi_tiet_xay_dung"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_tien_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_giao_dat_khong_thong_qua_dau_gia_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvipaply_giao_dat_khong_thong_qua_dau_gia_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvipaply_giao_dat_khong_thong_qua_dau_gia_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvipaply_tinh_tien_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_ban_nha_o_thuoc_so_huu_nha_nuoc"
+    },
+    {
+      "source_id": "hanhvipaply_ban_nha_o_thuoc_so_huu_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_nha_o_thuoc_so_huu_nha_nuoc"
+    },
+    {
+      "source_id": "hanhvipaply_ban_nha_o_thuoc_so_huu_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_dang_thue"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_khu_vuc_xay_dung_banggia_dat"
+    },
+    {
+      "source_id": "khauniem_banggia_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_vi_tri_xay_dung_banggia_dat"
+    },
+    {
+      "source_id": "hanhvipaply_xay_dung_banggia_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khu_vuc_co_ban_do_dia_chinh_so_va_csdl_gia_dat"
+    },
+    {
+      "source_id": "dieu_kien_khu_vuc_co_ban_do_dia_chinh_so_va_csdl_gia_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_ban_do_dia_chinh_so"
+    },
+    {
+      "source_id": "dieu_kien_khu_vuc_co_ban_do_dia_chinh_so_va_csdl_gia_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_co_so_du_lieu_gia_dat"
+    },
+    {
+      "source_id": "hanhvipaply_xay_dung_banggia_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_thua_dat"
+    },
+    {
+      "source_id": "hanhvipaply_xay_dung_banggia_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_vung_gia_tri"
+    },
+    {
+      "source_id": "hanhvipaply_xay_dung_banggia_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_thua_dat_chuan"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_xay_dung_banggia_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_trinh_banggia_dat"
+    },
+    {
+      "source_id": "hanhvipaply_trinh_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hoi_dong_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_hoi_dong_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_quyet_dinh_banggia_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cong_bo_banggia_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_ap_dung_banggia_dat"
+    },
+    {
+      "source_id": "hanhvipaply_xay_dung_banggia_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_banggia_dat_lan_dau"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_dieu_chinh_banggia_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_sua_doi_banggia_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_bo_sung_banggia_dat"
+    },
+    {
+      "source_id": "dieu_kien_hang_nam_dieu_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_dieu_chinh_banggia_dat"
+    },
+    {
+      "source_id": "dieu_kien_hang_nam_dieu_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_sua_doi_banggia_dat"
+    },
+    {
+      "source_id": "dieu_kien_hang_nam_dieu_chinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_bo_sung_banggia_dat"
+    },
+    {
+      "source_id": "dieu_kien_can_thiet_dieu_chinh_trong_nam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_dieu_chinh_banggia_dat"
+    },
+    {
+      "source_id": "dieu_kien_can_thiet_dieu_chinh_trong_nam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_sua_doi_banggia_dat"
+    },
+    {
+      "source_id": "dieu_kien_can_thiet_dieu_chinh_trong_nam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_bo_sung_banggia_dat"
+    },
+    {
+      "source_id": "chuthe_co_quan_quan_ly_dat_dai_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_giup_to_chuc_xay_dung_banggia_dat"
+    },
+    {
+      "source_id": "hanhvipaply_giup_to_chuc_xay_dung_banggia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_co_quan_quan_ly_dat_dai_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_thue_to_chuc_tu_van_xac_dinh_gia_dat"
+    },
+    {
+      "source_id": "hanhvipaply_thue_to_chuc_tu_van_xac_dinh_gia_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_tu_van_xac_dinh_gia_dat"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhvipaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_159"
+    }
+  ]
+}

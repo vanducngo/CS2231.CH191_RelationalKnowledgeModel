@@ -1,0 +1,386 @@
+{
+  "entities": [
+    {
+      "id": "dieu_188",
+      "label": "ĐiềuLuật",
+      "name": "Điều 188"
+    },
+    {
+      "id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, thế chấp quyền sử dụng đất; góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chuyendoi_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển đổi quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chuyennhuong_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chothue_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chothuelai_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê lại quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_thua_ke_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "thừa kế quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_tang_cho_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_the_chap_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "thế chấp quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_co_giay_chung_nhan",
+      "label": "ĐiềuKiện",
+      "name": "Có Giấy chứng nhận"
+    },
+    {
+      "id": "dieukien_dat_khong_co_tranh_chap",
+      "label": "ĐiềuKiện",
+      "name": "Đất không có tranh chấp"
+    },
+    {
+      "id": "dieukien_quyen_su_dung_dat_khong_bi_ke_bien",
+      "label": "ĐiềuKiện",
+      "name": "Quyền sử dụng đất không bị kê biên để bảo đảm thi hành án"
+    },
+    {
+      "id": "dieukien_trong_thoi_han_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "Trong thời hạn sử dụng đất"
+    },
+    {
+      "id": "dieukien_theo_quy_dinh_tai_dieu_189_den_194",
+      "label": "ĐiềuKiện",
+      "name": "Điều kiện theo quy định tại các điều 189, 190, 191, 192, 193 và 194 của Luật này"
+    },
+    {
+      "id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai",
+      "label": "ĐiềuKiện",
+      "name": "phải đăng ký tại cơ quan đăng ký đất đai"
+    },
+    {
+      "id": "thoi_diem_co_hieu_luc",
+      "label": "KháiNiệm",
+      "name": "có hiệu lực kể từ thời điểm đăng ký vào sổ địa chính"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_188",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chuyennhuong_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chothue_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chothuelai_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thua_ke_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tang_cho_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_the_chap_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_kien_thuc_hien_cac_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyen_su_dung_dat_khong_bi_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyennhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_chuyennhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhviphaply_chuyennhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyen_su_dung_dat_khong_bi_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_chuyennhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chothue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_chothue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhviphaply_chothue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyen_su_dung_dat_khong_bi_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_chothue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chothuelai_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_chothuelai_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhviphaply_chothuelai_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyen_su_dung_dat_khong_bi_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_chothuelai_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thua_ke_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_thua_ke_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhviphaply_thua_ke_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyen_su_dung_dat_khong_bi_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_thua_ke_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyen_su_dung_dat_khong_bi_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_the_chap_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_the_chap_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhviphaply_the_chap_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyen_su_dung_dat_khong_bi_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_the_chap_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_giay_chung_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_khong_co_tranh_chap"
+    },
+    {
+      "source_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyen_su_dung_dat_khong_bi_ke_bien"
+    },
+    {
+      "source_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trong_thoi_han_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_tai_dieu_189_den_194"
+    },
+    {
+      "source_id": "hanhviphaply_chuyennhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_tai_dieu_189_den_194"
+    },
+    {
+      "source_id": "hanhviphaply_chothue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_tai_dieu_189_den_194"
+    },
+    {
+      "source_id": "hanhviphaply_chothuelai_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_tai_dieu_189_den_194"
+    },
+    {
+      "source_id": "hanhviphaply_thua_ke_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_tai_dieu_189_den_194"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_tai_dieu_189_den_194"
+    },
+    {
+      "source_id": "hanhviphaply_the_chap_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_tai_dieu_189_den_194"
+    },
+    {
+      "source_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theo_quy_dinh_tai_dieu_189_den_194"
+    },
+    {
+      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_chuyennhuong_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_chothue_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_chothuelai_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_thua_ke_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_the_chap_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai"
+    },
+    {
+      "source_id": "dieukien_dang_ky_tai_co_quan_dang_ky_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "thoi_diem_co_hieu_luc"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "entities": [
+    {
+      "id": "dieu_62",
+      "label": "ĐiềuLuật",
+      "name": "Điều 62"
+    },
+    {
+      "id": "khainiem_thoiky_quyhoach_kehoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Thời kỳ quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_thoiky_quyhoach_su_dung_dat_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Thời kỳ quy hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "khainiem_tamnhin_quyhoach_su_dung_dat_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Tầm nhìn quy hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "khainiem_quyhoach_su_dung_dat_quoc_phong",
+      "label": "KháiNiệm",
+      "name": "quy hoạch sử dụng đất quốc phòng"
+    },
+    {
+      "id": "khainiem_quyhoach_su_dung_dat_an_ninh",
+      "label": "KháiNiệm",
+      "name": "quy hoạch sử dụng đất an ninh"
+    },
+    {
+      "id": "khainiem_luat_quy_hoach",
+      "label": "KháiNiệm",
+      "name": "Luật Quy hoạch"
+    },
+    {
+      "id": "khainiem_thoiky_quyhoach_su_dung_dat_cap_tinh",
+      "label": "KháiNiệm",
+      "name": "Thời kỳ quy hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "khainiem_tamnhin_quyhoach_su_dung_dat_cap_tinh",
+      "label": "KháiNiệm",
+      "name": "Tầm nhìn quy hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "khainiem_quy_hoach_tinh",
+      "label": "KháiNiệm",
+      "name": "quy hoạch tỉnh"
+    },
+    {
+      "id": "khainiem_thoiky_quy_hoach_tinh",
+      "label": "KháiNiệm",
+      "name": "thời kỳ của quy hoạch tỉnh"
+    },
+    {
+      "id": "khainiem_tamnhin_quy_hoach_tinh",
+      "label": "KháiNiệm",
+      "name": "tầm nhìn của quy hoạch tỉnh"
+    },
+    {
+      "id": "khainiem_thoiky_quyhoach_su_dung_dat_cap_huyen",
+      "label": "KháiNiệm",
+      "name": "Thời kỳ quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "khainiem_tamnhin_quyhoach_su_dung_dat_cap_huyen",
+      "label": "KháiNiệm",
+      "name": "Tầm nhìn quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "khainiem_thoiky_ke_hoach_su_dung_dat_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Thời kỳ kế hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "khainiem_ke_hoach_su_dung_dat_cap_tinh",
+      "label": "KháiNiệm",
+      "name": "kế hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "khainiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen",
+      "label": "KháiNiệm",
+      "name": "kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "dieukien_thoiky_10_nam",
+      "label": "ĐiềuKiện",
+      "name": "10 năm"
+    },
+    {
+      "id": "dieukien_tamnhin_20_nam",
+      "label": "ĐiềuKiện",
+      "name": "20 năm"
+    },
+    {
+      "id": "dieukien_kehoach_05_nam",
+      "label": "ĐiềuKiện",
+      "name": "05 năm"
+    },
+    {
+      "id": "dieukien_lap_hang_nam",
+      "label": "ĐiềuKiện",
+      "name": "được lập hằng năm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoiky_quyhoach_kehoach_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoiky_quyhoach_su_dung_dat_quoc_gia"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tamnhin_quyhoach_su_dung_dat_quoc_gia"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoach_su_dung_dat_quoc_phong"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyhoach_su_dung_dat_an_ninh"
+    },
+    {
+      "source_id": "khainiem_thoiky_quyhoach_su_dung_dat_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_luat_quy_hoach"
+    },
+    {
+      "source_id": "khainiem_tamnhin_quyhoach_su_dung_dat_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_luat_quy_hoach"
+    },
+    {
+      "source_id": "khainiem_quyhoach_su_dung_dat_quoc_phong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_luat_quy_hoach"
+    },
+    {
+      "source_id": "khainiem_quyhoach_su_dung_dat_an_ninh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_luat_quy_hoach"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoiky_quyhoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tamnhin_quyhoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "khainiem_thoiky_quyhoach_su_dung_dat_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_thoiky_quy_hoach_tinh"
+    },
+    {
+      "source_id": "khainiem_tamnhin_quyhoach_su_dung_dat_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_tamnhin_quy_hoach_tinh"
+    },
+    {
+      "source_id": "khainiem_thoiky_quy_hoach_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_tinh"
+    },
+    {
+      "source_id": "khainiem_tamnhin_quy_hoach_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_tinh"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoiky_quyhoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tamnhin_quyhoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "khainiem_thoiky_quyhoach_su_dung_dat_cap_huyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_thoiky_10_nam"
+    },
+    {
+      "source_id": "khainiem_tamnhin_quyhoach_su_dung_dat_cap_huyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_tamnhin_20_nam"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoiky_ke_hoach_su_dung_dat_quoc_gia"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ke_hoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "dieu_62",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen"
+    },
+    {
+      "source_id": "khainiem_thoiky_ke_hoach_su_dung_dat_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_kehoach_05_nam"
+    },
+    {
+      "source_id": "khainiem_ke_hoach_su_dung_dat_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_kehoach_05_nam"
+    },
+    {
+      "source_id": "khainiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_lap_hang_nam"
+    }
+  ]
+}

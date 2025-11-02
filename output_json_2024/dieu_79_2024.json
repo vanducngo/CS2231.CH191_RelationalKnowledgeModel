@@ -1,0 +1,431 @@
+{
+  "entities": [
+    {
+      "id": "dieu_79",
+      "name": "Điều 79",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khainiem_thuhoidat_kinhtexahoi_loiichquocgia",
+      "name": "Thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "name": "Nhà nước",
+      "label": "ChủThể"
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "name": "thu hồi đất",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_tongquat_thatcanthiet",
+      "name": "trong trường hợp thật cần thiết để thực hiện dự án phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "khainiem_phathuy_nguonluc_datdai",
+      "name": "phát huy nguồn lực đất đai",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_nangcao_hieuqua_sudungdat",
+      "name": "nâng cao hiệu quả sử dụng đất",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_phattrien_hathang_kinhtexahoi",
+      "name": "phát triển hạ tầng kinh tế - xã hội theo hướng hiện đại",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_thuchien_chinhsach_ansinhxahoi",
+      "name": "thực hiện chính sách an sinh xã hội",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_baove_moitruong",
+      "name": "bảo vệ môi trường",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_baoton_disan_vanhoa",
+      "name": "bảo tồn di sản văn hóa",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "dieukien_case_1_congtringiaothong",
+      "name": "Xây dựng công trình giao thông",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_2_congtringthuyloi",
+      "name": "Xây dựng công trình thủy lợi",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_3_congtringcapnuoc_thoatnuoc",
+      "name": "Xây dựng công trình cấp nước, thoát nước",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_4_congtringxuly_chatthai",
+      "name": "Xây dựng công trình xử lý chất thải",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_5_congtringnangluong_chieusangcongcong",
+      "name": "Xây dựng công trình năng lượng, chiếu sáng công cộng",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_6_congtringdaukhl",
+      "name": "Xây dựng công trình dầu khí",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_7_congtringhathang_buuchinh_vienthong_cnthongtin",
+      "name": "Xây dựng công trình hạ tầng bưu chính, viễn thông, công nghệ thông tin",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_8_chodansinh_chodauinoi",
+      "name": "Xây dựng chợ dân sinh, chợ đầu mối",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_9_congtringtinnguong",
+      "name": "Xây dựng công trình tín ngưỡng",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_10_congtringtongiao",
+      "name": "Xây dựng công trình tôn giáo",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_11_khuvuichoi_giaitricongcong",
+      "name": "Xây dựng khu vui chơi, giải trí công cộng, sinh hoạt cộng đồng",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_12_truso_coquan_dang_nhanuoc",
+      "name": "Xây dựng trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội và tổ chức khác thành lập theo quy định của pháp luật được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_13_truso_vanphong_dient_donvisunghiepconglap",
+      "name": "Xây dựng trụ sở hoặc văn phòng đại diện của các đơn vị sự nghiệp công lập trực thuộc cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, tổ chức chính trị - xã hội",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_14_coso_vanhoa_ditich_lichsu_danhlami",
+      "name": "Xây dựng cơ sở văn hóa, di tích lịch sử - văn hóa, danh lam thắng cảnh",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_15_coso_yte_dichvuxahoi",
+      "name": "Xây dựng cơ sở y tế, cơ sở dịch vụ xã hội được Nhà nước thành lập hoặc cho phép hoạt động",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_16_coso_giaoduc_daotao",
+      "name": "Xây dựng cơ sở giáo dục, đào tạo được Nhà nước thành lập hoặc cho phép hoạt động",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_17_coso_thedue_thethao",
+      "name": "Xây dựng cơ sở thể dục, thể thao do Nhà nước thành lập hoặc cho phép hoạt động",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_18_coso_khoahoc_congnghe",
+      "name": "Xây dựng cơ sở khoa học và công nghệ do Nhà nước thành lập hoặc cho phép hoạt động",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_19_coso_ngoaigiao",
+      "name": "Xây dựng cơ sở ngoại giao",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_20_congtringsunghiep_moitruong",
+      "name": "Xây dựng công trình sự nghiệp về xử lý môi trường, bảo tồn đa dạng sinh học, khí tượng, thủy văn, đăng kiểm, kiểm dịch động vật, thực vật",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_21_duan_nhaxoih_nhacongvu_taidinhcu",
+      "name": "Thực hiện dự án đầu tư xây dựng nhà ở xã hội, nhà ở cho lực lượng vũ trang nhân dân, trừ trường hợp thỏa thuận về nhận quyền sử dụng đất; dự án đầu tư xây dựng nhà ở công vụ; dự án đầu tư cải tạo, xây dựng lại nhà chung cư, trừ trường hợp chủ sở hữu nhà chung cư thỏa thuận chuyển nhượng quyền sử dụng đất cho chủ đầu tư để thực hiện dự án đầu tư cải tạo, xây dựng lại nhà chung cư theo quy định của Luật Nhà ở ; dự án tái định cư",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_22_duan_khucongnghiep_khucongnghecao",
+      "name": "Thực hiện dự án khu công nghiệp, cụm công nghiệp; khu công nghệ cao; khu nông nghiệp ứng dụng công nghệ cao; khu công nghệ thông tin tập trung ; khu lâm nghiệp ứng dụng công nghệ cao; khu phi thuế quan trong khu kinh tế",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_23_duan_khusanxuat_chebien_nongsan",
+      "name": "Thực hiện dự án khu sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung có quy mô lớn, tập trung đồng bộ về kết cấu hạ tầng dùng chung từ khâu sản xuất đến chế biến nông sản, lâm sản, thủy sản, hải sản phục vụ trên phạm vi liên huyện, liên tỉnh hoặc liên vùng; dự án trồng, bảo tồn gen cây thuốc để phát triển dược liệu y học cổ truyền",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_24_hoatdong_lanbien",
+      "name": "Thực hiện hoạt động lấn biển",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_25_hoatdong_khaithac_khoangsang",
+      "name": "Hoạt động khai thác khoáng sản đã được cơ quan nhà nước có thẩm quyền cấp phép, kể cả hạng mục công trình phục vụ cho việc khai thác, chế biến khoáng sản gắn với khu vực khai thác và hành lang bảo vệ an toàn cho việc khai thác mà phải thu hồi đất",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_26_duan_vungphucan_diemketnoi_giaothong",
+      "name": "Dự án vùng phụ cận các điểm kết nối giao thông và các tuyến giao thông có tiềm năng phát triển",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_27_duan_khudothi_khudancu_nongthon",
+      "name": "Thực hiện dự án đầu tư xây dựng khu đô thị có công năng phục vụ hỗn hợp, đồng bộ hệ thống hạ tầng kỹ thuật, hạ tầng xã hội với nhà ở theo quy định của pháp luật về xây dựng để xây dựng mới hoặc cải tạo, chỉnh trang đô thị; dự án khu dân cư nông thôn",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_28_nghiatrang_nhatangile",
+      "name": "Nghĩa trang, nhà tang lễ, cơ sở hỏa táng, cơ sở lưu giữ tro cốt",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_29_duan_botri_dat_dantoc_thieuso",
+      "name": "Thực hiện dự án bố trí đất ở, đất sản xuất cho đồng bào dân tộc thiểu số để thực hiện chính sách đất đai đối với đồng bào dân tộc thiểu số theo quy định của Luật này",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_30_congtring_matdat_phucvu_congtringngam",
+      "name": "Xây dựng công trình trên mặt đất phục vụ cho việc vận hành, khai thác, sử dụng công trình ngầm",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_31_duan_quochol_thutuongchinhphu_chapthuan",
+      "name": "Thực hiện dự án đã được Quốc hội, Thủ tướng Chính phủ chấp thuận, quyết định chủ trương đầu tư theo quy định của pháp luật",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_case_32_thuhoidat_khongthuoc_khoan1den31_quochol_suadoi",
+      "name": "Trường hợp thu hồi đất để thực hiện dự án, công trình vì lợi ích quốc gia, công cộng không thuộc các trường hợp quy định từ khoản 1 đến khoản 31 của Điều này thì Quốc hội sửa đổi, bổ sung các trường hợp thu hồi đất của Điều này theo trình tự, thủ tục rút gọn.",
+      "label": "ĐiềuKiện"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_79",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thuhoidat_kinhtexahoi_loiichquocgia"
+    },
+    {
+      "source_id": "khainiem_thuhoidat_kinhtexahoi_loiichquocgia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuhoidat"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tongquat_thatcanthiet"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_1_congtringiaothong"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_2_congtringthuyloi"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_3_congtringcapnuoc_thoatnuoc"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_4_congtringxuly_chatthai"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_5_congtringnangluong_chieusangcongcong"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_6_congtringdaukhl"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_7_congtringhathang_buuchinh_vienthong_cnthongtin"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_8_chodansinh_chodauinoi"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_9_congtringtinnguong"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_10_congtringtongiao"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_11_khuvuichoi_giaitricongcong"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_12_truso_coquan_dang_nhanuoc"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_13_truso_vanphong_dient_donvisunghiepconglap"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_14_coso_vanhoa_ditich_lichsu_danhlami"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_15_coso_yte_dichvuxahoi"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_16_coso_giaoduc_daotao"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_17_coso_thedue_thethao"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_18_coso_khoahoc_congnghe"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_19_coso_ngoaigiao"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_20_congtringsunghiep_moitruong"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_21_duan_nhaxoih_nhacongvu_taidinhcu"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_22_duan_khucongnghiep_khucongnghecao"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_23_duan_khusanxuat_chebien_nongsan"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_24_hoatdong_lanbien"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_25_hoatdong_khaithac_khoangsang"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_26_duan_vungphucan_diemketnoi_giaothong"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_27_duan_khudothi_khudancu_nongthon"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_28_nghiatrang_nhatangile"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_29_duan_botri_dat_dantoc_thieuso"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_30_congtring_matdat_phucvu_congtringngam"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_31_duan_quochol_thutuongchinhphu_chapthuan"
+    },
+    {
+      "source_id": "dieukien_tongquat_thatcanthiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_case_32_thuhoidat_khongthuoc_khoan1den31_quochol_suadoi"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_phathuy_nguonluc_datdai"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_nangcao_hieuqua_sudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_phattrien_hathang_kinhtexahoi"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_thuchien_chinhsach_ansinhxahoi"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_baove_moitruong"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_baoton_disan_vanhoa"
+    }
+  ]
+}

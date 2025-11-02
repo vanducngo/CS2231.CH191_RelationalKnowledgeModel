@@ -1,0 +1,196 @@
+{
+  "entities": [
+    {
+      "id": "dieu_45",
+      "label": "ĐiềuLuật",
+      "name": "Điều 45. Điều kiện thực hiện các quyền sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_tochuckinhte",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_canhankhongtructiepsanxuatnongnghiep",
+      "label": "ChủThể",
+      "name": "Cá nhân không trực tiếp sản xuất nông nghiệp"
+    },
+    {
+      "id": "chuthe_khongduocnhanquyen",
+      "label": "ChủThể",
+      "name": "Các tổ chức, cá nhân không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất theo Khoản 8"
+    },
+    {
+      "id": "chuthe_chudautu",
+      "label": "ChủThể",
+      "name": "Chủ đầu tư chuyển nhượng quyền sử dụng đất trong dự án bất động sản"
+    },
+    {
+      "id": "hanhviphaply_thuchienquyen",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, thế chấp, góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_nhanchuyennhuong",
+      "label": "HànhViPhápLý",
+      "name": "Nhận chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_nhantangcho",
+      "label": "HànhViPhápLý",
+      "name": "Nhận tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_cogiaychungnhan",
+      "label": "ĐiềuKiện",
+      "name": "Có Giấy chứng nhận quyền sử dụng đất (hoặc các loại tương đương)"
+    },
+    {
+      "id": "dieukien_datkhongtranhchap",
+      "label": "ĐiềuKiện",
+      "name": "Đất không có tranh chấp hoặc tranh chấp đã được giải quyết"
+    },
+    {
+      "id": "dieukien_khongbikebien",
+      "label": "ĐiềuKiện",
+      "name": "Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án"
+    },
+    {
+      "id": "dieukien_trongthoihansudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Trong thời hạn sử dụng đất"
+    },
+    {
+      "id": "dieukien_khongbienphapkhancap",
+      "label": "ĐiềuKiện",
+      "name": "Quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời"
+    },
+    {
+      "id": "dieukien_hoanthanhnghiavutaichinh",
+      "label": "ĐiềuKiện",
+      "name": "Phải thực hiện xong nghĩa vụ tài chính"
+    },
+    {
+      "id": "dieukien_cophuongansudungdatnongnghiep",
+      "label": "ĐiềuKiện",
+      "name": "Có phương án sử dụng đất nông nghiệp được Ủy ban nhân dân cấp huyện chấp thuận/phê duyệt"
+    },
+    {
+      "id": "dieukien_thanhlaptochuckinhte",
+      "label": "ĐiềuKiện",
+      "name": "Phải thành lập tổ chức kinh tế"
+    },
+    {
+      "id": "chetai_khongduocnhanquyen",
+      "label": "ChếTài",
+      "name": "Không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_quyensudungdat",
+      "label": "KháiNiệm",
+      "name": "Quyền sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_45",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thuchienquyen"
+    },
+    {
+      "source_id": "dieu_45",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chetai_khongduocnhanquyen"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienquyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quyensudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_cogiaychungnhan"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_datkhongtranhchap"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongbikebien"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_trongthoihansudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongbienphapkhancap"
+    },
+    {
+      "source_id": "hanhviphaply_thuchienquyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hoanthanhnghiavutaichinh"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyennhuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuckinhte"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyennhuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_cophuongansudungdatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyennhuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhankhongtructiepsanxuatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_nhantangcho",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhankhongtructiepsanxuatnongnghiep"
+    },
+    {
+      "source_id": "chuthe_canhankhongtructiepsanxuatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thanhlaptochuckinhte"
+    },
+    {
+      "source_id": "chuthe_canhankhongtructiepsanxuatnongnghiep",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_cophuongansudungdatnongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyennhuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khongduocnhanquyen"
+    },
+    {
+      "source_id": "hanhviphaply_nhantangcho",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khongduocnhanquyen"
+    },
+    {
+      "source_id": "chetai_khongduocnhanquyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_khongduocnhanquyen"
+    }
+  ]
+}

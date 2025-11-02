@@ -1,0 +1,171 @@
+{
+  "entities": [
+    {
+      "id": "dieu_85",
+      "label": "ĐiềuLuật",
+      "name": "Điều 85"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "hanhviphaply_to_chuc_lap_va_thuc_hien_du_an_tai_dinh_cu",
+      "label": "HànhViPhápLý",
+      "name": "tổ chức lập và thực hiện dự án tái định cư"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "khainiem_du_an_tai_dinh_cu",
+      "label": "KháiNiệm",
+      "name": "dự án tái định cư"
+    },
+    {
+      "id": "dieukien_truoc_khi_thu_hoi_dat",
+      "label": "ĐiềuKiện",
+      "name": "trước khi thu hồi đất"
+    },
+    {
+      "id": "khainiem_khu_tai_dinh_cu_tap_trung",
+      "label": "KháiNiệm",
+      "name": "Khu tái định cư tập trung"
+    },
+    {
+      "id": "hanhviphaply_xay_dung_co_so_ha_tang_dong_bo",
+      "label": "HànhViPhápLý",
+      "name": "xây dựng cơ sở hạ tầng đồng bộ"
+    },
+    {
+      "id": "khainiem_co_so_ha_tang_dong_bo",
+      "label": "KháiNiệm",
+      "name": "cơ sở hạ tầng đồng bộ"
+    },
+    {
+      "id": "dieukien_bao_dam_tieu_chuan_quy_chuan_xay_dung",
+      "label": "ĐiềuKiện",
+      "name": "bảo đảm tiêu chuẩn, quy chuẩn xây dựng"
+    },
+    {
+      "id": "dieukien_phu_hop_voi_dieu_kien_phong_tuc_tap_quan",
+      "label": "ĐiềuKiện",
+      "name": "phù hợp với điều kiện, phong tục, tập quán của từng vùng, miền"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat_o",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất ở"
+    },
+    {
+      "id": "dieukien_sau_khi_hoan_thanh_xay_dung_nha_o_hoac_co_so_ha_tang_cua_khu_tai_dinh_cu",
+      "label": "ĐiềuKiện",
+      "name": "sau khi hoàn thành xây dựng nhà ở hoặc cơ sở hạ tầng của khu tái định cư"
+    },
+    {
+      "id": "khainiem_nha_o_hoac_co_so_ha_tang_cua_khu_tai_dinh_cu",
+      "label": "KháiNiệm",
+      "name": "nhà ở hoặc cơ sở hạ tầng của khu tái định cư"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_85",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_to_chuc_lap_va_thuc_hien_du_an_tai_dinh_cu"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_to_chuc_lap_va_thuc_hien_du_an_tai_dinh_cu"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_to_chuc_lap_va_thuc_hien_du_an_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_to_chuc_lap_va_thuc_hien_du_an_tai_dinh_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_du_an_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_to_chuc_lap_va_thuc_hien_du_an_tai_dinh_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_truoc_khi_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_truoc_khi_thu_hoi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieu_85",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_khu_tai_dinh_cu_tap_trung"
+    },
+    {
+      "source_id": "khainiem_khu_tai_dinh_cu_tap_trung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_xay_dung_co_so_ha_tang_dong_bo"
+    },
+    {
+      "source_id": "hanhviphaply_xay_dung_co_so_ha_tang_dong_bo",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_co_so_ha_tang_dong_bo"
+    },
+    {
+      "source_id": "hanhviphaply_xay_dung_co_so_ha_tang_dong_bo",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_bao_dam_tieu_chuan_quy_chuan_xay_dung"
+    },
+    {
+      "source_id": "hanhviphaply_xay_dung_co_so_ha_tang_dong_bo",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phu_hop_voi_dieu_kien_phong_tuc_tap_quan"
+    },
+    {
+      "source_id": "dieu_85",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_thu_hoi_dat_o"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat_o",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sau_khi_hoan_thanh_xay_dung_nha_o_hoac_co_so_ha_tang_cua_khu_tai_dinh_cu"
+    },
+    {
+      "source_id": "dieukien_sau_khi_hoan_thanh_xay_dung_nha_o_hoac_co_so_ha_tang_cua_khu_tai_dinh_cu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_nha_o_hoac_co_so_ha_tang_cua_khu_tai_dinh_cu"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_85"
+    }
+  ]
+}

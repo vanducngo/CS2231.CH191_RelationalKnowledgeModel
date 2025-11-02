@@ -1,0 +1,158 @@
+{
+  "knowledge_graph": {
+    "entities": [
+      {
+        "id": "dieu_58",
+        "label": "ĐiềuLuật",
+        "name": "Điều 58. Chỉ tiêu, nội dung, hoạt động thống kê, kiểm kê đất đai"
+      },
+      {
+        "id": "hanhvi_thongke_datdai",
+        "label": "HànhViPhápLý",
+        "name": "Thống kê đất đai"
+      },
+      {
+        "id": "hanhvi_kiemke_datdai",
+        "label": "HànhViPhápLý",
+        "name": "Kiểm kê đất đai"
+      },
+      {
+        "id": "khainiem_chitieu_thongke_kiemke_datdai",
+        "label": "KháiNiệm",
+        "name": "Chỉ tiêu thống kê, kiểm kê đất đai"
+      },
+      {
+        "id": "khainiem_noidung_thongke_kiemke_datdai",
+        "label": "KháiNiệm",
+        "name": "Nội dung thống kê, kiểm kê đất đai"
+      },
+      {
+        "id": "khainiem_cacloaidat",
+        "label": "KháiNiệm",
+        "name": "Các loại đất"
+      },
+      {
+        "id": "khainiem_dientich",
+        "label": "KháiNiệm",
+        "name": "Diện tích"
+      },
+      {
+        "id": "chuthe_doituong_sudungdat",
+        "label": "ChủThể",
+        "name": "Đối tượng sử dụng đất"
+      },
+      {
+        "id": "chuthe_doituong_duoc_giao_quanly_dat",
+        "label": "ChủThể",
+        "name": "Đối tượng được giao quản lý đất"
+      },
+      {
+        "id": "khainiem_hoso_diachinh",
+        "label": "ĐiềuKiện",
+        "name": "Hồ sơ địa chính"
+      },
+      {
+        "id": "khainiem_hientrang_sudungdat",
+        "label": "ĐiềuKiện",
+        "name": "Hiện trạng sử dụng đất"
+      },
+      {
+        "id": "chuthe_donvi_hanhchinh",
+        "label": "ChủThể",
+        "name": "Đơn vị hành chính"
+      },
+      {
+        "id": "hanhvi_giao_dat",
+        "label": "HànhViPhápLý",
+        "name": "Giao đất"
+      },
+      {
+        "id": "hanhvi_chothue_dat",
+        "label": "HànhViPhápLý",
+        "name": "Cho thuê đất"
+      },
+      {
+        "id": "hanhvi_chuyen_mucdich_sudungdat",
+        "label": "HànhViPhápLý",
+        "name": "Chuyển mục đích sử dụng đất"
+      }
+    ],
+    "relationships": [
+      {
+        "source_id": "dieu_58",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "hanhvi_thongke_datdai"
+      },
+      {
+        "source_id": "dieu_58",
+        "relationship_type": "QUY_ĐỊNH_VỀ",
+        "target_id": "hanhvi_kiemke_datdai"
+      },
+      {
+        "source_id": "dieu_58",
+        "relationship_type": "ĐỊNH_NGHĨA",
+        "target_id": "khainiem_chitieu_thongke_kiemke_datdai"
+      },
+      {
+        "source_id": "dieu_58",
+        "relationship_type": "ĐỊNH_NGHĨA",
+        "target_id": "khainiem_noidung_thongke_kiemke_datdai"
+      },
+      {
+        "source_id": "khainiem_chitieu_thongke_kiemke_datdai",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "khainiem_cacloaidat"
+      },
+      {
+        "source_id": "khainiem_chitieu_thongke_kiemke_datdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "khainiem_dientich"
+      },
+      {
+        "source_id": "khainiem_chitieu_thongke_kiemke_datdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "chuthe_doituong_sudungdat"
+      },
+      {
+        "source_id": "khainiem_chitieu_thongke_kiemke_datdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "chuthe_doituong_duoc_giao_quanly_dat"
+      },
+      {
+        "source_id": "hanhvi_thongke_datdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "khainiem_hoso_diachinh"
+      },
+      {
+        "source_id": "hanhvi_kiemke_datdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "khainiem_hoso_diachinh"
+      },
+      {
+        "source_id": "hanhvi_kiemke_datdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "khainiem_hientrang_sudungdat"
+      },
+      {
+        "source_id": "khainiem_noidung_thongke_kiemke_datdai",
+        "relationship_type": "ÁP_DỤNG_CHO",
+        "target_id": "chuthe_donvi_hanhchinh"
+      },
+      {
+        "source_id": "khainiem_noidung_thongke_kiemke_datdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "hanhvi_giao_dat"
+      },
+      {
+        "source_id": "khainiem_noidung_thongke_kiemke_datdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "hanhvi_chothue_dat"
+      },
+      {
+        "source_id": "khainiem_noidung_thongke_kiemke_datdai",
+        "relationship_type": "YÊU_CẦU",
+        "target_id": "hanhvi_chuyen_mucdich_sudungdat"
+      }
+    ]
+  }
+}

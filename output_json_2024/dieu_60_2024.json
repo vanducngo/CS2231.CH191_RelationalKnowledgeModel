@@ -1,0 +1,501 @@
+{
+  "entities": [
+    {
+      "id": "dieu_60",
+      "label": "ĐiềuLuật",
+      "text": "Điều 60"
+    },
+    {
+      "id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "label": "KháiNiệm",
+      "text": "Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_lapquyhoachsudungdatcaccap",
+      "label": "HànhViPhápLý",
+      "text": "lập quy hoạch sử dụng đất các cấp"
+    },
+    {
+      "id": "dieukien_tuanthunguyentacvamuoiquanthegiuacacloaiquyhoach",
+      "label": "ĐiềuKiện",
+      "text": "tuân thủ nguyên tắc và mối quan hệ giữa các loại quy hoạch"
+    },
+    {
+      "id": "khaikiem_luatquyhoach",
+      "label": "KháiNiệm",
+      "text": "Luật Quy hoạch"
+    },
+    {
+      "id": "khaikiem_quyhoachsudungdatcaccap",
+      "label": "KháiNiệm",
+      "text": "Quy hoạch sử dụng đất các cấp"
+    },
+    {
+      "id": "dieukien_tonghopcandoinhucausudungdatcuacacnganhlinhvuc",
+      "label": "ĐiềuKiện",
+      "text": "tổng hợp, cân đối nhu cầu sử dụng đất của các ngành, lĩnh vực có sử dụng đất"
+    },
+    {
+      "id": "khaikiem_quyhoachsudungdatquocgia",
+      "label": "KháiNiệm",
+      "text": "Quy hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "dieukien_baodamtinhdacthulienketvung",
+      "label": "ĐiềuKiện",
+      "text": "bảo đảm tính đặc thù, liên kết vùng"
+    },
+    {
+      "id": "dieukien_baodamsucanbangnhucausudungdat",
+      "label": "ĐiềuKiện",
+      "text": "bảo đảm sự cân bằng giữa nhu cầu sử dụng đất của các ngành, lĩnh vực, địa phương"
+    },
+    {
+      "id": "dieukien_phuhopvoitiemnangdatdaicuocgia",
+      "label": "ĐiềuKiện",
+      "text": "phù hợp với tiềm năng đất đai của quốc gia"
+    },
+    {
+      "id": "dieukien_sudungdattietkiemvahieuqua",
+      "label": "ĐiềuKiện",
+      "text": "sử dụng đất tiết kiệm, hiệu quả"
+    },
+    {
+      "id": "khaikiem_quyhoachkehoachsudungdat",
+      "label": "KháiNiệm",
+      "text": "Quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khaikiem_capquocgia",
+      "label": "KháiNiệm",
+      "text": "cấp quốc gia"
+    },
+    {
+      "id": "khaikiem_captinh",
+      "label": "KháiNiệm",
+      "text": "cấp tỉnh"
+    },
+    {
+      "id": "khaikiem_caphuyen",
+      "label": "KháiNiệm",
+      "text": "cấp huyện"
+    },
+    {
+      "id": "dieukien_dapungyeucauphattrienkinhtexahoi",
+      "label": "ĐiềuKiện",
+      "text": "đáp ứng yêu cầu thực hiện chiến lược phát triển kinh tế - xã hội nhanh, bền vững"
+    },
+    {
+      "id": "dieukien_baodamquocphonganngh",
+      "label": "ĐiềuKiện",
+      "text": "bảo đảm quốc phòng, an ninh"
+    },
+    {
+      "id": "dieukien_baodamtinhthongnhatdongbo",
+      "label": "ĐiềuKiện",
+      "text": "Bảo đảm tính thống nhất, đồng bộ"
+    },
+    {
+      "id": "khaikiem_quyhoachsudungdatcaptren",
+      "label": "KháiNiệm",
+      "text": "quy hoạch sử dụng đất của cấp trên"
+    },
+    {
+      "id": "dieukien_baodamnhucausudungdatcuacapduoi",
+      "label": "ĐiềuKiện",
+      "text": "bảo đảm nhu cầu sử dụng đất của cấp dưới"
+    },
+    {
+      "id": "khaikiem_quyhoachsudungdatcapduoi",
+      "label": "KháiNiệm",
+      "text": "quy hoạch sử dụng đất của cấp dưới"
+    },
+    {
+      "id": "dieukien_phuhopvoiquyhoachsudungdatcaptren",
+      "label": "ĐiềuKiện",
+      "text": "phù hợp với quy hoạch sử dụng đất của cấp trên"
+    },
+    {
+      "id": "khaikiem_quyhoachsudungdatcaphuyen",
+      "label": "KháiNiệm",
+      "text": "quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "dieukien_xacdinhnoidungsudungdatdencapxa",
+      "label": "ĐiềuKiện",
+      "text": "xác định được nội dung sử dụng đất đến cấp xã"
+    },
+    {
+      "id": "khaikiem_capxa",
+      "label": "KháiNiệm",
+      "text": "cấp xã"
+    },
+    {
+      "id": "khaikiem_kehoachsudungdat",
+      "label": "KháiNiệm",
+      "text": "kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_phuhopvoiquyhoachsudungdatcungcap",
+      "label": "ĐiềuKiện",
+      "text": "phù hợp với quy hoạch sử dụng đất cùng cấp"
+    },
+    {
+      "id": "chuthe_coquancothamquyen",
+      "label": "ChủThể",
+      "text": "cơ quan có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_quyetdinhpheduyet",
+      "label": "HànhViPhápLý",
+      "text": "quyết định, phê duyệt"
+    },
+    {
+      "id": "khaikiem_noidungquyhoachsudungdat",
+      "label": "KháiNiệm",
+      "text": "Nội dung quy hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_kethopchitieuvoikhonggianphanvunghs",
+      "label": "ĐiềuKiện",
+      "text": "kết hợp giữa chỉ tiêu sử dụng đất gắn với không gian, phân vùng sử dụng đất, hệ sinh thái tự nhiên"
+    },
+    {
+      "id": "dieukien_khaitacphoplytainguyenthiennhien",
+      "label": "ĐiềuKiện",
+      "text": "khai thác hợp lý tài nguyên thiên nhiên và bảo vệ môi trường"
+    },
+    {
+      "id": "dieukien_thichungvoibiendoidau",
+      "label": "ĐiềuKiện",
+      "text": "thích ứng với biến đổi khí hậu"
+    },
+    {
+      "id": "dieukien_baodamanhluongthucquocgia",
+      "label": "ĐiềuKiện",
+      "text": "bảo đảm an ninh lương thực quốc gia"
+    },
+    {
+      "id": "dieukien_baodamdochephurung",
+      "label": "ĐiềuKiện",
+      "text": "bảo đảm độ che phủ rừng"
+    },
+    {
+      "id": "dieukien_baotontontaohatrijitichvanhoa",
+      "label": "ĐiềuKiện",
+      "text": "bảo tồn, tôn tạo và phát huy giá trị di tích lịch sử - văn hóa, danh lam thắng cảnh"
+    },
+    {
+      "id": "dieukien_baodamtinhlientuckethuavungkinhtexahoi",
+      "label": "ĐiềuKiện",
+      "text": "Bảo đảm tính liên tục, kế thừa, ổn định, đặc thù, liên kết của các vùng kinh tế - xã hội"
+    },
+    {
+      "id": "dieukien_candohaihoagiuaacnganhlinhvuc",
+      "label": "ĐiềuKiện",
+      "text": "cân đối hài hòa giữa các ngành, lĩnh vực, địa phương, giữa các thế hệ"
+    },
+    {
+      "id": "dieukien_phuhopvoidieukiennangdatdai",
+      "label": "ĐiềuKiện",
+      "text": "phù hợp với điều kiện, tiềm năng đất đai"
+    },
+    {
+      "id": "hanhviphaply_lapquyhoachkehoachsudungdatcaccap",
+      "label": "HànhViPhápLý",
+      "text": "lập quy hoạch, kế hoạch sử dụng đất các cấp"
+    },
+    {
+      "id": "chuthe_tochucchinhtrixahoi",
+      "label": "ChủThể",
+      "text": "tổ chức chính trị - xã hội"
+    },
+    {
+      "id": "chuthe_congdong",
+      "label": "ChủThể",
+      "text": "cộng đồng"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "text": "cá nhân"
+    },
+    {
+      "id": "dieukien_baodamsuthamgiacuaacloaicap",
+      "label": "ĐiềuKiện",
+      "text": "bảo đảm sự tham gia của tổ chức chính trị - xã hội, cộng đồng, cá nhân"
+    },
+    {
+      "id": "dieukien_baodamcongkhaiminhbach",
+      "label": "ĐiềuKiện",
+      "text": "bảo đảm công khai, minh bạch"
+    },
+    {
+      "id": "dieukien_lapdongthoi",
+      "label": "ĐiềuKiện",
+      "text": "được lập đồng thời"
+    },
+    {
+      "id": "khaikiem_thoikyquyhoachsudungdat",
+      "label": "KháiNiệm",
+      "text": "thời kỳ quy hoạch sử dụng đất"
+    },
+    {
+      "id": "khaikiem_quyhoachsudungdatthoikytieptheo",
+      "label": "KháiNiệm",
+      "text": "quy hoạch sử dụng đất thời kỳ tiếp theo"
+    },
+    {
+      "id": "dieukien_chitieuuadatcuathuchientieptuc",
+      "label": "ĐiềuKiện",
+      "text": "các chỉ tiêu sử dụng đất chưa thực hiện hết được tiếp tục thực hiện"
+    },
+    {
+      "id": "hanhviphaply_lapdieuchinhquyhoachsudungdatcungcap",
+      "label": "HànhViPhápLý",
+      "text": "lập, điều chỉnh quy hoạch sử dụng đất cùng cấp"
+    },
+    {
+      "id": "khaikiem_kehoachsudungdatnamdaucuacaphuyen",
+      "label": "KháiNiệm",
+      "text": "Kế hoạch sử dụng đất năm đầu của quy hoạch sử dụng cấp huyện"
+    },
+    {
+      "id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
+      "label": "HànhViPhápLý",
+      "text": "lập quy hoạch sử dụng đất cấp huyện"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_60",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_lapquyhoachsudungdatcaccap"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachsudungdatcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tuanthunguyentacvamuoiquanthegiuacacloaiquyhoach"
+    },
+    {
+      "source_id": "dieukien_tuanthunguyentacvamuoiquanthegiuacacloaiquyhoach",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_luatquyhoach"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tonghopcandoinhucausudungdatcuacacnganhlinhvuc"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_quyhoachsudungdatquocgia"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatquocgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamtinhdacthulienketvung"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatquocgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamsucanbangnhucausudungdat"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatquocgia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhopvoitiemnangdatdaicuocgia"
+    },
+    {
+      "source_id": "dieukien_baodamsucanbangnhucausudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_sudungdattietkiemvahieuqua"
+    },
+    {
+      "source_id": "dieukien_phuhopvoitiemnangdatdaicuocgia",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_sudungdattietkiemvahieuqua"
+    },
+    {
+      "source_id": "khaikiem_quyhoachkehoachsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_capquocgia"
+    },
+    {
+      "source_id": "khaikiem_quyhoachkehoachsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_captinh"
+    },
+    {
+      "source_id": "khaikiem_quyhoachkehoachsudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_caphuyen"
+    },
+    {
+      "source_id": "khaikiem_quyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dapungyeucauphattrienkinhtexahoi"
+    },
+    {
+      "source_id": "khaikiem_quyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamquocphonganngh"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamtinhthongnhatdongbo"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatcaptren",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamnhucausudungdatcuacapduoi"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatcapduoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhopvoiquyhoachsudungdatcaptren"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatcaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_xacdinhnoidungsudungdatdencapxa"
+    },
+    {
+      "source_id": "khaikiem_kehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhopvoiquyhoachsudungdatcungcap"
+    },
+    {
+      "source_id": "dieukien_phuhopvoiquyhoachsudungdatcungcap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyetdinhpheduyet"
+    },
+    {
+      "source_id": "hanhviphaply_quyetdinhpheduyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquancothamquyen"
+    },
+    {
+      "source_id": "khaikiem_noidungquyhoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_kethopchitieuvoikhonggianphanvunghs"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sudungdattietkiemvahieuqua"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khaitacphoplytainguyenthiennhien"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thichungvoibiendoidau"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamanhluongthucquocgia"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamdochephurung"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baotontontaohatrijitichvanhoa"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamtinhlientuckethuavungkinhtexahoi"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_candohaihoagiuaacnganhlinhvuc"
+    },
+    {
+      "source_id": "khaikiem_nguyentaclapquyhoachkehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhopvoidieukiennangdatdai"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachkehoachsudungdatcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamsuthamgiacuaacloaicap"
+    },
+    {
+      "source_id": "hanhviphaply_lapquyhoachkehoachsudungdatcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_baodamcongkhaiminhbach"
+    },
+    {
+      "source_id": "dieukien_baodamsuthamgiacuaacloaicap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochucchinhtrixahoi"
+    },
+    {
+      "source_id": "dieukien_baodamsuthamgiacuaacloaicap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_congdong"
+    },
+    {
+      "source_id": "dieukien_baodamsuthamgiacuaacloaicap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatcaccap",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_lapdongthoi"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatcaptren",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_quyetdinhpheduyet"
+    },
+    {
+      "source_id": "khaikiem_quyhoachsudungdatcapduoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_quyhoachsudungdatcaptren"
+    },
+    {
+      "source_id": "khaikiem_thoikyquyhoachsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_chitieuuadatcuathuchientieptuc"
+    },
+    {
+      "source_id": "dieukien_chitieuuadatcuathuchientieptuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_quyhoachsudungdatthoikytieptheo"
+    },
+    {
+      "source_id": "dieukien_chitieuuadatcuathuchientieptuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_coquancothamquyen"
+    },
+    {
+      "source_id": "khaikiem_kehoachsudungdat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_lapdieuchinhquyhoachsudungdatcungcap"
+    },
+    {
+      "source_id": "khaikiem_kehoachsudungdatnamdaucuacaphuyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen"
+    }
+  ]
+}

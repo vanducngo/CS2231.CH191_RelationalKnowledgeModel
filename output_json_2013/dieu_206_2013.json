@@ -1,0 +1,106 @@
+{
+  "entities": [
+    {
+      "id": "dieu_206",
+      "label": "ĐiềuLuật",
+      "name": "Điều 206"
+    },
+    {
+      "id": "chuthe_nguoi_vi_pham",
+      "label": "ChủThể",
+      "name": "Người có hành vi vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "hanhviphaply_vi_pham_phap_luat_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "Hành vi vi phạm pháp luật về đất đai"
+    },
+    {
+      "id": "chetai_xu_ly_hanh_chinh",
+      "label": "ChếTài",
+      "name": "Xử lý hành chính"
+    },
+    {
+      "id": "chetai_truy_cuu_trach_nhiem_hinh_su",
+      "label": "ChếTài",
+      "name": "Truy cứu trách nhiệm hình sự"
+    },
+    {
+      "id": "dieukien_gay_thiet_hai",
+      "label": "ĐiềuKiện",
+      "name": "Gây thiệt hại"
+    },
+    {
+      "id": "chetai_boi_thuong_thiet_hai_thuc_te",
+      "label": "ChếTài",
+      "name": "Bồi thường thiệt hại thực tế"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_nguoi_bi_thiet_hai",
+      "label": "ChủThể",
+      "name": "Người bị thiệt hại"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_206",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_vi_pham_phap_luat_ve_dat_dai"
+    },
+    {
+      "source_id": "dieu_206",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_vi_pham"
+    },
+    {
+      "source_id": "hanhviphaply_vi_pham_phap_luat_ve_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_xu_ly_hanh_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_vi_pham_phap_luat_ve_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_truy_cuu_trach_nhiem_hinh_su"
+    },
+    {
+      "source_id": "chetai_xu_ly_hanh_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_vi_pham"
+    },
+    {
+      "source_id": "chetai_truy_cuu_trach_nhiem_hinh_su",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_vi_pham"
+    },
+    {
+      "source_id": "hanhviphaply_vi_pham_phap_luat_ve_dat_dai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dieukien_gay_thiet_hai"
+    },
+    {
+      "source_id": "dieukien_gay_thiet_hai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chetai_boi_thuong_thiet_hai_thuc_te"
+    },
+    {
+      "source_id": "chetai_boi_thuong_thiet_hai_thuc_te",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_vi_pham"
+    },
+    {
+      "source_id": "chetai_boi_thuong_thiet_hai_thuc_te",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "chetai_boi_thuong_thiet_hai_thuc_te",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nguoi_bi_thiet_hai"
+    }
+  ]
+}

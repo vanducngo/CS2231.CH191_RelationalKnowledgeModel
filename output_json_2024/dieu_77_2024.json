@@ -1,0 +1,241 @@
+{
+  "entities": [
+    {
+      "id": "dieu_dieu_77",
+      "label": "ĐiềuLuật",
+      "text": "Điều 77"
+    },
+    {
+      "id": "khaikiem_ket_qua_thuc_hien_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "text": "kết quả thực hiện quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "text": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "hanhvi_bao_cao",
+      "label": "HànhViPhápLý",
+      "text": "báo cáo"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "text": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "dieu_kien_truoc_ngay_15_thang_10_hang_nam",
+      "label": "ĐiềuKiện",
+      "text": "trước ngày 15 tháng 10 hằng năm"
+    },
+    {
+      "id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "label": "ChủThể",
+      "text": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "dieu_kien_truoc_ngay_15_thang_10_cua_nam_cuoi_thoi_ky_quy_hoach_ky_ke_hoach_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "text": "trước ngày 15 tháng 10 của năm cuối thời kỳ quy hoạch, kỳ kế hoạch sử dụng đất"
+    },
+    {
+      "id": "chuthe_bo_quoc_phong",
+      "label": "ChủThể",
+      "text": "Bộ Quốc phòng"
+    },
+    {
+      "id": "khaikiem_ket_qua_thuc_hien_quy_hoach_su_dung_dat_quoc_phong",
+      "label": "KháiNiệm",
+      "text": "kết quả thực hiện quy hoạch sử dụng đất quốc phòng"
+    },
+    {
+      "id": "chuthe_bo_cong_an",
+      "label": "ChủThể",
+      "text": "Bộ Công an"
+    },
+    {
+      "id": "khaikiem_ket_qua_thuc_hien_quy_hoach_su_dung_dat_an_ninh",
+      "label": "KháiNiệm",
+      "text": "kết quả thực hiện quy hoạch sử dụng đất an ninh"
+    },
+    {
+      "id": "dieu_kien_truoc_ngay_15_thang_10_cua_nam_cuoi_thoi_ky_ke_hoach_su_dung_dat_05_nam_va_nam_cuoi_thoi_ky_quy_hoach_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "text": "trước ngày 15 tháng 10 của năm cuối thời kỳ kế hoạch sử dụng đất 05 năm và năm cuối thời kỳ quy hoạch sử dụng đất"
+    },
+    {
+      "id": "hanhvi_tong_hop_ket_qua",
+      "label": "HànhViPhápLý",
+      "text": "tổng hợp kết quả"
+    },
+    {
+      "id": "khaikiem_ket_qua_thuc_hien_quy_hoach_su_dung_dat_cua_ca_nuoc",
+      "label": "KháiNiệm",
+      "text": "kết quả thực hiện quy hoạch sử dụng đất của cả nước"
+    },
+    {
+      "id": "hanhvi_trinh",
+      "label": "HànhViPhápLý",
+      "text": "trình"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "text": "Chính phủ"
+    },
+    {
+      "id": "chuthe_quoc_hoi",
+      "label": "ChủThể",
+      "text": "Quốc hội"
+    },
+    {
+      "id": "dieu_kien_vao_nam_cuoi_cua_thoi_ky_quy_hoach_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "text": "vào năm cuối của thời kỳ quy hoạch sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_dieu_77",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_bao_cao"
+    },
+    {
+      "source_id": "dieu_dieu_77",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_tong_hop_ket_qua"
+    },
+    {
+      "source_id": "dieu_dieu_77",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_trinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_bao_cao"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_ket_qua_thuc_hien_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_truoc_ngay_15_thang_10_hang_nam"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_bao_cao"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_ket_qua_thuc_hien_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_bo_tai_nguyen_va_moi_truong"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_truoc_ngay_15_thang_10_cua_nam_cuoi_thoi_ky_quy_hoach_ky_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_bo_quoc_phong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_bao_cao"
+    },
+    {
+      "source_id": "chuthe_bo_quoc_phong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_ket_qua_thuc_hien_quy_hoach_su_dung_dat_quoc_phong"
+    },
+    {
+      "source_id": "chuthe_bo_quoc_phong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_bo_tai_nguyen_va_moi_truong"
+    },
+    {
+      "source_id": "chuthe_bo_quoc_phong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_truoc_ngay_15_thang_10_cua_nam_cuoi_thoi_ky_ke_hoach_su_dung_dat_05_nam_va_nam_cuoi_thoi_ky_quy_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_bo_cong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_bao_cao"
+    },
+    {
+      "source_id": "chuthe_bo_cong_an",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_ket_qua_thuc_hien_quy_hoach_su_dung_dat_an_ninh"
+    },
+    {
+      "source_id": "chuthe_bo_cong_an",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_bo_tai_nguyen_va_moi_truong"
+    },
+    {
+      "source_id": "chuthe_bo_cong_an",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_truoc_ngay_15_thang_10_cua_nam_cuoi_thoi_ky_ke_hoach_su_dung_dat_05_nam_va_nam_cuoi_thoi_ky_quy_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_tong_hop_ket_qua"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_ket_qua_thuc_hien_quy_hoach_su_dung_dat_cua_ca_nuoc"
+    },
+    {
+      "source_id": "hanhvi_tong_hop_ket_qua",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_trinh"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_vao_nam_cuoi_cua_thoi_ky_quy_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_trinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinh_phu"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_bao_cao"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_ket_qua_thuc_hien_quy_hoach_su_dung_dat_cua_ca_nuoc"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_quoc_hoi"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_vao_nam_cuoi_cua_thoi_ky_quy_hoach_su_dung_dat"
+    }
+  ]
+}

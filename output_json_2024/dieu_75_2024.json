@@ -1,0 +1,321 @@
+{
+  "entities": [
+    {
+      "id": "dieu_75",
+      "label": "ĐiềuLuật",
+      "name": "Điều 75. Công bố công khai quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_quy_hoach_su_dung_dat_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "khainiem_ke_hoach_su_dung_dat_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Kế hoạch sử dụng đất quốc gia"
+    },
+    {
+      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+    },
+    {
+      "id": "khainiem_quy_hoach_su_dung_dat_cap_huyen",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch sử dụng đất cấp huyện"
+    },
+    {
+      "id": "khainiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen",
+      "label": "KháiNiệm",
+      "name": "Kế hoạch sử dụng đất hằng năm cấp huyện"
+    },
+    {
+      "id": "khainiem_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "KháiNiệm",
+      "name": "Cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "khainiem_phap_luat_ve_quy_hoach",
+      "label": "KháiNiệm",
+      "name": "Pháp luật về quy hoạch"
+    },
+    {
+      "id": "khainiem_trach_nhiem_cong_bo_cong_khai",
+      "label": "KháiNiệm",
+      "name": "Trách nhiệm công bố công khai quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_thoi_diem_thoi_han_cong_bo_cong_khai",
+      "label": "KháiNiệm",
+      "name": "Thời điểm, thời hạn công bố công khai quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_tai_lieu_cong_bo_cong_khai",
+      "label": "KháiNiệm",
+      "name": "Tài liệu công bố công khai quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_van_ban_phe_duyet_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Văn bản phê duyệt quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_bao_cao_thuyet_minh_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Báo cáo thuyết minh về quy hoạch, kế hoạch sử dụng đất đã được phê duyệt"
+    },
+    {
+      "id": "khainiem_ban_do_quy_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Bản đồ về quy hoạch sử dụng đất đã được phê duyệt"
+    },
+    {
+      "id": "khainiem_nguoi_dan",
+      "label": "KháiNiệm",
+      "name": "Người dân"
+    },
+    {
+      "id": "khainiem_nguoi_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "label": "ChủThể",
+      "name": "Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp huyện"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "hanhviphaply_cong_bo_cong_khai",
+      "label": "HànhViPhápLý",
+      "name": "Công bố công khai"
+    },
+    {
+      "id": "hanhviphaply_quyet_dinh_phe_duyet",
+      "label": "HànhViPhápLý",
+      "name": "Quyết định, phê duyệt"
+    },
+    {
+      "id": "hanhviphaply_thuc_hien_theo_quy_dinh",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện theo quy định"
+    },
+    {
+      "id": "dieukien_cham_nhat_15_ngay_cong_bo",
+      "label": "ĐiềuKiện",
+      "name": "Chậm nhất là 15 ngày kể từ ngày được quyết định, phê duyệt"
+    },
+    {
+      "id": "dieukien_cong_khai_trong_suot_ky_quy_hoach",
+      "label": "ĐiềuKiện",
+      "name": "Công khai trong suốt kỳ quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_tai_tru_so_co_quan",
+      "label": "ĐiềuKiện",
+      "name": "Tại trụ sở cơ quan"
+    },
+    {
+      "id": "dieukien_tren_cong_thong_tin_dien_tu",
+      "label": "ĐiềuKiện",
+      "name": "Trên cổng thông tin điện tử"
+    },
+    {
+      "id": "dieukien_tai_tru_so_uy_ban_nhan_dan_cap_xa",
+      "label": "ĐiềuKiện",
+      "name": "Tại trụ sở Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "dieukien_cong_bo_den_nguoi_dan_tai_dia_ban_xa",
+      "label": "ĐiềuKiện",
+      "name": "Công bố đến người dân, người sử dụng đất tại địa bàn xã"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_75",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "dieu_75",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_trach_nhiem_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "dieu_75",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_thoi_diem_thoi_han_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "dieu_75",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_tai_lieu_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_su_dung_dat_quoc_gia"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_ke_hoach_su_dung_dat_quoc_gia"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen"
+    },
+    {
+      "source_id": "khainiem_quy_hoach_su_dung_dat_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_thuc_hien_theo_quy_dinh"
+    },
+    {
+      "source_id": "hanhviphaply_thuc_hien_theo_quy_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_phap_luat_ve_quy_hoach"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_phe_duyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "hanhviphaply_quyet_dinh_phe_duyet",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_su_dung_dat_quoc_gia"
+    },
+    {
+      "source_id": "chuthe_bo_tai_nguyen_va_moi_truong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_ke_hoach_su_dung_dat_quoc_gia"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_tru_so_co_quan"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tren_cong_thong_tin_dien_tu"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_quy_hoach_su_dung_dat_cap_huyen"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_tru_so_uy_ban_nhan_dan_cap_xa"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nguoi_dan"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_cong_bo_den_nguoi_dan_tai_dia_ban_xa"
+    },
+    {
+      "source_id": "khainiem_thoi_diem_thoi_han_cong_bo_cong_khai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_cong_bo_cong_khai"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_cham_nhat_15_ngay_cong_bo"
+    },
+    {
+      "source_id": "hanhviphaply_cong_bo_cong_khai",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_cong_khai_trong_suot_ky_quy_hoach"
+    },
+    {
+      "source_id": "khainiem_tai_lieu_cong_bo_cong_khai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_van_ban_phe_duyet_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_tai_lieu_cong_bo_cong_khai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_bao_cao_thuyet_minh_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_tai_lieu_cong_bo_cong_khai",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_ban_do_quy_hoach_su_dung_dat"
+    }
+  ]
+}

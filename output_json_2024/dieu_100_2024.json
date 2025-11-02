@@ -1,0 +1,366 @@
+{
+  "entities": [
+    {
+      "id": "dieu_100",
+      "label": "ĐiềuLuật",
+      "name": "Điều 100"
+    },
+    {
+      "id": "dieu_95",
+      "label": "ĐiềuLuật",
+      "name": "Điều 95"
+    },
+    {
+      "id": "dieu_119",
+      "label": "ĐiềuLuật",
+      "name": "Điều 119"
+    },
+    {
+      "id": "dieu_42",
+      "label": "ĐiềuLuật",
+      "name": "Điều 42"
+    },
+    {
+      "id": "boi_thuong_ve_dat",
+      "label": "KháiNiệm",
+      "name": "Bồi thường về đất"
+    },
+    {
+      "id": "dat_phi_nong_nghiep_khong_phai_la_dat_o",
+      "label": "KháiNiệm",
+      "name": "Đất phi nông nghiệp không phải là đất ở"
+    },
+    {
+      "id": "dat_nghia_trang",
+      "label": "KháiNiệm",
+      "name": "Đất nghĩa trang"
+    },
+    {
+      "id": "dat_co_cung_muc_dich_su_dung",
+      "label": "KháiNiệm",
+      "name": "Đất có cùng mục đích sử dụng"
+    },
+    {
+      "id": "boi_thuong_bang_tien",
+      "label": "KháiNiệm",
+      "name": "Bồi thường bằng tiền"
+    },
+    {
+      "id": "du_an_dau_tu_ha_tang_nghia_trang_xay_dung_co_so_luu_giu_tro_cot",
+      "label": "KháiNiệm",
+      "name": "Dự án đầu tư hạ tầng nghĩa trang, xây dựng cơ sở lưu giữ tro cốt"
+    },
+    {
+      "id": "gop_von_bang_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "cho_thue_dat_tra_tien_thue_dat_mot_lan_cho_ca_thoi_gian_thue",
+      "label": "KháiNiệm",
+      "name": "Cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê"
+    },
+    {
+      "id": "dat_phi_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "Đất phi nông nghiệp"
+    },
+    {
+      "id": "chu_the_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chu_the_to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chu_the_don_vi_su_nghiep_cong_lap",
+      "label": "ChủThể",
+      "name": "Đơn vị sự nghiệp công lập"
+    },
+    {
+      "id": "chu_the_cong_dong_dan_cu",
+      "label": "ChủThể",
+      "name": "Cộng đồng dân cư"
+    },
+    {
+      "id": "chu_the_to_chuc_ton_giao",
+      "label": "ChủThể",
+      "name": "Tổ chức tôn giáo"
+    },
+    {
+      "id": "chu_the_to_chuc_ton_giao_truc_thuoc",
+      "label": "ChủThể",
+      "name": "Tổ chức tôn giáo trực thuộc"
+    },
+    {
+      "id": "chu_the_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "Người gốc Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chu_the_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
+      "label": "ChủThể",
+      "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+    },
+    {
+      "id": "chu_the_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "chu_the_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanh_vi_thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "hanh_vi_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất"
+    },
+    {
+      "id": "hanh_vi_boi_thuong",
+      "label": "HànhViPhápLý",
+      "name": "Bồi thường"
+    },
+    {
+      "id": "hanh_vi_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "Giao đất"
+    },
+    {
+      "id": "hanh_vi_thuc_hien_du_an_dau_tu",
+      "label": "HànhViPhápLý",
+      "name": "Thực hiện dự án đầu tư"
+    },
+    {
+      "id": "hanh_vi_nhan_gop_von",
+      "label": "HànhViPhápLý",
+      "name": "Nhận góp vốn"
+    },
+    {
+      "id": "hanh_vi_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Cho thuê đất"
+    },
+    {
+      "id": "hanh_vi_tra_tien_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "Trả tiền thuê đất"
+    },
+    {
+      "id": "hanh_vi_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    },
+    {
+      "id": "dieu_kien_du_dieu_kien_boi_thuong_theo_dieu_95",
+      "label": "ĐiềuKiện",
+      "name": "Có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này"
+    },
+    {
+      "id": "dieu_kien_khong_co_dat_de_boi_thuong",
+      "label": "ĐiềuKiện",
+      "name": "Không có đất để bồi thường"
+    },
+    {
+      "id": "dieu_kien_su_dung_dat_phi_nong_nghiep_khong_phai_la_dat_o_hoac_dat_nghia_trang",
+      "label": "ĐiềuKiện",
+      "name": "Đang sử dụng đất phi nông nghiệp không phải là đất ở hoặc đất nghĩa trang"
+    },
+    {
+      "id": "dieu_kien_su_dung_dat_giao_de_thuc_hien_du_an_dau_tu_ha_tang_nghia_trang_theo_khoan_2_dieu_119",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất được Nhà nước giao đất để thực hiện dự án đầu tư hạ tầng nghĩa trang, xây dựng cơ sở lưu giữ tro cốt quy định tại khoản 2 Điều 119"
+    },
+    {
+      "id": "dieu_kien_su_dung_dat_do_nhan_gop_von_bang_quyen_su_dung_dat_theo_dieu_42",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất phi nông nghiệp không phải là đất ở do nhận góp vốn bằng quyền sử dụng đất quy định tại Điều 42"
+    },
+    {
+      "id": "dieu_kien_su_dung_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_mot_lan",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất phi nông nghiệp được Nhà nước cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "boi_thuong_ve_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dat_phi_nong_nghiep_khong_phai_la_dat_o"
+    },
+    {
+      "source_id": "chu_the_nha_nuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_thu_hoi_dat"
+    },
+    {
+      "source_id": "hanh_vi_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_du_dieu_kien_boi_thuong_theo_dieu_95"
+    },
+    {
+      "source_id": "dieu_kien_du_dieu_kien_boi_thuong_theo_dieu_95",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_95"
+    },
+    {
+      "source_id": "dieu_kien_du_dieu_kien_boi_thuong_theo_dieu_95",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanh_vi_boi_thuong"
+    },
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chu_the_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chu_the_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_phi_nong_nghiep_khong_phai_la_dat_o_hoac_dat_nghia_trang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_phi_nong_nghiep_khong_phai_la_dat_o_hoac_dat_nghia_trang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "hanh_vi_boi_thuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "dat_co_cung_muc_dich_su_dung"
+    },
+    {
+      "source_id": "dieu_kien_khong_co_dat_de_boi_thuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_bang_tien"
+    },
+    {
+      "source_id": "hanh_vi_boi_thuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_bang_tien"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_giao_de_thuc_hien_du_an_dau_tu_ha_tang_nghia_trang_theo_khoan_2_dieu_119",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_giao_de_thuc_hien_du_an_dau_tu_ha_tang_nghia_trang_theo_khoan_2_dieu_119",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_119"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_do_nhan_gop_von_bang_quyen_su_dung_dat_theo_dieu_42",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_do_nhan_gop_von_bang_quyen_su_dung_dat_theo_dieu_42",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_42"
+    },
+    {
+      "source_id": "hanh_vi_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "boi_thuong_ve_dat"
+    },
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chu_the_don_vi_su_nghiep_cong_lap"
+    },
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chu_the_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao"
+    },
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chu_the_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_mot_lan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_mot_lan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_don_vi_su_nghiep_cong_lap"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_mot_lan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_mot_lan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao"
+    },
+    {
+      "source_id": "dieu_kien_su_dung_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_mot_lan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
+    },
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chu_the_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chu_the_to_chuc_ton_giao"
+    },
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chu_the_to_chuc_ton_giao_truc_thuoc"
+    },
+    {
+      "source_id": "dat_phi_nong_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_cong_dong_dan_cu"
+    },
+    {
+      "source_id": "dat_phi_nong_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_ton_giao"
+    },
+    {
+      "source_id": "dat_phi_nong_nghiep",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_the_to_chuc_ton_giao_truc_thuoc"
+    },
+    {
+      "source_id": "dieu_100",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanh_vi_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "chu_the_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieu_100"
+    }
+  ]
+}

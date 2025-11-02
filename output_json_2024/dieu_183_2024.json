@@ -1,0 +1,276 @@
+{
+  "entities": [
+    {
+      "id": "dieu_183",
+      "label": "ĐiềuLuật",
+      "name": "Điều 183"
+    },
+    {
+      "id": "khainiem_dat_chan_nuoi_tap_trung",
+      "label": "KháiNiệm",
+      "name": "Đất chăn nuôi tập trung"
+    },
+    {
+      "id": "khainiem_trang_trai_chan_nuoi",
+      "label": "KháiNiệm",
+      "name": "trang trại chăn nuôi"
+    },
+    {
+      "id": "khainiem_khu_vuc_rieng_biet",
+      "label": "KháiNiệm",
+      "name": "khu vực riêng biệt"
+    },
+    {
+      "id": "khainiem_phap_luat_ve_chan_nuoi",
+      "label": "KháiNiệm",
+      "name": "pháp luật về chăn nuôi"
+    },
+    {
+      "id": "hanhviphaply_su_dung_dat_chan_nuoi_tap_trung",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng đất chăn nuôi tập trung"
+    },
+    {
+      "id": "khainiem_bien_phap_bao_ve_moi_truong",
+      "label": "KháiNiệm",
+      "name": "biện pháp bảo vệ môi trường"
+    },
+    {
+      "id": "khainiem_quan_ly_chat_thai",
+      "label": "KháiNiệm",
+      "name": "quản lý chất thải"
+    },
+    {
+      "id": "hanhviphaply_khong_anh_huong_den_nguoi_su_dung_dat_trong_khu_vuc_va_xung_quanh",
+      "label": "HànhViPhápLý",
+      "name": "không ảnh hưởng đến người sử dụng đất trong khu vực và xung quanh"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_xay_dung_cong_trinh_gan_lien_voi_dat",
+      "label": "HànhViPhápLý",
+      "name": "xây dựng công trình gắn liền với đất"
+    },
+    {
+      "id": "khainiem_cong_trinh_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "name": "công trình gắn liền với đất"
+    },
+    {
+      "id": "khainiem_phap_luat_ve_dau_tu",
+      "label": "KháiNiệm",
+      "name": "pháp luật về đầu tư"
+    },
+    {
+      "id": "khainiem_phap_luat_ve_xay_dung",
+      "label": "KháiNiệm",
+      "name": "pháp luật về xây dựng"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất"
+    },
+    {
+      "id": "hanhviphaply_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê đất"
+    },
+    {
+      "id": "hanhviphaply_nhan_chuyen_nhuong",
+      "label": "HànhViPhápLý",
+      "name": "nhận chuyển nhượng"
+    },
+    {
+      "id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "thuê quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_nhan_gop_von_bang_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "nhận góp vốn bằng quyền sử dụng đất"
+    },
+    {
+      "id": "khainiem_du_an_dau_tu_chan_nuoi_tap_trung",
+      "label": "KháiNiệm",
+      "name": "dự án đầu tư chăn nuôi tập trung"
+    },
+    {
+      "id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "Người gốc Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "tổ chức kinh tế có vốn đầu tư nước ngoài"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_183",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_chan_nuoi_tap_trung"
+    },
+    {
+      "source_id": "khainiem_dat_chan_nuoi_tap_trung",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_trang_trai_chan_nuoi"
+    },
+    {
+      "source_id": "khainiem_trang_trai_chan_nuoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_khu_vuc_rieng_biet"
+    },
+    {
+      "source_id": "khainiem_trang_trai_chan_nuoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phap_luat_ve_chan_nuoi"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_chan_nuoi_tap_trung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_bien_phap_bao_ve_moi_truong"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_chan_nuoi_tap_trung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quan_ly_chat_thai"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_chan_nuoi_tap_trung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhviphaply_khong_anh_huong_den_nguoi_su_dung_dat_trong_khu_vuc_va_xung_quanh"
+    },
+    {
+      "source_id": "hanhviphaply_su_dung_dat_chan_nuoi_tap_trung",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xay_dung_cong_trinh_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_xay_dung_cong_trinh_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phap_luat_ve_dau_tu"
+    },
+    {
+      "source_id": "hanhviphaply_xay_dung_cong_trinh_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_phap_luat_ve_xay_dung"
+    },
+    {
+      "source_id": "hanhviphaply_giao_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "hanhviphaply_giao_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_giao_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_an_dau_tu_chan_nuoi_tap_trung"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_an_dau_tu_chan_nuoi_tap_trung"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_an_dau_tu_chan_nuoi_tap_trung"
+    },
+    {
+      "source_id": "hanhviphaply_thue_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_an_dau_tu_chan_nuoi_tap_trung"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_du_an_dau_tu_chan_nuoi_tap_trung"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "hanhviphaply_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_gop_von_bang_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
+    }
+  ]
+}

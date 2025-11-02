@@ -1,0 +1,132 @@
+{
+  "entities": [
+    {
+      "id": "dieu_88",
+      "label": "ĐiềuLuật",
+      "name": "Điều 88",
+      "description": "Nguyên tắc bồi thường thiệt hại về tài sản, ngừng sản xuất, kinh doanh khi Nhà nước thu hồi đất"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_chusohuutaisanhopphapganlienvoidat",
+      "label": "ChủThể",
+      "name": "chủ sở hữu tài sản hợp pháp gắn liền với đất"
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChủThể",
+      "name": "tổ chức"
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChủThể",
+      "name": "hộ gia đình"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChủThể",
+      "name": "người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChủThể",
+      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_boithuong",
+      "label": "HànhViPhápLý",
+      "name": "bồi thường"
+    },
+    {
+      "id": "khauniem_thiethaivertaisan",
+      "label": "KháiNiệm",
+      "name": "thiệt hại về tài sản"
+    },
+    {
+      "id": "khauniem_ngungsanxuatkinhdoanh",
+      "label": "KháiNiệm",
+      "name": "ngừng sản xuất, kinh doanh"
+    },
+    {
+      "id": "khauniem_thiethaidongungsanxuatkinhdoanh",
+      "label": "KháiNiệm",
+      "name": "thiệt hại do ngừng sản xuất, kinh doanh"
+    },
+    {
+      "id": "dieukien_thuhoidat_taisanganlien_bithiethai",
+      "label": "ĐiềuKiện",
+      "name": "Nhà nước thu hồi đất mà tài sản hợp pháp gắn liền với đất bị thiệt hại về tài sản"
+    },
+    {
+      "id": "dieukien_thuhoidat_ngungsanxuatkinhdoanh_cothiethai",
+      "label": "ĐiềuKiện",
+      "name": "Nhà nước thu hồi đất mà phải ngừng sản xuất, kinh doanh và có thiệt hại"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_88",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_boithuong"
+    },
+    {
+      "source_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_boithuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuhoidat_taisanganlien_bithiethai"
+    },
+    {
+      "source_id": "hanhviphaply_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chusohuutaisanhopphapganlienvoidat"
+    },
+    {
+      "source_id": "hanhviphaply_boithuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thuhoidat_ngungsanxuatkinhdoanh_cothiethai"
+    },
+    {
+      "source_id": "hanhviphaply_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc"
+    },
+    {
+      "source_id": "hanhviphaply_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinh"
+    },
+    {
+      "source_id": "hanhviphaply_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan"
+    },
+    {
+      "source_id": "hanhviphaply_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai"
+    },
+    {
+      "source_id": "hanhviphaply_boithuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai"
+    }
+  ]
+}

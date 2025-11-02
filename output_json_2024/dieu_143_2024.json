@@ -1,0 +1,306 @@
+{
+  "entities": [
+    {
+      "id": "dieu_143",
+      "label": "ĐiềuLuật",
+      "name": "Điều 143"
+    },
+    {
+      "id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giaychungnhanQSDDat_QSTSCLVDat",
+      "label": "KháiNiệm",
+      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_datxaydungkhudothi",
+      "label": "KháiNiệm",
+      "name": "Đất xây dựng khu đô thị"
+    },
+    {
+      "id": "khainiem_khudancunongthon",
+      "label": "KháiNiệm",
+      "name": "Khu dân cư nông thôn"
+    },
+    {
+      "id": "khainiem_duansanxuatkinhdoanh_nhieumucdichSDDat",
+      "label": "KháiNiệm",
+      "name": "Dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau"
+    },
+    {
+      "id": "chuthe_chudautu",
+      "label": "ChủThể",
+      "name": "Chủ đầu tư"
+    },
+    {
+      "id": "khainiem_datgiaochudautu_duanxdkhudothi_khudancunongthon",
+      "label": "KháiNiệm",
+      "name": "Đất giao cho chủ đầu tư để thực hiện dự án xây dựng khu đô thị, khu dân cư nông thôn"
+    },
+    {
+      "id": "dieukien_duan_nhieuhangmuc_nhieumucdichSDDat",
+      "label": "ĐiềuKiện",
+      "name": "Trong dự án xác định có nhiều hạng mục công trình hoặc nhiều phần diện tích đất có mục đích sử dụng đất khác nhau"
+    },
+    {
+      "id": "dieukien_theoquydinh_dieu9",
+      "label": "ĐiềuKiện",
+      "name": "Theo quy định tại Điều 9 của Luật này"
+    },
+    {
+      "id": "hanhvipaply_xacdinhro_vitri_dientich_tungmucdichSDDat",
+      "label": "HànhViPhápLý",
+      "name": "Xác định rõ vị trí, diện tích theo từng mục đích sử dụng đất"
+    },
+    {
+      "id": "dieukien_tungthuadat_moimucdich",
+      "label": "ĐiềuKiện",
+      "name": "Thực hiện đối với từng thửa đất sử dụng vào mỗi mục đích"
+    },
+    {
+      "id": "dieukien_phuhop_quyhoachxaydungchitiet_pheduyet",
+      "label": "ĐiềuKiện",
+      "name": "Phù hợp với quy hoạch xây dựng chi tiết đã được cơ quan có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "chuthe_coquan_thamquyen",
+      "label": "ChủThể",
+      "name": "Cơ quan có thẩm quyền"
+    },
+    {
+      "id": "khainiem_datxaydungcongtrinhcongcong",
+      "label": "KháiNiệm",
+      "name": "Phần diện tích đất sử dụng vào mục đích xây dựng công trình công cộng"
+    },
+    {
+      "id": "khainiem_loiichchungcongdong",
+      "label": "KháiNiệm",
+      "name": "Lợi ích chung của cộng đồng"
+    },
+    {
+      "id": "hanhvipaply_bangaodiahpuongquanly",
+      "label": "HànhViPhápLý",
+      "name": "Bàn giao cho địa phương quản lý"
+    },
+    {
+      "id": "chuthe_diaphuong",
+      "label": "ChủThể",
+      "name": "Địa phương"
+    },
+    {
+      "id": "hanhvipaply_khongcap_giaychungnhanQSDDat_QSTSCLVDat",
+      "label": "HànhViPhápLý",
+      "name": "Không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_chungcu_ketHop_VP_TMDV",
+      "label": "KháiNiệm",
+      "name": "Chung cư kết hợp với văn phòng, cơ sở thương mại, dịch vụ"
+    },
+    {
+      "id": "dieukien_chudautu_conhucau",
+      "label": "ĐiềuKiện",
+      "name": "Chủ đầu tư có nhu cầu"
+    },
+    {
+      "id": "dieukien_dudieuhen",
+      "label": "ĐiềuKiện",
+      "name": "Đủ điều kiện"
+    },
+    {
+      "id": "khainiem_canho_VP_TMDV_thuocsohuu_chudautu",
+      "label": "KháiNiệm",
+      "name": "Căn hộ, văn phòng, cơ sở thương mại, dịch vụ thuộc sở hữu của chủ đầu tư"
+    },
+    {
+      "id": "khainiem_datgiaochudautu_duansxkd_nhieumucdichSDDat",
+      "label": "KháiNiệm",
+      "name": "Đất giao cho chủ đầu tư để thực hiện dự án sản xuất, kinh doanh bao gồm nhiều phần diện tích đất có mục đích sử dụng khác nhau"
+    },
+    {
+      "id": "hanhvipaply_capmot_giaychungnhanQSDDat_QSTSCLVDat_toanbodientich",
+      "label": "HànhViPhápLý",
+      "name": "Cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho chủ đầu tư đối với toàn bộ diện tích đất đó"
+    },
+    {
+      "id": "hanhvipaply_thehienro_vitri_dientich_tungmucdichSDDat",
+      "label": "HànhViPhápLý",
+      "name": "Thể hiện rõ vị trí, diện tích đất của từng mục đích sử dụng đất"
+    },
+    {
+      "id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat_tungthuadat_tungmucdich",
+      "label": "HànhViPhápLý",
+      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất theo từng mục đích sử dụng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_143",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datxaydungkhudothi"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_khudancunongthon"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_duansanxuatkinhdoanh_nhieumucdichSDDat"
+    },
+    {
+      "source_id": "dieu_143",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_datgiaochudautu_duanxdkhudothi_khudancunongthon"
+    },
+    {
+      "source_id": "khainiem_datgiaochudautu_duanxdkhudothi_khudancunongthon",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chudautu"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_xacdinhro_vitri_dientich_tungmucdichSDDat"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_duan_nhieuhangmuc_nhieumucdichSDDat"
+    },
+    {
+      "source_id": "dieukien_duan_nhieuhangmuc_nhieumucdichSDDat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinh_dieu9"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tungthuadat_moimucdich"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhop_quyhoachxaydungchitiet_pheduyet"
+    },
+    {
+      "source_id": "dieukien_phuhop_quyhoachxaydungchitiet_pheduyet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_coquan_thamquyen"
+    },
+    {
+      "source_id": "dieu_143",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_bangaodiahpuongquanly"
+    },
+    {
+      "source_id": "hanhvipaply_bangaodiahpuongquanly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datxaydungcongtrinhcongcong"
+    },
+    {
+      "source_id": "khainiem_datxaydungcongtrinhcongcong",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvipaply_khongcap_giaychungnhanQSDDat_QSTSCLVDat"
+    },
+    {
+      "source_id": "khainiem_datxaydungcongtrinhcongcong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_loiichchungcongdong"
+    },
+    {
+      "source_id": "hanhvipaply_bangaodiahpuongquanly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_diaphuong"
+    },
+    {
+      "source_id": "hanhvipaply_bangaodiahpuongquanly",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhop_quyhoachxaydungchitiet_pheduyet"
+    },
+    {
+      "source_id": "dieu_143",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_chungcu_ketHop_VP_TMDV"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_chungcu_ketHop_VP_TMDV"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_canho_VP_TMDV_thuocsohuu_chudautu"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chudautu_conhucau"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dudieuhen"
+    },
+    {
+      "source_id": "dieu_143",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_capmot_giaychungnhanQSDDat_QSTSCLVDat_toanbodientich"
+    },
+    {
+      "source_id": "hanhvipaply_capmot_giaychungnhanQSDDat_QSTSCLVDat_toanbodientich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datgiaochudautu_duansxkd_nhieumucdichSDDat"
+    },
+    {
+      "source_id": "khainiem_datgiaochudautu_duansxkd_nhieumucdichSDDat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chudautu"
+    },
+    {
+      "source_id": "hanhvipaply_capmot_giaychungnhanQSDDat_QSTSCLVDat_toanbodientich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvipaply_thehienro_vitri_dientich_tungmucdichSDDat"
+    },
+    {
+      "source_id": "hanhvipaply_thehienro_vitri_dientich_tungmucdichSDDat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_theoquydinh_dieu9"
+    },
+    {
+      "source_id": "dieu_143",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat_tungthuadat_tungmucdich"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat_tungthuadat_tungmucdich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_datgiaochudautu_duansxkd_nhieumucdichSDDat"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat_tungthuadat_tungmucdich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chudautu"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat_tungthuadat_tungmucdich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chudautu_conhucau"
+    },
+    {
+      "source_id": "hanhvipaply_cap_giaychungnhanQSDDat_QSTSCLVDat_tungthuadat_tungmucdich",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phuhop_quyhoachxaydungchitiet_pheduyet"
+    }
+  ]
+}

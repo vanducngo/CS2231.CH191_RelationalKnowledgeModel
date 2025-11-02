@@ -1,0 +1,106 @@
+{
+  "entities": [
+    {
+      "id": "dieu_104",
+      "label": "ĐiềuLuật",
+      "text": "Điều 104"
+    },
+    {
+      "id": "hanhviphaply_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat",
+      "label": "HànhViPhápLý",
+      "text": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "khainiem_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "text": "Tài sản gắn liền với đất"
+    },
+    {
+      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat",
+      "label": "KháiNiệm",
+      "text": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "khainiem_nha_o",
+      "label": "KháiNiệm",
+      "text": "nhà ở"
+    },
+    {
+      "id": "khainiem_cong_trinh_xay_dung_khac",
+      "label": "KháiNiệm",
+      "text": "công trình xây dựng khác"
+    },
+    {
+      "id": "khainiem_rung_san_xuat_la_rung_trong",
+      "label": "KháiNiệm",
+      "text": "rừng sản xuất là rừng trồng"
+    },
+    {
+      "id": "khainiem_cay_lau_nam",
+      "label": "KháiNiệm",
+      "text": "cây lâu năm"
+    },
+    {
+      "id": "dieukien_co_tai_thoi_diem_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat",
+      "label": "ĐiềuKiện",
+      "text": "có tại thời điểm cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "text": "Chính phủ"
+    },
+    {
+      "id": "khainiem_quy_dinh_cua_chinh_phu",
+      "label": "KháiNiệm",
+      "text": "quy định của Chính phủ"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_104",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "khainiem_tai_san_gan_lien_voi_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_nha_o"
+    },
+    {
+      "source_id": "khainiem_tai_san_gan_lien_voi_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_cong_trinh_xay_dung_khac"
+    },
+    {
+      "source_id": "khainiem_tai_san_gan_lien_voi_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_rung_san_xuat_la_rung_trong"
+    },
+    {
+      "source_id": "khainiem_tai_san_gan_lien_voi_dat",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_cay_lau_nam"
+    },
+    {
+      "source_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "khainiem_tai_san_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_tai_thoi_diem_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quy_dinh_cua_chinh_phu"
+    }
+  ]
+}

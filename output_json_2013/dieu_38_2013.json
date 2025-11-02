@@ -1,0 +1,541 @@
+{
+  "entities": [
+    {
+      "id": "dieu_38",
+      "label": "ĐiềuLuật",
+      "name": "Điều 38"
+    },
+    {
+      "id": "khainiem_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Quy hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "khainiem_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Kế hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "khainiem_can_cu_lap_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Căn cứ lập quy hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "khainiem_noi_dung_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Nội dung quy hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "khainiem_dinh_huong_su_dung_dat_10_nam",
+      "label": "KháiNiệm",
+      "name": "Định hướng sử dụng đất 10 năm"
+    },
+    {
+      "id": "hanhviphaply_xac_dinh_chi_tieu_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "Xác định các chỉ tiêu sử dụng đất"
+    },
+    {
+      "id": "khainiem_nhom_dat_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "nhóm đất nông nghiệp"
+    },
+    {
+      "id": "khainiem_nhom_dat_phi_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "nhóm đất phi nông nghiệp"
+    },
+    {
+      "id": "khainiem_nhom_dat_chua_su_dung",
+      "label": "KháiNiệm",
+      "name": "nhóm đất chưa sử dụng"
+    },
+    {
+      "id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "label": "KháiNiệm",
+      "name": "các loại đất quy định tại điểm b khoản 2 Điều này"
+    },
+    {
+      "id": "khainiem_dat_trong_lua",
+      "label": "KháiNiệm",
+      "name": "đất trồng lúa"
+    },
+    {
+      "id": "khainiem_dat_chuyen_trong_lua_nuoc",
+      "label": "KháiNiệm",
+      "name": "đất chuyên trồng lúa nước"
+    },
+    {
+      "id": "khainiem_dat_rung_phong_ho",
+      "label": "KháiNiệm",
+      "name": "đất rừng phòng hộ"
+    },
+    {
+      "id": "khainiem_dat_rung_dac_dung",
+      "label": "KháiNiệm",
+      "name": "đất rừng đặc dụng"
+    },
+    {
+      "id": "khainiem_dat_rung_san_xuat",
+      "label": "KháiNiệm",
+      "name": "đất rừng sản xuất"
+    },
+    {
+      "id": "khainiem_dat_nuoi_trong_thuy_san",
+      "label": "KháiNiệm",
+      "name": "đất nuôi trồng thủy sản"
+    },
+    {
+      "id": "khainiem_dat_lam_muoi",
+      "label": "KháiNiệm",
+      "name": "đất làm muối"
+    },
+    {
+      "id": "khainiem_dat_quoc_phong",
+      "label": "KháiNiệm",
+      "name": "đất quốc phòng"
+    },
+    {
+      "id": "khainiem_dat_an_ninh",
+      "label": "KháiNiệm",
+      "name": "đất an ninh"
+    },
+    {
+      "id": "khainiem_dat_khu_cong_nghiep",
+      "label": "KháiNiệm",
+      "name": "đất khu công nghiệp"
+    },
+    {
+      "id": "khainiem_dat_khu_che_xuat",
+      "label": "KháiNiệm",
+      "name": "đất khu chế xuất"
+    },
+    {
+      "id": "khainiem_dat_khu_cong_nghe_cao",
+      "label": "KháiNiệm",
+      "name": "đất khu công nghệ cao"
+    },
+    {
+      "id": "khainiem_dat_khu_kinh_te",
+      "label": "KháiNiệm",
+      "name": "đất khu kinh tế"
+    },
+    {
+      "id": "khainiem_dat_phat_trien_ha_tang_cap_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "đất phát triển hạ tầng cấp quốc gia"
+    },
+    {
+      "id": "khainiem_dat_co_di_tich_lich_su_van_hoa_danh_lam_thang_canh",
+      "label": "KháiNiệm",
+      "name": "đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+    },
+    {
+      "id": "khainiem_dat_do_thi",
+      "label": "KháiNiệm",
+      "name": "đất đô thị"
+    },
+    {
+      "id": "khainiem_dat_bai_thai_xu_ly_chat_thai",
+      "label": "KháiNiệm",
+      "name": "đất bãi thải, xử lý chất thải"
+    },
+    {
+      "id": "hanhviphaply_xac_dinh_dien_tich_cac_loai_dat_theo_ky_quy_hoach_va_don_vi_hanh_chinh",
+      "label": "HànhViPhápLý",
+      "name": "Xác định diện tích các loại đất quy định tại điểm b khoản này của kỳ quy hoạch đến từng đơn vị hành chính cấp tỉnh và vùng kinh tế - xã hội"
+    },
+    {
+      "id": "khainiem_ky_quy_hoach",
+      "label": "KháiNiệm",
+      "name": "kỳ quy hoạch"
+    },
+    {
+      "id": "khainiem_don_vi_hanh_chinh_cap_tinh",
+      "label": "KháiNiệm",
+      "name": "đơn vị hành chính cấp tỉnh"
+    },
+    {
+      "id": "khainiem_vung_kinh_te_xa_hoi",
+      "label": "KháiNiệm",
+      "name": "vùng kinh tế - xã hội"
+    },
+    {
+      "id": "hanhviphaply_lap_ban_do_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "label": "HànhViPhápLý",
+      "name": "Lập bản đồ quy hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "khainiem_ban_do_quy_hoach_su_dung_dat_cap_quoc_gia_va_cac_vung_kinh_te_xa_hoi",
+      "label": "KháiNiệm",
+      "name": "bản đồ quy hoạch sử dụng đất cấp quốc gia và các vùng kinh tế - xã hội"
+    },
+    {
+      "id": "khainiem_giai_phap_thuc_hien_quy_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Giải pháp thực hiện quy hoạch sử dụng đất"
+    },
+    {
+      "id": "khainiem_can_cu_lap_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Căn cứ lập kế hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "khainiem_noi_dung_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "label": "KháiNiệm",
+      "name": "Nội dung kế hoạch sử dụng đất cấp quốc gia"
+    },
+    {
+      "id": "hanhviphaply_phan_tich_danh_gia_ket_qua_thuc_hien_ke_hoach_su_dung_dat_cap_quoc_gia_ky_truoc",
+      "label": "HànhViPhápLý",
+      "name": "Phân tích, đánh giá kết quả thực hiện kế hoạch sử dụng đất cấp quốc gia kỳ trước"
+    },
+    {
+      "id": "hanhviphaply_xac_dinh_dien_tich_cac_loai_dat_trong_ky_ke_hoach_su_dung_dat_05_nam",
+      "label": "HànhViPhápLý",
+      "name": "Xác định diện tích các loại đất quy định tại điểm b khoản 2 Điều này trong kỳ kế hoạch sử dụng đất 05 năm"
+    },
+    {
+      "id": "khainiem_ky_ke_hoach_su_dung_dat_05_nam",
+      "label": "KháiNiệm",
+      "name": "kỳ kế hoạch sử dụng đất 05 năm"
+    },
+    {
+      "id": "khainiem_ke_hoach_su_dung_dat_05_nam_cho_tung_don_vi_hanh_chinh_cap_tinh_va_vung_kinh_te_xa_hoi",
+      "label": "KháiNiệm",
+      "name": "Kế hoạch sử dụng đất 05 năm cho từng đơn vị hành chính cấp tỉnh và vùng kinh tế - xã hội"
+    },
+    {
+      "id": "khainiem_giai_phap_thuc_hien_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Giải pháp thực hiện kế hoạch sử dụng đất"
+    },
+    {
+      "id": "dieukien_chien_luoc_phat_trien_kinh_te_xa_hoi_quoc_phong_an_ninh_cua_quoc_gia",
+      "label": "ĐiềuKiện",
+      "name": "Chiến lược phát triển kinh tế - xã hội, quốc phòng, an ninh của quốc gia"
+    },
+    {
+      "id": "dieukien_quy_hoach_tong_the_phat_trien_cac_vung_kinh_te_xa_hoi",
+      "label": "ĐiềuKiện",
+      "name": "quy hoạch tổng thể phát triển các vùng kinh tế - xã hội"
+    },
+    {
+      "id": "dieukien_chien_luoc_quy_hoach_phat_trien_nganh_linh_vuc",
+      "label": "ĐiềuKiện",
+      "name": "chiến lược, quy hoạch phát triển ngành, lĩnh vực"
+    },
+    {
+      "id": "dieukien_dieu_kien_tu_nhien_kinh_te_xa_hoi",
+      "label": "ĐiềuKiện",
+      "name": "Điều kiện tự nhiên, kinh tế - xã hội"
+    },
+    {
+      "id": "dieukien_hien_trang_su_dung_dat_tiem_nang_dat_dai_va_ket_qua_thuc_hien_quy_hoach_su_dung_dat_cap_quoc_gia_ky_truoc",
+      "label": "ĐiềuKiện",
+      "name": "Hiện trạng sử dụng đất, tiềm năng đất đai và kết quả thực hiện quy hoạch sử dụng đất cấp quốc gia kỳ trước"
+    },
+    {
+      "id": "dieukien_nhu_cau_su_dung_dat_cua_cac_nganh_linh_vuc",
+      "label": "ĐiềuKiện",
+      "name": "Nhu cầu sử dụng đất của các ngành, lĩnh vực"
+    },
+    {
+      "id": "dieukien_tien_bo_khoa_hoc_va_cong_nghe_co_lien_quan_den_viec_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "Tiến bộ khoa học và công nghệ có liên quan đến việc sử dụng đất"
+    },
+    {
+      "id": "dieukien_ke_hoach_phat_trien_kinh_te_xa_hoi_05_nam_va_hang_nam_cua_ca_nuoc",
+      "label": "ĐiềuKiện",
+      "name": "Kế hoạch phát triển kinh tế - xã hội 05 năm và hàng năm của cả nước"
+    },
+    {
+      "id": "dieukien_nhu_cau_su_dung_dat_05_nam_cua_cac_nganh_linh_vuc",
+      "label": "ĐiềuKiện",
+      "name": "Nhu cầu sử dụng đất 05 năm của các ngành, lĩnh vực"
+    },
+    {
+      "id": "dieukien_ket_qua_thuc_hien_ke_hoach_su_dung_dat_cap_quoc_gia_ky_truoc",
+      "label": "ĐiềuKiện",
+      "name": "Kết quả thực hiện kế hoạch sử dụng đất cấp quốc gia kỳ trước"
+    },
+    {
+      "id": "dieukien_kha_nang_dau_tu_huy_dong_nguon_luc_de_thuc_hien_ke_hoach_su_dung_dat",
+      "label": "ĐiềuKiện",
+      "name": "Khả năng đầu tư, huy động nguồn lực để thực hiện kế hoạch sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_38",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_quy_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "dieu_38",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ke_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "khainiem_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_can_cu_lap_quy_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "khainiem_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_noi_dung_quy_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chien_luoc_phat_trien_kinh_te_xa_hoi_quoc_phong_an_ninh_cua_quoc_gia"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quy_hoach_tong_the_phat_trien_cac_vung_kinh_te_xa_hoi"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chien_luoc_quy_hoach_phat_trien_nganh_linh_vuc"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dieu_kien_tu_nhien_kinh_te_xa_hoi"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hien_trang_su_dung_dat_tiem_nang_dat_dai_va_ket_qua_thuc_hien_quy_hoach_su_dung_dat_cap_quoc_gia_ky_truoc"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nhu_cau_su_dung_dat_cua_cac_nganh_linh_vuc"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tien_bo_khoa_hoc_va_cong_nghe_co_lien_quan_den_viec_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_noi_dung_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dinh_huong_su_dung_dat_10_nam"
+    },
+    {
+      "source_id": "khainiem_noi_dung_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xac_dinh_chi_tieu_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_chi_tieu_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nhom_dat_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_chi_tieu_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nhom_dat_phi_nong_nghiep"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_chi_tieu_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_nhom_dat_chua_su_dung"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_chi_tieu_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_trong_lua"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_chuyen_trong_lua_nuoc"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_rung_phong_ho"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_rung_dac_dung"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_rung_san_xuat"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_nuoi_trong_thuy_san"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_lam_muoi"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_quoc_phong"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_an_ninh"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_khu_cong_nghiep"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_khu_che_xuat"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_khu_cong_nghe_cao"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_khu_kinh_te"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_phat_trien_ha_tang_cap_quoc_gia"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_co_di_tich_lich_su_van_hoa_danh_lam_thang_canh"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_do_thi"
+    },
+    {
+      "source_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_dat_bai_thai_xu_ly_chat_thai"
+    },
+    {
+      "source_id": "khainiem_noi_dung_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xac_dinh_dien_tich_cac_loai_dat_theo_ky_quy_hoach_va_don_vi_hanh_chinh"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_cac_loai_dat_theo_ky_quy_hoach_va_don_vi_hanh_chinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ky_quy_hoach"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_cac_loai_dat_theo_ky_quy_hoach_va_don_vi_hanh_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_don_vi_hanh_chinh_cap_tinh"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_cac_loai_dat_theo_ky_quy_hoach_va_don_vi_hanh_chinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_vung_kinh_te_xa_hoi"
+    },
+    {
+      "source_id": "khainiem_noi_dung_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lap_ban_do_quy_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "hanhviphaply_lap_ban_do_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_ban_do_quy_hoach_su_dung_dat_cap_quoc_gia_va_cac_vung_kinh_te_xa_hoi"
+    },
+    {
+      "source_id": "khainiem_noi_dung_quy_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giai_phap_thuc_hien_quy_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_can_cu_lap_ke_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "khainiem_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_noi_dung_ke_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_quy_hoach_su_dung_dat_cap_quoc_gia"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ke_hoach_phat_trien_kinh_te_xa_hoi_05_nam_va_hang_nam_cua_ca_nuoc"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nhu_cau_su_dung_dat_05_nam_cua_cac_nganh_linh_vuc"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ket_qua_thuc_hien_ke_hoach_su_dung_dat_cap_quoc_gia_ky_truoc"
+    },
+    {
+      "source_id": "khainiem_can_cu_lap_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_kha_nang_dau_tu_huy_dong_nguon_luc_de_thuc_hien_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "khainiem_noi_dung_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_phan_tich_danh_gia_ket_qua_thuc_hien_ke_hoach_su_dung_dat_cap_quoc_gia_ky_truoc"
+    },
+    {
+      "source_id": "khainiem_noi_dung_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_xac_dinh_dien_tich_cac_loai_dat_trong_ky_ke_hoach_su_dung_dat_05_nam"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_cac_loai_dat_trong_ky_ke_hoach_su_dung_dat_05_nam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_cac_loai_dat_quy_dinh_tai_diem_b_khoan_2_dieu_nay"
+    },
+    {
+      "source_id": "hanhviphaply_xac_dinh_dien_tich_cac_loai_dat_trong_ky_ke_hoach_su_dung_dat_05_nam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ky_ke_hoach_su_dung_dat_05_nam"
+    },
+    {
+      "source_id": "khainiem_noi_dung_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ke_hoach_su_dung_dat_05_nam_cho_tung_don_vi_hanh_chinh_cap_tinh_va_vung_kinh_te_xa_hoi"
+    },
+    {
+      "source_id": "khainiem_noi_dung_ke_hoach_su_dung_dat_cap_quoc_gia",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_giai_phap_thuc_hien_ke_hoach_su_dung_dat"
+    }
+  ]
+}

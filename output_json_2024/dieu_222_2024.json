@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "id": "dieu_222",
+      "label": "ĐiềuLuật",
+      "name": "Điều 222"
+    },
+    {
+      "id": "khauniem_duadat_chuasudung_vaosudung",
+      "label": "KháiNiệm",
+      "name": "Đưa đất chưa sử dụng vào sử dụng"
+    },
+    {
+      "id": "chuthe_ubnndaccap",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân các cấp"
+    },
+    {
+      "id": "hanhviphaply_cokehoach_duadat_chuasudung_vaosudung",
+      "label": "HànhViPhápLý",
+      "name": "có kế hoạch đưa đất chưa sử dụng vào sử dụng"
+    },
+    {
+      "id": "dieukien_quyhoach_kehoach_sudungdat_duocpheduyet",
+      "label": "ĐiềuKiện",
+      "name": "quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_khuyenkhich",
+      "label": "HànhViPhápLý",
+      "name": "khuyến khích"
+    },
+    {
+      "id": "chuthe_tochuc_canhan",
+      "label": "ChủThể",
+      "name": "tổ chức, cá nhân"
+    },
+    {
+      "id": "hanhviphaply_dautu_duadat_chuasudung_vaosudung",
+      "label": "HànhViPhápLý",
+      "name": "đầu tư để đưa đất chưa sử dụng vào sử dụng"
+    },
+    {
+      "id": "dieukien_dat_quyhoach_nongnghiep",
+      "label": "ĐiềuKiện",
+      "name": "diện tích đất được quy hoạch sử dụng vào mục đích nông nghiệp"
+    },
+    {
+      "id": "hanhviphaply_uutiengiaodat",
+      "label": "HànhViPhápLý",
+      "name": "ưu tiên giao đất"
+    },
+    {
+      "id": "chuthe_canhan_cutru_tailocal",
+      "label": "ChủThể",
+      "name": "cá nhân cư trú tại địa phương"
+    },
+    {
+      "id": "dieukien_chuaduocgiaodat_hoacthieudatsanxuat",
+      "label": "ĐiềuKiện",
+      "name": "chưa được giao đất hoặc thiếu đất sản xuất"
+    },
+    {
+      "id": "hanhviphaply_csdautu_cshatang",
+      "label": "HànhViPhápLý",
+      "name": "có chính sách đầu tư cơ sở hạ tầng"
+    },
+    {
+      "id": "dieukien_vung_dacbiet",
+      "label": "ĐiềuKiện",
+      "name": "vùng biên giới, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng nhiều đất nhưng ít dân"
+    },
+    {
+      "id": "hanhviphaply_thuchien_kehoach_duadat_chuasudung_vaosudung",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện kế hoạch đưa đất chưa sử dụng vào sử dụng"
+    },
+    {
+      "id": "hanhviphaply_csmg_tiensudung_thuedat",
+      "label": "HànhViPhápLý",
+      "name": "có chính sách miễn, giảm tiền sử dụng đất, tiền thuê đất"
+    },
+    {
+      "id": "dieukien_giaodat_chothuedat_chuasudung_vaosudung",
+      "label": "ĐiềuKiện",
+      "name": "trường hợp giao đất, cho thuê đất chưa sử dụng để đưa vào sử dụng"
+    },
+    {
+      "id": "chuthe_ubnncaptinh",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp tỉnh"
+    },
+    {
+      "id": "hanhviphaply_sudung_kinhphi",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng nguồn kinh phí"
+    },
+    {
+      "id": "dieukien_nguonkinhphi_chuyenmucdich_dattonglua",
+      "label": "ĐiềuKiện",
+      "name": "nguồn kinh phí thu được từ nguồn thu khi cho phép chuyển mục đích đất trồng lúa sang sử dụng vào mục đích khác và nguồn kinh phí hợp pháp khác"
+    },
+    {
+      "id": "hanhviphaply_phucvu_caitao_duadat_chuasudung_vaosudung",
+      "label": "HànhViPhápLý",
+      "name": "phục vụ việc cải tạo, đưa đất chưa sử dụng vào sử dụng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_222",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khauniem_duadat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "chuthe_ubnndaccap",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cokehoach_duadat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "hanhviphaply_cokehoach_duadat_chuasudung_vaosudung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyhoach_kehoach_sudungdat_duocpheduyet"
+    },
+    {
+      "source_id": "hanhviphaply_cokehoach_duadat_chuasudung_vaosudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_duadat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khuyenkhich"
+    },
+    {
+      "source_id": "hanhviphaply_khuyenkhich",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_tochuc_canhan"
+    },
+    {
+      "source_id": "chuthe_tochuc_canhan",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_dautu_duadat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "hanhviphaply_dautu_duadat_chuasudung_vaosudung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_quyhoach_kehoach_sudungdat_duocpheduyet"
+    },
+    {
+      "source_id": "hanhviphaply_dautu_duadat_chuasudung_vaosudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_duadat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "hanhviphaply_uutiengiaodat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_quyhoach_nongnghiep"
+    },
+    {
+      "source_id": "hanhviphaply_uutiengiaodat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_canhan_cutru_tailocal"
+    },
+    {
+      "source_id": "chuthe_canhan_cutru_tailocal",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chuaduocgiaodat_hoacthieudatsanxuat"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_csdautu_cshatang"
+    },
+    {
+      "source_id": "hanhviphaply_csdautu_cshatang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_vung_dacbiet"
+    },
+    {
+      "source_id": "hanhviphaply_csdautu_cshatang",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_thuchien_kehoach_duadat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "hanhviphaply_thuchien_kehoach_duadat_chuasudung_vaosudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_duadat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_csmg_tiensudung_thuedat"
+    },
+    {
+      "source_id": "hanhviphaply_csmg_tiensudung_thuedat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_giaodat_chothuedat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "dieukien_giaodat_chothuedat_chuasudung_vaosudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_duadat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "chuthe_ubnncaptinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sudung_kinhphi"
+    },
+    {
+      "source_id": "hanhviphaply_sudung_kinhphi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_nguonkinhphi_chuyenmucdich_dattonglua"
+    },
+    {
+      "source_id": "hanhviphaply_sudung_kinhphi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_phucvu_caitao_duadat_chuasudung_vaosudung"
+    },
+    {
+      "source_id": "hanhviphaply_phucvu_caitao_duadat_chuasudung_vaosudung",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_duadat_chuasudung_vaosudung"
+    }
+  ]
+}

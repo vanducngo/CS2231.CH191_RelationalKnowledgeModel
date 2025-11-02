@@ -1,0 +1,316 @@
+{
+  "entities": [
+    {
+      "id": "dieu_68",
+      "label": "ĐiềuLuật",
+      "name": "Điều 68. Tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng; quản lý đất đã thu hồi"
+    },
+    {
+      "id": "khaikiem_to_chuc_lam_nhiem_vu_boi_thuong_giai_phong_mat_bang",
+      "label": "KháiNiệm",
+      "name": "Tổ chức làm nhiệm vụ bồi thường, giải phóng mặt bằng"
+    },
+    {
+      "id": "chuthe_to_chuc_dich_vu_cong_ve_dat_dai",
+      "label": "ChủThể",
+      "name": "tổ chức dịch vụ công về đất đai"
+    },
+    {
+      "id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cu",
+      "label": "ChủThể",
+      "name": "Hội đồng bồi thường, hỗ trợ và tái định cư"
+    },
+    {
+      "id": "khaikiem_dat_da_thu_hoi",
+      "label": "KháiNiệm",
+      "name": "Đất đã thu hồi"
+    },
+    {
+      "id": "hanhvi_quan_ly",
+      "label": "HànhViPhápLý",
+      "name": "quản lý"
+    },
+    {
+      "id": "hanhvi_su_dung",
+      "label": "HànhViPhápLý",
+      "name": "sử dụng"
+    },
+    {
+      "id": "dieu_61",
+      "label": "ĐiềuLuật",
+      "name": "Điều 61 của Luật này"
+    },
+    {
+      "id": "dieu_62",
+      "label": "ĐiềuLuật",
+      "name": "Điều 62 của Luật này"
+    },
+    {
+      "id": "chuthe_chu_dau_tu",
+      "label": "ChủThể",
+      "name": "chủ đầu tư"
+    },
+    {
+      "id": "hanhvi_thuc_hien_du_an_dau_tu",
+      "label": "HànhViPhápLý",
+      "name": "thực hiện dự án đầu tư"
+    },
+    {
+      "id": "dieu_64_khoan_1",
+      "label": "ĐiềuLuật",
+      "name": "khoản 1 Điều 64 của Luật này"
+    },
+    {
+      "id": "dieu_65_khoan_1_diem_abcd",
+      "label": "ĐiềuLuật",
+      "name": "các điểm a, b, c và d khoản 1 Điều 65 của Luật này"
+    },
+    {
+      "id": "hanhvi_dau_gia_quyen_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "đấu giá quyền sử dụng đất"
+    },
+    {
+      "id": "khaikiem_dat_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "đất nông nghiệp"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "hộ gia đình"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "dieu_kien_o_nong_thon",
+      "label": "ĐiềuKiện",
+      "name": "ở nông thôn"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
+      "label": "ChủThể",
+      "name": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": "hanhvi_giao_dat",
+      "label": "HànhViPhápLý",
+      "name": "giao đất"
+    },
+    {
+      "id": "hanhvi_cho_thue_dat",
+      "label": "HànhViPhápLý",
+      "name": "cho thuê đất"
+    },
+    {
+      "id": "dieu_kien_khong_co_thieu_dat_san_xuat",
+      "label": "ĐiềuKiện",
+      "name": "không có đất hoặc thiếu đất sản xuất"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhvi_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "quy định chi tiết"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_68",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_to_chuc_lam_nhiem_vu_boi_thuong_giai_phong_mat_bang"
+    },
+    {
+      "source_id": "dieu_68",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_dat_da_thu_hoi"
+    },
+    {
+      "source_id": "khaikiem_to_chuc_lam_nhiem_vu_boi_thuong_giai_phong_mat_bang",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_to_chuc_dich_vu_cong_ve_dat_dai"
+    },
+    {
+      "source_id": "khaikiem_to_chuc_lam_nhiem_vu_boi_thuong_giai_phong_mat_bang",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_quan_ly"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_su_dung"
+    },
+    {
+      "source_id": "hanhvi_quan_ly",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_61"
+    },
+    {
+      "source_id": "hanhvi_quan_ly",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_62"
+    },
+    {
+      "source_id": "hanhvi_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_61"
+    },
+    {
+      "source_id": "hanhvi_su_dung",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_62"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_thuc_hien_du_an_dau_tu"
+    },
+    {
+      "source_id": "hanhvi_thuc_hien_du_an_dau_tu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chu_dau_tu"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_quan_ly"
+    },
+    {
+      "source_id": "hanhvi_quan_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_dich_vu_cong_ve_dat_dai"
+    },
+    {
+      "source_id": "hanhvi_quan_ly",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_64_khoan_1"
+    },
+    {
+      "source_id": "hanhvi_quan_ly",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_65_khoan_1_diem_abcd"
+    },
+    {
+      "source_id": "hanhvi_dau_gia_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_64_khoan_1"
+    },
+    {
+      "source_id": "hanhvi_dau_gia_quyen_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_65_khoan_1_diem_abcd"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_dau_gia_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhvi_dau_gia_quyen_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_dich_vu_cong_ve_dat_dai"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_dat_nong_nghiep"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_o_nong_thon"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_quan_ly"
+    },
+    {
+      "source_id": "hanhvi_quan_ly",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_giao_dat"
+    },
+    {
+      "source_id": "khaikiem_dat_da_thu_hoi",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_cho_thue_dat"
+    },
+    {
+      "source_id": "hanhvi_giao_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvi_giao_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvi_giao_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khong_co_thieu_dat_san_xuat"
+    },
+    {
+      "source_id": "hanhvi_cho_thue_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_kien_khong_co_thieu_dat_san_xuat"
+    },
+    {
+      "source_id": "dieu_kien_khong_co_thieu_dat_san_xuat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "dieu_kien_khong_co_thieu_dat_san_xuat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "dieu_68",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhvi_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chinh_phu"
+    }
+  ]
+}

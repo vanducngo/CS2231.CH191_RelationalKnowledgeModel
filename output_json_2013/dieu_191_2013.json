@@ -1,0 +1,481 @@
+{
+  "entities": [
+    {
+      "id": "dieu_191",
+      "label": "ĐiềuLuật",
+      "name": "Điều 191"
+    },
+    {
+      "id": "khaikiem_truong_hop_khong_duoc_nhan_chuyen_nhuong_nhan_tang_cho_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "Trường hợp không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "khaikiem_quyen_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "quyền sử dụng đất"
+    },
+    {
+      "id": "khaikiem_dat_trong_lua",
+      "label": "KháiNiệm",
+      "name": "đất trồng lúa"
+    },
+    {
+      "id": "khaikiem_dat_rung_phong_ho",
+      "label": "KháiNiệm",
+      "name": "đất rừng phòng hộ"
+    },
+    {
+      "id": "khaikiem_dat_rung_dac_dung",
+      "label": "KháiNiệm",
+      "name": "đất rừng đặc dụng"
+    },
+    {
+      "id": "khaikiem_dat_o",
+      "label": "KháiNiệm",
+      "name": "đất ở"
+    },
+    {
+      "id": "khaikiem_dat_nong_nghiep",
+      "label": "KháiNiệm",
+      "name": "đất nông nghiệp"
+    },
+    {
+      "id": "khaikiem_khu_vuc_rung_phong_ho",
+      "label": "KháiNiệm",
+      "name": "khu vực rừng phòng hộ"
+    },
+    {
+      "id": "khaikiem_phan_khu_bao_ve_nghiem_ngat",
+      "label": "KháiNiệm",
+      "name": "phân khu bảo vệ nghiêm ngặt"
+    },
+    {
+      "id": "khaikiem_phan_khu_phuc_hoi_sinh_thai",
+      "label": "KháiNiệm",
+      "name": "phân khu phục hồi sinh thái"
+    },
+    {
+      "id": "khaikiem_rung_dac_dung",
+      "label": "KháiNiệm",
+      "name": "rừng đặc dụng"
+    },
+    {
+      "id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "quy hoạch, kế hoạch sử dụng đất"
+    },
+    {
+      "id": "khaikiem_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "KháiNiệm",
+      "name": "cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "chuthe_to_chuc",
+      "label": "ChủThể",
+      "name": "Tổ chức"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "hộ gia đình"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "cá nhân"
+    },
+    {
+      "id": "chuthe_cong_dong_dan_cu",
+      "label": "ChủThể",
+      "name": "cộng đồng dân cư"
+    },
+    {
+      "id": "chuthe_co_so_ton_giao",
+      "label": "ChủThể",
+      "name": "cơ sở tôn giáo"
+    },
+    {
+      "id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "hanhviphaply_nhan_chuyen_nhuong",
+      "label": "HànhViPhápLý",
+      "name": "nhận chuyển nhượng"
+    },
+    {
+      "id": "hanhviphaply_nhan_tang_cho",
+      "label": "HànhViPhápLý",
+      "name": "nhận tặng cho"
+    },
+    {
+      "id": "hanhviphaply_chuyen_nhuong_qsdđ",
+      "label": "HànhViPhápLý",
+      "name": "chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_tang_cho_qsdđ",
+      "label": "HànhViPhápLý",
+      "name": "tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_chuyen_muc_dich_su_dung_dat",
+      "label": "HànhViPhápLý",
+      "name": "chuyển mục đích sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_san_xuat_nong_nghiep",
+      "label": "HànhViPhápLý",
+      "name": "sản xuất nông nghiệp"
+    },
+    {
+      "id": "hanhviphaply_sinh_song_trong_khu_vuc",
+      "label": "HànhViPhápLý",
+      "name": "sinh sống trong khu vực"
+    },
+    {
+      "id": "chetai_cam_nhan_chuyen_nhuong_qsdđ",
+      "label": "ChếTài",
+      "name": "Cấm nhận chuyển nhượng quyền sử dụng đất"
+    },
+    {
+      "id": "chetai_cam_nhan_tang_cho_qsdđ",
+      "label": "ChếTài",
+      "name": "Cấm nhận tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_phap_luat_khong_cho_phep_cnhuong_tang_cho_qsdđ",
+      "label": "ĐiềuKiện",
+      "name": "pháp luật không cho phép chuyển nhượng, tặng cho quyền sử dụng đất"
+    },
+    {
+      "id": "dieukien_doi_voi_dat_trong_lua_rung_ph_rung_dd",
+      "label": "ĐiềuKiện",
+      "name": "đối với đất trồng lúa, đất rừng phòng hộ, đất rừng đặc dụng"
+    },
+    {
+      "id": "dieukien_duoc_chuyen_muc_dich_sd_dat_theo_qh_khsdđ_phe_duyet",
+      "label": "ĐiềuKiện",
+      "name": "được chuyển mục đích sử dụng đất theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+    },
+    {
+      "id": "dieukien_chu_the_khong_truc_tiep_san_xuat_nong_nghiep",
+      "label": "ĐiềuKiện",
+      "name": "chủ thể không trực tiếp sản xuất nông nghiệp"
+    },
+    {
+      "id": "dieukien_doi_voi_dat_trong_lua",
+      "label": "ĐiềuKiện",
+      "name": "đối với đất trồng lúa"
+    },
+    {
+      "id": "dieukien_chu_the_khong_sinh_song_trong_kv_rung",
+      "label": "ĐiềuKiện",
+      "name": "chủ thể không sinh sống trong khu vực rừng phòng hộ, rừng đặc dụng"
+    },
+    {
+      "id": "dieukien_doi_voi_dat_o_dat_nn_trong_kv_rung",
+      "label": "ĐiềuKiện",
+      "name": "đối với đất ở, đất nông nghiệp trong khu vực rừng phòng hộ, trong phân khu bảo vệ nghiêm ngặt, phân khu phục hồi sinh thái thuộc rừng đặc dụng"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_191",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khaikiem_truong_hop_khong_duoc_nhan_chuyen_nhuong_nhan_tang_cho_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "dieu_191",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "dieu_191",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_nhan_chuyen_nhuong"
+    },
+    {
+      "source_id": "chetai_cam_nhan_tang_cho_qsdđ",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_nhan_tang_cho"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_chuyen_nhuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_nhan_tang_cho",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_quyen_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_cong_dong_dan_cu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_co_so_ton_giao",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_to_chuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chuthe_cong_dong_dan_cu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chuthe_co_so_ton_giao",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phap_luat_khong_cho_phep_cnhuong_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chetai_cam_nhan_tang_cho_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_phap_luat_khong_cho_phep_cnhuong_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "dieukien_phap_luat_khong_cho_phep_cnhuong_tang_cho_qsdđ",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "dieukien_phap_luat_khong_cho_phep_cnhuong_tang_cho_qsdđ",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chuthe_to_chuc_kinh_te",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_doi_voi_dat_trong_lua_rung_ph_rung_dd"
+    },
+    {
+      "source_id": "dieukien_doi_voi_dat_trong_lua_rung_ph_rung_dd",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dat_trong_lua"
+    },
+    {
+      "source_id": "dieukien_doi_voi_dat_trong_lua_rung_ph_rung_dd",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dat_rung_phong_ho"
+    },
+    {
+      "source_id": "dieukien_doi_voi_dat_trong_lua_rung_ph_rung_dd",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dat_rung_dac_dung"
+    },
+    {
+      "source_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_duoc_chuyen_muc_dich_sd_dat_theo_qh_khsdđ_phe_duyet"
+    },
+    {
+      "source_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat"
+    },
+    {
+      "source_id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khaikiem_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chu_the_khong_truc_tiep_san_xuat_nong_nghiep"
+    },
+    {
+      "source_id": "chetai_cam_nhan_tang_cho_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chu_the_khong_truc_tiep_san_xuat_nong_nghiep"
+    },
+    {
+      "source_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_doi_voi_dat_trong_lua"
+    },
+    {
+      "source_id": "chetai_cam_nhan_tang_cho_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_doi_voi_dat_trong_lua"
+    },
+    {
+      "source_id": "dieukien_doi_voi_dat_trong_lua",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dat_trong_lua"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ho_gia_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chuthe_ca_nhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chetai_cam_nhan_tang_cho_qsdđ"
+    },
+    {
+      "source_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chu_the_khong_sinh_song_trong_kv_rung"
+    },
+    {
+      "source_id": "chetai_cam_nhan_tang_cho_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chu_the_khong_sinh_song_trong_kv_rung"
+    },
+    {
+      "source_id": "chetai_cam_nhan_chuyen_nhuong_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_doi_voi_dat_o_dat_nn_trong_kv_rung"
+    },
+    {
+      "source_id": "chetai_cam_nhan_tang_cho_qsdđ",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_doi_voi_dat_o_dat_nn_trong_kv_rung"
+    },
+    {
+      "source_id": "dieukien_doi_voi_dat_o_dat_nn_trong_kv_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dat_o"
+    },
+    {
+      "source_id": "dieukien_doi_voi_dat_o_dat_nn_trong_kv_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_dat_nong_nghiep"
+    },
+    {
+      "source_id": "dieukien_doi_voi_dat_o_dat_nn_trong_kv_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_khu_vuc_rung_phong_ho"
+    },
+    {
+      "source_id": "dieukien_doi_voi_dat_o_dat_nn_trong_kv_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_phan_khu_bao_ve_nghiem_ngat"
+    },
+    {
+      "source_id": "dieukien_doi_voi_dat_o_dat_nn_trong_kv_rung",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khaikiem_phan_khu_phuc_hoi_sinh_thai"
+    },
+    {
+      "source_id": "khaikiem_phan_khu_bao_ve_nghiem_ngat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_rung_dac_dung"
+    },
+    {
+      "source_id": "khaikiem_phan_khu_phuc_hoi_sinh_thai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_rung_dac_dung"
+    }
+  ]
+}

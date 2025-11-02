@@ -1,0 +1,136 @@
+{
+  "entities": [
+    {
+      "id": "dieu_1",
+      "label": "ĐiềuLuật",
+      "name": "Điều 1"
+    },
+    {
+      "id": "pham_vi_dieu_chinh",
+      "label": "KháiNiệm",
+      "name": "Phạm vi điều chỉnh"
+    },
+    {
+      "id": "che_do_so_huu_dat_dai",
+      "label": "KháiNiệm",
+      "name": "chế độ sở hữu đất đai"
+    },
+    {
+      "id": "quyen_han_va_trach_nhiem_cua_nha_nuoc",
+      "label": "KháiNiệm",
+      "name": "quyền hạn và trách nhiệm của Nhà nước"
+    },
+    {
+      "id": "nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chu_so_huu_toan_dan_ve_dat_dai",
+      "label": "KháiNiệm",
+      "name": "chủ sở hữu toàn dân về đất đai"
+    },
+    {
+      "id": "thong_nhat_quan_ly_ve_dat_dai",
+      "label": "HànhViPhápLý",
+      "name": "thống nhất quản lý về đất đai"
+    },
+    {
+      "id": "che_do_quan_ly_va_su_dung_dat_dai",
+      "label": "KháiNiệm",
+      "name": "chế độ quản lý và sử dụng đất đai"
+    },
+    {
+      "id": "quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "label": "KháiNiệm",
+      "name": "quyền và nghĩa vụ của người sử dụng đất"
+    },
+    {
+      "id": "nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "dat_dai",
+      "label": "KháiNiệm",
+      "name": "đất đai"
+    },
+    {
+      "id": "lanh_tho_viet_nam",
+      "label": "KháiNiệm",
+      "name": "lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_1",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "pham_vi_dieu_chinh"
+    },
+    {
+      "source_id": "dieu_1",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "che_do_so_huu_dat_dai"
+    },
+    {
+      "source_id": "dieu_1",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quyen_han_va_trach_nhiem_cua_nha_nuoc"
+    },
+    {
+      "source_id": "quyen_han_va_trach_nhiem_cua_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nha_nuoc"
+    },
+    {
+      "source_id": "nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chu_so_huu_toan_dan_ve_dat_dai"
+    },
+    {
+      "source_id": "chu_so_huu_toan_dan_ve_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_dai"
+    },
+    {
+      "source_id": "nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "thong_nhat_quan_ly_ve_dat_dai"
+    },
+    {
+      "source_id": "thong_nhat_quan_ly_ve_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_dai"
+    },
+    {
+      "source_id": "dieu_1",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "che_do_quan_ly_va_su_dung_dat_dai"
+    },
+    {
+      "source_id": "che_do_quan_ly_va_su_dung_dat_dai",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_dai"
+    },
+    {
+      "source_id": "dieu_1",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "quyen_va_nghia_vu_cua_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dat_dai"
+    },
+    {
+      "source_id": "dieu_1",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "lanh_tho_viet_nam"
+    }
+  ]
+}

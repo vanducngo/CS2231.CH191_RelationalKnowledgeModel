@@ -1,0 +1,176 @@
+{
+  "entities": [
+    {
+      "id": "dieu_189",
+      "label": "ĐiềuLuật",
+      "name": "Điều 189"
+    },
+    {
+      "id": "khainiem_dieu_kien_ban_mua_tai_san_gan_lien_voi_dat_duoc_nha_nuoc_cho_thue_thu_tien_thue_dat_hang_nam",
+      "label": "KháiNiệm",
+      "name": "Điều kiện bán, mua tài sản gắn liền với đất được Nhà nước cho thuê thu tiền thuê đất hàng năm"
+    },
+    {
+      "id": "chuthe_to_chuc_kinh_te",
+      "label": "ChủThể",
+      "name": "Tổ chức kinh tế"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "Người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+    },
+    {
+      "id": "hanhviphaply_ban_tai_san_gan_lien_voi_dat_thue_cua_nha_nuoc",
+      "label": "HànhViPhápLý",
+      "name": "bán tài sản gắn liền với đất thuê của Nhà nước"
+    },
+    {
+      "id": "dieukien_tai_san_gan_lien_voi_dat_thue_duoc_tao_lap_hop_phap",
+      "label": "ĐiềuKiện",
+      "name": "Tài sản gắn liền với đất thuê được tạo lập hợp pháp theo quy định của pháp luật"
+    },
+    {
+      "id": "dieukien_hoan_thanh_viec_xay_dung_theo_quy_hoach_va_du_an_dau_tu",
+      "label": "ĐiềuKiện",
+      "name": "Đã hoàn thành việc xây dựng theo đúng quy hoạch xây dựng chi tiết và dự án đầu tư đã được phê duyệt, chấp thuận"
+    },
+    {
+      "id": "chuthe_nguoi_mua_tai_san_gan_lien_voi_dat_thue",
+      "label": "ChủThể",
+      "name": "Người mua tài sản gắn liền với đất thuê"
+    },
+    {
+      "id": "dieukien_co_nang_luc_tai_chinh_de_thuc_hien_du_an_dau_tu",
+      "label": "ĐiềuKiện",
+      "name": "Có năng lực tài chính để thực hiện dự án đầu tư"
+    },
+    {
+      "id": "dieukien_co_nganh_nghe_kinh_doanh_phu_hop_voi_du_an_dau_tu",
+      "label": "ĐiềuKiện",
+      "name": "Có ngành nghề kinh doanh phù hợp với dự án đầu tư"
+    },
+    {
+      "id": "dieukien_khong_vi_pham_quy_dinh_phap_luat_ve_dat_dai_truoc_do",
+      "label": "ĐiềuKiện",
+      "name": "Không vi phạm quy định của pháp luật về đất đai đối với trường hợp đã được Nhà nước giao đất, cho thuê đất để thực hiện dự án trước đó"
+    },
+    {
+      "id": "hanhviphaply_nha_nuoc_tiep_tuc_cho_thue_dat_trong_thoi_han_su_dung_con_lai",
+      "label": "HànhViPhápLý",
+      "name": "Nhà nước tiếp tục cho thuê đất trong thời hạn sử dụng đất còn lại theo giá đất cụ thể, sử dụng đất đúng mục đích đã được xác định trong dự án"
+    },
+    {
+      "id": "dieukien_thue_dat_de_thuc_hien_du_an_xay_dung_kinh_doanh_ket_cau_ha_tang",
+      "label": "ĐiềuKiện",
+      "name": "trường hợp thuê đất để thực hiện dự án xây dựng kinh doanh kết cấu hạ tầng"
+    },
+    {
+      "id": "dieu_194",
+      "label": "ĐiềuLuật",
+      "name": "Điều 194"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_189",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dieu_kien_ban_mua_tai_san_gan_lien_voi_dat_duoc_nha_nuoc_cho_thue_thu_tien_thue_dat_hang_nam"
+    },
+    {
+      "source_id": "dieu_189",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ban_tai_san_gan_lien_voi_dat_thue_cua_nha_nuoc"
+    },
+    {
+      "source_id": "hanhviphaply_ban_tai_san_gan_lien_voi_dat_thue_cua_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_to_chuc_kinh_te"
+    },
+    {
+      "source_id": "hanhviphaply_ban_tai_san_gan_lien_voi_dat_thue_cua_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhviphaply_ban_tai_san_gan_lien_voi_dat_thue_cua_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_ban_tai_san_gan_lien_voi_dat_thue_cua_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "hanhviphaply_ban_tai_san_gan_lien_voi_dat_thue_cua_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai"
+    },
+    {
+      "source_id": "hanhviphaply_ban_tai_san_gan_lien_voi_dat_thue_cua_nha_nuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_san_gan_lien_voi_dat_thue_duoc_tao_lap_hop_phap"
+    },
+    {
+      "source_id": "hanhviphaply_ban_tai_san_gan_lien_voi_dat_thue_cua_nha_nuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_hoan_thanh_viec_xay_dung_theo_quy_hoach_va_du_an_dau_tu"
+    },
+    {
+      "source_id": "dieu_189",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "chuthe_nguoi_mua_tai_san_gan_lien_voi_dat_thue"
+    },
+    {
+      "source_id": "chuthe_nguoi_mua_tai_san_gan_lien_voi_dat_thue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_nang_luc_tai_chinh_de_thuc_hien_du_an_dau_tu"
+    },
+    {
+      "source_id": "chuthe_nguoi_mua_tai_san_gan_lien_voi_dat_thue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_co_nganh_nghe_kinh_doanh_phu_hop_voi_du_an_dau_tu"
+    },
+    {
+      "source_id": "chuthe_nguoi_mua_tai_san_gan_lien_voi_dat_thue",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khong_vi_pham_quy_dinh_phap_luat_ve_dat_dai_truoc_do"
+    },
+    {
+      "source_id": "chuthe_nguoi_mua_tai_san_gan_lien_voi_dat_thue",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_nha_nuoc_tiep_tuc_cho_thue_dat_trong_thoi_han_su_dung_con_lai"
+    },
+    {
+      "source_id": "dieu_189",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_nha_nuoc_tiep_tuc_cho_thue_dat_trong_thoi_han_su_dung_con_lai"
+    },
+    {
+      "source_id": "dieu_189",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_thue_dat_de_thuc_hien_du_an_xay_dung_kinh_doanh_ket_cau_ha_tang"
+    },
+    {
+      "source_id": "dieukien_thue_dat_de_thuc_hien_du_an_xay_dung_kinh_doanh_ket_cau_ha_tang",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieu_194"
+    }
+  ]
+}

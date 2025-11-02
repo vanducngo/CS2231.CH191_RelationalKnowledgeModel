@@ -1,0 +1,196 @@
+{
+  "entities": [
+    {
+      "id": "dieu_105",
+      "label": "ĐiềuLuật"
+    },
+    {
+      "id": "khainiem_truong_hop_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_tai_san_gan_lien_voi_dat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat",
+      "label": "HànhViPhápLý"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể"
+    },
+    {
+      "id": "dieukien_tai_san_thuoc_truong_hop_dieu_81_khoan_1_2_4_5_8",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_tai_san_thuoc_truong_hop_dieu_82_khoan_1_diem_b_c",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "chetai_khong_duoc_boi_thuong",
+      "label": "ChếTài"
+    },
+    {
+      "id": "dieukien_tai_san_duoc_tao_lap_trai_quy_dinh_phap_luat",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_tai_san_duoc_tao_lap_trong_thoi_han_thong_bao_thu_hoi_dat",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "khainiem_thong_bao_thu_hoi_dat",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
+      "label": "ChủThể"
+    },
+    {
+      "id": "dieukien_giay_phep_xay_dung_co_thoi_han_da_het_han_tai_thoi_diem_thu_hoi_dat",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "khainiem_giay_phep_xay_dung_co_thoi_han",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_chu_so_huu_tai_san",
+      "label": "ChủThể"
+    },
+    {
+      "id": "chetai_duoc_ho_tro_thao_do_pha_do_di_doi",
+      "label": "ChếTài"
+    },
+    {
+      "id": "khainiem_cong_trinh_ha_tang_ky_thuat_xa_hoi_va_cong_trinh_khac",
+      "label": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_chu_so_huu_cong_trinh",
+      "label": "ChủThể"
+    },
+    {
+      "id": "dieukien_chu_so_huu_khong_con_nhu_cau_su_dung_truoc_quyet_dinh_thu_hoi_dat",
+      "label": "ĐiềuKiện"
+    },
+    {
+      "id": "khainiem_quyet_dinh_thu_hoi_dat",
+      "label": "KháiNiệm"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_105",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "khainiem_truong_hop_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nha_nuoc"
+    },
+    {
+      "source_id": "khainiem_truong_hop_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_san_thuoc_truong_hop_dieu_81_khoan_1_2_4_5_8"
+    },
+    {
+      "source_id": "dieukien_tai_san_thuoc_truong_hop_dieu_81_khoan_1_2_4_5_8",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_duoc_boi_thuong"
+    },
+    {
+      "source_id": "khainiem_truong_hop_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_san_thuoc_truong_hop_dieu_82_khoan_1_diem_b_c"
+    },
+    {
+      "source_id": "dieukien_tai_san_thuoc_truong_hop_dieu_82_khoan_1_diem_b_c",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_duoc_boi_thuong"
+    },
+    {
+      "source_id": "chetai_khong_duoc_boi_thuong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "khainiem_tai_san_gan_lien_voi_dat"
+    },
+    {
+      "source_id": "khainiem_truong_hop_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_san_duoc_tao_lap_trai_quy_dinh_phap_luat"
+    },
+    {
+      "source_id": "dieukien_tai_san_duoc_tao_lap_trai_quy_dinh_phap_luat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_duoc_boi_thuong"
+    },
+    {
+      "source_id": "khainiem_truong_hop_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tai_san_duoc_tao_lap_trong_thoi_han_thong_bao_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_tai_san_duoc_tao_lap_trong_thoi_han_thong_bao_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_duoc_boi_thuong"
+    },
+    {
+      "source_id": "khainiem_thong_bao_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    },
+    {
+      "source_id": "khainiem_truong_hop_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_giay_phep_xay_dung_co_thoi_han_da_het_han_tai_thoi_diem_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_giay_phep_xay_dung_co_thoi_han_da_het_han_tai_thoi_diem_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_duoc_boi_thuong"
+    },
+    {
+      "source_id": "dieukien_giay_phep_xay_dung_co_thoi_han_da_het_han_tai_thoi_diem_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_duoc_ho_tro_thao_do_pha_do_di_doi"
+    },
+    {
+      "source_id": "chetai_duoc_ho_tro_thao_do_pha_do_di_doi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_chu_so_huu_tai_san"
+    },
+    {
+      "source_id": "khainiem_tai_san_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "khainiem_giay_phep_xay_dung_co_thoi_han"
+    },
+    {
+      "source_id": "khainiem_truong_hop_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_chu_so_huu_khong_con_nhu_cau_su_dung_truoc_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "dieukien_chu_so_huu_khong_con_nhu_cau_su_dung_truoc_quyet_dinh_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_khong_duoc_boi_thuong"
+    },
+    {
+      "source_id": "dieukien_chu_so_huu_khong_con_nhu_cau_su_dung_truoc_quyet_dinh_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_chu_so_huu_cong_trinh"
+    },
+    {
+      "source_id": "khainiem_cong_trinh_ha_tang_ky_thuat_xa_hoi_va_cong_trinh_khac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_chu_so_huu_khong_con_nhu_cau_su_dung_truoc_quyet_dinh_thu_hoi_dat"
+    },
+    {
+      "source_id": "khainiem_quyet_dinh_thu_hoi_dat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
+    }
+  ]
+}

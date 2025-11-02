@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "id": "dieu_195",
+      "label": "Điều 195",
+      "type": "ĐiềuLuật"
+    },
+    {
+      "id": "khainiem_dat_o_nong_thon",
+      "label": "Đất ở tại nông thôn",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_dat_su_dung_ct_cong_cong_su_nghiep",
+      "label": "đất sử dụng cho mục đích xây dựng các công trình công cộng, công trình sự nghiệp",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_han_muc_giao_dat_o",
+      "label": "hạn mức giao đất ở",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_cho_o",
+      "label": "chỗ ở",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_khu_dan_cu_san_co",
+      "label": "khu dân cư sẵn có",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "khainiem_dat_nong_nghiep",
+      "label": "đất nông nghiệp",
+      "type": "KháiNiệm"
+    },
+    {
+      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "label": "Ủy ban nhân dân cấp tỉnh",
+      "type": "ChủThể"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "cá nhân",
+      "type": "ChủThể"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "Nhà nước",
+      "type": "ChủThể"
+    },
+    {
+      "id": "chuthe_nguoi_song_o_nong_thon",
+      "label": "những người sống ở nông thôn",
+      "type": "ChủThể"
+    },
+    {
+      "id": "chuthe_nhan_dan",
+      "label": "nhân dân",
+      "type": "ChủThể"
+    },
+    {
+      "id": "hanhvi_quy_dinh",
+      "label": "quy định",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhvi_bo_tri_dong_bo",
+      "label": "bố trí đồng bộ",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "hanhvi_co_chinh_sach_tao_dieu_kien",
+      "label": "có chính sách tạo điều kiện",
+      "type": "HànhViPhápLý"
+    },
+    {
+      "id": "dieukien_muc_dich_dat_o_nong_thon",
+      "label": "đất để làm nhà ở và mục đích khác phục vụ cho đời sống trong cùng một thửa đất thuộc khu vực nông thôn",
+      "type": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_can_cu_quy_dat_tinh_hinh_thuc_te",
+      "label": "Căn cứ vào quỹ đất và tình hình thực tế của địa phương",
+      "type": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_dam_bao_thuan_tien_sx_doi_song_vs_mt_hien_dai_hoa",
+      "label": "bảo đảm thuận tiện cho sản xuất, đời sống của nhân dân, vệ sinh môi trường và theo hướng hiện đại hóa nông thôn",
+      "type": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_tan_dung_dat_khu_dan_cu_san_co",
+      "label": "tận dụng đất trong những khu dân cư sẵn có",
+      "type": "ĐiềuKiện"
+    },
+    {
+      "id": "dieukien_han_che_mo_rong_khu_dan_cu_tren_dat_nn",
+      "label": "hạn chế việc mở rộng khu dân cư trên đất nông nghiệp",
+      "type": "ĐiềuKiện"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_195",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_o_nong_thon"
+    },
+    {
+      "source_id": "khainiem_dat_o_nong_thon",
+      "relationship_type": "ĐỊNH_NGHĨA",
+      "target_id": "dieukien_muc_dich_dat_o_nong_thon"
+    },
+    {
+      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_quy_dinh"
+    },
+    {
+      "source_id": "hanhvi_quy_dinh",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_han_muc_giao_dat_o"
+    },
+    {
+      "source_id": "hanhvi_quy_dinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhvi_quy_dinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_can_cu_quy_dat_tinh_hinh_thuc_te"
+    },
+    {
+      "source_id": "khainiem_dat_o_nong_thon",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_bo_tri_dong_bo"
+    },
+    {
+      "source_id": "hanhvi_bo_tri_dong_bo",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_dat_su_dung_ct_cong_cong_su_nghiep"
+    },
+    {
+      "source_id": "hanhvi_bo_tri_dong_bo",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dam_bao_thuan_tien_sx_doi_song_vs_mt_hien_dai_hoa"
+    },
+    {
+      "source_id": "dieukien_dam_bao_thuan_tien_sx_doi_song_vs_mt_hien_dai_hoa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nhan_dan"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_co_chinh_sach_tao_dieu_kien"
+    },
+    {
+      "source_id": "hanhvi_co_chinh_sach_tao_dieu_kien",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_song_o_nong_thon"
+    },
+    {
+      "source_id": "hanhvi_co_chinh_sach_tao_dieu_kien",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "khainiem_cho_o"
+    },
+    {
+      "source_id": "hanhvi_co_chinh_sach_tao_dieu_kien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_tan_dung_dat_khu_dan_cu_san_co"
+    },
+    {
+      "source_id": "hanhvi_co_chinh_sach_tao_dieu_kien",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_han_che_mo_rong_khu_dan_cu_tren_dat_nn"
+    }
+  ]
+}

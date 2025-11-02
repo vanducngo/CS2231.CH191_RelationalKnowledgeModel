@@ -1,0 +1,391 @@
+{
+  "entities": [
+    {
+      "id": "dieu_157",
+      "label": "ĐiềuLuật",
+      "name": "Điều 157"
+    },
+    {
+      "id": "khauniem_miengiamtiensudungdat_tienthuedat",
+      "label": "KháiNiệm",
+      "name": "Miễn, giảm tiền sử dụng đất, tiền thuê đất"
+    },
+    {
+      "id": "chuthe_nguoicocongvoicachmang",
+      "label": "ChủThể",
+      "name": "Người có công với cách mạng"
+    },
+    {
+      "id": "chuthe_thuongbinh",
+      "label": "ChủThể",
+      "name": "Thương binh"
+    },
+    {
+      "id": "chuthe_benhbinhkhongcokhananglaodong",
+      "label": "ChủThể",
+      "name": "Bệnh binh không có khả năng lao động"
+    },
+    {
+      "id": "chuthe_hogiadinhlietsikhongconlaodongchinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình liệt sĩ không còn lao động chính"
+    },
+    {
+      "id": "chuthe_nguoingheo",
+      "label": "ChủThể",
+      "name": "Người nghèo"
+    },
+    {
+      "id": "chuthe_nguoiphuidivoikhiNhanuocdoathoidat",
+      "label": "ChủThể",
+      "name": "Người phải di dời khi Nhà nước thu hồi đất"
+    },
+    {
+      "id": "chuthe_doituongtaikhoan3_dieu124",
+      "label": "ChủThể",
+      "name": "Các đối tượng quy định tại điểm a và điểm b khoản 3 Điều 124 của Luật này"
+    },
+    {
+      "id": "chuthe_dongbaodantocthieuso",
+      "label": "ChủThể",
+      "name": "Đồng bào dân tộc thiểu số"
+    },
+    {
+      "id": "chuthe_donvisunghiepconglap",
+      "label": "ChủThể",
+      "name": "Đơn vị sự nghiệp công lập"
+    },
+    {
+      "id": "chuthe_doanhnghiepquandoi",
+      "label": "ChủThể",
+      "name": "Doanh nghiệp quân đội"
+    },
+    {
+      "id": "chuthe_congan",
+      "label": "ChủThể",
+      "name": "Công an"
+    },
+    {
+      "id": "chuthe_hoptacxa_lienhiephoptacxa",
+      "label": "ChủThể",
+      "name": "Hợp tác xã, liên hiệp hợp tác xã"
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_Chinhphu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "chuthe_UybanThuongvuQuochoi",
+      "label": "ChủThể",
+      "name": "Ủy ban Thường vụ Quốc hội"
+    },
+    {
+      "id": "chuthe_Nguoisudungdat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_Nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "label": "HànhViPhápLý",
+      "name": "Miễn, giảm tiền sử dụng đất, tiền thuê đất"
+    },
+    {
+      "id": "hanhvi_quydinhcactruonghopkhac",
+      "label": "HànhViPhápLý",
+      "name": "Quy định các trường hợp khác được miễn, giảm tiền sử dụng đất, tiền thuê đất"
+    },
+    {
+      "id": "hanhvi_dongy_UybanThuongvuQuochoi",
+      "label": "HànhViPhápLý",
+      "name": "Được sự đồng ý của Ủy ban Thường vụ Quốc hội"
+    },
+    {
+      "id": "hanhvi_khongphai_xacdinhgiadat",
+      "label": "HànhViPhápLý",
+      "name": "Không phải thực hiện thủ tục xác định giá đất"
+    },
+    {
+      "id": "hanhvi_khongphai_tinhtiensudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Không phải thực hiện thủ tục tính tiền sử dụng đất, tiền thuê đất được miễn"
+    },
+    {
+      "id": "hanhvi_khongphai_denghimien",
+      "label": "HànhViPhápLý",
+      "name": "Không phải thực hiện thủ tục đề nghị miễn tiền sử dụng đất, tiền thuê đất"
+    },
+    {
+      "id": "hanhvi_quydinhchitiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    },
+    {
+      "id": "hanhvi_thuhoidat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "dieukien_sudungdat_uudai_dau_tu",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất vào mục đích sản xuất, kinh doanh thuộc lĩnh vực ưu đãi đầu tư hoặc tại địa bàn ưu đãi đầu tư, trừ trường hợp sử dụng đất xây dựng nhà ở thương mại, sử dụng đất thương mại, dịch vụ"
+    },
+    {
+      "id": "dieukien_dat_cho_doituong_dacbiet_chinhsach",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất để thực hiện chính sách nhà ở, đất ở đối với người có công với cách mạng, thương binh hoặc bệnh binh không có khả năng lao động, hộ gia đình liệt sĩ không còn lao động chính, người nghèo; sử dụng đất để thực hiện dự án đầu tư xây dựng nhà ở xã hội, nhà lưu trú công nhân trong khu công nghiệp, nhà ở cho lực lượng vũ trang nhân dân, cải tạo, xây dựng lại nhà chung cư; đất ở cho người phải di dời khi Nhà nước thu hồi đất do có nguy cơ đe dọa tính mạng con người; đất ở cho các đối tượng quy định tại điểm a và điểm b khoản 3 Điều 124 của Luật này đang công tác tại các xã biên giới, hải đảo hoặc huyện đảo không có đơn vị hành chính cấp xã thuộc vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn"
+    },
+    {
+      "id": "dieukien_dongbaodantocthieuso_sudungdat",
+      "label": "ĐiềuKiện",
+      "name": "Đồng bào dân tộc thiểu số sử dụng đất"
+    },
+    {
+      "id": "dieukien_sudungdat_donvisunghiepconglap_dieu120",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất của đơn vị sự nghiệp công lập theo quy định tại điểm c khoản 3 Điều 120 của Luật này"
+    },
+    {
+      "id": "dieukien_sudungdat_xaydung_hathang_cang_hangkhong",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất xây dựng kết cấu hạ tầng cảng hàng không, sân bay; đất xây dựng cơ sở, công trình cung cấp dịch vụ hàng không; đất để làm bãi đỗ xe, xưởng bảo dưỡng phục vụ hoạt động vận tải hành khách công cộng; đất xây dựng công trình trên mặt đất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm"
+    },
+    {
+      "id": "dieukien_sudungdat_xaydung_hathang_duongsat",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất xây dựng kết cấu hạ tầng đường sắt chuyên dùng; đất xây dựng công trình công nghiệp đường sắt; đất xây dựng công trình phụ trợ khác trực tiếp phục vụ công tác chạy tàu, đón tiễn hành khách, xếp dỡ hàng hóa của đường sắt"
+    },
+    {
+      "id": "dieukien_sudungdat_duan_PPP",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất để thực hiện dự án đầu tư theo phương thức đối tác công tư"
+    },
+    {
+      "id": "dieukien_sudungdat_matbang_sanxuat_nongnghiep",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất làm mặt bằng xây dựng trụ sở, sân phơi, nhà kho, nhà xưởng sản xuất; xây dựng cơ sở dịch vụ trực tiếp phục vụ sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối của hợp tác xã, liên hiệp hợp tác xã"
+    },
+    {
+      "id": "dieukien_sudungdat_congtrinh_capsach_thoatnuoc",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất xây dựng công trình cấp nước sạch và thoát nước, xử lý nước thải tại khu vực đô thị và nông thôn"
+    },
+    {
+      "id": "dieukien_sudungdat_khongphai_QPAN_mucdich_QPAN",
+      "label": "ĐiềuKiện",
+      "name": "Sử dụng đất không phải đất quốc phòng, an ninh cho mục đích quốc phòng, an ninh của doanh nghiệp quân đội, công an"
+    },
+    {
+      "id": "dieukien_giaodato_ho_ca_nhan_thuhoidat",
+      "label": "ĐiềuKiện",
+      "name": "Giao đất ở đối với hộ gia đình, cá nhân khi Nhà nước thu hồi đất gắn liền với nhà ở phải di chuyển chỗ ở mà không đủ điều kiện được bồi thường về đất ở và không có chỗ ở nào khác trong địa bàn đơn vị hành chính cấp xã nơi có đất thu hồi"
+    },
+    {
+      "id": "dieukien_cac_truonghop_khac_Chinhphu_quydinh",
+      "label": "ĐiềuKiện",
+      "name": "Các trường hợp khác được miễn, giảm tiền sử dụng đất, tiền thuê đất chưa được quy định tại khoản 1 Điều này"
+    },
+    {
+      "id": "dieukien_duocmien_tiensudungdat_tienthuedat",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp được miễn tiền sử dụng đất, tiền thuê đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_157",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khauniem_miengiamtiensudungdat_tienthuedat"
+    },
+    {
+      "source_id": "dieu_157",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sudungdat_uudai_dau_tu"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dat_cho_doituong_dacbiet_chinhsach"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_dongbaodantocthieuso_sudungdat"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sudungdat_donvisunghiepconglap_dieu120"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sudungdat_xaydung_hathang_cang_hangkhong"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sudungdat_xaydung_hathang_duongsat"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sudungdat_duan_PPP"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sudungdat_matbang_sanxuat_nongnghiep"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sudungdat_congtrinh_capsach_thoatnuoc"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_sudungdat_khongphai_QPAN_mucdich_QPAN"
+    },
+    {
+      "source_id": "hanhvi_mien_giam_tiensudungdat_tienthuedat",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_giaodato_ho_ca_nhan_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_nguoicocongvoicachmang",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_dat_cho_doituong_dacbiet_chinhsach"
+    },
+    {
+      "source_id": "chuthe_thuongbinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_dat_cho_doituong_dacbiet_chinhsach"
+    },
+    {
+      "source_id": "chuthe_benhbinhkhongcokhananglaodong",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_dat_cho_doituong_dacbiet_chinhsach"
+    },
+    {
+      "source_id": "chuthe_hogiadinhlietsikhongconlaodongchinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_dat_cho_doituong_dacbiet_chinhsach"
+    },
+    {
+      "source_id": "chuthe_nguoingheo",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_dat_cho_doituong_dacbiet_chinhsach"
+    },
+    {
+      "source_id": "chuthe_nguoiphuidivoikhiNhanuocdoathoidat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_dat_cho_doituong_dacbiet_chinhsach"
+    },
+    {
+      "source_id": "chuthe_doituongtaikhoan3_dieu124",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_dat_cho_doituong_dacbiet_chinhsach"
+    },
+    {
+      "source_id": "chuthe_dongbaodantocthieuso",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_dongbaodantocthieuso_sudungdat"
+    },
+    {
+      "source_id": "chuthe_donvisunghiepconglap",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_sudungdat_donvisunghiepconglap_dieu120"
+    },
+    {
+      "source_id": "chuthe_doanhnghiepquandoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_sudungdat_khongphai_QPAN_mucdich_QPAN"
+    },
+    {
+      "source_id": "chuthe_congan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_sudungdat_khongphai_QPAN_mucdich_QPAN"
+    },
+    {
+      "source_id": "chuthe_hoptacxa_lienhiephoptacxa",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_sudungdat_matbang_sanxuat_nongnghiep"
+    },
+    {
+      "source_id": "chuthe_hogiadinh",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_giaodato_ho_ca_nhan_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_canhan",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieukien_giaodato_ho_ca_nhan_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_Nhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_thuhoidat"
+    },
+    {
+      "source_id": "chuthe_Chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_quydinhcactruonghopkhac"
+    },
+    {
+      "source_id": "hanhvi_quydinhcactruonghopkhac",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "hanhvi_dongy_UybanThuongvuQuochoi"
+    },
+    {
+      "source_id": "chuthe_UybanThuongvuQuochoi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhvi_dongy_UybanThuongvuQuochoi"
+    },
+    {
+      "source_id": "dieukien_duocmien_tiensudungdat_tienthuedat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_khongphai_xacdinhgiadat"
+    },
+    {
+      "source_id": "dieukien_duocmien_tiensudungdat_tienthuedat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_khongphai_tinhtiensudungdat"
+    },
+    {
+      "source_id": "chuthe_Nguoisudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhvi_khongphai_denghimien"
+    },
+    {
+      "source_id": "chuthe_Chinhphu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhvi_quydinhchitiet"
+    },
+    {
+      "source_id": "hanhvi_quydinhchitiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_157"
+    }
+  ]
+}

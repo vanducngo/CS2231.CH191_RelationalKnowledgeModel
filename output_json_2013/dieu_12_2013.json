@@ -1,0 +1,231 @@
+{
+  "entities": [
+    {
+      "id": "dieu_12",
+      "label": "ĐiềuLuật",
+      "name": "Điều 12"
+    },
+    {
+      "id": "khainiem_nhunghanhvibinghiemcam",
+      "label": "KháiNiệm",
+      "name": "Những hành vi bị nghiêm cấm"
+    },
+    {
+      "id": "chetai_nghiemcam",
+      "label": "ChếTài",
+      "name": "nghiêm cấm"
+    },
+    {
+      "id": "hanhviphaply_lanchiemhuyhoaidatdai",
+      "label": "HànhViPhápLý",
+      "name": "Lấn, chiếm, hủy hoại đất đai"
+    },
+    {
+      "id": "hanhviphaply_viphamquyhoachkehoachsudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Vi phạm quy hoạch, kế hoạch sử dụng đất đã được công bố"
+    },
+    {
+      "id": "hanhviphaply_khongsudungdatsudungdatkhongdungmucdich",
+      "label": "HànhViPhápLý",
+      "name": "Không sử dụng đất, sử dụng đất không đúng mục đích"
+    },
+    {
+      "id": "hanhviphaply_khongthuchienquydinhphapluatkhiquyenngoisudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất"
+    },
+    {
+      "id": "chuthe_ngoisudungdat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_nhanchuyenquyensudungdatnongnghiepvuothanmuc",
+      "label": "HànhViPhápLý",
+      "name": "Nhận chuyển quyền sử dụng đất nông nghiệp vượt hạn mức"
+    },
+    {
+      "id": "chuthe_hogiadinhcanhan",
+      "label": "ChủThể",
+      "name": "hộ gia đình, cá nhân"
+    },
+    {
+      "id": "dieukien_vuothanmuc",
+      "label": "ĐiềuKiện",
+      "name": "vượt hạn mức"
+    },
+    {
+      "id": "hanhviphaply_sudungdatgiaodichkhongdangkycoquannhanuoc",
+      "label": "HànhViPhápLý",
+      "name": "Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "dieukien_khongdangkycoquannhanuoc",
+      "label": "ĐiềuKiện",
+      "name": "không đăng ký với cơ quan nhà nước có thẩm quyền"
+    },
+    {
+      "id": "hanhviphaply_khongthuchienhoacthuchienkhongdaydungnghiavutaichinh",
+      "label": "HànhViPhápLý",
+      "name": "Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_loidungchucvuquyenhanlamtraiquydinh",
+      "label": "HànhViPhápLý",
+      "name": "Lợi dụng chức vụ, quyền hạn để làm trái quy định về quản lý đất đai"
+    },
+    {
+      "id": "hanhviphaply_khongcungcaphoaccungcapthongtinkhongchinhxac",
+      "label": "HànhViPhápLý",
+      "name": "Không cung cấp hoặc cung cấp thông tin về đất đai không chính xác"
+    },
+    {
+      "id": "hanhviphaply_cantrogaykhokhanthuchienquyenngoisudungdat",
+      "label": "HànhViPhápLý",
+      "name": "Cản trở, gây khó khăn đối với việc thực hiện quyền của người sử dụng đất"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_12",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_nhunghanhvibinghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_lanchiemhuyhoaidatdai"
+    },
+    {
+      "source_id": "hanhviphaply_lanchiemhuyhoaidatdai",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_viphamquyhoachkehoachsudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_viphamquyhoachkehoachsudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khongsudungdatsudungdatkhongdungmucdich"
+    },
+    {
+      "source_id": "hanhviphaply_khongsudungdatsudungdatkhongdungmucdich",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khongthuchienquydinhphapluatkhiquyenngoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_khongthuchienquydinhphapluatkhiquyenngoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_khongthuchienquydinhphapluatkhiquyenngoisudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_nhanchuyenquyensudungdatnongnghiepvuothanmuc"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyenquyensudungdatnongnghiepvuothanmuc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_hogiadinhcanhan"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyenquyensudungdatnongnghiepvuothanmuc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_vuothanmuc"
+    },
+    {
+      "source_id": "hanhviphaply_nhanchuyenquyensudungdatnongnghiepvuothanmuc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_sudungdatgiaodichkhongdangkycoquannhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdatgiaodichkhongdangkycoquannhanuoc",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khongdangkycoquannhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_sudungdatgiaodichkhongdangkycoquannhanuoc",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khongthuchienhoacthuchienkhongdaydungnghiavutaichinh"
+    },
+    {
+      "source_id": "hanhviphaply_khongthuchienhoacthuchienkhongdaydungnghiavutaichinh",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "chuthe_nhanuoc"
+    },
+    {
+      "source_id": "hanhviphaply_khongthuchienhoacthuchienkhongdaydungnghiavutaichinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_loidungchucvuquyenhanlamtraiquydinh"
+    },
+    {
+      "source_id": "hanhviphaply_loidungchucvuquyenhanlamtraiquydinh",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khongcungcaphoaccungcapthongtinkhongchinhxac"
+    },
+    {
+      "source_id": "hanhviphaply_khongcungcaphoaccungcapthongtinkhongchinhxac",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    },
+    {
+      "source_id": "khainiem_nhunghanhvibinghiemcam",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_cantrogaykhokhanthuchienquyenngoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_cantrogaykhokhanthuchienquyenngoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ngoisudungdat"
+    },
+    {
+      "source_id": "hanhviphaply_cantrogaykhokhanthuchienquyenngoisudungdat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "chetai_nghiemcam"
+    }
+  ]
+}

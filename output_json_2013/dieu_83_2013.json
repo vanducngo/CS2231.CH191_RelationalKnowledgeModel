@@ -1,0 +1,281 @@
+{
+  "entities": [
+    {
+      "id": "dieu_83",
+      "label": "ĐiềuLuật",
+      "name": "Điều 83"
+    },
+    {
+      "id": "khainiem_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "label": "KháiNiệm",
+      "name": "Hỗ trợ khi Nhà nước thu hồi đất"
+    },
+    {
+      "id": "khainiem_nguyen_tac_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "label": "KháiNiệm",
+      "name": "Nguyên tắc hỗ trợ khi Nhà nước thu hồi đất"
+    },
+    {
+      "id": "khainiem_cac_khoan_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "label": "KháiNiệm",
+      "name": "Các khoản hỗ trợ khi Nhà nước thu hồi đất"
+    },
+    {
+      "id": "chuthe_nha_nuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "chuthe_nguoi_su_dung_dat",
+      "label": "ChủThể",
+      "name": "Người sử dụng đất"
+    },
+    {
+      "id": "chuthe_ho_gia_dinh",
+      "label": "ChủThể",
+      "name": "Hộ gia đình"
+    },
+    {
+      "id": "chuthe_ca_nhan",
+      "label": "ChủThể",
+      "name": "Cá nhân"
+    },
+    {
+      "id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
+      "label": "ChủThể",
+      "name": "Người Việt Nam định cư ở nước ngoài"
+    },
+    {
+      "id": "chuthe_chinh_phu",
+      "label": "ChủThể",
+      "name": "Chính phủ"
+    },
+    {
+      "id": "hanhviphaply_thu_hoi_dat",
+      "label": "HànhViPhápLý",
+      "name": "Thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_boi_thuong",
+      "label": "HànhViPhápLý",
+      "name": "Bồi thường"
+    },
+    {
+      "id": "hanhviphaply_xem_xet_ho_tro",
+      "label": "HànhViPhápLý",
+      "name": "Xem xét hỗ trợ"
+    },
+    {
+      "id": "hanhviphaply_ho_tro_on_dinh_doi_song_va_san_xuat",
+      "label": "HànhViPhápLý",
+      "name": "Hỗ trợ ổn định đời sống và sản xuất"
+    },
+    {
+      "id": "hanhviphaply_ho_tro_dao_tao_chuyen_doi_nghe_va_tim_kiem_viec_lam",
+      "label": "HànhViPhápLý",
+      "name": "Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm"
+    },
+    {
+      "id": "hanhviphaply_ho_tro_tai_dinh_cu",
+      "label": "HànhViPhápLý",
+      "name": "Hỗ trợ tái định cư"
+    },
+    {
+      "id": "hanhviphaply_ho_tro_khac",
+      "label": "HànhViPhápLý",
+      "name": "Hỗ trợ khác"
+    },
+    {
+      "id": "hanhviphaply_quy_dinh_chi_tiet",
+      "label": "HànhViPhápLý",
+      "name": "Quy định chi tiết"
+    },
+    {
+      "id": "dieukien_ngoai_viec_duoc_boi_thuong_theo_luat_nay",
+      "label": "ĐiềuKiện",
+      "name": "Ngoài việc được bồi thường theo quy định của Luật này"
+    },
+    {
+      "id": "dieukien_bao_dam_khach_quan_cong_bang_kip_thoi_cong_khai_dung_phap_luat",
+      "label": "ĐiềuKiện",
+      "name": "Việc hỗ trợ phải bảo đảm khách quan, công bằng, kịp thời, công khai và đúng quy định của pháp luật"
+    },
+    {
+      "id": "dieukien_thu_hoi_dat_nong_nghiep_cho_ho_ca_nhan",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp thu hồi đất nông nghiệp của hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp"
+    },
+    {
+      "id": "dieukien_thu_hoi_dat_o_kinh_doanh_dich_vu_ho_ca_nhan_phai_di_chuyen_cho_o",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp thu hồi đất ở kết hợp kinh doanh dịch vụ của hộ gia đình, cá nhân mà phải di chuyển chỗ ở"
+    },
+    {
+      "id": "dieukien_thu_hoi_dat_o_ho_ca_nhan_nguoi_viet_nam_dinh_cu_nuoc_ngoai_phai_di_chuyen_cho_o",
+      "label": "ĐiềuKiện",
+      "name": "Trường hợp thu hồi đất ở của hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài mà phải di chuyển chỗ ở"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_83",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_ho_tro_khi_nha_nuoc_thu_hoi_dat"
+    },
+    {
+      "source_id": "khainiem_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_nguyen_tac_ho_tro_khi_nha_nuoc_thu_hoi_dat"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_thu_hoi_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_boi_thuong"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_xem_xet_ho_tro"
+    },
+    {
+      "source_id": "chuthe_nha_nuoc",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "hanhviphaply_xem_xet_ho_tro"
+    },
+    {
+      "source_id": "hanhviphaply_xem_xet_ho_tro",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_xem_xet_ho_tro",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_ngoai_viec_duoc_boi_thuong_theo_luat_nay"
+    },
+    {
+      "source_id": "khainiem_nguyen_tac_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "dieukien_bao_dam_khach_quan_cong_bang_kip_thoi_cong_khai_dung_phap_luat"
+    },
+    {
+      "source_id": "hanhviphaply_xem_xet_ho_tro",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_bao_dam_khach_quan_cong_bang_kip_thoi_cong_khai_dung_phap_luat"
+    },
+    {
+      "source_id": "khainiem_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khainiem_cac_khoan_ho_tro_khi_nha_nuoc_thu_hoi_dat"
+    },
+    {
+      "source_id": "khainiem_cac_khoan_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ho_tro_on_dinh_doi_song_va_san_xuat"
+    },
+    {
+      "source_id": "khainiem_cac_khoan_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ho_tro_dao_tao_chuyen_doi_nghe_va_tim_kiem_viec_lam"
+    },
+    {
+      "source_id": "khainiem_cac_khoan_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "khainiem_cac_khoan_ho_tro_khi_nha_nuoc_thu_hoi_dat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_ho_tro_khac"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ho_tro_on_dinh_doi_song_va_san_xuat"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_on_dinh_doi_song_va_san_xuat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ho_tro_dao_tao_chuyen_doi_nghe_va_tim_kiem_viec_lam"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_dao_tao_chuyen_doi_nghe_va_tim_kiem_viec_lam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_dao_tao_chuyen_doi_nghe_va_tim_kiem_viec_lam",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_dao_tao_chuyen_doi_nghe_va_tim_kiem_viec_lam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thu_hoi_dat_nong_nghiep_cho_ho_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_dao_tao_chuyen_doi_nghe_va_tim_kiem_viec_lam",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thu_hoi_dat_o_kinh_doanh_dich_vu_ho_ca_nhan_phai_di_chuyen_cho_o"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ho_tro_tai_dinh_cu"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_tai_dinh_cu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ho_gia_dinh"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_tai_dinh_cu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_ca_nhan"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_tai_dinh_cu",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_tai_dinh_cu",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_thu_hoi_dat_o_ho_ca_nhan_nguoi_viet_nam_dinh_cu_nuoc_ngoai_phai_di_chuyen_cho_o"
+    },
+    {
+      "source_id": "hanhviphaply_thu_hoi_dat",
+      "relationship_type": "DẪN_ĐẾN",
+      "target_id": "hanhviphaply_ho_tro_khac"
+    },
+    {
+      "source_id": "hanhviphaply_ho_tro_khac",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoi_su_dung_dat"
+    },
+    {
+      "source_id": "chuthe_chinh_phu",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
+    },
+    {
+      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "dieu_83"
+    }
+  ]
+}

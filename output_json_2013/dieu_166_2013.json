@@ -1,0 +1,146 @@
+{
+  "entities": [
+    {
+      "id": "dieu_166",
+      "label": "ĐiềuLuật",
+      "name": "Điều 166"
+    },
+    {
+      "id": "khaikiem_quyenchungcuanguoisudungdat",
+      "label": "KháiNiệm",
+      "name": "Quyền chung của người sử dụng đất"
+    },
+    {
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChủThể",
+      "name": "người sử dụng đất"
+    },
+    {
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HànhViPhápLý",
+      "name": "Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+    },
+    {
+      "id": "hanhviphaply_huongthanhqua",
+      "label": "HànhViPhápLý",
+      "name": "Hưởng thành quả lao động, kết quả đầu tư trên đất"
+    },
+    {
+      "id": "hanhviphaply_huongloiichcongtrinhnhanuoc",
+      "label": "HànhViPhápLý",
+      "name": "Hưởng các lợi ích do công trình của Nhà nước phục vụ việc bảo vệ, cải tạo đất nông nghiệp"
+    },
+    {
+      "id": "chuthe_nhanuoc",
+      "label": "ChủThể",
+      "name": "Nhà nước"
+    },
+    {
+      "id": "hanhviphaply_duocnhanuochuongdan",
+      "label": "HànhViPhápLý",
+      "name": "Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, bồi bổ đất nông nghiệp"
+    },
+    {
+      "id": "hanhviphaply_duocnhanuocbaoho",
+      "label": "HànhViPhápLý",
+      "name": "Được Nhà nước bảo hộ"
+    },
+    {
+      "id": "dieukien_khixamphamquyenloi",
+      "label": "ĐiềuKiện",
+      "name": "khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình"
+    },
+    {
+      "id": "chuthe_nguoikhac",
+      "label": "ChủThể",
+      "name": "người khác"
+    },
+    {
+      "id": "hanhviphaply_duocboithuong",
+      "label": "HànhViPhápLý",
+      "name": "Được bồi thường"
+    },
+    {
+      "id": "dieukien_khinhathuoihodat",
+      "label": "ĐiềuKiện",
+      "name": "khi Nhà nước thu hồi đất"
+    },
+    {
+      "id": "hanhviphaply_khieunaitoikhoi",
+      "label": "HànhViPhápLý",
+      "name": "Khiếu nại, tố cáo, khởi kiện"
+    },
+    {
+      "id": "dieukien_vehanhviphamphapluatdatdai",
+      "label": "ĐiềuKiện",
+      "name": "về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai"
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "dieu_166",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "khaikiem_quyenchungcuanguoisudungdat"
+    },
+    {
+      "source_id": "khaikiem_quyenchungcuanguoisudungdat",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoisudungdat"
+    },
+    {
+      "source_id": "khaikiem_quyenchungcuanguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_capgiaychungnhan"
+    },
+    {
+      "source_id": "khaikiem_quyenchungcuanguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huongthanhqua"
+    },
+    {
+      "source_id": "khaikiem_quyenchungcuanguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_huongloiichcongtrinhnhanuoc"
+    },
+    {
+      "source_id": "khaikiem_quyenchungcuanguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duocnhanuochuongdan"
+    },
+    {
+      "source_id": "khaikiem_quyenchungcuanguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duocnhanuocbaoho"
+    },
+    {
+      "source_id": "hanhviphaply_duocnhanuocbaoho",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khixamphamquyenloi"
+    },
+    {
+      "source_id": "dieukien_khixamphamquyenloi",
+      "relationship_type": "ÁP_DỤNG_CHO",
+      "target_id": "chuthe_nguoikhac"
+    },
+    {
+      "source_id": "khaikiem_quyenchungcuanguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_duocboithuong"
+    },
+    {
+      "source_id": "hanhviphaply_duocboithuong",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_khinhathuoihodat"
+    },
+    {
+      "source_id": "khaikiem_quyenchungcuanguoisudungdat",
+      "relationship_type": "QUY_ĐỊNH_VỀ",
+      "target_id": "hanhviphaply_khieunaitoikhoi"
+    },
+    {
+      "source_id": "hanhviphaply_khieunaitoikhoi",
+      "relationship_type": "YÊU_CẦU",
+      "target_id": "dieukien_vehanhviphamphapluatdatdai"
+    }
+  ]
+}
