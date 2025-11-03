@@ -1,166 +1,166 @@
 {
   "entities": [
     {
-      "id": "dieu_173",
-      "label": "ĐiềuLuật",
-      "name": "Điều 173"
+      "id": "dieu_173_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 173. Quyền và nghĩa vụ của tổ chức được Nhà nước giao đất không thu tiền sử dụng đất",
+        "ma_dieu": "173",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 173.\n\nQuyền và nghĩa vụ của tổ chức được Nhà nước giao đất không thu tiền sử dụng đất\n1. Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất có quyền và nghĩa vụ chung quy định\ntại Điều 166 và Điều 170 của Luật này .\n2. Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển\nnhượng, tặng cho, cho thuê quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; không\nđược bồi thường về đất khi Nhà nước thu hồi đất."
+      }
     },
     {
-      "id": "khainiem_quyen_nghia_vu_to_chuc_khong_thu_tien_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Quyền và nghĩa vụ của tổ chức được Nhà nước giao đất không thu tiền sử dụng đất"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "label": "ChủThể",
-      "name": "Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất"
+      "id": "hanhviphaply_nhanuocgiaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước giao đất"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "dieukien_khongthutien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "không thu tiền sử dụng đất"
+      }
     },
     {
-      "id": "hanhvi_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
+      "id": "dieu_166_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 166",
+        "ma_dieu": "166",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 166 của Luật này"
+      }
     },
     {
-      "id": "dieu_kien_khong_thu_tien_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "không thu tiền sử dụng đất"
+      "id": "dieu_170_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 170",
+        "ma_dieu": "170",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 170 của Luật này"
+      }
     },
     {
-      "id": "dieu_166",
-      "label": "ĐiềuLuật",
-      "name": "Điều 166"
+      "id": "hanhviphaply_chuyendoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển đổi"
+      }
     },
     {
-      "id": "dieu_170",
-      "label": "ĐiềuLuật",
-      "name": "Điều 170"
+      "id": "hanhviphaply_chuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển nhượng"
+      }
     },
     {
-      "id": "hanhvi_chuyen_doi",
-      "label": "HànhViPhápLý",
-      "name": "chuyển đổi"
+      "id": "hanhviphaply_tangcho",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tặng cho"
+      }
     },
     {
-      "id": "hanhvi_chuyen_nhuong",
-      "label": "HànhViPhápLý",
-      "name": "chuyển nhượng"
+      "id": "hanhviphaply_chothue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê"
+      }
     },
     {
-      "id": "hanhvi_tang_cho",
-      "label": "HànhViPhápLý",
-      "name": "tặng cho"
+      "id": "hanhviphaply_thechap",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thế chấp"
+      }
     },
     {
-      "id": "hanhvi_cho_thue_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê quyền sử dụng đất"
+      "id": "hanhviphaply_gopvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "góp vốn"
+      }
     },
     {
-      "id": "hanhvi_the_chap",
-      "label": "HànhViPhápLý",
-      "name": "thế chấp"
-    },
-    {
-      "id": "hanhvi_gop_von_bang_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "góp vốn bằng quyền sử dụng đất"
-    },
-    {
-      "id": "hanhvi_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi đất"
-    },
-    {
-      "id": "che_tai_khong_duoc_boi_thuong_ve_dat",
-      "label": "ChếTài",
-      "name": "không được bồi thường về đất"
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_173",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyen_nghia_vu_to_chuc_khong_thu_tien_su_dung_dat"
+      "source_id": "dieu_173_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyen_nghia_vu_to_chuc_khong_thu_tien_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien"
+      "source_id": "chuthe_tochuc",
+      "target_id": "hanhviphaply_nhanuocgiaodat",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_giao_dat"
+      "source_id": "hanhviphaply_nhanuocgiaodat",
+      "target_id": "dieukien_khongthutien",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc"
+      "source_id": "dieu_173_2013",
+      "target_id": "dieu_166_2013",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_khong_thu_tien_su_dung_dat"
+      "source_id": "dieu_173_2013",
+      "target_id": "dieu_170_2013",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_166"
+      "source_id": "dieu_173_2013",
+      "target_id": "hanhviphaply_chuyendoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_170"
+      "source_id": "dieu_173_2013",
+      "target_id": "hanhviphaply_chuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_chuyen_doi"
+      "source_id": "dieu_173_2013",
+      "target_id": "hanhviphaply_tangcho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_chuyen_nhuong"
+      "source_id": "dieu_173_2013",
+      "target_id": "hanhviphaply_chothue",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_tang_cho"
+      "source_id": "dieu_173_2013",
+      "target_id": "hanhviphaply_thechap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue_quyen_su_dung_dat"
+      "source_id": "dieu_173_2013",
+      "target_id": "hanhviphaply_gopvon",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_the_chap"
-    },
-    {
-      "source_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_gop_von_bang_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "che_tai_khong_duoc_boi_thuong_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_duoc_giao_dat_khong_thu_tien"
-    },
-    {
-      "source_id": "che_tai_khong_duoc_boi_thuong_ve_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thu_hoi_dat"
-    },
-    {
-      "source_id": "hanhvi_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc"
+      "source_id": "dieu_173_2013",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,926 +1,232 @@
 {
   "entities": [
     {
-      "id": "dieu_16",
-      "label": "ĐiềuLuật",
-      "name": "Điều 16"
+      "id": "dieu_16_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 16. Trách nhiệm của Nhà nước về đất đai đối với đồng bào dân tộc thiểu số",
+        "ma_dieu": "16",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 16.\n\nTrách nhiệm của Nhà nước về đất đai đối với đồng bào dân tộc thiểu số\n1. Có chính sách bảo đảm đất sinh hoạt cộng đồng cho đồng bào dân tộc thiểu số phù hợp với phong\ntục, tập quán, tín ngưỡng, bản sắc văn hóa và điều kiện thực tế của từng vùng.\n2. Có chính sách hỗ trợ đất đai lần đầu cho cá nhân là người dân tộc thiểu số thuộc diện hộ nghèo, hộ\ncận nghèo tại vùng đồng bào dân tộc thiểu số và miền núi, phù hợp với phong tục, tập quán, tín\nngưỡng, bản sắc văn hóa và điều kiện thực tế của từng vùng để bảo đảm ổn định cuộc sống như sau:\na) Giao đất ở trong hạn mức và được miễn, giảm tiền sử dụng đất;\nb) Cho phép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm\ntiền sử dụng đất đối với đất có nguồn gốc được Nhà nước giao, cho thuê, công nhận hoặc được thừa\nkế, tặng cho, nhận chuyển nhượng quyền sử dụng đất theo quy định của pháp luật;\nc) Giao đất nông nghiệp trong hạn mức không thu tiền sử dụng đất;\nd) Cho thuê đất phi nông nghiệp không phải là đất ở để sản xuất, kinh doanh và được miễn, giảm tiền\nthuê đất;\nđ) Diện tích giao đất, cho phép chuyển mục đích sử dụng đất quy định tại điểm a và điểm b khoản này\nđược tính cho tổng diện tích đất được Nhà nước giao, cho phép chuyển mục đích sử dụng đất trong quá\ntrình thực hiện các chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n3. Có chính sách hỗ trợ đất đai để bảo đảm ổn định cuộc sống cho cá nhân là người dân tộc thiểu số đã\nđược Nhà nước giao đất, cho thuê đất quy định tại khoản 2 Điều này nhưng nay không còn đất hoặc about:blank\nthiếu đất so với hạn mức mà thuộc diện hộ nghèo, hộ cận nghèo tại vùng đồng bào dân tộc thiểu số và\nmiền núi như sau:\na) Trường hợp không còn đất ở thì được giao tiếp đất ở, cho phép chuyển mục đích sử dụng đất sang\nđất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử dụng đất. Trường hợp thiếu đất ở thì cho\nphép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử\ndụng đất;\nb) Trường hợp không còn hoặc thiếu đất nông nghiệp thì được giao tiếp đất nông nghiệp trong hạn\nmức không thu tiền hoặc cho thuê đất phi nông nghiệp không phải là đất ở để sản xuất, kinh doanh và\nđược miễn, giảm tiền thuê đất.\n4. Đất để thực hiện chính sách quy định tại các khoản 1, 2 và 3 Điều này được bố trí từ quỹ đất do cơ\nquan, tổ chức của Nhà nước quản lý hoặc từ quỹ đất thu hồi theo quy định tại  khoản 29 Điều 79 của\nLuật này .\n5. Ủy ban nhân dân cấp tỉnh căn cứ tình hình thực tế và quỹ đất của địa phương quyết định diện tích\ngiao đất, cho thuê đất để thực hiện chính sách hỗ trợ đất đai đối với cá nhân là người dân tộc thiểu số\ntheo quy định tại khoản 3 Điều này .\n6. Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp ban hành  chính sách của địa phương về\nđất đai đối với đồng bào dân tộc thiểu số sinh sống trên địa bàn phù hợp với điều kiện thực tế của địa\nphương và tổ chức thực hiện.\n7. Hằng năm, Ủy ban nhân dân cấp xã rà soát, báo cáo Ủy ban nhân dân cấp huyện về các trường hợp\nkhông còn, thiếu hoặc không có đất để giao đất, cho thuê đất theo quy định tại khoản 2 và khoản 3 Điều\nnày; các trường hợp vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số, các trường hợp\nđã được Nhà nước giao đất, cho thuê đất theo quy định tại khoản 3 Điều này mà không còn nhu cầu sử\ndụng đất mà phải thu hồi đất để tiếp tục thực hiện chính sách về đất đai đối với đồng bào dân tộc thiểu\nsố quy định tại Điều này .\n8. Kinh phí thực hiện bồi thường, hỗ trợ, tái định cư để thu hồi đất theo quy định tại  khoản 29 Điều 79\ncủa Luật này ; kinh phí đo đạc, lập hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở\nhữu tài sản gắn liền với đất và các chi phí khác để thực hiện chính sách về đất đai đối với đồng bào\ndân tộc thiểu số được bố trí từ ngân sách nhà nước và nguồn vốn hợp pháp khác theo quy định của\npháp luật.\n9. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "chuthe_dongbaodantoc_thieuso",
-      "label": "ChủThể",
-      "name": "Đồng bào dân tộc thiểu số"
+      "id": "chuthe_dongbaodantocthieuso",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đồng bào dân tộc thiểu số"
+      }
     },
     {
-      "id": "chuthe_canhan_nguoi_dantoc_thieuso",
-      "label": "ChủThể",
-      "name": "Cá nhân là người dân tộc thiểu số"
+      "id": "khainiem_datsinhhoatcongdong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất sinh hoạt cộng đồng"
+      }
     },
     {
-      "id": "chuthe_ho_ngheo",
-      "label": "ChủThể",
-      "name": "Hộ nghèo"
+      "id": "khainiem_chinhsachhotrodatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chính sách hỗ trợ đất đai"
+      }
     },
     {
-      "id": "chuthe_ho_can_ngheo",
-      "label": "ChủThể",
-      "name": "Hộ cận nghèo"
+      "id": "chuthe_canhannguoidantocthieuso",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân là người dân tộc thiểu số"
+      }
     },
     {
-      "id": "chuthe_co_quan_to_chuc_cua_nhanuoc",
-      "label": "ChủThể",
-      "name": "Cơ quan, tổ chức của Nhà nước"
+      "id": "chuthe_hogheo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ nghèo"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "id": "chuthe_hocangheo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ cận nghèo"
+      }
     },
     {
-      "id": "chuthe_hoi_dong_nhan_dan_cung_cap",
-      "label": "ChủThể",
-      "name": "Hội đồng nhân dân cùng cấp"
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
+      "id": "khainiem_dato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất ở"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
     },
     {
-      "id": "hanhvipaply_chinh_sach_bao_dam_dat_sinh_hoat_cong_dong",
-      "label": "HànhViPhápLý",
-      "name": "Có chính sách bảo đảm đất sinh hoạt cộng đồng"
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
     },
     {
-      "id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "label": "HànhViPhápLý",
-      "name": "Có chính sách hỗ trợ đất đai lần đầu"
+      "id": "khainiem_datphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất phi nông nghiệp"
+      }
     },
     {
-      "id": "hanhvipaply_giao_dat_o",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất ở"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "hanhvipaply_mien_giam_tien_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Miễn, giảm tiền sử dụng đất"
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
-      "id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển mục đích sử dụng đất sang đất ở"
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
     },
     {
-      "id": "hanhvipaply_giao_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất nông nghiệp"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê đất phi nông nghiệp không phải là đất ở"
-    },
-    {
-      "id": "hanhvipaply_mien_giam_tien_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "Miễn, giảm tiền thuê đất"
-    },
-    {
-      "id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "label": "HànhViPhápLý",
-      "name": "Có chính sách hỗ trợ đất đai để bảo đảm ổn định cuộc sống"
-    },
-    {
-      "id": "hanhvipaply_giao_tiep_dat_o",
-      "label": "HànhViPhápLý",
-      "name": "Giao tiếp đất ở"
-    },
-    {
-      "id": "hanhvipaply_giao_tiep_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Giao tiếp đất nông nghiệp"
-    },
-    {
-      "id": "hanhvipaply_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Thu hồi đất"
-    },
-    {
-      "id": "hanhvipaply_quyet_dinh_dien_tich_giao_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "Quyết định diện tích giao đất, cho thuê đất"
-    },
-    {
-      "id": "hanhvipaply_trinh_hdnd_ban_hanh_chinh_sach",
-      "label": "HànhViPhápLý",
-      "name": "Trình Hội đồng nhân dân cùng cấp ban hành chính sách"
-    },
-    {
-      "id": "hanhvipaply_to_chuc_thuc_hien_chinh_sach",
-      "label": "HànhViPhápLý",
-      "name": "Tổ chức thực hiện chính sách"
-    },
-    {
-      "id": "hanhvipaply_ra_soat_bao_cao",
-      "label": "HànhViPhápLý",
-      "name": "Rà soát, báo cáo"
-    },
-    {
-      "id": "hanhvipaply_boi_thuong_ho_tro_tai_dinh_cu",
-      "label": "HànhViPhápLý",
-      "name": "Bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "hanhvipaply_do_dac_lap_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "Đo đạc, lập hồ sơ địa chính"
-    },
-    {
-      "id": "hanhvipaply_cap_giay_chung_nhan_qsd_qsh_ts",
-      "label": "HànhViPhápLý",
-      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhvipaply_quy_dinh_chi_tiet_dieu_nay",
-      "label": "HànhViPhápLý",
-      "name": "Quy định chi tiết Điều này"
-    },
-    {
-      "id": "khainiem_trach_nhiem_nha_nuoc_ve_dat_dai_doi_voi_dbdtts",
-      "label": "KháiNiệm",
-      "name": "Trách nhiệm của Nhà nước về đất đai đối với đồng bào dân tộc thiểu số"
-    },
-    {
-      "id": "khainiem_dat_sinh_hoat_cong_dong",
-      "label": "KháiNiệm",
-      "name": "Đất sinh hoạt cộng đồng"
-    },
-    {
-      "id": "khainiem_phong_tuc_tap_quan_tin_nguong_ban_sac_van_hoa",
-      "label": "KháiNiệm",
-      "name": "Phong tục, tập quán, tín ngưỡng, bản sắc văn hóa"
-    },
-    {
-      "id": "khainiem_dieu_kien_thuc_te_tung_vung",
-      "label": "KháiNiệm",
-      "name": "Điều kiện thực tế của từng vùng"
-    },
-    {
-      "id": "khainiem_vung_dong_bao_dan_toc_thieu_so_va_mien_nui",
-      "label": "KháiNiệm",
-      "name": "Vùng đồng bào dân tộc thiểu số và miền núi"
-    },
-    {
-      "id": "khainiem_han_muc_giao_dat_o",
-      "label": "KháiNiệm",
-      "name": "Hạn mức giao đất ở"
-    },
-    {
-      "id": "khainiem_tien_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Tiền sử dụng đất"
-    },
-    {
-      "id": "khainiem_dat_co_nguon_goc_duoc_nn_giao_thue_cong_nhan_thua_ke_tang_cho_chuyen_nhuong",
-      "label": "KháiNiệm",
-      "name": "Đất có nguồn gốc được Nhà nước giao, cho thuê, công nhận hoặc được thừa kế, tặng cho, nhận chuyển nhượng quyền sử dụng đất theo quy định của pháp luật"
-    },
-    {
-      "id": "khainiem_dat_nong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Đất nông nghiệp"
-    },
-    {
-      "id": "khainiem_dat_phi_nong_nghiep_khong_phai_la_dat_o",
-      "label": "KháiNiệm",
-      "name": "Đất phi nông nghiệp không phải là đất ở"
-    },
-    {
-      "id": "khainiem_tien_thue_dat",
-      "label": "KháiNiệm",
-      "name": "Tiền thuê đất"
-    },
-    {
-      "id": "khainiem_on_dinh_cuoc_song",
-      "label": "KháiNiệm",
-      "name": "Ổn định cuộc sống"
-    },
-    {
-      "id": "khainiem_quy_dat_do_co_quan_to_chuc_cua_nhanuoc_quan_ly",
-      "label": "KháiNiệm",
-      "name": "Quỹ đất do cơ quan, tổ chức của Nhà nước quản lý"
-    },
-    {
-      "id": "khainiem_quy_dat_thu_hoi_theo_k29_d79",
-      "label": "KháiNiệm",
-      "name": "Quỹ đất thu hồi theo quy định tại khoản 29 Điều 79 của Luật này"
-    },
-    {
-      "id": "khainiem_tinh_hinh_thuc_te_dia_phuong",
-      "label": "KháiNiệm",
-      "name": "Tình hình thực tế của địa phương"
-    },
-    {
-      "id": "khainiem_quy_dat_cua_dia_phuong",
-      "label": "KháiNiệm",
-      "name": "Quỹ đất của địa phương"
-    },
-    {
-      "id": "khainiem_chinh_sach_cua_dia_phuong_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Chính sách của địa phương về đất đai đối với đồng bào dân tộc thiểu số"
-    },
-    {
-      "id": "khainiem_cac_truong_hop_vi_pham_chinh_sach",
-      "label": "KháiNiệm",
-      "name": "Các trường hợp vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số"
-    },
-    {
-      "id": "khainiem_kinh_phi_thuc_hien_boi_thuong_ho_tro_tai_dinh_cu",
-      "label": "KháiNiệm",
-      "name": "Kinh phí thực hiện bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "khainiem_kinh_phi_do_dac_lap_ho_so_dia_chinh",
-      "label": "KháiNiệm",
-      "name": "Kinh phí đo đạc, lập hồ sơ địa chính"
-    },
-    {
-      "id": "khainiem_kinh_phi_cap_giay_chung_nhan",
-      "label": "KháiNiệm",
-      "name": "Kinh phí cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "khainiem_cac_chi_phi_khac_thuc_hien_chinh_sach",
-      "label": "KháiNiệm",
-      "name": "Các chi phí khác để thực hiện chính sách về đất đai đối với đồng bào dân tộc thiểu số"
-    },
-    {
-      "id": "khainiem_ngan_sach_nha_nuoc",
-      "label": "KháiNiệm",
-      "name": "Ngân sách nhà nước"
-    },
-    {
-      "id": "khainiem_nguon_von_hop_phap_khac",
-      "label": "KháiNiệm",
-      "name": "Nguồn vốn hợp pháp khác"
-    },
-    {
-      "id": "dieukien_phu_hop_phong_tuc_tq_tn_bsvh_dktt_vung",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với phong tục, tập quán, tín ngưỡng, bản sắc văn hóa và điều kiện thực tế của từng vùng"
-    },
-    {
-      "id": "dieukien_lan_dau",
-      "label": "ĐiềuKiện",
-      "name": "Lần đầu"
-    },
-    {
-      "id": "dieukien_thuoc_dien_ho_ngheo_ho_can_ngheo",
-      "label": "ĐiềuKiện",
-      "name": "Thuộc diện hộ nghèo, hộ cận nghèo"
-    },
-    {
-      "id": "dieukien_tai_vung_dbdtts_va_mien_nui",
-      "label": "ĐiềuKiện",
-      "name": "Tại vùng đồng bào dân tộc thiểu số và miền núi"
-    },
-    {
-      "id": "dieukien_trong_han_muc",
-      "label": "ĐiềuKiện",
-      "name": "Trong hạn mức"
-    },
-    {
-      "id": "dieukien_khong_thu_tien_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Không thu tiền sử dụng đất"
-    },
-    {
-      "id": "dieukien_de_san_xuat_kinh_doanh",
-      "label": "ĐiềuKiện",
-      "name": "Để sản xuất, kinh doanh"
-    },
-    {
-      "id": "dieukien_da_duoc_nn_giao_hoac_cho_thue_dat_k2",
-      "label": "ĐiềuKiện",
-      "name": "Đã được Nhà nước giao đất, cho thuê đất quy định tại khoản 2 Điều này"
-    },
-    {
-      "id": "dieukien_khong_con_hoac_thieu_dat_so_voi_han_muc",
-      "label": "ĐiềuKiện",
-      "name": "Không còn đất hoặc thiếu đất so với hạn mức"
-    },
-    {
-      "id": "dieukien_khong_con_dat_o",
-      "label": "ĐiềuKiện",
-      "name": "Không còn đất ở"
-    },
-    {
-      "id": "dieukien_thieu_dat_o",
-      "label": "ĐiềuKiện",
-      "name": "Thiếu đất ở"
-    },
-    {
-      "id": "dieukien_khong_con_hoac_thieu_dat_nong_nghiep",
-      "label": "ĐiềuKiện",
-      "name": "Không còn hoặc thiếu đất nông nghiệp"
-    },
-    {
-      "id": "dieukien_duoc_bo_tri_tu_quy_dat_k4",
-      "label": "ĐiềuKiện",
-      "name": "Được bố trí từ quỹ đất (tại khoản 4)"
-    },
-    {
-      "id": "dieukien_can_cu_tinh_hinh_thuc_te_va_quy_dat_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "Căn cứ tình hình thực tế và quỹ đất của địa phương"
-    },
-    {
-      "id": "dieukien_sinh_song_tren_dia_ban",
-      "label": "ĐiềuKiện",
-      "name": "Sinh sống trên địa bàn"
-    },
-    {
-      "id": "dieukien_phu_hop_voi_dieu_kien_thuc_te_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với điều kiện thực tế của địa phương"
-    },
-    {
-      "id": "dieukien_cac_truong_hop_ko_con_thieu_hoac_ko_co_dat",
-      "label": "ĐiềuKiện",
-      "name": "Không còn, thiếu hoặc không có đất"
-    },
-    {
-      "id": "dieukien_da_duoc_nn_giao_cho_thue_dat_k3",
-      "label": "ĐiềuKiện",
-      "name": "Đã được Nhà nước giao đất, cho thuê đất theo quy định tại khoản 3 Điều này"
-    },
-    {
-      "id": "dieukien_khong_con_nhu_cau_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Không còn nhu cầu sử dụng đất"
-    },
-    {
-      "id": "dieukien_duoc_bo_tri_tu_ngan_sach_nn_va_nguon_von_hop_phap_khac",
-      "label": "ĐiềuKiện",
-      "name": "Được bố trí từ ngân sách nhà nước và nguồn vốn hợp pháp khác"
+      "id": "khainiem_quydat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quỹ đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_16",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_trach_nhiem_nha_nuoc_ve_dat_dai_doi_voi_dbdtts"
+      "source_id": "dieu_16_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_chinh_sach_bao_dam_dat_sinh_hoat_cong_dong"
+      "source_id": "dieu_16_2024",
+      "target_id": "chuthe_dongbaodantocthieuso",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_chinh_sach_bao_dam_dat_sinh_hoat_cong_dong"
+      "source_id": "dieu_16_2024",
+      "target_id": "khainiem_datsinhhoatcongdong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chinh_sach_bao_dam_dat_sinh_hoat_cong_dong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_dongbaodantoc_thieuso"
+      "source_id": "dieu_16_2024",
+      "target_id": "khainiem_chinhsachhotrodatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chinh_sach_bao_dam_dat_sinh_hoat_cong_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_phong_tuc_tq_tn_bsvh_dktt_vung"
+      "source_id": "dieu_16_2024",
+      "target_id": "chuthe_canhannguoidantocthieuso",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chinh_sach_bao_dam_dat_sinh_hoat_cong_dong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_sinh_hoat_cong_dong"
+      "source_id": "dieu_16_2024",
+      "target_id": "chuthe_hogheo",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau"
+      "source_id": "dieu_16_2024",
+      "target_id": "chuthe_hocangheo",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau"
+      "source_id": "dieu_16_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan_nguoi_dantoc_thieuso"
+      "source_id": "dieu_16_2024",
+      "target_id": "khainiem_dato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_lan_dau"
+      "source_id": "dieu_16_2024",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuoc_dien_ho_ngheo_ho_can_ngheo"
+      "source_id": "dieu_16_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_thuoc_dien_ho_ngheo_ho_can_ngheo",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_ho_ngheo"
+      "source_id": "dieu_16_2024",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_thuoc_dien_ho_ngheo_ho_can_ngheo",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_ho_can_ngheo"
+      "source_id": "dieu_16_2024",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tai_vung_dbdtts_va_mien_nui"
+      "source_id": "dieu_16_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_tai_vung_dbdtts_va_mien_nui",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_vung_dong_bao_dan_toc_thieu_so_va_mien_nui"
+      "source_id": "dieu_16_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_phong_tuc_tq_tn_bsvh_dktt_vung"
+      "source_id": "dieu_16_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_giao_dat_o"
+      "source_id": "dieu_16_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_giao_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_han_muc"
-    },
-    {
-      "source_id": "hanhvipaply_giao_dat_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_han_muc_giao_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_giao_dat_o",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_mien_giam_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvipaply_mien_giam_tien_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_han_muc"
-    },
-    {
-      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_han_muc_giao_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_mien_giam_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_dat_co_nguon_goc_duoc_nn_giao_thue_cong_nhan_thua_ke_tang_cho_chuyen_nhuong"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_giao_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhvipaply_giao_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_han_muc"
-    },
-    {
-      "source_id": "hanhvipaply_giao_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvipaply_giao_dat_nong_nghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep"
-    },
-    {
-      "source_id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_de_san_xuat_kinh_doanh"
-    },
-    {
-      "source_id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_mien_giam_tien_thue_dat"
-    },
-    {
-      "source_id": "hanhvipaply_mien_giam_tien_thue_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tien_thue_dat"
-    },
-    {
-      "source_id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_phi_nong_nghiep_khong_phai_la_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_on_dinh_cuoc_song"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan_nguoi_dantoc_thieuso"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_da_duoc_nn_giao_hoac_cho_thue_dat_k2"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_con_hoac_thieu_dat_so_voi_han_muc"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuoc_dien_ho_ngheo_ho_can_ngheo"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tai_vung_dbdtts_va_mien_nui"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_giao_tiep_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_giao_tiep_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_con_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_giao_tiep_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_han_muc"
-    },
-    {
-      "source_id": "hanhvipaply_giao_tiep_dat_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_han_muc_giao_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_giao_tiep_dat_o",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_mien_giam_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thieu_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_han_muc"
-    },
-    {
-      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_han_muc_giao_dat_o"
-    },
-    {
-      "source_id": "hanhvipaply_chuyen_muc_dich_su_dung_dat_sang_dat_o",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_mien_giam_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_giao_tiep_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhvipaply_giao_tiep_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_con_hoac_thieu_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhvipaply_giao_tiep_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_han_muc"
-    },
-    {
-      "source_id": "hanhvipaply_giao_tiep_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvipaply_giao_tiep_dat_nong_nghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep"
-    },
-    {
-      "source_id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_con_hoac_thieu_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_de_san_xuat_kinh_doanh"
-    },
-    {
-      "source_id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_mien_giam_tien_thue_dat"
-    },
-    {
-      "source_id": "hanhvipaply_cho_thue_dat_phi_nong_nghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_phi_nong_nghiep_khong_phai_la_dat_o"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_duoc_bo_tri_tu_quy_dat_k4"
-    },
-    {
-      "source_id": "dieukien_duoc_bo_tri_tu_quy_dat_k4",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvipaply_chinh_sach_bao_dam_dat_sinh_hoat_cong_dong"
-    },
-    {
-      "source_id": "dieukien_duoc_bo_tri_tu_quy_dat_k4",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau"
-    },
-    {
-      "source_id": "dieukien_duoc_bo_tri_tu_quy_dat_k4",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song"
-    },
-    {
-      "source_id": "dieukien_duoc_bo_tri_tu_quy_dat_k4",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quy_dat_do_co_quan_to_chuc_cua_nhanuoc_quan_ly"
-    },
-    {
-      "source_id": "dieukien_duoc_bo_tri_tu_quy_dat_k4",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quy_dat_thu_hoi_theo_k29_d79"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_quyet_dinh_dien_tich_giao_cho_thue_dat"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_quyet_dinh_dien_tich_giao_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhvipaply_quyet_dinh_dien_tich_giao_cho_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_cu_tinh_hinh_thuc_te_va_quy_dat_dia_phuong"
-    },
-    {
-      "source_id": "dieukien_can_cu_tinh_hinh_thuc_te_va_quy_dat_dia_phuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tinh_hinh_thuc_te_dia_phuong"
-    },
-    {
-      "source_id": "dieukien_can_cu_tinh_hinh_thuc_te_va_quy_dat_dia_phuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quy_dat_cua_dia_phuong"
-    },
-    {
-      "source_id": "hanhvipaply_quyet_dinh_dien_tich_giao_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan_nguoi_dantoc_thieuso"
-    },
-    {
-      "source_id": "hanhvipaply_quyet_dinh_dien_tich_giao_cho_thue_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_trinh_hdnd_ban_hanh_chinh_sach"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_trinh_hdnd_ban_hanh_chinh_sach"
-    },
-    {
-      "source_id": "hanhvipaply_trinh_hdnd_ban_hanh_chinh_sach",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_hoi_dong_nhan_dan_cung_cap"
-    },
-    {
-      "source_id": "hanhvipaply_trinh_hdnd_ban_hanh_chinh_sach",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chinh_sach_cua_dia_phuong_ve_dat_dai"
-    },
-    {
-      "source_id": "khainiem_chinh_sach_cua_dia_phuong_ve_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_dongbaodantoc_thieuso"
-    },
-    {
-      "source_id": "khainiem_chinh_sach_cua_dia_phuong_ve_dat_dai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_sinh_song_tren_dia_ban"
-    },
-    {
-      "source_id": "khainiem_chinh_sach_cua_dia_phuong_ve_dat_dai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_voi_dieu_kien_thuc_te_dia_phuong"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_to_chuc_thuc_hien_chinh_sach"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_to_chuc_thuc_hien_chinh_sach"
-    },
-    {
-      "source_id": "hanhvipaply_to_chuc_thuc_hien_chinh_sach",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chinh_sach_cua_dia_phuong_ve_dat_dai"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_ra_soat_bao_cao"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_ra_soat_bao_cao"
-    },
-    {
-      "source_id": "hanhvipaply_ra_soat_bao_cao",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
-    },
-    {
-      "source_id": "hanhvipaply_ra_soat_bao_cao",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_cac_truong_hop_ko_con_thieu_hoac_ko_co_dat"
-    },
-    {
-      "source_id": "dieukien_cac_truong_hop_ko_con_thieu_hoac_ko_co_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_lan_dau"
-    },
-    {
-      "source_id": "dieukien_cac_truong_hop_ko_con_thieu_hoac_ko_co_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvipaply_chinh_sach_ho_tro_dat_dai_on_dinh_cuoc_song"
-    },
-    {
-      "source_id": "hanhvipaply_ra_soat_bao_cao",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_cac_truong_hop_vi_pham_chinh_sach"
-    },
-    {
-      "source_id": "hanhvipaply_ra_soat_bao_cao",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_da_duoc_nn_giao_cho_thue_dat_k3"
-    },
-    {
-      "source_id": "dieukien_da_duoc_nn_giao_cho_thue_dat_k3",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_con_nhu_cau_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_khong_con_nhu_cau_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_thu_hoi_dat"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_kinh_phi_thuc_hien_boi_thuong_ho_tro_tai_dinh_cu"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_kinh_phi_do_dac_lap_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_kinh_phi_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_cac_chi_phi_khac_thuc_hien_chinh_sach"
-    },
-    {
-      "source_id": "khainiem_kinh_phi_thuc_hien_boi_thuong_ho_tro_tai_dinh_cu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_bo_tri_tu_ngan_sach_nn_va_nguon_von_hop_phap_khac"
-    },
-    {
-      "source_id": "khainiem_kinh_phi_do_dac_lap_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_bo_tri_tu_ngan_sach_nn_va_nguon_von_hop_phap_khac"
-    },
-    {
-      "source_id": "khainiem_kinh_phi_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_bo_tri_tu_ngan_sach_nn_va_nguon_von_hop_phap_khac"
-    },
-    {
-      "source_id": "khainiem_cac_chi_phi_khac_thuc_hien_chinh_sach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_bo_tri_tu_ngan_sach_nn_va_nguon_von_hop_phap_khac"
-    },
-    {
-      "source_id": "dieukien_duoc_bo_tri_tu_ngan_sach_nn_va_nguon_von_hop_phap_khac",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_ngan_sach_nha_nuoc"
-    },
-    {
-      "source_id": "dieukien_duoc_bo_tri_tu_ngan_sach_nn_va_nguon_von_hop_phap_khac",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nguon_von_hop_phap_khac"
-    },
-    {
-      "source_id": "dieu_16",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_quy_dinh_chi_tiet_dieu_nay"
-    },
-    {
-      "source_id": "hanhvipaply_quy_dinh_chi_tiet_dieu_nay",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinh_phu"
+      "source_id": "dieu_16_2024",
+      "target_id": "khainiem_quydat",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

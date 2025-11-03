@@ -1,126 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_27",
-      "name": "Điều 27",
-      "label": "ĐiềuLuật"
+      "id": "dieu_27_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 27. Trách nhiệm của Nhà nước về đất ở, đất sản xuất nông nghiệp đối với đồng bào dân tộc thiểu số",
+        "ma_dieu": "27",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 27.\n\nTrách nhiệm của Nhà nước về đất ở, đất sản xuất nông nghiệp đối với đồng bào dân tộc\nthiểu số\n1. Có chính sách về đất ở, đất sinh hoạt cộng đồng cho đồng bào dân tộc thiểu số phù hợp với phong\ntục, tập quán, bản sắc văn hóa và điều kiện thực tế của từng vùng.\n2. Có chính sách tạo điều kiện cho đồng bào dân tộc thiểu số trực tiếp sản xuất nông nghiệp ở nông\nthôn có đất để sản xuất nông nghiệp."
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "name": "Nhà nước",
-      "label": "ChủThể"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "chuthe_dong_bao_dan_toc_thieu_so",
-      "name": "đồng bào dân tộc thiểu số",
-      "label": "ChủThể"
+      "id": "khainiem_datothu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất ở"
+      }
     },
     {
-      "id": "chuthe_dong_bao_dt_thieu_so_sx_nong_nghiep_nong_thon",
-      "name": "đồng bào dân tộc thiểu số trực tiếp sản xuất nông nghiệp ở nông thôn",
-      "label": "ChủThể"
+      "id": "khainiem_datsanxuatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất sản xuất nông nghiệp"
+      }
     },
     {
-      "id": "khainiem_dat_o",
-      "name": "đất ở",
-      "label": "KháiNiệm"
+      "id": "chuthe_dongbaodantocthieuso",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đồng bào dân tộc thiểu số"
+      }
     },
     {
-      "id": "khainiem_dat_san_xuat_nong_nghiep",
-      "name": "đất sản xuất nông nghiệp",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_dat_sinh_hoat_cong_dong",
-      "name": "đất sinh hoạt cộng đồng",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "hanhviphaply_chinh_sach_dat_o_sinh_hoat_cong_dong",
-      "name": "Chính sách về đất ở, đất sinh hoạt cộng đồng",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_chinh_sach_tao_dieu_kien_dat_san_xuat_nong_nghiep",
-      "name": "Chính sách tạo điều kiện có đất để sản xuất nông nghiệp",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "dieukien_phu_hop_phong_tuc_tap_quan_ban_sac_van_hoa",
-      "name": "phù hợp với phong tục, tập quán, bản sắc văn hóa",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_phu_hop_dieu_kien_thuc_te_tung_vung",
-      "name": "phù hợp với điều kiện thực tế của từng vùng",
-      "label": "ĐiềuKiện"
+      "id": "khainiem_datsinhhoatcongdong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất sinh hoạt cộng đồng"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_27",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nhanuoc"
+      "source_id": "dieu_27_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_27",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_dong_bao_dan_toc_thieu_so"
+      "source_id": "dieu_27_2013",
+      "target_id": "khainiem_datothu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_o"
+      "source_id": "dieu_27_2013",
+      "target_id": "khainiem_datsanxuatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_san_xuat_nong_nghiep"
+      "source_id": "dieu_27_2013",
+      "target_id": "chuthe_dongbaodantocthieuso",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chinh_sach_dat_o_sinh_hoat_cong_dong"
-    },
-    {
-      "source_id": "hanhviphaply_chinh_sach_dat_o_sinh_hoat_cong_dong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_o"
-    },
-    {
-      "source_id": "hanhviphaply_chinh_sach_dat_o_sinh_hoat_cong_dong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_sinh_hoat_cong_dong"
-    },
-    {
-      "source_id": "hanhviphaply_chinh_sach_dat_o_sinh_hoat_cong_dong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_dong_bao_dan_toc_thieu_so"
-    },
-    {
-      "source_id": "hanhviphaply_chinh_sach_dat_o_sinh_hoat_cong_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_phong_tuc_tap_quan_ban_sac_van_hoa"
-    },
-    {
-      "source_id": "hanhviphaply_chinh_sach_dat_o_sinh_hoat_cong_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_dieu_kien_thuc_te_tung_vung"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chinh_sach_tao_dieu_kien_dat_san_xuat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_chinh_sach_tao_dieu_kien_dat_san_xuat_nong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_dong_bao_dt_thieu_so_sx_nong_nghiep_nong_thon"
-    },
-    {
-      "source_id": "hanhviphaply_chinh_sach_tao_dieu_kien_dat_san_xuat_nong_nghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_dat_san_xuat_nong_nghiep"
+      "source_id": "dieu_27_2013",
+      "target_id": "khainiem_datsinhhoatcongdong",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

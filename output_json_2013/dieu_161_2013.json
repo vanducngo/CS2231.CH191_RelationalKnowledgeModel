@@ -1,141 +1,83 @@
 {
   "entities": [
     {
-      "id": "dieu_161",
-      "label": "ĐiềuLuật",
-      "name": "Điều 161"
+      "id": "dieu_161_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 161. Đất xây dựng công trình ngầm",
+        "ma_dieu": "161",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 161.\n\nĐất xây dựng công trình ngầm\n1. Việc sử dụng đất để xây dựng công trình ngầm phải phù hợp với quy hoạch xây dựng công trình\nngầm, quy hoạch, kế hoạch sử dụng đất và các quy hoạch khác có liên quan đã được cơ quan nhà nước\ncó thẩm quyền phê duyệt.\n2. Ủy ban nhân dân cấp tỉnh quyết định giao đất, cho thuê đất để xây dựng công trình ngầm theo quy\nđịnh của Chính phủ."
+      }
     },
     {
-      "id": "khauniem_dat_xay_dung_cong_trinh_ngam",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng công trình ngầm"
+      "id": "khainiem_datxaydungconngtrinhngam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình ngầm"
+      }
     },
     {
-      "id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất để xây dựng công trình ngầm"
+      "id": "hanhviphaply_suddxaydungconngtrinhngam",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất để xây dựng công trình ngầm"
+      }
     },
     {
-      "id": "dieukien_phu_hop_voi_quy_hoach_xay_dung_cong_trinh_ngam",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quy hoạch xây dựng công trình ngầm"
+      "id": "dieukien_phuhopquyhoachxaydung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch xây dựng công trình ngầm, quy hoạch, kế hoạch sử dụng đất và các quy hoạch khác có liên quan đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      }
     },
     {
-      "id": "dieukien_phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quy hoạch, kế hoạch sử dụng đất"
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "dieukien_phu_hop_voi_cac_quy_hoach_khac_co_lien_quan",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với các quy hoạch khác có liên quan"
+      "id": "hanhviphaply_giaodatchothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất, cho thuê đất"
+      }
     },
     {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "hanhviphaply_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "id": "dieukien_theoquydinhcuachinhphu",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Theo quy định của Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_161",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_dat_xay_dung_cong_trinh_ngam"
+      "source_id": "dieu_161_2013",
+      "target_id": "khainiem_datxaydungconngtrinhngam",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_161",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam"
+      "source_id": "hanhviphaply_suddxaydungconngtrinhngam",
+      "target_id": "dieukien_phuhopquyhoachxaydung",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_voi_quy_hoach_xay_dung_cong_trinh_ngam"
+      "source_id": "dieu_161_2013",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat"
+      "source_id": "chuthe_ubndcapptinh",
+      "target_id": "hanhviphaply_giaodatchothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_su_dung_dat_de_xay_dung_cong_trinh_ngam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_voi_cac_quy_hoach_khac_co_lien_quan"
-    },
-    {
-      "source_id": "dieukien_phu_hop_voi_quy_hoach_xay_dung_cong_trinh_ngam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
-    },
-    {
-      "source_id": "dieukien_phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
-    },
-    {
-      "source_id": "dieukien_phu_hop_voi_cac_quy_hoach_khac_co_lien_quan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
-    },
-    {
-      "source_id": "dieu_161",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giao_dat"
-    },
-    {
-      "source_id": "dieu_161",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giao_dat"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_dat_xay_dung_cong_trinh_ngam"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_dat_xay_dung_cong_trinh_ngam"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_chinh_phu"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_chinh_phu"
+      "source_id": "hanhviphaply_giaodatchothuedat",
+      "target_id": "dieukien_theoquydinhcuachinhphu",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

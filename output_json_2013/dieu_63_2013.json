@@ -1,91 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_63",
-      "label": "ĐiềuLuật",
-      "name": "Điều 63"
+      "id": "dieu_63_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 63",
+        "ma_dieu": "63",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 63.\n\nCăn cứ thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích\nquốc gia, công cộng about:blank\nViệc thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công\ncộng phải dựa trên các căn cứ sau đây:\n1. Dự án thuộc các trường hợp thu hồi đất quy định tại  Điều 61 và Điều 62 của Luật này ;\n2. Kế hoạch sử dụng đất hàng năm của cấp huyện đã được cơ quan nhà nước có thẩm quyền phê duyệt;\n3. Tiến độ sử dụng đất thực hiện dự án."
+      }
     },
     {
-      "id": "khauniem_cancu_thu_hoi_dat_qpan_ktxh_loiich_qg_cc",
-      "label": "KháiNiệm",
-      "name": "Căn cứ thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
     },
     {
-      "id": "hanhviphaply_thu_hoi_dat_qpan_ktxh_loiich_qg_cc",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+      "id": "khainiem_mucdichquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Mục đích quốc phòng, an ninh"
+      }
     },
     {
-      "id": "dieukien_du_an_thuoc_truong_hop_thu_hoi_dat_dieu_61_62",
-      "label": "ĐiềuKiện",
-      "name": "Dự án thuộc các trường hợp thu hồi đất quy định tại Điều 61 và Điều 62 của Luật này"
+      "id": "khainiem_phattrienkinhtexahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phát triển kinh tế - xã hội"
+      }
     },
     {
-      "id": "dieu_61",
-      "label": "ĐiềuLuật",
-      "name": "Điều 61"
+      "id": "khainiem_loiichquocgiacongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Lợi ích quốc gia, công cộng"
+      }
     },
     {
-      "id": "dieu_62",
-      "label": "ĐiềuLuật",
-      "name": "Điều 62"
+      "id": "dieukien_duanthuoctruonghopthuhoidat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Dự án thuộc các trường hợp thu hồi đất quy định tại Điều 61 và Điều 62 của Luật này"
+      }
     },
     {
-      "id": "dieukien_ke_hoach_su_dung_dat_cap_huyen_duoc_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "Kế hoạch sử dụng đất hàng năm của cấp huyện đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      "id": "dieukien_kehoachsudungdathangnam",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất hàng năm của cấp huyện đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      }
     },
     {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "dieukien_tien_do_su_dung_dat_thuc_hien_du_an",
-      "label": "ĐiềuKiện",
-      "name": "Tiến độ sử dụng đất thực hiện dự án"
+      "id": "dieukien_tiendosudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tiến độ sử dụng đất thực hiện dự án"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_63",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_cancu_thu_hoi_dat_qpan_ktxh_loiich_qg_cc"
+      "source_id": "dieu_63_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_63",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thu_hoi_dat_qpan_ktxh_loiich_qg_cc"
+      "source_id": "dieu_63_2013",
+      "target_id": "khainiem_mucdichquocphonganinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat_qpan_ktxh_loiich_qg_cc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_du_an_thuoc_truong_hop_thu_hoi_dat_dieu_61_62"
+      "source_id": "dieu_63_2013",
+      "target_id": "khainiem_phattrienkinhtexahoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_du_an_thuoc_truong_hop_thu_hoi_dat_dieu_61_62",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_61"
+      "source_id": "dieu_63_2013",
+      "target_id": "khainiem_loiichquocgiacongcong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_du_an_thuoc_truong_hop_thu_hoi_dat_dieu_61_62",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_62"
+      "source_id": "dieu_63_2013",
+      "target_id": "dieukien_duanthuoctruonghopthuhoidat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat_qpan_ktxh_loiich_qg_cc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ke_hoach_su_dung_dat_cap_huyen_duoc_phe_duyet"
+      "source_id": "dieu_63_2013",
+      "target_id": "dieukien_kehoachsudungdathangnam",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieukien_ke_hoach_su_dung_dat_cap_huyen_duoc_phe_duyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat_qpan_ktxh_loiich_qg_cc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tien_do_su_dung_dat_thuc_hien_du_an"
+      "source_id": "dieu_63_2013",
+      "target_id": "dieukien_tiendosudungdat",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

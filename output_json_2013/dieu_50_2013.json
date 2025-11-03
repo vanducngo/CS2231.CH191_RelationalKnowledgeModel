@@ -1,281 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_50",
-      "label": "ĐiềuLuật",
-      "name": "Điều 50"
+      "id": "dieu_50_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 50. Báo cáo thực hiện quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "50",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 50.\n\nBáo cáo thực hiện quy hoạch, kế hoạch sử dụng đất\n1. Trách nhiệm báo cáo hàng năm về kết quả thực hiện quy hoạch, kế hoạch sử dụng đất được quy định\nnhư sau:\na) Ủy ban nhân dân cấp xã, cấp huyện có trách nhiệm gửi báo cáo kết quả thực hiện quy hoạch, kế\nhoạch sử dụng đất đến Ủy ban nhân dân cấp trên trực tiếp; Ủy ban nhân dân cấp tỉnh có trách nhiệm\ngửi báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất đến Bộ Tài nguyên và Môi trường;\nb) Bộ Quốc phòng, Bộ Công an có trách nhiệm gửi báo cáo kết quả thực hiện quy hoạch, kế hoạch sử\ndụng đất quốc phòng, an ninh đến Bộ Tài nguyên và Môi trường;\nc) Bộ Tài nguyên và Môi trường có trách nhiệm tổng hợp kết quả thực hiện hàng năm về quy hoạch, kế\nhoạch sử dụng đất của cả nước để báo cáo Chính phủ trình Quốc hội vào kỳ họp cuối năm.\n2. Báo cáo kết quả thực hiện kế hoạch sử dụng đất hàng năm đối với năm cuối của kế hoạch sử dụng\nđất kỳ đầu phải kèm theo báo cáo tổng hợp việc thực hiện cả kỳ kế hoạch sử dụng đất.\nBáo cáo kết quả thực hiện kế hoạch sử dụng đất hàng năm đối với năm cuối của kỳ quy hoạch sử dụng\nđất phải kèm theo báo cáo tổng hợp việc thực hiện cả kế hoạch sử dụng đất kỳ cuối và báo cáo tổng\nhợp việc thực hiện cả kỳ quy hoạch sử dụng đất."
+      }
     },
     {
-      "id": "khaikiem_baocaothuchiensudungdat",
-      "label": "KháiNiệm",
-      "name": "Báo cáo thực hiện quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khaikiem_quyhoachkehoachsudungdat",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khaikiem_baocaoketquathuchienquyhoach",
-      "label": "KháiNiệm",
-      "name": "báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khaikiem_quyhoachkehoachquocphonganninh",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất quốc phòng, an ninh"
-    },
-    {
-      "id": "khaikiem_baocaotonghopthuchiencakykehoach",
-      "label": "KháiNiệm",
-      "name": "báo cáo tổng hợp việc thực hiện cả kỳ kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khaikiem_baocaotonghopthuchienkehoachkycuoi",
-      "label": "KháiNiệm",
-      "name": "báo cáo tổng hợp việc thực hiện cả kế hoạch sử dụng đất kỳ cuối"
-    },
-    {
-      "id": "khaikiem_baocaotonghopthuchiencakyquyhoach",
-      "label": "KháiNiệm",
-      "name": "báo cáo tổng hợp việc thực hiện cả kỳ quy hoạch sử dụng đất"
-    },
-    {
-      "id": "chuthe_ubndcapsa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
     },
     {
       "id": "chuthe_ubndcaphuyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "chuthe_ubndcaptrontructiep",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp trên trực tiếp"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
       "id": "chuthe_ubndcaptinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
       "id": "chuthe_botainguyenmoitruong",
-      "label": "ChủThể",
-      "name": "Bộ Tài nguyên và Môi trường"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
     },
     {
       "id": "chuthe_boquocphong",
-      "label": "ChủThể",
-      "name": "Bộ Quốc phòng"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
     },
     {
       "id": "chuthe_bocongan",
-      "label": "ChủThể",
-      "name": "Bộ Công an"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
     },
     {
-      "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "chuthe_quochoi",
-      "label": "ChủThể",
-      "name": "Quốc hội"
-    },
-    {
-      "id": "hanhviphaply_baocao",
-      "label": "HànhViPhápLý",
-      "name": "báo cáo"
-    },
-    {
-      "id": "hanhviphaply_guibaocao",
-      "label": "HànhViPhápLý",
-      "name": "gửi báo cáo"
-    },
-    {
-      "id": "hanhviphaply_tonghopketqua",
-      "label": "HànhViPhápLý",
-      "name": "tổng hợp kết quả thực hiện"
-    },
-    {
-      "id": "hanhviphaply_trinh",
-      "label": "HànhViPhápLý",
-      "name": "trình"
-    },
-    {
-      "id": "hanhviphaply_kemtheo",
-      "label": "HànhViPhápLý",
-      "name": "kèm theo"
-    },
-    {
-      "id": "dieukien_hangnam",
-      "label": "ĐiềuKiện",
-      "name": "hàng năm"
-    },
-    {
-      "id": "dieukien_namcuoikehoachkyau",
-      "label": "ĐiềuKiện",
-      "name": "năm cuối của kế hoạch sử dụng đất kỳ đầu"
-    },
-    {
-      "id": "dieukien_namcuoikyquyhoachsudungdat",
-      "label": "ĐiềuKiện",
-      "name": "năm cuối của kỳ quy hoạch sử dụng đất"
+      "id": "hanhviphaply_baocaothuchienquydinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Báo cáo thực hiện quy hoạch, kế hoạch sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_50",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_baocaothuchiensudungdat"
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_50",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_baocao"
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_baocao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hangnam"
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ubndcapsa",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_guibaocao"
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_botainguyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ubndcaphuyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_guibaocao"
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_guibaocao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_baocaoketquathuchienquyhoach"
+      "source_id": "dieu_50_2013",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_baocaoketquathuchienquyhoach",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_quyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "chuthe_ubndcapsa",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_ubndcaptrontructiep"
-    },
-    {
-      "source_id": "chuthe_ubndcaphuyen",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_ubndcaptrontructiep"
-    },
-    {
-      "source_id": "chuthe_ubndcaptinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_guibaocao"
-    },
-    {
-      "source_id": "chuthe_ubndcaptinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_botainguyenmoitruong"
-    },
-    {
-      "source_id": "chuthe_boquocphong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_guibaocao"
-    },
-    {
-      "source_id": "chuthe_bocongan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_guibaocao"
-    },
-    {
-      "source_id": "hanhviphaply_guibaocao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_quyhoachkehoachquocphonganninh"
-    },
-    {
-      "source_id": "chuthe_boquocphong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_botainguyenmoitruong"
-    },
-    {
-      "source_id": "chuthe_bocongan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_botainguyenmoitruong"
-    },
-    {
-      "source_id": "chuthe_botainguyenmoitruong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_tonghopketqua"
-    },
-    {
-      "source_id": "hanhviphaply_tonghopketqua",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_quyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_tonghopketqua",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hangnam"
-    },
-    {
-      "source_id": "chuthe_botainguyenmoitruong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_baocao"
-    },
-    {
-      "source_id": "hanhviphaply_baocao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_chinhphu"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_trinh"
-    },
-    {
-      "source_id": "hanhviphaply_trinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_quochoi"
-    },
-    {
-      "source_id": "khaikiem_baocaoketquathuchienquyhoach",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_namcuoikehoachkyau"
-    },
-    {
-      "source_id": "dieukien_namcuoikehoachkyau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_kemtheo"
-    },
-    {
-      "source_id": "hanhviphaply_kemtheo",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_baocaotonghopthuchiencakykehoach"
-    },
-    {
-      "source_id": "khaikiem_baocaoketquathuchienquyhoach",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_namcuoikyquyhoachsudungdat"
-    },
-    {
-      "source_id": "dieukien_namcuoikyquyhoachsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_kemtheo"
-    },
-    {
-      "source_id": "hanhviphaply_kemtheo",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_baocaotonghopthuchienkehoachkycuoi"
-    },
-    {
-      "source_id": "hanhviphaply_kemtheo",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_baocaotonghopthuchiencakyquyhoach"
+      "source_id": "dieu_50_2013",
+      "target_id": "hanhviphaply_baocaothuchienquydinh",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

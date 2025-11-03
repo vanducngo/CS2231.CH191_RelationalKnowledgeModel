@@ -1,286 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_158",
-      "label": "ĐiềuLuật",
-      "name": "Điều 158. Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      "id": "dieu_158_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 158. Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh",
+        "ma_dieu": "158",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 158.\n\nĐất có di tích lịch sử - văn hóa, danh lam thắng cảnh\n1. Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh đã được xếp hạng hoặc được Ủy ban nhân dân\ncấp tỉnh quyết định bảo vệ thì phải được quản lý nghiêm ngặt theo quy định sau đây:\na) Đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh do tổ chức, hộ gia đình, cá nhân, cộng\nđồng dân cư trực tiếp quản lý theo quy định của pháp luật về di sản văn hóa thì tổ chức, hộ gia đình, cá\nnhân, cộng đồng dân cư đó chịu trách nhiệm chính trong việc sử dụng đất có di tích lịch sử - văn hóa,\ndanh lam thắng cảnh;\nb) Đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh không thuộc quy định tại điểm a khoản\nnày thì Ủy ban nhân dân cấp xã nơi có di tích lịch sử - văn hóa, danh lam thắng cảnh chịu trách nhiệm\nchính trong việc quản lý diện tích đất có di tích lịch sử - văn hóa, danh lam thắng cảnh; about:blank\nc) Đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh bị lấn, bị chiếm, sử dụng không đúng\nmục đích, sử dụng trái pháp luật thì Chủ tịch Ủy ban nhân dân cấp xã nơi có đất có trách nhiệm phát\nhiện, ngăn chặn và xử lý kịp thời.\n2. Trong trường hợp đặc biệt cần thiết phải sử dụng đất có di tích lịch sử - văn hóa, danh lam thắng\ncảnh vào mục đích khác thì việc chuyển mục đích phải phù hợp với quy hoạch, kế hoạch sử dụng đất đã\nđược cơ quan nhà nước có thẩm quyền phê duyệt và phải có văn bản chấp thuận của cơ quan nhà nước\ncó thẩm quyền quyết định xếp hạng đối với di tích lịch sử - văn hóa, danh lam thắng cảnh đó."
+      }
     },
     {
-      "id": "khainiem_dat_di_tich_lich_su_van_hoa_danh_lam_thang_canh",
-      "label": "KháiNiệm",
-      "name": "Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      "id": "khainiem_datcoditichlichsuvanhoadanhlamthangcanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      }
     },
     {
-      "id": "khainiem_di_tich_lich_su_van_hoa_danh_lam_thang_canh",
-      "label": "KháiNiệm",
-      "name": "Di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch, kế hoạch sử dụng đất"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "chuthe_ubnd_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "Tổ chức"
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "Hộ gia đình"
+      "id": "chuthe_uybanndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
     },
     {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
+      "id": "chuthe_chutichuybanndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp xã"
+      }
     },
     {
-      "id": "chuthe_cong_dong_dan_cu",
-      "label": "ChủThể",
-      "name": "Cộng đồng dân cư"
-    },
-    {
-      "id": "chuthe_ubnd_cap_xa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
-    },
-    {
-      "id": "chuthe_chu_tich_ubnd_cap_xa",
-      "label": "ChủThể",
-      "name": "Chủ tịch Ủy ban nhân dân cấp xã"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "Cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen_quyet_dinh_xep_hang",
-      "label": "ChủThể",
-      "name": "Cơ quan nhà nước có thẩm quyền quyết định xếp hạng"
-    },
-    {
-      "id": "hanhviphaply_quan_ly_nghiem_ngat",
-      "label": "HànhViPhápLý",
-      "name": "Quản lý nghiêm ngặt"
-    },
-    {
-      "id": "hanhviphaply_quyet_dinh_bao_ve",
-      "label": "HànhViPhápLý",
-      "name": "Quyết định bảo vệ"
-    },
-    {
-      "id": "hanhviphaply_truc_tiep_quan_ly",
-      "label": "HànhViPhápLý",
-      "name": "Trực tiếp quản lý"
-    },
-    {
-      "id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Chịu trách nhiệm chính trong việc sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_quan_ly_dien_tich_dat",
-      "label": "HànhViPhápLý",
-      "name": "Chịu trách nhiệm chính trong việc quản lý diện tích đất"
-    },
-    {
-      "id": "hanhviphaply_phat_hien_ngan_chan_va_xu_ly_kip_thoi",
-      "label": "HànhViPhápLý",
-      "name": "Phát hiện, ngăn chặn và xử lý kịp thời"
-    },
-    {
-      "id": "hanhviphaply_chuyen_muc_dich",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển mục đích"
-    },
-    {
-      "id": "hanhviphaply_phe_duyet",
-      "label": "HànhViPhápLý",
-      "name": "Phê duyệt"
-    },
-    {
-      "id": "hanhviphaply_chap_thuan",
-      "label": "HànhViPhápLý",
-      "name": "Chấp thuận"
-    },
-    {
-      "id": "dieu_kien_di_tich_duoc_xep_hang_hoac_bao_ve",
-      "label": "ĐiềuKiện",
-      "name": "Di tích lịch sử - văn hóa, danh lam thắng cảnh đã được xếp hạng hoặc được Ủy ban nhân dân cấp tỉnh quyết định bảo vệ"
-    },
-    {
-      "id": "dieu_kien_dat_do_to_chuc_ho_gia_dinh_ca_nhan_cong_dong_dan_cu_truc_tiep_quan_ly",
-      "label": "ĐiềuKiện",
-      "name": "Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh do tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư trực tiếp quản lý"
-    },
-    {
-      "id": "dieu_kien_khong_thuoc_quy_dinh_diem_a_khoan_nay",
-      "label": "ĐiềuKiện",
-      "name": "Không thuộc quy định tại điểm a khoản này"
-    },
-    {
-      "id": "dieu_kien_dat_bi_lan_chiem_su_dung_khong_dung_muc_dich_trai_phap_luat",
-      "label": "ĐiềuKiện",
-      "name": "Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh bị lấn, bị chiếm, sử dụng không đúng mục đích, sử dụng trái pháp luật"
-    },
-    {
-      "id": "dieu_kien_truong_hop_dac_biet_can_thiet_su_dung_dat_muc_dich_khac",
-      "label": "ĐiềuKiện",
-      "name": "Trong trường hợp đặc biệt cần thiết phải sử dụng đất có di tích lịch sử - văn hóa, danh lam thắng cảnh vào mục đích khác"
-    },
-    {
-      "id": "dieu_kien_phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat_duoc_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "Phải phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "dieu_kien_co_van_ban_chap_thuan_cua_co_quan_quyet_dinh_xep_hang",
-      "label": "ĐiềuKiện",
-      "name": "Phải có văn bản chấp thuận của cơ quan nhà nước có thẩm quyền quyết định xếp hạng đối với di tích lịch sử - văn hóa, danh lam thắng cảnh đó"
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_158",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_di_tich_lich_su_van_hoa_danh_lam_thang_canh"
+      "source_id": "dieu_158_2013",
+      "target_id": "khainiem_datcoditichlichsuvanhoadanhlamthangcanh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_di_tich_lich_su_van_hoa_danh_lam_thang_canh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quan_ly_nghiem_ngat"
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quan_ly_nghiem_ngat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_di_tich_duoc_xep_hang_hoac_bao_ve"
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ubnd_cap_tinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_quyet_dinh_bao_ve"
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_kien_dat_do_to_chuc_ho_gia_dinh_ca_nhan_cong_dong_dan_cu_truc_tiep_quan_ly",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_su_dung_dat"
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_uybanndcapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_chutichuybanndcapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_di_tich_lich_su_van_hoa_danh_lam_thang_canh"
-    },
-    {
-      "source_id": "dieu_kien_khong_thuoc_quy_dinh_diem_a_khoan_nay",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_quan_ly_dien_tich_dat"
-    },
-    {
-      "source_id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_quan_ly_dien_tich_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ubnd_cap_xa"
-    },
-    {
-      "source_id": "hanhviphaply_chiu_trach_nhiem_chinh_trong_viec_quan_ly_dien_tich_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_di_tich_lich_su_van_hoa_danh_lam_thang_canh"
-    },
-    {
-      "source_id": "chuthe_chu_tich_ubnd_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_phat_hien_ngan_chan_va_xu_ly_kip_thoi"
-    },
-    {
-      "source_id": "hanhviphaply_phat_hien_ngan_chan_va_xu_ly_kip_thoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_dat_bi_lan_chiem_su_dung_khong_dung_muc_dich_trai_phap_luat"
-    },
-    {
-      "source_id": "dieu_kien_dat_bi_lan_chiem_su_dung_khong_dung_muc_dich_trai_phap_luat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_di_tich_lich_su_van_hoa_danh_lam_thang_canh"
-    },
-    {
-      "source_id": "dieu_158",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyen_muc_dich"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_muc_dich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_truong_hop_dac_biet_can_thiet_su_dung_dat_muc_dich_khac"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_muc_dich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_di_tich_lich_su_van_hoa_danh_lam_thang_canh"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_muc_dich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat_duoc_phe_duyet"
-    },
-    {
-      "source_id": "dieu_kien_phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat_duoc_phe_duyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_phe_duyet"
-    },
-    {
-      "source_id": "hanhviphaply_phe_duyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_muc_dich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_co_van_ban_chap_thuan_cua_co_quan_quyet_dinh_xep_hang"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen_quyet_dinh_xep_hang",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_chap_thuan"
-    },
-    {
-      "source_id": "hanhviphaply_chap_thuan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_chuyen_muc_dich"
-    },
-    {
-      "source_id": "hanhviphaply_chap_thuan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_di_tich_lich_su_van_hoa_danh_lam_thang_canh"
+      "source_id": "dieu_158_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

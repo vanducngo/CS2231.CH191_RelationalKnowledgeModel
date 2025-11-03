@@ -1,751 +1,160 @@
 {
   "entities": [
     {
-      "id": "dieu_95",
-      "label": "ĐiềuLuật",
-      "name": "Điều 95. Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất"
+      "id": "dieu_95_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 95. Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất",
+        "ma_dieu": "95",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 95.\n\nĐăng ký đất đai, nhà ở và tài sản khác gắn liền với đất\n1. Đăng ký đất đai là bắt buộc đối với người sử dụng đất và người được giao đất để quản lý; đăng ký\nquyền sở hữu nhà ở và tài sản khác gắn liền với đất thực hiện theo yêu cầu của chủ sở hữu.\n2. Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất gồm đăng ký lần đầu và đăng ký biến động,\nđược thực hiện tại tổ chức đăng ký đất đai thuộc cơ quan quản lý đất đai, bằng hình thức đăng ký trên\ngiấy hoặc đăng ký điện tử và có giá trị pháp lý như nhau.\n3. Đăng ký lần đầu được thực hiện trong các trường hợp sau đây:\na) Thửa đất được giao, cho thuê để sử dụng;\nb) Thửa đất đang sử dụng mà chưa đăng ký;\nc) Thửa đất được giao để quản lý mà chưa đăng ký;\nd) Nhà ở và tài sản khác gắn liền với đất chưa đăng ký.\n4. Đăng ký biến động được thực hiện đối với trường hợp đã được cấp Giấy chứng nhận hoặc đã đăng\nký mà có thay đổi sau đây:\na) Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất thực hiện các quyền chuyển đổi, chuyển\nnhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, tài sản gắn liền với đất; thế chấp,\ngóp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất;\nb) Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất được phép đổi tên;\nc) Có thay đổi về hình dạng, kích thước, diện tích, số hiệu, địa chỉ thửa đất;\nd) Có thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký;\nđ) Chuyển mục đích sử dụng đất;\ne) Có thay đổi thời hạn sử dụng đất;\ng) Chuyển từ hình thức Nhà nước cho thuê đất thu tiền thuê đất hàng năm sang hình thức thuê đất thu\ntiền một lần cho cả thời gian thuê; từ hình thức Nhà nước giao đất không thu tiền sử dụng đất sang\nhình thức thuê đất; từ thuê đất sang giao đất có thu tiền sử dụng đất theo quy định của Luật này .\nh) Chuyển quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất của vợ hoặc của\nchồng thành quyền sử dụng đất chung, quyền sở hữu tài sản chung của vợ và chồng;\ni) Chia tách quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất của tổ chức hoặc\ncủa hộ gia đình hoặc của vợ và chồng hoặc của nhóm người sử dụng đất chung, nhóm chủ sở hữu tài\nsản chung gắn liền với đất;\nk) Thay đổi quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo kết quả hòa giải thành về\ntranh chấp đất đai được Ủy ban nhân dân cấp có thẩm quyền công nhận; thỏa thuận trong hợp đồng thế about:blank\nchấp để xử lý nợ; quyết định của cơ quan nhà nước có thẩm quyền về giải quyết tranh chấp đất đai,\nkhiếu nại, tố cáo về đất đai, quyết định hoặc bản án của Tòa án nhân dân, quyết định thi hành án của cơ\nquan thi hành án đã được thi hành; văn bản công nhận kết quả đấu giá quyền sử dụng đất phù hợp với\npháp luật;\nl) Xác lập, thay đổi hoặc chấm dứt quyền sử dụng hạn chế thửa đất liền kề;\nm) Có thay đổi về những hạn chế quyền của người sử dụng đất.\n5. Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất đã kê khai đăng ký được ghi vào Sổ địa\nchính, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với\nđất nếu có nhu cầu và có đủ điều kiện theo quy định của Luật này và quy định khác của pháp luật có\nliên quan; trường hợp đăng ký biến động đất đai thì người sử dụng đất được cấp Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc chứng nhận biến động\nvào Giấy chứng nhận đã cấp.\nTrường hợp đăng ký lần đầu mà không đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền\nsở hữu nhà ở và tài sản khác gắn liền với đất thì người đang sử dụng đất được tạm thời sử dụng đất\ncho đến khi Nhà nước có quyết định xử lý theo quy định của Chính phủ.\n6. Các trường hợp đăng ký biến động quy định tại các điểm a, b, h, i, k và l khoản 4 Điều này thì trong\nthời hạn không quá 30 ngày , kể từ ngày có biến động, người sử dụng đất phải thực hiện thủ tục đăng ký\nbiến động; trường hợp thừa kế quyền sử dụng đất thì thời hạn đăng ký biến động được tính từ ngày\nphân chia xong quyền sử dụng đất là di sản thừa kế.\n7. Việc đăng ký đất đai, tài sản gắn liền với đất có hiệu lực kể từ thời điểm đăng ký vào Sổ địa chính."
+      }
     },
     {
-      "id": "khaikiem_luat_dat_dai_2013",
-      "label": "KháiNiệm",
-      "name": "Luật Đất đai 2013"
+      "id": "hanhviphaply_dangkydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đăng ký đất đai"
+      }
     },
     {
-      "id": "khaikiem_dang_ky_dat_dai_nha_o_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Đăng ký đất đai, nhà ở và tài sản khác gắn liền với đất"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "khaikiem_dang_ky_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Đăng ký đất đai"
+      "id": "chuthe_nguoiduocgiaodatdequanly",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người được giao đất để quản lý"
+      }
     },
     {
-      "id": "khaikiem_dang_ky_quyen_so_huu_nha_o_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Đăng ký quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      "id": "chuthe_chuso huu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ sở hữu"
+      }
     },
     {
-      "id": "khaikiem_dang_ky_lan_dau",
-      "label": "KháiNiệm",
-      "name": "Đăng ký lần đầu"
+      "id": "khainiem_dangkydatdailandau",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký lần đầu"
+      }
     },
     {
-      "id": "khaikiem_dang_ky_bien_dong",
-      "label": "KháiNiệm",
-      "name": "Đăng ký biến động"
+      "id": "khainiem_dangkydatdaibiendong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký biến động"
+      }
     },
     {
-      "id": "khaikiem_to_chuc_dang_ky_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Tổ chức đăng ký đất đai"
+      "id": "chuthe_tochucdangkydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức đăng ký đất đai"
+      }
     },
     {
-      "id": "khaikiem_gia_tri_phap_ly_nhu_nhau",
-      "label": "KháiNiệm",
-      "name": "Giá trị pháp lý như nhau"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khaikiem_so_dia_chinh",
-      "label": "KháiNiệm",
-      "name": "Sổ địa chính"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "khaikiem_hieu_luc_dang_ky",
-      "label": "KháiNiệm",
-      "name": "Hiệu lực đăng ký"
+      "id": "chuthe_vochong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Vợ và chồng"
+      }
     },
     {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất"
+      "id": "chuthe_nhomnguoisudungdatchung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhóm người sử dụng đất chung"
+      }
     },
     {
-      "id": "chuthe_nguoi_duoc_giao_dat_de_quan_ly",
-      "label": "ChủThể",
-      "name": "Người được giao đất để quản lý"
-    },
-    {
-      "id": "chuthe_chu_so_huu",
-      "label": "ChủThể",
-      "name": "Chủ sở hữu"
-    },
-    {
-      "id": "chuthe_vo_hoac_chong",
-      "label": "ChủThể",
-      "name": "Vợ hoặc chồng"
-    },
-    {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "Tổ chức"
-    },
-    {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "Hộ gia đình"
-    },
-    {
-      "id": "chuthe_nhom_nguoi_su_dung_dat_chung",
-      "label": "ChủThể",
-      "name": "Nhóm người sử dụng đất chung"
-    },
-    {
-      "id": "chuthe_nhom_chu_so_huu_tai_san_chung_gan_lien_voi_dat",
-      "label": "ChủThể",
-      "name": "Nhóm chủ sở hữu tài sản chung gắn liền với đất"
-    },
-    {
-      "id": "chuthe_nguoi_dang_su_dung_dat",
-      "label": "ChủThể",
-      "name": "Người đang sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_chuyen_doi_quyen_su_dung_dat_tai_san",
-      "label": "HànhViPhápLý",
-      "name": "chuyển đổi quyền sử dụng đất, tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_tai_san",
-      "label": "HànhViPhápLý",
-      "name": "chuyển nhượng quyền sử dụng đất, tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_quyen_su_dung_dat_tai_san",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê quyền sử dụng đất, tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_lai_quyen_su_dung_dat_tai_san",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê lại quyền sử dụng đất, tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_thua_ke_quyen_su_dung_dat_tai_san",
-      "label": "HànhViPhápLý",
-      "name": "thừa kế quyền sử dụng đất, tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_tang_cho_quyen_su_dung_dat_tai_san",
-      "label": "HànhViPhápLý",
-      "name": "tặng cho quyền sử dụng đất, tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_the_chap_bang_quyen_su_dung_dat_tai_san",
-      "label": "HànhViPhápLý",
-      "name": "thế chấp bằng quyền sử dụng đất, tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat_tai_san",
-      "label": "HànhViPhápLý",
-      "name": "góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_doi_ten_nguoi_su_dung_dat_chu_so_huu",
-      "label": "HànhViPhápLý",
-      "name": "đổi tên người sử dụng đất, chủ sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_chuyen_muc_dich_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_chuyen_quyen_rieng_thanh_chung_vo_chong",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất của vợ hoặc của chồng thành quyền sử dụng đất chung, quyền sở hữu tài sản chung của vợ và chồng"
-    },
-    {
-      "id": "hanhviphaply_chia_tach_quyen_su_dung_dat_quyen_so_huu_tai_san",
-      "label": "HànhViPhápLý",
-      "name": "Chia tách quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_xac_lap_thay_doi_cham_dut_quyen_su_dung_han_che_thua_dat_lien_ke",
-      "label": "HànhViPhápLý",
-      "name": "Xác lập, thay đổi hoặc chấm dứt quyền sử dụng hạn chế thửa đất liền kề"
-    },
-    {
-      "id": "chetai_duoc_ghi_vao_so_dia_chinh",
-      "label": "ChếTài",
-      "name": "được ghi vào Sổ địa chính"
-    },
-    {
-      "id": "chetai_duoc_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_tai_san",
-      "label": "ChếTài",
-      "name": "được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
-    },
-    {
-      "id": "chetai_chung_nhan_bien_dong_vao_giay_chung_nhan_da_cap",
-      "label": "ChếTài",
-      "name": "chứng nhận biến động vào Giấy chứng nhận đã cấp"
-    },
-    {
-      "id": "chetai_duoc_tam_thoi_su_dung_dat",
-      "label": "ChếTài",
-      "name": "được tạm thời sử dụng đất"
-    },
-    {
-      "id": "dieukien_bat_buoc",
-      "label": "ĐiềuKiện",
-      "name": "bắt buộc"
-    },
-    {
-      "id": "dieukien_theo_yeu_cau_cua_chu_so_huu",
-      "label": "ĐiềuKiện",
-      "name": "theo yêu cầu của chủ sở hữu"
-    },
-    {
-      "id": "dieukien_dang_ky_tren_giay",
-      "label": "ĐiềuKiện",
-      "name": "đăng ký trên giấy"
-    },
-    {
-      "id": "dieukien_dang_ky_dien_tu",
-      "label": "ĐiềuKiện",
-      "name": "đăng ký điện tử"
-    },
-    {
-      "id": "dieukien_thua_dat_duoc_giao_cho_thue_de_su_dung",
-      "label": "ĐiềuKiện",
-      "name": "Thửa đất được giao, cho thuê để sử dụng"
-    },
-    {
-      "id": "dieukien_thua_dat_dang_su_dung_ma_chua_dang_ky",
-      "label": "ĐiềuKiện",
-      "name": "Thửa đất đang sử dụng mà chưa đăng ký"
-    },
-    {
-      "id": "dieukien_thua_dat_duoc_giao_de_quan_ly_ma_chua_dang_ky",
-      "label": "ĐiềuKiện",
-      "name": "Thửa đất được giao để quản lý mà chưa đăng ký"
-    },
-    {
-      "id": "dieukien_nha_o_tai_san_gan_lien_voi_dat_chua_dang_ky",
-      "label": "ĐiềuKiện",
-      "name": "Nhà ở và tài sản khác gắn liền với đất chưa đăng ký"
-    },
-    {
-      "id": "dieukien_da_duoc_cap_giay_chung_nhan_hoac_da_dang_ky",
-      "label": "ĐiềuKiện",
-      "name": "đã được cấp Giấy chứng nhận hoặc đã đăng ký"
-    },
-    {
-      "id": "dieukien_thay_doi_hinh_dang_kich_thuoc_dien_tich_so_hieu_dia_chi_thua_dat",
-      "label": "ĐiềuKiện",
-      "name": "Có thay đổi về hình dạng, kích thước, diện tích, số hiệu, địa chỉ thửa đất"
-    },
-    {
-      "id": "dieukien_thay_doi_tai_san_gan_lien_voi_dat_so_voi_noi_dung_da_dang_ky",
-      "label": "ĐiềuKiện",
-      "name": "Có thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký"
-    },
-    {
-      "id": "dieukien_thay_doi_thoi_han_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Có thay đổi thời hạn sử dụng đất"
-    },
-    {
-      "id": "dieukien_chuyen_doi_hinh_thuc_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Chuyển từ hình thức Nhà nước cho thuê đất thu tiền thuê đất hàng năm sang hình thức thuê đất thu tiền một lần cho cả thời gian thuê; từ hình thức Nhà nước giao đất không thu tiền sử dụng đất sang hình thức thuê đất; từ thuê đất sang giao đất có thu tiền sử dụng đất theo quy định của Luật này"
-    },
-    {
-      "id": "dieukien_thay_doi_quyen_theo_ket_qua_giai_quyet_tranh_chap",
-      "label": "ĐiềuKiện",
-      "name": "Thay đổi quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo kết quả hòa giải thành về tranh chấp đất đai được Ủy ban nhân dân cấp có thẩm quyền công nhận; thỏa thuận trong hợp đồng thế chấp để xử lý nợ; quyết định của cơ quan nhà nước có thẩm quyền về giải quyết tranh chấp đất đai, khiếu nại, tố cáo về đất đai, quyết định hoặc bản án của Tòa án nhân dân, quyết định thi hành án của cơ quan thi hành án đã được thi hành; văn bản công nhận kết quả đấu giá quyền sử dụng đất phù hợp với pháp luật"
-    },
-    {
-      "id": "dieukien_thay_doi_han_che_quyen_cua_nguoi_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Có thay đổi về những hạn chế quyền của người sử dụng đất"
-    },
-    {
-      "id": "dieukien_co_nhu_cau",
-      "label": "ĐiềuKiện",
-      "name": "có nhu cầu"
-    },
-    {
-      "id": "dieukien_co_du_dieu_kien_theo_quy_dinh_luat_nay_va_phap_luat_lien_quan",
-      "label": "ĐiềuKiện",
-      "name": "có đủ điều kiện theo quy định của Luật này và quy định khác của pháp luật có liên quan"
-    },
-    {
-      "id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan_qsd_dat_qsh_nha_o_tai_san",
-      "label": "ĐiềuKiện",
-      "name": "không đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
-    },
-    {
-      "id": "dieukien_den_khi_nha_nuoc_co_quyet_dinh_xu_ly_theo_quy_dinh_chinh_phu",
-      "label": "ĐiềuKiện",
-      "name": "cho đến khi Nhà nước có quyết định xử lý theo quy định của Chính phủ"
-    },
-    {
-      "id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong",
-      "label": "ĐiềuKiện",
-      "name": "thời hạn không quá 30 ngày, kể từ ngày có biến động"
-    },
-    {
-      "id": "dieukien_thoi_han_dang_ky_bien_dong_tinh_tu_ngay_phan_chia_xong_thua_ke",
-      "label": "ĐiềuKiện",
-      "name": "thời hạn đăng ký biến động được tính từ ngày phân chia xong quyền sử dụng đất là di sản thừa kế"
-    },
-    {
-      "id": "dieukien_thoi_diem_dang_ky_vao_so_dia_chinh",
-      "label": "ĐiềuKiện",
-      "name": "thời điểm đăng ký vào Sổ địa chính"
-    },
-    {
-      "id": "dieukien_da_ke_khai_dang_ky",
-      "label": "ĐiềuKiện",
-      "name": "đã kê khai đăng ký"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "khaikiem_luat_dat_dai_2013",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_95"
+      "source_id": "dieu_95_2013",
+      "target_id": "hanhviphaply_dangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_95",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_dang_ky_dat_dai_nha_o_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_95_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dang_ky_dat_dai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bat_buoc"
+      "source_id": "dieu_95_2013",
+      "target_id": "chuthe_nguoiduocgiaodatdequanly",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dang_ky_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
+      "source_id": "dieu_95_2013",
+      "target_id": "chuthe_chuso huu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dang_ky_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_duoc_giao_dat_de_quan_ly"
+      "source_id": "dieu_95_2013",
+      "target_id": "khainiem_dangkydatdailandau",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dang_ky_quyen_so_huu_nha_o_tai_san_gan_lien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_yeu_cau_cua_chu_so_huu"
+      "source_id": "dieu_95_2013",
+      "target_id": "khainiem_dangkydatdaibiendong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_theo_yeu_cau_cua_chu_so_huu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
+      "source_id": "dieu_95_2013",
+      "target_id": "chuthe_tochucdangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dang_ky_dat_dai_nha_o_tai_san_gan_lien_voi_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_dang_ky_lan_dau"
+      "source_id": "dieu_95_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dang_ky_dat_dai_nha_o_tai_san_gan_lien_voi_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_dang_ky_bien_dong"
+      "source_id": "dieu_95_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dang_ky_dat_dai_nha_o_tai_san_gan_lien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_to_chuc_dang_ky_dat_dai"
+      "source_id": "dieu_95_2013",
+      "target_id": "chuthe_vochong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dang_ky_dat_dai_nha_o_tai_san_gan_lien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dang_ky_tren_giay"
+      "source_id": "dieu_95_2013",
+      "target_id": "chuthe_nhomnguoisudungdatchung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dang_ky_dat_dai_nha_o_tai_san_gan_lien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dang_ky_dien_tu"
-    },
-    {
-      "source_id": "dieukien_dang_ky_tren_giay",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_gia_tri_phap_ly_nhu_nhau"
-    },
-    {
-      "source_id": "dieukien_dang_ky_dien_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_gia_tri_phap_ly_nhu_nhau"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_lan_dau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thua_dat_duoc_giao_cho_thue_de_su_dung"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_lan_dau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thua_dat_dang_su_dung_ma_chua_dang_ky"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_lan_dau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thua_dat_duoc_giao_de_quan_ly_ma_chua_dang_ky"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_lan_dau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nha_o_tai_san_gan_lien_voi_dat_chua_dang_ky"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_da_duoc_cap_giay_chung_nhan_hoac_da_dang_ky"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chuyen_doi_quyen_su_dung_dat_tai_san"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_doi_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_doi_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_tai_san"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cho_thue_quyen_su_dung_dat_tai_san"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cho_thue_lai_quyen_su_dung_dat_tai_san"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_lai_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_lai_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thua_ke_quyen_su_dung_dat_tai_san"
-    },
-    {
-      "source_id": "hanhviphaply_thua_ke_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_thua_ke_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tang_cho_quyen_su_dung_dat_tai_san"
-    },
-    {
-      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_the_chap_bang_quyen_su_dung_dat_tai_san"
-    },
-    {
-      "source_id": "hanhviphaply_the_chap_bang_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_the_chap_bang_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat_tai_san"
-    },
-    {
-      "source_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_doi_ten_nguoi_su_dung_dat_chu_so_huu"
-    },
-    {
-      "source_id": "hanhviphaply_doi_ten_nguoi_su_dung_dat_chu_so_huu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_doi_ten_nguoi_su_dung_dat_chu_so_huu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thay_doi_hinh_dang_kich_thuoc_dien_tich_so_hieu_dia_chi_thua_dat"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thay_doi_tai_san_gan_lien_voi_dat_so_voi_noi_dung_da_dang_ky"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thay_doi_thoi_han_su_dung_dat"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chuyen_doi_hinh_thuc_su_dung_dat"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chuyen_quyen_rieng_thanh_chung_vo_chong"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_quyen_rieng_thanh_chung_vo_chong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_vo_hoac_chong"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chia_tach_quyen_su_dung_dat_quyen_so_huu_tai_san"
-    },
-    {
-      "source_id": "hanhviphaply_chia_tach_quyen_su_dung_dat_quyen_so_huu_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "hanhviphaply_chia_tach_quyen_su_dung_dat_quyen_so_huu_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
-    },
-    {
-      "source_id": "hanhviphaply_chia_tach_quyen_su_dung_dat_quyen_so_huu_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_vo_hoac_chong"
-    },
-    {
-      "source_id": "hanhviphaply_chia_tach_quyen_su_dung_dat_quyen_so_huu_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhom_nguoi_su_dung_dat_chung"
-    },
-    {
-      "source_id": "hanhviphaply_chia_tach_quyen_su_dung_dat_quyen_so_huu_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhom_chu_so_huu_tai_san_chung_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thay_doi_quyen_theo_ket_qua_giai_quyet_tranh_chap"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_xac_lap_thay_doi_cham_dut_quyen_su_dung_han_che_thua_dat_lien_ke"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thay_doi_han_che_quyen_cua_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_da_ke_khai_dang_ky"
-    },
-    {
-      "source_id": "chuthe_chu_so_huu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_da_ke_khai_dang_ky"
-    },
-    {
-      "source_id": "dieukien_da_ke_khai_dang_ky",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_ghi_vao_so_dia_chinh"
-    },
-    {
-      "source_id": "dieukien_da_ke_khai_dang_ky",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_tai_san"
-    },
-    {
-      "source_id": "chetai_duoc_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_nhu_cau"
-    },
-    {
-      "source_id": "chetai_duoc_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_du_dieu_kien_theo_quy_dinh_luat_nay_va_phap_luat_lien_quan"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_cap_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_tai_san"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_bien_dong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_chung_nhan_bien_dong_vao_giay_chung_nhan_da_cap"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_lan_dau",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan_qsd_dat_qsh_nha_o_tai_san"
-    },
-    {
-      "source_id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan_qsd_dat_qsh_nha_o_tai_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_dang_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan_qsd_dat_qsh_nha_o_tai_san",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_tam_thoi_su_dung_dat"
-    },
-    {
-      "source_id": "chetai_duoc_tam_thoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_den_khi_nha_nuoc_co_quyet_dinh_xu_ly_theo_quy_dinh_chinh_phu"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_doi_quyen_su_dung_dat_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_quyen_su_dung_dat_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_lai_quyen_su_dung_dat_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_tang_cho_quyen_su_dung_dat_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_the_chap_bang_quyen_su_dung_dat_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_gop_von_bang_quyen_su_dung_dat_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_doi_ten_nguoi_su_dung_dat_chu_so_huu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_quyen_rieng_thanh_chung_vo_chong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_chia_tach_quyen_su_dung_dat_quyen_so_huu_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "dieukien_thay_doi_quyen_theo_ket_qua_giai_quyet_tranh_chap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_xac_lap_thay_doi_cham_dut_quyen_su_dung_han_che_thua_dat_lien_ke",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_khong_qua_30_ngay_ke_tu_ngay_co_bien_dong"
-    },
-    {
-      "source_id": "hanhviphaply_thua_ke_quyen_su_dung_dat_tai_san",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_han_dang_ky_bien_dong_tinh_tu_ngay_phan_chia_xong_thua_ke"
-    },
-    {
-      "source_id": "khaikiem_dang_ky_dat_dai_nha_o_tai_san_gan_lien_voi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_hieu_luc_dang_ky"
-    },
-    {
-      "source_id": "khaikiem_hieu_luc_dang_ky",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoi_diem_dang_ky_vao_so_dia_chinh"
+      "source_id": "dieu_95_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

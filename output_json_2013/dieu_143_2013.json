@@ -1,486 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_143",
-      "label": "ĐiềuLuật",
-      "name": "Điều 143"
+      "id": "dieu_143_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 143. Đất ở tại nông thôn",
+        "ma_dieu": "143",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 143.\n\nĐất ở tại nông thôn\n1. Đất ở do hộ gia đình, cá nhân đang sử dụng tại nông thôn gồm đất để xây dựng nhà ở, xây dựng các\ncông trình phục vụ đời sống, vườn, ao trong cùng thửa đất thuộc khu dân cư nông thôn, phù hợp với\nquy hoạch sử dụng đất, quy hoạch xây dựng điểm dân cư nông thôn đã được cơ quan nhà nước có thẩm\nquyền phê duyệt.\n2. Căn cứ vào quỹ đất của địa phương và quy hoạch phát triển nông thôn đã được cơ quan nhà nước có\nthẩm quyền phê duyệt, Ủy ban nhân dân cấp tỉnh quy định hạn mức đất giao cho mỗi hộ gia đình, cá\nnhân để làm nhà ở tại nông thôn; diện tích tối thiểu được tách thửa đối với đất ở phù hợp với điều kiện\nvà tập quán tại địa phương.\n3. Việc phân bổ đất ở tại nông thôn trong quy hoạch, kế hoạch sử dụng đất phải đồng bộ với quy hoạch\ncác công trình công cộng, công trình sự nghiệp bảo đảm thuận tiện cho sản xuất, đời sống của nhân dân,\nvệ sinh môi trường và theo hướng hiện đại hóa nông thôn.\n4. Nhà nước có chính sách tạo điều kiện cho những người sống ở nông thôn có chỗ ở trên cơ sở tận\ndụng đất trong những khu dân cư sẵn có, hạn chế việc mở rộng khu dân cư trên đất nông nghiệp."
+      }
     },
     {
-      "id": "khainiem_dat_o_tai_nong_thon",
-      "label": "KháiNiệm",
-      "name": "Đất ở tại nông thôn"
+      "id": "khainiem_dato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
     },
     {
-      "id": "khainiem_dat_xay_dung_nha_o",
-      "label": "KháiNiệm",
-      "name": "Đất để xây dựng nhà ở"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "khainiem_cong_trinh_phuc_vu_doi_song",
-      "label": "KháiNiệm",
-      "name": "Công trình phục vụ đời sống"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "khainiem_vuon",
-      "label": "KháiNiệm",
-      "name": "Vườn"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "khainiem_ao",
-      "label": "KháiNiệm",
-      "name": "Ao"
+      "id": "dieukien_quyhoachsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_quy_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch sử dụng đất"
+      "id": "dieukien_quyhoachxaydungdiemdancunongthon",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Quy hoạch xây dựng điểm dân cư nông thôn"
+      }
     },
     {
-      "id": "khainiem_quy_hoach_xay_dung_diem_dan_cu_nong_thon",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch xây dựng điểm dân cư nông thôn"
+      "id": "hanhviphaply_giaodato",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất ở"
+      }
     },
     {
-      "id": "khainiem_quy_dat_dia_phuong",
-      "label": "KháiNiệm",
-      "name": "Quỹ đất của địa phương"
-    },
-    {
-      "id": "khainiem_quy_hoach_phat_trien_nong_thon",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch phát triển nông thôn"
-    },
-    {
-      "id": "khainiem_han_muc_dat_giao",
-      "label": "KháiNiệm",
-      "name": "Hạn mức đất giao"
-    },
-    {
-      "id": "khainiem_dien_tich_toi_thieu_tach_thua",
-      "label": "KháiNiệm",
-      "name": "Diện tích tối thiểu được tách thửa"
-    },
-    {
-      "id": "khainiem_dieu_kien_tap_quan_dia_phuong",
-      "label": "KháiNiệm",
-      "name": "Điều kiện và tập quán tại địa phương"
-    },
-    {
-      "id": "khainiem_phan_bo_dat_o_nong_thon",
-      "label": "KháiNiệm",
-      "name": "Phân bổ đất ở tại nông thôn"
-    },
-    {
-      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khainiem_cong_trinh_cong_cong",
-      "label": "KháiNiệm",
-      "name": "Công trình công cộng"
-    },
-    {
-      "id": "khainiem_cong_trinh_su_nghiep",
-      "label": "KháiNiệm",
-      "name": "Công trình sự nghiệp"
-    },
-    {
-      "id": "khainiem_san_xuat",
-      "label": "KháiNiệm",
-      "name": "Sản xuất"
-    },
-    {
-      "id": "khainiem_doi_song_nhan_dan",
-      "label": "KháiNiệm",
-      "name": "Đời sống của nhân dân"
-    },
-    {
-      "id": "khainiem_ve_sinh_moi_truong",
-      "label": "KháiNiệm",
-      "name": "Vệ sinh môi trường"
-    },
-    {
-      "id": "khainiem_hien_dai_hoa_nong_thon",
-      "label": "KháiNiệm",
-      "name": "Hiện đại hóa nông thôn"
-    },
-    {
-      "id": "khainiem_chinh_sach",
-      "label": "KháiNiệm",
-      "name": "Chính sách"
-    },
-    {
-      "id": "khainiem_cho_o",
-      "label": "KháiNiệm",
-      "name": "Chỗ ở"
-    },
-    {
-      "id": "khainiem_khu_dan_cu_san_co",
-      "label": "KháiNiệm",
-      "name": "Khu dân cư sẵn có"
-    },
-    {
-      "id": "khainiem_dat_nong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Đất nông nghiệp"
-    },
-    {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "Hộ gia đình"
-    },
-    {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "Cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_nguoi_song_o_nong_thon",
-      "label": "ChủThể",
-      "name": "Những người sống ở nông thôn"
-    },
-    {
-      "id": "hanhviphaply_su_dung",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng"
-    },
-    {
-      "id": "hanhviphaply_phe_duyet",
-      "label": "HànhViPhápLý",
-      "name": "Phê duyệt"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh",
-      "label": "HànhViPhápLý",
-      "name": "Quy định"
-    },
-    {
-      "id": "hanhviphaply_phan_bo",
-      "label": "HànhViPhápLý",
-      "name": "Phân bổ"
-    },
-    {
-      "id": "hanhviphaply_tao_dieu_kien",
-      "label": "HànhViPhápLý",
-      "name": "Tạo điều kiện"
-    },
-    {
-      "id": "hanhviphaply_tan_dung",
-      "label": "HànhViPhápLý",
-      "name": "Tận dụng"
-    },
-    {
-      "id": "hanhviphaply_han_che",
-      "label": "HànhViPhápLý",
-      "name": "Hạn chế"
-    },
-    {
-      "id": "dieukien_phu_hop_quy_hoach_sd_dat",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với quy hoạch sử dụng đất"
-    },
-    {
-      "id": "dieukien_phu_hop_quy_hoach_xd_diem_dan_cu",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với quy hoạch xây dựng điểm dân cư nông thôn"
-    },
-    {
-      "id": "dieukien_da_duoc_cqnn_phe_duyet_quy_hoach",
-      "label": "ĐiềuKiện",
-      "name": "Đã được cơ quan nhà nước có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "dieukien_trong_cung_thua_dat_thuoc_khu_dan_cu_nong_thon",
-      "label": "ĐiềuKiện",
-      "name": "Trong cùng thửa đất thuộc khu dân cư nông thôn"
-    },
-    {
-      "id": "dieukien_can_cu_quy_dat_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "Căn cứ vào quỹ đất của địa phương"
-    },
-    {
-      "id": "dieukien_can_cu_quy_hoach_phat_trien_nong_thon",
-      "label": "ĐiềuKiện",
-      "name": "Căn cứ vào quy hoạch phát triển nông thôn"
-    },
-    {
-      "id": "dieukien_phu_hop_dieu_kien_tap_quan_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với điều kiện và tập quán tại địa phương"
-    },
-    {
-      "id": "dieukien_dong_bo_voi_cong_trinh_cong_cong",
-      "label": "ĐiềuKiện",
-      "name": "Đồng bộ với quy hoạch các công trình công cộng"
-    },
-    {
-      "id": "dieukien_dong_bo_voi_cong_trinh_su_nghiep",
-      "label": "ĐiềuKiện",
-      "name": "Đồng bộ với quy hoạch các công trình sự nghiệp"
-    },
-    {
-      "id": "dieukien_bao_dam_thuan_tien_san_xuat",
-      "label": "ĐiềuKiện",
-      "name": "Bảo đảm thuận tiện cho sản xuất"
-    },
-    {
-      "id": "dieukien_bao_dam_thuan_tien_doi_song_nhan_dan",
-      "label": "ĐiềuKiện",
-      "name": "Bảo đảm thuận tiện cho đời sống của nhân dân"
-    },
-    {
-      "id": "dieukien_bao_dam_ve_sinh_moi_truong",
-      "label": "ĐiềuKiện",
-      "name": "Bảo đảm vệ sinh môi trường"
-    },
-    {
-      "id": "dieukien_theo_huong_hien_dai_hoa_nong_thon",
-      "label": "ĐiềuKiện",
-      "name": "Theo hướng hiện đại hóa nông thôn"
-    },
-    {
-      "id": "dieukien_tren_co_so_tan_dung_dat_trong_kdc_san_co",
-      "label": "ĐiềuKiện",
-      "name": "Trên cơ sở tận dụng đất trong những khu dân cư sẵn có"
-    },
-    {
-      "id": "dieukien_han_che_mo_rong_kdc_tren_dat_nong_nghiep",
-      "label": "ĐiềuKiện",
-      "name": "Hạn chế việc mở rộng khu dân cư trên đất nông nghiệp"
+      "id": "khainiem_khudancunongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Khu dân cư nông thôn"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_143",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_o_tai_nong_thon"
+      "source_id": "dieu_143_2013",
+      "target_id": "khainiem_dato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_143",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_han_muc_dat_giao"
+      "source_id": "dieu_143_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "dieu_143",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dien_tich_toi_thieu_tach_thua"
+      "source_id": "dieu_143_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "dieu_143",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_phan_bo_dat_o_nong_thon"
+      "source_id": "dieu_143_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_143",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chinh_sach"
+      "source_id": "dieu_143_2013",
+      "target_id": "dieukien_quyhoachsudungdat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_dat_o_tai_nong_thon",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_xay_dung_nha_o"
+      "source_id": "dieu_143_2013",
+      "target_id": "dieukien_quyhoachxaydungdiemdancunongthon",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_dat_o_tai_nong_thon",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cong_trinh_phuc_vu_doi_song"
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "hanhviphaply_giaodato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_o_tai_nong_thon",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_vuon"
-    },
-    {
-      "source_id": "khainiem_dat_o_tai_nong_thon",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_ao"
-    },
-    {
-      "source_id": "khainiem_dat_o_tai_nong_thon",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
-    },
-    {
-      "source_id": "khainiem_dat_o_tai_nong_thon",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_su_dung"
-    },
-    {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_su_dung"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_o_tai_nong_thon"
-    },
-    {
-      "source_id": "khainiem_dat_o_tai_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_cung_thua_dat_thuoc_khu_dan_cu_nong_thon"
-    },
-    {
-      "source_id": "khainiem_dat_o_tai_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_sd_dat"
-    },
-    {
-      "source_id": "khainiem_dat_o_tai_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_xd_diem_dan_cu"
-    },
-    {
-      "source_id": "dieukien_phu_hop_quy_hoach_sd_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_da_duoc_cqnn_phe_duyet_quy_hoach"
-    },
-    {
-      "source_id": "dieukien_phu_hop_quy_hoach_xd_diem_dan_cu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_da_duoc_cqnn_phe_duyet_quy_hoach"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_quy_dinh"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_han_muc_dat_giao"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dien_tich_toi_thieu_tach_thua"
-    },
-    {
-      "source_id": "khainiem_han_muc_dat_giao",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
-    },
-    {
-      "source_id": "khainiem_han_muc_dat_giao",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "khainiem_han_muc_dat_giao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_cu_quy_dat_dia_phuong"
-    },
-    {
-      "source_id": "khainiem_han_muc_dat_giao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_cu_quy_hoach_phat_trien_nong_thon"
-    },
-    {
-      "source_id": "dieukien_can_cu_quy_hoach_phat_trien_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_da_duoc_cqnn_phe_duyet_quy_hoach"
-    },
-    {
-      "source_id": "khainiem_dien_tich_toi_thieu_tach_thua",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_dieu_kien_tap_quan_dia_phuong"
-    },
-    {
-      "source_id": "hanhviphaply_phan_bo",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_o_tai_nong_thon"
-    },
-    {
-      "source_id": "hanhviphaply_phan_bo",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_phan_bo_dat_o_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dong_bo_voi_cong_trinh_cong_cong"
-    },
-    {
-      "source_id": "khainiem_phan_bo_dat_o_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dong_bo_voi_cong_trinh_su_nghiep"
-    },
-    {
-      "source_id": "khainiem_phan_bo_dat_o_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_thuan_tien_san_xuat"
-    },
-    {
-      "source_id": "khainiem_phan_bo_dat_o_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_thuan_tien_doi_song_nhan_dan"
-    },
-    {
-      "source_id": "khainiem_phan_bo_dat_o_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_ve_sinh_moi_truong"
-    },
-    {
-      "source_id": "khainiem_phan_bo_dat_o_nong_thon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_huong_hien_dai_hoa_nong_thon"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chinh_sach"
-    },
-    {
-      "source_id": "khainiem_chinh_sach",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tao_dieu_kien"
-    },
-    {
-      "source_id": "hanhviphaply_tao_dieu_kien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_song_o_nong_thon"
-    },
-    {
-      "source_id": "chuthe_nguoi_song_o_nong_thon",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_cho_o"
-    },
-    {
-      "source_id": "khainiem_cho_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tren_co_so_tan_dung_dat_trong_kdc_san_co"
-    },
-    {
-      "source_id": "khainiem_cho_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_han_che_mo_rong_kdc_tren_dat_nong_nghiep"
+      "source_id": "dieu_143_2013",
+      "target_id": "khainiem_khudancunongthon",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

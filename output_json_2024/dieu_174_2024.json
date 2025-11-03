@@ -1,121 +1,198 @@
 {
   "entities": [
     {
-      "id": "dieu_174",
-      "label": "ĐiềuLuật",
-      "name": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất"
+      "id": "dieu_174_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất",
+        "ma_dieu": "174",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 174.\n\nThời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là\nthời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc\ngia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này .\nTrường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản\nxuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp\nđồng thế chấp để xử lý nợ, bản án, quyết định của Tòa án, quyết định thi hành án của cơ quan thi hành\nán đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định\ntại Điều 172 của Luật này  mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất\nổn định lâu dài."
+      }
     },
     {
-      "id": "khainiem_thoi_han_su_dung_dat_khi_nhan_chuyen_quyen",
-      "label": "KháiNiệm",
-      "name": "Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất"
+      "id": "khainiem_thoihansudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thời hạn sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_loai_dat_co_thoi_han",
-      "label": "KháiNiệm",
-      "name": "Loại đất có quy định thời hạn"
+      "id": "hanhviphaply_nhanchuyenquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "nhận chuyển quyền sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_thoi_gian_su_dung_dat_con_lai",
-      "label": "KháiNiệm",
-      "name": "Thời gian sử dụng đất còn lại"
+      "id": "khainiem_datconquyodinhtgd",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất có quy định thời hạn"
+      }
     },
     {
-      "id": "hanhviphaply_gia_han_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Gia hạn sử dụng đất"
+      "id": "khainiem_thoigianconlai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thời gian sử dụng đất còn lại"
+      }
     },
     {
-      "id": "dieu_172",
-      "label": "ĐiềuLuật",
-      "name": "Điều 172 của Luật Đất đai"
+      "id": "dieu_172_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 172",
+        "ma_dieu": "172",
+        "phien_ban": 2024
+      }
     },
     {
-      "id": "chuthe_ca_nhan_truc_tiep_sxnn",
-      "label": "ChủThể",
-      "name": "Cá nhân trực tiếp sản xuất nông nghiệp"
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
     },
     {
-      "id": "hanhviphaply_nhan_qusd_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
     },
     {
-      "id": "dieukien_het_thoi_han_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Hết thời hạn sử dụng đất"
+      "id": "hanhviphaply_sanxuatnongnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "sản xuất nông nghiệp"
+      }
     },
     {
-      "id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han",
-      "label": "HànhViPhápLý",
-      "name": "Được tiếp tục sử dụng đất mà không phải làm thủ tục gia hạn"
+      "id": "khainiem_hopdongthechap",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hợp đồng thế chấp"
+      }
     },
     {
-      "id": "chuthe_nguoi_nhan_chuyen_quyen_su_dung_dat",
-      "label": "ChủThể",
-      "name": "Người nhận chuyển quyền sử dụng đất"
+      "id": "hanhviphaply_xulychno",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "xử lý nợ"
+      }
     },
     {
-      "id": "khainiem_loai_dat_su_dung_on_dinh_lau_dai",
-      "label": "KháiNiệm",
-      "name": "Loại đất sử dụng ổn định lâu dài"
+      "id": "khainiem_banan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bản án"
+      }
     },
     {
-      "id": "khainiem_su_dung_dat_on_dinh_lau_dai",
-      "label": "KháiNiệm",
-      "name": "Được sử dụng đất ổn định lâu dài"
+      "id": "khainiem_quyetdinhtoaan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyết định của Tòa án"
+      }
+    },
+    {
+      "id": "khainiem_quyetdinhthihanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyết định thi hành án"
+      }
+    },
+    {
+      "id": "chuthe_coquanthihanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan thi hành án"
+      }
+    },
+    {
+      "id": "khainiem_datsudunglaudai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất sử dụng ổn định lâu dài"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_174",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_thoi_han_su_dung_dat_khi_nhan_chuyen_quyen"
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_thoihansudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_thoi_han_su_dung_dat_khi_nhan_chuyen_quyen",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_thoi_gian_su_dung_dat_con_lai"
+      "source_id": "dieu_174_2024",
+      "target_id": "hanhviphaply_nhanchuyenquyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_thoi_han_su_dung_dat_khi_nhan_chuyen_quyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_loai_dat_co_thoi_han"
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_datconquyodinhtgd",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_gia_han_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_172"
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_thoigianconlai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_174",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han"
+      "source_id": "dieu_174_2024",
+      "target_id": "dieu_172_2024",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan_truc_tiep_sxnn"
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_nhan_qusd_nong_nghiep"
+      "source_id": "dieu_174_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_tiep_tuc_su_dung_dat_khong_gia_han",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_het_thoi_han_su_dung_dat"
+      "source_id": "dieu_174_2024",
+      "target_id": "hanhviphaply_sanxuatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nguoi_nhan_chuyen_quyen_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_su_dung_dat_on_dinh_lau_dai"
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_hopdongthechap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_su_dung_dat_on_dinh_lau_dai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_loai_dat_su_dung_on_dinh_lau_dai"
+      "source_id": "dieu_174_2024",
+      "target_id": "hanhviphaply_xulychno",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_banan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_quyetdinhtoaan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_quyetdinhthihanh",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "chuthe_coquanthihanhan",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_174_2024",
+      "target_id": "khainiem_datsudunglaudai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

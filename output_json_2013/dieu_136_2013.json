@@ -1,456 +1,172 @@
 {
   "entities": [
     {
-      "id": "dieu_136",
-      "label": "ĐiềuLuật",
-      "name": "Điều 136"
+      "id": "dieu_136_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 136. Đất rừng phòng hộ",
+        "ma_dieu": "136",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 136.\n\nĐất rừng phòng hộ\n1. Nhà nước giao đất rừng phòng hộ cho tổ chức quản lý rừng phòng hộ để quản lý, bảo vệ, khoanh nuôi\ntái sinh rừng và trồng rừng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm\nquyền phê duyệt, được kết hợp sử dụng đất vào mục đích khác theo quy định của pháp luật về bảo vệ\nvà phát triển rừng.\n2. Tổ chức quản lý rừng phòng hộ giao khoán đất rừng phòng hộ cho hộ gia đình, cá nhân đang sinh\nsống tại đó để bảo vệ, phát triển rừng; Ủy ban nhân dân cấp huyện giao đất ở, đất sản xuất nông nghiệp\ncho hộ gia đình, cá nhân đó sử dụng.\n3. Tổ chức, hộ gia đình, cá nhân có nhu cầu, khả năng bảo vệ, phát triển rừng và đang sinh sống trong\nkhu vực rừng phòng hộ mà chưa có tổ chức quản lý và khu vực quy hoạch trồng rừng phòng hộ thì\nđược Nhà nước giao đất rừng phòng hộ để bảo vệ, phát triển rừng và được kết hợp sử dụng đất vào\nmục đích khác theo quy định của pháp luật về bảo vệ và phát triển rừng.\n4. Ủy ban nhân dân cấp tỉnh quyết định cho tổ chức kinh tế thuê đất rừng phòng hộ thuộc khu vực được\nkết hợp với kinh doanh cảnh quan, du lịch sinh thái - môi trường dưới tán rừng. about:blank\n. Cộng đồng dân cư được Nhà nước giao rừng phòng hộ theo quy định của  Luật bảo vệ và phát triển\nrừng  thì được giao đất rừng phòng hộ để bảo vệ, phát triển rừng; có quyền và nghĩa vụ theo quy định\ncủa Luật bảo vệ và phát triển rừng ."
+      }
     },
     {
-      "id": "khaikiem_datrungphongho",
-      "label": "KháiNiệm",
-      "name": "Đất rừng phòng hộ"
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
       "id": "chuthe_tochucquanlyrungphongho",
-      "label": "ChủThể",
-      "name": "tổ chức quản lý rừng phòng hộ"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức quản lý rừng phòng hộ"
+      }
     },
     {
-      "id": "hanhviphaply_giaodatrungphongho",
-      "label": "HànhViPhápLý",
-      "name": "giao đất rừng phòng hộ"
+      "id": "hanhviphaply_quanlybaove",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quản lý, bảo vệ"
+      }
     },
     {
-      "id": "hanhviphaply_quanly_baove_khoanhnuoi_trongrung",
-      "label": "HànhViPhápLý",
-      "name": "quản lý, bảo vệ, khoanh nuôi tái sinh rừng và trồng rừng"
+      "id": "hanhviphaply_khoanhnuoitaisinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "khoanh nuôi tái sinh rừng"
+      }
     },
     {
-      "id": "dieukien_theoquyhoachkehoachsudungdatpheduyet",
-      "label": "ĐiềuKiện",
-      "name": "theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "chuthe_coquannuocothamquyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "hanhviphaply_kethopsudungdatvaomucdichkhac",
-      "label": "HànhViPhápLý",
-      "name": "kết hợp sử dụng đất vào mục đích khác"
-    },
-    {
-      "id": "dieukien_theoquydinhphapluatbaovephattrienrung",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật về bảo vệ và phát triển rừng"
-    },
-    {
-      "id": "hanhviphaply_giaokhoandatrungphongho",
-      "label": "HànhViPhápLý",
-      "name": "giao khoán đất rừng phòng hộ"
+      "id": "hanhviphaply_trongrung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "trồng rừng"
+      }
     },
     {
       "id": "chuthe_hogiadinh",
-      "label": "ChủThể",
-      "name": "hộ gia đình"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
       "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "dieukien_dangsinhsongtaido",
-      "label": "ĐiềuKiện",
-      "name": "đang sinh sống tại đó"
-    },
-    {
-      "id": "hanhviphaply_baove_phattrienrung",
-      "label": "HànhViPhápLý",
-      "name": "bảo vệ, phát triển rừng"
-    },
-    {
-      "id": "chuthe_ubndcaphuyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "hanhviphaply_giaodato",
-      "label": "HànhViPhápLý",
-      "name": "giao đất ở"
-    },
-    {
-      "id": "hanhviphaply_giaodatsanxuatnongnghiep",
-      "label": "HànhViPhápLý",
-      "name": "giao đất sản xuất nông nghiệp"
+      "id": "chuthe_ubndcabhuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
       "id": "chuthe_tochuc",
-      "label": "ChủThể",
-      "name": "Tổ chức"
-    },
-    {
-      "id": "dieukien_conhucau_khanangbaovephattrienrung",
-      "label": "ĐiềuKiện",
-      "name": "có nhu cầu, khả năng bảo vệ, phát triển rừng"
-    },
-    {
-      "id": "dieukien_dangsinhsongtrongkhuvucrungphongho",
-      "label": "ĐiềuKiện",
-      "name": "đang sinh sống trong khu vực rừng phòng hộ"
-    },
-    {
-      "id": "dieukien_chuacotochucquanly",
-      "label": "ĐiềuKiện",
-      "name": "chưa có tổ chức quản lý"
-    },
-    {
-      "id": "dieukien_khuvucquyhoachtrungrungphongho",
-      "label": "ĐiềuKiện",
-      "name": "khu vực quy hoạch trồng rừng phòng hộ"
-    },
-    {
-      "id": "chuthe_ubndcaptinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
       "id": "chuthe_tochuckinhte",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     },
     {
-      "id": "hanhviphaply_quyetdinhchothuedatrungphongho",
-      "label": "HànhViPhápLý",
-      "name": "quyết định cho thuê đất rừng phòng hộ"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "hanhviphaply_thuedatrungphongho",
-      "label": "HànhViPhápLý",
-      "name": "thuê đất rừng phòng hộ"
-    },
-    {
-      "id": "dieukien_thuockhuvuckethopkinhdoanhcanhquan",
-      "label": "ĐiềuKiện",
-      "name": "thuộc khu vực được kết hợp với kinh doanh cảnh quan, du lịch sinh thái - môi trường dưới tán rừng"
-    },
-    {
-      "id": "chuthe_congdongdancu",
-      "label": "ChủThể",
-      "name": "Cộng đồng dân cư"
-    },
-    {
-      "id": "khaikiem_luatbaovevaphattrienrung",
-      "label": "KháiNiệm",
-      "name": "Luật bảo vệ và phát triển rừng"
-    },
-    {
-      "id": "dieukien_theoquydinhluatbaovephattrienrung_giaorung",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của Luật bảo vệ và phát triển rừng (đối với giao rừng phòng hộ)"
+      "id": "chuthe_conggdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_136",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_datrungphongho"
+      "source_id": "dieu_136_2013",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_136",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaodatrungphongho"
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giaodatrungphongho"
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_tochucquanlyrungphongho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaodatrungphongho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_datrungphongho"
+      "source_id": "dieu_136_2013",
+      "target_id": "hanhviphaply_quanlybaove",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaodatrungphongho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochucquanlyrungphongho"
+      "source_id": "dieu_136_2013",
+      "target_id": "hanhviphaply_khoanhnuoitaisinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_tochucquanlyrungphongho",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quanly_baove_khoanhnuoi_trongrung"
+      "source_id": "dieu_136_2013",
+      "target_id": "hanhviphaply_trongrung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quanly_baove_khoanhnuoi_trongrung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquyhoachkehoachsudungdatpheduyet"
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_theoquyhoachkehoachsudungdatpheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_coquannuocothamquyen"
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_tochucquanlyrungphongho",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_kethopsudungdatvaomucdichkhac"
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_ubndcabhuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_kethopsudungdatvaomucdichkhac",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhphapluatbaovephattrienrung"
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_136",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaokhoandatrungphongho"
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_tochucquanlyrungphongho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giaokhoandatrungphongho"
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaokhoandatrungphongho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_datrungphongho"
-    },
-    {
-      "source_id": "hanhviphaply_giaokhoandatrungphongho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh"
-    },
-    {
-      "source_id": "hanhviphaply_giaokhoandatrungphongho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "chuthe_hogiadinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dangsinhsongtaido"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dangsinhsongtaido"
-    },
-    {
-      "source_id": "chuthe_hogiadinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baove_phattrienrung"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baove_phattrienrung"
-    },
-    {
-      "source_id": "dieu_136",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaodato"
-    },
-    {
-      "source_id": "dieu_136",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaodatsanxuatnongnghiep"
-    },
-    {
-      "source_id": "chuthe_ubndcaphuyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giaodato"
-    },
-    {
-      "source_id": "chuthe_ubndcaphuyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giaodatsanxuatnongnghiep"
-    },
-    {
-      "source_id": "hanhviphaply_giaodato",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh"
-    },
-    {
-      "source_id": "hanhviphaply_giaodato",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "hanhviphaply_giaodatsanxuatnongnghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh"
-    },
-    {
-      "source_id": "hanhviphaply_giaodatsanxuatnongnghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "dieu_136",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaodatrungphongho"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giaodatrungphongho"
-    },
-    {
-      "source_id": "hanhviphaply_giaodatrungphongho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc"
-    },
-    {
-      "source_id": "hanhviphaply_giaodatrungphongho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh"
-    },
-    {
-      "source_id": "hanhviphaply_giaodatrungphongho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "chuthe_tochuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_conhucau_khanangbaovephattrienrung"
-    },
-    {
-      "source_id": "chuthe_hogiadinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_conhucau_khanangbaovephattrienrung"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_conhucau_khanangbaovephattrienrung"
-    },
-    {
-      "source_id": "chuthe_tochuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dangsinhsongtrongkhuvucrungphongho"
-    },
-    {
-      "source_id": "chuthe_hogiadinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dangsinhsongtrongkhuvucrungphongho"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dangsinhsongtrongkhuvucrungphongho"
-    },
-    {
-      "source_id": "dieukien_dangsinhsongtrongkhuvucrungphongho",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chuacotochucquanly"
-    },
-    {
-      "source_id": "hanhviphaply_giaodatrungphongho",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khuvucquyhoachtrungrungphongho"
-    },
-    {
-      "source_id": "chuthe_tochuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baove_phattrienrung"
-    },
-    {
-      "source_id": "chuthe_hogiadinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baove_phattrienrung"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baove_phattrienrung"
-    },
-    {
-      "source_id": "chuthe_tochuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_kethopsudungdatvaomucdichkhac"
-    },
-    {
-      "source_id": "chuthe_hogiadinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_kethopsudungdatvaomucdichkhac"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_kethopsudungdatvaomucdichkhac"
-    },
-    {
-      "source_id": "hanhviphaply_kethopsudungdatvaomucdichkhac",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhphapluatbaovephattrienrung"
-    },
-    {
-      "source_id": "dieu_136",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyetdinhchothuedatrungphongho"
-    },
-    {
-      "source_id": "chuthe_ubndcaptinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_quyetdinhchothuedatrungphongho"
-    },
-    {
-      "source_id": "hanhviphaply_quyetdinhchothuedatrungphongho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_datrungphongho"
-    },
-    {
-      "source_id": "hanhviphaply_quyetdinhchothuedatrungphongho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhte"
-    },
-    {
-      "source_id": "chuthe_tochuckinhte",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thuedatrungphongho"
-    },
-    {
-      "source_id": "hanhviphaply_thuedatrungphongho",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuockhuvuckethopkinhdoanhcanhquan"
-    },
-    {
-      "source_id": "dieu_136",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaodatrungphongho"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giaodatrungphongho"
-    },
-    {
-      "source_id": "hanhviphaply_giaodatrungphongho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_congdongdancu"
-    },
-    {
-      "source_id": "chuthe_congdongdancu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhluatbaovephattrienrung_giaorung"
-    },
-    {
-      "source_id": "chuthe_congdongdancu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baove_phattrienrung"
-    },
-    {
-      "source_id": "khaikiem_luatbaovevaphattrienrung",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_congdongdancu"
+      "source_id": "dieu_136_2013",
+      "target_id": "chuthe_conggdongdancu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

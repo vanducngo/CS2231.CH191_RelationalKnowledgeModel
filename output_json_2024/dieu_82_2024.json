@@ -1,206 +1,124 @@
 {
   "entities": [
     {
-      "id": "dieu_82",
-      "label": "ĐiềuLuật",
-      "name": "Điều 82. Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng"
+      "id": "dieu_82_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 82",
+        "ma_dieu": "82",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 82.\n\nThu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy\ncơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng\n1. Các trường hợp thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật bao gồm: about:blank\na) Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất bị giải thể, phá sản hoặc bị chấm dứt\nhoạt động theo quy định của pháp luật;\nb) Cá nhân sử dụng đất chết mà không có người nhận thừa kế sau khi đã thực hiện nghĩa vụ về tài sản\ntheo quy định của pháp luật về dân sự;\nc) Đất được Nhà nước giao, cho thuê có thời hạn nhưng không được gia hạn sử dụng đất;\nd) Thu hồi đất trong trường hợp chấm dứt dự án đầu tư theo quy định của pháp luật về đầu tư;\nđ) Thu hồi đất trong trường hợp đã bị thu hồi rừng theo quy định của pháp luật về lâm nghiệp.\n2. Người sử dụng đất giảm hoặc không còn nhu cầu sử dụng đất và có đơn tự nguyện trả lại đất.\n3. Các trường hợp thu hồi đất do có nguy cơ đe dọa tính mạng con người hoặc không còn khả năng tiếp\ntục sử dụng bao gồm:\na) Đất ở trong khu vực bị ô nhiễm môi trường có nguy cơ đe dọa tính mạng con người; đất khác trong\nkhu vực bị ô nhiễm môi trường không còn khả năng tiếp tục sử dụng theo mục đích đã xác định;\nb) Đất ở có nguy cơ sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác đe dọa tính mạng con\nngười; đất khác bị sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác mà không còn khả năng\ntiếp tục sử dụng.\n4. Thu hồi đất đối với các trường hợp phải thu hồi đất theo quy định tại khoản 1 Điều 48 , điểm d và\nđiểm đ khoản 1 Điều 181 của Luật này .\n5. Việc thu hồi đất trong các trường hợp quy định tại các khoản 1, 2 và 3 Điều này phải dựa trên căn cứ\nsau đây:\na) Văn bản của cơ quan có thẩm quyền giải quyết đã có hiệu lực pháp luật đối với trường hợp quy định\ntại điểm a khoản 1 Điều này;\nb) Giấy chứng tử hoặc quyết định tuyên bố một người là đã chết theo quy định của pháp luật đối với\ntrường hợp quy định tại điểm b khoản 1 Điều này;\nc) Quyết định giao đất, quyết định cho thuê đất, Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận\nquyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở\nvà tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với\nđất đối với trường hợp quy định tại điểm c khoản 1 Điều này;\nd) Văn bản chấm dứt dự án đầu tư đối với trường hợp quy định tại điểm d khoản 1 Điều này;\nđ) Văn bản thu hồi rừng đối với trường hợp quy định tại điểm đ khoản 1 Điều này;\ne) Văn bản trả lại đất của người sử dụng đất đối với trường hợp quy định tại khoản 2 Điều này;\ng) Văn bản của cơ quan có thẩm quyền xác định mức độ ô nhiễm môi trường, sạt lở, sụt lún, bị ảnh\nhưởng bởi hiện tượng thiên tai khác đối với trường hợp quy định tại khoản 3 Điều này .\n6. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "chetai_thu_hoi_dat",
-      "label": "ChếTài",
-      "name": "Thu hồi đất"
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
     },
     {
-      "id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat",
-      "label": "KháiNiệm",
-      "name": "Chấm dứt việc sử dụng đất theo pháp luật"
+      "id": "dieukien_chamdutviecsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Chấm dứt việc sử dụng đất theo pháp luật"
+      }
     },
     {
-      "id": "khainiem_tu_nguyen_tra_lai_dat",
-      "label": "KháiNiệm",
-      "name": "Tự nguyện trả lại đất"
+      "id": "dieukien_tnguyentrataidat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tự nguyện trả lại đất"
+      }
     },
     {
-      "id": "khainiem_nguy_co_de_doa_tinh_mang",
-      "label": "KháiNiệm",
-      "name": "Đất có nguy cơ đe dọa tính mạng con người"
+      "id": "dieukien_nguycodetdoatinhmangconnguoi",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có nguy cơ đe dọa tính mạng con người"
+      }
     },
     {
-      "id": "khainiem_khong_con_kha_nang_su_dung",
-      "label": "KháiNiệm",
-      "name": "Đất không còn khả năng tiếp tục sử dụng"
+      "id": "dieukien_khongconkhnangtieptucsudung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không còn khả năng tiếp tục sử dụng"
+      }
     },
     {
       "id": "chuthe_tochuc",
-      "label": "ChủThể",
-      "name": "Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
       "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_co_don_tra_lai_dat",
-      "label": "HànhViPhápLý",
-      "name": "Có đơn tự nguyện trả lại đất"
-    },
-    {
-      "id": "dieukien_to_chuc_bi_giai_the_pha_san",
-      "label": "ĐiềuKiện",
-      "name": "Tổ chức bị giải thể, phá sản hoặc chấm dứt hoạt động"
-    },
-    {
-      "id": "dieukien_canhan_chet_khong_co_nguoi_thua_ke",
-      "label": "ĐiềuKiện",
-      "name": "Cá nhân chết mà không có người nhận thừa kế"
-    },
-    {
-      "id": "dieukien_dat_khong_duoc_gia_han",
-      "label": "ĐiềuKiện",
-      "name": "Đất được giao, cho thuê có thời hạn nhưng không được gia hạn"
-    },
-    {
-      "id": "dieukien_cham_dut_du_an_dau_tu",
-      "label": "ĐiềuKiện",
-      "name": "Chấm dứt dự án đầu tư"
-    },
-    {
-      "id": "dieukien_bi_thu_hoi_rung",
-      "label": "ĐiềuKiện",
-      "name": "Bị thu hồi rừng"
-    },
-    {
-      "id": "dieukien_dat_o_nhiem_moi_truong",
-      "label": "ĐiềuKiện",
-      "name": "Đất trong khu vực bị ô nhiễm môi trường"
-    },
-    {
-      "id": "dieukien_dat_sat_lo_sut_lun_thien_tai",
-      "label": "ĐiềuKiện",
-      "name": "Đất có nguy cơ sạt lở, sụt lún, bị ảnh hưởng bởi thiên tai"
-    },
-    {
-      "id": "dieukien_van_ban_phap_ly",
-      "label": "ĐiềuKiện",
-      "name": "Văn bản của cơ quan có thẩm quyền làm căn cứ thu hồi đất"
+      "id": "khainiem_dautu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án đầu tư"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_82",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chetai_thu_hoi_dat"
+      "source_id": "dieu_82_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_thu_hoi_dat"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_chamdutviecsudungdat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_tu_nguyen_tra_lai_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_thu_hoi_dat"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_tnguyentrataidat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_nguy_co_de_doa_tinh_mang",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_thu_hoi_dat"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_nguycodetdoatinhmangconnguoi",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_khong_con_kha_nang_su_dung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_thu_hoi_dat"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_khongconkhnangtieptucsudung",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_82",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
+      "source_id": "dieu_82_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_to_chuc_bi_giai_the_pha_san",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc"
+      "source_id": "dieu_82_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_to_chuc_bi_giai_the_pha_san",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
+      "source_id": "dieu_82_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_canhan_chet_khong_co_nguoi_thua_ke",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "dieukien_canhan_chet_khong_co_nguoi_thua_ke",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
-    },
-    {
-      "source_id": "dieukien_dat_khong_duoc_gia_han",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
-    },
-    {
-      "source_id": "dieukien_cham_dut_du_an_dau_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
-    },
-    {
-      "source_id": "dieukien_bi_thu_hoi_rung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_cham_dut_su_dung_dat_theo_phap_luat"
-    },
-    {
-      "source_id": "hanhviphaply_co_don_tra_lai_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tu_nguyen_tra_lai_dat"
-    },
-    {
-      "source_id": "hanhviphaply_co_don_tra_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_dat_o_nhiem_moi_truong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_nguy_co_de_doa_tinh_mang"
-    },
-    {
-      "source_id": "dieukien_dat_o_nhiem_moi_truong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_khong_con_kha_nang_su_dung"
-    },
-    {
-      "source_id": "dieukien_dat_sat_lo_sut_lun_thien_tai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_nguy_co_de_doa_tinh_mang"
-    },
-    {
-      "source_id": "dieukien_dat_sat_lo_sut_lun_thien_tai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_khong_con_kha_nang_su_dung"
-    },
-    {
-      "source_id": "chetai_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_van_ban_phap_ly"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_82"
+      "source_id": "dieu_82_2024",
+      "target_id": "khainiem_dautu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

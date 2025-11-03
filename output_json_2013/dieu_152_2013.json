@@ -1,366 +1,160 @@
 {
   "entities": [
     {
-      "id": "dieu_152",
-      "label": "ĐiềuLuật",
-      "name": "Điều 152"
+      "id": "dieu_152_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 152. Đất sử dụng cho hoạt động khoáng sản",
+        "ma_dieu": "152",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 152.\n\nĐất sử dụng cho hoạt động khoáng sản\n1. Đất sử dụng cho hoạt động khoáng sản bao gồm đất để thăm dò, khai thác, chế biến khoáng sản và\nkhu vực các công trình phụ trợ cho hoạt động khoáng sản và hành lang an toàn trong hoạt động khoáng\nsản.\n2. Đất để thăm dò, khai thác khoáng sản được Nhà nước cho thuê đối với tổ chức, cá nhân, người Việt\nNam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài được phép thực hiện dự án thăm\ndò, khai thác khoáng sản.\nĐất để làm mặt bằng chế biến khoáng sản thuộc loại đất sản xuất, kinh doanh phi nông nghiệp có chế\nđộ sử dụng đất như đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp quy định tại Điều 153\ncủa Luật này .\n3. Việc sử dụng đất cho hoạt động khoáng sản phải tuân theo các quy định sau đây:\na) Có giấy phép hoạt động khoáng sản và quyết định cho thuê đất để thăm dò, khai thác khoáng sản\nhoặc quyết định cho thuê đất để làm mặt bằng chế biến khoáng sản của cơ quan nhà nước có thẩm\nquyền theo quy định của Chính phủ;\nb) Thực hiện các biện pháp bảo vệ môi trường, xử lý chất thải và các biện pháp khác để không gây thiệt\nhại cho người sử dụng đất trong khu vực và xung quanh;\nc) Sử dụng đất phù hợp với tiến độ thăm dò, khai thác khoáng sản; người sử dụng đất có trách nhiệm\ntrả lại đất đúng với tiến độ thăm dò, khai thác khoáng sản và trạng thái lớp đất mặt được quy định trong\nhợp đồng thuê đất;\nd) Trường hợp thăm dò, khai thác khoáng sản mà không sử dụng lớp đất mặt hoặc không ảnh hưởng\nđến việc sử dụng mặt đất thì không phải thuê đất mặt."
+      }
     },
     {
       "id": "khainiem_datsudungchohoatdongkhoangsan",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng cho hoạt động khoáng sản"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho hoạt động khoáng sản"
+      }
     },
     {
-      "id": "khainiem_dattetamdokhoangsan",
-      "label": "KháiNiệm",
-      "name": "Đất để thăm dò khoáng sản"
-    },
-    {
-      "id": "khainiem_dattedekhaithackhoangsan",
-      "label": "KháiNiệm",
-      "name": "Đất để khai thác khoáng sản"
-    },
-    {
-      "id": "khainiem_datdematbangchebienkhoangsan",
-      "label": "KháiNiệm",
-      "name": "Đất để làm mặt bằng chế biến khoáng sản"
-    },
-    {
-      "id": "khainiem_khuvuccaccongtrinhphutrochohoatdongkhoangsan",
-      "label": "KháiNiệm",
-      "name": "Khu vực các công trình phụ trợ cho hoạt động khoáng sản"
-    },
-    {
-      "id": "khainiem_hanhlangantoantronghoatdongkhoangsan",
-      "label": "KháiNiệm",
-      "name": "Hành lang an toàn trong hoạt động khoáng sản"
-    },
-    {
-      "id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
-      "label": "KháiNiệm",
-      "name": "Đất sản xuất, kinh doanh phi nông nghiệp"
-    },
-    {
-      "id": "khainiem_datthuongmaivadicvu",
-      "label": "KháiNiệm",
-      "name": "Đất thương mại, dịch vụ"
-    },
-    {
-      "id": "khainiem_datcososanxuatphinongnghiep",
-      "label": "KháiNiệm",
-      "name": "Đất cơ sở sản xuất phi nông nghiệp"
-    },
-    {
-      "id": "khainiem_datmat",
-      "label": "KháiNiệm",
-      "name": "Đất mặt"
-    },
-    {
-      "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "khainiem_datdethamdokhaithackhoangsan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất để thăm dò, khai thác khoáng sản"
+      }
     },
     {
       "id": "chuthe_tochuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
       "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "chuthe_nguoivietnamdicuoinuocngoai",
-      "label": "ChủThể",
-      "name": "người Việt Nam định cư ở nước ngoài"
+      "id": "chuthe_nguoivietnamdincuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
     },
     {
       "id": "chuthe_doanhnghiepcovondautunuocngoai",
-      "label": "ChủThể",
-      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
     },
     {
-      "id": "chuthe_nguoisudungdat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
+      "id": "khainiem_datdelammabangchebienkhoangsan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất để làm mặt bằng chế biến khoáng sản"
+      }
     },
     {
-      "id": "chuthe_coquannhanuocothamquyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
+      "id": "hanhviphaply_thucthienbienphapbaovemoitruong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện các biện pháp bảo vệ môi trường"
+      }
     },
     {
-      "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "id": "hanhviphaply_xulychatthai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xử lý chất thải"
+      }
     },
     {
-      "id": "hanhviphaply_chothuedat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
+      "id": "hanhviphaply_khonggaythiethaichonguoisudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Không gây thiệt hại cho người sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_thuchien_duan_thamdo_khaithac_khoangsan",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện dự án thăm dò, khai thác khoáng sản"
+      "id": "hanhviphaply_sudungdatphuhopvoitindothamdo",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất phù hợp với tiến độ thăm dò, khai thác khoáng sản"
+      }
     },
     {
-      "id": "hanhviphaply_sudungdat_cho_hoatdong_khoangsan",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất cho hoạt động khoáng sản"
-    },
-    {
-      "id": "hanhviphaply_thamdo_khoangsan",
-      "label": "HànhViPhápLý",
-      "name": "thăm dò khoáng sản"
-    },
-    {
-      "id": "hanhviphaply_khaithac_khoangsan",
-      "label": "HànhViPhápLý",
-      "name": "khai thác khoáng sản"
-    },
-    {
-      "id": "hanhviphaply_chebien_khoangsan",
-      "label": "HànhViPhápLý",
-      "name": "chế biến khoáng sản"
-    },
-    {
-      "id": "hanhviphaply_tralaidat",
-      "label": "HànhViPhápLý",
-      "name": "trả lại đất"
-    },
-    {
-      "id": "dieukien_cogiayphephoatdongkhoangsan",
-      "label": "ĐiềuKiện",
-      "name": "Có giấy phép hoạt động khoáng sản"
-    },
-    {
-      "id": "dieukien_coquyetdinhchothuedat_thamdo_khaithac",
-      "label": "ĐiềuKiện",
-      "name": "Có quyết định cho thuê đất để thăm dò, khai thác khoáng sản"
-    },
-    {
-      "id": "dieukien_coquyetdinhchothuedat_matbangchebien",
-      "label": "ĐiềuKiện",
-      "name": "Có quyết định cho thuê đất để làm mặt bằng chế biến khoáng sản"
-    },
-    {
-      "id": "dieukien_thuchienbienphap_baovemoitruong_xulychathai",
-      "label": "ĐiềuKiện",
-      "name": "Thực hiện các biện pháp bảo vệ môi trường, xử lý chất thải"
-    },
-    {
-      "id": "dieukien_thuchienbienphapkhac_khonggaythiet_hai",
-      "label": "ĐiềuKiện",
-      "name": "Thực hiện các biện pháp khác để không gây thiệt hại cho người sử dụng đất trong khu vực và xung quanh"
-    },
-    {
-      "id": "dieukien_sudungdat_phuhopvoitiendo",
-      "label": "ĐiềuKiện",
-      "name": "Sử dụng đất phù hợp với tiến độ thăm dò, khai thác khoáng sản"
-    },
-    {
-      "id": "dieukien_trachnhiem_tralaidat_dungtiendo",
-      "label": "ĐiềuKiện",
-      "name": "Trách nhiệm trả lại đất đúng với tiến độ thăm dò, khai thác khoáng sản"
-    },
-    {
-      "id": "dieukien_trachnhiem_tralaidat_dungtrangthailopdatmat",
-      "label": "ĐiềuKiện",
-      "name": "Trách nhiệm trả lại đất đúng với trạng thái lớp đất mặt được quy định trong hợp đồng thuê đất"
-    },
-    {
-      "id": "dieukien_truonghop_khongsudunglopdatmat_hoackhonganhhuong",
-      "label": "ĐiềuKiện",
-      "name": "Thăm dò, khai thác khoáng sản mà không sử dụng lớp đất mặt hoặc không ảnh hưởng đến việc sử dụng mặt đất"
-    },
-    {
-      "id": "dieukien_khongphaithuedatmat",
-      "label": "ĐiềuKiện",
-      "name": "Không phải thuê đất mặt"
+      "id": "hanhviphaply_tralaidatdungvoitiendo",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Trả lại đất đúng với tiến độ thăm dò, khai thác khoáng sản"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_152",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datsudungchohoatdongkhoangsan"
+      "source_id": "dieu_152_2013",
+      "target_id": "khainiem_datsudungchohoatdongkhoangsan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungchohoatdongkhoangsan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dattetamdokhoangsan"
+      "source_id": "dieu_152_2013",
+      "target_id": "khainiem_datdethamdokhaithackhoangsan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungchohoatdongkhoangsan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dattedekhaithackhoangsan"
+      "source_id": "dieu_152_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungchohoatdongkhoangsan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datdematbangchebienkhoangsan"
+      "source_id": "dieu_152_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungchohoatdongkhoangsan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khuvuccaccongtrinhphutrochohoatdongkhoangsan"
+      "source_id": "dieu_152_2013",
+      "target_id": "chuthe_nguoivietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungchohoatdongkhoangsan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_hanhlangantoantronghoatdongkhoangsan"
+      "source_id": "dieu_152_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothuedat"
+      "source_id": "dieu_152_2013",
+      "target_id": "khainiem_datdelammabangchebienkhoangsan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dattetamdokhoangsan"
+      "source_id": "dieu_152_2013",
+      "target_id": "hanhviphaply_thucthienbienphapbaovemoitruong",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dattedekhaithackhoangsan"
+      "source_id": "dieu_152_2013",
+      "target_id": "hanhviphaply_xulychatthai",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc"
+      "source_id": "dieu_152_2013",
+      "target_id": "hanhviphaply_khonggaythiethaichonguoisudungdat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
+      "source_id": "dieu_152_2013",
+      "target_id": "hanhviphaply_sudungdatphuhopvoitindothamdo",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoivietnamdicuoinuocngoai"
-    },
-    {
-      "source_id": "hanhviphaply_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanhnghiepcovondautunuocngoai"
-    },
-    {
-      "source_id": "chuthe_tochuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thuchien_duan_thamdo_khaithac_khoangsan"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thuchien_duan_thamdo_khaithac_khoangsan"
-    },
-    {
-      "source_id": "chuthe_nguoivietnamdicuoinuocngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thuchien_duan_thamdo_khaithac_khoangsan"
-    },
-    {
-      "source_id": "chuthe_doanhnghiepcovondautunuocngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thuchien_duan_thamdo_khaithac_khoangsan"
-    },
-    {
-      "source_id": "khainiem_datdematbangchebienkhoangsan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datsanxuatkinhdoanhphinongnghiep"
-    },
-    {
-      "source_id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datthuongmaivadicvu"
-    },
-    {
-      "source_id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcososanxuatphinongnghiep"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_cho_hoatdong_khoangsan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_cogiayphephoatdongkhoangsan"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_cho_hoatdong_khoangsan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_coquyetdinhchothuedat_thamdo_khaithac"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_cho_hoatdong_khoangsan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_coquyetdinhchothuedat_matbangchebien"
-    },
-    {
-      "source_id": "dieukien_coquyetdinhchothuedat_thamdo_khaithac",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_coquannhanuocothamquyen"
-    },
-    {
-      "source_id": "dieukien_coquyetdinhchothuedat_matbangchebien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_coquannhanuocothamquyen"
-    },
-    {
-      "source_id": "dieukien_coquyetdinhchothuedat_thamdo_khaithac",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_chinhphu"
-    },
-    {
-      "source_id": "dieukien_coquyetdinhchothuedat_matbangchebien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_chinhphu"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_cho_hoatdong_khoangsan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuchienbienphap_baovemoitruong_xulychathai"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_cho_hoatdong_khoangsan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuchienbienphapkhac_khonggaythiet_hai"
-    },
-    {
-      "source_id": "dieukien_thuchienbienphapkhac_khonggaythiet_hai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_cho_hoatdong_khoangsan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_sudungdat_phuhopvoitiendo"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trachnhiem_tralaidat_dungtiendo"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trachnhiem_tralaidat_dungtrangthailopdatmat"
-    },
-    {
-      "source_id": "dieukien_truonghop_khongsudunglopdatmat_hoackhonganhhuong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_khongphaithuedatmat"
-    },
-    {
-      "source_id": "hanhviphaply_thamdo_khoangsan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datmat"
-    },
-    {
-      "source_id": "hanhviphaply_khaithac_khoangsan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datmat"
+      "source_id": "dieu_152_2013",
+      "target_id": "hanhviphaply_tralaidatdungvoitiendo",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

@@ -1,201 +1,122 @@
 {
   "entities": [
     {
-      "id": "dieu_99",
-      "label": "ĐiềuLuật",
-      "name": "Điều 99"
+      "id": "dieu_99_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 99. Bồi thường về đất khi Nhà nước thu hồi đất phi nông nghiệp không phải là đất ở của hộ gia đình, cá nhân",
+        "ma_dieu": "99",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 99.\n\nBồi thường về đất khi Nhà nước thu hồi đất phi nông nghiệp không phải là đất ở của hộ\ngia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất phi nông nghiệp không phải là đất ở khi Nhà nước thu hồi\nđất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này  thì được bồi thường bằng\nđất có cùng mục đích sử dụng với loại đất thu hồi hoặc bằng tiền theo thời hạn sử dụng đất còn lại đối\nvới đất sử dụng có thời hạn hoặc bằng đất có mục đích sử dụng khác với loại đất thu hồi hoặc bằng nhà\nở.\n2. Hộ gia đình, cá nhân đang sử dụng đất phi nông nghiệp không phải là đất ở được Nhà nước cho thuê\nđất trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất khi Nhà nước thu hồi\nđất, nếu có đủ điều kiện được bồi thường quy định tại  Điều 95 của Luật này  thì được bồi thường về\nđất.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "kav_boi_thuong_ve_dat",
-      "label": "KháiNiệm",
-      "name": "Bồi thường về đất"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "hanhvi_nha_nuoc_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Nhà nước thu hồi đất"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "kav_dat_phi_nong_nghiep_khong_phai_la_dat_o",
-      "label": "KháiNiệm",
-      "name": "đất phi nông nghiệp không phải là đất ở"
+      "id": "khainiem_datphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất phi nông nghiệp"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh_ca_nhan",
-      "label": "ChủThể",
-      "name": "Hộ gia đình, cá nhân"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "hanhvi_su_dung_dat_phi_nong_nghiep_khong_phai_la_dat_o",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất phi nông nghiệp không phải là đất ở"
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
     },
     {
-      "id": "dieu_kien_co_du_dieu_kien_boi_thuong_dieu_95",
-      "label": "ĐiềuKiện",
-      "name": "có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này"
+      "id": "dieukien_dudieukienboithuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này"
+      }
     },
     {
-      "id": "dieu_95",
-      "label": "ĐiềuLuật",
-      "name": "Điều 95"
+      "id": "hanhviphaply_boithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường"
+      }
     },
     {
-      "id": "chet_tai_boi_thuong_dat_cung_muc_dich",
-      "label": "ChếTài",
-      "name": "bồi thường bằng đất có cùng mục đích sử dụng với loại đất thu hồi"
-    },
-    {
-      "id": "chet_tai_boi_thuong_tien_theo_thoi_han_con_lai",
-      "label": "ChếTài",
-      "name": "bồi thường bằng tiền theo thời hạn sử dụng đất còn lại"
-    },
-    {
-      "id": "chet_tai_boi_thuong_dat_khac_muc_dich",
-      "label": "ChếTài",
-      "name": "bồi thường bằng đất có mục đích sử dụng khác với loại đất thu hồi"
-    },
-    {
-      "id": "chet_tai_boi_thuong_nha_o",
-      "label": "ChếTài",
-      "name": "bồi thường bằng nhà ở"
-    },
-    {
-      "id": "dieu_kien_dat_thue_tra_tien_mot_lan_duoc_mien",
-      "label": "ĐiềuKiện",
-      "name": "được Nhà nước cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất"
-    },
-    {
-      "id": "chet_tai_duoc_boi_thuong_ve_dat",
-      "label": "ChếTài",
-      "name": "được bồi thường về đất"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhvi_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
+      "id": "khainiem_datodung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_99",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "kav_boi_thuong_ve_dat"
+      "source_id": "dieu_99_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "kav_boi_thuong_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_nha_nuoc_thu_hoi_dat"
+      "source_id": "dieu_99_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "kav_boi_thuong_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kav_dat_phi_nong_nghiep_khong_phai_la_dat_o"
+      "source_id": "dieu_99_2024",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "kav_boi_thuong_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+      "source_id": "chuthe_hogiadinh",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ho_gia_dinh_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_su_dung_dat_phi_nong_nghiep_khong_phai_la_dat_o"
+      "source_id": "chuthe_canhan",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_su_dung_dat_phi_nong_nghiep_khong_phai_la_dat_o",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kav_dat_phi_nong_nghiep_khong_phai_la_dat_o"
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_ho_gia_dinh_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_co_du_dieu_kien_boi_thuong_dieu_95"
+      "source_id": "dieu_99_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_kien_co_du_dieu_kien_boi_thuong_dieu_95",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_95"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_dudieukienboithuong",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_kien_co_du_dieu_kien_boi_thuong_dieu_95",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chet_tai_boi_thuong_dat_cung_muc_dich"
+      "source_id": "dieukien_dudieukienboithuong",
+      "target_id": "hanhviphaply_boithuong",
+      "relationship_type": "DAN_DEN"
     },
     {
-      "source_id": "dieu_kien_co_du_dieu_kien_boi_thuong_dieu_95",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chet_tai_boi_thuong_tien_theo_thoi_han_con_lai"
-    },
-    {
-      "source_id": "dieu_kien_co_du_dieu_kien_boi_thuong_dieu_95",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chet_tai_boi_thuong_dat_khac_muc_dich"
-    },
-    {
-      "source_id": "dieu_kien_co_du_dieu_kien_boi_thuong_dieu_95",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chet_tai_boi_thuong_nha_o"
-    },
-    {
-      "source_id": "dieu_99",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chet_tai_boi_thuong_dat_cung_muc_dich"
-    },
-    {
-      "source_id": "dieu_99",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chet_tai_boi_thuong_tien_theo_thoi_han_con_lai"
-    },
-    {
-      "source_id": "dieu_99",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chet_tai_boi_thuong_dat_khac_muc_dich"
-    },
-    {
-      "source_id": "dieu_99",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chet_tai_boi_thuong_nha_o"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_dat_thue_tra_tien_mot_lan_duoc_mien"
-    },
-    {
-      "source_id": "dieu_kien_dat_thue_tra_tien_mot_lan_duoc_mien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kav_dat_phi_nong_nghiep_khong_phai_la_dat_o"
-    },
-    {
-      "source_id": "dieu_kien_dat_thue_tra_tien_mot_lan_duoc_mien",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chet_tai_duoc_boi_thuong_ve_dat"
-    },
-    {
-      "source_id": "dieu_kien_co_du_dieu_kien_boi_thuong_dieu_95",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chet_tai_duoc_boi_thuong_ve_dat"
-    },
-    {
-      "source_id": "dieu_99",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chet_tai_duoc_boi_thuong_ve_dat"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhvi_quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_99"
+      "source_id": "dieu_99_2024",
+      "target_id": "khainiem_datodung",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

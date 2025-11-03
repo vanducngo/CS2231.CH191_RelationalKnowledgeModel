@@ -1,961 +1,143 @@
 {
   "entities": [
     {
-      "id": "dieu_37",
-      "label": "ĐiềuLuật",
-      "name": "Điều 37. Quyền và nghĩa vụ của cá nhân sử dụng đất"
+      "id": "dieu_37_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 37",
+        "ma_dieu": "37",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 37.\n\nQuyền và nghĩa vụ của cá nhân sử dụng đất about:blank\n. Cá nhân sử dụng đất nông nghiệp được Nhà nước giao trong hạn mức; đất được Nhà nước giao có\nthu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê, được Nhà nước công\nnhận quyền sử dụng đất; đất nhận chuyển đổi, nhận chuyển nhượng, nhận tặng cho, nhận thừa kế thì có\ncác quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này ;\nb) Chuyển đổi quyền sử dụng đất nông nghiệp với cá nhân khác;\nc) Chuyển nhượng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất theo quy định của\npháp luật;\nd) Cho tổ chức, cá nhân khác, người gốc Việt Nam định cư ở nước ngoài đầu tư tại Việt Nam thuê\nquyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất;\nđ) Cá nhân sử dụng đất có quyền để thừa kế quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền\nvới đất của mình theo di chúc hoặc theo pháp luật.\nTrường hợp người được thừa kế là người gốc Việt Nam định cư ở nước ngoài thuộc đối tượng quy\nđịnh tại khoản 1 Điều 44 của Luật này  thì được nhận thừa kế quyền sử dụng đất; nếu không thuộc đối\ntượng quy định tại khoản 1 Điều 44 của Luật này  thì được hưởng giá trị của phần thừa kế đó;\ne) Tặng cho quyền sử dụng đất cho Nhà nước; tặng cho quyền sử dụng đất cho cộng đồng dân cư để\nxây dựng các công trình phục vụ lợi ích chung của cộng đồng hoặc mở rộng đường giao thông theo quy\nhoạch; tặng cho quyền sử dụng đất để làm nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết gắn liền\nvới đất theo quy định của pháp luật; tặng cho quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn\nliền với đất đối với cá nhân hoặc người gốc Việt Nam định cư ở nước ngoài thuộc đối tượng quy định\ntại khoản 1 Điều 44 của Luật này ;\ng) Thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất tại tổ chức tín dụng\nđược phép hoạt động tại Việt Nam, tại tổ chức kinh tế khác hoặc cá nhân theo quy định của pháp luật;\nh) Góp vốn bằng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất với tổ chức, góp\nquyền sử dụng đất với cá nhân, người gốc Việt Nam định cư ở nước ngoài để hợp tác sản xuất, kinh\ndoanh.\n2. Cá nhân được Nhà nước cho thuê đất thu tiền thuê đất hằng năm có các quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này ;\nb) Bán tài sản thuộc sở hữu của mình gắn liền với đất, bán tài sản thuộc sở hữu của mình gắn liền với\nđất và quyền thuê trong hợp đồng thuê đất khi đáp ứng điều kiện quy định tại Điều 46 của Luật này .\nNgười mua tài sản gắn liền với đất và quyền thuê trong hợp đồng thuê đất được tiếp tục thuê đất theo\nmục đích đã được xác định và thời hạn sử dụng đất còn lại theo mục đích đã được xác định; được kế\nthừa các quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này và pháp luật có liên\nquan;\nc) Để thừa kế, tặng cho tài sản thuộc sở hữu của mình gắn liền với đất và quyền thuê trong hợp đồng\nthuê đất; người nhận thừa kế, người được tặng cho tài sản và quyền thuê trong hợp đồng thuê đất được\nNhà nước tiếp tục cho thuê đất theo mục đích đã được xác định;\nd) Cho thuê tài sản thuộc sở hữu của mình gắn liền với đất, cho thuê lại quyền thuê trong hợp đồng\nthuê đất;\nđ) Thế chấp tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt\nđộng tại Việt Nam, tại tổ chức kinh tế khác hoặc cá nhân theo quy định của pháp luật;\ne) Góp vốn bằng tài sản thuộc sở hữu của mình gắn liền với đất trong thời hạn thuê đất với tổ chức, cá\nnhân, người gốc Việt Nam định cư ở nước ngoài; người nhận góp vốn bằng tài sản được Nhà nước tiếp\ntục cho thuê đất theo mục đích đã được xác định trong thời hạn còn lại. about:blank\n. Cá nhân thuê lại đất trong khu công nghiệp, cụm công nghiệp, khu công nghệ cao thì có các quyền và\nnghĩa vụ sau đây:\na) Trường hợp thuê đất, thuê lại đất trả tiền thuê đất một lần cho cả thời gian thuê thì có quyền và\nnghĩa vụ quy định tại khoản 1 Điều này;\nb) Trường hợp thuê đất, thuê lại đất trả tiền thuê đất hằng năm thì có quyền và nghĩa vụ quy định tại\nkhoản 2 Điều này .\n4. Cá nhân được Nhà nước giao đất, cho thuê đất mà được miễn, giảm tiền sử dụng đất, tiền thuê đất\nthì có quyền và nghĩa vụ như trường hợp không được miễn, không được giảm tiền sử dụng đất, tiền\nthuê đất.\n5. Cá nhân sử dụng đất thuê của tổ chức, cá nhân không thuộc trường hợp quy định tại khoản 3 Điều\nnày thì có quyền và nghĩa vụ theo quy định của pháp luật về dân sự."
+      }
     },
     {
-      "id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất nông nghiệp được Nhà nước giao trong hạn mức"
+      "id": "chuthe_canhansudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất được Nhà nước giao có thu tiền sử dụng đất"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "chuthe_canhan_sd_dat_thue_motlan",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+      "id": "khainiem_quyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất được Nhà nước công nhận quyền sử dụng đất"
+      "id": "hanhviphaply_chuyendoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển đổi quyền sử dụng đất nông nghiệp"
+      }
     },
     {
-      "id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất nhận chuyển đổi"
+      "id": "hanhviphaply_chuyennhuongdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển nhượng quyền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất nhận chuyển nhượng"
+      "id": "hanhviphaply_tangchodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tặng cho quyền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_canhan_sd_dat_nhantangcho",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất nhận tặng cho"
+      "id": "hanhviphaply_thuequyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê quyền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_canhan_sd_dat_nhanthuake",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất nhận thừa kế"
+      "id": "hanhviphaply_thechap",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thế chấp quyền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_nguoithuake_nguoigocvietnam",
-      "label": "ChủThể",
-      "name": "Người được thừa kế là người gốc Việt Nam định cư ở nước ngoài"
+      "id": "hanhviphaply_gopvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Góp vốn bằng quyền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_canhan_thuedat_hangnam",
-      "label": "ChủThể",
-      "name": "Cá nhân được Nhà nước cho thuê đất thu tiền thuê đất hằng năm"
+      "id": "khainiem_tientaithuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền thuê đất"
+      }
     },
     {
-      "id": "chuthe_nguoimua_taisanganlien_quyen_thue",
-      "label": "ChủThể",
-      "name": "Người mua tài sản gắn liền với đất và quyền thuê trong hợp đồng thuê đất"
-    },
-    {
-      "id": "chuthe_nguoinhan_thuake_tangcho_taisanganlien_quyen_thue",
-      "label": "ChủThể",
-      "name": "Người nhận thừa kế, người được tặng cho tài sản và quyền thuê trong hợp đồng thuê đất"
-    },
-    {
-      "id": "chuthe_nguoinhan_gopvon_taisanganlien",
-      "label": "ChủThể",
-      "name": "Người nhận góp vốn bằng tài sản"
-    },
-    {
-      "id": "chuthe_canhan_thuelai_dat_kcn",
-      "label": "ChủThể",
-      "name": "Cá nhân thuê lại đất trong khu công nghiệp, cụm công nghiệp, khu công nghệ cao"
-    },
-    {
-      "id": "chuthe_canhan_duocmiengiam_tiensd_tienthue",
-      "label": "ChủThể",
-      "name": "Cá nhân được Nhà nước giao đất, cho thuê đất mà được miễn, giảm tiền sử dụng đất, tiền thuê đất"
-    },
-    {
-      "id": "chuthe_canhan_sd_datthue_khongkhoan3",
-      "label": "ChủThể",
-      "name": "Cá nhân sử dụng đất thuê của tổ chức, cá nhân không thuộc trường hợp quy định tại khoản 3 Điều này"
-    },
-    {
-      "id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31",
-      "label": "HànhViPhápLý",
-      "name": "Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này"
-    },
-    {
-      "id": "hanhviphaply_chuyendoi_quyen_sd_datnongnghiep",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển đổi quyền sử dụng đất nông nghiệp với cá nhân khác"
-    },
-    {
-      "id": "hanhviphaply_chuyennhuong_quyen_sd_dat_taisanganlien",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển nhượng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_chothue_quyen_sd_dat_taisanganlien",
-      "label": "HànhViPhápLý",
-      "name": "Cho tổ chức, cá nhân khác, người gốc Việt Nam định cư ở nước ngoài đầu tư tại Việt Nam thuê quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien",
-      "label": "HànhViPhápLý",
-      "name": "Để thừa kế quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_duocnhan_thuake_quyen_sd_dat",
-      "label": "HànhViPhápLý",
-      "name": "Được nhận thừa kế quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_duochuong_giatri_phanthuake",
-      "label": "HànhViPhápLý",
-      "name": "Được hưởng giá trị của phần thừa kế đó"
-    },
-    {
-      "id": "hanhviphaply_tangcho_quyen_sd_dat_nhanuoc",
-      "label": "HànhViPhápLý",
-      "name": "Tặng cho quyền sử dụng đất cho Nhà nước"
-    },
-    {
-      "id": "hanhviphaply_tangcho_quyen_sd_dat_congdong",
-      "label": "HànhViPhápLý",
-      "name": "Tặng cho quyền sử dụng đất cho cộng đồng dân cư để xây dựng các công trình phục vụ lợi ích chung của cộng đồng hoặc mở rộng đường giao thông theo quy hoạch"
-    },
-    {
-      "id": "hanhviphaply_tangcho_quyen_sd_dat_nhatinhnghia",
-      "label": "HànhViPhápLý",
-      "name": "Tặng cho quyền sử dụng đất để làm nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_tangcho_quyen_sd_dat_taisanganlien_canhan_nguoigocvietnam",
-      "label": "HànhViPhápLý",
-      "name": "Tặng cho quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với cá nhân hoặc người gốc Việt Nam định cư ở nước ngoài thuộc đối tượng quy định tại khoản 1 Điều 44 của Luật này"
-    },
-    {
-      "id": "hanhviphaply_thechap_quyen_sd_dat_taisanganlien",
-      "label": "HànhViPhápLý",
-      "name": "Thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_gopvon_quyen_sd_dat_taisanganlien",
-      "label": "HànhViPhápLý",
-      "name": "Góp vốn bằng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_ban_taisanganlien_quyen_thue",
-      "label": "HànhViPhápLý",
-      "name": "Bán tài sản thuộc sở hữu của mình gắn liền với đất, bán tài sản thuộc sở hữu của mình gắn liền với đất và quyền thuê trong hợp đồng thuê đất"
-    },
-    {
-      "id": "hanhviphaply_duoctieptuc_thuedat",
-      "label": "HànhViPhápLý",
-      "name": "Được tiếp tục thuê đất theo mục đích đã được xác định và thời hạn sử dụng đất còn lại"
-    },
-    {
-      "id": "hanhviphaply_duockethua_quyenvanghiavu",
-      "label": "HànhViPhápLý",
-      "name": "Được kế thừa các quyền và nghĩa vụ của người sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_dethuake_tangcho_taisanganlien_quyen_thue",
-      "label": "HànhViPhápLý",
-      "name": "Để thừa kế, tặng cho tài sản thuộc sở hữu của mình gắn liền với đất và quyền thuê trong hợp đồng thuê đất"
-    },
-    {
-      "id": "hanhviphaply_duocnhanuoc_tieptuc_chothuedat",
-      "label": "HànhViPhápLý",
-      "name": "Được Nhà nước tiếp tục cho thuê đất theo mục đích đã được xác định"
-    },
-    {
-      "id": "hanhviphaply_chothue_taisanganlien_quyen_thue",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê tài sản thuộc sở hữu của mình gắn liền với đất, cho thuê lại quyền thuê trong hợp đồng thuê đất"
-    },
-    {
-      "id": "hanhviphaply_thechap_taisanganlien_datthue",
-      "label": "HànhViPhápLý",
-      "name": "Thế chấp tài sản thuộc sở hữu của mình gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_gopvon_taisanganlien_thoihanthue",
-      "label": "HànhViPhápLý",
-      "name": "Góp vốn bằng tài sản thuộc sở hữu của mình gắn liền với đất trong thời hạn thuê đất"
-    },
-    {
-      "id": "hanhviphaply_duocnhanuoc_tieptuc_chothuedat_thoihanconlai",
-      "label": "HànhViPhápLý",
-      "name": "Được Nhà nước tiếp tục cho thuê đất theo mục đích đã được xác định trong thời hạn còn lại"
-    },
-    {
-      "id": "hanhviphaply_coquyenvanghiavu_khoan1",
-      "label": "HànhViPhápLý",
-      "name": "Có quyền và nghĩa vụ quy định tại khoản 1 Điều này"
-    },
-    {
-      "id": "hanhviphaply_coquyenvanghiavu_khoan2",
-      "label": "HànhViPhápLý",
-      "name": "Có quyền và nghĩa vụ quy định tại khoản 2 Điều này"
-    },
-    {
-      "id": "hanhviphaply_quyenvanghiavu_nhukhongmiengiam",
-      "label": "HànhViPhápLý",
-      "name": "Có quyền và nghĩa vụ như trường hợp không được miễn, không được giảm tiền sử dụng đất, tiền thuê đất"
-    },
-    {
-      "id": "hanhviphaply_quyenvanghiavu_theopldansu",
-      "label": "HànhViPhápLý",
-      "name": "Có quyền và nghĩa vụ theo quy định của pháp luật về dân sự"
-    },
-    {
-      "id": "dieukien_nguoithuake_thuocdieu44k1",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp người được thừa kế thuộc đối tượng quy định tại khoản 1 Điều 44 của Luật này"
-    },
-    {
-      "id": "dieukien_nguoithuake_khongthuocdieu44k1",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp người được thừa kế không thuộc đối tượng quy định tại khoản 1 Điều 44 của Luật này"
-    },
-    {
-      "id": "dieukien_dapung_dieu46",
-      "label": "ĐiềuKiện",
-      "name": "Đáp ứng điều kiện quy định tại Điều 46 của Luật này"
-    },
-    {
-      "id": "dieukien_thue_tralaimotlan",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp thuê đất, thuê lại đất trả tiền thuê đất một lần cho cả thời gian thuê"
-    },
-    {
-      "id": "dieukien_thue_tralaihangnam",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp thuê đất, thuê lại đất trả tiền thuê đất hằng năm"
-    },
-    {
-      "id": "dieukien_khongthuoc_khoan3_dieu37",
-      "label": "ĐiềuKiện",
-      "name": "Không thuộc trường hợp quy định tại khoản 3 Điều này"
-    },
-    {
-      "id": "khainiem_dieu26_luatdatdai",
-      "label": "KháiNiệm",
-      "name": "Điều 26 của Luật này"
-    },
-    {
-      "id": "khainiem_dieu31_luatdatdai",
-      "label": "KháiNiệm",
-      "name": "Điều 31 của Luật này"
-    },
-    {
-      "id": "khainiem_khoan1_dieu44_luatdatdai",
-      "label": "KháiNiệm",
-      "name": "khoản 1 Điều 44 của Luật này"
-    },
-    {
-      "id": "khainiem_dieu46_luatdatdai",
-      "label": "KháiNiệm",
-      "name": "Điều 46 của Luật này"
-    },
-    {
-      "id": "khainiem_khoan1_dieu37",
-      "label": "KháiNiệm",
-      "name": "khoản 1 Điều này"
-    },
-    {
-      "id": "khainiem_khoan2_dieu37",
-      "label": "KháiNiệm",
-      "name": "khoản 2 Điều này"
-    },
-    {
-      "id": "khainiem_khoan3_dieu37",
-      "label": "KháiNiệm",
-      "name": "khoản 3 Điều này"
-    },
-    {
-      "id": "khainiem_phapluat_dansu",
-      "label": "KháiNiệm",
-      "name": "pháp luật về dân sự"
+      "id": "dieukien_dieukien46",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện quy định tại Điều 46"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc"
+      "source_id": "dieu_37_2024",
+      "target_id": "chuthe_canhansudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_sd_dat_giao_cothutien"
+      "source_id": "dieu_37_2024",
+      "target_id": "khainiem_quyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_sd_dat_thue_motlan"
+      "source_id": "dieu_37_2024",
+      "target_id": "hanhviphaply_chuyendoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd"
+      "source_id": "dieu_37_2024",
+      "target_id": "hanhviphaply_chuyennhuongdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_sd_dat_nhanchuyendoi"
+      "source_id": "dieu_37_2024",
+      "target_id": "hanhviphaply_tangchodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_sd_dat_nhanchuyennhuong"
+      "source_id": "dieu_37_2024",
+      "target_id": "hanhviphaply_thuequyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_sd_dat_nhantangcho"
+      "source_id": "dieu_37_2024",
+      "target_id": "hanhviphaply_thechap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_sd_dat_nhanthuake"
+      "source_id": "dieu_37_2024",
+      "target_id": "hanhviphaply_gopvon",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31"
+      "source_id": "dieu_37_2024",
+      "target_id": "khainiem_tientaithuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31"
-    },
-    {
-      "source_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_dieu26_luatdatdai"
-    },
-    {
-      "source_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_dieu31_luatdatdai"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyendoi_quyen_sd_datnongnghiep"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyendoi_quyen_sd_datnongnghiep"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyendoi_quyen_sd_datnongnghiep"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyendoi_quyen_sd_datnongnghiep"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyendoi_quyen_sd_datnongnghiep"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyendoi_quyen_sd_datnongnghiep"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyendoi_quyen_sd_datnongnghiep"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyendoi_quyen_sd_datnongnghiep"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuong_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuong_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuong_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuong_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuong_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuong_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuong_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuong_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nguoithuake_thuocdieu44k1"
-    },
-    {
-      "source_id": "dieukien_nguoithuake_thuocdieu44k1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_duocnhan_thuake_quyen_sd_dat"
-    },
-    {
-      "source_id": "hanhviphaply_duocnhan_thuake_quyen_sd_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoithuake_nguoigocvietnam"
-    },
-    {
-      "source_id": "hanhviphaply_dethuake_quyen_sd_dat_taisanganlien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nguoithuake_khongthuocdieu44k1"
-    },
-    {
-      "source_id": "dieukien_nguoithuake_khongthuocdieu44k1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_duochuong_giatri_phanthuake"
-    },
-    {
-      "source_id": "hanhviphaply_duochuong_giatri_phanthuake",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoithuake_nguoigocvietnam"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_congdong"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_congdong"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_congdong"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_congdong"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_congdong"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_congdong"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_congdong"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_congdong"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhatinhnghia"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhatinhnghia"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhatinhnghia"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhatinhnghia"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhatinhnghia"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhatinhnghia"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhatinhnghia"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_nhatinhnghia"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_taisanganlien_canhan_nguoigocvietnam"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_taisanganlien_canhan_nguoigocvietnam"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_taisanganlien_canhan_nguoigocvietnam"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_taisanganlien_canhan_nguoigocvietnam"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_taisanganlien_canhan_nguoigocvietnam"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_taisanganlien_canhan_nguoigocvietnam"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_taisanganlien_canhan_nguoigocvietnam"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho_quyen_sd_dat_taisanganlien_canhan_nguoigocvietnam"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datnongnghiep_giao_hanmuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_giao_cothutien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_thue_motlan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_congnhan_quyen_sd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyendoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhantangcho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_dat_nhanthuake",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon_quyen_sd_dat_taisanganlien"
-    },
-    {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_thuedat_hangnam"
-    },
-    {
-      "source_id": "chuthe_canhan_thuedat_hangnam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_chung_dieu26_dieu31"
-    },
-    {
-      "source_id": "chuthe_canhan_thuedat_hangnam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_ban_taisanganlien_quyen_thue"
-    },
-    {
-      "source_id": "hanhviphaply_ban_taisanganlien_quyen_thue",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dapung_dieu46"
-    },
-    {
-      "source_id": "dieukien_dapung_dieu46",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_duoctieptuc_thuedat"
-    },
-    {
-      "source_id": "hanhviphaply_duoctieptuc_thuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoimua_taisanganlien_quyen_thue"
-    },
-    {
-      "source_id": "dieukien_dapung_dieu46",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_duockethua_quyenvanghiavu"
-    },
-    {
-      "source_id": "hanhviphaply_duockethua_quyenvanghiavu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoimua_taisanganlien_quyen_thue"
-    },
-    {
-      "source_id": "chuthe_canhan_thuedat_hangnam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dethuake_tangcho_taisanganlien_quyen_thue"
-    },
-    {
-      "source_id": "hanhviphaply_dethuake_tangcho_taisanganlien_quyen_thue",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_duocnhanuoc_tieptuc_chothuedat"
-    },
-    {
-      "source_id": "hanhviphaply_duocnhanuoc_tieptuc_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoinhan_thuake_tangcho_taisanganlien_quyen_thue"
-    },
-    {
-      "source_id": "chuthe_canhan_thuedat_hangnam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue_taisanganlien_quyen_thue"
-    },
-    {
-      "source_id": "chuthe_canhan_thuedat_hangnam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap_taisanganlien_datthue"
-    },
-    {
-      "source_id": "chuthe_canhan_thuedat_hangnam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon_taisanganlien_thoihanthue"
-    },
-    {
-      "source_id": "hanhviphaply_gopvon_taisanganlien_thoihanthue",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_duocnhanuoc_tieptuc_chothuedat_thoihanconlai"
-    },
-    {
-      "source_id": "hanhviphaply_duocnhanuoc_tieptuc_chothuedat_thoihanconlai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoinhan_gopvon_taisanganlien"
-    },
-    {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_thuelai_dat_kcn"
-    },
-    {
-      "source_id": "chuthe_canhan_thuelai_dat_kcn",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_coquyenvanghiavu_khoan1"
-    },
-    {
-      "source_id": "hanhviphaply_coquyenvanghiavu_khoan1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thue_tralaimotlan"
-    },
-    {
-      "source_id": "hanhviphaply_coquyenvanghiavu_khoan1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_khoan1_dieu37"
-    },
-    {
-      "source_id": "chuthe_canhan_thuelai_dat_kcn",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_coquyenvanghiavu_khoan2"
-    },
-    {
-      "source_id": "hanhviphaply_coquyenvanghiavu_khoan2",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thue_tralaihangnam"
-    },
-    {
-      "source_id": "hanhviphaply_coquyenvanghiavu_khoan2",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_khoan2_dieu37"
-    },
-    {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_duocmiengiam_tiensd_tienthue"
-    },
-    {
-      "source_id": "chuthe_canhan_duocmiengiam_tiensd_tienthue",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_nhukhongmiengiam"
-    },
-    {
-      "source_id": "dieu_37",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_canhan_sd_datthue_khongkhoan3"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datthue_khongkhoan3",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongthuoc_khoan3_dieu37"
-    },
-    {
-      "source_id": "chuthe_canhan_sd_datthue_khongkhoan3",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyenvanghiavu_theopldansu"
-    },
-    {
-      "source_id": "hanhviphaply_quyenvanghiavu_theopldansu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_phapluat_dansu"
-    },
-    {
-      "source_id": "dieukien_khongthuoc_khoan3_dieu37",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_khoan3_dieu37"
+      "source_id": "dieu_37_2024",
+      "target_id": "dieukien_dieukien46",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

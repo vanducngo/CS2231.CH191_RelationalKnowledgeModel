@@ -1,426 +1,160 @@
 {
   "entities": [
     {
-      "id": "dieu_102",
-      "label": "ĐiềuLuật",
-      "name": "Điều 102"
+      "id": "dieu_102_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 102. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền\nvới đất cho tổ chức, cơ sở tôn giáo đang sử dụng đất",
+        "ma_dieu": "102",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 102.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền\nvới đất cho tổ chức, cơ sở tôn giáo đang sử dụng đất\n1. Tổ chức đang sử dụng đất được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài\nsản khác gắn liền với đất đối với phần diện tích đất sử dụng đúng mục đích.\n2. Phần diện tích đất mà tổ chức đang sử dụng nhưng không được cấp Giấy chứng nhận quyền sử dụng\nđất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất được giải quyết như sau:\na) Nhà nước thu hồi phần diện tích đất không sử dụng, sử dụng không đúng mục đích, cho mượn, cho\nthuê trái pháp luật, diện tích đất để bị lấn, bị chiếm;\nb) Tổ chức phải bàn giao phần diện tích đã sử dụng làm đất ở cho Ủy ban nhân dân cấp huyện để quản\nlý; trường hợp đất ở phù hợp với quy hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền\nphê duyệt thì người sử dụng đất ở được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở\nvà tài sản khác gắn liền với đất; trường hợp doanh nghiệp nhà nước sản xuất nông nghiệp, lâm nghiệp,\nnuôi trồng thủy sản, làm muối đã được Nhà nước giao đất mà doanh nghiệp đó cho hộ gia đình, cá\nnhân sử dụng một phần quỹ đất làm đất ở trước ngày 01 tháng 7 năm 2004 thì phải lập phương án bố\ntrí lại diện tích đất ở thành khu dân cư trình Ủy ban nhân dân cấp tỉnh nơi có đất phê duyệt trước khi\nbàn giao cho địa phương quản lý.\n3. Đối với tổ chức đang sử dụng đất thuộc trường hợp Nhà nước cho thuê đất quy định tại  Điều 56 của\nLuật này  thì cơ quan quản lý đất đai cấp tỉnh làm thủ tục ký hợp đồng thuê đất trước khi cấp Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất. about:blank\n. Cơ sở tôn giáo đang sử dụng đất được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà\nở và tài sản khác gắn liền với đất khi có đủ các điều kiện sau đây:\na) Được Nhà nước cho phép hoạt động;\nb) Không có tranh chấp;\nc) Không phải là đất nhận chuyển nhượng, nhận tặng cho sau ngày 01 tháng 7 năm 2004.\n5. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "dieu_56",
-      "label": "ĐiềuLuật",
-      "name": "Điều 56"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      "id": "chuthe_cosotongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ sở tôn giáo"
+      }
     },
     {
-      "id": "khainiem_dat_o",
-      "label": "KháiNiệm",
-      "name": "Đất ở"
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
     },
     {
-      "id": "khainiem_quy_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch sử dụng đất"
+      "id": "dieukien_khongcotranhchap",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không có tranh chấp"
+      }
     },
     {
-      "id": "khainiem_khu_dan_cu",
-      "label": "KháiNiệm",
-      "name": "Khu dân cư"
+      "id": "dieukien_khongnhanchuyennhuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không phải là đất nhận chuyển nhượng, nhận tặng cho sau ngày 01 tháng 7 năm 2004"
+      }
     },
     {
-      "id": "khainiem_phuong_an_bo_tri_lai_dat_o",
-      "label": "KháiNiệm",
-      "name": "Phương án bố trí lại diện tích đất ở"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khainiem_hop_dong_thue_dat",
-      "label": "KháiNiệm",
-      "name": "Hợp đồng thuê đất"
+      "id": "chuthe_uybanndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "Tổ chức"
+      "id": "chuthe_doanhnghiepnhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp nhà nước"
+      }
     },
     {
-      "id": "chuthe_co_so_ton_giao",
-      "label": "ChủThể",
-      "name": "Cơ sở tôn giáo"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
+      "id": "chuthe_coquanquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan quản lý đất đai cấp tỉnh"
+      }
     },
     {
-      "id": "chuthe_nguoi_su_dung_dat_o",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất ở"
-    },
-    {
-      "id": "chuthe_doanh_nghiep_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Doanh nghiệp nhà nước"
-    },
-    {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "Hộ gia đình"
-    },
-    {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "chuthe_co_quan_quan_ly_dat_dai_cap_tinh",
-      "label": "ChủThể",
-      "name": "Cơ quan quản lý đất đai cấp tỉnh"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhvipaply_cap_giay_chung_nhan",
-      "label": "HànhViPhápLý",
-      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
-    },
-    {
-      "id": "hanhvipaply_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Thu hồi đất"
-    },
-    {
-      "id": "hanhvipaply_ban_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "Bàn giao đất"
-    },
-    {
-      "id": "hanhvipaply_quan_ly_dat",
-      "label": "HànhViPhápLý",
-      "name": "Quản lý đất"
-    },
-    {
-      "id": "hanhvipaply_phe_duyet_quy_hoach",
-      "label": "HànhViPhápLý",
-      "name": "Phê duyệt quy hoạch"
-    },
-    {
-      "id": "hanhvipaply_lap_phuong_an_bo_tri_lai",
-      "label": "HànhViPhápLý",
-      "name": "Lập phương án bố trí lại"
-    },
-    {
-      "id": "hanhvipaply_phe_duyet_phuong_an",
-      "label": "HànhViPhápLý",
-      "name": "Phê duyệt phương án"
-    },
-    {
-      "id": "hanhvipaply_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất"
-    },
-    {
-      "id": "hanhvipaply_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê đất"
-    },
-    {
-      "id": "hanhvipaply_ky_hop_dong_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "Ký hợp đồng thuê đất"
-    },
-    {
-      "id": "hanhvipaply_cho_phep_hoat_dong",
-      "label": "HànhViPhápLý",
-      "name": "Cho phép hoạt động"
-    },
-    {
-      "id": "hanhvipaply_nhan_chuyen_nhuong_tang_cho",
-      "label": "HànhViPhápLý",
-      "name": "Nhận chuyển nhượng, nhận tặng cho"
-    },
-    {
-      "id": "hanhvipaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "Quy định chi tiết"
-    },
-    {
-      "id": "dieu_kien_su_dung_dung_muc_dich",
-      "label": "ĐiềuKiện",
-      "name": "Sử dụng đúng mục đích"
-    },
-    {
-      "id": "dieu_kien_khong_su_dung",
-      "label": "ĐiềuKiện",
-      "name": "Không sử dụng"
-    },
-    {
-      "id": "dieu_kien_su_dung_khong_dung_muc_dich",
-      "label": "ĐiềuKiện",
-      "name": "Sử dụng không đúng mục đích"
-    },
-    {
-      "id": "dieu_kien_cho_muon_trai_phap_luat",
-      "label": "ĐiềuKiện",
-      "name": "Cho mượn trái pháp luật"
-    },
-    {
-      "id": "dieu_kien_cho_thue_trai_phap_luat",
-      "label": "ĐiềuKiện",
-      "name": "Cho thuê trái pháp luật"
-    },
-    {
-      "id": "dieu_kien_dat_bi_lan_chiem",
-      "label": "ĐiềuKiện",
-      "name": "Đất bị lấn, bị chiếm"
-    },
-    {
-      "id": "dieu_kien_dat_o_phu_hop_quy_hoach",
-      "label": "ĐiềuKiện",
-      "name": "Đất ở phù hợp với quy hoạch sử dụng đất"
-    },
-    {
-      "id": "dieu_kien_su_dung_dat_o_truoc_01_07_2004",
-      "label": "ĐiềuKiện",
-      "name": "Sử dụng đất ở trước ngày 01 tháng 7 năm 2004"
-    },
-    {
-      "id": "dieu_kien_nha_nuoc_cho_thue_dat",
-      "label": "ĐiềuKiện",
-      "name": "Nhà nước cho thuê đất"
-    },
-    {
-      "id": "dieu_kien_duoc_nha_nuoc_cho_phep_hoat_dong",
-      "label": "ĐiềuKiện",
-      "name": "Được Nhà nước cho phép hoạt động"
-    },
-    {
-      "id": "dieu_kien_khong_co_tranh_chap",
-      "label": "ĐiềuKiện",
-      "name": "Không có tranh chấp"
-    },
-    {
-      "id": "dieu_kien_khong_phai_dat_nhan_chuyen_nhuong_tang_cho_sau_01_07_2004",
-      "label": "ĐiềuKiện",
-      "name": "Không phải là đất nhận chuyển nhượng, nhận tặng cho sau ngày 01 tháng 7 năm 2004"
+      "id": "dieukien_duocnhanuocchophep",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Được Nhà nước cho phép hoạt động"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_102",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_cap_giay_chung_nhan"
+      "source_id": "dieu_102_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_cap_giay_chung_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
+      "source_id": "dieu_102_2013",
+      "target_id": "chuthe_cosotongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_cap_giay_chung_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_co_so_ton_giao"
+      "source_id": "dieu_102_2013",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_su_dung_dung_muc_dich"
+      "source_id": "dieu_102_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_thu_hoi_dat"
+      "source_id": "dieu_102_2013",
+      "target_id": "chuthe_uybanndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_khong_su_dung"
+      "source_id": "dieu_102_2013",
+      "target_id": "chuthe_doanhnghiepnhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_su_dung_khong_dung_muc_dich"
+      "source_id": "dieu_102_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_cho_muon_trai_phap_luat"
+      "source_id": "dieu_102_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_cho_thue_trai_phap_luat"
+      "source_id": "dieu_102_2013",
+      "target_id": "chuthe_coquanquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_dat_bi_lan_chiem"
+      "source_id": "dieu_102_2013",
+      "target_id": "dieukien_duocnhanuocchophep",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_to_chuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_ban_giao_dat"
+      "source_id": "dieu_102_2013",
+      "target_id": "dieukien_khongcotranhchap",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhvipaply_ban_giao_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_quan_ly_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "hanhvipaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_dat_o_phu_hop_quy_hoach"
-    },
-    {
-      "source_id": "dieu_kien_dat_o_phu_hop_quy_hoach",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quy_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_phe_duyet_quy_hoach"
-    },
-    {
-      "source_id": "hanhvipaply_phe_duyet_quy_hoach",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quy_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_doanh_nghiep_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_lap_phuong_an_bo_tri_lai"
-    },
-    {
-      "source_id": "hanhvipaply_lap_phuong_an_bo_tri_lai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_su_dung_dat_o_truoc_01_07_2004"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_giao_dat"
-    },
-    {
-      "source_id": "hanhvipaply_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_nha_nuoc"
-    },
-    {
-      "source_id": "chuthe_doanh_nghiep_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
-    },
-    {
-      "source_id": "chuthe_doanh_nghiep_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvipaply_lap_phuong_an_bo_tri_lai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_phuong_an_bo_tri_lai_dat_o"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_phe_duyet_phuong_an"
-    },
-    {
-      "source_id": "hanhvipaply_phe_duyet_phuong_an",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phuong_an_bo_tri_lai_dat_o"
-    },
-    {
-      "source_id": "chuthe_doanh_nghiep_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_to_chuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_nha_nuoc_cho_thue_dat"
-    },
-    {
-      "source_id": "dieu_kien_nha_nuoc_cho_thue_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_56"
-    },
-    {
-      "source_id": "chuthe_co_quan_quan_ly_dat_dai_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_ky_hop_dong_thue_dat"
-    },
-    {
-      "source_id": "hanhvipaply_ky_hop_dong_thue_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_hop_dong_thue_dat"
-    },
-    {
-      "source_id": "hanhvipaply_ky_hop_dong_thue_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "chuthe_co_so_ton_giao",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "hanhvipaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_duoc_nha_nuoc_cho_phep_hoat_dong"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_cho_phep_hoat_dong"
-    },
-    {
-      "source_id": "hanhvipaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_khong_co_tranh_chap"
-    },
-    {
-      "source_id": "hanhvipaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_khong_phai_dat_nhan_chuyen_nhuong_tang_cho_sau_01_07_2004"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhvipaply_quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_102"
+      "source_id": "dieu_102_2013",
+      "target_id": "dieukien_khongnhanchuyennhuong",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

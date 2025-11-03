@@ -1,591 +1,124 @@
 {
   "entities": [
     {
-      "id": "dieu_201",
-      "label": "ĐiềuLuật",
-      "name": "Điều 201"
+      "id": "dieu_201_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 201. Sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế",
+        "ma_dieu": "201",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 201.\n\nSử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng\nkinh tế\n1. Việc sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế\nđược áp dụng cho các đối tượng sau đây:\na) Đơn vị quân đội, đơn vị công an, đơn vị sự nghiệp công lập thuộc Quân đội nhân dân, Công an nhân\ndân;\nb) Doanh nghiệp nhà nước do Bộ Quốc phòng, Bộ Công an được giao quản lý.\n2. Đối với đất quốc phòng, an ninh hiện do các đối tượng quy định tại khoản 1 Điều này quản lý, sử\ndụng khi kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế gắn với nhiệm vụ quân sự, quốc\nphòng, an ninh thì phải lập phương án sử dụng đất trình Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ\nCông an xem xét, phê duyệt và phải nộp tiền sử dụng đất hằng năm.\nTrường hợp sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh\ntế để tổ chức giáo dục; lao động, cải tạo, hướng nghiệp, dạy nghề cho phạm nhân; rèn luyện, tăng gia\nsản xuất cải thiện đời sống; dịch vụ hỗ trợ hậu cần - kỹ thuật thì không phải nộp tiền sử dụng đất.\n3. Quyền và nghĩa vụ của đối tượng quy định tại khoản 1 Điều này khi sử dụng đất quốc phòng, an\nninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế được quy định như sau:\na) Được tổ chức sản xuất, kinh doanh theo phương án đã được Bộ trưởng Bộ Quốc phòng, Bộ trưởng\nBộ Công an phê duyệt;\nb) Được hưởng thành quả lao động, kết quả đầu tư trên đất và các lợi ích khác theo quy định của pháp\nluật;\nc) Không được bồi thường về đất và tài sản gắn liền với đất khi chấm dứt phương án sử dụng đất\nquốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế để phục vụ nhiệm vụ\nquân sự, quốc phòng, an ninh;\nd) Không được chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất;\nđ) Không được thế chấp, góp vốn bằng quyền sử dụng đất; about:blank\ne) Không được tự ý chuyển mục đích sử dụng đất;\ng) Đối tượng quy định tại điểm a khoản 1 Điều này không được chuyển nhượng, cho thuê, tặng cho, thế\nchấp, góp vốn bằng tài sản gắn liền với đất;\nh) Đối tượng quy định tại điểm b khoản 1 Điều này được cho thuê, thế chấp, góp vốn bằng tài sản gắn\nliền với đất theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt; trường\nhợp mua, bán tài sản gắn liền với đất, xử lý tài sản thế chấp, tài sản góp vốn thì chỉ được thực hiện\ntrong nội bộ giữa các đối tượng quy định tại khoản 1 Điều này theo phương án được Bộ trưởng Bộ\nQuốc phòng, Bộ trưởng Bộ Công an phê duyệt;\ni) Thực hiện đầy đủ nghĩa vụ tài chính theo quy định.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế"
+      "id": "chuthe_donviquandoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị quân đội"
+      }
     },
     {
-      "id": "chuthe_donvi_quandoi",
-      "label": "ChủThể",
-      "name": "Đơn vị quân đội"
+      "id": "chuthe_donvicongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị công an"
+      }
     },
     {
-      "id": "chuthe_donvi_congan",
-      "label": "ChủThể",
-      "name": "Đơn vị công an"
+      "id": "chuthe_donvisunghiepclap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
     },
     {
-      "id": "chuthe_donvi_sung_cl_thuoc_quandoi_nhandan",
-      "label": "ChủThể",
-      "name": "Đơn vị sự nghiệp công lập thuộc Quân đội nhân dân"
+      "id": "chuthe_doanhnghiepnhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp nhà nước"
+      }
     },
     {
-      "id": "chuthe_donvi_sung_cl_thuoc_congan_nhandan",
-      "label": "ChủThể",
-      "name": "Đơn vị sự nghiệp công lập thuộc Công an nhân dân"
+      "id": "khainiem_datsudungquocphonganninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất quốc phòng, an ninh"
+      }
     },
     {
-      "id": "chuthe_doanhnghiep_nn_do_bqp_bca_quanly",
-      "label": "ChủThể",
-      "name": "Doanh nghiệp nhà nước do Bộ Quốc phòng, Bộ Công an được giao quản lý"
+      "id": "hanhviphaply_lapphuongansudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập phương án sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_cac_doituong_khoan_1",
-      "label": "ChủThể",
-      "name": "Các đối tượng quy định tại khoản 1 Điều này"
+      "id": "hanhviphaply_noptiensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nộp tiền sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_dat_quocphong_anninh",
-      "label": "KháiNiệm",
-      "name": "Đất quốc phòng, an ninh"
+      "id": "dieukien_phuonganboquocphongpheduyet",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phương án được Bộ Quốc phòng phê duyệt"
+      }
     },
     {
-      "id": "dieukien_ket_hop_ldsx_xdkt_gan_nhiemvu_qs_qp_an",
-      "label": "ĐiềuKiện",
-      "name": "Kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế gắn với nhiệm vụ quân sự, quốc phòng, an ninh"
-    },
-    {
-      "id": "hanhviphaply_lap_phuong_an_sudungdat",
-      "label": "HànhViPhápLý",
-      "name": "Lập phương án sử dụng đất"
-    },
-    {
-      "id": "chuthe_botruong_bo_quocphong",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Quốc phòng"
-    },
-    {
-      "id": "chuthe_botruong_bo_congan",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Công an"
-    },
-    {
-      "id": "hanhviphaply_xemxet_pheduyet_phuong_an_sudungdat",
-      "label": "HànhViPhápLý",
-      "name": "Xem xét, phê duyệt phương án sử dụng đất"
-    },
-    {
-      "id": "chetat_nop_tien_sudungdat_hangnam",
-      "label": "ChếTài",
-      "name": "Nộp tiền sử dụng đất hằng năm"
-    },
-    {
-      "id": "khainiem_tochuc_giaoduc",
-      "label": "KháiNiệm",
-      "name": "Tổ chức giáo dục"
-    },
-    {
-      "id": "khainiem_laodong_caitao_huongnghiep_daynghe_phamnhan",
-      "label": "KháiNiệm",
-      "name": "Lao động, cải tạo, hướng nghiệp, dạy nghề cho phạm nhân"
-    },
-    {
-      "id": "khainiem_renluyen_tang_gia_sanxuat_caitien_doisong",
-      "label": "KháiNiệm",
-      "name": "Rèn luyện, tăng gia sản xuất cải thiện đời sống"
-    },
-    {
-      "id": "khainiem_dichvu_hotro_haucan_kythuat",
-      "label": "KháiNiệm",
-      "name": "Dịch vụ hỗ trợ hậu cần - kỹ thuật"
-    },
-    {
-      "id": "chetat_khong_phai_nop_tien_sudungdat",
-      "label": "ChếTài",
-      "name": "Không phải nộp tiền sử dụng đất"
-    },
-    {
-      "id": "khainiem_quyen_va_nghia_vu_sudungdat",
-      "label": "KháiNiệm",
-      "name": "Quyền và nghĩa vụ của đối tượng sử dụng đất quốc phòng, an ninh kết hợp kinh tế"
-    },
-    {
-      "id": "hanhviphaply_tochuc_sanxuat_kinhdoanh_theo_phuongan",
-      "label": "HànhViPhápLý",
-      "name": "Tổ chức sản xuất, kinh doanh theo phương án đã được phê duyệt"
-    },
-    {
-      "id": "dieukien_theo_phuongan_da_duoc_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "Theo phương án đã được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt"
-    },
-    {
-      "id": "hanhviphaply_huong_thanhqua_laodong_ketqua_dautu_tren_dat",
-      "label": "HànhViPhápLý",
-      "name": "Được hưởng thành quả lao động, kết quả đầu tư trên đất"
-    },
-    {
-      "id": "hanhviphaply_huong_cac_loiich_khac_theo_quydinh_phapluat",
-      "label": "HànhViPhápLý",
-      "name": "Được hưởng các lợi ích khác theo quy định của pháp luật"
-    },
-    {
-      "id": "chetat_khong_duoc_boi_thuong_ve_dat_va_taisanganlien_voi_dat",
-      "label": "ChếTài",
-      "name": "Không được bồi thường về đất và tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_cham_dut_phuong_an_sudungdat",
-      "label": "HànhViPhápLý",
-      "name": "Chấm dứt phương án sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế"
-    },
-    {
-      "id": "dieukien_phuc_vu_nhiemvu_quansu_quocphong_anninh",
-      "label": "ĐiềuKiện",
-      "name": "Phục vụ nhiệm vụ quân sự, quốc phòng, an ninh"
-    },
-    {
-      "id": "chetat_khong_duoc_chuyen_nhuong_quyen_sudungdat",
-      "label": "ChếTài",
-      "name": "Không được chuyển nhượng quyền sử dụng đất"
-    },
-    {
-      "id": "chetat_khong_duoc_tang_cho_quyen_sudungdat",
-      "label": "ChếTài",
-      "name": "Không được tặng cho quyền sử dụng đất"
-    },
-    {
-      "id": "chetat_khong_duoc_cho_thue_quyen_sudungdat",
-      "label": "ChếTài",
-      "name": "Không được cho thuê quyền sử dụng đất"
-    },
-    {
-      "id": "chetat_khong_duoc_the_chap_quyen_sudungdat",
-      "label": "ChếTài",
-      "name": "Không được thế chấp quyền sử dụng đất"
-    },
-    {
-      "id": "chetat_khong_duoc_gop_von_bang_quyen_sudungdat",
-      "label": "ChếTài",
-      "name": "Không được góp vốn bằng quyền sử dụng đất"
-    },
-    {
-      "id": "chetat_khong_duoc_tu_y_chuyen_mucdich_sudungdat",
-      "label": "ChếTài",
-      "name": "Không được tự ý chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "label": "ChủThể",
-      "name": "Đối tượng quy định tại điểm a khoản 1 Điều này"
-    },
-    {
-      "id": "chetat_khong_duoc_chuyen_nhuong_taisanganlien_voi_dat",
-      "label": "ChếTài",
-      "name": "Không được chuyển nhượng tài sản gắn liền với đất"
-    },
-    {
-      "id": "chetat_khong_duoc_cho_thue_taisanganlien_voi_dat",
-      "label": "ChếTài",
-      "name": "Không được cho thuê tài sản gắn liền với đất"
-    },
-    {
-      "id": "chetat_khong_duoc_tang_cho_taisanganlien_voi_dat",
-      "label": "ChếTài",
-      "name": "Không được tặng cho tài sản gắn liền với đất"
-    },
-    {
-      "id": "chetat_khong_duoc_the_chap_taisanganlien_voi_dat",
-      "label": "ChếTài",
-      "name": "Không được thế chấp tài sản gắn liền với đất"
-    },
-    {
-      "id": "chetat_khong_duoc_gop_von_bang_taisanganlien_voi_dat",
-      "label": "ChếTài",
-      "name": "Không được góp vốn bằng tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_duoc_cho_thue_taisanganlien_voi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Được cho thuê tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_duoc_the_chap_taisanganlien_voi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Được thế chấp tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_duoc_gop_von_bang_taisanganlien_voi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Được góp vốn bằng tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_mua_ban_taisanganlien_voi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Mua, bán tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_xuly_taisanganlien_thechap",
-      "label": "HànhViPhápLý",
-      "name": "Xử lý tài sản thế chấp"
-    },
-    {
-      "id": "hanhviphaply_xuly_taisanganlien_gopvon",
-      "label": "HànhViPhápLý",
-      "name": "Xử lý tài sản góp vốn"
-    },
-    {
-      "id": "dieukien_chi_duoc_thuc_hien_trong_noi_bo_doituong_khoan_1",
-      "label": "ĐiềuKiện",
-      "name": "Chỉ được thực hiện trong nội bộ giữa các đối tượng quy định tại khoản 1 Điều này"
-    },
-    {
-      "id": "chetat_thuc_hien_day_du_nghiavu_taichinh",
-      "label": "ChếTài",
-      "name": "Thực hiện đầy đủ nghĩa vụ tài chính"
-    },
-    {
-      "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet_dieu_nay",
-      "label": "HànhViPhápLý",
-      "name": "Quy định chi tiết Điều này"
+      "id": "dieukien_phuonganboconganpheduyet",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phương án được Bộ Công an phê duyệt"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_201",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte"
+      "source_id": "dieu_201_2024",
+      "target_id": "chuthe_donviquandoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvi_quandoi"
+      "source_id": "dieu_201_2024",
+      "target_id": "chuthe_donvicongan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvi_congan"
+      "source_id": "dieu_201_2024",
+      "target_id": "chuthe_donvisunghiepclap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvi_sung_cl_thuoc_quandoi_nhandan"
+      "source_id": "dieu_201_2024",
+      "target_id": "chuthe_doanhnghiepnhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvi_sung_cl_thuoc_congan_nhandan"
+      "source_id": "dieu_201_2024",
+      "target_id": "khainiem_datsudungquocphonganninh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanhnghiep_nn_do_bqp_bca_quanly"
+      "source_id": "dieu_201_2024",
+      "target_id": "hanhviphaply_lapphuongansudungdat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_donvi_quandoi"
+      "source_id": "dieu_201_2024",
+      "target_id": "hanhviphaply_noptiensudungdat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_donvi_congan"
+      "source_id": "dieu_201_2024",
+      "target_id": "dieukien_phuonganboquocphongpheduyet",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_donvi_sung_cl_thuoc_quandoi_nhandan"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_donvi_sung_cl_thuoc_congan_nhandan"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_doanhnghiep_nn_do_bqp_bca_quanly"
-    },
-    {
-      "source_id": "dieu_201",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_quocphong_anninh"
-    },
-    {
-      "source_id": "khainiem_dat_quocphong_anninh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_lap_phuong_an_sudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ket_hop_ldsx_xdkt_gan_nhiemvu_qs_qp_an"
-    },
-    {
-      "source_id": "hanhviphaply_lap_phuong_an_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_xemxet_pheduyet_phuong_an_sudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_xemxet_pheduyet_phuong_an_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_botruong_bo_quocphong"
-    },
-    {
-      "source_id": "hanhviphaply_xemxet_pheduyet_phuong_an_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_botruong_bo_congan"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_nop_tien_sudungdat_hangnam"
-    },
-    {
-      "source_id": "chetat_nop_tien_sudungdat_hangnam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ket_hop_ldsx_xdkt_gan_nhiemvu_qs_qp_an"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat_quocphong_anninh_kethop_laodong_sanxuat_xaydung_kinhte",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_phai_nop_tien_sudungdat"
-    },
-    {
-      "source_id": "chetat_khong_phai_nop_tien_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_tochuc_giaoduc"
-    },
-    {
-      "source_id": "chetat_khong_phai_nop_tien_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_laodong_caitao_huongnghiep_daynghe_phamnhan"
-    },
-    {
-      "source_id": "chetat_khong_phai_nop_tien_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_renluyen_tang_gia_sanxuat_caitien_doisong"
-    },
-    {
-      "source_id": "chetat_khong_phai_nop_tien_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_dichvu_hotro_haucan_kythuat"
-    },
-    {
-      "source_id": "dieu_201",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyen_va_nghia_vu_sudungdat"
-    },
-    {
-      "source_id": "khainiem_quyen_va_nghia_vu_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cac_doituong_khoan_1"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tochuc_sanxuat_kinhdoanh_theo_phuongan"
-    },
-    {
-      "source_id": "hanhviphaply_tochuc_sanxuat_kinhdoanh_theo_phuongan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_phuongan_da_duoc_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_huong_thanhqua_laodong_ketqua_dautu_tren_dat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_huong_cac_loiich_khac_theo_quydinh_phapluat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_boi_thuong_ve_dat_va_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "chetat_khong_duoc_boi_thuong_ve_dat_va_taisanganlien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cham_dut_phuong_an_sudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_cham_dut_phuong_an_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuc_vu_nhiemvu_quansu_quocphong_anninh"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_chuyen_nhuong_quyen_sudungdat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_tang_cho_quyen_sudungdat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_cho_thue_quyen_sudungdat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_the_chap_quyen_sudungdat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_gop_von_bang_quyen_sudungdat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_tu_y_chuyen_mucdich_sudungdat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_donvi_quandoi"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_donvi_congan"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_donvi_sung_cl_thuoc_quandoi_nhandan"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_donvi_sung_cl_thuoc_congan_nhandan"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_chuyen_nhuong_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_cho_thue_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_tang_cho_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_the_chap_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_diem_a_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_khong_duoc_gop_von_bang_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "chuthe_doanhnghiep_nn_do_bqp_bca_quanly",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_duoc_cho_thue_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_duoc_cho_thue_taisanganlien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_phuongan_da_duoc_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_doanhnghiep_nn_do_bqp_bca_quanly",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_duoc_the_chap_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_duoc_the_chap_taisanganlien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_phuongan_da_duoc_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_doanhnghiep_nn_do_bqp_bca_quanly",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_duoc_gop_von_bang_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_duoc_gop_von_bang_taisanganlien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_phuongan_da_duoc_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_doanhnghiep_nn_do_bqp_bca_quanly",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_mua_ban_taisanganlien_voi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_mua_ban_taisanganlien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chi_duoc_thuc_hien_trong_noi_bo_doituong_khoan_1"
-    },
-    {
-      "source_id": "hanhviphaply_mua_ban_taisanganlien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_phuongan_da_duoc_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_doanhnghiep_nn_do_bqp_bca_quanly",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xuly_taisanganlien_thechap"
-    },
-    {
-      "source_id": "hanhviphaply_xuly_taisanganlien_thechap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chi_duoc_thuc_hien_trong_noi_bo_doituong_khoan_1"
-    },
-    {
-      "source_id": "hanhviphaply_xuly_taisanganlien_thechap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_phuongan_da_duoc_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_doanhnghiep_nn_do_bqp_bca_quanly",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xuly_taisanganlien_gopvon"
-    },
-    {
-      "source_id": "hanhviphaply_xuly_taisanganlien_gopvon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chi_duoc_thuc_hien_trong_noi_bo_doituong_khoan_1"
-    },
-    {
-      "source_id": "hanhviphaply_xuly_taisanganlien_gopvon",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_phuongan_da_duoc_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_cac_doituong_khoan_1",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetat_thuc_hien_day_du_nghiavu_taichinh"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet_dieu_nay"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet_dieu_nay",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_201"
+      "source_id": "dieu_201_2024",
+      "target_id": "dieukien_phuonganboconganpheduyet",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

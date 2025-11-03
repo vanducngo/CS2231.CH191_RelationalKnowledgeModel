@@ -1,316 +1,178 @@
 {
   "entities": [
     {
-      "id": "dieu_73",
-      "label": "ĐiềuLuật",
-      "name": "Điều 73"
+      "id": "dieu_73_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 73. Sử dụng đất thông qua hình thức nhận chuyển nhượng, thuê quyền sử dụng đất, nhận góp vốn bằng quyền sử dụng đất để sản xuất, kinh doanh",
+        "ma_dieu": "73",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 73.\n\nSử dụng đất thông qua hình thức nhận chuyển nhượng, thuê quyền sử dụng đất, nhận\ngóp vốn bằng quyền sử dụng đất để sản xuất, kinh doanh\n1. Việc sử dụng đất để thực hiện dự án, công trình sản xuất, kinh doanh không thuộc trường hợp Nhà\nnước thu hồi đất quy định tại  Điều 61 và Điều 62 của Luật này  mà phù hợp với quy hoạch, kế hoạch sử\ndụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt thì chủ đầu tư được nhận chuyển\nnhượng, thuê quyền sử dụng đất, nhận góp vốn bằng quyền sử dụng đất theo quy định của pháp luật.\n2. Nhà nước có chính sách khuyến khích việc thuê quyền sử dụng đất, nhận góp vốn bằng quyền sử\ndụng đất của tổ chức kinh tế, hộ gia đình, cá nhân để thực hiện dự án, công trình sản xuất, kinh doanh.\n3. Chính phủ quy định chi tiết Điều này .\nMỤC 2. BỒI THƯỜNG VỀ ĐẤT , HỖ TRỢ VÀ TÁI ĐỊNH CƯ"
+      }
     },
     {
-      "id": "khaikiem_sudungdat",
-      "label": "KháiNiệm",
-      "name": "Sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_nhanchuyennhuongquyensudungdat",
-      "label": "HànhViPhápLý",
-      "name": "nhận chuyển nhượng quyền sử dụng đất"
+      "id": "hanhviphaply_nhanchuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển nhượng"
+      }
     },
     {
       "id": "hanhviphaply_thuequyensudungdat",
-      "label": "HànhViPhápLý",
-      "name": "thuê quyền sử dụng đất"
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê quyền sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "label": "HànhViPhápLý",
-      "name": "nhận góp vốn bằng quyền sử dụng đất"
+      "id": "hanhviphaply_nhangopvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận góp vốn"
+      }
     },
     {
-      "id": "khaikiem_sanxuatkinhdoanh",
-      "label": "KháiNiệm",
-      "name": "sản xuất, kinh doanh"
-    },
-    {
-      "id": "khaikiem_duancongtrinhsanxuatkinhdoanh",
-      "label": "KháiNiệm",
-      "name": "dự án, công trình sản xuất, kinh doanh"
-    },
-    {
-      "id": "hanhviphaply_nhanuocthuhoithoi",
-      "label": "HànhViPhápLý",
-      "name": "Nhà nước thu hồi đất"
-    },
-    {
-      "id": "dieu_61",
-      "label": "ĐiềuLuật",
-      "name": "Điều 61"
-    },
-    {
-      "id": "dieu_62",
-      "label": "ĐiềuLuật",
-      "name": "Điều 62"
-    },
-    {
-      "id": "khaikiem_quyhoachkehoachsudungdat",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "chuthe_coquannhanuoc",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
+      "id": "khainiem_quyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền sử dụng đất"
+      }
     },
     {
       "id": "chuthe_chudautu",
-      "label": "ChủThể",
-      "name": "chủ đầu tư"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ đầu tư"
+      }
     },
     {
-      "id": "khaikiem_quydinhcuapapluat",
-      "label": "KháiNiệm",
-      "name": "quy định của pháp luật"
+      "id": "khainiem_duan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án"
+      }
+    },
+    {
+      "id": "khainiem_congtrinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công trình"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khaikiem_chinhsachkhuyenkhich",
-      "label": "KháiNiệm",
-      "name": "chính sách khuyến khích"
+      "id": "dieu_61_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 61",
+        "ma_dieu": "61",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 61 của Luật này"
+      }
     },
     {
-      "id": "chuthe_tochuckinhte",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế"
+      "id": "dieu_62_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 62",
+        "ma_dieu": "62",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 62 của Luật này"
+      }
+    },
+    {
+      "id": "chuthe_tochickinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     },
     {
       "id": "chuthe_hogiadinh",
-      "label": "ChủThể",
-      "name": "hộ gia đình"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
       "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
-    },
-    {
-      "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "dieukien_khongthuoctruonghopnhanuocthuhoithoi",
-      "label": "ĐiềuKiện",
-      "name": "không thuộc trường hợp Nhà nước thu hồi đất"
-    },
-    {
-      "id": "dieukien_phuhopquyhoachkehoachsudungdat",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quy hoạch, kế hoạch sử dụng đất"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_73",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_sudungdat"
+      "source_id": "dieu_73_2013",
+      "target_id": "hanhviphaply_nhanchuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_nhanchuyennhuongquyensudungdat"
+      "source_id": "dieu_73_2013",
+      "target_id": "hanhviphaply_thuequyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thuequyensudungdat"
+      "source_id": "dieu_73_2013",
+      "target_id": "hanhviphaply_nhangopvon",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_nhangopvonbangquyensudungdat"
+      "source_id": "dieu_73_2013",
+      "target_id": "khainiem_quyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_nhanchuyennhuongquyensudungdat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_sanxuatkinhdoanh"
+      "source_id": "dieu_73_2013",
+      "target_id": "chuthe_chudautu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thuequyensudungdat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_sanxuatkinhdoanh"
+      "source_id": "dieu_73_2013",
+      "target_id": "khainiem_duan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_sanxuatkinhdoanh"
+      "source_id": "dieu_73_2013",
+      "target_id": "khainiem_congtrinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_chudautu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_nhanchuyennhuongquyensudungdat"
+      "source_id": "dieu_73_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_chudautu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thuequyensudungdat"
+      "source_id": "dieu_73_2013",
+      "target_id": "dieu_61_2013",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_chudautu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_nhangopvonbangquyensudungdat"
+      "source_id": "dieu_73_2013",
+      "target_id": "dieu_62_2013",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_nhanchuyennhuongquyensudungdat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_duancongtrinhsanxuatkinhdoanh"
+      "source_id": "dieu_73_2013",
+      "target_id": "chuthe_tochickinhte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thuequyensudungdat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_duancongtrinhsanxuatkinhdoanh"
+      "source_id": "dieu_73_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_duancongtrinhsanxuatkinhdoanh"
-    },
-    {
-      "source_id": "hanhviphaply_nhanchuyennhuongquyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongthuoctruonghopnhanuocthuhoithoi"
-    },
-    {
-      "source_id": "hanhviphaply_thuequyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongthuoctruonghopnhanuocthuhoithoi"
-    },
-    {
-      "source_id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongthuoctruonghopnhanuocthuhoithoi"
-    },
-    {
-      "source_id": "dieukien_khongthuoctruonghopnhanuocthuhoithoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_nhanuocthuhoithoi"
-    },
-    {
-      "source_id": "hanhviphaply_nhanuocthuhoithoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_61"
-    },
-    {
-      "source_id": "hanhviphaply_nhanuocthuhoithoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_62"
-    },
-    {
-      "source_id": "hanhviphaply_nhanchuyennhuongquyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopquyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_thuequyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopquyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopquyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "dieukien_phuhopquyhoachkehoachsudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_quyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "khaikiem_quyhoachkehoachsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_coquannhanuoc"
-    },
-    {
-      "source_id": "hanhviphaply_nhanchuyennhuongquyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_quydinhcuapapluat"
-    },
-    {
-      "source_id": "hanhviphaply_thuequyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_quydinhcuapapluat"
-    },
-    {
-      "source_id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_quydinhcuapapluat"
-    },
-    {
-      "source_id": "dieu_73",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_chinhsachkhuyenkhich"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_chinhsachkhuyenkhich"
-    },
-    {
-      "source_id": "khaikiem_chinhsachkhuyenkhich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thuequyensudungdat"
-    },
-    {
-      "source_id": "khaikiem_chinhsachkhuyenkhich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_nhangopvonbangquyensudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_thuequyensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhte"
-    },
-    {
-      "source_id": "hanhviphaply_thuequyensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh"
-    },
-    {
-      "source_id": "hanhviphaply_thuequyensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhte"
-    },
-    {
-      "source_id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh"
-    },
-    {
-      "source_id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "hanhviphaply_thuequyensudungdat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_duancongtrinhsanxuatkinhdoanh"
-    },
-    {
-      "source_id": "hanhviphaply_nhangopvonbangquyensudungdat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_duancongtrinhsanxuatkinhdoanh"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_73"
+      "source_id": "dieu_73_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

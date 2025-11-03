@@ -1,381 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_85",
-      "label": "ĐiềuLuật",
-      "name": "Điều 85"
+      "id": "dieu_85_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 85",
+        "ma_dieu": "85",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 85.\n\nThông báo thu hồi đất và chấp hành quyết định thu hồi đất vì mục đích quốc phòng, an\nninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng about:blank\n. Trước khi ban hành quyết định thu hồi đất, cơ quan nhà nước có thẩm quyền phải gửi văn bản thông\nbáo thu hồi đất cho người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và\nnghĩa vụ liên quan (nếu có) biết chậm nhất là 90 ngày đối với đất nông nghiệp và 180 ngày đối với đất\nphi nông nghiệp. Nội dung thông báo thu hồi đất bao gồm: lý do thu hồi đất; diện tích, vị trí khu đất\nthu hồi; tiến độ thu hồi đất; kế hoạch điều tra, khảo sát, đo đạc, kiểm đếm; kế hoạch di dời người dân\nkhỏi khu vực thu hồi đất; kế hoạch bồi thường, hỗ trợ, tái định cư.\n2. Trường hợp người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ\nliên quan trong khu vực thu hồi đất đồng ý để cơ quan nhà nước có thẩm quyền thu hồi đất trước thời\nhạn quy định tại khoản 1 Điều này thì Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất mà\nkhông phải chờ đến hết thời hạn quy định tại khoản 1 Điều này .\n3. Người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất có trách nhiệm phối hợp với đơn vị, tổ\nchức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư  trong quá trình điều tra, khảo sát, đo đạc, kiểm\nđếm, xây dựng phương án bồi thường, hỗ trợ, tái định cư.\n4. Khi quyết định thu hồi đất có hiệu lực thi hành và phương án bồi thường, hỗ trợ, tái định cư đã được\ncơ quan có thẩm quyền phê duyệt được công bố công khai, người có đất thu hồi, chủ sở hữu tài sản\ngắn liền với đất, người có quyền lợi và nghĩa vụ liên quan phải chấp hành quyết định thu hồi đất.\n5. Hiệu lực của thông báo thu hồi đất là 12 tháng tính từ ngày ban hành thông báo thu hồi đất."
+      }
     },
     {
-      "id": "khainiem_thongbaothuhoaidat",
-      "label": "KháiNiệm",
-      "name": "Thông báo thu hồi đất"
+      "id": "hanhviphaply_thongbaothuhoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thông báo thu hồi đất"
+      }
     },
     {
-      "id": "khainiem_chaphanhquyetdinhthuhoaidat",
-      "label": "KháiNiệm",
-      "name": "Chấp hành quyết định thu hồi đất"
+      "id": "hanhviphaply_chophanhquyetdinhthuhoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chấp hành quyết định thu hồi đất"
+      }
     },
     {
-      "id": "khainiem_mucdichquocphongan",
-      "label": "KháiNiệm",
-      "name": "mục đích quốc phòng, an ninh"
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có đất thu hồi"
+      }
     },
     {
-      "id": "khainiem_phattrienkinhtexahoi_loiichquocgia_congcong",
-      "label": "KháiNiệm",
-      "name": "phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+      "id": "chuthe_chusohuutaisanganlienvoidat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ sở hữu tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "khainiem_quyetdinhthuhoaidat",
-      "label": "KháiNiệm",
-      "name": "quyết định thu hồi đất"
+      "id": "chuthe_nguoicoquyenloivaonghialienquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có quyền lợi và nghĩa vụ liên quan"
+      }
     },
     {
-      "id": "khainiem_lyzothuhoaidat",
-      "label": "KháiNiệm",
-      "name": "lý do thu hồi đất"
+      "id": "chuthe_coquannhanuoccothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước có thẩm quyền"
+      }
     },
     {
-      "id": "khainiem_dientich_vitrikhudatthuhoi",
-      "label": "KháiNiệm",
-      "name": "diện tích, vị trí khu đất thu hồi"
-    },
-    {
-      "id": "khainiem_tiendothuhoaidat",
-      "label": "KháiNiệm",
-      "name": "tiến độ thu hồi đất"
-    },
-    {
-      "id": "khainiem_kehoachdieutra_khaosat_dodac_kiemdem",
-      "label": "KháiNiệm",
-      "name": "kế hoạch điều tra, khảo sát, đo đạc, kiểm đếm"
-    },
-    {
-      "id": "khainiem_kehoachdiiroi_nguoidankhoikhuvuc",
-      "label": "KháiNiệm",
-      "name": "kế hoạch di dời người dân khỏi khu vực thu hồi đất"
-    },
-    {
-      "id": "khainiem_kehoachboithuong_hotro_taidinhcu",
-      "label": "KháiNiệm",
-      "name": "kế hoạch bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "khainiem_phuongan_boithuong_hotro_taidinhcu",
-      "label": "KháiNiệm",
-      "name": "phương án bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "khainiem_hieuluc_thongbaothuhoaidat",
-      "label": "KháiNiệm",
-      "name": "Hiệu lực của thông báo thu hồi đất"
-    },
-    {
-      "id": "chuthe_coquannhanuoc_cothammquyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "chuthe_nguoicodat_thuhoi",
-      "label": "ChủThể",
-      "name": "người có đất thu hồi"
-    },
-    {
-      "id": "chuthe_chusohuutaisan_ganlienvoidat",
-      "label": "ChủThể",
-      "name": "chủ sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "chuthe_nguoicoquyenloivanghiavu_lienquan",
-      "label": "ChủThể",
-      "name": "người có quyền lợi và nghĩa vụ liên quan"
-    },
-    {
-      "id": "chuthe_nguoisudungdat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
-    },
-    {
-      "id": "chuthe_uybannhandan_capcothammquyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp có thẩm quyền"
-    },
-    {
-      "id": "chuthe_donvi_tochuc_thuchien_boithuong_hotro_taidinhcu",
-      "label": "ChủThể",
-      "name": "đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "chuthe_coquancothammquyen_pheduyet",
-      "label": "ChủThể",
-      "name": "cơ quan có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "hanhviphaply_thuhoaidat",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi đất"
-    },
-    {
-      "id": "hanhviphaply_banhanh_quyetdinhthuhoaidat",
-      "label": "HànhViPhápLý",
-      "name": "ban hành quyết định thu hồi đất"
-    },
-    {
-      "id": "hanhviphaply_gui_vanbanthongbaothuhoaidat",
-      "label": "HànhViPhápLý",
-      "name": "gửi văn bản thông báo thu hồi đất"
-    },
-    {
-      "id": "hanhviphaply_quyetdinh_thuhoaidat",
-      "label": "HànhViPhápLý",
-      "name": "quyết định thu hồi đất"
-    },
-    {
-      "id": "hanhviphaply_phoi_hop",
-      "label": "HànhViPhápLý",
-      "name": "phối hợp"
-    },
-    {
-      "id": "hanhviphaply_dieutra_khaosat_dodac_kiemdem",
-      "label": "HànhViPhápLý",
-      "name": "điều tra, khảo sát, đo đạc, kiểm đếm"
-    },
-    {
-      "id": "hanhviphaply_xaydung_phuongan_boithuong_hotro_taidinhcu",
-      "label": "HànhViPhápLý",
-      "name": "xây dựng phương án bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "hanhviphaply_chaphanh_quyetdinhthuhoaidat",
-      "label": "HànhViPhápLý",
-      "name": "chấp hành quyết định thu hồi đất"
-    },
-    {
-      "id": "hanhviphaply_pheduyet_phuongan",
-      "label": "HànhViPhápLý",
-      "name": "phê duyệt phương án"
-    },
-    {
-      "id": "hanhviphaply_congbo_congkhai",
-      "label": "HànhViPhápLý",
-      "name": "công bố công khai"
-    },
-    {
-      "id": "dieukien_chamnhat_90ngay_datnongnghiep",
-      "label": "ĐiềuKiện",
-      "name": "chậm nhất là 90 ngày đối với đất nông nghiệp"
-    },
-    {
-      "id": "dieukien_chamnhat_180ngay_datphinongnghiep",
-      "label": "ĐiềuKiện",
-      "name": "chậm nhất là 180 ngày đối với đất phi nông nghiệp"
-    },
-    {
-      "id": "dieukien_truockhi_banhanh_quyetdinhthuhoaidat",
-      "label": "ĐiềuKiện",
-      "name": "Trước khi ban hành quyết định thu hồi đất"
-    },
-    {
-      "id": "dieukien_dongy_thuhoaidat_truocthoihan",
-      "label": "ĐiềuKiện",
-      "name": "đồng ý để cơ quan nhà nước có thẩm quyền thu hồi đất trước thời hạn quy định tại khoản 1 Điều này"
-    },
-    {
-      "id": "dieukien_quyetdinhthuhoaidat_cohieuluc",
-      "label": "ĐiềuKiện",
-      "name": "quyết định thu hồi đất có hiệu lực thi hành"
-    },
-    {
-      "id": "dieukien_phuongan_pheduyet_congbo_congkhai",
-      "label": "ĐiềuKiện",
-      "name": "phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt được công bố công khai"
-    },
-    {
-      "id": "dieukien_thongbao_12thang_tungaybanhanh",
-      "label": "ĐiềuKiện",
-      "name": "12 tháng tính từ ngày ban hành thông báo thu hồi đất"
+      "id": "hanhviphaply_phoihopvoiquatrinhdieutra",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phối hợp với đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư trong quá trình điều tra, khảo sát, đo đạc, kiểm đếm, xây dựng phương án bồi thường, hỗ trợ, tái định cư"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_85",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_thongbaothuhoaidat"
+      "source_id": "dieu_85_2024",
+      "target_id": "hanhviphaply_thongbaothuhoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_85",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chaphanhquyetdinhthuhoaidat"
+      "source_id": "dieu_85_2024",
+      "target_id": "hanhviphaply_chophanhquyetdinhthuhoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thuhoaidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_mucdichquocphongan"
+      "source_id": "dieu_85_2024",
+      "target_id": "chuthe_nguoicodatthuhoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thuhoaidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phattrienkinhtexahoi_loiichquocgia_congcong"
+      "source_id": "dieu_85_2024",
+      "target_id": "chuthe_chusohuutaisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_truockhi_banhanh_quyetdinhthuhoaidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_gui_vanbanthongbaothuhoaidat"
+      "source_id": "dieu_85_2024",
+      "target_id": "chuthe_nguoicoquyenloivaonghialienquan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_coquannhanuoc_cothammquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_gui_vanbanthongbaothuhoaidat"
+      "source_id": "dieu_85_2024",
+      "target_id": "chuthe_coquannhanuoccothamquyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_gui_vanbanthongbaothuhoaidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicodat_thuhoi"
-    },
-    {
-      "source_id": "hanhviphaply_gui_vanbanthongbaothuhoaidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chusohuutaisan_ganlienvoidat"
-    },
-    {
-      "source_id": "hanhviphaply_gui_vanbanthongbaothuhoaidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicoquyenloivanghiavu_lienquan"
-    },
-    {
-      "source_id": "hanhviphaply_gui_vanbanthongbaothuhoaidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chamnhat_90ngay_datnongnghiep"
-    },
-    {
-      "source_id": "hanhviphaply_gui_vanbanthongbaothuhoaidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chamnhat_180ngay_datphinongnghiep"
-    },
-    {
-      "source_id": "khainiem_thongbaothuhoaidat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_lyzothuhoaidat"
-    },
-    {
-      "source_id": "khainiem_thongbaothuhoaidat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dientich_vitrikhudatthuhoi"
-    },
-    {
-      "source_id": "khainiem_thongbaothuhoaidat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_tiendothuhoaidat"
-    },
-    {
-      "source_id": "khainiem_thongbaothuhoaidat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_kehoachdieutra_khaosat_dodac_kiemdem"
-    },
-    {
-      "source_id": "khainiem_thongbaothuhoaidat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_kehoachdiiroi_nguoidankhoikhuvuc"
-    },
-    {
-      "source_id": "khainiem_thongbaothuhoaidat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_kehoachboithuong_hotro_taidinhcu"
-    },
-    {
-      "source_id": "dieukien_dongy_thuhoaidat_truocthoihan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdat"
-    },
-    {
-      "source_id": "dieukien_dongy_thuhoaidat_truocthoihan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chusohuutaisan_ganlienvoidat"
-    },
-    {
-      "source_id": "dieukien_dongy_thuhoaidat_truocthoihan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicoquyenloivanghiavu_lienquan"
-    },
-    {
-      "source_id": "dieukien_dongy_thuhoaidat_truocthoihan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_quyetdinh_thuhoaidat"
-    },
-    {
-      "source_id": "chuthe_uybannhandan_capcothammquyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyetdinh_thuhoaidat"
-    },
-    {
-      "source_id": "chuthe_nguoicodat_thuhoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_phoi_hop"
-    },
-    {
-      "source_id": "chuthe_chusohuutaisan_ganlienvoidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_phoi_hop"
-    },
-    {
-      "source_id": "hanhviphaply_phoi_hop",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvi_tochuc_thuchien_boithuong_hotro_taidinhcu"
-    },
-    {
-      "source_id": "hanhviphaply_phoi_hop",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_dieutra_khaosat_dodac_kiemdem"
-    },
-    {
-      "source_id": "hanhviphaply_phoi_hop",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_xaydung_phuongan_boithuong_hotro_taidinhcu"
-    },
-    {
-      "source_id": "dieukien_quyetdinhthuhoaidat_cohieuluc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_chaphanh_quyetdinhthuhoaidat"
-    },
-    {
-      "source_id": "dieukien_phuongan_pheduyet_congbo_congkhai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_chaphanh_quyetdinhthuhoaidat"
-    },
-    {
-      "source_id": "hanhviphaply_chaphanh_quyetdinhthuhoaidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicodat_thuhoi"
-    },
-    {
-      "source_id": "hanhviphaply_chaphanh_quyetdinhthuhoaidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chusohuutaisan_ganlienvoidat"
-    },
-    {
-      "source_id": "hanhviphaply_chaphanh_quyetdinhthuhoaidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicoquyenloivanghiavu_lienquan"
-    },
-    {
-      "source_id": "chuthe_coquancothammquyen_pheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_pheduyet_phuongan"
-    },
-    {
-      "source_id": "chuthe_coquancothammquyen_pheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_congbo_congkhai"
-    },
-    {
-      "source_id": "khainiem_hieuluc_thongbaothuhoaidat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_thongbao_12thang_tungaybanhanh"
-    },
-    {
-      "source_id": "khainiem_hieuluc_thongbaothuhoaidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thongbaothuhoaidat"
+      "source_id": "dieu_85_2024",
+      "target_id": "hanhviphaply_phoihopvoiquatrinhdieutra",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,191 +1,114 @@
 {
   "entities": [
     {
-      "id": "dieu_196",
-      "label": "Điều 196. Đất ở tại đô thị",
-      "type": "ĐiềuLuật"
+      "id": "dieu_196_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 196. Đất ở tại đô thị",
+        "ma_dieu": "196",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 196.\n\nĐất ở tại đô thị\n1. Đất ở tại đô thị là đất để làm nhà ở và mục đích khác phục vụ cho đời sống trong cùng một thửa đất\nthuộc khu vực đô thị.\n2. Căn cứ vào quỹ đất và tình hình thực tế của địa phương, Ủy ban nhân dân cấp tỉnh quy định hạn mức\ngiao đất ở cho cá nhân tại đô thị. about:blank\n. Đất ở tại đô thị phải bố trí đồng bộ với đất sử dụng cho mục đích xây dựng các công trình công\ncộng, công trình sự nghiệp, bảo đảm vệ sinh môi trường và cảnh quan đô thị.\n4. Việc chuyển đất ở sang đất xây dựng cơ sở sản xuất, kinh doanh phải phù hợp với quy hoạch, kế\nhoạch sử dụng đất, quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt, tuân thủ quy định\ncủa pháp luật về trật tự, an toàn, pháp luật về bảo vệ môi trường và quy định khác của pháp luật có liên\nquan."
+      }
     },
     {
-      "id": "khainiem_dat_o_tai_do_thi",
-      "label": "Đất ở tại đô thị",
-      "type": "KháiNiệm"
+      "id": "khainiem_dato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
     },
     {
-      "id": "khainiem_dat_lam_nha_o_muc_dich_khac_phuc_vu_doi_song",
-      "label": "đất để làm nhà ở và mục đích khác phục vụ cho đời sống trong cùng một thửa đất thuộc khu vực đô thị",
-      "type": "KháiNiệm"
+      "id": "khainiem_dot",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đô thị"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "Ủy ban nhân dân cấp tỉnh",
-      "type": "ChủThể"
+      "id": "khainiem_datoidot",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở tại đô thị"
+      }
     },
     {
-      "id": "hanhviphaply_quy_dinh_han_muc_giao_dat_o",
-      "label": "quy định hạn mức giao đất ở",
-      "type": "HànhViPhápLý"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "chuthe_ca_nhan",
-      "label": "cá nhân",
-      "type": "ChủThể"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "dieukien_can_cu_quy_dat",
-      "label": "Căn cứ vào quỹ đất",
-      "type": "ĐiềuKiện"
+      "id": "hanhviphaply_giaodato",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất ở"
+      }
     },
     {
-      "id": "dieukien_can_cu_tinh_hinh_thuc_te_dia_phuong",
-      "label": "tình hình thực tế của địa phương",
-      "type": "ĐiềuKiện"
+      "id": "dieukien_phuhopquyhoach",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt"
+      }
     },
     {
-      "id": "hanhviphaply_bo_tri_dat_o_tai_do_thi_dong_bo",
-      "label": "bố trí đồng bộ đất ở tại đô thị",
-      "type": "HànhViPhápLý"
+      "id": "dieukien_tuantuphapluat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tuân thủ quy định của pháp luật về trật tự, an toàn, pháp luật về bảo vệ môi trường và quy định khác của pháp luật có liên quan"
+      }
     },
     {
-      "id": "khainiem_dat_cong_trinh_cong_cong_su_nghiep_moi_truong_canh_quan",
-      "label": "đất sử dụng cho mục đích xây dựng các công trình công cộng, công trình sự nghiệp, bảo đảm vệ sinh môi trường và cảnh quan đô thị",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "hanhviphaply_chuyen_dat_o_sang_dat_xay_dung_cs_sxkd",
-      "label": "chuyển đất ở sang đất xây dựng cơ sở sản xuất, kinh doanh",
-      "type": "HànhViPhápLý"
-    },
-    {
-      "id": "khainiem_dat_o",
-      "label": "đất ở",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_dat_xay_dung_co_so_san_xuat_kinh_doanh",
-      "label": "đất xây dựng cơ sở sản xuất, kinh doanh",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "phù hợp với quy hoạch, kế hoạch sử dụng đất",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_phu_hop_quy_hoach_xay_dung_phe_duyet",
-      "label": "phù hợp với quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tuan_thu_phap_luat_ve_trat_tu_an_toan",
-      "label": "tuân thủ quy định của pháp luật về trật tự, an toàn",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tuan_thu_phap_luat_ve_bao_ve_moi_truong",
-      "label": "tuân thủ pháp luật về bảo vệ môi trường",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tuan_thu_quy_dinh_khac_cua_phap_luat_lien_quan",
-      "label": "tuân thủ quy định khác của pháp luật có liên quan",
-      "type": "ĐiềuKiện"
+      "id": "hanhviphaply_chuyendoosangsanxuatkinhdoanh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển đất ở sang đất xây dựng cơ sở sản xuất, kinh doanh"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_196",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_o_tai_do_thi"
+      "source_id": "dieu_196_2024",
+      "target_id": "khainiem_datoidot",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_o_tai_do_thi",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_lam_nha_o_muc_dich_khac_phuc_vu_doi_song"
+      "source_id": "dieu_196_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_196",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quy_dinh_han_muc_giao_dat_o"
+      "source_id": "dieu_196_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quy_dinh_han_muc_giao_dat_o"
+      "source_id": "dieu_196_2024",
+      "target_id": "hanhviphaply_giaodato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quy_dinh_han_muc_giao_dat_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_o_tai_do_thi"
+      "source_id": "dieu_196_2024",
+      "target_id": "hanhviphaply_chuyendoosangsanxuatkinhdoanh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quy_dinh_han_muc_giao_dat_o",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
+      "source_id": "hanhviphaply_chuyendoosangsanxuatkinhdoanh",
+      "target_id": "dieukien_phuhopquyhoach",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_quy_dinh_han_muc_giao_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_cu_quy_dat"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_han_muc_giao_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_cu_tinh_hinh_thuc_te_dia_phuong"
-    },
-    {
-      "source_id": "dieu_196",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_bo_tri_dat_o_tai_do_thi_dong_bo"
-    },
-    {
-      "source_id": "khainiem_dat_o_tai_do_thi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_bo_tri_dat_o_tai_do_thi_dong_bo"
-    },
-    {
-      "source_id": "hanhviphaply_bo_tri_dat_o_tai_do_thi_dong_bo",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_cong_trinh_cong_cong_su_nghiep_moi_truong_canh_quan"
-    },
-    {
-      "source_id": "dieu_196",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyen_dat_o_sang_dat_xay_dung_cs_sxkd"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_dat_o_sang_dat_xay_dung_cs_sxkd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_o"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_dat_o_sang_dat_xay_dung_cs_sxkd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_xay_dung_co_so_san_xuat_kinh_doanh"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_dat_o_sang_dat_xay_dung_cs_sxkd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_dat_o_sang_dat_xay_dung_cs_sxkd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_xay_dung_phe_duyet"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_dat_o_sang_dat_xay_dung_cs_sxkd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuan_thu_phap_luat_ve_trat_tu_an_toan"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_dat_o_sang_dat_xay_dung_cs_sxkd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuan_thu_phap_luat_ve_bao_ve_moi_truong"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_dat_o_sang_dat_xay_dung_cs_sxkd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuan_thu_quy_dinh_khac_cua_phap_luat_lien_quan"
+      "source_id": "hanhviphaply_chuyendoosangsanxuatkinhdoanh",
+      "target_id": "dieukien_tuantuphapluat",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

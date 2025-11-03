@@ -1,651 +1,136 @@
 {
   "entities": [
     {
-      "id": "dieu_202",
-      "label": "ĐiềuLuật",
-      "name": "Điều 202"
+      "id": "dieu_202_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 202. Đất khu công nghiệp, cụm công nghiệp",
+        "ma_dieu": "202",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 202.\n\nĐất khu công nghiệp, cụm công nghiệp\n1. Việc quản lý, sử dụng đất khu công nghiệp, cụm công nghiệp, trong đó có khu công nghệ thông tin\ntập trung  phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đã được cơ quan có\nthẩm quyền phê duyệt.\n2. Nhà nước cho thuê đất để thực hiện dự án đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công\nnghiệp, cụm công nghiệp.\nĐối với trường hợp dự án đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghiệp, cụm công\nnghiệp tại địa bàn ưu đãi đầu tư theo quy định của pháp luật về đầu tư, huyện biên giới, huyện đảo mà\nkhông thu hút được nhà đầu tư thì Nhà nước giao đất, cho thuê đất đối với các đơn vị sự nghiệp công\nlập để đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghiệp, cụm công nghiệp.\n3. Chủ đầu tư đã được Nhà nước cho thuê đất để đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công\nnghiệp, cụm công nghiệp theo hình thức trả tiền thuê đất hằng năm thì được quyền chuyển sang hình\nthức thuê đất trả tiền một lần cho cả thời gian thuê đối với toàn bộ hoặc từng phần diện tích đất kinh\ndoanh.\nĐối với phần diện tích thuê đất trả tiền thuê đất hằng năm thì chủ đầu tư có quyền cho thuê lại đất với\nhình thức trả tiền thuê đất hằng năm; đối với phần diện tích thuê đất trả tiền thuê đất một lần cho cả\nthời gian thuê thì chủ đầu tư có quyền cho thuê lại đất với hình thức trả tiền thuê đất một lần cho cả\nthời gian thuê hoặc trả tiền thuê đất hằng năm ; đối với phần diện tích đất xây dựng kết cấu hạ tầng sử\ndụng chung trong khu công nghiệp, cụm công nghiệp theo quy hoạch xây dựng đã được cơ quan có\nthẩm quyền phê duyệt thì chủ đầu tư không phải nộp tiền thuê đất .\n4. Thời hạn sử dụng đất của dự án đầu tư trong khu công nghiệp, cụm công nghiệp theo thời hạn hoạt\nđộng của dự án đầu tư.\nTrường hợp thời hạn hoạt động của dự án đầu tư dài hơn thời hạn sử dụng đất còn lại của khu công\nnghiệp, cụm công nghiệp thì chủ đầu tư phải xin phép cơ quan nhà nước có thẩm quyền cho phép điều\nchỉnh thời hạn sử dụng đất cho phù hợp nhưng tổng thời hạn sử dụng đất không quá 70 năm và phải\nnộp tiền sử dụng đất hoặc tiền thuê đất đối với diện tích đất được điều chỉnh thời hạn sử dụng.\n5. Người thuê lại đất gắn với kết cấu hạ tầng trong khu công nghiệp, cụm công nghiệp có các quyền và\nnghĩa vụ sau đây:\na) Trường hợp thuê lại đất trả tiền thuê đất một lần cho cả thời gian thuê thì có các quyền và nghĩa vụ\nquy định tại Điều 33 của Luật này ;\nb) Trường hợp thuê lại đất trả tiền thuê đất hằng năm thì có các quyền và nghĩa vụ quy định tại Điều 34\ncủa Luật này .\n6. Chủ đầu tư có trách nhiệm dành quỹ đất đã đầu tư kết cấu hạ tầng để cho thuê lại đối với các doanh\nnghiệp vừa và nhỏ, các cơ sở di dời do ô nhiễm môi trường. about:blank\nNhà nước có chính sách giảm tiền thuê lại đất trong khu công nghiệp, cụm công nghiệp cho các trường\nhợp quy định tại khoản này . Khoản tiền thuê lại đất được giảm được hoàn trả cho chủ đầu tư thông qua\nviệc khấu trừ vào tiền thuê đất mà chủ đầu tư phải nộp theo quy định của pháp luật về thu tiền thuê đất.\nỦy ban nhân dân cấp tỉnh căn cứ vào tình hình thực tế tại địa phương để xác định quỹ đất dành cho các\ndoanh nghiệp vừa và nhỏ, các cơ sở di dời do ô nhiễm môi trường.\n7. Diện tích đất để xây dựng nhà lưu trú công nhân trong khu công nghiệp theo quy hoạch thì được quản\nlý như đất thương mại, dịch vụ và được hưởng các ưu đãi theo quy định của pháp luật.\n8. Ủy ban nhân dân cấp tỉnh có trách nhiệm xác định nhu cầu xây dựng khu nhà ở, công trình công cộng\nngoài khu công nghiệp phục vụ đời sống người lao động làm việc trong khu công nghiệp để tích hợp\nvào quy hoạch, kế hoạch sử dụng đất, quy hoạch đô thị, quy hoạch nông thôn; bố trí quỹ đất, giao đất\nđể lực lượng Công an nhân dân bảo đảm an ninh, trật tự đối với khu công nghiệp.\n9. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "dat_khu_cong_nghiep_cum_cong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Đất khu công nghiệp, cụm công nghiệp"
+      "id": "khainiem_datkhucongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất khu công nghiệp"
+      }
     },
     {
-      "id": "quan_ly_su_dung_dat_khu_cong_nghiep_cum_cong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Quản lý, sử dụng đất khu công nghiệp, cụm công nghiệp"
+      "id": "khainiem_datcumcongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cụm công nghiệp"
+      }
     },
     {
-      "id": "khu_cong_nghe_thong_tin_tap_trung",
-      "label": "KháiNiệm",
-      "name": "Khu công nghệ thông tin tập trung"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với quy hoạch, kế hoạch sử dụng đất"
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
     },
     {
-      "id": "phu_hop_voi_quy_hoach_xay_dung",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với quy hoạch xây dựng"
+      "id": "chuthe_chudautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ đầu tư"
+      }
     },
     {
-      "id": "co_quan_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "Cơ quan có thẩm quyền"
+      "id": "hanhviphaply_chothuelaidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê lại đất"
+      }
     },
     {
-      "id": "nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "chuthe_nguoithuelaidat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người thuê lại đất"
+      }
     },
     {
-      "id": "cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê đất"
+      "id": "chuthe_doanhnghiepvuanho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp vừa và nhỏ"
+      }
     },
     {
-      "id": "du_an_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang_khu_cong_nghiep_cum_cong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Dự án đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghiệp, cụm công nghiệp"
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "dia_ban_uu_dai_dau_tu",
-      "label": "ĐiềuKiện",
-      "name": "Địa bàn ưu đãi đầu tư"
-    },
-    {
-      "id": "huyen_bien_gioi",
-      "label": "ĐiềuKiện",
-      "name": "Huyện biên giới"
-    },
-    {
-      "id": "huyen_dao",
-      "label": "ĐiềuKiện",
-      "name": "Huyện đảo"
-    },
-    {
-      "id": "khong_thu_hut_duoc_nha_dau_tu",
-      "label": "ĐiềuKiện",
-      "name": "Không thu hút được nhà đầu tư"
-    },
-    {
-      "id": "giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất"
-    },
-    {
-      "id": "cho_thue_dat_don_vi_su_nghiep_cong_lap",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê đất đối với đơn vị sự nghiệp công lập"
-    },
-    {
-      "id": "don_vi_su_nghiep_cong_lap",
-      "label": "ChủThể",
-      "name": "Đơn vị sự nghiệp công lập"
-    },
-    {
-      "id": "chu_dau_tu",
-      "label": "ChủThể",
-      "name": "Chủ đầu tư"
-    },
-    {
-      "id": "hinh_thuc_thue_dat_hang_nam_chu_dau_tu",
-      "label": "ĐiềuKiện",
-      "name": "Thuê đất trả tiền thuê đất hằng năm (CĐT)"
-    },
-    {
-      "id": "chuyen_sang_thue_dat_tra_tien_mot_lan",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển sang hình thức thuê đất trả tiền một lần"
-    },
-    {
-      "id": "dien_tich_dat_kinh_doanh",
-      "label": "KháiNiệm",
-      "name": "Diện tích đất kinh doanh"
-    },
-    {
-      "id": "cho_thue_lai_dat",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê lại đất"
-    },
-    {
-      "id": "hinh_thuc_cho_thue_lai_dat_hang_nam",
-      "label": "KháiNiệm",
-      "name": "Hình thức cho thuê lại đất hằng năm"
-    },
-    {
-      "id": "hinh_thuc_cho_thue_lai_dat_mot_lan",
-      "label": "KháiNiệm",
-      "name": "Hình thức cho thuê lại đất một lần"
-    },
-    {
-      "id": "dien_tich_dat_xay_dung_ket_cau_ha_tang_su_dung_chung",
-      "label": "KháiNiệm",
-      "name": "Diện tích đất xây dựng kết cấu hạ tầng sử dụng chung"
-    },
-    {
-      "id": "khong_phai_nop_tien_thue_dat",
-      "label": "ChếTài",
-      "name": "Không phải nộp tiền thuê đất"
-    },
-    {
-      "id": "thoi_han_su_dung_dat_du_an_trong_khu_cong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Thời hạn sử dụng đất của dự án đầu tư trong khu công nghiệp, cụm công nghiệp"
-    },
-    {
-      "id": "thoi_han_hoat_dong_du_an_dau_tu",
-      "label": "KháiNiệm",
-      "name": "Thời hạn hoạt động của dự án đầu tư"
-    },
-    {
-      "id": "thoi_han_hoat_dong_dai_hon_thoi_han_su_dung_dat_con_lai",
-      "label": "ĐiềuKiện",
-      "name": "Thời hạn hoạt động dài hơn thời hạn sử dụng đất còn lại"
-    },
-    {
-      "id": "xin_phep_dieu_chinh_thoi_han_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xin phép điều chỉnh thời hạn sử dụng đất"
-    },
-    {
-      "id": "tong_thoi_han_su_dung_dat_khong_qua_70_nam",
-      "label": "ĐiềuKiện",
-      "name": "Tổng thời hạn sử dụng đất không quá 70 năm"
-    },
-    {
-      "id": "nop_tien_su_dung_dat_hoac_tien_thue_dat",
-      "label": "ChếTài",
-      "name": "Nộp tiền sử dụng đất hoặc tiền thuê đất"
-    },
-    {
-      "id": "dien_tich_dat_duoc_dieu_chinh_thoi_han",
-      "label": "KháiNiệm",
-      "name": "Diện tích đất được điều chỉnh thời hạn sử dụng"
-    },
-    {
-      "id": "nguoi_thue_lai_dat",
-      "label": "ChủThể",
-      "name": "Người thuê lại đất gắn với kết cấu hạ tầng trong khu công nghiệp, cụm công nghiệp"
-    },
-    {
-      "id": "quyen_va_nghia_vu",
-      "label": "KháiNiệm",
-      "name": "Quyền và nghĩa vụ"
-    },
-    {
-      "id": "hinh_thuc_thue_lai_dat_mot_lan_nguoi_thue_lai",
-      "label": "ĐiềuKiện",
-      "name": "Thuê lại đất trả tiền thuê đất một lần (người thuê lại)"
-    },
-    {
-      "id": "dieu_33",
-      "label": "ĐiềuLuật",
-      "name": "Điều 33 của Luật này"
-    },
-    {
-      "id": "hinh_thuc_thue_lai_dat_hang_nam_nguoi_thue_lai",
-      "label": "ĐiềuKiện",
-      "name": "Thuê lại đất trả tiền thuê đất hằng năm (người thuê lại)"
-    },
-    {
-      "id": "dieu_34",
-      "label": "ĐiềuLuật",
-      "name": "Điều 34 của Luật này"
-    },
-    {
-      "id": "danh_quy_dat_cho_thue_lai",
-      "label": "HànhViPhápLý",
-      "name": "Dành quỹ đất đã đầu tư kết cấu hạ tầng để cho thuê lại"
-    },
-    {
-      "id": "doanh_nghiep_vua_va_nho",
-      "label": "ChủThể",
-      "name": "Doanh nghiệp vừa và nhỏ"
-    },
-    {
-      "id": "co_so_di_doi_do_o_nhiem_moi_truong",
-      "label": "ChủThể",
-      "name": "Cơ sở di dời do ô nhiễm môi trường"
-    },
-    {
-      "id": "chinh_sach_giam_tien_thue_lai_dat",
-      "label": "KháiNiệm",
-      "name": "Chính sách giảm tiền thuê lại đất"
-    },
-    {
-      "id": "giam_tien_thue_lai_dat",
-      "label": "ChếTài",
-      "name": "Giảm tiền thuê lại đất"
-    },
-    {
-      "id": "khau_tru_tien_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "Khấu trừ vào tiền thuê đất"
-    },
-    {
-      "id": "uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "xac_dinh_quy_dat_danh_cho_uu_dai",
-      "label": "HànhViPhápLý",
-      "name": "Xác định quỹ đất dành cho các đối tượng ưu đãi"
-    },
-    {
-      "id": "dien_tich_dat_xay_dung_nha_luu_tru_cong_nhan",
-      "label": "KháiNiệm",
-      "name": "Diện tích đất để xây dựng nhà lưu trú công nhân"
-    },
-    {
-      "id": "dat_thuong_mai_dich_vu",
-      "label": "KháiNiệm",
-      "name": "Đất thương mại, dịch vụ"
-    },
-    {
-      "id": "huong_uu_dai",
-      "label": "ChếTài",
-      "name": "Được hưởng các ưu đãi"
-    },
-    {
-      "id": "theo_quy_hoach",
-      "label": "ĐiềuKiện",
-      "name": "Theo quy hoạch"
-    },
-    {
-      "id": "xac_dinh_nhu_cau_xay_dung_khu_nha_o_cong_trinh_cong_cong",
-      "label": "HànhViPhápLý",
-      "name": "Xác định nhu cầu xây dựng khu nhà ở, công trình công cộng"
-    },
-    {
-      "id": "nguoi_lao_dong_lam_viec_trong_khu_cong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Người lao động làm việc trong khu công nghiệp"
-    },
-    {
-      "id": "tich_hop_vao_quy_hoach",
-      "label": "HànhViPhápLý",
-      "name": "Tích hợp vào quy hoạch, kế hoạch sử dụng đất, quy hoạch đô thị, quy hoạch nông thôn"
-    },
-    {
-      "id": "bo_tri_quy_dat_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "Bố trí quỹ đất, giao đất"
-    },
-    {
-      "id": "luc_luong_cong_an_nhan_dan",
-      "label": "ChủThể",
-      "name": "Lực lượng Công an nhân dân"
-    },
-    {
-      "id": "bao_dam_an_ninh_trat_tu",
-      "label": "KháiNiệm",
-      "name": "Bảo đảm an ninh, trật tự đối với khu công nghiệp"
-    },
-    {
-      "id": "chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "Quy định chi tiết"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_202",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dat_khu_cong_nghiep_cum_cong_nghiep"
+      "source_id": "dieu_202_2024",
+      "target_id": "khainiem_datkhucongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_202",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "quan_ly_su_dung_dat_khu_cong_nghiep_cum_cong_nghiep"
+      "source_id": "dieu_202_2024",
+      "target_id": "khainiem_datcumcongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "quan_ly_su_dung_dat_khu_cong_nghiep_cum_cong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khu_cong_nghe_thong_tin_tap_trung"
+      "source_id": "dieu_202_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "quan_ly_su_dung_dat_khu_cong_nghiep_cum_cong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat"
+      "source_id": "dieu_202_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "phu_hop_voi_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "co_quan_co_tham_quyen"
+      "source_id": "dieu_202_2024",
+      "target_id": "chuthe_chudautu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "quan_ly_su_dung_dat_khu_cong_nghiep_cum_cong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "phu_hop_voi_quy_hoach_xay_dung"
+      "source_id": "dieu_202_2024",
+      "target_id": "hanhviphaply_chothuelaidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "phu_hop_voi_quy_hoach_xay_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "co_quan_co_tham_quyen"
+      "source_id": "dieu_202_2024",
+      "target_id": "chuthe_nguoithuelaidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "cho_thue_dat"
+      "source_id": "dieu_202_2024",
+      "target_id": "chuthe_doanhnghiepvuanho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "du_an_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang_khu_cong_nghiep_cum_cong_nghiep"
+      "source_id": "dieu_202_2024",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dia_ban_uu_dai_dau_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "giao_dat"
-    },
-    {
-      "source_id": "dia_ban_uu_dai_dau_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "cho_thue_dat_don_vi_su_nghiep_cong_lap"
-    },
-    {
-      "source_id": "huyen_bien_gioi",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "giao_dat"
-    },
-    {
-      "source_id": "huyen_bien_gioi",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "cho_thue_dat_don_vi_su_nghiep_cong_lap"
-    },
-    {
-      "source_id": "huyen_dao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "giao_dat"
-    },
-    {
-      "source_id": "huyen_dao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "cho_thue_dat_don_vi_su_nghiep_cong_lap"
-    },
-    {
-      "source_id": "khong_thu_hut_duoc_nha_dau_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "giao_dat"
-    },
-    {
-      "source_id": "khong_thu_hut_duoc_nha_dau_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "cho_thue_dat_don_vi_su_nghiep_cong_lap"
-    },
-    {
-      "source_id": "giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "don_vi_su_nghiep_cong_lap"
-    },
-    {
-      "source_id": "cho_thue_dat_don_vi_su_nghiep_cong_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "don_vi_su_nghiep_cong_lap"
-    },
-    {
-      "source_id": "giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "du_an_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang_khu_cong_nghiep_cum_cong_nghiep"
-    },
-    {
-      "source_id": "cho_thue_dat_don_vi_su_nghiep_cong_lap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "du_an_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang_khu_cong_nghiep_cum_cong_nghiep"
-    },
-    {
-      "source_id": "dieu_202",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chu_dau_tu"
-    },
-    {
-      "source_id": "hinh_thuc_thue_dat_hang_nam_chu_dau_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuyen_sang_thue_dat_tra_tien_mot_lan"
-    },
-    {
-      "source_id": "chuyen_sang_thue_dat_tra_tien_mot_lan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_dau_tu"
-    },
-    {
-      "source_id": "chuyen_sang_thue_dat_tra_tien_mot_lan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dien_tich_dat_kinh_doanh"
-    },
-    {
-      "source_id": "hinh_thuc_thue_dat_hang_nam_chu_dau_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "cho_thue_lai_dat"
-    },
-    {
-      "source_id": "cho_thue_lai_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hinh_thuc_cho_thue_lai_dat_hang_nam"
-    },
-    {
-      "source_id": "chuyen_sang_thue_dat_tra_tien_mot_lan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "cho_thue_lai_dat"
-    },
-    {
-      "source_id": "cho_thue_lai_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hinh_thuc_cho_thue_lai_dat_mot_lan"
-    },
-    {
-      "source_id": "cho_thue_lai_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hinh_thuc_cho_thue_lai_dat_hang_nam"
-    },
-    {
-      "source_id": "cho_thue_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_dau_tu"
-    },
-    {
-      "source_id": "dien_tich_dat_xay_dung_ket_cau_ha_tang_su_dung_chung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khong_phai_nop_tien_thue_dat"
-    },
-    {
-      "source_id": "khong_phai_nop_tien_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_dau_tu"
-    },
-    {
-      "source_id": "dieu_202",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "thoi_han_su_dung_dat_du_an_trong_khu_cong_nghiep"
-    },
-    {
-      "source_id": "thoi_han_su_dung_dat_du_an_trong_khu_cong_nghiep",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "thoi_han_hoat_dong_du_an_dau_tu"
-    },
-    {
-      "source_id": "thoi_han_hoat_dong_dai_hon_thoi_han_su_dung_dat_con_lai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "xin_phep_dieu_chinh_thoi_han_su_dung_dat"
-    },
-    {
-      "source_id": "xin_phep_dieu_chinh_thoi_han_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_dau_tu"
-    },
-    {
-      "source_id": "xin_phep_dieu_chinh_thoi_han_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "co_quan_co_tham_quyen"
-    },
-    {
-      "source_id": "xin_phep_dieu_chinh_thoi_han_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "tong_thoi_han_su_dung_dat_khong_qua_70_nam"
-    },
-    {
-      "source_id": "xin_phep_dieu_chinh_thoi_han_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "nop_tien_su_dung_dat_hoac_tien_thue_dat"
-    },
-    {
-      "source_id": "nop_tien_su_dung_dat_hoac_tien_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_dau_tu"
-    },
-    {
-      "source_id": "nop_tien_su_dung_dat_hoac_tien_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dien_tich_dat_duoc_dieu_chinh_thoi_han"
-    },
-    {
-      "source_id": "dieu_202",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "quyen_va_nghia_vu"
-    },
-    {
-      "source_id": "quyen_va_nghia_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "nguoi_thue_lai_dat"
-    },
-    {
-      "source_id": "hinh_thuc_thue_lai_dat_mot_lan_nguoi_thue_lai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieu_33"
-    },
-    {
-      "source_id": "hinh_thuc_thue_lai_dat_hang_nam_nguoi_thue_lai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieu_34"
-    },
-    {
-      "source_id": "dieu_202",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "danh_quy_dat_cho_thue_lai"
-    },
-    {
-      "source_id": "chu_dau_tu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "danh_quy_dat_cho_thue_lai"
-    },
-    {
-      "source_id": "danh_quy_dat_cho_thue_lai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "doanh_nghiep_vua_va_nho"
-    },
-    {
-      "source_id": "danh_quy_dat_cho_thue_lai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "co_so_di_doi_do_o_nhiem_moi_truong"
-    },
-    {
-      "source_id": "nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chinh_sach_giam_tien_thue_lai_dat"
-    },
-    {
-      "source_id": "chinh_sach_giam_tien_thue_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "doanh_nghiep_vua_va_nho"
-    },
-    {
-      "source_id": "chinh_sach_giam_tien_thue_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "co_so_di_doi_do_o_nhiem_moi_truong"
-    },
-    {
-      "source_id": "giam_tien_thue_lai_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khau_tru_tien_thue_dat"
-    },
-    {
-      "source_id": "khau_tru_tien_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_dau_tu"
-    },
-    {
-      "source_id": "uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "xac_dinh_quy_dat_danh_cho_uu_dai"
-    },
-    {
-      "source_id": "xac_dinh_quy_dat_danh_cho_uu_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "doanh_nghiep_vua_va_nho"
-    },
-    {
-      "source_id": "xac_dinh_quy_dat_danh_cho_uu_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "co_so_di_doi_do_o_nhiem_moi_truong"
-    },
-    {
-      "source_id": "dieu_202",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dien_tich_dat_xay_dung_nha_luu_tru_cong_nhan"
-    },
-    {
-      "source_id": "dien_tich_dat_xay_dung_nha_luu_tru_cong_nhan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "dat_thuong_mai_dich_vu"
-    },
-    {
-      "source_id": "dien_tich_dat_xay_dung_nha_luu_tru_cong_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "theo_quy_hoach"
-    },
-    {
-      "source_id": "dien_tich_dat_xay_dung_nha_luu_tru_cong_nhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "huong_uu_dai"
-    },
-    {
-      "source_id": "uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "xac_dinh_nhu_cau_xay_dung_khu_nha_o_cong_trinh_cong_cong"
-    },
-    {
-      "source_id": "xac_dinh_nhu_cau_xay_dung_khu_nha_o_cong_trinh_cong_cong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "nguoi_lao_dong_lam_viec_trong_khu_cong_nghiep"
-    },
-    {
-      "source_id": "xac_dinh_nhu_cau_xay_dung_khu_nha_o_cong_trinh_cong_cong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "tich_hop_vao_quy_hoach"
-    },
-    {
-      "source_id": "uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "bo_tri_quy_dat_giao_dat"
-    },
-    {
-      "source_id": "bo_tri_quy_dat_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "luc_luong_cong_an_nhan_dan"
-    },
-    {
-      "source_id": "bo_tri_quy_dat_giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "bao_dam_an_ninh_trat_tu"
-    },
-    {
-      "source_id": "chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_202"
+      "source_id": "dieu_202_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,156 +1,176 @@
 {
   "entities": [
     {
-      "id": "dieu_39",
-      "label": "ĐiềuLuật",
-      "name": "Điều 39. Quyền và nghĩa vụ của cộng đồng dân cư sử dụng đất"
+      "id": "dieu_39_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 39. Quyền và nghĩa vụ của cộng đồng dân cư sử dụng đất",
+        "ma_dieu": "39",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 39.\n\nQuyền và nghĩa vụ của cộng đồng dân cư sử dụng đất\n1. Cộng đồng dân cư sử dụng đất có quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của\nLuật này .\n2. Cộng đồng dân cư sử dụng đất có quyền và nghĩa vụ như quyền và nghĩa vụ của cá nhân có hình\nthức sử dụng đất tương ứng, trừ quyền để thừa kế.\nTrường hợp cộng đồng dân cư được Nhà nước giao đất không thu tiền sử dụng đất,  công nhận quyền\nsử dụng đất theo hình thức giao đất không thu tiền sử dụng đất thì không có quyền chuyển đổi, chuyển\nnhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.\nMục 4. QUYỀN VÀ NGHĨA  VỤ CỦA  TỔ CHỨC NƯỚC NGOÀI CÓ CHỨC NĂNG NGOẠI\nGIAO, NGƯỜI GỐC VIỆT  NAM ĐỊNH CƯ Ở NƯỚC NGOÀI, TỔ CHỨC KINH TẾ CÓ VỐN\nĐẦU TƯ NƯỚC NGOÀI SỬ DỤNG ĐẤT"
+      }
     },
     {
-      "id": "dieu_26",
-      "label": "ĐiềuLuật",
-      "name": "Điều 26"
+      "id": "chuthe_congdongdancusudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư sử dụng đất"
+      }
     },
     {
-      "id": "dieu_31",
-      "label": "ĐiềuLuật",
-      "name": "Điều 31"
+      "id": "dieuluat_26_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 26",
+        "ma_dieu": "26",
+        "phien_ban": 2024
+      }
     },
     {
-      "id": "chuthe_congdongdancu",
-      "label": "ChủThể",
-      "name": "Cộng đồng dân cư"
+      "id": "dieuluat_31_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 31",
+        "ma_dieu": "31",
+        "phien_ban": 2024
+      }
     },
     {
       "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khainiem_quyen_va_nghia_vu",
-      "label": "KháiNiệm",
-      "name": "Quyền và nghĩa vụ chung"
+      "id": "hanhviphaply_giaodatkhongthutien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất không thu tiền sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_dethuake",
-      "label": "HànhViPhápLý",
-      "name": "Để thừa kế"
+      "id": "hanhviphaply_congnhanquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Công nhận quyền sử dụng đất"
+      }
     },
     {
       "id": "hanhviphaply_chuyendoi",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển đổi quyền sử dụng đất"
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển đổi"
+      }
     },
     {
       "id": "hanhviphaply_chuyennhuong",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển nhượng quyền sử dụng đất"
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển nhượng"
+      }
     },
     {
       "id": "hanhviphaply_tangcho",
-      "label": "HànhViPhápLý",
-      "name": "Tặng cho quyền sử dụng đất"
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tặng cho"
+      }
     },
     {
       "id": "hanhviphaply_chothue",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê quyền sử dụng đất"
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê quyền sử dụng đất"
+      }
     },
     {
       "id": "hanhviphaply_thechap",
-      "label": "HànhViPhápLý",
-      "name": "Thế chấp quyền sử dụng đất"
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thế chấp"
+      }
     },
     {
       "id": "hanhviphaply_gopvon",
-      "label": "HànhViPhápLý",
-      "name": "Góp vốn bằng quyền sử dụng đất"
-    },
-    {
-      "id": "dieukien_datgiao_khongthutien",
-      "label": "ĐiềuKiện",
-      "name": "Được Nhà nước giao đất không thu tiền sử dụng đất hoặc công nhận QSDĐ theo hình thức giao đất không thu tiền sử dụng đất"
-    },
-    {
-      "id": "chetai_khongcoquyen_dethuake",
-      "label": "ChếTài",
-      "name": "Không có quyền để thừa kế"
-    },
-    {
-      "id": "chetai_khongcoquyen_giaodich_dat",
-      "label": "ChếTài",
-      "name": "Không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê, thế chấp, góp vốn bằng quyền sử dụng đất"
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Góp vốn bằng quyền sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_39",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyen_va_nghia_vu"
+      "source_id": "dieu_39_2024",
+      "target_id": "chuthe_congdongdancusudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyen_va_nghia_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_congdongdancu"
+      "source_id": "dieu_39_2024",
+      "target_id": "dieuluat_26_2024",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_39",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieu_26"
+      "source_id": "dieu_39_2024",
+      "target_id": "dieuluat_31_2024",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_39",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieu_31"
+      "source_id": "dieu_39_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_khongcoquyen_dethuake",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_congdongdancu"
+      "source_id": "dieu_39_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_datgiao_khongthutien",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_khongcoquyen_giaodich_dat"
+      "source_id": "dieu_39_2024",
+      "target_id": "hanhviphaply_giaodatkhongthutien",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_khongcoquyen_giaodich_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_congdongdancu"
+      "source_id": "dieu_39_2024",
+      "target_id": "hanhviphaply_congnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_khongcoquyen_giaodich_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyendoi"
+      "source_id": "dieu_39_2024",
+      "target_id": "hanhviphaply_chuyendoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_khongcoquyen_giaodich_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuong"
+      "source_id": "dieu_39_2024",
+      "target_id": "hanhviphaply_chuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_khongcoquyen_giaodich_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tangcho"
+      "source_id": "dieu_39_2024",
+      "target_id": "hanhviphaply_tangcho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_khongcoquyen_giaodich_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothue"
+      "source_id": "dieu_39_2024",
+      "target_id": "hanhviphaply_chothue",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_khongcoquyen_giaodich_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thechap"
+      "source_id": "dieu_39_2024",
+      "target_id": "hanhviphaply_thechap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_khongcoquyen_giaodich_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gopvon"
+      "source_id": "dieu_39_2024",
+      "target_id": "hanhviphaply_gopvon",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

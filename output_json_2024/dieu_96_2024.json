@@ -1,331 +1,88 @@
 {
   "entities": [
     {
-      "id": "dieu_96",
-      "label": "ĐiềuLuật",
-      "name": "Điều 96"
+      "id": "dieu_96_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 96. Bồi thường về đất khi Nhà nước thu hồi đất nông nghiệp của hộ gia đình, cá nhân",
+        "ma_dieu": "96",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 96.\n\nBồi thường về đất khi Nhà nước thu hồi đất nông nghiệp của hộ gia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất, nếu có đủ điều kiện\nđược bồi thường quy định tại Điều 95 của Luật này  thì được bồi thường bằng đất nông nghiệp hoặc\nbằng tiền hoặc bằng đất có mục đích sử dụng khác với loại đất thu hồi hoặc bằng nhà ở.\n2. Hộ gia đình, cá nhân đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất thì việc bồi thường về\nđất nông nghiệp được quy định như sau:\na) Diện tích đất nông nghiệp được bồi thường bao gồm diện tích trong hạn mức quy định tại Điều 176\nvà Điều 177 của Luật này  và diện tích đất do được nhận thừa kế;\nb) Đối với diện tích đất nông nghiệp do nhận chuyển quyền sử dụng đất vượt hạn mức trước ngày 01\ntháng 7 năm 2014 thì việc bồi thường, hỗ trợ được thực hiện theo quy định của Chính phủ.\n3. Đối với đất nông nghiệp đã sử dụng trước ngày 01 tháng 7 năm 2004 mà người sử dụng đất là hộ gia\nđình, cá nhân trực tiếp sản xuất nông nghiệp nhưng không đủ điều kiện để được cấp Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này thì việc bồi\nthường được thực hiện theo quy định của Chính phủ."
+      }
     },
     {
-      "id": "khainiem_boithuong_ve_dat",
-      "label": "KháiNiệm",
-      "name": "Bồi thường về đất"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "hanhviphaply_nha_nuoc_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Nhà nước thu hồi đất"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh_ca_nhan",
-      "label": "ChủThể",
-      "name": "Hộ gia đình, cá nhân"
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
     },
     {
-      "id": "khainiem_dat_nong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Đất nông nghiệp"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "hanhviphaply_su_dung_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất nông nghiệp"
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
     },
     {
-      "id": "dieukien_du_dieu_kien_duoc_boithuong_dieu_95",
-      "label": "ĐiềuKiện",
-      "name": "Đủ điều kiện được bồi thường quy định tại Điều 95"
-    },
-    {
-      "id": "khainiem_dieu_95_luat_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Điều 95 của Luật này"
-    },
-    {
-      "id": "chetai_boi_thuong_bang_dat_nong_nghiep",
-      "label": "ChếTài",
-      "name": "Bồi thường bằng đất nông nghiệp"
-    },
-    {
-      "id": "chetai_boi_thuong_bang_tien",
-      "label": "ChếTài",
-      "name": "Bồi thường bằng tiền"
-    },
-    {
-      "id": "chetai_boi_thuong_bang_dat_co_muc_dich_su_dung_khac",
-      "label": "ChếTài",
-      "name": "Bồi thường bằng đất có mục đích sử dụng khác với loại đất thu hồi"
-    },
-    {
-      "id": "chetai_boi_thuong_bang_nha_o",
-      "label": "ChếTài",
-      "name": "Bồi thường bằng nhà ở"
-    },
-    {
-      "id": "khainiem_boithuong_ve_dat_nong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Bồi thường về đất nông nghiệp"
-    },
-    {
-      "id": "khainiem_dien_tich_dat_nong_nghiep_duoc_boithuong",
-      "label": "KháiNiệm",
-      "name": "Diện tích đất nông nghiệp được bồi thường"
-    },
-    {
-      "id": "khainiem_dien_tich_trong_han_muc",
-      "label": "KháiNiệm",
-      "name": "Diện tích trong hạn mức"
-    },
-    {
-      "id": "khainiem_dieu_176_luat_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Điều 176 của Luật này"
-    },
-    {
-      "id": "khainiem_dieu_177_luat_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Điều 177 của Luật này"
-    },
-    {
-      "id": "khainiem_dien_tich_dat_nhan_thua_ke",
-      "label": "KháiNiệm",
-      "name": "Diện tích đất do được nhận thừa kế"
-    },
-    {
-      "id": "khainiem_dien_tich_dat_nong_nghiep_chuyen_quyen_vuot_han_muc_truoc_01_07_2014",
-      "label": "KháiNiệm",
-      "name": "Diện tích đất nông nghiệp do nhận chuyển quyền sử dụng đất vượt hạn mức trước ngày 01 tháng 7 năm 2014"
-    },
-    {
-      "id": "hanhviphaply_nhan_chuyen_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Nhận chuyển quyền sử dụng đất"
-    },
-    {
-      "id": "khainiem_han_muc",
-      "label": "KháiNiệm",
-      "name": "Hạn mức"
-    },
-    {
-      "id": "dieukien_truoc_ngay_01_thang_7_nam_2014",
-      "label": "ĐiềuKiện",
-      "name": "Trước ngày 01 tháng 7 năm 2014"
-    },
-    {
-      "id": "hanhviphaply_boi_thuong_ho_tro",
-      "label": "HànhViPhápLý",
-      "name": "Bồi thường, hỗ trợ"
-    },
-    {
-      "id": "khainiem_quy_dinh_cua_chinh_phu",
-      "label": "KháiNiệm",
-      "name": "Quy định của Chính phủ"
-    },
-    {
-      "id": "khainiem_dat_nong_nghiep_da_su_dung_truoc_01_07_2004",
-      "label": "KháiNiệm",
-      "name": "Đất nông nghiệp đã sử dụng trước ngày 01 tháng 7 năm 2004"
-    },
-    {
-      "id": "dieukien_su_dung_truoc_ngay_01_thang_7_nam_2004",
-      "label": "ĐiềuKiện",
-      "name": "Sử dụng trước ngày 01 tháng 7 năm 2004"
-    },
-    {
-      "id": "chuthe_nguoi_su_dung_dat_ho_gia_dinh_ca_nhan_truc_tiep_san_xuat_nong_nghiep",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất là hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp"
-    },
-    {
-      "id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan",
-      "label": "ĐiềuKiện",
-      "name": "Không đủ điều kiện để được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "khainiem_quy_dinh_cua_luat_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Quy định của Luật này"
-    },
-    {
-      "id": "hanhviphaply_boi_thuong",
-      "label": "HànhViPhápLý",
-      "name": "Bồi thường"
+      "id": "hanhviphaply_boithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_96",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_boithuong_ve_dat"
+      "source_id": "dieu_96_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_boithuong_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+      "source_id": "dieu_96_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_boithuong_ve_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_nong_nghiep"
+      "source_id": "dieu_96_2024",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_nha_nuoc_thu_hoi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_boithuong_ve_dat"
+      "source_id": "dieu_96_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_96",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_su_dung_dat_nong_nghiep"
+      "source_id": "dieu_96_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ho_gia_dinh_ca_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_su_dung_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_nha_nuoc_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_du_dieu_kien_duoc_boithuong_dieu_95"
-    },
-    {
-      "source_id": "dieukien_du_dieu_kien_duoc_boithuong_dieu_95",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dieu_95_luat_dat_dai"
-    },
-    {
-      "source_id": "khainiem_boithuong_ve_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_bang_dat_nong_nghiep"
-    },
-    {
-      "source_id": "khainiem_boithuong_ve_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_bang_tien"
-    },
-    {
-      "source_id": "khainiem_boithuong_ve_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_bang_dat_co_muc_dich_su_dung_khac"
-    },
-    {
-      "source_id": "khainiem_boithuong_ve_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_bang_nha_o"
-    },
-    {
-      "source_id": "dieu_96",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_boithuong_ve_dat_nong_nghiep"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh_ca_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_boithuong_ve_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_nha_nuoc_thu_hoi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_boithuong_ve_dat_nong_nghiep"
-    },
-    {
-      "source_id": "khainiem_boithuong_ve_dat_nong_nghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dien_tich_dat_nong_nghiep_duoc_boithuong"
-    },
-    {
-      "source_id": "khainiem_dien_tich_dat_nong_nghiep_duoc_boithuong",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dien_tich_trong_han_muc"
-    },
-    {
-      "source_id": "khainiem_dien_tich_trong_han_muc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dieu_176_luat_dat_dai"
-    },
-    {
-      "source_id": "khainiem_dien_tich_trong_han_muc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dieu_177_luat_dat_dai"
-    },
-    {
-      "source_id": "khainiem_dien_tich_dat_nong_nghiep_duoc_boithuong",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dien_tich_dat_nhan_thua_ke"
-    },
-    {
-      "source_id": "dieu_96",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dien_tich_dat_nong_nghiep_chuyen_quyen_vuot_han_muc_truoc_01_07_2014"
-    },
-    {
-      "source_id": "khainiem_dien_tich_dat_nong_nghiep_chuyen_quyen_vuot_han_muc_truoc_01_07_2014",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_nhan_chuyen_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_nhan_chuyen_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_han_muc"
-    },
-    {
-      "source_id": "khainiem_dien_tich_dat_nong_nghiep_chuyen_quyen_vuot_han_muc_truoc_01_07_2014",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truoc_ngay_01_thang_7_nam_2014"
-    },
-    {
-      "source_id": "khainiem_dien_tich_dat_nong_nghiep_chuyen_quyen_vuot_han_muc_truoc_01_07_2014",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_boi_thuong_ho_tro"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong_ho_tro",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quy_dinh_cua_chinh_phu"
-    },
-    {
-      "source_id": "dieu_96",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_nong_nghiep_da_su_dung_truoc_01_07_2004"
-    },
-    {
-      "source_id": "khainiem_dat_nong_nghiep_da_su_dung_truoc_01_07_2004",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_su_dung_truoc_ngay_01_thang_7_nam_2004"
-    },
-    {
-      "source_id": "khainiem_dat_nong_nghiep_da_su_dung_truoc_01_07_2004",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat_ho_gia_dinh_ca_nhan_truc_tiep_san_xuat_nong_nghiep"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat_ho_gia_dinh_ca_nhan_truc_tiep_san_xuat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quy_dinh_cua_luat_dat_dai"
-    },
-    {
-      "source_id": "khainiem_dat_nong_nghiep_da_su_dung_truoc_01_07_2004",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_boi_thuong"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quy_dinh_cua_chinh_phu"
+      "source_id": "dieu_96_2024",
+      "target_id": "hanhviphaply_boithuong",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

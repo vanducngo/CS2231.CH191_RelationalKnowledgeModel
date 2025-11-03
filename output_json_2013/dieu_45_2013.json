@@ -1,316 +1,139 @@
 {
   "entities": [
     {
-      "id": "dieu_45",
-      "label": "ĐiềuLuật",
-      "name": "Điều 45"
+      "id": "dieu_45_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 45. Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "45",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 45.\n\nThẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất\n1. Quốc hội quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia.\n2. Chính phủ phê duyệt quy hoạch, kế hoạch sử dụng đất cấp tỉnh; quy hoạch, kế hoạch sử dụng đất\nquốc phòng; quy hoạch, kế hoạch sử dụng đất an ninh.\nỦy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp thông qua quy hoạch, kế hoạch sử dụng\nđất cấp tỉnh trước khi trình Chính phủ phê duyệt.\n3. Ủy ban nhân dân cấp tỉnh phê duyệt quy hoạch, kế hoạch sử dụng đất cấp huyện.\nỦy ban nhân dân cấp huyện trình Hội đồng nhân dân cùng cấp thông qua quy hoạch sử dụng đất cấp\nhuyện trước khi trình Ủy ban nhân dân cấp tỉnh phê duyệt.\nỦy ban nhân dân cấp huyện trình Ủy ban nhân dân cấp tỉnh phê duyệt kế hoạch sử dụng đất hàng năm\ncủa cấp huyện. Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cấp tỉnh thông qua danh mục dự án\ncần thu hồi đất quy định tại  khoản 3 Điều 62 của Luật này  trước khi phê duyệt kế hoạch sử dụng đất\nhàng năm của cấp huyện."
+      }
     },
     {
-      "id": "khauniem_tham_quyen_quyet_dinh_phe_duyet_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Thẩm quyền quyết định, phê duyệt quy hoạch, kế hoạch sử dụng đất"
+      "id": "chuthe_quochoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
     },
     {
-      "id": "chuthe_quoc_hoi",
-      "label": "ChủThể",
-      "name": "Quốc hội"
+      "id": "hanhviphaply_quyetdinhquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia"
+      }
     },
     {
-      "id": "hanhviphaply_quyet_dinh",
-      "label": "HànhViPhápLý",
-      "name": "quyết định"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_cap_quoc_gia",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất cấp quốc gia"
+      "id": "hanhviphaply_pheduyetquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phê duyệt quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
     },
     {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "hanhviphaply_phe_duyet",
-      "label": "HànhViPhápLý",
-      "name": "phê duyệt"
+      "id": "chuthe_hdndcungcap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân cùng cấp"
+      }
     },
     {
-      "id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      "id": "hanhviphaply_thongquaquyhoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thông qua quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
     },
     {
-      "id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_quoc_phong",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất quốc phòng"
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
-      "id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_an_ninh",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất an ninh"
+      "id": "hanhviphaply_pheduyetquyhoachcaphuyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phê duyệt quy hoạch, kế hoạch sử dụng đất cấp huyện"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "hanhviphaply_trinh",
-      "label": "HànhViPhápLý",
-      "name": "trình"
-    },
-    {
-      "id": "chuthe_hoi_dong_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Hội đồng nhân dân cấp tỉnh"
-    },
-    {
-      "id": "hanhviphaply_thong_qua",
-      "label": "HànhViPhápLý",
-      "name": "thông qua"
-    },
-    {
-      "id": "dieukien_truoc_khi_trinh_chinh_phu_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "trước khi trình Chính phủ phê duyệt"
-    },
-    {
-      "id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_cap_huyen",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất cấp huyện"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "chuthe_hoi_dong_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Hội đồng nhân dân cấp huyện"
-    },
-    {
-      "id": "khauniem_quy_hoach_su_dung_dat_cap_huyen",
-      "label": "KháiNiệm",
-      "name": "quy hoạch sử dụng đất cấp huyện"
-    },
-    {
-      "id": "dieukien_truoc_khi_trinh_uy_ban_nhan_dan_cap_tinh_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "trước khi trình Ủy ban nhân dân cấp tỉnh phê duyệt"
-    },
-    {
-      "id": "khauniem_ke_hoach_su_dung_dat_hang_nam_cua_cap_huyen",
-      "label": "KháiNiệm",
-      "name": "kế hoạch sử dụng đất hàng năm của cấp huyện"
-    },
-    {
-      "id": "khauniem_danh_muc_du_an_can_thu_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "danh mục dự án cần thu hồi đất"
-    },
-    {
-      "id": "dieu_62",
-      "label": "ĐiềuLuật",
-      "name": "Điều 62"
-    },
-    {
-      "id": "dieukien_quy_dinh_tai_khoan_3_dieu_62_cua_luat_nay",
-      "label": "ĐiềuKiện",
-      "name": "quy định tại khoản 3 Điều 62 của Luật này"
-    },
-    {
-      "id": "dieukien_truoc_khi_phe_duyet_ke_hoach_su_dung_dat_hang_nam_cua_cap_huyen",
-      "label": "ĐiềuKiện",
-      "name": "trước khi phê duyệt kế hoạch sử dụng đất hàng năm của cấp huyện"
+      "id": "dieu_62_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 62",
+        "ma_dieu": "62",
+        "phien_ban": 2013,
+        "noi_dung": "khoản 3 Điều 62 của Luật này"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_45",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_tham_quyen_quyet_dinh_phe_duyet_quy_hoach_ke_hoach_su_dung_dat"
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_quoc_hoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_quyet_dinh"
+      "source_id": "dieu_45_2013",
+      "target_id": "hanhviphaply_quyetdinhquyhoach",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quyet_dinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_cap_quoc_gia"
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_phe_duyet"
+      "source_id": "dieu_45_2013",
+      "target_id": "hanhviphaply_pheduyetquyhoach",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_phe_duyet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh"
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_phe_duyet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_quoc_phong"
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_hdndcungcap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_phe_duyet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_an_ninh"
+      "source_id": "dieu_45_2013",
+      "target_id": "hanhviphaply_thongquaquyhoach",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_trinh"
+      "source_id": "dieu_45_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_trinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_hoi_dong_nhan_dan_cap_tinh"
+      "source_id": "dieu_45_2013",
+      "target_id": "hanhviphaply_pheduyetquyhoachcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_trinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_hoi_dong_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thong_qua"
-    },
-    {
-      "source_id": "hanhviphaply_thong_qua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh"
-    },
-    {
-      "source_id": "hanhviphaply_thong_qua",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_truoc_khi_trinh_chinh_phu_phe_duyet"
-    },
-    {
-      "source_id": "dieukien_truoc_khi_trinh_chinh_phu_phe_duyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_chinh_phu"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_phe_duyet"
-    },
-    {
-      "source_id": "hanhviphaply_phe_duyet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quy_hoach_ke_hoach_su_dung_dat_cap_huyen"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_trinh"
-    },
-    {
-      "source_id": "hanhviphaply_trinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_hoi_dong_nhan_dan_cap_huyen"
-    },
-    {
-      "source_id": "hanhviphaply_trinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quy_hoach_su_dung_dat_cap_huyen"
-    },
-    {
-      "source_id": "chuthe_hoi_dong_nhan_dan_cap_huyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thong_qua"
-    },
-    {
-      "source_id": "hanhviphaply_thong_qua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quy_hoach_su_dung_dat_cap_huyen"
-    },
-    {
-      "source_id": "hanhviphaply_thong_qua",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_truoc_khi_trinh_uy_ban_nhan_dan_cap_tinh_phe_duyet"
-    },
-    {
-      "source_id": "dieukien_truoc_khi_trinh_uy_ban_nhan_dan_cap_tinh_phe_duyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_trinh"
-    },
-    {
-      "source_id": "hanhviphaply_trinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_ke_hoach_su_dung_dat_hang_nam_cua_cap_huyen"
-    },
-    {
-      "source_id": "hanhviphaply_trinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_phe_duyet"
-    },
-    {
-      "source_id": "hanhviphaply_phe_duyet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_ke_hoach_su_dung_dat_hang_nam_cua_cap_huyen"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_trinh"
-    },
-    {
-      "source_id": "hanhviphaply_trinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_hoi_dong_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "hanhviphaply_trinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_danh_muc_du_an_can_thu_hoi_dat"
-    },
-    {
-      "source_id": "khauniem_danh_muc_du_an_can_thu_hoi_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_quy_dinh_tai_khoan_3_dieu_62_cua_luat_nay"
-    },
-    {
-      "source_id": "dieukien_quy_dinh_tai_khoan_3_dieu_62_cua_luat_nay",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_62"
-    },
-    {
-      "source_id": "chuthe_hoi_dong_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thong_qua"
-    },
-    {
-      "source_id": "hanhviphaply_thong_qua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_danh_muc_du_an_can_thu_hoi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_thong_qua",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_truoc_khi_phe_duyet_ke_hoach_su_dung_dat_hang_nam_cua_cap_huyen"
-    },
-    {
-      "source_id": "dieukien_truoc_khi_phe_duyet_ke_hoach_su_dung_dat_hang_nam_cua_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+      "source_id": "dieu_45_2013",
+      "target_id": "dieu_62_2013",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

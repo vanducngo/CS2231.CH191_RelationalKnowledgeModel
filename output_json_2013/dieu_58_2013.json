@@ -1,351 +1,136 @@
 {
   "entities": [
     {
-      "id": "dieu_58",
-      "label": "ĐiềuLuật",
-      "name": "Điều 58"
+      "id": "dieu_58_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 58",
+        "ma_dieu": "58",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 58.\n\nĐiều kiện giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất để thực hiện dự\nán đầu tư\n1. Đối với dự án có sử dụng đất trồng lúa, đất rừng phòng hộ, đất rừng đặc dụng vào các mục đích\nkhác mà không thuộc trường hợp được Quốc hội quyết định, Thủ tướng Chính phủ chấp thuận chủ\ntrương đầu tư thì cơ quan nhà nước có thẩm quyền chỉ được quyết định giao đất, cho thuê đất, cho\nphép chuyển mục đích sử dụng đất khi có một trong các văn bản sau đây:\na) Văn bản chấp thuận của Thủ tướng Chính phủ đối với trường hợp chuyển mục đích sử dụng từ 10\nhéc ta đất trồng lúa trở lên; từ 20 héc ta đất rừng phòng hộ, đất rừng đặc dụng trở lên;\nb) Nghị quyết của Hội đồng nhân dân cấp tỉnh đối với trường hợp chuyển mục đích sử dụng dưới 10\nhéc ta đất trồng lúa; dưới 20 héc ta đất rừng phòng hộ, đất rừng đặc dụng.\n2. Đối với dự án sử dụng đất tại đảo và xã, phường, thị trấn biên giới, ven biển thì cơ quan nhà nước\ncó thẩm quyền chỉ được quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất khi\nđược sự chấp thuận bằng văn bản của các bộ, ngành có liên quan.\n3. Người được Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất để thực hiện\ndự án đầu tư phải có các điều kiện sau đây:\na) Có năng lực tài chính để bảo đảm việc sử dụng đất theo tiến độ của dự án đầu tư;\nb) Ký quỹ theo quy định của pháp luật về đầu tư;\nc) Không vi phạm quy định của pháp luật về đất đai đối với trường hợp đang sử dụng đất do Nhà nước\ngiao đất, cho thuê đất để thực hiện dự án đầu tư khác.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "du_an_dau_tu",
-      "label": "KháiNiệm",
-      "name": "dự án đầu tư"
+      "id": "dieukien_giaodat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện giao đất"
+      }
     },
     {
-      "id": "dat_trong_lua",
-      "label": "KháiNiệm",
-      "name": "đất trồng lúa"
+      "id": "dieukien_chothuedat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện cho thuê đất"
+      }
     },
     {
-      "id": "dat_rung_phong_ho",
-      "label": "KháiNiệm",
-      "name": "đất rừng phòng hộ"
+      "id": "dieukien_chuyenmucdichsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện chuyển mục đích sử dụng đất"
+      }
     },
     {
-      "id": "dat_rung_dac_dung",
-      "label": "KháiNiệm",
-      "name": "đất rừng đặc dụng"
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
     },
     {
-      "id": "dat_tai_dao_xa_phuong_thi_tran_bien_gioi_ven_bien",
-      "label": "KháiNiệm",
-      "name": "đất tại đảo và xã, phường, thị trấn biên giới, ven biển"
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
     },
     {
-      "id": "phap_luat_ve_dau_tu",
-      "label": "KháiNiệm",
-      "name": "pháp luật về đầu tư"
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển mục đích sử dụng đất"
+      }
     },
     {
-      "id": "phap_luat_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "pháp luật về đất đai"
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước có thẩm quyền"
+      }
     },
     {
-      "id": "quoc_hoi",
-      "label": "ChủThể",
-      "name": "Quốc hội"
+      "id": "dieukien_nangluoctaichinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có năng lực tài chính để bảo đảm việc sử dụng đất theo tiến độ của dự án đầu tư"
+      }
     },
     {
-      "id": "thu_tuong_chinh_phu",
-      "label": "ChủThể",
-      "name": "Thủ tướng Chính phủ"
+      "id": "dieukien_kyquy",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Ký quỹ theo quy định của pháp luật về đầu tư"
+      }
     },
     {
-      "id": "co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "hoi_dong_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Hội đồng nhân dân cấp tỉnh"
-    },
-    {
-      "id": "bo_nganh_co_lien_quan",
-      "label": "ChủThể",
-      "name": "các bộ, ngành có liên quan"
-    },
-    {
-      "id": "nguoi_thuc_hien_du_an_dau_tu",
-      "label": "ChủThể",
-      "name": "Người được Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất để thực hiện dự án đầu tư"
-    },
-    {
-      "id": "nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
-    },
-    {
-      "id": "cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "chuyen_muc_dich_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "chap_thuan_chu_truong_dau_tu",
-      "label": "HànhViPhápLý",
-      "name": "chấp thuận chủ trương đầu tư"
-    },
-    {
-      "id": "quyet_dinh_giao_dat_cho_thue_dat_chuyen_muc_dich_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất"
-    },
-    {
-      "id": "dieu_kien_ap_dung_khoan_1",
-      "label": "ĐiềuKiện",
-      "name": "Dự án có sử dụng đất trồng lúa, đất rừng phòng hộ, đất rừng đặc dụng vào các mục đích khác mà không thuộc trường hợp được Quốc hội quyết định, Thủ tướng Chính phủ chấp thuận chủ trương đầu tư"
-    },
-    {
-      "id": "dieu_kien_co_van_ban_chap_thuan_khoan_1",
-      "label": "ĐiềuKiện",
-      "name": "có một trong các văn bản sau đây"
-    },
-    {
-      "id": "dieu_kien_van_ban_chap_thuan_ttcp_dat_lon",
-      "label": "ĐiềuKiện",
-      "name": "Văn bản chấp thuận của Thủ tướng Chính phủ đối với trường hợp chuyển mục đích sử dụng từ 10 héc ta đất trồng lúa trở lên; từ 20 héc ta đất rừng phòng hộ, đất rừng đặc dụng trở lên"
-    },
-    {
-      "id": "dieu_kien_nghi_quyet_hdnd_cap_tinh_dat_nho",
-      "label": "ĐiềuKiện",
-      "name": "Nghị quyết của Hội đồng nhân dân cấp tỉnh đối với trường hợp chuyển mục đích sử dụng dưới 10 héc ta đất trồng lúa; dưới 20 héc ta đất rừng phòng hộ, đất rừng đặc dụng"
-    },
-    {
-      "id": "dieu_kien_ap_dung_khoan_2",
-      "label": "ĐiềuKiện",
-      "name": "Dự án sử dụng đất tại đảo và xã, phường, thị trấn biên giới, ven biển"
-    },
-    {
-      "id": "dieu_kien_chap_thuan_van_ban_bo_nganh_lien_quan",
-      "label": "ĐiềuKiện",
-      "name": "được sự chấp thuận bằng văn bản của các bộ, ngành có liên quan"
-    },
-    {
-      "id": "dieu_kien_nang_luc_tai_chinh",
-      "label": "ĐiềuKiện",
-      "name": "Có năng lực tài chính để bảo đảm việc sử dụng đất theo tiến độ của dự án đầu tư"
-    },
-    {
-      "id": "dieu_kien_ky_quy",
-      "label": "ĐiềuKiện",
-      "name": "Ký quỹ theo quy định của pháp luật về đầu tư"
-    },
-    {
-      "id": "dieu_kien_khong_vi_pham_phap_luat_ve_dat_dai",
-      "label": "ĐiềuKiện",
-      "name": "Không vi phạm quy định của pháp luật về đất đai đối với trường hợp đang sử dụng đất do Nhà nước giao đất, cho thuê đất để thực hiện dự án đầu tư khác"
+      "id": "dieukien_khongvipham",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không vi phạm quy định của pháp luật về đất đai đối với trường hợp đang sử dụng đất do Nhà nước giao đất, cho thuê đất để thực hiện dự án đầu tư khác"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_58",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "quyet_dinh_giao_dat_cho_thue_dat_chuyen_muc_dich_su_dung_dat"
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_58",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "du_an_dau_tu"
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "quyet_dinh_giao_dat_cho_thue_dat_chuyen_muc_dich_su_dung_dat"
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "quyet_dinh_giao_dat_cho_thue_dat_chuyen_muc_dich_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_co_van_ban_chap_thuan_khoan_1"
+      "source_id": "dieu_58_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_kien_co_van_ban_chap_thuan_khoan_1",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_kien_ap_dung_khoan_1"
+      "source_id": "dieu_58_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_kien_ap_dung_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_van_ban_chap_thuan_ttcp_dat_lon"
+      "source_id": "dieu_58_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_kien_ap_dung_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_nghi_quyet_hdnd_cap_tinh_dat_nho"
+      "source_id": "dieu_58_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "quoc_hoi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chap_thuan_chu_truong_dau_tu"
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_nangluoctaichinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "thu_tuong_chinh_phu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chap_thuan_chu_truong_dau_tu"
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_kyquy",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "thu_tuong_chinh_phu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_van_ban_chap_thuan_ttcp_dat_lon"
-    },
-    {
-      "source_id": "hoi_dong_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_nghi_quyet_hdnd_cap_tinh_dat_nho"
-    },
-    {
-      "source_id": "dieu_kien_van_ban_chap_thuan_ttcp_dat_lon",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "dieu_kien_nghi_quyet_hdnd_cap_tinh_dat_nho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "dat_trong_lua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_van_ban_chap_thuan_ttcp_dat_lon"
-    },
-    {
-      "source_id": "dat_rung_phong_ho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_van_ban_chap_thuan_ttcp_dat_lon"
-    },
-    {
-      "source_id": "dat_rung_dac_dung",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_van_ban_chap_thuan_ttcp_dat_lon"
-    },
-    {
-      "source_id": "dat_trong_lua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_nghi_quyet_hdnd_cap_tinh_dat_nho"
-    },
-    {
-      "source_id": "dat_rung_phong_ho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_nghi_quyet_hdnd_cap_tinh_dat_nho"
-    },
-    {
-      "source_id": "dat_rung_dac_dung",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_nghi_quyet_hdnd_cap_tinh_dat_nho"
-    },
-    {
-      "source_id": "quyet_dinh_giao_dat_cho_thue_dat_chuyen_muc_dich_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_chap_thuan_van_ban_bo_nganh_lien_quan"
-    },
-    {
-      "source_id": "dieu_kien_chap_thuan_van_ban_bo_nganh_lien_quan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_kien_ap_dung_khoan_2"
-    },
-    {
-      "source_id": "dieu_kien_ap_dung_khoan_2",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dat_tai_dao_xa_phuong_thi_tran_bien_gioi_ven_bien"
-    },
-    {
-      "source_id": "bo_nganh_co_lien_quan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_chap_thuan_van_ban_bo_nganh_lien_quan"
-    },
-    {
-      "source_id": "nguoi_thuc_hien_du_an_dau_tu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_nang_luc_tai_chinh"
-    },
-    {
-      "source_id": "nguoi_thuc_hien_du_an_dau_tu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_ky_quy"
-    },
-    {
-      "source_id": "nguoi_thuc_hien_du_an_dau_tu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_khong_vi_pham_phap_luat_ve_dat_dai"
-    },
-    {
-      "source_id": "nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "giao_dat"
-    },
-    {
-      "source_id": "nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "cho_thue_dat"
-    },
-    {
-      "source_id": "nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "nguoi_thuc_hien_du_an_dau_tu"
-    },
-    {
-      "source_id": "cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "nguoi_thuc_hien_du_an_dau_tu"
-    },
-    {
-      "source_id": "chuyen_muc_dich_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "nguoi_thuc_hien_du_an_dau_tu"
-    },
-    {
-      "source_id": "nguoi_thuc_hien_du_an_dau_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "du_an_dau_tu"
-    },
-    {
-      "source_id": "dieu_kien_nang_luc_tai_chinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "du_an_dau_tu"
-    },
-    {
-      "source_id": "dieu_kien_ky_quy",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "phap_luat_ve_dau_tu"
-    },
-    {
-      "source_id": "dieu_kien_khong_vi_pham_phap_luat_ve_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "phap_luat_ve_dat_dai"
-    },
-    {
-      "source_id": "dieu_kien_khong_vi_pham_phap_luat_ve_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "su_dung_dat"
-    },
-    {
-      "source_id": "chinh_phu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_58"
+      "source_id": "dieu_58_2013",
+      "target_id": "dieukien_khongvipham",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,251 +1,88 @@
 {
   "entities": [
     {
-      "id": "dieu_180",
-      "label": "ĐiềuLuật",
-      "name": "Điều 180"
+      "id": "dieu_180_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 180",
+        "ma_dieu": "180",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 180.\n\nQuyền và nghĩa vụ của hộ gia đình, cá nhân chuyển mục đích sử dụng đất từ loại đất\nkhông thu tiền sử dụng đất sang loại đất có thu tiền sử dụng đất hoặc thuê đất about:blank\n. Hộ gia đình, cá nhân chuyển mục đích sử dụng đất từ loại đất không thu tiền sử dụng đất sang loại\nđất có thu tiền sử dụng đất hoặc thuê đất có quyền và nghĩa vụ chung quy định tại  Điều 166 và Điều\n170 của Luật này .\n2. Quyền và nghĩa vụ của hộ gia đình, cá nhân sử dụng đất được cơ quan nhà nước có thẩm quyền cho\nphép chuyển mục đích sử dụng đất từ đất không thu tiền sử dụng đất sang đất có thu tiền sử dụng đất\nhoặc thuê đất được quy định như sau:\na) Trường hợp được Nhà nước giao đất có thu tiền sử dụng đất hoặc thuê đất thu tiền thuê đất một lần\ncho cả thời gian thuê thì có quyền và nghĩa vụ quy định tại  khoản 1 Điều 179 của Luật này ;\nb) Trường hợp được Nhà nước cho thuê đất thu tiền thuê đất hàng năm thì có quyền và nghĩa vụ quy\nđịnh tại  khoản 2 Điều 179 của Luật này ."
+      }
     },
     {
-      "id": "dieu_166",
-      "label": "ĐiềuLuật",
-      "name": "Điều 166"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "dieu_170",
-      "label": "ĐiềuLuật",
-      "name": "Điều 170"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "khoan_1_dieu_179",
-      "label": "ĐiềuLuật",
-      "name": "khoản 1 Điều 179"
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
     },
     {
-      "id": "khoan_2_dieu_179",
-      "label": "ĐiềuLuật",
-      "name": "khoản 2 Điều 179"
+      "id": "dieukien_datkhongthutien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "đất không thu tiền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_hogiadinhcanhan",
-      "label": "ChủThể",
-      "name": "hộ gia đình, cá nhân"
+      "id": "dieukien_datcothutien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "đất có thu tiền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_coquannhanuoc_cothamquyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "khauniem_quyen_va_nghia_vu",
-      "label": "KháiNiệm",
-      "name": "Quyền và nghĩa vụ"
-    },
-    {
-      "id": "khauniem_dat_khong_thu_tien_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "loại đất không thu tiền sử dụng đất"
-    },
-    {
-      "id": "khauniem_dat_co_thu_tien_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "loại đất có thu tiền sử dụng đất"
-    },
-    {
-      "id": "khauniem_thue_dat",
-      "label": "KháiNiệm",
-      "name": "thuê đất"
-    },
-    {
-      "id": "khauniem_thue_dat_thutien_motlan",
-      "label": "KháiNiệm",
-      "name": "thu tiền thuê đất một lần cho cả thời gian thuê"
-    },
-    {
-      "id": "khauniem_thue_dat_thutien_hangnam",
-      "label": "KháiNiệm",
-      "name": "thu tiền thuê đất hàng năm"
-    },
-    {
-      "id": "hanhvi_chuyen_muc_dich_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "hanhvi_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất"
-    },
-    {
-      "id": "hanhvi_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
-    },
-    {
-      "id": "hanhvi_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "hanhvi_cho_phep",
-      "label": "HànhViPhápLý",
-      "name": "cho phép"
-    },
-    {
-      "id": "dieukien_chuyen_muc_dich_khoan_1",
-      "label": "ĐiềuKiện",
-      "name": "chuyển mục đích sử dụng đất từ loại đất không thu tiền sử dụng đất sang loại đất có thu tiền sử dụng đất hoặc thuê đất"
-    },
-    {
-      "id": "dieukien_duoc_co_quan_cho_phep_chuyen_muc_dich",
-      "label": "ĐiềuKiện",
-      "name": "được cơ quan nhà nước có thẩm quyền cho phép chuyển mục đích sử dụng đất từ đất không thu tiền sử dụng đất sang đất có thu tiền sử dụng đất hoặc thuê đất"
-    },
-    {
-      "id": "dieukien_duoc_nha_nuoc_giao_hoac_thue_mot_lan",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp được Nhà nước giao đất có thu tiền sử dụng đất hoặc thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
-    },
-    {
-      "id": "dieukien_duoc_nha_nuoc_cho_thue_hang_nam",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp được Nhà nước cho thuê đất thu tiền thuê đất hàng năm"
+      "id": "dieukien_thuedat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "thuê đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_180",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyen_va_nghia_vu"
+      "source_id": "dieu_180_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_quyen_va_nghia_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinhcanhan"
+      "source_id": "dieu_180_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_hogiadinhcanhan",
-      "relationship_type": "THỰC_HIỆN",
-      "target_id": "dieukien_chuyen_muc_dich_khoan_1"
+      "source_id": "dieu_180_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_chuyen_muc_dich_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_chuyen_muc_dich_su_dung_dat"
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "target_id": "dieukien_datkhongthutien",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhvi_chuyen_muc_dich_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khauniem_dat_khong_thu_tien_su_dung_dat"
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "target_id": "dieukien_datcothutien",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhvi_chuyen_muc_dich_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khauniem_dat_co_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_chuyen_muc_dich_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khauniem_thue_dat"
-    },
-    {
-      "source_id": "dieu_166",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyen_va_nghia_vu"
-    },
-    {
-      "source_id": "dieu_170",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyen_va_nghia_vu"
-    },
-    {
-      "source_id": "chuthe_hogiadinhcanhan",
-      "relationship_type": "THỰC_HIỆN",
-      "target_id": "hanhvi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_co_quan_cho_phep_chuyen_muc_dich"
-    },
-    {
-      "source_id": "dieukien_duoc_co_quan_cho_phep_chuyen_muc_dich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_coquannhanuoc_cothamquyen"
-    },
-    {
-      "source_id": "chuthe_coquannhanuoc_cothamquyen",
-      "relationship_type": "THỰC_HIỆN",
-      "target_id": "hanhvi_cho_phep"
-    },
-    {
-      "source_id": "hanhvi_cho_phep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_duoc_nha_nuoc_giao_hoac_thue_mot_lan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "THỰC_HIỆN",
-      "target_id": "hanhvi_giao_dat"
-    },
-    {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khauniem_dat_co_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "THỰC_HIỆN",
-      "target_id": "hanhvi_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khauniem_thue_dat_thutien_motlan"
-    },
-    {
-      "source_id": "dieukien_duoc_nha_nuoc_giao_hoac_thue_mot_lan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khoan_1_dieu_179"
-    },
-    {
-      "source_id": "khoan_1_dieu_179",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyen_va_nghia_vu"
-    },
-    {
-      "source_id": "dieukien_duoc_nha_nuoc_cho_thue_hang_nam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nhanuoc"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "THỰC_HIỆN",
-      "target_id": "hanhvi_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khauniem_thue_dat_thutien_hangnam"
-    },
-    {
-      "source_id": "dieukien_duoc_nha_nuoc_cho_thue_hang_nam",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khoan_2_dieu_179"
-    },
-    {
-      "source_id": "khoan_2_dieu_179",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyen_va_nghia_vu"
+      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "target_id": "dieukien_thuedat",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

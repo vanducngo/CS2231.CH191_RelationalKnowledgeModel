@@ -1,148 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_5",
-      "label": "ĐiềuLuật",
+      "id": "dieu_5_2024",
+      "label": "DieuLuat",
       "properties": {
-        "Tên Điều": "Nguyên tắc sử dụng đất",
-        "Mã Điều": 5,
-        "Tên Luật": "Luật Đất đai 2024"
+        "name": "Điều 5. Nguyên tắc sử dụng đất",
+        "ma_dieu": "5",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 5.\n\nNguyên tắc sử dụng đất\n1. Đúng mục đích sử dụng đất.\n2. Bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.\n3. Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ\nthực vật, phân hóa học làm ô nhiễm, thoái hóa đất.\n4. Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của\nLuật này và quy định khác của pháp luật có liên quan; không xâm phạm quyền, lợi ích hợp pháp của\nngười sử dụng đất liền kề và xung quanh."
       }
     },
     {
       "id": "khainiem_nguyentacsudungdat",
-      "label": "KháiNiệm",
+      "label": "KhaiNiem",
       "properties": {
-        "Tên": "Nguyên tắc sử dụng đất"
+        "name": "Nguyên tắc sử dụng đất"
       }
     },
     {
-      "id": "chuthe_nguoisudungdat",
-      "label": "ChủThể",
+      "id": "hanhviphaply_dungmucdichsudungdat",
+      "label": "HanhViPhapLy",
       "properties": {
-        "Tên": "Người sử dụng đất"
+        "name": "Đúng mục đích sử dụng đất"
       }
     },
     {
-      "id": "chuthe_nguoisudungdatlienkevasungquanh",
-      "label": "ChủThể",
+      "id": "hanhviphaply_sudungdatbenvungtietkiemhieuqua",
+      "label": "HanhViPhapLy",
       "properties": {
-        "Tên": "Người sử dụng đất liền kề và xung quanh"
+        "name": "Sử dụng đất bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất"
       }
     },
     {
-      "id": "hanhviphaply_sudungdat",
-      "label": "HànhViPhápLý",
+      "id": "hanhviphaply_baovedatbaovemoitruongthichungbiendoikhihau",
+      "label": "HanhViPhapLy",
       "properties": {
-        "Tên": "Sử dụng đất"
+        "name": "Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu"
       }
     },
     {
-      "id": "hanhviphaply_baovedat",
-      "label": "HànhViPhápLý",
+      "id": "hanhviphaply_khonglamdungthuocbaovethucvatphanhoahoc",
+      "label": "HanhViPhapLy",
       "properties": {
-        "Tên": "Bảo vệ đất"
+        "name": "Không được lạm dụng thuốc bảo vệ thực vật, phân hóa học làm ô nhiễm, thoái hóa đất"
       }
     },
     {
-      "id": "hanhviphaply_baovemoitruong",
-      "label": "HànhViPhápLý",
+      "id": "hanhviphaply_thuchienquyennghiavunguoihanquyennghiavucuasdungdat",
+      "label": "HanhViPhapLy",
       "properties": {
-        "Tên": "Bảo vệ môi trường"
+        "name": "Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan"
       }
     },
     {
-      "id": "hanhviphaply_thuchienquyenvanghiavu",
-      "label": "HànhViPhápLý",
+      "id": "hanhviphaply_khongxamphamquyenloiichhopnguoisudungdat",
+      "label": "HanhViPhapLy",
       "properties": {
-        "Tên": "Thực hiện quyền và nghĩa vụ"
-      }
-    },
-    {
-      "id": "hanhviphaply_xamphamquyenloiichhophap",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "Tên": "Xâm phạm quyền, lợi ích hợp pháp",
-        "Mô tả": "Hành vi bị cấm"
-      }
-    },
-    {
-      "id": "dieukien_dungmucdich",
-      "label": "ĐiềuKiện",
-      "properties": {
-        "Tên": "Đúng mục đích sử dụng đất"
-      }
-    },
-    {
-      "id": "dieukien_benvungtietkiemcohieuqua",
-      "label": "ĐiềuKiện",
-      "properties": {
-        "Tên": "Bền vững, tiết kiệm, có hiệu quả"
-      }
-    },
-    {
-      "id": "dieukien_trongthoihansudungdat",
-      "label": "ĐiềuKiện",
-      "properties": {
-        "Tên": "Trong thời hạn sử dụng đất"
+        "name": "Không xâm phạm quyền, lợi ích hợp pháp của người sử dụng đất liền kề và xung quanh"
       }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_5",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nguyentacsudungdat"
+      "source_id": "dieu_5_2024",
+      "target_id": "khainiem_nguyentacsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nguyentacsudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_sudungdat"
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_dungmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dungmucdich"
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_sudungdatbenvungtietkiemhieuqua",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_benvungtietkiemcohieuqua"
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_baovedatbaovemoitruongthichungbiendoikhihau",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baovedat"
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_khonglamdungthuocbaovethucvatphanhoahoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baovemoitruong"
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_thuchienquyennghiavunguoihanquyennghiavucuasdungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_5",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nguoisudungdat"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thuchienquyenvanghiavu"
-    },
-    {
-      "source_id": "hanhviphaply_thuchienquyenvanghiavu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trongthoihansudungdat"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_xamphamquyenloiichhophap"
-    },
-    {
-      "source_id": "hanhviphaply_xamphamquyenloiichhophap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdatlienkevasungquanh"
+      "source_id": "dieu_5_2024",
+      "target_id": "hanhviphaply_khongxamphamquyenloiichhopnguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,112 +1,64 @@
 {
   "entities": [
     {
-      "id": "dieu_230",
-      "label": "ĐiềuLuật",
-      "name": "Điều 230",
-      "description": "Giám sát của Quốc hội, Mặt trận Tổ quốc Việt Nam, Hội đồng nhân dân các cấp đối với việc quản lý, sử dụng đất đai"
+      "id": "dieu_230_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 230. Giám sát của Quốc hội, Mặt trận Tổ quốc Việt Nam, Hội đồng nhân dân các cấp đối với việc quản lý, sử dụng đất đai",
+        "ma_dieu": "230",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 230.\n\nGiám sát của Quốc hội, Mặt trận Tổ quốc Việt Nam, Hội đồng nhân dân các cấp đối\nvới việc quản lý, sử dụng đất đai\nQuốc hội, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, Hội đồng nhân dân các\ncấp thực hiện quyền giám sát đối với việc quản lý, sử dụng đất đai theo quy định của Hiến pháp , Luật\nHoạt động giám sát của Quốc hội và Hội đồng nhân dân , Luật Mặt trận Tổ quốc Việt Nam  và Luật Tổ\nchức chính quyền địa phương ."
+      }
     },
     {
       "id": "chuthe_quochoi",
-      "label": "ChủThể",
-      "name": "Quốc hội"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Quốc hội"
+      }
     },
     {
-      "id": "chuthe_mattrantoquocvietnam",
-      "label": "ChủThể",
-      "name": "Mặt trận Tổ quốc Việt Nam"
-    },
-    {
-      "id": "chuthe_tochucthanhvienmattran",
-      "label": "ChủThể",
-      "name": "các tổ chức thành viên của Mặt trận"
+      "id": "chuthe_mattrotoquocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Mặt trận Tổ quốc Việt Nam"
+      }
     },
     {
       "id": "chuthe_hoidongnhandancaccap",
-      "label": "ChủThể",
-      "name": "Hội đồng nhân dân các cấp"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng nhân dân các cấp"
+      }
     },
     {
-      "id": "hanhviphaply_giam_sat",
-      "label": "HànhViPhápLý",
-      "name": "giám sát"
-    },
-    {
-      "id": "khaikiem_quanly_sudung_datdai",
-      "label": "KháiNiệm",
-      "name": "quản lý, sử dụng đất đai"
-    },
-    {
-      "id": "dieukien_hienphap",
-      "label": "ĐiềuKiện",
-      "name": "Hiến pháp"
-    },
-    {
-      "id": "dieukien_luat_hoatdong_giam_sat_quochoi_hoidongnhandan",
-      "label": "ĐiềuKiện",
-      "name": "Luật Hoạt động giám sát của Quốc hội và Hội đồng nhân dân"
-    },
-    {
-      "id": "dieukien_luat_mattran_toquoc_vietnam",
-      "label": "ĐiềuKiện",
-      "name": "Luật Mặt trận Tổ quốc Việt Nam"
-    },
-    {
-      "id": "dieukien_luat_tochuc_chinhquyen_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "Luật Tổ chức chính quyền địa phương"
+      "id": "hanhviphaply_giamsatviecquanlysudungdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giám sát đối với việc quản lý, sử dụng đất đai"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_230",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giam_sat"
+      "source_id": "dieu_230_2024",
+      "target_id": "chuthe_quochoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giam_sat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_quochoi"
+      "source_id": "dieu_230_2024",
+      "target_id": "chuthe_mattrotoquocvietnam",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giam_sat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_mattrantoquocvietnam"
+      "source_id": "dieu_230_2024",
+      "target_id": "chuthe_hoidongnhandancaccap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giam_sat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochucthanhvienmattran"
-    },
-    {
-      "source_id": "hanhviphaply_giam_sat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hoidongnhandancaccap"
-    },
-    {
-      "source_id": "hanhviphaply_giam_sat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_quanly_sudung_datdai"
-    },
-    {
-      "source_id": "hanhviphaply_giam_sat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hienphap"
-    },
-    {
-      "source_id": "hanhviphaply_giam_sat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luat_hoatdong_giam_sat_quochoi_hoidongnhandan"
-    },
-    {
-      "source_id": "hanhviphaply_giam_sat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luat_mattran_toquoc_vietnam"
-    },
-    {
-      "source_id": "hanhviphaply_giam_sat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luat_tochuc_chinhquyen_dia_phuong"
+      "source_id": "dieu_230_2024",
+      "target_id": "hanhviphaply_giamsatviecquanlysudungdatdai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

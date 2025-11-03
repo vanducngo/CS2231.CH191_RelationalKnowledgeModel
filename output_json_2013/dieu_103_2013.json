@@ -1,461 +1,88 @@
 {
   "entities": [
     {
-      "id": "dieu_103",
-      "label": "ĐiềuLuật",
-      "name": "Điều 103"
+      "id": "dieu_103_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 103. Xác định diện tích đất ở đối với trường hợp có vườn, ao",
+        "ma_dieu": "103",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 103.\n\nXác định diện tích đất ở đối với trường hợp có vườn, ao\n1. Đất vườn, ao của hộ gia đình, cá nhân được xác định là đất ở phải trong cùng một thửa đất đang có\nnhà ở.\n2. Đối với trường hợp thửa đất ở có vườn, ao được hình thành trước ngày 18 tháng 12 năm 1980 và\nngười đang sử dụng có một trong các loại giấy tờ về quyền sử dụng đất quy định tại các  khoản 1, 2 và\n3 Điều 100 của Luật này  thì diện tích đất ở được xác định theo giấy tờ đó.\nTrường hợp trong các loại giấy tờ về quyền sử dụng đất quy định tại các khoản 1, 2 và 3 Điều 100 của\nLuật này  chưa xác định rõ diện tích đất ở thì diện tích đất ở được công nhận không phải nộp tiền sử\ndụng đất được xác định bằng không quá 05 lần hạn mức giao đất ở quy định tại khoản 2 Điều 143 và\nkhoản 4 Điều 144 của Luật này .\n3. Đối với trường hợp thửa đất ở có vườn, ao được hình thành từ ngày 18 tháng 12 năm 1980 đến\ntrước ngày 01 tháng 7 năm 2004 và người đang sử dụng có một trong các loại giấy tờ về quyền sử dụng\nđất quy định tại  Điều 100 của Luật này  mà trong giấy tờ đó ghi rõ diện tích đất ở thì diện tích đất ở\nđược xác định theo giấy tờ đó.\n4. Đối với trường hợp thửa đất ở có vườn, ao được hình thành từ ngày 18 tháng 12 năm 1980 đến\ntrước ngày 01 tháng 7 năm 2004 và người đang sử dụng có một trong các loại giấy tờ về quyền sử dụng\nđất quy định tại  Điều 100 của Luật này  mà trong giấy tờ đó không ghi rõ diện tích đất ở thì diện tích\nđất ở được xác định như sau:\na) Ủy ban nhân dân cấp tỉnh căn cứ vào điều kiện, tập quán tại địa phương quy định hạn mức công nhận\nđất ở cho mỗi hộ gia đình phù hợp với tập quán ở địa phương theo số lượng nhân khẩu trong hộ gia\nđình;\nb) Trường hợp diện tích thửa đất lớn hơn hạn mức công nhận đất ở tại địa phương thì diện tích đất ở\nđược xác định bằng hạn mức công nhận đất ở tại địa phương;\nc) Trường hợp diện tích thửa đất nhỏ hơn hạn mức công nhận đất ở tại địa phương thì diện tích đất ở\nđược xác định là toàn bộ diện tích thửa đất.\n5. Đối với trường hợp không có giấy tờ về quyền sử dụng đất quy định tại  Điều 100 của Luật này  mà\nđất đã sử dụng ổn định từ trước ngày 15 tháng 10 năm 1993 thì diện tích đất ở được xác định theo mức\nquy định tại khoản 4 Điều này; trường hợp đất đã sử dụng ổn định kể từ ngày 15 tháng 10 năm 1993 thì\ndiện tích đất ở được xác định theo mức đất ở giao cho mỗi hộ gia đình, cá nhân quy định tại  khoản 2\nĐiều 143 và khoản 4 Điều 144 của Luật này .\n6. Phần diện tích đất vườn, ao còn lại sau khi đã xác định diện tích đất ở theo quy định tại các khoản 2,\n3, 4 và 5 của Điều này thì được xác định sử dụng vào mục đích hiện trạng đang sử dụng theo quy định\ntại khoản 1 Điều 10 của Luật này .\n7. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "dieu_100",
-      "label": "ĐiềuLuật",
-      "name": "Điều 100"
+      "id": "khainiem_datvuonao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất vườn, ao"
+      }
     },
     {
-      "id": "dieu_143",
-      "label": "ĐiềuLuật",
-      "name": "Điều 143"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "dieu_144",
-      "label": "ĐiềuLuật",
-      "name": "Điều 144"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "dieu_10",
-      "label": "ĐiềuLuật",
-      "name": "Điều 10"
+      "id": "khainiem_dato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
     },
     {
-      "id": "khainiem_dat_vuon_ao",
-      "label": "KháiNiệm",
-      "name": "Đất vườn, ao"
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "khainiem_dat_o",
-      "label": "KháiNiệm",
-      "name": "Đất ở"
-    },
-    {
-      "id": "khainiem_thua_dat_o_co_vuon_ao",
-      "label": "KháiNiệm",
-      "name": "Thửa đất ở có vườn, ao"
-    },
-    {
-      "id": "khainiem_giay_to_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy tờ về quyền sử dụng đất"
-    },
-    {
-      "id": "khainiem_dien_tich_dat_o",
-      "label": "KháiNiệm",
-      "name": "Diện tích đất ở"
-    },
-    {
-      "id": "khainiem_han_muc_giao_dat_o",
-      "label": "KháiNiệm",
-      "name": "Hạn mức giao đất ở"
-    },
-    {
-      "id": "khainiem_han_muc_cong_nhan_dat_o",
-      "label": "KháiNiệm",
-      "name": "Hạn mức công nhận đất ở"
-    },
-    {
-      "id": "khainiem_dien_tich_thua_dat",
-      "label": "KháiNiệm",
-      "name": "Diện tích thửa đất"
-    },
-    {
-      "id": "khainiem_phan_dien_tich_dat_vuon_ao_con_lai",
-      "label": "KháiNiệm",
-      "name": "Phần diện tích đất vườn, ao còn lại"
-    },
-    {
-      "id": "khainiem_muc_dich_hien_trang_su_dung",
-      "label": "KháiNiệm",
-      "name": "Mục đích hiện trạng đang sử dụng"
-    },
-    {
-      "id": "chuthe_ho_gia_dinh_ca_nhan",
-      "label": "ChủThể",
-      "name": "Hộ gia đình, cá nhân"
-    },
-    {
-      "id": "chuthe_nguoi_dang_su_dung",
-      "label": "ChủThể",
-      "name": "Người đang sử dụng"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
-      "label": "HànhViPhápLý",
-      "name": "Xác định diện tích đất ở"
-    },
-    {
-      "id": "hanhviphaply_duoc_xac_dinh_la_dat_o",
-      "label": "HànhViPhápLý",
-      "name": "Được xác định là đất ở"
-    },
-    {
-      "id": "hanhviphaply_duoc_hinh_thanh",
-      "label": "HànhViPhápLý",
-      "name": "Được hình thành"
-    },
-    {
-      "id": "hanhviphaply_co_giay_to",
-      "label": "HànhViPhápLý",
-      "name": "Có giấy tờ"
-    },
-    {
-      "id": "hanhviphaply_ghi_ro_dien_tich",
-      "label": "HànhViPhápLý",
-      "name": "Ghi rõ diện tích"
-    },
-    {
-      "id": "hanhviphaply_chua_xac_dinh_ro_dien_tich",
-      "label": "HànhViPhápLý",
-      "name": "Chưa xác định rõ diện tích"
-    },
-    {
-      "id": "hanhviphaply_cong_nhan_khong_phai_nop_tien",
-      "label": "HànhViPhápLý",
-      "name": "Công nhận không phải nộp tiền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_han_muc_cong_nhan",
-      "label": "HànhViPhápLý",
-      "name": "Quy định hạn mức công nhận đất ở"
-    },
-    {
-      "id": "hanhviphaply_su_dung_on_dinh",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng ổn định"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "Quy định chi tiết"
-    },
-    {
-      "id": "dieukien_trong_cung_mot_thua_dat_co_nha_o",
-      "label": "ĐiềuKiện",
-      "name": "Trong cùng một thửa đất đang có nhà ở"
-    },
-    {
-      "id": "dieukien_hinh_thanh_truoc_18_12_1980",
-      "label": "ĐiềuKiện",
-      "name": "Hình thành trước ngày 18 tháng 12 năm 1980"
-    },
-    {
-      "id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004",
-      "label": "ĐiềuKiện",
-      "name": "Hình thành từ ngày 18 tháng 12 năm 1980 đến trước ngày 01 tháng 7 năm 2004"
-    },
-    {
-      "id": "dieukien_co_giay_to_theo_dieu_100",
-      "label": "ĐiềuKiện",
-      "name": "Có giấy tờ về quyền sử dụng đất quy định tại Điều 100"
-    },
-    {
-      "id": "dieukien_giay_to_ghi_ro_dien_tich_dat_o",
-      "label": "ĐiềuKiện",
-      "name": "Giấy tờ ghi rõ diện tích đất ở"
-    },
-    {
-      "id": "dieukien_giay_to_khong_ghi_ro_dien_tich_dat_o",
-      "label": "ĐiềuKiện",
-      "name": "Giấy tờ không ghi rõ diện tích đất ở"
-    },
-    {
-      "id": "dieukien_khong_co_giay_to_theo_dieu_100",
-      "label": "ĐiềuKiện",
-      "name": "Không có giấy tờ về quyền sử dụng đất quy định tại Điều 100"
-    },
-    {
-      "id": "dieukien_dat_su_dung_on_dinh_tu_truoc_15_10_1993",
-      "label": "ĐiềuKiện",
-      "name": "Đất đã sử dụng ổn định từ trước ngày 15 tháng 10 năm 1993"
-    },
-    {
-      "id": "dieukien_dat_su_dung_on_dinh_tu_15_10_1993",
-      "label": "ĐiềuKiện",
-      "name": "Đất đã sử dụng ổn định kể từ ngày 15 tháng 10 năm 1993"
-    },
-    {
-      "id": "dieukien_dien_tich_thua_dat_lon_hon_han_muc",
-      "label": "ĐiềuKiện",
-      "name": "Diện tích thửa đất lớn hơn hạn mức công nhận đất ở"
-    },
-    {
-      "id": "dieukien_dien_tich_thua_dat_nho_hon_han_muc",
-      "label": "ĐiềuKiện",
-      "name": "Diện tích thửa đất nhỏ hơn hạn mức công nhận đất ở"
-    },
-    {
-      "id": "dieukien_can_cu_dieu_kien_tap_quan_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "Căn cứ vào điều kiện, tập quán tại địa phương"
-    },
-    {
-      "id": "dieukien_theo_so_luong_nhan_khau",
-      "label": "ĐiềuKiện",
-      "name": "Theo số lượng nhân khẩu trong hộ gia đình"
-    },
-    {
-      "id": "dieukien_dien_tich_dat_o_theo_khoan_4_dieu_103",
-      "label": "ĐiềuKiện",
-      "name": "Diện tích đất ở được xác định theo mức quy định tại khoản 4 Điều này"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_103",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xac_dinh_dien_tich_dat_o"
+      "source_id": "dieu_103_2013",
+      "target_id": "khainiem_datvuonao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thua_dat_o_co_vuon_ao"
+      "source_id": "dieu_103_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_vuon_ao",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+      "source_id": "dieu_103_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_vuon_ao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_duoc_xac_dinh_la_dat_o"
+      "source_id": "dieu_103_2013",
+      "target_id": "khainiem_dato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_duoc_xac_dinh_la_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_cung_mot_thua_dat_co_nha_o"
+      "source_id": "dieu_103_2013",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_thua_dat_o_co_vuon_ao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_duoc_hinh_thanh"
-    },
-    {
-      "source_id": "hanhviphaply_duoc_hinh_thanh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hinh_thanh_truoc_18_12_1980"
-    },
-    {
-      "source_id": "dieukien_hinh_thanh_truoc_18_12_1980",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nguoi_dang_su_dung"
-    },
-    {
-      "source_id": "chuthe_nguoi_dang_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_giay_to_theo_dieu_100"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_theo_dieu_100",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_100"
-    },
-    {
-      "source_id": "dieukien_hinh_thanh_truoc_18_12_1980",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_dien_tich_dat_o"
-    },
-    {
-      "source_id": "khainiem_dien_tich_dat_o",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_giay_to_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_giay_to_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chua_xac_dinh_ro_dien_tich"
-    },
-    {
-      "source_id": "hanhviphaply_chua_xac_dinh_ro_dien_tich",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_dien_tich_dat_o"
-    },
-    {
-      "source_id": "khainiem_dien_tich_dat_o",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cong_nhan_khong_phai_nop_tien"
-    },
-    {
-      "source_id": "hanhviphaply_cong_nhan_khong_phai_nop_tien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_han_muc_giao_dat_o"
-    },
-    {
-      "source_id": "khainiem_han_muc_giao_dat_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_143"
-    },
-    {
-      "source_id": "khainiem_han_muc_giao_dat_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_144"
-    },
-    {
-      "source_id": "khainiem_thua_dat_o_co_vuon_ao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004"
-    },
-    {
-      "source_id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nguoi_dang_su_dung"
-    },
-    {
-      "source_id": "chuthe_nguoi_dang_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_giay_to_theo_dieu_100"
-    },
-    {
-      "source_id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_ghi_ro_dien_tich_dat_o"
-    },
-    {
-      "source_id": "dieukien_giay_to_ghi_ro_dien_tich_dat_o",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_dien_tich_dat_o"
-    },
-    {
-      "source_id": "dieukien_hinh_thanh_tu_18_12_1980_den_truoc_01_07_2004",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_khong_ghi_ro_dien_tich_dat_o"
-    },
-    {
-      "source_id": "dieukien_giay_to_khong_ghi_ro_dien_tich_dat_o",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_xac_dinh_dien_tich_dat_o"
-    },
-    {
-      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quy_dinh_han_muc_cong_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_han_muc_cong_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_han_muc_cong_nhan_dat_o"
-    },
-    {
-      "source_id": "khainiem_han_muc_cong_nhan_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_cu_dieu_kien_tap_quan_dia_phuong"
-    },
-    {
-      "source_id": "khainiem_han_muc_cong_nhan_dat_o",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
-    },
-    {
-      "source_id": "khainiem_han_muc_cong_nhan_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_so_luong_nhan_khau"
-    },
-    {
-      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dien_tich_thua_dat_lon_hon_han_muc"
-    },
-    {
-      "source_id": "dieukien_dien_tich_thua_dat_lon_hon_han_muc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_han_muc_cong_nhan_dat_o"
-    },
-    {
-      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dien_tich_thua_dat_nho_hon_han_muc"
-    },
-    {
-      "source_id": "dieukien_dien_tich_thua_dat_nho_hon_han_muc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_dien_tich_thua_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xac_dinh_dien_tich_dat_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_co_giay_to_theo_dieu_100"
-    },
-    {
-      "source_id": "dieukien_khong_co_giay_to_theo_dieu_100",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_100"
-    },
-    {
-      "source_id": "dieukien_khong_co_giay_to_theo_dieu_100",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_su_dung_on_dinh"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_on_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_su_dung_on_dinh_tu_truoc_15_10_1993"
-    },
-    {
-      "source_id": "dieukien_dat_su_dung_on_dinh_tu_truoc_15_10_1993",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_dien_tich_dat_o_theo_khoan_4_dieu_103"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_on_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_su_dung_on_dinh_tu_15_10_1993"
-    },
-    {
-      "source_id": "dieukien_dat_su_dung_on_dinh_tu_15_10_1993",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_dien_tich_dat_o"
-    },
-    {
-      "source_id": "khainiem_dien_tich_dat_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_han_muc_giao_dat_o"
-    },
-    {
-      "source_id": "khainiem_han_muc_giao_dat_o",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
-    },
-    {
-      "source_id": "khainiem_phan_dien_tich_dat_vuon_ao_con_lai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_muc_dich_hien_trang_su_dung"
-    },
-    {
-      "source_id": "khainiem_muc_dich_hien_trang_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_10"
-    },
-    {
-      "source_id": "dieu_103",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinh_phu"
+      "source_id": "dieu_103_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

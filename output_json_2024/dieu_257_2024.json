@@ -1,531 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_257",
-      "name": "Điều 257",
-      "type": "ĐiềuLuật"
+      "id": "dieu_257_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 257.",
+        "ma_dieu": "257",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 257.\n\nGiải quyết về tài chính đất đai, giá đất khi Luật này có hiệu lực thi hành about:blank\n. Bảng giá đất do Ủy ban nhân dân cấp tỉnh ban hành theo quy định của  Luật Đất đai số\n45/2013/QH13  được tiếp tục áp dụng đến hết ngày 31 tháng 12 năm 2025; trường hợp cần thiết Ủy ban\nnhân dân cấp tỉnh quyết định điều chỉnh bảng giá đất theo quy định của Luật này cho phù hợp với tình\nhình thực tế về giá đất tại địa phương.\n2. Đối với trường hợp đã có quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất,\ncho phép chuyển từ hình thức thuê đất trả tiền hằng năm sang thuê đất trả tiền một lần cho cả thời gian\nthuê, gia hạn sử dụng đất, điều chỉnh thời hạn sử dụng đất, điều chỉnh quy hoạch chi tiết theo quy định\ncủa pháp luật về đất đai và quy định khác của pháp luật có liên quan trước ngày Luật này có hiệu lực thi\nhành nhưng chưa quyết định giá đất thì thực hiện như sau:\na) Đối với trường hợp giao đất, cho thuê đất theo quy định của Luật Đất đai năm 1993 , Luật Đất đai số\n13/2003/QH1 1 và các văn bản quy định chi tiết, hướng dẫn thi hành mà được bàn giao đất trên thực tế\ntrước ngày 01 tháng 01 năm 2005 thì chính sách thu tiền sử dụng đất, tiền thuê đất và giá đất để tính\ntiền sử dụng đất, tiền thuê đất áp dụng tại thời điểm bảng giá đất năm 2005 do Ủy ban nhân dân cấp\ntỉnh ban hành có hiệu lực thi hành;\nb) Đối với trường hợp giao đất, cho thuê đất theo quy định của  Luật Đất đai năm 1993 , Luật Đất đai\nsố 13/2003/QH1 1 và các văn bản quy định chi tiết, hướng dẫn thi hành mà được cơ quan nhà nước có\nthẩm quyền bàn giao đất trên thực tế từ ngày 01 tháng 01 năm 2005 đến trước ngày Luật này có hiệu\nlực thi hành thì chính sách thu tiền sử dụng đất, tiền thuê đất và giá đất để tính tiền sử dụng đất, tiền\nthuê đất được xác định tại thời điểm bàn giao đất trên thực tế;\nc) Đối với trường hợp đã có quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất,\ncho phép chuyển hình thức thuê đất trả tiền hàng năm sang thuê đất trả tiền một lần cho cả thời gian\nthuê, gia hạn sử dụng đất, điều chỉnh thời hạn sử dụng đất, điều chỉnh quy hoạch chi tiết xây dựng theo\nquy định của  Luật Đất đai số 45/2013/QH13  và các văn bản quy định chi tiết, hướng dẫn thi hành\nnhưng phương án giá đất chưa được trình Ủy ban nhân dân cấp có thẩm quyền thì chính sách thu tiền\nsử dụng đất, tiền thuê đất và giá đất được xác định tại thời điểm ban hành quyết định đó.\nTrường hợp Ủy ban nhân dân cấp có thẩm quyền đã thực hiện giao đất, cho thuê đất theo tiến độ bồi\nthường, hỗ trợ, tái định cư thì giá đất cụ thể được xác định theo thời điểm ban hành của từng quyết\nđịnh;\nd) Chính phủ quy định về việc áp dụng phương pháp định giá đất và khoản tiền người sử dụng đất phải\nnộp bổ sung đối với thời gian chưa tính tiền sử dụng đất, tiền thuê đất của các trường hợp quy định tại\ncác điểm a, b và c khoản này .\n3. Trường hợp phương án giá đất đã trình Ủy ban nhân dân cấp có thẩm quyền quyết định giá đất cụ\nthể theo quy định của pháp luật trước ngày Luật này có hiệu lực thi hành thì Ủy ban nhân dân cấp có\nthẩm quyền quyết định giá đất cụ thể theo phương án đã trình mà không áp dụng quy định của Luật này ."
+      }
     },
     {
-      "id": "khainiem_banggiadat",
-      "name": "Bảng giá đất",
-      "type": "KháiNiệm"
+      "id": "khainiem_giadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "giá đất"
+      }
     },
     {
-      "id": "chuthe_uybannhandancaptinh",
-      "name": "Ủy ban nhân dân cấp tỉnh",
-      "type": "ChủThể"
+      "id": "chuthe_uybannd",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "dieukien_luatdatdai452013",
-      "name": "Luật Đất đai số 45/2013/QH13",
-      "type": "ĐiềuKiện"
+      "id": "dieukien_luatdatdai2013",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Luật Đất đai số 45/2013/QH13"
+      }
     },
     {
-      "id": "dieukien_denhetngay31thang12nam2025",
-      "name": "đến hết ngày 31 tháng 12 năm 2025",
-      "type": "ĐiềuKiện"
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
     },
     {
-      "id": "hanhviphaply_dieuchinhbanggiadat",
-      "name": "điều chỉnh bảng giá đất",
-      "type": "HànhViPhápLý"
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
     },
     {
-      "id": "khainiem_luatdatdai2024",
-      "name": "Luật Đất đai 2024",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_phuhopvoitinhhinhthuctevegiadat",
-      "name": "phù hợp với tình hình thực tế về giá đất tại địa phương",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "khainiem_quyetdinhgiaodat",
-      "name": "quyết định giao đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_quyetdinhchothuedat",
-      "name": "quyết định cho thuê đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_quyetdinhchuyenmucdichsudungdat",
-      "name": "quyết định chuyển mục đích sử dụng đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_quyetdinhchuyenhinhthucthuedat",
-      "name": "quyết định chuyển từ hình thức thuê đất trả tiền hằng năm sang thuê đất trả tiền một lần",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_quyetdinhgiahansudungdat",
-      "name": "quyết định gia hạn sử dụng đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_quyetdinhdieuchinhthoihansudungdat",
-      "name": "quyết định điều chỉnh thời hạn sử dụng đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_quyetdinhdieuchinhquyhoachchitiet",
-      "name": "quyết định điều chỉnh quy hoạch chi tiết",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_phapluatvedatdai",
-      "name": "pháp luật về đất đai",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_truocngayluatnaycoHLLT",
-      "name": "trước ngày Luật này có hiệu lực thi hành",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_chuacquyetdinhgiadat",
-      "name": "chưa quyết định giá đất",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_luatdatdai1993",
-      "name": "Luật Đất đai năm 1993",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_luatdatdai132003",
-      "name": "Luật Đất đai số 13/2003/QH11",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_bangiaodat_truocngay01012005",
-      "name": "bàn giao đất trên thực tế trước ngày 01 tháng 01 năm 2005",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "khainiem_chinhsachthutiensudungdat",
-      "name": "chính sách thu tiền sử dụng đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_tienthuedat",
-      "name": "tiền thuê đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_giadattinhtiensudungdat",
-      "name": "giá đất để tính tiền sử dụng đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_giadattinhtienthuedat",
-      "name": "giá đất để tính tiền thuê đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_banggiadatnam2005",
-      "name": "bảng giá đất năm 2005",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_thoitembanggiadat2005coHLLT",
-      "name": "thời điểm bảng giá đất năm 2005 có hiệu lực thi hành",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "chuthe_coquannuoc_thamtuyen",
-      "name": "cơ quan nhà nước có thẩm quyền",
-      "type": "ChủThể"
-    },
-    {
-      "id": "dieukien_bangiaodat_tu01012005_truocHLLT_2024",
-      "name": "bàn giao đất trên thực tế từ ngày 01 tháng 01 năm 2005 đến trước ngày Luật này có hiệu lực thi hành",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "khainiem_thoitembangiaodat",
-      "name": "thời điểm bàn giao đất trên thực tế",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_phuongan_giadat_chuatrinh_ubndthamtuyen",
-      "name": "phương án giá đất chưa được trình Ủy ban nhân dân cấp có thẩm quyền",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "khainiem_thoitembanhanhquyetdinh",
-      "name": "thời điểm ban hành quyết định đó",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "chuthe_ubnd_capthamtuyen",
-      "name": "Ủy ban nhân dân cấp có thẩm quyền",
-      "type": "ChủThể"
-    },
-    {
-      "id": "khainiem_giadatcuthe",
-      "name": "giá đất cụ thể",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_thuchien_giaodat_chothuedat_theotiendobt",
-      "name": "thực hiện giao đất, cho thuê đất theo tiến độ bồi thường, hỗ trợ, tái định cư",
-      "type": "ĐiềuKiện"
+      "id": "hanhviphaply_chuyenmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "name": "Chính phủ",
-      "type": "ChủThể"
-    },
-    {
-      "id": "khainiem_phuongphapdinhgiadat",
-      "name": "phương pháp định giá đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_khoantien_nguoisudungdat_phainopbosung",
-      "name": "khoản tiền người sử dụng đất phải nộp bổ sung",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_nguoisudungdat",
-      "name": "người sử dụng đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_thoigianchutinh_tiensdd_tienthuedat",
-      "name": "thời gian chưa tính tiền sử dụng đất, tiền thuê đất",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_phuongan_giadat_datrinh_ubndthamtuyen",
-      "name": "phương án giá đất đã trình Ủy ban nhân dân cấp có thẩm quyền",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_khongapdungquydinhluatnay",
-      "name": "không áp dụng quy định của Luật này",
-      "type": "ĐiềuKiện"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_257",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_banggiadat"
+      "source_id": "dieu_257_2024",
+      "target_id": "khainiem_giadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_banggiadat"
+      "source_id": "dieu_257_2024",
+      "target_id": "chuthe_uybannd",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_banggiadat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai452013"
+      "source_id": "dieu_257_2024",
+      "target_id": "dieukien_luatdatdai2013",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_banggiadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_denhetngay31thang12nam2025"
+      "source_id": "dieu_257_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dieuchinhbanggiadat"
+      "source_id": "dieu_257_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dieuchinhbanggiadat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_luatdatdai2024"
+      "source_id": "dieu_257_2024",
+      "target_id": "hanhviphaply_chuyenmucdich",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dieuchinhbanggiadat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopvoitinhhinhthuctevegiadat"
-    },
-    {
-      "source_id": "dieu_257",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyetdinhgiaodat"
-    },
-    {
-      "source_id": "dieu_257",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyetdinhchothuedat"
-    },
-    {
-      "source_id": "dieu_257",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyetdinhchuyenmucdichsudungdat"
-    },
-    {
-      "source_id": "dieu_257",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyetdinhchuyenhinhthucthuedat"
-    },
-    {
-      "source_id": "dieu_257",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyetdinhgiahansudungdat"
-    },
-    {
-      "source_id": "dieu_257",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyetdinhdieuchinhthoihansudungdat"
-    },
-    {
-      "source_id": "dieu_257",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyetdinhdieuchinhquyhoachchitiet"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_phapluatvedatdai"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truocngayluatnaycoHLLT"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chuacquyetdinhgiadat"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_phapluatvedatdai"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truocngayluatnaycoHLLT"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chuacquyetdinhgiadat"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai1993"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai132003"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bangiaodat_truocngay01012005"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai1993"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai132003"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bangiaodat_truocngay01012005"
-    },
-    {
-      "source_id": "khainiem_chinhsachthutiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_thoitembanggiadat2005coHLLT"
-    },
-    {
-      "source_id": "khainiem_tienthuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_thoitembanggiadat2005coHLLT"
-    },
-    {
-      "source_id": "khainiem_giadattinhtiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_thoitembanggiadat2005coHLLT"
-    },
-    {
-      "source_id": "khainiem_giadattinhtienthuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_thoitembanggiadat2005coHLLT"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_banggiadatnam2005"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bangiaodat_tu01012005_truocHLLT_2024"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bangiaodat_tu01012005_truocHLLT_2024"
-    },
-    {
-      "source_id": "dieukien_bangiaodat_tu01012005_truocHLLT_2024",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_coquannuoc_thamtuyen"
-    },
-    {
-      "source_id": "khainiem_chinhsachthutiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoitembangiaodat"
-    },
-    {
-      "source_id": "khainiem_tienthuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoitembangiaodat"
-    },
-    {
-      "source_id": "khainiem_giadattinhtiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoitembangiaodat"
-    },
-    {
-      "source_id": "khainiem_giadattinhtienthuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoitembangiaodat"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai452013"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai452013"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchuyenmucdichsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai452013"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchuyenhinhthucthuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai452013"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiahansudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai452013"
-    },
-    {
-      "source_id": "khainiem_quyetdinhdieuchinhthoihansudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai452013"
-    },
-    {
-      "source_id": "khainiem_quyetdinhdieuchinhquyhoachchitiet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_luatdatdai452013"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuongan_giadat_chuatrinh_ubndthamtuyen"
-    },
-    {
-      "source_id": "khainiem_quyetdinhchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuongan_giadat_chuatrinh_ubndthamtuyen"
-    },
-    {
-      "source_id": "khainiem_chinhsachthutiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoitembanhanhquyetdinh"
-    },
-    {
-      "source_id": "khainiem_tienthuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoitembanhanhquyetdinh"
-    },
-    {
-      "source_id": "khainiem_giadattinhtiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoitembanhanhquyetdinh"
-    },
-    {
-      "source_id": "khainiem_giadattinhtienthuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoitembanhanhquyetdinh"
-    },
-    {
-      "source_id": "chuthe_ubnd_capthamtuyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_giadatcuthe"
-    },
-    {
-      "source_id": "chuthe_ubnd_capthamtuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuchien_giaodat_chothuedat_theotiendobt"
-    },
-    {
-      "source_id": "khainiem_giadatcuthe",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoitembanhanhquyetdinh"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_phuongphapdinhgiadat"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_khoantien_nguoisudungdat_phainopbosung"
-    },
-    {
-      "source_id": "khainiem_khoantien_nguoisudungdat_phainopbosung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_nguoisudungdat"
-    },
-    {
-      "source_id": "khainiem_khoantien_nguoisudungdat_phainopbosung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoigianchutinh_tiensdd_tienthuedat"
-    },
-    {
-      "source_id": "khainiem_khoantien_nguoisudungdat_phainopbosung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_257"
-    },
-    {
-      "source_id": "chuthe_ubnd_capthamtuyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_giadatcuthe"
-    },
-    {
-      "source_id": "khainiem_giadatcuthe",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuongan_giadat_datrinh_ubndthamtuyen"
-    },
-    {
-      "source_id": "khainiem_giadatcuthe",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truocngayluatnaycoHLLT"
-    },
-    {
-      "source_id": "khainiem_giadatcuthe",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_khongapdungquydinhluatnay"
+      "source_id": "dieu_257_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

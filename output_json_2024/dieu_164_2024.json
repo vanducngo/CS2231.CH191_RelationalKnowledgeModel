@@ -1,126 +1,64 @@
 {
   "entities": [
     {
-      "id": "dieu_164",
-      "label": "ĐiềuLuật",
-      "name": "Điều 164"
+      "id": "dieu_164_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 164",
+        "ma_dieu": "164",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 164.\n\nHạ tầng kỹ thuật công nghệ thông tin và phần mềm của Hệ thống thông tin quốc gia\nvề đất đai\n1. Hạ tầng kỹ thuật công nghệ thông tin được xây dựng ở trung ương và địa phương, bao gồm tập hợp\nthiết bị máy chủ, máy trạm, thiết bị kết nối mạng, hệ thống đường truyền, thiết bị bảo đảm an ninh, an\ntoàn, thiết bị lưu trữ, thiết bị ngoại vi và thiết bị khác.\n2. Phần mềm của Hệ thống thông tin quốc gia về đất đai bao gồm các phần mềm hệ thống, phần mềm\ntiện ích và phần mềm ứng dụng phục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia\nvề đất đai.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định các yêu cầu kỹ thuật đối với phần mềm ứng dụng\nphục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia về đất đai."
+      }
     },
     {
-      "id": "khainghiem_hatangkythuattcntt_phanmem_hqtqtdd",
-      "label": "KháiNiệm",
-      "name": "Hạ tầng kỹ thuật công nghệ thông tin và phần mềm của Hệ thống thông tin quốc gia về đất đai"
+      "id": "khainiem_hatangkythuatcongnghethongtin",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hạ tầng kỹ thuật công nghệ thông tin"
+      }
     },
     {
-      "id": "khainghiem_hatangkythuattcntt",
-      "label": "KháiNiệm",
-      "name": "Hạ tầng kỹ thuật công nghệ thông tin"
+      "id": "khainiem_phanmemhethongthongtinquocgiavedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phần mềm của Hệ thống thông tin quốc gia về đất đai"
+      }
     },
     {
-      "id": "khainghiem_phanmem_hqtqtdd",
-      "label": "KháiNiệm",
-      "name": "Phần mềm của Hệ thống thông tin quốc gia về đất đai"
+      "id": "chuthe_botruongbotainguonvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
     },
     {
-      "id": "khainghiem_hethongthongtinqgvedatdai",
-      "label": "KháiNiệm",
-      "name": "Hệ thống thông tin quốc gia về đất đai"
-    },
-    {
-      "id": "khainghiem_phanmemhethong",
-      "label": "KháiNiệm",
-      "name": "phần mềm hệ thống"
-    },
-    {
-      "id": "khainghiem_phanmemtienich",
-      "label": "KháiNiệm",
-      "name": "phần mềm tiện ích"
-    },
-    {
-      "id": "khainghiem_phanmemungdung",
-      "label": "KháiNiệm",
-      "name": "phần mềm ứng dụng"
-    },
-    {
-      "id": "khainghiem_phanmemungdung_phucvu_qlvhcnktcsdlqgvdd",
-      "label": "KháiNiệm",
-      "name": "phần mềm ứng dụng phục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia về đất đai"
-    },
-    {
-      "id": "chuthe_botruongbotainguyenmoitruong",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
-    },
-    {
-      "id": "dieukien_yeucaukythuat",
-      "label": "ĐiềuKiện",
-      "name": "yêu cầu kỹ thuật"
+      "id": "khainiem_cosodulieukhoahocvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cơ sở dữ liệu quốc gia về đất đai"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_164",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainghiem_hatangkythuattcntt_phanmem_hqtqtdd"
+      "source_id": "dieu_164_2024",
+      "target_id": "khainiem_hatangkythuatcongnghethongtin",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainghiem_hatangkythuattcntt_phanmem_hqtqtdd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainghiem_hatangkythuattcntt"
+      "source_id": "dieu_164_2024",
+      "target_id": "khainiem_phanmemhethongthongtinquocgiavedatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainghiem_hatangkythuattcntt_phanmem_hqtqtdd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainghiem_phanmem_hqtqtdd"
+      "source_id": "dieu_164_2024",
+      "target_id": "chuthe_botruongbotainguonvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_164",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainghiem_hatangkythuattcntt"
-    },
-    {
-      "source_id": "khainghiem_hatangkythuattcntt",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainghiem_hethongthongtinqgvedatdai"
-    },
-    {
-      "source_id": "dieu_164",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainghiem_phanmem_hqtqtdd"
-    },
-    {
-      "source_id": "khainghiem_phanmem_hqtqtdd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainghiem_hethongthongtinqgvedatdai"
-    },
-    {
-      "source_id": "khainghiem_phanmem_hqtqtdd",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainghiem_phanmemhethong"
-    },
-    {
-      "source_id": "khainghiem_phanmem_hqtqtdd",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainghiem_phanmemtienich"
-    },
-    {
-      "source_id": "khainghiem_phanmem_hqtqtdd",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainghiem_phanmemungdung"
-    },
-    {
-      "source_id": "chuthe_botruongbotainguyenmoitruong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_yeucaukythuat"
-    },
-    {
-      "source_id": "dieukien_yeucaukythuat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainghiem_phanmemungdung_phucvu_qlvhcnktcsdlqgvdd"
-    },
-    {
-      "source_id": "khainghiem_phanmemungdung_phucvu_qlvhcnktcsdlqgvdd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainghiem_hethongthongtinqgvedatdai"
+      "source_id": "dieu_164_2024",
+      "target_id": "khainiem_cosodulieukhoahocvedatdai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

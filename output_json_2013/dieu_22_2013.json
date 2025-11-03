@@ -1,641 +1,280 @@
 {
   "entities": [
     {
-      "id": "dieu_22",
-      "label": "ĐiềuLuật",
-      "text": "Điều 22"
+      "id": "dieu_22_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 22. Nội dung quản lý nhà nước về đất đai",
+        "ma_dieu": "22",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 22.\n\nNội dung quản lý nhà nước về đất đai\n1. Ban hành văn bản quy phạm pháp luật về quản lý, sử dụng đất đai và tổ chức thực hiện văn bản đó.\n2. Xác định địa giới hành chính, lập và quản lý hồ sơ địa giới hành chính, lập bản đồ hành chính.\n3. Khảo sát, đo đạc, lập bản đồ địa chính, bản đồ hiện trạng sử dụng đất và bản đồ quy hoạch sử dụng\nđất; điều tra, đánh giá tài nguyên đất; điều tra xây dựng giá đất.\n4. Quản lý quy hoạch, kế hoạch sử dụng đất.\n5. Quản lý việc giao đất, cho thuê đất, thu hồi đất, chuyển mục đích sử dụng đất.\n6. Quản lý việc bồi thường, hỗ trợ, tái định cư khi thu hồi đất.\n7. Đăng ký đất đai, lập và quản lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở\nhữu nhà ở và tài sản khác gắn liền với đất.\n8. Thống kê, kiểm kê đất đai.\n9. Xây dựng hệ thống thông tin đất đai.\n10. Quản lý tài chính về đất đai và giá đất.\n11. Quản lý, giám sát việc thực hiện quyền và nghĩa vụ của người sử dụng đất.\n12. Thanh tra, kiểm tra, giám sát, theo dõi, đánh giá việc chấp hành quy định của pháp luật về đất đai và\nxử lý vi phạm pháp luật về đất đai.\n13. Phổ biến, giáo dục pháp luật về đất đai.\n14. Giải quyết tranh chấp về đất đai; giải quyết khiếu nại, tố cáo trong quản lý và sử dụng đất đai.\n15. Quản lý hoạt động dịch vụ về đất đai. about:blank"
+      }
     },
     {
-      "id": "khauniem_noidungquanlynhanuocvedatdai",
-      "label": "KháiNiệm",
-      "text": "Nội dung quản lý nhà nước về đất đai"
+      "id": "hanhviphaply_banhanhvqppl",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Ban hành văn bản quy phạm pháp luật"
+      }
     },
     {
-      "id": "khauniem_vanbanquyphamphapluatvedatdai",
-      "label": "KháiNiệm",
-      "text": "văn bản quy phạm pháp luật về quản lý, sử dụng đất đai"
+      "id": "hanhviphaply_xacdinhdiagioihanhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xác định địa giới hành chính"
+      }
     },
     {
-      "id": "khauniem_diagioihanhchinh",
-      "label": "KháiNiệm",
-      "text": "địa giới hành chính"
+      "id": "hanhviphaply_lqvqlhsdiagioihanhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập và quản lý hồ sơ địa giới hành chính"
+      }
     },
     {
-      "id": "khauniem_hosodiagioihanhchinh",
-      "label": "KháiNiệm",
-      "text": "hồ sơ địa giới hành chính"
+      "id": "hanhviphaply_lapbandohanhchinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập bản đồ hành chính"
+      }
     },
     {
-      "id": "khauniem_bandohanhchinh",
-      "label": "KháiNiệm",
-      "text": "bản đồ hành chính"
+      "id": "hanhviphaply_khaosaidodac",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khảo sát, đo đạc"
+      }
     },
     {
-      "id": "khauniem_bandodiachinh",
-      "label": "KháiNiệm",
-      "text": "bản đồ địa chính"
+      "id": "hanhviphaply_lapbandodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập bản đồ địa chính"
+      }
     },
     {
-      "id": "khauniem_bandohientrangsudungdat",
-      "label": "KháiNiệm",
-      "text": "bản đồ hiện trạng sử dụng đất"
+      "id": "hanhviphaply_lapbandohientrangsd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập bản đồ hiện trạng sử dụng đất"
+      }
     },
     {
-      "id": "khauniem_bandoquyhoachsửdungdat",
-      "label": "KháiNiệm",
-      "text": "bản đồ quy hoạch sử dụng đất"
+      "id": "hanhviphaply_lapbandoquyhoachsd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập bản đồ quy hoạch sử dụng đất"
+      }
     },
     {
-      "id": "khauniem_tainguyendat",
-      "label": "KháiNiệm",
-      "text": "tài nguyên đất"
+      "id": "hanhviphaply_dieutradgtnd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá tài nguyên đất"
+      }
     },
     {
-      "id": "khauniem_giadat",
-      "label": "KháiNiệm",
-      "text": "giá đất"
+      "id": "hanhviphaply_dieutraxaydunggiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra xây dựng giá đất"
+      }
     },
     {
-      "id": "khauniem_quyhoachsửdungdat",
-      "label": "KháiNiệm",
-      "text": "quy hoạch sử dụng đất"
+      "id": "hanhviphaply_quanlyqhkxsd",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý quy hoạch, kế hoạch sử dụng đất"
+      }
     },
     {
-      "id": "khauniem_kehoachsửdungdat",
-      "label": "KháiNiệm",
-      "text": "kế hoạch sử dụng đất"
+      "id": "hanhviphaply_quanlygiaodattrtthud",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý việc giao đất, cho thuê đất, thu hồi đất, chuyển mục đích sử dụng đất"
+      }
     },
     {
-      "id": "khauniem_boihoitrotaiđinhcu",
-      "label": "KháiNiệm",
-      "text": "bồi thường, hỗ trợ, tái định cư"
+      "id": "hanhviphaply_quanlybthttdc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý việc bồi thường, hỗ trợ, tái định cư khi thu hồi đất"
+      }
     },
     {
-      "id": "khauniem_dangkyđatdai",
-      "label": "KháiNiệm",
-      "text": "đăng ký đất đai"
+      "id": "hanhviphaply_dangkydatdailqqlhs",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đăng ký đất đai, lập và quản lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
     },
     {
-      "id": "khauniem_hosodiachinh",
-      "label": "KháiNiệm",
-      "text": "hồ sơ địa chính"
+      "id": "hanhviphaply_thongkekiemkedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thống kê, kiểm kê đất đai"
+      }
     },
     {
-      "id": "khauniem_giaychungnhanquyensửdungdat",
-      "label": "KháiNiệm",
-      "text": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      "id": "hanhviphaply_xaydunghtttindatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng hệ thống thông tin đất đai"
+      }
     },
     {
-      "id": "khauniem_thongkedatdai",
-      "label": "KháiNiệm",
-      "text": "thống kê đất đai"
+      "id": "hanhviphaply_quanlytaichinhvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý tài chính về đất đai và giá đất"
+      }
     },
     {
-      "id": "khauniem_kiemkedatdai",
-      "label": "KháiNiệm",
-      "text": "kiểm kê đất đai"
+      "id": "hanhviphaply_quanlygiamsatthuchienquyennghiavu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý, giám sát việc thực hiện quyền và nghĩa vụ của người sử dụng đất"
+      }
     },
     {
-      "id": "khauniem_hethongthongtindatdai",
-      "label": "KháiNiệm",
-      "text": "hệ thống thông tin đất đai"
+      "id": "hanhviphaply_thanhtrakttdgtcdpl",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thanh tra, kiểm tra, giám sát, theo dõi, đánh giá việc chấp hành quy định của pháp luật về đất đai và xử lý vi phạm pháp luật về đất đai"
+      }
     },
     {
-      "id": "khauniem_taichinhvedatdai",
-      "label": "KháiNiệm",
-      "text": "tài chính về đất đai"
+      "id": "hanhviphaply_phobiengiaoducplveDatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phổ biến, giáo dục pháp luật về đất đai"
+      }
     },
     {
-      "id": "khauniem_quyenanghiavu",
-      "label": "KháiNiệm",
-      "text": "quyền và nghĩa vụ"
+      "id": "hanhviphaply_giaiquyettcdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giải quyết tranh chấp về đất đai; giải quyết khiếu nại, tố cáo trong quản lý và sử dụng đất đai"
+      }
     },
     {
-      "id": "khauniem_quydinhphapluatvedatdai",
-      "label": "KháiNiệm",
-      "text": "quy định của pháp luật về đất đai"
-    },
-    {
-      "id": "khauniem_viphamphapluatvedatdai",
-      "label": "KháiNiệm",
-      "text": "vi phạm pháp luật về đất đai"
-    },
-    {
-      "id": "khauniem_phapluatvedatdai",
-      "label": "KháiNiệm",
-      "text": "pháp luật về đất đai"
-    },
-    {
-      "id": "khauniem_tranhchapvedatdai",
-      "label": "KháiNiệm",
-      "text": "tranh chấp về đất đai"
-    },
-    {
-      "id": "khauniem_khieunaito_caotrongquanlysudungdatdai",
-      "label": "KháiNiệm",
-      "text": "khiếu nại, tố cáo trong quản lý và sử dụng đất đai"
-    },
-    {
-      "id": "khauniem_hoatdongdichvuvedatdai",
-      "label": "KháiNiệm",
-      "text": "hoạt động dịch vụ về đất đai"
-    },
-    {
-      "id": "hanhvi_banhanhvanban",
-      "label": "HànhViPhápLý",
-      "text": "Ban hành văn bản"
-    },
-    {
-      "id": "hanhvi_tochucthuchienvanban",
-      "label": "HànhViPhápLý",
-      "text": "tổ chức thực hiện văn bản đó"
-    },
-    {
-      "id": "hanhvi_xacđinhdiagioihanhchinh",
-      "label": "HànhViPhápLý",
-      "text": "Xác định địa giới hành chính"
-    },
-    {
-      "id": "hanhvi_lap_quanly_hosodiagioihanhchinh",
-      "label": "HànhViPhápLý",
-      "text": "lập và quản lý hồ sơ địa giới hành chính"
-    },
-    {
-      "id": "hanhvi_lapbandohanhchinh",
-      "label": "HànhViPhápLý",
-      "text": "lập bản đồ hành chính"
-    },
-    {
-      "id": "hanhvi_khaosat",
-      "label": "HànhViPhápLý",
-      "text": "Khảo sát"
-    },
-    {
-      "id": "hanhvi_đođac",
-      "label": "HànhViPhápLý",
-      "text": "đo đạc"
-    },
-    {
-      "id": "hanhvi_lapbandodiachinh",
-      "label": "HànhViPhápLý",
-      "text": "lập bản đồ địa chính"
-    },
-    {
-      "id": "hanhvi_lapbandohientrangsudungdat",
-      "label": "HànhViPhápLý",
-      "text": "lập bản đồ hiện trạng sử dụng đất"
-    },
-    {
-      "id": "hanhvi_lapbandoquyhoachsửdungdat",
-      "label": "HànhViPhápLý",
-      "text": "lập bản đồ quy hoạch sử dụng đất"
-    },
-    {
-      "id": "hanhvi_dieutradanhgiatainguyendat",
-      "label": "HànhViPhápLý",
-      "text": "điều tra, đánh giá tài nguyên đất"
-    },
-    {
-      "id": "hanhvi_dieutraxaydunggadat",
-      "label": "HànhViPhápLý",
-      "text": "điều tra xây dựng giá đất"
-    },
-    {
-      "id": "hanhvi_quanlyquyhoachsửdungdat",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý quy hoạch sử dụng đất"
-    },
-    {
-      "id": "hanhvi_quanlykehoachsửdungdat",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý kế hoạch sử dụng đất"
-    },
-    {
-      "id": "hanhvi_quanlygiaodat",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý việc giao đất"
-    },
-    {
-      "id": "hanhvi_quanlychothuedat",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý việc cho thuê đất"
-    },
-    {
-      "id": "hanhvi_quanlythuhoidat",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý việc thu hồi đất"
-    },
-    {
-      "id": "hanhvi_quanlychuyenmucđichsudungdat",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý việc chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "hanhvi_quanlyboithuonghotrotaiđinhcu",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý việc bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "hanhvi_dangkyđatdai",
-      "label": "HànhViPhápLý",
-      "text": "Đăng ký đất đai"
-    },
-    {
-      "id": "hanhvi_lap_quanly_hosodiachinh",
-      "label": "HànhViPhápLý",
-      "text": "lập và quản lý hồ sơ địa chính"
-    },
-    {
-      "id": "hanhvi_capgiaychungnhanquyensửdungdat",
-      "label": "HànhViPhápLý",
-      "text": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
-    },
-    {
-      "id": "hanhvi_thongke_kiemkedatdai",
-      "label": "HànhViPhápLý",
-      "text": "Thống kê, kiểm kê đất đai"
-    },
-    {
-      "id": "hanhvi_xaydunghethongthongtindatdai",
-      "label": "HànhViPhápLý",
-      "text": "Xây dựng hệ thống thông tin đất đai"
-    },
-    {
-      "id": "hanhvi_quanlytaichinhvedatdai",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý tài chính về đất đai"
-    },
-    {
-      "id": "hanhvi_quanlygiadat_chung",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý giá đất"
-    },
-    {
-      "id": "hanhvi_quanly_giamsat_quyenvanghiavu",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý, giám sát việc thực hiện quyền và nghĩa vụ"
-    },
-    {
-      "id": "hanhvi_thanhtra_kiemtra_giamsat_theo_doidanhgia",
-      "label": "HànhViPhápLý",
-      "text": "Thanh tra, kiểm tra, giám sát, theo dõi, đánh giá việc chấp hành quy định của pháp luật về đất đai"
-    },
-    {
-      "id": "hanhvi_phobien_giaoducphapluatvedatdai",
-      "label": "HànhViPhápLý",
-      "text": "Phổ biến, giáo dục pháp luật về đất đai"
-    },
-    {
-      "id": "hanhvi_giaiquyettranhchapvedatdai",
-      "label": "HànhViPhápLý",
-      "text": "Giải quyết tranh chấp về đất đai"
-    },
-    {
-      "id": "hanhvi_giaiquyetkhieunaito_caotrongquanlysudungdatdai",
-      "label": "HànhViPhápLý",
-      "text": "giải quyết khiếu nại, tố cáo trong quản lý và sử dụng đất đai"
-    },
-    {
-      "id": "hanhvi_quanlyhoatdongdichvuvedatdai",
-      "label": "HànhViPhápLý",
-      "text": "Quản lý hoạt động dịch vụ về đất đai"
-    },
-    {
-      "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "text": "Nhà nước"
-    },
-    {
-      "id": "chuthe_nguoisudungdat",
-      "label": "ChủThể",
-      "text": "người sử dụng đất"
-    },
-    {
-      "id": "chetai_xulyviphamphapluatvedatdai",
-      "label": "ChếTài",
-      "text": "xử lý vi phạm pháp luật về đất đai"
+      "id": "hanhviphaply_quanlyhoatdongdichvuvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý hoạt động dịch vụ về đất đai"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_22",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khauniem_noidungquanlynhanuocvedatdai"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_banhanhvqppl",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_noidungquanlynhanuocvedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhanuoc"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_xacdinhdiagioihanhchinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_banhanhvanban"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lqvqlhsdiagioihanhchinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_banhanhvanban",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_vanbanquyphamphapluatvedatdai"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lapbandohanhchinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_tochucthuchienvanban"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_khaosaidodac",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_tochucthuchienvanban",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_vanbanquyphamphapluatvedatdai"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lapbandodiachinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_xacđinhdiagioihanhchinh"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lapbandohientrangsd",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_xacđinhdiagioihanhchinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_diagioihanhchinh"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_lapbandoquyhoachsd",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_lap_quanly_hosodiagioihanhchinh"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_dieutradgtnd",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_lap_quanly_hosodiagioihanhchinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_hosodiagioihanhchinh"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_dieutraxaydunggiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_lapbandohanhchinh"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlyqhkxsd",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_lapbandohanhchinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_bandohanhchinh"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlygiaodattrtthud",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_khaosat"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlybthttdc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_đođac"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_dangkydatdailqqlhs",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_lapbandodiachinh"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_thongkekiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_lapbandodiachinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_bandodiachinh"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_xaydunghtttindatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_lapbandohientrangsudungdat"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlytaichinhvedatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_lapbandohientrangsudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_bandohientrangsudungdat"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlygiamsatthuchienquyennghiavu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_lapbandoquyhoachsửdungdat"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_thanhtrakttdgtcdpl",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_lapbandoquyhoachsửdungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_bandoquyhoachsửdungdat"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_phobiengiaoducplveDatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_dieutradanhgiatainguyendat"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_giaiquyettcdatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_dieutradanhgiatainguyendat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_tainguyendat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_dieutraxaydunggadat"
-    },
-    {
-      "source_id": "hanhvi_dieutraxaydunggadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_giadat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlyquyhoachsửdungdat"
-    },
-    {
-      "source_id": "hanhvi_quanlyquyhoachsửdungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quyhoachsửdungdat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlykehoachsửdungdat"
-    },
-    {
-      "source_id": "hanhvi_quanlykehoachsửdungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_kehoachsửdungdat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlygiaodat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlychothuedat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlythuhoidat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlychuyenmucđichsudungdat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlyboithuonghotrotaiđinhcu"
-    },
-    {
-      "source_id": "hanhvi_quanlyboithuonghotrotaiđinhcu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_boihoitrotaiđinhcu"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_dangkyđatdai"
-    },
-    {
-      "source_id": "hanhvi_dangkyđatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_dangkyđatdai"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_lap_quanly_hosodiachinh"
-    },
-    {
-      "source_id": "hanhvi_lap_quanly_hosodiachinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_hosodiachinh"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_capgiaychungnhanquyensửdungdat"
-    },
-    {
-      "source_id": "hanhvi_capgiaychungnhanquyensửdungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_giaychungnhanquyensửdungdat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_thongke_kiemkedatdai"
-    },
-    {
-      "source_id": "hanhvi_thongke_kiemkedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_thongkedatdai"
-    },
-    {
-      "source_id": "hanhvi_thongke_kiemkedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_kiemkedatdai"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_xaydunghethongthongtindatdai"
-    },
-    {
-      "source_id": "hanhvi_xaydunghethongthongtindatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_hethongthongtindatdai"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlytaichinhvedatdai"
-    },
-    {
-      "source_id": "hanhvi_quanlytaichinhvedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_taichinhvedatdai"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlygiadat_chung"
-    },
-    {
-      "source_id": "hanhvi_quanlygiadat_chung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_giadat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanly_giamsat_quyenvanghiavu"
-    },
-    {
-      "source_id": "hanhvi_quanly_giamsat_quyenvanghiavu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quyenanghiavu"
-    },
-    {
-      "source_id": "khauniem_quyenanghiavu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdat"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_thanhtra_kiemtra_giamsat_theo_doidanhgia"
-    },
-    {
-      "source_id": "hanhvi_thanhtra_kiemtra_giamsat_theo_doidanhgia",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quydinhphapluatvedatdai"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chetai_xulyviphamphapluatvedatdai"
-    },
-    {
-      "source_id": "chetai_xulyviphamphapluatvedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_viphamphapluatvedatdai"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_phobien_giaoducphapluatvedatdai"
-    },
-    {
-      "source_id": "hanhvi_phobien_giaoducphapluatvedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_phapluatvedatdai"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giaiquyettranhchapvedatdai"
-    },
-    {
-      "source_id": "hanhvi_giaiquyettranhchapvedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_tranhchapvedatdai"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giaiquyetkhieunaito_caotrongquanlysudungdatdai"
-    },
-    {
-      "source_id": "hanhvi_giaiquyetkhieunaito_caotrongquanlysudungdatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_khieunaito_caotrongquanlysudungdatdai"
-    },
-    {
-      "source_id": "dieu_22",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quanlyhoatdongdichvuvedatdai"
-    },
-    {
-      "source_id": "hanhvi_quanlyhoatdongdichvuvedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_hoatdongdichvuvedatdai"
+      "source_id": "dieu_22_2013",
+      "target_id": "hanhviphaply_quanlyhoatdongdichvuvedatdai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,246 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_69",
-      "label": "ĐiềuLuật",
-      "name": "Điều 69"
-    },
-    {
-      "id": "khauniem_trachnhiem_tochuc_lap_quyhoach_kethoach_sudungdat",
-      "label": "KháiNiệm",
-      "name": "Trách nhiệm tổ chức lập quy hoạch, kế hoạch sử dụng đất"
+      "id": "dieu_69_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 69. Trách nhiệm tổ chức lập quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "69",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 69.\n\nTrách nhiệm tổ chức lập quy hoạch, kế hoạch sử dụng đất\n1. Chính phủ tổ chức lập quy hoạch, kế hoạch sử dụng đất quốc gia.\nBộ Tài nguyên và Môi trường có trách nhiệm chủ trì giúp Chính phủ lập quy hoạch, kế hoạch sử dụng\nđất quốc gia.\n2. Ủy ban nhân dân cấp tỉnh tổ chức lập quy hoạch, kế hoạch sử dụng đất cấp tỉnh.\nCơ quan có chức năng quản lý đất đai cấp tỉnh có trách nhiệm chủ trì giúp Ủy ban nhân dân cấp tỉnh lập\nquy hoạch, kế hoạch sử dụng đất cấp tỉnh.\n3. Ủy ban nhân dân cấp huyện tổ chức lập quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất\nhằng năm cấp huyện.\nCơ quan có chức năng quản lý đất đai cấp huyện có trách nhiệm chủ trì giúp Ủy ban nhân dân cấp\nhuyện lập quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện.\n4. Quy hoạch sử dụng đất được phê duyệt trong năm đầu tiên của kỳ quy hoạch.\n5. Quy hoạch, kế hoạch sử dụng đất của các địa phương có biển được lập bao gồm cả khu vực lấn biển."
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "hanhvipaply_tochuc_lap",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức lập"
+      "id": "hanhviphaply_tochuclapquydatquocgia",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tổ chức lập quy hoạch, kế hoạch sử dụng đất quốc gia"
+      }
     },
     {
-      "id": "khauniem_quyhoach_kethoach_sudungdat_quocgia",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất quốc gia"
+      "id": "chuthe_botainguyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
     },
     {
-      "id": "chuthe_botainguyen_moitruong",
-      "label": "ChủThể",
-      "name": "Bộ Tài nguyên và Môi trường"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "hanhvipaply_chutri_giup",
-      "label": "HànhViPhápLý",
-      "name": "chủ trì giúp"
+      "id": "hanhviphaply_tochuclapquydatcaptinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tổ chức lập quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
     },
     {
-      "id": "hanhvipaply_lap",
-      "label": "HànhViPhápLý",
-      "name": "lập"
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
-      "id": "chuthe_ubnd_captinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "khauniem_quyhoach_kethoach_sudungdat_captinh",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
-    },
-    {
-      "id": "chuthe_coquan_quanlydatdai_captinh",
-      "label": "ChủThể",
-      "name": "Cơ quan có chức năng quản lý đất đai cấp tỉnh"
-    },
-    {
-      "id": "chuthe_ubnd_caphuyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "khauniem_quyhoach_sudungdat_caphuyen",
-      "label": "KháiNiệm",
-      "name": "quy hoạch sử dụng đất cấp huyện"
-    },
-    {
-      "id": "khauniem_kethoach_sudungdat_hangnam_caphuyen",
-      "label": "KháiNiệm",
-      "name": "kế hoạch sử dụng đất hằng năm cấp huyện"
-    },
-    {
-      "id": "chuthe_coquan_quanlydatdai_caphuyen",
-      "label": "ChủThể",
-      "name": "Cơ quan có chức năng quản lý đất đai cấp huyện"
-    },
-    {
-      "id": "khauniem_quyhoach_sudungdat",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch sử dụng đất"
-    },
-    {
-      "id": "hanhvipaply_pheduyet",
-      "label": "HànhViPhápLý",
-      "name": "phê duyệt"
-    },
-    {
-      "id": "dieukien_trong_namdau_tiencua_kyquyhoach",
-      "label": "ĐiềuKiện",
-      "name": "trong năm đầu tiên của kỳ quy hoạch"
-    },
-    {
-      "id": "khauniem_quyhoach_kethoach_sudungdat",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "chuthe_diaphuong_cobien",
-      "label": "ChủThể",
-      "name": "các địa phương có biển"
-    },
-    {
-      "id": "hanhvipaply_lap_baogom",
-      "label": "HànhViPhápLý",
-      "name": "lập bao gồm"
-    },
-    {
-      "id": "khauniem_khuvuc_lanbien",
-      "label": "KháiNiệm",
-      "name": "khu vực lấn biển"
+      "id": "hanhviphaply_tochuclapquydatcaphuyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tổ chức lập quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_69",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_trachnhiem_tochuc_lap_quyhoach_kethoach_sudungdat"
+      "source_id": "dieu_69_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_tochuc_lap"
+      "source_id": "dieu_69_2024",
+      "target_id": "hanhviphaply_tochuclapquydatquocgia",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_tochuc_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quyhoach_kethoach_sudungdat_quocgia"
+      "source_id": "dieu_69_2024",
+      "target_id": "chuthe_botainguyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_botainguyen_moitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_chutri_giup"
+      "source_id": "dieu_69_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chutri_giup",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinhphu"
+      "source_id": "dieu_69_2024",
+      "target_id": "hanhviphaply_tochuclapquydatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_chutri_giup",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_lap"
+      "source_id": "dieu_69_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quyhoach_kethoach_sudungdat_quocgia"
-    },
-    {
-      "source_id": "chuthe_ubnd_captinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_tochuc_lap"
-    },
-    {
-      "source_id": "hanhvipaply_tochuc_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quyhoach_kethoach_sudungdat_captinh"
-    },
-    {
-      "source_id": "chuthe_coquan_quanlydatdai_captinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_chutri_giup"
-    },
-    {
-      "source_id": "hanhvipaply_chutri_giup",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ubnd_captinh"
-    },
-    {
-      "source_id": "hanhvipaply_chutri_giup",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_lap"
-    },
-    {
-      "source_id": "hanhvipaply_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quyhoach_kethoach_sudungdat_captinh"
-    },
-    {
-      "source_id": "chuthe_ubnd_caphuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_tochuc_lap"
-    },
-    {
-      "source_id": "hanhvipaply_tochuc_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quyhoach_sudungdat_caphuyen"
-    },
-    {
-      "source_id": "hanhvipaply_tochuc_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_kethoach_sudungdat_hangnam_caphuyen"
-    },
-    {
-      "source_id": "chuthe_coquan_quanlydatdai_caphuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_chutri_giup"
-    },
-    {
-      "source_id": "hanhvipaply_chutri_giup",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ubnd_caphuyen"
-    },
-    {
-      "source_id": "hanhvipaply_chutri_giup",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_lap"
-    },
-    {
-      "source_id": "hanhvipaply_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quyhoach_sudungdat_caphuyen"
-    },
-    {
-      "source_id": "hanhvipaply_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_kethoach_sudungdat_hangnam_caphuyen"
-    },
-    {
-      "source_id": "khauniem_quyhoach_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_pheduyet"
-    },
-    {
-      "source_id": "hanhvipaply_pheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_namdau_tiencua_kyquyhoach"
-    },
-    {
-      "source_id": "khauniem_quyhoach_kethoach_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_diaphuong_cobien"
-    },
-    {
-      "source_id": "khauniem_quyhoach_kethoach_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_lap_baogom"
-    },
-    {
-      "source_id": "hanhvipaply_lap_baogom",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_khuvuc_lanbien"
+      "source_id": "dieu_69_2024",
+      "target_id": "hanhviphaply_tochuclapquydatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,206 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_162",
-      "label": "ĐiềuLuật",
-      "name": "Điều 162"
+      "id": "dieu_162_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 162. Đất làm nghĩa trang, nghĩa địa",
+        "ma_dieu": "162",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 162.\n\nĐất làm nghĩa trang, nghĩa địa\n1. Đất làm nghĩa trang, nghĩa địa phải quy hoạch thành khu tập trung, phù hợp với quy hoạch sử dụng\nđất, xa khu dân cư, thuận tiện cho việc chôn cất, thăm viếng, hợp vệ sinh, bảo đảm môi trường và tiết\nkiệm đất.\n2. Ủy ban nhân dân cấp tỉnh quy định mức đất và chế độ quản lý việc xây dựng phần mộ, tượng đài, bia\ntưởng niệm trong nghĩa trang, nghĩa địa bảo đảm tiết kiệm và có chính sách khuyến khích việc an táng\nkhông sử dụng đất.\n3. Nghiêm cấm việc lập nghĩa trang, nghĩa địa trái với quy hoạch, kế hoạch sử dụng đất đã được cơ\nquan nhà nước có thẩm quyền phê duyệt."
+      }
     },
     {
-      "id": "khainiem_dat_lam_nghia_trang_nghia_dia",
-      "label": "KháiNiệm",
-      "name": "Đất làm nghĩa trang, nghĩa địa"
+      "id": "khainiem_datlamnghiatrangnghiadia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất làm nghĩa trang, nghĩa địa"
+      }
     },
     {
-      "id": "khainiem_khu_tap_trung",
-      "label": "KháiNiệm",
-      "name": "khu tập trung"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "khainiem_quy_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "quy hoạch sử dụng đất"
+      "id": "hanhviphaply_quydinhmucdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quy định mức đất"
+      }
     },
     {
-      "id": "khainiem_khu_dan_cu",
-      "label": "KháiNiệm",
-      "name": "khu dân cư"
+      "id": "hanhviphaply_chedoquanlyviecxaydungphanmo",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chế độ quản lý việc xây dựng phần mộ, tượng đài, bia tưởng niệm trong nghĩa trang, nghĩa địa"
+      }
     },
     {
-      "id": "khainiem_muc_dat",
-      "label": "KháiNiệm",
-      "name": "mức đất"
-    },
-    {
-      "id": "khainiem_che_do_quan_ly_xay_dung_phan_mo_tuong_dai_bia",
-      "label": "KháiNiệm",
-      "name": "chế độ quản lý việc xây dựng phần mộ, tượng đài, bia tưởng niệm"
-    },
-    {
-      "id": "khainiem_chinh_sach_khuyen_khich_an_tang_khong_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "chính sách khuyến khích việc an táng không sử dụng đất"
-    },
-    {
-      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "hanhvipaply_chon_cat",
-      "label": "HànhViPhápLý",
-      "name": "chôn cất"
-    },
-    {
-      "id": "hanhvipaply_tham_vieng",
-      "label": "HànhViPhápLý",
-      "name": "thăm viếng"
-    },
-    {
-      "id": "hanhvipaply_lap_nghia_trang_nghia_dia",
-      "label": "HànhViPhápLý",
-      "name": "lập nghĩa trang, nghĩa địa"
-    },
-    {
-      "id": "chetai_nghiem_cam",
-      "label": "ChếTài",
-      "name": "Nghiêm cấm"
-    },
-    {
-      "id": "dieukien_phai_quy_hoach_thanh_khu_tap_trung",
-      "label": "ĐiềuKiện",
-      "name": "phải quy hoạch thành khu tập trung"
-    },
-    {
-      "id": "dieukien_phu_hop_voi_quy_hoach_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quy hoạch sử dụng đất"
-    },
-    {
-      "id": "dieukien_xa_khu_dan_cu",
-      "label": "ĐiềuKiện",
-      "name": "xa khu dân cư"
-    },
-    {
-      "id": "dieukien_thuan_tien_cho_chon_cat_tham_vieng",
-      "label": "ĐiềuKiện",
-      "name": "thuận tiện cho việc chôn cất, thăm viếng"
-    },
-    {
-      "id": "dieukien_hop_ve_sinh",
-      "label": "ĐiềuKiện",
-      "name": "hợp vệ sinh"
-    },
-    {
-      "id": "dieukien_bao_dam_moi_truong",
-      "label": "ĐiềuKiện",
-      "name": "bảo đảm môi trường"
-    },
-    {
-      "id": "dieukien_tiet_kiem_dat",
-      "label": "ĐiềuKiện",
-      "name": "tiết kiệm đất"
-    },
-    {
-      "id": "dieukien_bao_dam_tiet_kiem_cho_xay_dung",
-      "label": "ĐiềuKiện",
-      "name": "bảo đảm tiết kiệm (việc xây dựng)"
-    },
-    {
-      "id": "dieukien_trai_voi_quy_hoach_ke_hoach_su_dung_dat_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "trái với quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      "id": "hanhviphaply_nghiemcamvieclapnghiatrangnghiadiatrai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nghiêm cấm việc lập nghĩa trang, nghĩa địa trái với quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_162",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_lam_nghia_trang_nghia_dia"
+      "source_id": "dieu_162_2013",
+      "target_id": "khainiem_datlamnghiatrangnghiadia",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_lam_nghia_trang_nghia_dia",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phai_quy_hoach_thanh_khu_tap_trung"
+      "source_id": "dieu_162_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_phai_quy_hoach_thanh_khu_tap_trung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_khu_tap_trung"
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "hanhviphaply_quydinhmucdat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_khu_tap_trung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_voi_quy_hoach_su_dung_dat"
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "hanhviphaply_chedoquanlyviecxaydungphanmo",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_khu_tap_trung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_xa_khu_dan_cu"
-    },
-    {
-      "source_id": "khainiem_khu_tap_trung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuan_tien_cho_chon_cat_tham_vieng"
-    },
-    {
-      "source_id": "khainiem_khu_tap_trung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hop_ve_sinh"
-    },
-    {
-      "source_id": "khainiem_khu_tap_trung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_moi_truong"
-    },
-    {
-      "source_id": "khainiem_khu_tap_trung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tiet_kiem_dat"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_muc_dat"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_che_do_quan_ly_xay_dung_phan_mo_tuong_dai_bia"
-    },
-    {
-      "source_id": "khainiem_che_do_quan_ly_xay_dung_phan_mo_tuong_dai_bia",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_tiet_kiem_cho_xay_dung"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chinh_sach_khuyen_khich_an_tang_khong_su_dung_dat"
-    },
-    {
-      "source_id": "dieu_162",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chetai_nghiem_cam"
-    },
-    {
-      "source_id": "chetai_nghiem_cam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvipaply_lap_nghia_trang_nghia_dia"
-    },
-    {
-      "source_id": "hanhvipaply_lap_nghia_trang_nghia_dia",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_trai_voi_quy_hoach_ke_hoach_su_dung_dat_phe_duyet"
+      "source_id": "dieu_162_2013",
+      "target_id": "hanhviphaply_nghiemcamvieclapnghiatrangnghiadiatrai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

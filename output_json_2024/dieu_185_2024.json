@@ -1,346 +1,160 @@
 {
   "entities": [
     {
-      "id": "dieu_185",
-      "label": "ĐiềuLuật",
-      "name": "Điều 185"
+      "id": "dieu_185_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 185. Đất rừng phòng hộ",
+        "ma_dieu": "185",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 185.\n\nĐất rừng phòng hộ\n1. Nhà nước giao đất rừng phòng hộ để quản lý, sử dụng, bảo vệ, phát triển rừng theo quy định của pháp\nluật về lâm nghiệp cho các đối tượng sau đây:\na) Ban quản lý rừng phòng hộ, ban quản lý rừng đặc dụng, đơn vị thuộc lực lượng vũ trang nhân dân;\nb) Tổ chức kinh tế đối với đất rừng phòng hộ xen kẽ trong diện tích đất rừng sản xuất của tổ chức đó;\nc) Cá nhân cư trú hợp pháp trên địa bàn cấp xã nơi có rừng phòng hộ;\nd) Cộng đồng dân cư trên địa bàn cấp xã nơi có rừng phòng hộ.\n2. Các đối tượng được Nhà nước giao đất rừng phòng hộ quy định tại khoản 1 Điều này được xây dựng\ncông trình kết cấu hạ tầng phục vụ quản lý, bảo vệ, phát triển rừng theo quy định của pháp luật về lâm\nnghiệp.\n3. Người được Nhà nước giao đất quy định tại khoản 1 Điều này được cấp Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu tài sản gắn liền với đất nhưng không được ghi nhận tài sản là tài sản công trên\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n4. Người được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất quy\nđịnh tại khoản 3 Điều này , trừ trường hợp ban quản lý rừng phòng hộ, ban quản lý rừng đặc dụng, được\nthực hiện quyền của người sử dụng đất và phải bảo đảm phù hợp với quy định tại khoản 8 Điều 45 của\nLuật này ."
+      }
     },
     {
-      "id": "khainiem_dat_rung_phong_ho",
-      "label": "KháiNiệm",
-      "name": "Đất rừng phòng hộ"
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng phòng hộ"
+      }
     },
     {
-      "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "chuthe_banquanlyrungphongho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng phòng hộ"
+      }
     },
     {
-      "id": "hanhvi_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
+      "id": "chuthe_banquanlyrungdacdung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng đặc dụng"
+      }
     },
     {
-      "id": "hanhvi_quan_ly_su_dung_bao_ve_phat_trien_rung",
-      "label": "HànhViPhápLý",
-      "name": "quản lý, sử dụng, bảo vệ, phát triển rừng"
+      "id": "chuthe_donvithuoelucluongvutranhnhandan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị thuộc lực lượng vũ trang nhân dân"
+      }
     },
     {
-      "id": "dieukien_theo_quy_dinh_phap_luat_lam_nghiep",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật về lâm nghiệp"
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     },
     {
-      "id": "chuthe_ban_quan_ly_rung_phong_ho",
-      "label": "ChủThể",
-      "name": "Ban quản lý rừng phòng hộ"
+      "id": "chuthe_canhancutruhople",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân cư trú hợp pháp trên địa bàn cấp xã nơi có rừng phòng hộ"
+      }
     },
     {
-      "id": "chuthe_ban_quan_ly_rung_dac_dung",
-      "label": "ChủThể",
-      "name": "ban quản lý rừng đặc dụng"
+      "id": "chuthe_congdongdancucapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư trên địa bàn cấp xã nơi có rừng phòng hộ"
+      }
     },
     {
-      "id": "chuthe_don_vi_thuoc_luc_luong_vu_trang_nhan_dan",
-      "label": "ChủThể",
-      "name": "đơn vị thuộc lực lượng vũ trang nhân dân"
+      "id": "hanhviphaply_quanlysudungbaovephattrienrung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quản lý, sử dụng, bảo vệ, phát triển rừng"
+      }
     },
     {
-      "id": "chuthe_to_chuc_kinh_te",
-      "label": "ChủThể",
-      "name": "Tổ chức kinh tế"
+      "id": "dieukien_phuhopquyphamphapluatlamnghiep",
+      "label": "DieuKien",
+      "properties": {
+        "name": "theo quy định của pháp luật về lâm nghiệp"
+      }
     },
     {
-      "id": "dieukien_xen_ke_trong_dien_tich_dat_rung_san_xuat",
-      "label": "ĐiềuKiện",
-      "name": "xen kẽ trong diện tích đất rừng sản xuất của tổ chức đó"
+      "id": "hanhviphaply_xaydungcongtringketcauhathang",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "xây dựng công trình kết cấu hạ tầng phục vụ quản lý, bảo vệ, phát triển rừng"
+      }
     },
     {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "dieukien_cu_tru_hop_phap_tren_dia_ban_cap_xa",
-      "label": "ĐiềuKiện",
-      "name": "cư trú hợp pháp trên địa bàn cấp xã nơi có rừng phòng hộ"
-    },
-    {
-      "id": "chuthe_cong_dong_dan_cu",
-      "label": "ChủThể",
-      "name": "Cộng đồng dân cư"
-    },
-    {
-      "id": "dieukien_tren_dia_ban_cap_xa_noi_co_rung_phong_ho",
-      "label": "ĐiềuKiện",
-      "name": "trên địa bàn cấp xã nơi có rừng phòng hộ"
-    },
-    {
-      "id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "label": "HànhViPhápLý",
-      "name": "xây dựng công trình kết cấu hạ tầng"
-    },
-    {
-      "id": "khainiem_cong_trinh_ket_cau_ha_tang_phuc_vu_rung",
-      "label": "KháiNiệm",
-      "name": "công trình kết cấu hạ tầng phục vụ quản lý, bảo vệ, phát triển rừng"
-    },
-    {
-      "id": "hanhvi_cap_giay_chung_nhan",
-      "label": "HànhViPhápLý",
-      "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_so_huu_tai_san_gan_lien",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhvi_ghi_nhan_tai_san_la_tai_san_cong",
-      "label": "HànhViPhápLý",
-      "name": "ghi nhận tài sản là tài sản công"
-    },
-    {
-      "id": "khainiem_tai_san_cong",
-      "label": "KháiNiệm",
-      "name": "tài sản công"
-    },
-    {
-      "id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện quyền của người sử dụng đất"
-    },
-    {
-      "id": "khainiem_quyen_nguoi_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "quyền của người sử dụng đất"
-    },
-    {
-      "id": "dieukien_tru_ban_quan_ly_rung_phong_ho_dac_dung",
-      "label": "ĐiềuKiện",
-      "name": "trừ trường hợp ban quản lý rừng phòng hộ, ban quản lý rừng đặc dụng"
-    },
-    {
-      "id": "dieukien_phu_hop_khoan_8_dieu_45_luat_nay",
-      "label": "ĐiềuKiện",
-      "name": "phải bảo đảm phù hợp với quy định tại khoản 8 Điều 45 của Luật này"
+      "id": "hanhviphaply_thuchiencacquyennguoisudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thực hiện quyền của người sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_185",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_rung_phong_ho"
+      "source_id": "dieu_185_2024",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_185",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giao_dat"
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_banquanlyrungphongho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giao_dat"
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_banquanlyrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_rung_phong_ho"
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_donvithuoelucluongvutranhnhandan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_quan_ly_su_dung_bao_ve_phat_trien_rung"
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_quan_ly_su_dung_bao_ve_phat_trien_rung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_phap_luat_lam_nghiep"
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_canhancutruhople",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_phong_ho"
+      "source_id": "dieu_185_2024",
+      "target_id": "chuthe_congdongdancucapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_dac_dung"
+      "source_id": "dieu_185_2024",
+      "target_id": "hanhviphaply_quanlysudungbaovephattrienrung",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_don_vi_thuoc_luc_luong_vu_trang_nhan_dan"
+      "source_id": "dieu_185_2024",
+      "target_id": "dieukien_phuhopquyphamphapluatlamnghiep",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
+      "source_id": "dieu_185_2024",
+      "target_id": "hanhviphaply_xaydungcongtringketcauhathang",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_to_chuc_kinh_te",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_xen_ke_trong_dien_tich_dat_rung_san_xuat"
+      "source_id": "dieu_185_2024",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_cu_tru_hop_phap_tren_dia_ban_cap_xa"
-    },
-    {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "chuthe_cong_dong_dan_cu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tren_dia_ban_cap_xa_noi_co_rung_phong_ho"
-    },
-    {
-      "source_id": "dieu_185",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_phong_ho"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_dac_dung"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_don_vi_thuoc_luc_luong_vu_trang_nhan_dan"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_phap_luat_lam_nghiep"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_cong_trinh_ket_cau_ha_tang_phuc_vu_rung"
-    },
-    {
-      "source_id": "dieu_185",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_phong_ho"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_dac_dung"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_don_vi_thuoc_luc_luong_vu_trang_nhan_dan"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_so_huu_tai_san_gan_lien"
-    },
-    {
-      "source_id": "dieu_185",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_ghi_nhan_tai_san_la_tai_san_cong"
-    },
-    {
-      "source_id": "hanhvi_ghi_nhan_tai_san_la_tai_san_cong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tai_san_cong"
-    },
-    {
-      "source_id": "dieu_185",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyen_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_don_vi_thuoc_luc_luong_vu_trang_nhan_dan"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_khoan_8_dieu_45_luat_nay"
-    },
-    {
-      "source_id": "dieu_185",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_tru_ban_quan_ly_rung_phong_ho_dac_dung"
-    },
-    {
-      "source_id": "dieukien_tru_ban_quan_ly_rung_phong_ho_dac_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat"
+      "source_id": "dieu_185_2024",
+      "target_id": "hanhviphaply_thuchiencacquyennguoisudungdat",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

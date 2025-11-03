@@ -1,516 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_146",
-      "label": "ĐiềuLuật",
-      "name": "Điều 146"
+      "id": "dieu_146_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 146. Đất sử dụng để chỉnh trang, phát triển đô thị và khu dân cư nông thôn",
+        "ma_dieu": "146",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 146.\n\nĐất sử dụng để chỉnh trang, phát triển đô thị và khu dân cư nông thôn\n1. Đất sử dụng để chỉnh trang, phát triển đô thị gồm đất chỉnh trang khu vực nội thành, nội thị hiện có;\nđất được quy hoạch để mở rộng đô thị hoặc phát triển đô thị mới.\nĐất sử dụng để chỉnh trang, phát triển khu dân cư nông thôn gồm đất chỉnh trang trong khu dân cư hiện\ncó, đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích, đất được quy hoạch để mở rộng khu\ndân cư nông thôn.\n2. Việc sử dụng đất để chỉnh trang, phát triển đô thị, khu dân cư nông thôn phải phù hợp với quy hoạch,\nkế hoạch sử dụng đất, quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn đã được\ncơ quan nhà nước có thẩm quyền phê duyệt và các quy chuẩn, tiêu chuẩn xây dựng do cơ quan nhà\nnước có thẩm quyền ban hành.\n3. Ủy ban nhân dân cấp tỉnh tổ chức việc lập và giao cho tổ chức kinh tế, người Việt Nam định cư ở\nnước ngoài, doanh nghiệp có vốn đầu tư nước ngoài thực hiện dự án theo quy định của pháp luật để\nchỉnh trang hoặc xây dựng khu đô thị mới, khu dân cư nông thôn mới. Đất cho các dự án này phải được\nphân bổ đồng bộ trong quy hoạch, kế hoạch sử dụng đất cho toàn khu vực, bao gồm đất sử dụng để xây\ndựng kết cấu hạ tầng, đất ở, đất xây dựng các công trình công cộng, công trình sự nghiệp, đất thương\nmại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp.\nKhi thực hiện các dự án hạ tầng kỹ thuật, xây dựng, chỉnh trang khu đô thị, khu dân cư nông thôn, Nhà\nnước chủ động thu hồi đất, bao gồm đất để xây dựng công trình kết cấu hạ tầng và đất vùng phụ cận\ntheo quy hoạch và kế hoạch sử dụng đất.\n4. Cộng đồng dân cư xây dựng, chỉnh trang các công trình phục vụ lợi ích chung của cộng đồng bằng\nnguồn vốn do nhân dân đóng góp hoặc Nhà nước hỗ trợ thì việc tự nguyện góp quyền sử dụng đất, bồi\nthường hoặc hỗ trợ do cộng đồng dân cư và người sử dụng đất đó thỏa thuận."
+      }
     },
     {
-      "id": "khainiem_datsudungde_chinhtrang_phattriendt_kdcnt",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng để chỉnh trang, phát triển đô thị và khu dân cư nông thôn"
+      "id": "khainiem_datsudungdechinhtrangphattriendothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng để chỉnh trang, phát triển đô thị"
+      }
     },
     {
-      "id": "khainiem_datsudungde_chinhtrang_phattriendt",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng để chỉnh trang, phát triển đô thị"
+      "id": "khainiem_datsudungdephattrienkhudancunongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng để phát triển khu dân cư nông thôn"
+      }
     },
     {
-      "id": "khainiem_datchinhtrang_khuvucnoithanh_noithi_hienco",
-      "label": "KháiNiệm",
-      "name": "đất chỉnh trang khu vực nội thành, nội thị hiện có"
+      "id": "chuthe_uybanndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "khainiem_datduocquyhoach_demorong_hoac_phattriendtmoi",
-      "label": "KháiNiệm",
-      "name": "đất được quy hoạch để mở rộng đô thị hoặc phát triển đô thị mới"
+      "id": "chuthe_tochucyte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     },
     {
-      "id": "khainiem_datsudungde_chinhtrang_phattrienkdcnt",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng để chỉnh trang, phát triển khu dân cư nông thôn"
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "khainiem_datchinhtrang_trongkdc_hienco",
-      "label": "KháiNiệm",
-      "name": "đất chỉnh trang trong khu dân cư hiện có"
-    },
-    {
-      "id": "khainiem_datthuocquydatnongnghiep_mucdiccongich",
-      "label": "KháiNiệm",
-      "name": "đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích"
-    },
-    {
-      "id": "khainiem_datduocquyhoach_demorongkdcnt",
-      "label": "KháiNiệm",
-      "name": "đất được quy hoạch để mở rộng khu dân cư nông thôn"
-    },
-    {
-      "id": "hanhviphaply_sudungdatde_chinhtrang_phattriendt_kdcnt",
-      "label": "HànhViPhápLý",
-      "name": "Việc sử dụng đất để chỉnh trang, phát triển đô thị, khu dân cư nông thôn"
-    },
-    {
-      "id": "dieukien_phuhopvoi_quyhoach_kehoach_sd_dat",
-      "label": "ĐiềuKiện",
-      "name": "phải phù hợp với quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "dieukien_phuhopvoi_quyhoachxaydung_dt",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quy hoạch xây dựng đô thị"
-    },
-    {
-      "id": "dieukien_phuhopvoi_quyhoachxaydung_diemkdcnt",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quy hoạch xây dựng điểm dân cư nông thôn"
-    },
-    {
-      "id": "dieukien_duoc_cqnn_coth_pheduyet",
-      "label": "ĐiềuKiện",
-      "name": "đã được cơ quan nhà nước có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "chuthe_coquannuoc_cothammquyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "dieukien_phuhopvoi_quychuan_tieuchuan_xd",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với các quy chuẩn, tiêu chuẩn xây dựng"
-    },
-    {
-      "id": "dieukien_do_cqnn_coth_banhanh",
-      "label": "ĐiềuKiện",
-      "name": "do cơ quan nhà nước có thẩm quyền ban hành"
-    },
-    {
-      "id": "chuthe_ubnd_captinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "hanhviphaply_tochuc_lapvagiao_duan",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức việc lập và giao cho ... thực hiện dự án"
-    },
-    {
-      "id": "chuthe_tochuckinhte",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế"
-    },
-    {
-      "id": "chuthe_nguoivietnam_dincuoinuocngoai",
-      "label": "ChủThể",
-      "name": "người Việt Nam định cư ở nước ngoài"
-    },
-    {
-      "id": "chuthe_doanhnghiep_covondaunuocngoai",
-      "label": "ChủThể",
-      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
-    },
-    {
-      "id": "hanhviphaply_thuchien_duan",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện dự án"
-    },
-    {
-      "id": "dieukien_theoquydinh_cuaphapluat",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật"
-    },
-    {
-      "id": "khainiem_khudothimoi",
-      "label": "KháiNiệm",
-      "name": "khu đô thị mới"
-    },
-    {
-      "id": "khainiem_khudancu_nongthonmoi",
-      "label": "KháiNiệm",
-      "name": "khu dân cư nông thôn mới"
-    },
-    {
-      "id": "khainiem_dat_choduan",
-      "label": "KháiNiệm",
-      "name": "Đất cho các dự án này"
-    },
-    {
-      "id": "dieukien_duoc_phanbo_dongbo_trong_qh_khsd_dat",
-      "label": "ĐiềuKiện",
-      "name": "phải được phân bổ đồng bộ trong quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khainiem_datxaydung_congtrinhkethatang",
-      "label": "KháiNiệm",
-      "name": "đất sử dụng để xây dựng kết cấu hạ tầng"
-    },
-    {
-      "id": "khainiem_dat_o",
-      "label": "KháiNiệm",
-      "name": "đất ở"
-    },
-    {
-      "id": "khainiem_datxaydung_congtrinhcongcong",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng các công trình công cộng"
-    },
-    {
-      "id": "khainiem_datxaydung_congtrinhsunghiep",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng các công trình sự nghiệp"
-    },
-    {
-      "id": "khainiem_datthuongmai_dichvu",
-      "label": "KháiNiệm",
-      "name": "đất thương mại, dịch vụ"
-    },
-    {
-      "id": "khainiem_datcososanxuat_phinongnghiep",
-      "label": "KháiNiệm",
-      "name": "đất cơ sở sản xuất phi nông nghiệp"
-    },
-    {
-      "id": "hanhviphaply_thuchien_duan_hatangkythuat_xd_chinhtrang_kdt_kdcnt",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện các dự án hạ tầng kỹ thuật, xây dựng, chỉnh trang khu đô thị, khu dân cư nông thôn"
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "hanhviphaply_chudong_thuhoidat",
-      "label": "HànhViPhápLý",
-      "name": "chủ động thu hồi đất"
-    },
-    {
-      "id": "khainiem_datvungphucan",
-      "label": "KháiNiệm",
-      "name": "đất vùng phụ cận"
-    },
-    {
-      "id": "dieukien_theo_quyhoach_vakh_sd_dat",
-      "label": "ĐiềuKiện",
-      "name": "theo quy hoạch và kế hoạch sử dụng đất"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
       "id": "chuthe_congdongdancu",
-      "label": "ChủThể",
-      "name": "Cộng đồng dân cư"
-    },
-    {
-      "id": "hanhviphaply_xaydung_chinhtrang_congtrinh_loiichchung",
-      "label": "HànhViPhápLý",
-      "name": "xây dựng, chỉnh trang các công trình phục vụ lợi ích chung của cộng đồng"
-    },
-    {
-      "id": "khainiem_nguonvon_nhandan_donggop",
-      "label": "KháiNiệm",
-      "name": "nguồn vốn do nhân dân đóng góp"
-    },
-    {
-      "id": "hanhviphaply_nhanuoc_hotro",
-      "label": "HànhViPhápLý",
-      "name": "Nhà nước hỗ trợ"
-    },
-    {
-      "id": "hanhviphaply_tunguyen_gop_quyensudungdat",
-      "label": "HànhViPhápLý",
-      "name": "tự nguyện góp quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_boithuong",
-      "label": "HànhViPhápLý",
-      "name": "bồi thường"
-    },
-    {
-      "id": "hanhviphaply_hotro",
-      "label": "HànhViPhápLý",
-      "name": "hỗ trợ"
-    },
-    {
-      "id": "chuthe_nguoisudungdat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_thoathuan",
-      "label": "HànhViPhápLý",
-      "name": "thỏa thuận"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_146",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datsudungde_chinhtrang_phattriendt_kdcnt"
+      "source_id": "dieu_146_2013",
+      "target_id": "khainiem_datsudungdechinhtrangphattriendothi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungde_chinhtrang_phattriendt_kdcnt",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datsudungde_chinhtrang_phattriendt"
+      "source_id": "dieu_146_2013",
+      "target_id": "khainiem_datsudungdephattrienkhudancunongthon",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungde_chinhtrang_phattriendt_kdcnt",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datsudungde_chinhtrang_phattrienkdcnt"
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_uybanndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungde_chinhtrang_phattriendt",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datchinhtrang_khuvucnoithanh_noithi_hienco"
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_tochucyte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungde_chinhtrang_phattriendt",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datduocquyhoach_demorong_hoac_phattriendtmoi"
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungde_chinhtrang_phattrienkdcnt",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datchinhtrang_trongkdc_hienco"
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungde_chinhtrang_phattrienkdcnt",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datthuocquydatnongnghiep_mucdiccongich"
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungde_chinhtrang_phattrienkdcnt",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datduocquyhoach_demorongkdcnt"
-    },
-    {
-      "source_id": "dieu_146",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_sudungdatde_chinhtrang_phattriendt_kdcnt"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdatde_chinhtrang_phattriendt_kdcnt",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopvoi_quyhoach_kehoach_sd_dat"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdatde_chinhtrang_phattriendt_kdcnt",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopvoi_quyhoachxaydung_dt"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdatde_chinhtrang_phattriendt_kdcnt",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopvoi_quyhoachxaydung_diemkdcnt"
-    },
-    {
-      "source_id": "dieukien_phuhopvoi_quyhoach_kehoach_sd_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_cqnn_coth_pheduyet"
-    },
-    {
-      "source_id": "dieukien_phuhopvoi_quyhoachxaydung_dt",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_cqnn_coth_pheduyet"
-    },
-    {
-      "source_id": "dieukien_phuhopvoi_quyhoachxaydung_diemkdcnt",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_cqnn_coth_pheduyet"
-    },
-    {
-      "source_id": "dieukien_duoc_cqnn_coth_pheduyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_coquannuoc_cothammquyen"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdatde_chinhtrang_phattriendt_kdcnt",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopvoi_quychuan_tieuchuan_xd"
-    },
-    {
-      "source_id": "dieukien_phuhopvoi_quychuan_tieuchuan_xd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_do_cqnn_coth_banhanh"
-    },
-    {
-      "source_id": "dieukien_do_cqnn_coth_banhanh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_coquannuoc_cothammquyen"
-    },
-    {
-      "source_id": "dieu_146",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tochuc_lapvagiao_duan"
-    },
-    {
-      "source_id": "hanhviphaply_tochuc_lapvagiao_duan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ubnd_captinh"
-    },
-    {
-      "source_id": "hanhviphaply_tochuc_lapvagiao_duan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhte"
-    },
-    {
-      "source_id": "hanhviphaply_tochuc_lapvagiao_duan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoivietnam_dincuoinuocngoai"
-    },
-    {
-      "source_id": "hanhviphaply_tochuc_lapvagiao_duan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanhnghiep_covondaunuocngoai"
-    },
-    {
-      "source_id": "hanhviphaply_tochuc_lapvagiao_duan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_thuchien_duan"
-    },
-    {
-      "source_id": "hanhviphaply_thuchien_duan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhte"
-    },
-    {
-      "source_id": "hanhviphaply_thuchien_duan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoivietnam_dincuoinuocngoai"
-    },
-    {
-      "source_id": "hanhviphaply_thuchien_duan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanhnghiep_covondaunuocngoai"
-    },
-    {
-      "source_id": "hanhviphaply_thuchien_duan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinh_cuaphapluat"
-    },
-    {
-      "source_id": "hanhviphaply_thuchien_duan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khudothimoi"
-    },
-    {
-      "source_id": "hanhviphaply_thuchien_duan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khudancu_nongthonmoi"
-    },
-    {
-      "source_id": "dieu_146",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_choduan"
-    },
-    {
-      "source_id": "khainiem_dat_choduan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_phanbo_dongbo_trong_qh_khsd_dat"
-    },
-    {
-      "source_id": "khainiem_dat_choduan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datxaydung_congtrinhkethatang"
-    },
-    {
-      "source_id": "khainiem_dat_choduan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_o"
-    },
-    {
-      "source_id": "khainiem_dat_choduan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datxaydung_congtrinhcongcong"
-    },
-    {
-      "source_id": "khainiem_dat_choduan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datxaydung_congtrinhsunghiep"
-    },
-    {
-      "source_id": "khainiem_dat_choduan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datthuongmai_dichvu"
-    },
-    {
-      "source_id": "khainiem_dat_choduan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datcososanxuat_phinongnghiep"
-    },
-    {
-      "source_id": "hanhviphaply_thuchien_duan_hatangkythuat_xd_chinhtrang_kdt_kdcnt",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_chudong_thuhoidat"
-    },
-    {
-      "source_id": "hanhviphaply_chudong_thuhoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhanuoc"
-    },
-    {
-      "source_id": "hanhviphaply_chudong_thuhoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_datxaydung_congtrinhkethatang"
-    },
-    {
-      "source_id": "hanhviphaply_chudong_thuhoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_datvungphucan"
-    },
-    {
-      "source_id": "hanhviphaply_chudong_thuhoidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quyhoach_vakh_sd_dat"
-    },
-    {
-      "source_id": "dieu_146",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xaydung_chinhtrang_congtrinh_loiichchung"
-    },
-    {
-      "source_id": "hanhviphaply_xaydung_chinhtrang_congtrinh_loiichchung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_congdongdancu"
-    },
-    {
-      "source_id": "hanhviphaply_xaydung_chinhtrang_congtrinh_loiichchung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_nguonvon_nhandan_donggop"
-    },
-    {
-      "source_id": "hanhviphaply_xaydung_chinhtrang_congtrinh_loiichchung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_nhanuoc_hotro"
-    },
-    {
-      "source_id": "hanhviphaply_xaydung_chinhtrang_congtrinh_loiichchung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_thoathuan"
-    },
-    {
-      "source_id": "hanhviphaply_thoathuan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_congdongdancu"
-    },
-    {
-      "source_id": "hanhviphaply_thoathuan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_thoathuan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_tunguyen_gop_quyensudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_thoathuan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_boithuong"
-    },
-    {
-      "source_id": "hanhviphaply_thoathuan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_hotro"
+      "source_id": "dieu_146_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

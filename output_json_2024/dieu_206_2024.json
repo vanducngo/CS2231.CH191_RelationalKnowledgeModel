@@ -1,310 +1,88 @@
 {
-  "graph_id": "luatdatdai_2024_dieu_206",
   "entities": [
     {
-      "id": "dieu_206",
-      "label": "ĐiềuLuật",
+      "id": "dieu_206_2024",
+      "label": "DieuLuat",
       "properties": {
         "name": "Điều 206. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp",
-        "ten_luat": "Luật Đất đai 2024"
+        "ma_dieu": "206",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 206.\n\nĐất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp\n1. Đất thương mại, dịch vụ bao gồm đất xây dựng cơ sở kinh doanh thương mại, dịch vụ và các công\ntrình khác phục vụ cho kinh doanh, thương mại, dịch vụ.\nĐất cơ sở sản xuất phi nông nghiệp bao gồm đất xây dựng các cơ sở sản xuất phi nông nghiệp nằm\nngoài khu công nghiệp, cụm công nghiệp. about:blank\n. Việc sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp phải phù hợp với quy\nhoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn\nđã được cơ quan có thẩm quyền phê duyệt và các quy định về bảo vệ môi trường.\n3. Tổ chức kinh tế, cá nhân sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp thông\nqua hình thức Nhà nước cho thuê đất; nhận chuyển quyền sử dụng đất, thuê đất, thuê lại đất, nhận góp\nvốn bằng quyền sử dụng đất của tổ chức kinh tế, cá nhân khác, người gốc Việt Nam định cư ở nước\nngoài; thuê lại đất gắn với kết cấu hạ tầng của tổ chức kinh tế có vốn đầu tư nước ngoài.\nNgười gốc Việt Nam định cư ở nước ngoài sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi\nnông nghiệp thông qua hình thức Nhà nước cho thuê đất; thuê đất, thuê lại đất của tổ chức kinh tế, cá\nnhân, người gốc Việt Nam định cư ở nước ngoài ; thuê lại đất gắn với kết cấu hạ tầng của tổ chức kinh\ntế có vốn đầu tư nước ngoài. Người gốc Việt Nam định cư ở nước ngoài thuộc đối tượng quy định tại\nkhoản 1 Điều 44 của Luật này  được nhận thừa kế, được tặng cho quyền sử dụng đất để làm mặt bằng\nxây dựng cơ sở thương mại, dịch vụ, cơ sở sản xuất phi nông nghiệp.\nTổ chức kinh tế có vốn đầu tư nước ngoài sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi\nnông nghiệp thông qua hình thức Nhà nước cho thuê đất; thuê đất, thuê lại đất của tổ chức kinh tế,\nngười gốc Việt Nam định cư ở nước ngoài ; thuê lại đất gắn với kết cấu hạ tầng của tổ chức kinh tế có\nvốn đầu tư nước ngoài; nhận góp vốn bằng quyền sử dụng đất của tổ chức kinh tế, tổ chức kinh tế có\nvốn đầu tư nước ngoài khác, người gốc Việt Nam định cư ở nước ngoài."
       }
     },
     {
-      "id": "khainiem_dat_thuong_mai_dich_vu",
-      "label": "KháiNiệm",
+      "id": "khainiem_datthuongmaidichvu",
+      "label": "KhaiNiem",
       "properties": {
         "name": "Đất thương mại, dịch vụ"
       }
     },
     {
-      "id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep",
-      "label": "KháiNiệm",
+      "id": "khainiem_datcososanxuatphinongnghiep",
+      "label": "KhaiNiem",
       "properties": {
         "name": "Đất cơ sở sản xuất phi nông nghiệp"
       }
     },
     {
-      "id": "khainiem_dat_xay_dung_co_so_kinh_doanh_thuong_mai_dich_vu",
-      "label": "KháiNiệm",
-      "properties": {
-        "name": "Đất xây dựng cơ sở kinh doanh thương mại, dịch vụ và các công trình khác phục vụ cho kinh doanh, thương mại, dịch vụ"
-      }
-    },
-    {
-      "id": "khainiem_dat_xay_dung_co_so_san_xuat_phi_nong_nghiep_ngoai_kcn",
-      "label": "KháiNiệm",
-      "properties": {
-        "name": "Đất xây dựng các cơ sở sản xuất phi nông nghiệp nằm ngoài khu công nghiệp, cụm công nghiệp"
-      }
-    },
-    {
-      "id": "hanhvi_su_dung_dat_thuong_mai_dich_vu_dat_co_so_san_xuat_phi_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "name": "Sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp"
-      }
-    },
-    {
-      "id": "dieukien_phu_hop_quy_hoach_ke_hoach",
-      "label": "ĐiềuKiện",
-      "properties": {
-        "name": "Phù hợp với quy hoạch, kế hoạch sử dụng đất"
-      }
-    },
-    {
-      "id": "dieukien_phu_hop_quy_hoach_xay_dung",
-      "label": "ĐiềuKiện",
-      "properties": {
-        "name": "Phù hợp với quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn"
-      }
-    },
-    {
-      "id": "dieukien_phu_hop_quy_dinh_bao_ve_moi_truong",
-      "label": "ĐiềuKiện",
-      "properties": {
-        "name": "Phù hợp với các quy định về bảo vệ môi trường"
-      }
-    },
-    {
-      "id": "chuthe_to_chuc_kinh_te",
-      "label": "ChủThể",
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
       "properties": {
         "name": "Tổ chức kinh tế"
       }
     },
     {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
       "properties": {
         "name": "Cá nhân"
       }
     },
     {
-      "id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai",
-      "label": "ChủThể",
+      "id": "chuthe_nguoigocvietnamdincuonuocngoai",
+      "label": "ChuThe",
       "properties": {
         "name": "Người gốc Việt Nam định cư ở nước ngoài"
       }
     },
     {
-      "id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai",
-      "label": "ChủThể",
+      "id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "label": "ChuThe",
       "properties": {
         "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
-      }
-    },
-    {
-      "id": "hanhvi_nha_nuoc_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "name": "Nhà nước cho thuê đất"
-      }
-    },
-    {
-      "id": "hanhvi_nhan_chuyen_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "name": "Nhận chuyển quyền sử dụng đất"
-      }
-    },
-    {
-      "id": "hanhvi_thue_dat",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "name": "Thuê đất"
-      }
-    },
-    {
-      "id": "hanhvi_thue_lai_dat",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "name": "Thuê lại đất"
-      }
-    },
-    {
-      "id": "hanhvi_nhan_gop_von_bang_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "name": "Nhận góp vốn bằng quyền sử dụng đất"
-      }
-    },
-    {
-      "id": "hanhvi_thue_lai_dat_gan_voi_ket_cau_ha_tang",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "name": "Thuê lại đất gắn với kết cấu hạ tầng"
-      }
-    },
-    {
-      "id": "hanhvi_nhan_thua_ke_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "name": "Nhận thừa kế quyền sử dụng đất"
-      }
-    },
-    {
-      "id": "hanhvi_duoc_tang_cho_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "name": "Được tặng cho quyền sử dụng đất"
       }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_206",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_thuong_mai_dich_vu"
+      "source_id": "dieu_206_2024",
+      "target_id": "khainiem_datthuongmaidichvu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_206",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep"
+      "source_id": "dieu_206_2024",
+      "target_id": "khainiem_datcososanxuatphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_206",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_su_dung_dat_thuong_mai_dich_vu_dat_co_so_san_xuat_phi_nong_nghiep"
+      "source_id": "dieu_206_2024",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_thuong_mai_dich_vu",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_xay_dung_co_so_kinh_doanh_thuong_mai_dich_vu"
+      "source_id": "dieu_206_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_xay_dung_co_so_san_xuat_phi_nong_nghiep_ngoai_kcn"
+      "source_id": "dieu_206_2024",
+      "target_id": "chuthe_nguoigocvietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_su_dung_dat_thuong_mai_dich_vu_dat_co_so_san_xuat_phi_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_ke_hoach"
-    },
-    {
-      "source_id": "hanhvi_su_dung_dat_thuong_mai_dich_vu_dat_co_so_san_xuat_phi_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_xay_dung"
-    },
-    {
-      "source_id": "hanhvi_su_dung_dat_thuong_mai_dich_vu_dat_co_so_san_xuat_phi_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_dinh_bao_ve_moi_truong"
-    },
-    {
-      "source_id": "hanhvi_nha_nuoc_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_nha_nuoc_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_nhan_chuyen_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_nhan_chuyen_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_thue_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_thue_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_nhan_gop_von_bang_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_nhan_gop_von_bang_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_thue_lai_dat_gan_voi_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_thue_lai_dat_gan_voi_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_nha_nuoc_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_thue_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_thue_lai_dat_gan_voi_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_nhan_thua_ke_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_duoc_tang_cho_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_nha_nuoc_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_thue_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_thue_lai_dat_gan_voi_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_nhan_gop_von_bang_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
+      "source_id": "dieu_206_2024",
+      "target_id": "chuthe_tochuckinhtecovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

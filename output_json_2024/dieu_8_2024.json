@@ -1,191 +1,88 @@
 {
   "entities": [
     {
-      "id": "dieu_8",
-      "name": "Điều 8",
-      "label": "ĐiềuLuật"
+      "id": "dieu_8_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 8. Khuyến khích đầu tư vào sử dụng đất đai",
+        "ma_dieu": "8",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 8.\n\nKhuyến khích đầu tư vào sử dụng đất đai\n1. Nâng cao hiệu quả sử dụng đất.\n2. Bảo vệ, cải tạo, làm tăng độ màu mỡ của đất; xử lý đất, đất có mặt nước bị ô nhiễm, phục hồi đất bị\nthoái hóa.\n3. Lấn biển, đưa diện tích đất trống, đồi núi trọc, đất bãi bồi ven sông, ven biển, đất có mặt nước\nhoang hóa vào sử dụng theo quy định của Luật này .\n4. Tập trung đất đai để sản xuất nông nghiệp, lâm nghiệp quy mô lớn.\n5. Phát triển kết cấu hạ tầng để làm tăng giá trị của đất, phát triển công trình ngầm.\n6. Phát triển văn hóa, y tế, giáo dục và đào tạo, thể dục, thể thao, khoa học và công nghệ, môi trường."
+      }
     },
     {
-      "id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "name": "Khuyến khích đầu tư vào sử dụng đất đai",
-      "label": "KháiNiệm"
+      "id": "hanhviphaply_nangcaohieuqua",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nâng cao hiệu quả sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_nang_cao_hieu_qua_su_dung_dat",
-      "name": "Nâng cao hiệu quả sử dụng đất",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_baovecaitao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo vệ, cải tạo, làm tăng độ màu mỡ của đất; xử lý đất, đất có mặt nước bị ô nhiễm, phục hồi đất bị thoái hóa"
+      }
     },
     {
-      "id": "hanhviphaply_bao_ve_cai_tao_lam_tang_do_mau_mo_cua_dat",
-      "name": "Bảo vệ, cải tạo, làm tăng độ màu mỡ của đất",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_lanbien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lấn biển, đưa diện tích đất trống, đồi núi trọc, đất bãi bồi ven sông, ven biển, đất có mặt nước hoang hóa vào sử dụng"
+      }
     },
     {
-      "id": "hanhviphaply_xu_ly_dat_dat_co_mat_nuoc_bi_o_nhiem",
-      "name": "Xử lý đất, đất có mặt nước bị ô nhiễm",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_taptungdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tập trung đất đai để sản xuất nông nghiệp, lâm nghiệp quy mô lớn"
+      }
     },
     {
-      "id": "hanhviphaply_phuc_hoi_dat_bi_thoai_hoa",
-      "name": "Phục hồi đất bị thoái hóa",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_phattrienketcauhathang",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phát triển kết cấu hạ tầng để làm tăng giá trị của đất, phát triển công trình ngầm"
+      }
     },
     {
-      "id": "hanhviphaply_lan_bien",
-      "name": "Lấn biển",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_dua_dien_tich_dat_trong_doi_nui_troc_dat_bai_boi_ven_song_ven_bien_dat_co_mat_nuoc_hoang_hoa_vao_su_dung",
-      "name": "Đưa diện tích đất trống, đồi núi trọc, đất bãi bồi ven sông, ven biển, đất có mặt nước hoang hóa vào sử dụng",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_tap_trung_dat_dai_de_san_xuat_nong_nghiep_lam_nghiep_quy_mo_lon",
-      "name": "Tập trung đất đai để sản xuất nông nghiệp, lâm nghiệp quy mô lớn",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_phat_trien_ket_cau_ha_tang",
-      "name": "Phát triển kết cấu hạ tầng",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "khainiem_lam_tang_gia_tri_cua_dat",
-      "name": "Làm tăng giá trị của đất",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "hanhviphaply_phat_trien_cong_trinh_ngam",
-      "name": "Phát triển công trình ngầm",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_phat_trien_van_hoa",
-      "name": "Phát triển văn hóa",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_phat_trien_y_te",
-      "name": "Phát triển y tế",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_phat_trien_giao_duc_va_dao_tao",
-      "name": "Phát triển giáo dục và đào tạo",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_phat_trien_the_duc_the_thao",
-      "name": "Phát triển thể dục, thể thao",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_phat_trien_khoa_hoc_va_cong_nghe",
-      "name": "Phát triển khoa học và công nghệ",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_phat_trien_moi_truong",
-      "name": "Phát triển môi trường",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "dieu_kien_theo_quy_dinh_cua_luat_nay",
-      "name": "Theo quy định của Luật này",
-      "label": "ĐiềuKiện"
+      "id": "hanhviphaply_phattrienvanhhoa",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phát triển văn hóa, y tế, giáo dục và đào tạo, thể dục, thể thao, khoa học và công nghệ, môi trường"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_8",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai"
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_nangcaohieuqua",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_nang_cao_hieu_qua_su_dung_dat"
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_baovecaitao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_bao_ve_cai_tao_lam_tang_do_mau_mo_cua_dat"
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_lanbien",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_xu_ly_dat_dat_co_mat_nuoc_bi_o_nhiem"
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_taptungdatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_phuc_hoi_dat_bi_thoai_hoa"
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_phattrienketcauhathang",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_lan_bien"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_dua_dien_tich_dat_trong_doi_nui_troc_dat_bai_boi_ven_song_ven_bien_dat_co_mat_nuoc_hoang_hoa_vao_su_dung"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_tap_trung_dat_dai_de_san_xuat_nong_nghiep_lam_nghiep_quy_mo_lon"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_phat_trien_ket_cau_ha_tang"
-    },
-    {
-      "source_id": "hanhviphaply_phat_trien_ket_cau_ha_tang",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_lam_tang_gia_tri_cua_dat"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_phat_trien_cong_trinh_ngam"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_phat_trien_van_hoa"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_phat_trien_y_te"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_phat_trien_giao_duc_va_dao_tao"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_phat_trien_the_duc_the_thao"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_phat_trien_khoa_hoc_va_cong_nghe"
-    },
-    {
-      "source_id": "khainiem_khuyen_khich_dau_tu_vao_su_dung_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_phat_trien_moi_truong"
-    },
-    {
-      "source_id": "hanhviphaply_dua_dien_tich_dat_trong_doi_nui_troc_dat_bai_boi_ven_song_ven_bien_dat_co_mat_nuoc_hoang_hoa_vao_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_theo_quy_dinh_cua_luat_nay"
+      "source_id": "dieu_8_2024",
+      "target_id": "hanhviphaply_phattrienvanhhoa",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

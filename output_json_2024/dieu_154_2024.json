@@ -1,96 +1,88 @@
 {
   "entities": [
     {
-      "id": "dieu_154",
-      "label": "ĐiềuLuật",
-      "name": "Điều 154"
+      "id": "dieu_154_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 154",
+        "ma_dieu": "154",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 154.\n\nCác khoản thu từ dịch vụ công về đất đai\n1. Dịch vụ cung cấp thông tin, dữ liệu về đất đai.\n2. Dịch vụ đo đạc địa chính.\n3. Dịch vụ đăng ký đất đai, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với\nđất.\n4. Dịch vụ tư vấn xác định giá đất.\n5. Dịch vụ khác theo quy định của pháp luật."
+      }
     },
     {
-      "id": "khauniem_cac_khoan_thu_tu_dich_vu_cong_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Các khoản thu từ dịch vụ công về đất đai"
+      "id": "khainiem_khoanthuthudichvucongvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Các khoản thu từ dịch vụ công về đất đai"
+      }
     },
     {
-      "id": "hanhviphaply_cung_cap_thong_tin_du_lieu_ve_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Dịch vụ cung cấp thông tin, dữ liệu về đất đai"
+      "id": "hanhviphaply_cungcapthongtinvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ cung cấp thông tin, dữ liệu về đất đai"
+      }
     },
     {
-      "id": "hanhviphaply_do_dac_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "Dịch vụ đo đạc địa chính"
+      "id": "hanhviphaply_dodacdiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ đo đạc địa chính"
+      }
     },
     {
-      "id": "hanhviphaply_dang_ky_dat_dai_cap_giay_chung_nhan",
-      "label": "HànhViPhápLý",
-      "name": "Dịch vụ đăng ký đất đai, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      "id": "hanhviphaply_dangkyddatdaicapgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ đăng ký đất đai, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "hanhviphaply_tu_van_xac_dinh_gia_dat",
-      "label": "HànhViPhápLý",
-      "name": "Dịch vụ tư vấn xác định giá đất"
+      "id": "hanhviphaply_tuvanxacdinhgiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ tư vấn xác định giá đất"
+      }
     },
     {
-      "id": "khauniem_dich_vu_khac_theo_quy_dinh_phap_luat",
-      "label": "KháiNiệm",
-      "name": "Dịch vụ khác theo quy định của pháp luật"
+      "id": "hanhviphaply_dichvukhac",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Dịch vụ khác theo quy định của pháp luật"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_154",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khauniem_cac_khoan_thu_tu_dich_vu_cong_ve_dat_dai"
+      "source_id": "dieu_154_2024",
+      "target_id": "khainiem_khoanthuthudichvucongvedatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cung_cap_thong_tin_du_lieu_ve_dat_dai"
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_cungcapthongtinvedatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_do_dac_dia_chinh"
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_dodacdiachinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dang_ky_dat_dai_cap_giay_chung_nhan"
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_dangkyddatdaicapgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tu_van_xac_dinh_gia_dat"
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_tuvanxacdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_dich_vu_khac_theo_quy_dinh_phap_luat"
-    },
-    {
-      "source_id": "khauniem_cac_khoan_thu_tu_dich_vu_cong_ve_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_cung_cap_thong_tin_du_lieu_ve_dat_dai"
-    },
-    {
-      "source_id": "khauniem_cac_khoan_thu_tu_dich_vu_cong_ve_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_do_dac_dia_chinh"
-    },
-    {
-      "source_id": "khauniem_cac_khoan_thu_tu_dich_vu_cong_ve_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_dang_ky_dat_dai_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "khauniem_cac_khoan_thu_tu_dich_vu_cong_ve_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_tu_van_xac_dinh_gia_dat"
-    },
-    {
-      "source_id": "khauniem_cac_khoan_thu_tu_dich_vu_cong_ve_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_dich_vu_khac_theo_quy_dinh_phap_luat"
+      "source_id": "dieu_154_2024",
+      "target_id": "hanhviphaply_dichvukhac",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

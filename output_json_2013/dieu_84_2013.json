@@ -1,351 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_84",
-      "label": "ĐiềuLuật",
-      "name": "Điều 84"
+      "id": "dieu_84_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 84. Hỗ trợ đào tạo, chuyển đổi nghề, tìm kiếm việc làm cho hộ gia đình, cá nhân khi Nhà nước thu hồi đất",
+        "ma_dieu": "84",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 84.\n\nHỗ trợ đào tạo, chuyển đổi nghề, tìm kiếm việc làm cho hộ gia đình, cá nhân khi Nhà\nnước thu hồi đất\n1. Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp, khi Nhà nước thu hồi đất nông nghiệp mà\nkhông có đất nông nghiệp để bồi thường thì ngoài việc được bồi thường bằng tiền còn được hỗ trợ đào\ntạo, chuyển đổi nghề, tìm kiếm việc làm.\nTrường hợp người được hỗ trợ đào tạo chuyển đổi nghề, tìm kiếm việc làm trong độ tuổi lao động có\nnhu cầu được đào tạo nghề thì được nhận vào các cơ sở đào tạo nghề; được tư vấn hỗ trợ tìm kiếm\nviệc làm, vay vốn tín dụng ưu đãi để phát triển sản xuất, kinh doanh. about:blank\n. Đối với hộ gia đình, cá nhân sử dụng đất ở kết hợp kinh doanh dịch vụ mà nguồn thu nhập chính là\ntừ hoạt động kinh doanh dịch vụ, khi Nhà nước thu hồi đất mà phải di chuyển chỗ ở thì được vay vốn\ntín dụng ưu đãi để phát triển sản xuất, kinh doanh; trường hợp người có đất thu hồi còn trong độ tuổi\nlao động thì được hỗ trợ đào tạo, chuyển đổi nghề, tìm kiếm việc làm.\n3. Căn cứ vào kế hoạch sử dụng đất hàng năm của cấp huyện, Ủy ban nhân dân cấp tỉnh, Ủy ban nhân\ndân cấp huyện có trách nhiệm tổ chức lập và thực hiện phương án đào tạo, chuyển đổi nghề, hỗ trợ tìm\nkiếm việc làm cho người có đất thu hồi là đất nông nghiệp, đất ở kết hợp kinh doanh dịch vụ. Phương\nán đào tạo, chuyển đổi nghề, hỗ trợ tìm kiếm việc làm được lập và phê duyệt đồng thời với phương án\nbồi thường, hỗ trợ, tái định cư.\nTrong quá trình lập phương án đào tạo, chuyển đổi nghề, hỗ trợ tìm kiếm việc làm, Ủy ban nhân dân\ncấp tỉnh, Ủy ban nhân dân cấp huyện phải tổ chức lấy ý kiến và có trách nhiệm tiếp thu, giải trình ý\nkiến của người có đất thu hồi."
+      }
     },
     {
-      "id": "ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam",
-      "label": "KháiNiệm",
-      "name": "Hỗ trợ đào tạo, chuyển đổi nghề, tìm kiếm việc làm"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "Hộ gia đình"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "ca_nhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
     },
     {
-      "id": "nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "hanhviphaply_daotaochenghie",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đào tạo, chuyển đổi nghề"
+      }
     },
     {
-      "id": "thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Thu hồi đất"
-    },
-    {
-      "id": "truc_tiep_san_xuat_nong_nghiep",
-      "label": "ĐiềuKiện",
-      "name": "Trực tiếp sản xuất nông nghiệp"
-    },
-    {
-      "id": "dat_nong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Đất nông nghiệp"
-    },
-    {
-      "id": "khong_co_dat_nong_nghiep_de_boi_thuong",
-      "label": "ĐiềuKiện",
-      "name": "Không có đất nông nghiệp để bồi thường"
-    },
-    {
-      "id": "boi_thuong_bang_tien",
-      "label": "ChếTài",
-      "name": "Bồi thường bằng tiền"
-    },
-    {
-      "id": "nguoi_duoc_ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam",
-      "label": "ChủThể",
-      "name": "Người được hỗ trợ đào tạo chuyển đổi nghề, tìm kiếm việc làm"
-    },
-    {
-      "id": "trong_do_tuoi_lao_dong",
-      "label": "ĐiềuKiện",
-      "name": "Trong độ tuổi lao động"
-    },
-    {
-      "id": "co_nhu_cau_duoc_dao_tao_nghe",
-      "label": "ĐiềuKiện",
-      "name": "Có nhu cầu được đào tạo nghề"
-    },
-    {
-      "id": "duoc_nhan_vao_co_so_dao_tao_nghe",
-      "label": "ChếTài",
-      "name": "Được nhận vào các cơ sở đào tạo nghề"
-    },
-    {
-      "id": "duoc_tu_van_ho_tro_tim_kiem_viec_lam",
-      "label": "ChếTài",
-      "name": "Được tư vấn hỗ trợ tìm kiếm việc làm"
-    },
-    {
-      "id": "vay_von_tin_dung_uu_dai",
-      "label": "ChếTài",
-      "name": "Vay vốn tín dụng ưu đãi"
-    },
-    {
-      "id": "phat_trien_san_xuat_kinh_doanh",
-      "label": "KháiNiệm",
-      "name": "Phát triển sản xuất, kinh doanh"
-    },
-    {
-      "id": "su_dung_dat_o_ket_hop_kinh_doanh_dich_vu",
-      "label": "ĐiềuKiện",
-      "name": "Sử dụng đất ở kết hợp kinh doanh dịch vụ"
-    },
-    {
-      "id": "dat_o_ket_hop_kinh_doanh_dich_vu",
-      "label": "KháiNiệm",
-      "name": "Đất ở kết hợp kinh doanh dịch vụ"
-    },
-    {
-      "id": "nguon_thu_nhap_chinh_tu_hoat_dong_kinh_doanh_dich_vu",
-      "label": "ĐiềuKiện",
-      "name": "Nguồn thu nhập chính là từ hoạt động kinh doanh dịch vụ"
-    },
-    {
-      "id": "phai_di_chuyen_cho_o",
-      "label": "ĐiềuKiện",
-      "name": "Phải di chuyển chỗ ở"
-    },
-    {
-      "id": "nguoi_co_dat_thu_hoi",
-      "label": "ChủThể",
-      "name": "Người có đất thu hồi"
-    },
-    {
-      "id": "ke_hoach_su_dung_dat_hang_nam_cap_huyen",
-      "label": "KháiNiệm",
-      "name": "Kế hoạch sử dụng đất hàng năm của cấp huyện"
-    },
-    {
-      "id": "uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "uy_ban_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "lap_va_thuc_hien_phuong_an",
-      "label": "HànhViPhápLý",
-      "name": "Lập và thực hiện phương án"
-    },
-    {
-      "id": "phuong_an_dao_tao_chuyen_doi_nghe_ho_tro_tim_kiem_viec_lam",
-      "label": "KháiNiệm",
-      "name": "Phương án đào tạo, chuyển đổi nghề, hỗ trợ tìm kiếm việc làm"
-    },
-    {
-      "id": "lap_va_phe_duyet_phuong_an",
-      "label": "HànhViPhápLý",
-      "name": "Lập và phê duyệt phương án"
-    },
-    {
-      "id": "phuong_an_boi_thuong_ho_tro_tai_dinh_cu",
-      "label": "KháiNiệm",
-      "name": "Phương án bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "to_chuc_lay_y_kien",
-      "label": "HànhViPhápLý",
-      "name": "Tổ chức lấy ý kiến"
-    },
-    {
-      "id": "tiep_thu_giai_trinh_y_kien",
-      "label": "HànhViPhápLý",
-      "name": "Tiếp thu, giải trình ý kiến"
-    },
-    {
-      "id": "y_kien_nguoi_co_dat_thu_hoi",
-      "label": "KháiNiệm",
-      "name": "Ý kiến của người có đất thu hồi"
+      "id": "hanhviphaply_timkiemvieclam",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tìm kiếm việc làm"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_84",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam"
+      "source_id": "dieu_84_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "ho_gia_dinh"
+      "source_id": "dieu_84_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "ca_nhan"
+      "source_id": "dieu_84_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "thu_hoi_dat"
+      "source_id": "dieu_84_2013",
+      "target_id": "hanhviphaply_daotaochenghie",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "ho_gia_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "truc_tiep_san_xuat_nong_nghiep"
-    },
-    {
-      "source_id": "ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "truc_tiep_san_xuat_nong_nghiep"
-    },
-    {
-      "source_id": "thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dat_nong_nghiep"
-    },
-    {
-      "source_id": "truc_tiep_san_xuat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khong_co_dat_nong_nghiep_de_boi_thuong"
-    },
-    {
-      "source_id": "khong_co_dat_nong_nghiep_de_boi_thuong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "boi_thuong_bang_tien"
-    },
-    {
-      "source_id": "khong_co_dat_nong_nghiep_de_boi_thuong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam"
-    },
-    {
-      "source_id": "nguoi_duoc_ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "trong_do_tuoi_lao_dong"
-    },
-    {
-      "source_id": "nguoi_duoc_ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "co_nhu_cau_duoc_dao_tao_nghe"
-    },
-    {
-      "source_id": "nguoi_duoc_ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "duoc_nhan_vao_co_so_dao_tao_nghe"
-    },
-    {
-      "source_id": "nguoi_duoc_ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "duoc_tu_van_ho_tro_tim_kiem_viec_lam"
-    },
-    {
-      "source_id": "nguoi_duoc_ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "vay_von_tin_dung_uu_dai"
-    },
-    {
-      "source_id": "vay_von_tin_dung_uu_dai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "phat_trien_san_xuat_kinh_doanh"
-    },
-    {
-      "source_id": "ho_gia_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "su_dung_dat_o_ket_hop_kinh_doanh_dich_vu"
-    },
-    {
-      "source_id": "ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "su_dung_dat_o_ket_hop_kinh_doanh_dich_vu"
-    },
-    {
-      "source_id": "su_dung_dat_o_ket_hop_kinh_doanh_dich_vu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "nguon_thu_nhap_chinh_tu_hoat_dong_kinh_doanh_dich_vu"
-    },
-    {
-      "source_id": "thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dat_o_ket_hop_kinh_doanh_dich_vu"
-    },
-    {
-      "source_id": "thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "phai_di_chuyen_cho_o"
-    },
-    {
-      "source_id": "su_dung_dat_o_ket_hop_kinh_doanh_dich_vu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "vay_von_tin_dung_uu_dai"
-    },
-    {
-      "source_id": "nguoi_co_dat_thu_hoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "trong_do_tuoi_lao_dong"
-    },
-    {
-      "source_id": "nguoi_co_dat_thu_hoi",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "ho_tro_dao_tao_chuyen_doi_nghe_tim_kiem_viec_lam"
-    },
-    {
-      "source_id": "uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "lap_va_thuc_hien_phuong_an"
-    },
-    {
-      "source_id": "uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "lap_va_thuc_hien_phuong_an"
-    },
-    {
-      "source_id": "lap_va_thuc_hien_phuong_an",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "phuong_an_dao_tao_chuyen_doi_nghe_ho_tro_tim_kiem_viec_lam"
-    },
-    {
-      "source_id": "lap_va_thuc_hien_phuong_an",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "ke_hoach_su_dung_dat_hang_nam_cap_huyen"
-    },
-    {
-      "source_id": "phuong_an_dao_tao_chuyen_doi_nghe_ho_tro_tim_kiem_viec_lam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "nguoi_co_dat_thu_hoi"
-    },
-    {
-      "source_id": "phuong_an_dao_tao_chuyen_doi_nghe_ho_tro_tim_kiem_viec_lam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "lap_va_phe_duyet_phuong_an"
-    },
-    {
-      "source_id": "lap_va_phe_duyet_phuong_an",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "phuong_an_boi_thuong_ho_tro_tai_dinh_cu"
-    },
-    {
-      "source_id": "uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "to_chuc_lay_y_kien"
-    },
-    {
-      "source_id": "uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "to_chuc_lay_y_kien"
-    },
-    {
-      "source_id": "to_chuc_lay_y_kien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "nguoi_co_dat_thu_hoi"
-    },
-    {
-      "source_id": "uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "tiep_thu_giai_trinh_y_kien"
-    },
-    {
-      "source_id": "uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "tiep_thu_giai_trinh_y_kien"
-    },
-    {
-      "source_id": "tiep_thu_giai_trinh_y_kien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "y_kien_nguoi_co_dat_thu_hoi"
+      "source_id": "dieu_84_2013",
+      "target_id": "hanhviphaply_timkiemvieclam",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,136 +1,124 @@
 {
   "entities": [
     {
-      "id": "dieu_15",
-      "label": "ĐiềuLuật",
-      "name": "Điều 15"
+      "id": "dieu_15_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 15. Nhà nước quy định hạn mức sử dụng đất, thời hạn sử dụng đất",
+        "ma_dieu": "15",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 15.\n\nNhà nước quy định hạn mức sử dụng đất, thời hạn sử dụng đất\n1. Nhà nước quy định hạn mức sử dụng đất gồm hạn mức giao đất nông nghiệp, hạn mức giao đất ở,\nhạn mức công nhận quyền sử dụng đất ở và hạn mức nhận chuyển quyền sử dụng đất nông nghiệp.\n2. Nhà nước quy định thời hạn sử dụng đất bằng các hình thức sau đây:\na) Sử dụng đất ổn định lâu dài;\nb) Sử dụng đất có thời hạn."
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khaikiem_hanmuc_sudungdat",
-      "label": "KháiNiệm",
-      "name": "hạn mức sử dụng đất"
+      "id": "khainiem_hanmucsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hạn mức sử dụng đất"
+      }
     },
     {
-      "id": "khaikiem_thoihan_sudungdat",
-      "label": "KháiNiệm",
-      "name": "thời hạn sử dụng đất"
+      "id": "khainiem_thoihansudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thời hạn sử dụng đất"
+      }
     },
     {
-      "id": "khaikiem_hanmuc_giaodatnongnghiep",
-      "label": "KháiNiệm",
-      "name": "hạn mức giao đất nông nghiệp"
+      "id": "khainiem_hanmucgiaodatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hạn mức giao đất nông nghiệp"
+      }
     },
     {
-      "id": "khaikiem_hanmuc_giaodato",
-      "label": "KháiNiệm",
-      "name": "hạn mức giao đất ở"
+      "id": "khainiem_hanmucgiaodato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hạn mức giao đất ở"
+      }
     },
     {
-      "id": "khaikiem_hanmuc_congnhanquyensudungdato",
-      "label": "KháiNiệm",
-      "name": "hạn mức công nhận quyền sử dụng đất ở"
+      "id": "khainiem_hanmuccongnhanquyensudungdato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hạn mức công nhận quyền sử dụng đất ở"
+      }
     },
     {
-      "id": "khaikiem_hanmuc_nhanchuyenquyensudungdatnongnghiep",
-      "label": "KháiNiệm",
-      "name": "hạn mức nhận chuyển quyền sử dụng đất nông nghiệp"
+      "id": "khainiem_hanmucnhanchuyenquyensudungdatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hạn mức nhận chuyển quyền sử dụng đất nông nghiệp"
+      }
     },
     {
-      "id": "khaikiem_sudungdatoninhlaudai",
-      "label": "KháiNiệm",
-      "name": "Sử dụng đất ổn định lâu dài"
+      "id": "khainiem_sudungdatonlaudai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Sử dụng đất ổn định lâu dài"
+      }
     },
     {
-      "id": "khaikiem_sudungdatcothoihan",
-      "label": "KháiNiệm",
-      "name": "Sử dụng đất có thời hạn"
+      "id": "khainiem_sudungdatcothoihan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Sử dụng đất có thời hạn"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_15",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_sudungdat"
+      "source_id": "dieu_15_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_15",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_thoihan_sudungdat"
+      "source_id": "dieu_15_2013",
+      "target_id": "khainiem_hanmucsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_sudungdat"
+      "source_id": "dieu_15_2013",
+      "target_id": "khainiem_thoihansudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_thoihan_sudungdat"
+      "source_id": "dieu_15_2013",
+      "target_id": "khainiem_hanmucgiaodatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_15",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_giaodatnongnghiep"
+      "source_id": "dieu_15_2013",
+      "target_id": "khainiem_hanmucgiaodato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_15",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_giaodato"
+      "source_id": "dieu_15_2013",
+      "target_id": "khainiem_hanmuccongnhanquyensudungdato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_15",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_congnhanquyensudungdato"
+      "source_id": "dieu_15_2013",
+      "target_id": "khainiem_hanmucnhanchuyenquyensudungdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_15",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_nhanchuyenquyensudungdatnongnghiep"
+      "source_id": "dieu_15_2013",
+      "target_id": "khainiem_sudungdatonlaudai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_hanmuc_sudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_giaodatnongnghiep"
-    },
-    {
-      "source_id": "khaikiem_hanmuc_sudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_giaodato"
-    },
-    {
-      "source_id": "khaikiem_hanmuc_sudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_congnhanquyensudungdato"
-    },
-    {
-      "source_id": "khaikiem_hanmuc_sudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_hanmuc_nhanchuyenquyensudungdatnongnghiep"
-    },
-    {
-      "source_id": "dieu_15",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_sudungdatoninhlaudai"
-    },
-    {
-      "source_id": "dieu_15",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_sudungdatcothoihan"
-    },
-    {
-      "source_id": "khaikiem_thoihan_sudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_sudungdatoninhlaudai"
-    },
-    {
-      "source_id": "khaikiem_thoihan_sudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_sudungdatcothoihan"
+      "source_id": "dieu_15_2013",
+      "target_id": "khainiem_sudungdatcothoihan",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

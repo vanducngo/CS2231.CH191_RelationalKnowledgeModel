@@ -1,271 +1,64 @@
 {
   "entities": [
     {
-      "id": "dieu_6",
-      "label": "ĐiềuLuật",
-      "name": "Điều 6"
+      "id": "dieu_6_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 6. Nguyên tắc sử dụng đất",
+        "ma_dieu": "6",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 6.\n\nNguyên tắc sử dụng đất\n1. Đúng quy hoạch, kế hoạch sử dụng đất và đúng mục đích sử dụng đất. about:blank\n. Tiết kiệm, có hiệu quả, bảo vệ môi trường và không làm tổn hại đến lợi ích chính đáng của người sử\ndụng đất xung quanh.\n3. Người sử dụng đất thực hiện quyền, nghĩa vụ của mình trong thời hạn sử dụng đất theo quy định của\nLuật này và quy định khác của pháp luật có liên quan."
+      }
     },
     {
       "id": "khainiem_nguyentacsudungdat",
-      "label": "KháiNiệm",
-      "name": "Nguyên tắc sử dụng đất"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nguyên tắc sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_sudungdat",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất"
+      "id": "hanhviphaply_dungquydinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đúng quy hoạch, kế hoạch sử dụng đất và đúng mục đích sử dụng đất"
+      }
     },
     {
-      "id": "dieukien_dungquyhoachsudungdat",
-      "label": "ĐiềuKiện",
-      "name": "Đúng quy hoạch sử dụng đất"
+      "id": "hanhviphaply_tietkiemhieuqua",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tiết kiệm, có hiệu quả, bảo vệ môi trường và không làm tổn hại đến lợi ích chính đáng của người sử dụng đất xung quanh."
+      }
     },
     {
-      "id": "dieukien_dungkehoachsudungdat",
-      "label": "ĐiềuKiện",
-      "name": "đúng kế hoạch sử dụng đất"
-    },
-    {
-      "id": "dieukien_dungmucsichsudungdat",
-      "label": "ĐiềuKiện",
-      "name": "đúng mục đích sử dụng đất"
-    },
-    {
-      "id": "khainiem_quyhoach",
-      "label": "KháiNiệm",
-      "name": "quy hoạch"
-    },
-    {
-      "id": "khainiem_kehoach",
-      "label": "KháiNiệm",
-      "name": "kế hoạch"
-    },
-    {
-      "id": "khainiem_mucsichsudungdat",
-      "label": "KháiNiệm",
-      "name": "mục đích sử dụng đất"
-    },
-    {
-      "id": "dieukien_tietkiem",
-      "label": "ĐiềuKiện",
-      "name": "Tiết kiệm"
-    },
-    {
-      "id": "dieukien_cohieuqua",
-      "label": "ĐiềuKiện",
-      "name": "có hiệu quả"
-    },
-    {
-      "id": "dieukien_baovemoitruong",
-      "label": "ĐiềuKiện",
-      "name": "bảo vệ môi trường"
-    },
-    {
-      "id": "dieukien_khongtonhailoichchinhdang",
-      "label": "ĐiềuKiện",
-      "name": "không làm tổn hại đến lợi ích chính đáng"
-    },
-    {
-      "id": "khainiem_moitruong",
-      "label": "KháiNiệm",
-      "name": "môi trường"
-    },
-    {
-      "id": "khainiem_loichchinhdang",
-      "label": "KháiNiệm",
-      "name": "lợi ích chính đáng"
-    },
-    {
-      "id": "chuthe_ngoisudungdatxungquanh",
-      "label": "ChủThể",
-      "name": "người sử dụng đất xung quanh"
-    },
-    {
-      "id": "chuthe_ngoisudungdat",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_thuchienquyen",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện quyền"
-    },
-    {
-      "id": "hanhviphaply_thuchiennghiavu",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện nghĩa vụ"
-    },
-    {
-      "id": "khainiem_quyen",
-      "label": "KháiNiệm",
-      "name": "quyền"
-    },
-    {
-      "id": "khainiem_nghiavu",
-      "label": "KháiNiệm",
-      "name": "nghĩa vụ"
-    },
-    {
-      "id": "dieukien_trongthohansudungdat",
-      "label": "ĐiềuKiện",
-      "name": "trong thời hạn sử dụng đất"
-    },
-    {
-      "id": "dieukien_theoquydinhluatnay",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của Luật này"
-    },
-    {
-      "id": "dieukien_theoquydinhphapluatcolienquan",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định khác của pháp luật có liên quan"
-    },
-    {
-      "id": "khainiem_thohansudungdat",
-      "label": "KháiNiệm",
-      "name": "thời hạn sử dụng đất"
-    },
-    {
-      "id": "khainiem_luatdatdai2013",
-      "label": "KháiNiệm",
-      "name": "Luật Đất đai 2013"
-    },
-    {
-      "id": "khainiem_phapluatcolienquan",
-      "label": "KháiNiệm",
-      "name": "pháp luật có liên quan"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_6",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nguyentacsudungdat"
+      "source_id": "dieu_6_2013",
+      "target_id": "khainiem_nguyentacsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nguyentacsudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_sudungdat"
+      "source_id": "dieu_6_2013",
+      "target_id": "hanhviphaply_dungquydinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dungquyhoachsudungdat"
+      "source_id": "dieu_6_2013",
+      "target_id": "hanhviphaply_tietkiemhieuqua",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dungkehoachsudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dungmucsichsudungdat"
-    },
-    {
-      "source_id": "dieukien_dungquyhoachsudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quyhoach"
-    },
-    {
-      "source_id": "dieukien_dungkehoachsudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_kehoach"
-    },
-    {
-      "source_id": "dieukien_dungmucsichsudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_mucsichsudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tietkiem"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_cohieuqua"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_baovemoitruong"
-    },
-    {
-      "source_id": "dieukien_baovemoitruong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_moitruong"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongtonhailoichchinhdang"
-    },
-    {
-      "source_id": "dieukien_khongtonhailoichchinhdang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_loichchinhdang"
-    },
-    {
-      "source_id": "dieukien_khongtonhailoichchinhdang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ngoisudungdatxungquanh"
-    },
-    {
-      "source_id": "chuthe_ngoisudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuchienquyen"
-    },
-    {
-      "source_id": "chuthe_ngoisudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuchiennghiavu"
-    },
-    {
-      "source_id": "hanhviphaply_thuchienquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trongthohansudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_thuchiennghiavu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trongthohansudungdat"
-    },
-    {
-      "source_id": "dieukien_trongthohansudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thohansudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_thuchienquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhluatnay"
-    },
-    {
-      "source_id": "hanhviphaply_thuchiennghiavu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhluatnay"
-    },
-    {
-      "source_id": "dieukien_theoquydinhluatnay",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_luatdatdai2013"
-    },
-    {
-      "source_id": "hanhviphaply_thuchienquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhphapluatcolienquan"
-    },
-    {
-      "source_id": "hanhviphaply_thuchiennghiavu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhphapluatcolienquan"
-    },
-    {
-      "source_id": "dieukien_theoquydinhphapluatcolienquan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phapluatcolienquan"
+      "source_id": "dieu_6_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

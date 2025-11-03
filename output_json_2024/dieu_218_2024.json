@@ -1,516 +1,215 @@
 {
   "entities": [
     {
-      "id": "dieu_218",
-      "label": "ĐiềuLuật",
-      "name": "Điều 218"
+      "id": "dieu_218_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 218. Sử dụng đất kết hợp đa mục đích",
+        "ma_dieu": "218",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 218.\n\nSử dụng đất kết hợp đa mục đích\n1. Các loại đất sau đây được sử dụng kết hợp đa mục đích:\na) Đất nông nghiệp được sử dụng kết hợp với mục đích thương mại, dịch vụ, chăn nuôi, trồng cây dược liệu;\nb) Đất sử dụng vào mục đích công cộng được kết hợp với mục đích thương mại, dịch vụ;\nc) Đất xây dựng công trình sự nghiệp được sử dụng kết hợp với mục đích thương mại, dịch vụ;\nd) Đất ở được sử dụng kết hợp với mục đích nông nghiệp, thương mại, dịch vụ, công trình sự nghiệp có mục\nđích kinh doanh;\nđ) Đất có mặt nước được sử dụng kết hợp đa mục đích theo quy định tại các điều 188, 189 và 215 của Luật này;\ne) Đất tôn giáo, đất tín ngưỡng được sử dụng kết hợp với mục đích thương mại, dịch vụ;\ng) Đất quy định tại khoản 2 và khoản 3 Điều 9 của Luật này được sử dụng kết hợp mục đích nông nghiệp, xây\ndựng công trình hạ tầng bưu chính, viễn thông, công nghệ, thông tin, quảng cáo ngoài trời, điện mặt trời.\n2. Việc sử dụng đất kết hợp đa mục đích phải đáp ứng các yêu cầu sau đây: about:blank\na) Không làm thay đổi loại đất theo phân loại đất quy định tại khoản 2 và khoản 3 Điều 9 và đã được xác định tại\ncác loại giấy tờ quy định tại Điều 10 của Luật này;\nb) Không làm mất đi điều kiện cần thiết để trở lại sử dụng đất vào mục đích chính;\nc) Không ảnh hưởng đến quốc phòng, an ninh;\nd) Hạn chế ảnh hưởng đến bảo tồn hệ sinh thái tự nhiên, đa dạng sinh học, cảnh quan môi trường;\nđ) Không làm ảnh hưởng đến việc sử dụng đất của các thửa đất liền kề;\ne) Thực hiện đầy đủ nghĩa vụ tài chính theo quy định;\ng) Tuân thủ pháp luật có liên quan.\n3. Trường hợp đơn vị sự nghiệp công lập sử dụng đất xây dựng công trình sự nghiệp kết hợp với thương mại,\ndịch vụ thì phải chuyển sang thuê đất trả tiền thuê đất hằng năm đối với phần diện tích kết hợp đó.\n4. Các trường hợp sử dụng đất kết hợp với thương mại, dịch vụ quy định tại các điểm a, b, c, d, đ và e khoản 1\nĐiều này thì phải lập phương án sử dụng đất trình cơ quan có thẩm quyền phê duyệt. Nội dung phương án sử\ndụng đất kết hợp bao gồm:\na) Thông tin về thửa đất, khu đất đang sử dụng: vị trí, diện tích, hình thức sử dụng đất; thời hạn sử dụng đất;\nb) Diện tích, mục đích sử dụng đất kết hợp, thời hạn sử dụng đất kết hợp;\nc) Nội dung đáp ứng yêu cầu theo quy định của pháp luật về bảo vệ môi trường và quy định khác của pháp luật\ncó liên quan.\n5. Chính phủ quy định chi tiết Điều này."
+      }
     },
     {
       "id": "khainiem_sudungdatkethopdamucdich",
-      "label": "KháiNiệm",
-      "name": "Sử dụng đất kết hợp đa mục đích"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Sử dụng đất kết hợp đa mục đích"
+      }
     },
     {
       "id": "khainiem_datnongnghiep",
-      "label": "KháiNiệm",
-      "name": "Đất nông nghiệp"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp"
+      }
     },
     {
-      "id": "khainiem_datcongcong",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng vào mục đích công cộng"
+      "id": "khainiem_datvaomucdichconggong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích công cộng"
+      }
     },
     {
-      "id": "khainiem_datxaydungcongtrinhsunghiep",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng công trình sự nghiệp"
+      "id": "khainiem_datxaydungcontrinhsunghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình sự nghiệp"
+      }
     },
     {
       "id": "khainiem_dato",
-      "label": "KháiNiệm",
-      "name": "Đất ở"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
     },
     {
       "id": "khainiem_datcomatnuoc",
-      "label": "KháiNiệm",
-      "name": "Đất có mặt nước"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có mặt nước"
+      }
     },
     {
       "id": "khainiem_dattongiao",
-      "label": "KháiNiệm",
-      "name": "Đất tôn giáo"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tôn giáo"
+      }
     },
     {
       "id": "khainiem_dattinnguong",
-      "label": "KháiNiệm",
-      "name": "Đất tín ngưỡng"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tín ngưỡng"
+      }
     },
     {
-      "id": "khainiem_datkhoan23dieu9",
-      "label": "KháiNiệm",
-      "name": "Đất quy định tại khoản 2 và khoản 3 Điều 9 của Luật này"
-    },
-    {
-      "id": "hanhvi_sudungdatnongnghiep_kethop_thuongmaidichvu",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất nông nghiệp kết hợp với mục đích thương mại, dịch vụ"
-    },
-    {
-      "id": "hanhvi_sudungdatnongnghiep_kethop_channuoi",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất nông nghiệp kết hợp với mục đích chăn nuôi"
-    },
-    {
-      "id": "hanhvi_sudungdatnongnghiep_kethop_trongcayduoclieu",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất nông nghiệp kết hợp với mục đích trồng cây dược liệu"
-    },
-    {
-      "id": "hanhvi_sudungdatcongcong_kethop_thuongmaidichvu",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất công cộng kết hợp với mục đích thương mại, dịch vụ"
-    },
-    {
-      "id": "hanhvi_sudungdatxaydungcongtrinhsunghiep_kethop_thuongmaidichvu",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất xây dựng công trình sự nghiệp kết hợp với mục đích thương mại, dịch vụ"
-    },
-    {
-      "id": "hanhvi_sudungdato_kethop_nongnghiep",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất ở kết hợp với mục đích nông nghiệp"
-    },
-    {
-      "id": "hanhvi_sudungdato_kethop_thuongmaidichvu",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất ở kết hợp với mục đích thương mại, dịch vụ"
-    },
-    {
-      "id": "hanhvi_sudungdato_kethop_congtrinhsunghiepcomucdichkinhdoanh",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất ở kết hợp với mục đích công trình sự nghiệp có mục đích kinh doanh"
-    },
-    {
-      "id": "hanhvi_sudungdatcomatnuoc_kethop_damucdich",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất có mặt nước kết hợp đa mục đích"
-    },
-    {
-      "id": "hanhvi_sudungdattongiao_kethop_thuongmaidichvu",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất tôn giáo kết hợp với mục đích thương mại, dịch vụ"
-    },
-    {
-      "id": "hanhvi_sudungdattinnguong_kethop_thuongmaidichvu",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất tín ngưỡng kết hợp với mục đích thương mại, dịch vụ"
-    },
-    {
-      "id": "hanhvi_sudungdatkhoan23dieu9_kethop_nongnghiep",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất quy định tại khoản 2 và khoản 3 Điều 9 kết hợp mục đích nông nghiệp"
-    },
-    {
-      "id": "hanhvi_sudungdatkhoan23dieu9_kethop_xaydungcongtrinhhathang_bcvth_cntt_qcaongoaitroi_dienmattroi",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất quy định tại khoản 2 và khoản 3 Điều 9 kết hợp mục đích xây dựng công trình hạ tầng bưu chính, viễn thông, công nghệ, thông tin, quảng cáo ngoài trời, điện mặt trời"
-    },
-    {
-      "id": "dieukien_khonglamthaydoiloaidat",
-      "label": "ĐiềuKiện",
-      "name": "Không làm thay đổi loại đất theo phân loại đất quy định tại khoản 2 và khoản 3 Điều 9 và đã được xác định tại các loại giấy tờ quy định tại Điều 10"
-    },
-    {
-      "id": "dieukien_khonglammatdicanketquaysudungdatmucdichchinh",
-      "label": "ĐiềuKiện",
-      "name": "Không làm mất đi điều kiện cần thiết để trở lại sử dụng đất vào mục đích chính"
-    },
-    {
-      "id": "dieukien_khonganhuongquocthonganninh",
-      "label": "ĐiềuKiện",
-      "name": "Không ảnh hưởng đến quốc phòng, an ninh"
-    },
-    {
-      "id": "dieukien_hancheanhhuongbaotonhesinhthai",
-      "label": "ĐiềuKiện",
-      "name": "Hạn chế ảnh hưởng đến bảo tồn hệ sinh thái tự nhiên, đa dạng sinh học, cảnh quan môi trường"
-    },
-    {
-      "id": "dieukien_khonganhuongsudungdatthuadathienke",
-      "label": "ĐiềuKiện",
-      "name": "Không làm ảnh hưởng đến việc sử dụng đất của các thửa đất liền kề"
-    },
-    {
-      "id": "dieukien_thuchiennghiuvutaichinh",
-      "label": "ĐiềuKiện",
-      "name": "Thực hiện đầy đủ nghĩa vụ tài chính theo quy định"
-    },
-    {
-      "id": "dieukien_tuanthuphapluatlienquan",
-      "label": "ĐiềuKiện",
-      "name": "Tuân thủ pháp luật có liên quan"
-    },
-    {
-      "id": "chuthe_donvisunghiepconglap",
-      "label": "ChủThể",
-      "name": "Đơn vị sự nghiệp công lập"
-    },
-    {
-      "id": "dieukien_donvisunghiep_kethop_thuongmaidichvu",
-      "label": "ĐiềuKiện",
-      "name": "Đơn vị sự nghiệp công lập sử dụng đất xây dựng công trình sự nghiệp kết hợp với thương mại, dịch vụ"
-    },
-    {
-      "id": "hanhvi_chuyensangthuedat_tratienhangan_phan_kethop",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển sang thuê đất trả tiền thuê đất hằng năm đối với phần diện tích kết hợp đó"
-    },
-    {
-      "id": "khainiem_phuongansudungdat",
-      "label": "KháiNiệm",
-      "name": "Phương án sử dụng đất"
-    },
-    {
-      "id": "hanhvi_lapphuongansudungdat_trinhpheduyet",
-      "label": "HànhViPhápLý",
-      "name": "Lập phương án sử dụng đất trình cơ quan có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "chuthe_coquancothamquyen",
-      "label": "ChủThể",
-      "name": "Cơ quan có thẩm quyền"
-    },
-    {
-      "id": "khainiem_thongtinthuadatsudung",
-      "label": "KháiNiệm",
-      "name": "Thông tin về thửa đất, khu đất đang sử dụng"
-    },
-    {
-      "id": "khainiem_dientich_mucdic_thoihan_sudungdatkethop",
-      "label": "KháiNiệm",
-      "name": "Diện tích, mục đích sử dụng đất kết hợp, thời hạn sử dụng đất kết hợp"
-    },
-    {
-      "id": "khainiem_noidungdapung_baovemoitruong_phapluatkhac",
-      "label": "KháiNiệm",
-      "name": "Nội dung đáp ứng yêu cầu theo quy định của pháp luật về bảo vệ môi trường và quy định khác của pháp luật có liên quan"
+      "id": "khainiem_nghiavutaichinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nghĩa vụ tài chính"
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "hanhvi_quydinhchitiet",
-      "label": "HànhViPhápLý",
-      "name": "Quy định chi tiết"
+      "id": "dieukien_khonglamthaydoiloaidat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không làm thay đổi loại đất"
+      }
+    },
+    {
+      "id": "dieukien_khonglammatdieuien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không làm mất đi điều kiện cần thiết để trở lại sử dụng đất vào mục đích chính"
+      }
+    },
+    {
+      "id": "dieukien_khonganhhuongdenquocphonganminh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không ảnh hưởng đến quốc phòng, an ninh"
+      }
+    },
+    {
+      "id": "dieukien_hancheanhhuongdenbaoton",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Hạn chế ảnh hưởng đến bảo tồn hệ sinh thái tự nhiên, đa dạng sinh học, cảnh quan môi trường"
+      }
+    },
+    {
+      "id": "dieukien_khonglamanhhuongdenviecsudungdat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Không làm ảnh hưởng đến việc sử dụng đất của các thửa đất liền kề"
+      }
+    },
+    {
+      "id": "dieukien_thuchiennghiavutaichinh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Thực hiện đầy đủ nghĩa vụ tài chính theo quy định"
+      }
+    },
+    {
+      "id": "dieukien_tuanthuphapluat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tuân thủ pháp luật có liên quan"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_sudungdatkethopdamucdich"
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_sudungdatkethopdamucdich",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdatnongnghiep_kethop_thuongmaidichvu"
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdatnongnghiep_kethop_channuoi"
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_datvaomucdichconggong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdatnongnghiep_kethop_trongcayduoclieu"
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_datxaydungcontrinhsunghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdatcongcong_kethop_thuongmaidichvu"
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_dato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdatxaydungcongtrinhsunghiep_kethop_thuongmaidichvu"
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_datcomatnuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdato_kethop_nongnghiep"
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_dattongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdato_kethop_thuongmaidichvu"
+      "source_id": "dieu_218_2024",
+      "target_id": "khainiem_dattinnguong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdato_kethop_congtrinhsunghiepcomucdichkinhdoanh"
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_khonglamthaydoiloaidat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdatcomatnuoc_kethop_damucdich"
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_khonglammatdieuien",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdattongiao_kethop_thuongmaidichvu"
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_khonganhhuongdenquocphonganminh",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdattinnguong_kethop_thuongmaidichvu"
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_hancheanhhuongdenbaoton",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdatkhoan23dieu9_kethop_nongnghiep"
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_khonglamanhhuongdenviecsudungdat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdatkhoan23dieu9_kethop_xaydungcongtrinhhathang_bcvth_cntt_qcaongoaitroi_dienmattroi"
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_thuchiennghiavutaichinh",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdatnongnghiep_kethop_thuongmaidichvu"
+      "source_id": "dieu_218_2024",
+      "target_id": "dieukien_tuanthuphapluat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdatnongnghiep_kethop_channuoi"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdatnongnghiep_kethop_trongcayduoclieu"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdatcongcong_kethop_thuongmaidichvu"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdatxaydungcongtrinhsunghiep_kethop_thuongmaidichvu"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdato_kethop_nongnghiep"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdato_kethop_thuongmaidichvu"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdato_kethop_congtrinhsunghiepcomucdichkinhdoanh"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdatcomatnuoc_kethop_damucdich"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdattongiao_kethop_thuongmaidichvu"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdattinnguong_kethop_thuongmaidichvu"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdatkhoan23dieu9_kethop_nongnghiep"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_sudungdatkhoan23dieu9_kethop_xaydungcongtrinhhathang_bcvth_cntt_qcaongoaitroi_dienmattroi"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khonglamthaydoiloaidat"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khonglammatdicanketquaysudungdatmucdichchinh"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khonganhuongquocthonganninh"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hancheanhhuongbaotonhesinhthai"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khonganhuongsudungdatthuadathienke"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuchiennghiuvutaichinh"
-    },
-    {
-      "source_id": "khainiem_sudungdatkethopdamucdich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuanthuphapluatlienquan"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_khonglamthaydoiloaidat"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_khonglammatdicanketquaysudungdatmucdichchinh"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_khonganhuongquocthonganninh"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_hancheanhhuongbaotonhesinhthai"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_khonganhuongsudungdatthuadathienke"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_thuchiennghiuvutaichinh"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_tuanthuphapluatlienquan"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_donvisunghiepconglap"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_chuyensangthuedat_tratienhangan_phan_kethop"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_donvisunghiep_kethop_thuongmaidichvu"
-    },
-    {
-      "source_id": "dieukien_donvisunghiep_kethop_thuongmaidichvu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_chuyensangthuedat_tratienhangan_phan_kethop"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_lapphuongansudungdat_trinhpheduyet"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_coquancothamquyen"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_phuongansudungdat"
-    },
-    {
-      "source_id": "hanhvi_lapphuongansudungdat_trinhpheduyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_coquancothamquyen"
-    },
-    {
-      "source_id": "hanhvi_lapphuongansudungdat_trinhpheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_thongtinthuadatsudung"
-    },
-    {
-      "source_id": "hanhvi_lapphuongansudungdat_trinhpheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_dientich_mucdic_thoihan_sudungdatkethop"
-    },
-    {
-      "source_id": "hanhvi_lapphuongansudungdat_trinhpheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_noidungdapung_baovemoitruong_phapluatkhac"
-    },
-    {
-      "source_id": "hanhvi_sudungdatnongnghiep_kethop_thuongmaidichvu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lapphuongansudungdat_trinhpheduyet"
-    },
-    {
-      "source_id": "hanhvi_sudungdatcongcong_kethop_thuongmaidichvu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lapphuongansudungdat_trinhpheduyet"
-    },
-    {
-      "source_id": "hanhvi_sudungdatxaydungcongtrinhsunghiep_kethop_thuongmaidichvu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lapphuongansudungdat_trinhpheduyet"
-    },
-    {
-      "source_id": "hanhvi_sudungdato_kethop_thuongmaidichvu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lapphuongansudungdat_trinhpheduyet"
-    },
-    {
-      "source_id": "hanhvi_sudungdatcomatnuoc_kethop_damucdich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lapphuongansudungdat_trinhpheduyet"
-    },
-    {
-      "source_id": "hanhvi_sudungdattongiao_kethop_thuongmaidichvu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lapphuongansudungdat_trinhpheduyet"
-    },
-    {
-      "source_id": "hanhvi_sudungdattinnguong_kethop_thuongmaidichvu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lapphuongansudungdat_trinhpheduyet"
-    },
-    {
-      "source_id": "dieu_218",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quydinhchitiet"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_218"
+      "source_id": "dieu_218_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

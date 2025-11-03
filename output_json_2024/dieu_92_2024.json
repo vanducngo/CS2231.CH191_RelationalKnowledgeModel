@@ -1,611 +1,124 @@
 {
   "entities": [
     {
-      "id": "dieu_92",
-      "label": "ĐiềuLuật",
-      "name": "Điều 92"
+      "id": "dieu_92_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 92. Bồi thường, hỗ trợ, tái định cư đối với các trường hợp đặc biệt",
+        "ma_dieu": "92",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 92.\n\nBồi thường, hỗ trợ, tái định cư đối với các trường hợp đặc biệt\n1. Đối với dự án đầu tư do Quốc hội, Thủ tướng Chính phủ quyết định, chấp thuận chủ trương đầu tư\nphải thu hồi đất mà làm di chuyển cả cộng đồng dân cư, làm ảnh hưởng đến toàn bộ đời sống, kinh tế,\nxã hội, truyền thống văn hóa của cộng đồng và cần có chính sách đặc thù về bồi thường, hỗ trợ, tái\nđịnh cư thì Hội đồng nhân dân cấp tỉnh quyết định chính sách bồi thường, hỗ trợ, tái định cư phù hợp\nvới điều kiện thực tế của địa phương.\n2. Trường hợp thu hồi đất quy định tại khoản 3 Điều 82 của Luật này  thì người có đất thu hồi được\nbồi thường, hỗ trợ, tái định cư như trường hợp thu hồi đất theo quy định tại Điều 78 và Điều 79 của\nLuật này .\n3. Trường hợp tổ chức bị thu hồi đất nhưng không được bồi thường về đất, tổ chức có tài sản do Nhà\nnước giao quản lý, sử dụng thì được thực hiện như sau:\na) Tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho\ncả thời gian thuê mà tiền sử dụng đất, tiền thuê đất đã nộp có nguồn gốc từ ngân sách nhà nước và tổ\nchức được Nhà nước giao đất không thu tiền sử dụng đất khi Nhà nước thu hồi đất thì không được bồi\nthường về đất nhưng được hỗ trợ bằng tiền nếu phải di dời đến cơ sở mới do cơ quan nhà nước có\nthẩm quyền quyết định; mức hỗ trợ tối đa không quá mức bồi thường về đất;\nb) Đơn vị vũ trang nhân dân đang sử dụng đất khi Nhà nước thu hồi đất theo quy định tại  Điều 79 của\nLuật này  thì được bố trí vị trí mới hoặc chuyển đổi vị trí đất phù hợp;\nc) Khi Nhà nước thu hồi đất, tổ chức bị thiệt hại về tài sản do Nhà nước giao quản lý, sử dụng và phải\ndi dời đến cơ sở mới thì tổ chức đó được sử dụng tiền bồi thường tài sản để đầu tư tại cơ sở mới theo\ndự án đầu tư được cấp có thẩm quyền phê duyệt.\n4. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "khainiem_boithuong_hotro_taidinhto",
-      "label": "KháiNiệm",
-      "name": "Bồi thường, hỗ trợ, tái định cư"
+      "id": "hanhviphaply_boithuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường"
+      }
     },
     {
-      "id": "khainiem_cac_truonghop_dacbiet",
-      "label": "KháiNiệm",
-      "name": "các trường hợp đặc biệt"
+      "id": "hanhviphaply_hotro",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Hỗ trợ"
+      }
     },
     {
-      "id": "dieukien_du_an_dau_tu_do_quochoi_thutuongchinhphu_quyet_dinh_chap_thuan_chu_truong_dau_tu",
-      "label": "ĐiềuKiện",
-      "name": "dự án đầu tư do Quốc hội, Thủ tướng Chính phủ quyết định, chấp thuận chủ trương đầu tư"
+      "id": "hanhviphaply_taidinhcu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tái định cư"
+      }
     },
     {
-      "id": "chuthe_quochoi",
-      "label": "ChủThể",
-      "name": "Quốc hội"
+      "id": "dieu_82_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 82 của Luật này"
+      }
     },
     {
-      "id": "chuthe_thutuongchinhphu",
-      "label": "ChủThể",
-      "name": "Thủ tướng Chính phủ"
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người có đất thu hồi"
+      }
     },
     {
-      "id": "hanhviphaply_quyet_dinh_chap_thuan_chu_truong_dau_tu",
-      "label": "HànhViPhápLý",
-      "name": "quyết định, chấp thuận chủ trương đầu tư"
+      "id": "dieu_78_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 78 của Luật này"
+      }
     },
     {
-      "id": "hanhviphaply_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi đất"
+      "id": "dieu_79_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 79 của Luật này"
+      }
     },
     {
-      "id": "dieukien_lam_di_chuyen_cong_dong_dan_cu",
-      "label": "ĐiềuKiện",
-      "name": "làm di chuyển cả cộng đồng dân cư"
+      "id": "chuthe_tochucbithuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức bị thu hồi đất"
+      }
     },
     {
-      "id": "khainiem_cong_dong_dan_cu",
-      "label": "KháiNiệm",
-      "name": "cộng đồng dân cư"
-    },
-    {
-      "id": "dieukien_anh_huong_doi_song_kinh_te_xa_hoi_truyen_thong_van_hoa_cua_cong_dong",
-      "label": "ĐiềuKiện",
-      "name": "làm ảnh hưởng đến toàn bộ đời sống, kinh tế, xã hội, truyền thống văn hóa của cộng đồng"
-    },
-    {
-      "id": "dieukien_can_co_chinh_sach_dac_thu_ve_boithuong_hotro_taidinhto",
-      "label": "ĐiềuKiện",
-      "name": "cần có chính sách đặc thù về bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "chuthe_hoing_dong_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Hội đồng nhân dân cấp tỉnh"
-    },
-    {
-      "id": "hanhviphaply_quyet_dinh_chinh_sach_boithuong_hotro_taidinhto",
-      "label": "HànhViPhápLý",
-      "name": "quyết định chính sách bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "khainiem_chinh_sach_boithuong_hotro_taidinhto",
-      "label": "KháiNiệm",
-      "name": "chính sách bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "dieukien_phu_hop_voi_dieu_kien_thuc_te_cua_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với điều kiện thực tế của địa phương"
-    },
-    {
-      "id": "dieukien_thu_hoi_dat_theo_khoan_3_dieu_82",
-      "label": "ĐiềuKiện",
-      "name": "thu hồi đất quy định tại khoản 3 Điều 82 của Luật này"
-    },
-    {
-      "id": "dieu_82",
-      "label": "ĐiềuLuật",
-      "name": "Điều 82"
-    },
-    {
-      "id": "chuthe_nguoi_co_dat_thu_hoi",
-      "label": "ChủThể",
-      "name": "người có đất thu hồi"
-    },
-    {
-      "id": "khainiem_truong_hop_thu_hoi_dat_dieu_78_va_dieu_79",
-      "label": "KháiNiệm",
-      "name": "trường hợp thu hồi đất theo quy định tại Điều 78 và Điều 79 của Luật này"
-    },
-    {
-      "id": "dieu_78",
-      "label": "ĐiềuLuật",
-      "name": "Điều 78"
-    },
-    {
-      "id": "dieu_79",
-      "label": "ĐiềuLuật",
-      "name": "Điều 79"
-    },
-    {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
-    },
-    {
-      "id": "dieukien_to_chuc_bi_thu_hoi_dat_khong_duoc_boithuong_ve_dat",
-      "label": "ĐiềuKiện",
-      "name": "tổ chức bị thu hồi đất nhưng không được bồi thường về đất"
-    },
-    {
-      "id": "dieukien_to_chuc_co_tai_san_do_nha_nuoc_giao_quan_ly_su_dung",
-      "label": "ĐiềuKiện",
-      "name": "tổ chức có tài sản do Nhà nước giao quản lý, sử dụng"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "hanhviphaply_giao_quan_ly_su_dung",
-      "label": "HànhViPhápLý",
-      "name": "giao quản lý, sử dụng"
-    },
-    {
-      "id": "dieukien_to_chuc_duoc_nha_nuoc_giao_dat_co_thu_tien_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "tổ chức được Nhà nước giao đất có thu tiền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_giao_dat_co_thu_tien_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất có thu tiền sử dụng đất"
-    },
-    {
-      "id": "dieukien_to_chuc_duoc_nha_nuoc_cho_thue_dat_thu_tien_mot_lan",
-      "label": "ĐiềuKiện",
-      "name": "tổ chức được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat_thu_tien_thue_dat_mot_lan",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
-    },
-    {
-      "id": "dieukien_tien_su_dung_dat_tien_thue_dat_da_nop_co_nguon_goc_tu_ngan_sach_nha_nuoc",
-      "label": "ĐiềuKiện",
-      "name": "tiền sử dụng đất, tiền thuê đất đã nộp có nguồn gốc từ ngân sách nhà nước"
-    },
-    {
-      "id": "khainiem_ngan_sach_nha_nuoc",
-      "label": "KháiNiệm",
-      "name": "ngân sách nhà nước"
-    },
-    {
-      "id": "dieukien_to_chuc_duoc_nha_nuoc_giao_dat_khong_thu_tien_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "tổ chức được Nhà nước giao đất không thu tiền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_giao_dat_khong_thu_tien_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất không thu tiền sử dụng đất"
-    },
-    {
-      "id": "chetai_khong_duoc_boithuong_ve_dat",
-      "label": "ChếTài",
-      "name": "không được bồi thường về đất"
-    },
-    {
-      "id": "chetai_duoc_ho_tro_bang_tien",
-      "label": "ChếTài",
-      "name": "được hỗ trợ bằng tiền"
-    },
-    {
-      "id": "dieukien_phai_di_doi_den_co_so_moi",
-      "label": "ĐiềuKiện",
-      "name": "phải di dời đến cơ sở mới"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "dieukien_co_quan_nha_nuoc_co_tham_quyen_quyet_dinh_di_doi",
-      "label": "ĐiềuKiện",
-      "name": "cơ quan nhà nước có thẩm quyền quyết định [việc di dời]"
-    },
-    {
-      "id": "dieukien_muc_ho_tro_toi_da_khong_qua_muc_boithuong_ve_dat",
-      "label": "ĐiềuKiện",
-      "name": "mức hỗ trợ tối đa không quá mức bồi thường về đất"
-    },
-    {
-      "id": "chuthe_don_vi_vu_trang_nhan_dan",
-      "label": "ChủThể",
-      "name": "Đơn vị vũ trang nhân dân"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất"
-    },
-    {
-      "id": "dieukien_thu_hoi_dat_theo_dieu_79",
-      "label": "ĐiềuKiện",
-      "name": "thu hồi đất theo quy định tại Điều 79 của Luật này"
-    },
-    {
-      "id": "hanhviphaply_bo_tri_vi_tri_moi",
-      "label": "HànhViPhápLý",
-      "name": "bố trí vị trí mới"
-    },
-    {
-      "id": "hanhviphaply_chuyen_doi_vi_tri_dat_phu_hop",
-      "label": "HànhViPhápLý",
-      "name": "chuyển đổi vị trí đất phù hợp"
-    },
-    {
-      "id": "dieukien_to_chuc_bi_thiet_hai_ve_tai_san_do_nha_nuoc_giao_quan_ly_su_dung",
-      "label": "ĐiềuKiện",
-      "name": "tổ chức bị thiệt hại về tài sản do Nhà nước giao quản lý, sử dụng"
-    },
-    {
-      "id": "khainiem_tai_san",
-      "label": "KháiNiệm",
-      "name": "tài sản"
-    },
-    {
-      "id": "khainiem_tien_boithuong_tai_san",
-      "label": "KháiNiệm",
-      "name": "tiền bồi thường tài sản"
-    },
-    {
-      "id": "hanhviphaply_su_dung_tien_boithuong_tai_san_de_dau_tu",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng tiền bồi thường tài sản để đầu tư"
-    },
-    {
-      "id": "khainiem_du_an_dau_tu",
-      "label": "KháiNiệm",
-      "name": "dự án đầu tư"
-    },
-    {
-      "id": "dieukien_du_an_dau_tu_duoc_cap_co_tham_quyen_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "dự án đầu tư được cấp có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "chuthe_cap_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cấp có thẩm quyền"
-    },
-    {
-      "id": "hanhviphaply_phe_duyet_du_an_dau_tu",
-      "label": "HànhViPhápLý",
-      "name": "phê duyệt dự án đầu tư"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
+      "id": "chuthe_donvivutrangnhandan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị vũ trang nhân dân"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_92",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_boithuong_hotro_taidinhto"
+      "source_id": "dieu_92_2024",
+      "target_id": "hanhviphaply_boithuong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_boithuong_hotro_taidinhto",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_cac_truonghop_dacbiet"
+      "source_id": "dieu_92_2024",
+      "target_id": "hanhviphaply_hotro",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_92",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_du_an_dau_tu_do_quochoi_thutuongchinhphu_quyet_dinh_chap_thuan_chu_truong_dau_tu"
+      "source_id": "dieu_92_2024",
+      "target_id": "hanhviphaply_taidinhcu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_quochoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_quyet_dinh_chap_thuan_chu_truong_dau_tu"
+      "source_id": "dieu_92_2024",
+      "target_id": "dieu_82_2024",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_thutuongchinhphu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_quyet_dinh_chap_thuan_chu_truong_dau_tu"
+      "source_id": "dieu_92_2024",
+      "target_id": "chuthe_nguoicodatthuhoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_du_an_dau_tu_do_quochoi_thutuongchinhphu_quyet_dinh_chap_thuan_chu_truong_dau_tu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thu_hoi_dat"
+      "source_id": "dieu_92_2024",
+      "target_id": "dieu_78_2024",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_lam_di_chuyen_cong_dong_dan_cu"
+      "source_id": "dieu_92_2024",
+      "target_id": "dieu_79_2024",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_lam_di_chuyen_cong_dong_dan_cu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_cong_dong_dan_cu"
+      "source_id": "dieu_92_2024",
+      "target_id": "chuthe_tochucbithuhoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_lam_di_chuyen_cong_dong_dan_cu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_anh_huong_doi_song_kinh_te_xa_hoi_truyen_thong_van_hoa_cua_cong_dong"
-    },
-    {
-      "source_id": "dieukien_anh_huong_doi_song_kinh_te_xa_hoi_truyen_thong_van_hoa_cua_cong_dong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_co_chinh_sach_dac_thu_ve_boithuong_hotro_taidinhto"
-    },
-    {
-      "source_id": "dieukien_can_co_chinh_sach_dac_thu_ve_boithuong_hotro_taidinhto",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_hoing_dong_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_hoing_dong_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quyet_dinh_chinh_sach_boithuong_hotro_taidinhto"
-    },
-    {
-      "source_id": "hanhviphaply_quyet_dinh_chinh_sach_boithuong_hotro_taidinhto",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chinh_sach_boithuong_hotro_taidinhto"
-    },
-    {
-      "source_id": "khainiem_chinh_sach_boithuong_hotro_taidinhto",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_voi_dieu_kien_thuc_te_cua_dia_phuong"
-    },
-    {
-      "source_id": "dieu_92",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_thu_hoi_dat_theo_khoan_3_dieu_82"
-    },
-    {
-      "source_id": "dieukien_thu_hoi_dat_theo_khoan_3_dieu_82",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_82"
-    },
-    {
-      "source_id": "dieukien_thu_hoi_dat_theo_khoan_3_dieu_82",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_co_dat_thu_hoi"
-    },
-    {
-      "source_id": "chuthe_nguoi_co_dat_thu_hoi",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_boithuong_hotro_taidinhto"
-    },
-    {
-      "source_id": "khainiem_boithuong_hotro_taidinhto",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_truong_hop_thu_hoi_dat_dieu_78_va_dieu_79"
-    },
-    {
-      "source_id": "khainiem_truong_hop_thu_hoi_dat_dieu_78_va_dieu_79",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_78"
-    },
-    {
-      "source_id": "khainiem_truong_hop_thu_hoi_dat_dieu_78_va_dieu_79",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_79"
-    },
-    {
-      "source_id": "dieu_92",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_to_chuc_bi_thu_hoi_dat_khong_duoc_boithuong_ve_dat"
-    },
-    {
-      "source_id": "dieu_92",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_to_chuc_co_tai_san_do_nha_nuoc_giao_quan_ly_su_dung"
-    },
-    {
-      "source_id": "dieukien_to_chuc_bi_thu_hoi_dat_khong_duoc_boithuong_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "dieukien_to_chuc_co_tai_san_do_nha_nuoc_giao_quan_ly_su_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_giao_quan_ly_su_dung"
-    },
-    {
-      "source_id": "chuthe_to_chuc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_to_chuc_duoc_nha_nuoc_giao_dat_co_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giao_dat_co_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_to_chuc_duoc_nha_nuoc_giao_dat_co_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_to_chuc_duoc_nha_nuoc_giao_dat_co_thu_tien_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tien_su_dung_dat_tien_thue_dat_da_nop_co_nguon_goc_tu_ngan_sach_nha_nuoc"
-    },
-    {
-      "source_id": "dieukien_to_chuc_duoc_nha_nuoc_giao_dat_co_thu_tien_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_khong_duoc_boithuong_ve_dat"
-    },
-    {
-      "source_id": "chuthe_to_chuc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_to_chuc_duoc_nha_nuoc_cho_thue_dat_thu_tien_mot_lan"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_cho_thue_dat_thu_tien_thue_dat_mot_lan"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_to_chuc_duoc_nha_nuoc_cho_thue_dat_thu_tien_mot_lan"
-    },
-    {
-      "source_id": "dieukien_to_chuc_duoc_nha_nuoc_cho_thue_dat_thu_tien_mot_lan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tien_su_dung_dat_tien_thue_dat_da_nop_co_nguon_goc_tu_ngan_sach_nha_nuoc"
-    },
-    {
-      "source_id": "dieukien_to_chuc_duoc_nha_nuoc_cho_thue_dat_thu_tien_mot_lan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_khong_duoc_boithuong_ve_dat"
-    },
-    {
-      "source_id": "chuthe_to_chuc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_to_chuc_duoc_nha_nuoc_giao_dat_khong_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giao_dat_khong_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_to_chuc_duoc_nha_nuoc_giao_dat_khong_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_to_chuc_duoc_nha_nuoc_giao_dat_khong_thu_tien_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_khong_duoc_boithuong_ve_dat"
-    },
-    {
-      "source_id": "chetai_khong_duoc_boithuong_ve_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_ho_tro_bang_tien"
-    },
-    {
-      "source_id": "chetai_duoc_ho_tro_bang_tien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phai_di_doi_den_co_so_moi"
-    },
-    {
-      "source_id": "dieukien_phai_di_doi_den_co_so_moi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_quan_nha_nuoc_co_tham_quyen_quyet_dinh_di_doi"
-    },
-    {
-      "source_id": "chetai_duoc_ho_tro_bang_tien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_muc_ho_tro_toi_da_khong_qua_muc_boithuong_ve_dat"
-    },
-    {
-      "source_id": "dieu_92",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_don_vi_vu_trang_nhan_dan"
-    },
-    {
-      "source_id": "chuthe_don_vi_vu_trang_nhan_dan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thu_hoi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_don_vi_vu_trang_nhan_dan"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thu_hoi_dat_theo_dieu_79"
-    },
-    {
-      "source_id": "dieukien_thu_hoi_dat_theo_dieu_79",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_79"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_bo_tri_vi_tri_moi"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_chuyen_doi_vi_tri_dat_phu_hop"
-    },
-    {
-      "source_id": "dieu_92",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_to_chuc_bi_thiet_hai_ve_tai_san_do_nha_nuoc_giao_quan_ly_su_dung"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thu_hoi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "dieukien_to_chuc_bi_thiet_hai_ve_tai_san_do_nha_nuoc_giao_quan_ly_su_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "dieukien_to_chuc_bi_thiet_hai_ve_tai_san_do_nha_nuoc_giao_quan_ly_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phai_di_doi_den_co_so_moi"
-    },
-    {
-      "source_id": "dieukien_to_chuc_bi_thiet_hai_ve_tai_san_do_nha_nuoc_giao_quan_ly_su_dung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tien_boithuong_tai_san"
-    },
-    {
-      "source_id": "khainiem_tien_boithuong_tai_san",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_su_dung_tien_boithuong_tai_san_de_dau_tu"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_tien_boithuong_tai_san_de_dau_tu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_du_an_dau_tu_duoc_cap_co_tham_quyen_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_cap_co_tham_quyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_phe_duyet_du_an_dau_tu"
-    },
-    {
-      "source_id": "hanhviphaply_phe_duyet_du_an_dau_tu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_du_an_dau_tu"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_92"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_92"
+      "source_id": "dieu_92_2024",
+      "target_id": "chuthe_donvivutrangnhandan",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

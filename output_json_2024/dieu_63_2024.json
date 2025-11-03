@@ -1,61 +1,52 @@
 {
   "entities": [
     {
-      "id": "dieu_63",
-      "name": "Điều 63",
-      "label": "ĐiềuLuật"
+      "id": "dieu_63_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 63. Kinh phí cho hoạt động quy hoạch",
+        "ma_dieu": "63",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 63.\n\nKinh phí cho hoạt động quy hoạch\nKinh phí lập, điều chỉnh, thẩm định, quyết định, phê duyệt, công bố quy hoạch, kế hoạch sử dụng đất\ndo ngân sách nhà nước bảo đảm từ nguồn sự nghiệp kinh tế."
+      }
     },
     {
       "id": "khainiem_kinhphichohoatdongquyhoach",
-      "name": "Kinh phí cho hoạt động quy hoạch",
-      "label": "KháiNiệm"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kinh phí cho hoạt động quy hoạch"
+      }
     },
     {
-      "id": "khainiem_kinhphi_cho_cac_hoat_dong_quyhoach_kehoachsudungdat",
-      "name": "Kinh phí lập, điều chỉnh, thẩm định, quyết định, phê duyệt, công bố quy hoạch, kế hoạch sử dụng đất",
-      "label": "KháiNiệm"
+      "id": "khainiem_kinhphilapdieuchinhthamdinhquyetdinhpheduyetcongboquyhoachkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kinh phí lập, điều chỉnh, thẩm định, quyết định, phê duyệt, công bố quy hoạch, kế hoạch sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_ngansachnhanuoc",
-      "name": "ngân sách nhà nước",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_nguonsunghiepkinhte",
-      "name": "nguồn sự nghiệp kinh tế",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "hanhviphaply_baodam",
-      "name": "bảo đảm",
-      "label": "HànhViPhápLý"
+      "id": "chuthe_ngansachnhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ngân sách nhà nước"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_63",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_kinhphichohoatdongquyhoach"
+      "source_id": "dieu_63_2024",
+      "target_id": "khainiem_kinhphichohoatdongquyhoach",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_kinhphichohoatdongquyhoach",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_kinhphi_cho_cac_hoat_dong_quyhoach_kehoachsudungdat"
+      "source_id": "dieu_63_2024",
+      "target_id": "khainiem_kinhphilapdieuchinhthamdinhquyetdinhpheduyetcongboquyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_kinhphi_cho_cac_hoat_dong_quyhoach_kehoachsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baodam"
-    },
-    {
-      "source_id": "hanhviphaply_baodam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ngansachnhanuoc"
-    },
-    {
-      "source_id": "khainiem_ngansachnhanuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_nguonsunghiepkinhte"
+      "source_id": "khainiem_kinhphilapdieuchinhthamdinhquyetdinhpheduyetcongboquyhoachkehoachsudungdat",
+      "target_id": "chuthe_ngansachnhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
     }
   ]
 }

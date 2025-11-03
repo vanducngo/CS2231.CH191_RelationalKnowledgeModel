@@ -1,296 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_207",
-      "label": "ĐiềuLuật",
-      "name": "Điều 207"
+      "id": "dieu_207_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 207. Xử lý đối với người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ tr ong lĩnh vực đất đai",
+        "ma_dieu": "207",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 207.\n\nXử lý đối với người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ tr ong\nlĩnh vực đất đai\n1. Người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ thì tùy theo tính chất, mức độ vi\nphạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật đối với các\nhành vi vi phạm sau đây:\na) Lợi dụng chức vụ, quyền hạn làm trái với quy định của pháp luật trong giao đất, cho thuê đất,\nchuyển mục đích sử dụng đất, thu hồi đất, bồi thường, hỗ trợ, tái định cư, chuyển quyền sử dụng đất,\nthực hiện quy hoạch, kế hoạch sử dụng đất, xác định nghĩa vụ tài chính về đất đai, quản lý hồ sơ địa\nchính, ra quyết định hành chính trong quản lý đất đai;\nb) Thiếu trách nhiệm trong quản lý để xảy ra vi phạm pháp luật về đất đai hoặc có hành vi khác gây\nthiệt hại đến tài nguyên đất đai, quyền và nghĩa vụ của người sử dụng đất;\nc) Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin; vi phạm quy định trình tự, thủ tục\nhành chính; vi phạm quy định về báo cáo trong quản lý đất đai.\n2. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "khainiem_xuly_doi_voi_nguoi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "label": "KháiNiệm",
-      "name": "Xử lý đối với người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ trong lĩnh vực đất đai"
+      "id": "chuthe_nguoicohanhvi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ"
+      }
     },
     {
-      "id": "khainiem_giao_dat",
-      "label": "KháiNiệm",
-      "name": "giao đất"
+      "id": "hanhviphaply_viluatdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm pháp luật về đất đai"
+      }
     },
     {
-      "id": "khainiem_cho_thue_dat",
-      "label": "KháiNiệm",
-      "name": "cho thuê đất"
+      "id": "hanhviphaply_loidungchucvu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lợi dụng chức vụ, quyền hạn làm trái với quy định của pháp luật trong giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất, bồi thường, hỗ trợ, tái định cư, chuyển quyền sử dụng đất, thực hiện quy hoạch, kế hoạch sử dụng đất, xác định nghĩa vụ tài chính về đất đai, quản lý hồ sơ địa chính, ra quyết định hành chính trong quản lý đất đai"
+      }
     },
     {
-      "id": "khainiem_chuyen_muc_dich_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "chuyển mục đích sử dụng đất"
+      "id": "hanhviphaply_thieutrachnhiem",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thiếu trách nhiệm trong quản lý để xảy ra vi phạm pháp luật về đất đai hoặc có hành vi khác gây thiệt hại đến tài nguyên đất đai, quyền và nghĩa vụ của người sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_thu_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "thu hồi đất"
-    },
-    {
-      "id": "khainiem_boi_thuong_ho_tro_tai_dinh_cu",
-      "label": "KháiNiệm",
-      "name": "bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "khainiem_chuyen_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "chuyển quyền sử dụng đất"
-    },
-    {
-      "id": "khainiem_thuc_hien_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "thực hiện quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khainiem_xac_dinh_nghia_vu_tai_chinh_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "xác định nghĩa vụ tài chính về đất đai"
-    },
-    {
-      "id": "khainiem_quan_ly_ho_so_dia_chinh",
-      "label": "KháiNiệm",
-      "name": "quản lý hồ sơ địa chính"
-    },
-    {
-      "id": "khainiem_ra_quyet_dinh_hanh_chinh_trong_quan_ly_dat_dai",
-      "label": "KháiNiệm",
-      "name": "ra quyết định hành chính trong quản lý đất đai"
-    },
-    {
-      "id": "khainiem_vi_pham_phap_luat_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "vi phạm pháp luật về đất đai"
-    },
-    {
-      "id": "khainiem_tai_nguyen_dat_dai",
-      "label": "KháiNiệm",
-      "name": "tài nguyên đất đai"
-    },
-    {
-      "id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "quyền và nghĩa vụ của người sử dụng đất"
-    },
-    {
-      "id": "khainiem_quan_ly_dat_dai",
-      "label": "KháiNiệm",
-      "name": "quản lý đất đai"
-    },
-    {
-      "id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "label": "ChủThể",
-      "name": "Người có hành vi vi phạm pháp luật về đất đai khi thi hành công vụ"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "label": "HànhViPhápLý",
-      "name": "Lợi dụng chức vụ, quyền hạn làm trái với quy định của pháp luật"
-    },
-    {
-      "id": "hanhviphaply_thieu_trach_nhiem_trong_quan_ly",
-      "label": "HànhViPhápLý",
-      "name": "Thiếu trách nhiệm trong quản lý"
-    },
-    {
-      "id": "hanhviphaply_co_hanh_vi_khac_gay_thiet_hai",
-      "label": "HànhViPhápLý",
-      "name": "có hành vi khác gây thiệt hại"
-    },
-    {
-      "id": "hanhviphaply_vi_pham_quy_dinh_ve_lay_y_kien_cong_bo_cong_khai_thong_tin",
-      "label": "HànhViPhápLý",
-      "name": "Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin"
-    },
-    {
-      "id": "hanhviphaply_vi_pham_quy_dinh_trinh_tu_thu_tuc_hanh_chinh",
-      "label": "HànhViPhápLý",
-      "name": "vi phạm quy định trình tự, thủ tục hành chính"
-    },
-    {
-      "id": "hanhviphaply_vi_pham_quy_dinh_ve_bao_cao",
-      "label": "HànhViPhápLý",
-      "name": "vi phạm quy định về báo cáo"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
-    },
-    {
-      "id": "chetai_xu_ly_ky_luat",
-      "label": "ChếTài",
-      "name": "xử lý kỷ luật"
-    },
-    {
-      "id": "chetai_truy_cuu_trach_nhiem_hinh_su",
-      "label": "ChếTài",
-      "name": "truy cứu trách nhiệm hình sự"
-    },
-    {
-      "id": "dieukien_tuy_theo_tinh_chat_muc_do_vi_pham",
-      "label": "ĐiềuKiện",
-      "name": "tùy theo tính chất, mức độ vi phạm"
+      "id": "hanhviphaply_viphamquydinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin; vi phạm quy định trình tự, thủ tục hành chính; vi phạm quy định về báo cáo trong quản lý đất đai"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_207",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_xuly_doi_voi_nguoi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu"
+      "source_id": "dieu_207_2013",
+      "target_id": "chuthe_nguoicohanhvi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_207",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu"
+      "source_id": "dieu_207_2013",
+      "target_id": "hanhviphaply_viluatdatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_xu_ly_ky_luat"
+      "source_id": "dieu_207_2013",
+      "target_id": "hanhviphaply_loidungchucvu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_truy_cuu_trach_nhiem_hinh_su"
+      "source_id": "dieu_207_2013",
+      "target_id": "hanhviphaply_thieutrachnhiem",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_xu_ly_ky_luat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuy_theo_tinh_chat_muc_do_vi_pham"
-    },
-    {
-      "source_id": "chetai_truy_cuu_trach_nhiem_hinh_su",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuy_theo_tinh_chat_muc_do_vi_pham"
-    },
-    {
-      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_giao_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thu_hoi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_boi_thuong_ho_tro_tai_dinh_cu"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chuyen_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thuc_hien_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_xac_dinh_nghia_vu_tai_chinh_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quan_ly_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_chuc_vu_quyen_han_lam_trai_quy_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_ra_quyet_dinh_hanh_chinh_trong_quan_ly_dat_dai"
-    },
-    {
-      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thieu_trach_nhiem_trong_quan_ly"
-    },
-    {
-      "source_id": "hanhviphaply_thieu_trach_nhiem_trong_quan_ly",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_vi_pham_phap_luat_ve_dat_dai"
-    },
-    {
-      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_co_hanh_vi_khac_gay_thiet_hai"
-    },
-    {
-      "source_id": "hanhviphaply_co_hanh_vi_khac_gay_thiet_hai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tai_nguyen_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_co_hanh_vi_khac_gay_thiet_hai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyen_va_nghia_vu_cua_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_vi_pham_quy_dinh_ve_lay_y_kien_cong_bo_cong_khai_thong_tin"
-    },
-    {
-      "source_id": "hanhviphaply_vi_pham_quy_dinh_ve_lay_y_kien_cong_bo_cong_khai_thong_tin",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quan_ly_dat_dai"
-    },
-    {
-      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_vi_pham_quy_dinh_trinh_tu_thu_tuc_hanh_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_vi_pham_quy_dinh_trinh_tu_thu_tuc_hanh_chinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quan_ly_dat_dai"
-    },
-    {
-      "source_id": "chuthe_nguoi_co_hanh_vi_vi_pham_phap_luat_ve_dat_dai_khi_thi_hanh_cong_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_vi_pham_quy_dinh_ve_bao_cao"
-    },
-    {
-      "source_id": "hanhviphaply_vi_pham_quy_dinh_ve_bao_cao",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quan_ly_dat_dai"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_207"
+      "source_id": "dieu_207_2013",
+      "target_id": "hanhviphaply_viphamquydinh",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

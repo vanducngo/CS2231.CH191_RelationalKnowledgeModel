@@ -1,171 +1,64 @@
 {
   "entities": [
     {
-      "id": "dieu_47",
-      "label": "ĐiềuLuật",
-      "name": "Điều 47"
+      "id": "dieu_47_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 47. Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp",
+        "ma_dieu": "47",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 47.\n\nĐiều kiện chuyển đổi quyền sử dụng đất nông nghiệp about:blank\nCá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng,\nnhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền\nsử dụng đất nông nghiệp trong cùng đơn vị hành chính cấp tỉnh cho cá nhân khác và không phải nộp\nthuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ."
+      }
     },
     {
-      "id": "dieukien_tong_quat_chuyendoi_quyen_su_dung_dat_nong_nghiep",
-      "label": "ĐiềuKiện",
-      "name": "Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp"
+      "id": "dieukien_chuyendoiquyensudungdatnongnghiep",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp"
+      }
     },
     {
       "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "hanhviphaply_chuyendoi_quyen_su_dung_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển đổi quyền sử dụng đất nông nghiệp"
+      "id": "hanhviphaply_chuyendoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển đổi"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "dieukien_dat_duoc_giao_tu_nha_nuoc",
-      "label": "ĐiềuKiện",
-      "name": "Đất được Nhà nước giao"
-    },
-    {
-      "id": "dieukien_dat_duoc_chuyendoi_tiep_nhan",
-      "label": "ĐiềuKiện",
-      "name": "Đất được chuyển đổi tiếp nhận"
-    },
-    {
-      "id": "dieukien_dat_duoc_nhan_chuyen_nhuong",
-      "label": "ĐiềuKiện",
-      "name": "Đất được nhận chuyển nhượng"
-    },
-    {
-      "id": "dieukien_dat_duoc_nhan_thua_ke",
-      "label": "ĐiềuKiện",
-      "name": "Đất được nhận thừa kế"
-    },
-    {
-      "id": "dieukien_dat_duoc_nhan_tang_cho",
-      "label": "ĐiềuKiện",
-      "name": "Đất được nhận tặng cho"
-    },
-    {
-      "id": "khainiem_quyen_su_dung_dat_hop_phap",
-      "label": "KháiNiệm",
-      "name": "Quyền sử dụng đất hợp pháp"
-    },
-    {
-      "id": "dieukien_trong_cung_don_vi_hanh_chinh_cap_tinh",
-      "label": "ĐiềuKiện",
-      "name": "Trong cùng đơn vị hành chính cấp tỉnh"
-    },
-    {
-      "id": "chuthe_canhan_khac",
-      "label": "ChủThể",
-      "name": "Cá nhân khác"
-    },
-    {
-      "id": "chetai_mien_thue_thu_nhap",
-      "label": "ChếTài",
-      "name": "Miễn thuế thu nhập từ việc chuyển đổi quyền sử dụng đất"
-    },
-    {
-      "id": "chetai_mien_le_phi_truoc_ba",
-      "label": "ChếTài",
-      "name": "Miễn lệ phí trước bạ"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_47",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_tong_quat_chuyendoi_quyen_su_dung_dat_nong_nghiep"
+      "source_id": "dieu_47_2024",
+      "target_id": "dieukien_chuyendoiquyensudungdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_tong_quat_chuyendoi_quyen_su_dung_dat_nong_nghiep",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat_nong_nghiep"
+      "source_id": "dieu_47_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_canhan"
+      "source_id": "dieu_47_2024",
+      "target_id": "hanhviphaply_chuyendoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_duoc_giao_tu_nha_nuoc"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_dat_duoc_giao_tu_nha_nuoc"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_giao_tu_nha_nuoc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyen_su_dung_dat_hop_phap"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_duoc_chuyendoi_tiep_nhan"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_chuyendoi_tiep_nhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyen_su_dung_dat_hop_phap"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_duoc_nhan_chuyen_nhuong"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nhan_chuyen_nhuong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyen_su_dung_dat_hop_phap"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_duoc_nhan_thua_ke"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nhan_thua_ke",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyen_su_dung_dat_hop_phap"
-    },
-    {
-      "source_id": "chuthe_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_duoc_nhan_tang_cho"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nhan_tang_cho",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyen_su_dung_dat_hop_phap"
-    },
-    {
-      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_cung_don_vi_hanh_chinh_cap_tinh"
-    },
-    {
-      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat_nong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan_khac"
-    },
-    {
-      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat_nong_nghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_mien_thue_thu_nhap"
-    },
-    {
-      "source_id": "hanhviphaply_chuyendoi_quyen_su_dung_dat_nong_nghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_mien_le_phi_truoc_ba"
+      "source_id": "dieu_47_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

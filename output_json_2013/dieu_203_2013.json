@@ -1,381 +1,199 @@
 {
   "entities": [
     {
-      "id": "dieu_203",
-      "label": "ĐiềuLuật",
-      "name": "Điều 203"
-    },
-    {
-      "id": "khainiem_thamquyengiaiquyettranhchapdatdai",
-      "label": "KháiNiệm",
-      "name": "Thẩm quyền giải quyết tranh chấp đất đai"
+      "id": "dieu_203_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 203. Thẩm quyền giải quyết tranh chấp đất đai",
+        "ma_dieu": "203",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 203.\n\nThẩm quyền giải quyết tranh chấp đất đai\nTranh chấp đất đai đã được hòa giải tại Ủy ban nhân dân cấp xã mà không thành thì được giải quyết\nnhư sau:\n1. Tranh chấp đất đai mà đương sự có Giấy chứng nhận hoặc có một trong các loại giấy tờ quy định tại\nĐiều 100 của Luật này  và tranh chấp về tài sản gắn liền với đất thì do Tòa án nhân dân giải quyết;\n2. Tranh chấp đất đai mà đương sự không có Giấy chứng nhận hoặc không có một trong các loại giấy\ntờ quy định tại  Điều 100 của Luật này  thì đương sự chỉ được lựa chọn một trong hai hình thức giải\nquyết tranh chấp đất đai theo quy định sau đây:\na) Nộp đơn yêu cầu giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền theo quy định tại\nkhoản 3 Điều này;\nb) Khởi kiện tại Tòa án nhân dân có thẩm quyền theo quy định của pháp luật về tố tụng dân sự;\n3. Trường hợp đương sự lựa chọn giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền thì\nviệc giải quyết tranh chấp đất đai được thực hiện như sau:\na) Trường hợp tranh chấp giữa hộ gia đình, cá nhân, cộng đồng dân cư với nhau thì Chủ tịch Ủy ban\nnhân dân cấp huyện giải quyết; nếu không đồng ý với quyết định giải quyết thì có quyền khiếu nại đến\nChủ tịch Ủy ban nhân dân cấp tỉnh hoặc khởi kiện tại Tòa án nhân dân theo quy định của pháp luật về\ntố tụng hành chính;\nb) Trường hợp tranh chấp mà một bên tranh chấp là tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở\nnước ngoài, doanh nghiệp có vốn đầu tư nước ngoài thì Chủ tịch Ủy ban nhân dân cấp tỉnh giải quyết;\nnếu không đồng ý với quyết định giải quyết thì có quyền khiếu nại đến Bộ trưởng Bộ Tài nguyên và\nMôi trường hoặc khởi kiện tại Tòa án nhân dân theo quy định của pháp luật về tố tụng hành chính;\n4. Người có thẩm quyền giải quyết tranh chấp đất đai tại khoản 3 Điều này phải ra quyết định giải\nquyết tranh chấp. Quyết định giải quyết tranh chấp có hiệu lực thi hành phải được các bên tranh chấp\nnghiêm chỉnh chấp hành. Trường hợp các bên không chấp hành sẽ bị cưỡng chế thi hành."
+      }
     },
     {
       "id": "khainiem_tranhchapdatdai",
-      "label": "KháiNiệm",
-      "name": "Tranh chấp đất đai"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tranh chấp đất đai"
+      }
     },
     {
-      "id": "dieukien_hoagiaiubndcapsakhongthanh",
-      "label": "ĐiềuKiện",
-      "name": "đã được hòa giải tại Ủy ban nhân dân cấp xã mà không thành"
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
     },
     {
-      "id": "dieukien_duongsucogiaychungnhanhoacgiaytodieucham",
-      "label": "ĐiềuKiện",
-      "name": "đương sự có Giấy chứng nhận hoặc có một trong các loại giấy tờ quy định tại Điều 100 của Luật này"
+      "id": "chuthe_toaan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tòa án nhân dân"
+      }
     },
     {
       "id": "khainiem_giaychungnhan",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận"
+      }
     },
     {
-      "id": "khainiem_giaytoquydinhdieucham",
-      "label": "KháiNiệm",
-      "name": "giấy tờ quy định tại Điều 100 của Luật này"
-    },
-    {
-      "id": "dieukien_tranhchaptasanganlienvoidat",
-      "label": "ĐiềuKiện",
-      "name": "tranh chấp về tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_giaiquyettranhchap",
-      "label": "HànhViPhápLý",
-      "name": "giải quyết tranh chấp"
-    },
-    {
-      "id": "chuthe_toaannhandan",
-      "label": "ChủThể",
-      "name": "Tòa án nhân dân"
-    },
-    {
-      "id": "dieukien_duongsu_khong_co_giaychungnhanhoacgiaytodieucham",
-      "label": "ĐiềuKiện",
-      "name": "đương sự không có Giấy chứng nhận hoặc không có một trong các loại giấy tờ quy định tại Điều 100 của Luật này"
-    },
-    {
-      "id": "khainiem_haithuchucgiaiquyettranhchapdatdai",
-      "label": "KháiNiệm",
-      "name": "hai hình thức giải quyết tranh chấp đất đai"
-    },
-    {
-      "id": "hanhviphaply_nopdonyeucaugiaiquyettranhchap",
-      "label": "HànhViPhápLý",
-      "name": "Nộp đơn yêu cầu giải quyết tranh chấp"
-    },
-    {
-      "id": "chuthe_ubndcapcothamquyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp có thẩm quyền"
-    },
-    {
-      "id": "hanhviphaply_khoikientaitoaannhandan",
-      "label": "HànhViPhápLý",
-      "name": "Khởi kiện tại Tòa án nhân dân"
-    },
-    {
-      "id": "dieukien_duongsulua_chon_giaiquyettaiubndcapcothamquyen",
-      "label": "ĐiềuKiện",
-      "name": "đương sự lựa chọn giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền"
-    },
-    {
-      "id": "dieukien_tranhchaphogiadinhcanhancongdongdancu",
-      "label": "ĐiềuKiện",
-      "name": "tranh chấp giữa hộ gia đình, cá nhân, cộng đồng dân cư với nhau"
+      "id": "dieu_100_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 100",
+        "ma_dieu": "100",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 100 Luật đất đai 2013"
+      }
     },
     {
       "id": "chuthe_hogiadinh",
-      "label": "ChủThể",
-      "name": "hộ gia đình"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
       "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
       "id": "chuthe_congdongdancu",
-      "label": "ChủThể",
-      "name": "cộng đồng dân cư"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
     },
     {
-      "id": "chuthe_chutichubndcaphuyen",
-      "label": "ChủThể",
-      "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
-      "id": "khainiem_quyetdinhgiaiquyettranhchap",
-      "label": "KháiNiệm",
-      "name": "Quyết định giải quyết tranh chấp"
-    },
-    {
-      "id": "dieukien_khongdongyvoiquyetdinhgiaiquyet",
-      "label": "ĐiềuKiện",
-      "name": "không đồng ý với quyết định giải quyết"
-    },
-    {
-      "id": "hanhviphaply_khieunai",
-      "label": "HànhViPhápLý",
-      "name": "khiếu nại"
-    },
-    {
-      "id": "chuthe_chutichubndcaptinh",
-      "label": "ChủThể",
-      "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "dieukien_tranhchaptocuccoso_nguoivietnam_doanhnghiep",
-      "label": "ĐiềuKiện",
-      "name": "tranh chấp mà một bên tranh chấp là tổ chức, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
       "id": "chuthe_tochuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
       "id": "chuthe_cosotongiao",
-      "label": "ChủThể",
-      "name": "cơ sở tôn giáo"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ sở tôn giáo"
+      }
     },
     {
       "id": "chuthe_nguoivietnamdinhcuonuocngoai",
-      "label": "ChủThể",
-      "name": "người Việt Nam định cư ở nước ngoài"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "chuthe_doanhnghiepcovondautunuocngoai",
-      "label": "ChủThể",
-      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+      "id": "chuthe_doanhnghiepkovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
     },
     {
-      "id": "chuthe_botruongbotainuyenmoitruong",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
-    },
-    {
-      "id": "chuthe_nguoicothamquyengiaiquyetkhoanba",
-      "label": "ChủThể",
-      "name": "Người có thẩm quyền giải quyết tranh chấp đất đai tại khoản 3"
-    },
-    {
-      "id": "hanhviphaply_raquyetdinhgiaiquyettranhchap",
-      "label": "HànhViPhápLý",
-      "name": "ra quyết định giải quyết tranh chấp"
-    },
-    {
-      "id": "dieukien_quyetdinhgiaiquyetcohieuluc",
-      "label": "ĐiềuKiện",
-      "name": "Quyết định giải quyết tranh chấp có hiệu lực thi hành"
-    },
-    {
-      "id": "chuthe_cacbentranhchap",
-      "label": "ChủThể",
-      "name": "các bên tranh chấp"
-    },
-    {
-      "id": "hanhviphaply_chaphanhquyetdinh",
-      "label": "HànhViPhápLý",
-      "name": "chấp hành quyết định"
-    },
-    {
-      "id": "dieukien_cabenkhongchaphanh",
-      "label": "ĐiềuKiện",
-      "name": "các bên không chấp hành"
-    },
-    {
-      "id": "chet_cuongchethihanh",
-      "label": "ChếTài",
-      "name": "cưỡng chế thi hành"
+      "id": "chuthe_botruongbotnvmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_thamquyengiaiquyettranhchapdatdai"
+      "source_id": "dieu_203_2013",
+      "target_id": "khainiem_tranhchapdatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tranhchapdatdai"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tranhchapdatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hoagiaiubndcapsakhongthanh"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_toaan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tranhchapdatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duongsucogiaychungnhanhoacgiaytodieucham"
+      "source_id": "dieu_203_2013",
+      "target_id": "khainiem_giaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tranhchapdatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tranhchaptasanganlienvoidat"
+      "source_id": "dieu_203_2013",
+      "target_id": "dieu_100_2013",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_duongsucogiaychungnhanhoacgiaytodieucham",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_giaiquyettranhchap"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_tranhchaptasanganlienvoidat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_giaiquyettranhchap"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaiquyettranhchap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_toaannhandan"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tranhchapdatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duongsu_khong_co_giaychungnhanhoacgiaytodieucham"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_duongsu_khong_co_giaychungnhanhoacgiaytodieucham",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_haithuchucgiaiquyettranhchapdatdai"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_haithuchucgiaiquyettranhchapdatdai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_nopdonyeucaugiaiquyettranhchap"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_nopdonyeucaugiaiquyettranhchap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ubndcapcothamquyen"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_cosotongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_haithuchucgiaiquyettranhchapdatdai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_khoikientaitoaannhandan"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_khoikientaitoaannhandan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_toaannhandan"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_doanhnghiepkovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_nopdonyeucaugiaiquyettranhchap",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_duongsulua_chon_giaiquyettaiubndcapcothamquyen"
-    },
-    {
-      "source_id": "dieukien_duongsulua_chon_giaiquyettaiubndcapcothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tranhchaphogiadinhcanhancongdongdancu"
-    },
-    {
-      "source_id": "dieukien_tranhchaphogiadinhcanhancongdongdancu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_giaiquyettranhchap"
-    },
-    {
-      "source_id": "hanhviphaply_giaiquyettranhchap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chutichubndcaphuyen"
-    },
-    {
-      "source_id": "hanhviphaply_giaiquyettranhchap",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyetdinhgiaiquyettranhchap"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaiquyettranhchap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongdongyvoiquyetdinhgiaiquyet"
-    },
-    {
-      "source_id": "dieukien_khongdongyvoiquyetdinhgiaiquyet",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_khieunai"
-    },
-    {
-      "source_id": "hanhviphaply_khieunai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chutichubndcaptinh"
-    },
-    {
-      "source_id": "dieukien_khongdongyvoiquyetdinhgiaiquyet",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_khoikientaitoaannhandan"
-    },
-    {
-      "source_id": "dieukien_duongsulua_chon_giaiquyettaiubndcapcothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tranhchaptocuccoso_nguoivietnam_doanhnghiep"
-    },
-    {
-      "source_id": "dieukien_tranhchaptocuccoso_nguoivietnam_doanhnghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_giaiquyettranhchap"
-    },
-    {
-      "source_id": "hanhviphaply_giaiquyettranhchap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chutichubndcaptinh"
-    },
-    {
-      "source_id": "hanhviphaply_giaiquyettranhchap",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyetdinhgiaiquyettranhchap"
-    },
-    {
-      "source_id": "dieukien_khongdongyvoiquyetdinhgiaiquyet",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_khieunai"
-    },
-    {
-      "source_id": "hanhviphaply_khieunai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_botruongbotainuyenmoitruong"
-    },
-    {
-      "source_id": "dieukien_khongdongyvoiquyetdinhgiaiquyet",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_khoikientaitoaannhandan"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nguoicothamquyengiaiquyetkhoanba"
-    },
-    {
-      "source_id": "chuthe_nguoicothamquyengiaiquyetkhoanba",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_raquyetdinhgiaiquyettranhchap"
-    },
-    {
-      "source_id": "hanhviphaply_raquyetdinhgiaiquyettranhchap",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_quyetdinhgiaiquyettranhchap"
-    },
-    {
-      "source_id": "khainiem_quyetdinhgiaiquyettranhchap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quyetdinhgiaiquyetcohieuluc"
-    },
-    {
-      "source_id": "dieukien_quyetdinhgiaiquyetcohieuluc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cacbentranhchap"
-    },
-    {
-      "source_id": "chuthe_cacbentranhchap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chaphanhquyetdinh"
-    },
-    {
-      "source_id": "dieukien_cabenkhongchaphanh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chet_cuongchethihanh"
+      "source_id": "dieu_203_2013",
+      "target_id": "chuthe_botruongbotnvmt",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

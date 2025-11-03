@@ -1,266 +1,88 @@
 {
   "entities": [
     {
-      "id": "dieu_21",
-      "label": "ĐiềuLuật",
-      "name": "Điều 21. Nhiệm vụ, quyền hạn của Chính phủ, Thủ tướng Chính phủ, các Bộ, cơ quan ngang Bộ và chính quyền địa phương các cấp"
-    },
-    {
-      "id": "khainiem_nhiemvu_quyenhan",
-      "label": "KháiNiệm",
-      "name": "Nhiệm vụ, quyền hạn"
+      "id": "dieu_21_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 21. Nhiệm vụ, quyền hạn của Chính phủ, Thủ tướng Chính phủ, các Bộ, cơ quan ngang Bộ và chính quyền địa phương các cấp",
+        "ma_dieu": "21",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 21.\n\nNhiệm vụ, quyền hạn của Chính phủ, Thủ tướng Chính phủ, các Bộ, cơ quan ngang Bộ\nvà chính quyền địa phương các cấp\n1. Chính phủ thống nhất quản lý nhà nước về đất đai trong phạm vi cả nước.\n2. Thủ tướng Chính phủ thực hiện nhiệm vụ quản lý nhà nước về đất đai theo quy định của Luật này .\n3. Bộ Tài nguyên và Môi trường là cơ quan đầu mối giúp Chính phủ, Thủ tướng Chính phủ thực hiện\nquản lý nhà nước về đất đai.\n4. Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm giúp Chính phủ,\nThủ tướng Chính phủ trong quản lý nhà nước về đất đai.\n5. Chính quyền địa phương các cấp có trách nhiệm quản lý nhà nước về đất đai tại địa phương theo\nthẩm quyền quy định của Luật này .\nỞ đơn vị hành chính cấp huyện không thành lập đơn vị hành chính cấp xã thì Hội đồng nhân dân, Ủy\nban nhân dân cấp huyện thực hiện nhiệm vụ, quyền hạn của Hội đồng nhân dân, Ủy ban nhân dân cấp\nxã quy định của Luật này ."
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
       "id": "chuthe_thutuongchinhphu",
-      "label": "ChủThể",
-      "name": "Thủ tướng Chính phủ"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Thủ tướng Chính phủ"
+      }
     },
     {
-      "id": "chuthe_bococongangbo",
-      "label": "ChủThể",
-      "name": "các Bộ, cơ quan ngang Bộ"
+      "id": "chuthe_bo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ"
+      }
     },
     {
-      "id": "chuthe_chinhquyendiaphuongcacap",
-      "label": "ChủThể",
-      "name": "chính quyền địa phương các cấp"
+      "id": "chuthe_coquancangbo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan ngang Bộ"
+      }
     },
     {
-      "id": "hanhviphaply_thongnhatquanlynhanuocvedatdai",
-      "label": "HànhViPhápLý",
-      "name": "thống nhất quản lý nhà nước về đất đai"
+      "id": "chuthe_chinhquyen địa phương",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính quyền địa phương"
+      }
     },
     {
-      "id": "hanhviphaply_thuchiennhiemvuquanlynhanuocvedatdai",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện nhiệm vụ quản lý nhà nước về đất đai"
-    },
-    {
-      "id": "dieukien_theoquydinhcuanhay",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của Luật này"
-    },
-    {
-      "id": "chuthe_botainnguyenmoitruong",
-      "label": "ChủThể",
-      "name": "Bộ Tài nguyên và Môi trường"
-    },
-    {
-      "id": "khainiem_coquandaumoi",
-      "label": "KháiNiệm",
-      "name": "cơ quan đầu mối"
-    },
-    {
-      "id": "hanhviphaply_giupchinhphu_thutuongchinhphu_quanlydatdai",
-      "label": "HànhViPhápLý",
-      "name": "giúp Chính phủ, Thủ tướng Chính phủ thực hiện quản lý nhà nước về đất đai"
-    },
-    {
-      "id": "dieukien_trongphamnhiemvuquyenhan",
-      "label": "ĐiềuKiện",
-      "name": "trong phạm vi nhiệm vụ, quyền hạn của mình"
-    },
-    {
-      "id": "hanhviphaply_cotrachnhiemgiupchinhphu_thutuongchinhphu_quanlydatdai",
-      "label": "HànhViPhápLý",
-      "name": "có trách nhiệm giúp Chính phủ, Thủ tướng Chính phủ trong quản lý nhà nước về đất đai"
-    },
-    {
-      "id": "hanhviphaply_quanlynhanuocvedatdaitaidialuong",
-      "label": "HànhViPhápLý",
-      "name": "quản lý nhà nước về đất đai tại địa phương"
-    },
-    {
-      "id": "dieukien_dvhccaphuyen_khongthanhlapdvhccapsa",
-      "label": "ĐiềuKiện",
-      "name": "Ở đơn vị hành chính cấp huyện không thành lập đơn vị hành chính cấp xã"
-    },
-    {
-      "id": "chuthe_hoingdongnhandancaphuyen",
-      "label": "ChủThể",
-      "name": "Hội đồng nhân dân cấp huyện"
-    },
-    {
-      "id": "chuthe_uybanndancaphuyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "khainiem_nhiemvuquyenhan_hdnd_ubnd_capsa",
-      "label": "KháiNiệm",
-      "name": "nhiệm vụ, quyền hạn của Hội đồng nhân dân, Ủy ban nhân dân cấp xã"
-    },
-    {
-      "id": "chuthe_hoingdongnhandancapsa",
-      "label": "ChủThể",
-      "name": "Hội đồng nhân dân cấp xã"
-    },
-    {
-      "id": "chuthe_uybanndancapsa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
-    },
-    {
-      "id": "hanhviphaply_thuchiennhiemvuquyenhan_hdnd_ubnd_capsa",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện nhiệm vụ, quyền hạn của Hội đồng nhân dân, Ủy ban nhân dân cấp xã"
+      "id": "chuthe_botainguyenvamientruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_21",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nhiemvu_quyenhan"
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhiemvu_quyenhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinhphu"
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_thutuongchinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhiemvu_quyenhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_thutuongchinhphu"
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_bo",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhiemvu_quyenhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_bococongangbo"
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_coquancangbo",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhiemvu_quyenhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinhquyendiaphuongcacap"
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_chinhquyen địa phương",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thongnhatquanlynhanuocvedatdai"
-    },
-    {
-      "source_id": "dieu_21",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thongnhatquanlynhanuocvedatdai"
-    },
-    {
-      "source_id": "chuthe_thutuongchinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuchiennhiemvuquanlynhanuocvedatdai"
-    },
-    {
-      "source_id": "hanhviphaply_thuchiennhiemvuquanlynhanuocvedatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhcuanhay"
-    },
-    {
-      "source_id": "dieu_21",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuchiennhiemvuquanlynhanuocvedatdai"
-    },
-    {
-      "source_id": "chuthe_botainnguyenmoitruong",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_coquandaumoi"
-    },
-    {
-      "source_id": "chuthe_botainnguyenmoitruong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giupchinhphu_thutuongchinhphu_quanlydatdai"
-    },
-    {
-      "source_id": "hanhviphaply_giupchinhphu_thutuongchinhphu_quanlydatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinhphu"
-    },
-    {
-      "source_id": "hanhviphaply_giupchinhphu_thutuongchinhphu_quanlydatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_thutuongchinhphu"
-    },
-    {
-      "source_id": "dieu_21",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_botainnguyenmoitruong"
-    },
-    {
-      "source_id": "chuthe_bococongangbo",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cotrachnhiemgiupchinhphu_thutuongchinhphu_quanlydatdai"
-    },
-    {
-      "source_id": "hanhviphaply_cotrachnhiemgiupchinhphu_thutuongchinhphu_quanlydatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trongphamnhiemvuquyenhan"
-    },
-    {
-      "source_id": "hanhviphaply_cotrachnhiemgiupchinhphu_thutuongchinhphu_quanlydatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinhphu"
-    },
-    {
-      "source_id": "hanhviphaply_cotrachnhiemgiupchinhphu_thutuongchinhphu_quanlydatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_thutuongchinhphu"
-    },
-    {
-      "source_id": "dieu_21",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_bococongangbo"
-    },
-    {
-      "source_id": "chuthe_chinhquyendiaphuongcacap",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quanlynhanuocvedatdaitaidialuong"
-    },
-    {
-      "source_id": "hanhviphaply_quanlynhanuocvedatdaitaidialuong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhcuanhay"
-    },
-    {
-      "source_id": "dieu_21",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quanlynhanuocvedatdaitaidialuong"
-    },
-    {
-      "source_id": "dieu_21",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_dvhccaphuyen_khongthanhlapdvhccapsa"
-    },
-    {
-      "source_id": "dieukien_dvhccaphuyen_khongthanhlapdvhccapsa",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_thuchiennhiemvuquyenhan_hdnd_ubnd_capsa"
-    },
-    {
-      "source_id": "chuthe_hoingdongnhandancaphuyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuchiennhiemvuquyenhan_hdnd_ubnd_capsa"
-    },
-    {
-      "source_id": "chuthe_uybanndancaphuyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuchiennhiemvuquyenhan_hdnd_ubnd_capsa"
-    },
-    {
-      "source_id": "hanhviphaply_thuchiennhiemvuquyenhan_hdnd_ubnd_capsa",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hoingdongnhandancapsa"
-    },
-    {
-      "source_id": "hanhviphaply_thuchiennhiemvuquyenhan_hdnd_ubnd_capsa",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uybanndancapsa"
-    },
-    {
-      "source_id": "hanhviphaply_thuchiennhiemvuquyenhan_hdnd_ubnd_capsa",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhcuanhay"
+      "source_id": "dieu_21_2024",
+      "target_id": "chuthe_botainguyenvamientruong",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,221 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_146",
-      "label": "ĐiềuLuật",
-      "name": "Điều 146"
+      "id": "dieu_146_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 146. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu",
+        "ma_dieu": "146",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 146.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu\n1. Thửa đất đang sử dụng được hình thành trước ngày văn bản quy định của Ủy ban nhân dân cấp tỉnh\nvề diện tích tối thiểu được tách thửa có hiệu lực thi hành mà diện tích thửa đất nhỏ hơn diện tích tối\nthiểu theo quy định của Ủy ban nhân dân cấp tỉnh nhưng có đủ điều kiện cấp Giấy chứng nhận quyền\nsử dụng đất, quyền sở hữu tài sản gắn liền với đất thì người đang sử dụng đất được cấp Giấy chứng\nnhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n2. Không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với\ntrường hợp tự chia, tách thửa đất đã đăng ký, đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc\nGiấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng\nđất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu tài sản gắn liền với đất thành 02 hoặc nhiều thửa đất mà trong đó có ít nhất 01 thửa đất\ncó diện tích nhỏ hơn diện tích tối thiểu được tách thửa theo quy định tại Điều 220 của Luật này .\n3. Trường hợp thửa đất đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận\nquyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu\nnhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản\ngắn liền với đất mà người sử dụng đất có nhu cầu tách thửa, hợp thửa nếu đáp ứng đủ điều kiện theo\nquy định tại Điều 220 của Luật này  thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài\nsản gắn liền với đất cho từng thửa đất sau khi tách thửa, hợp thửa. about:blank"
+      }
     },
     {
-      "id": "dieu_220",
-      "label": "ĐiềuLuật",
-      "name": "Điều 220"
+      "id": "khainiem_giaychungnhanquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_giaychungnhan",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      "id": "khainiem_quyensohuutaisanganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quyền sở hữu tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "khainiem_dientichtoithieutachthua",
-      "label": "KháiNiệm",
-      "name": "diện tích tối thiểu được tách thửa"
+      "id": "khainiem_thuadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thửa đất"
+      }
     },
     {
-      "id": "chuthe_nguoidangsu_dungdat",
-      "label": "ChủThể",
-      "name": "người đang sử dụng đất"
+      "id": "khainiem_dientichtoithieu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "diện tích tối thiểu"
+      }
     },
     {
-      "id": "chuthe_uybannhandancaptinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "id": "chuthe_uybanndancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "chuthe_nguoisudungdat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
+      "id": "chuthe_nguoidangsudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người đang sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_capgiaychungnhan_chung",
-      "label": "HànhViPhápLý",
-      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_capgiaychungnhan_dientichnho",
-      "label": "HànhViPhápLý",
-      "name": "được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_tuchiatachthuadat",
-      "label": "HànhViPhápLý",
-      "name": "tự chia, tách thửa đất"
-    },
-    {
-      "id": "hanhviphaply_tachthuahopthua",
-      "label": "HànhViPhápLý",
-      "name": "tách thửa, hợp thửa"
-    },
-    {
-      "id": "hanhviphaply_capgiaychungnhan_saukhi_tachhop",
-      "label": "HànhViPhápLý",
-      "name": "được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất sau khi tách thửa, hợp thửa"
-    },
-    {
-      "id": "chetat_khongcapgiaychungnhan",
-      "label": "ChếTài",
-      "name": "Không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "dieukien_thuadatcodientichnhonhondientichtoithieu",
-      "label": "ĐiềuKiện",
-      "name": "thửa đất có diện tích nhỏ hơn diện tích tối thiểu"
-    },
-    {
-      "id": "dieukien_thuadatdangsu_dunghinhthanhtruocVB_UBND",
-      "label": "ĐiềuKiện",
-      "name": "Thửa đất đang sử dụng được hình thành trước ngày văn bản quy định của Ủy ban nhân dân cấp tỉnh về diện tích tối thiểu được tách thửa có hiệu lực thi hành"
-    },
-    {
-      "id": "dieukien_dientichthuadatnhonhon_UBND",
-      "label": "ĐiềuKiện",
-      "name": "diện tích thửa đất nhỏ hơn diện tích tối thiểu theo quy định của Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "dieukien_ducodieukiencapGCN",
-      "label": "ĐiềuKiện",
-      "name": "có đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "dieukien_itnhatmotthuadatnhonhondientichtoithieu_Dieu220",
-      "label": "ĐiềuKiện",
-      "name": "ít nhất 01 thửa đất có diện tích nhỏ hơn diện tích tối thiểu được tách thửa theo quy định tại Điều 220 của Luật này"
-    },
-    {
-      "id": "dieukien_thuadatdaduoccapGCN",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp thửa đất đã được cấp Giấy chứng nhận"
-    },
-    {
-      "id": "dieukien_dapungdudieukien_Dieu220",
-      "label": "ĐiềuKiện",
-      "name": "đáp ứng đủ điều kiện theo quy định tại Điều 220 của Luật này"
+      "id": "dieukien_dudieukien",
+      "label": "DieuKien",
+      "properties": {
+        "name": "có đủ điều kiện"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_146",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_capgiaychungnhan_chung"
+      "source_id": "dieu_146_2024",
+      "target_id": "khainiem_giaychungnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhan_chung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_thuadatcodientichnhonhondientichtoithieu"
+      "source_id": "dieu_146_2024",
+      "target_id": "khainiem_quyensohuutaisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_thuadatcodientichnhonhondientichtoithieu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dientichtoithieutachthua"
+      "source_id": "dieu_146_2024",
+      "target_id": "khainiem_thuadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_146",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_capgiaychungnhan_dientichnho"
+      "source_id": "dieu_146_2024",
+      "target_id": "khainiem_dientichtoithieu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhan_dientichnho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoidangsu_dungdat"
+      "source_id": "dieu_146_2024",
+      "target_id": "chuthe_uybanndancaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhan_dientichnho",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuadatdangsu_dunghinhthanhtruocVB_UBND"
+      "source_id": "dieu_146_2024",
+      "target_id": "chuthe_nguoidangsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhan_dientichnho",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dientichthuadatnhonhon_UBND"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhan_dientichnho",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ducodieukiencapGCN"
-    },
-    {
-      "source_id": "dieukien_dientichthuadatnhonhon_UBND",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uybannhandancaptinh"
-    },
-    {
-      "source_id": "dieukien_thuadatdangsu_dunghinhthanhtruocVB_UBND",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uybannhandancaptinh"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhan_dientichnho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_giaychungnhan"
-    },
-    {
-      "source_id": "dieu_146",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chetat_khongcapgiaychungnhan"
-    },
-    {
-      "source_id": "chetat_khongcapgiaychungnhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_tuchiatachthuadat"
-    },
-    {
-      "source_id": "chetat_khongcapgiaychungnhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_itnhatmotthuadatnhonhondientichtoithieu_Dieu220"
-    },
-    {
-      "source_id": "dieukien_itnhatmotthuadatnhonhondientichtoithieu_Dieu220",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_220"
-    },
-    {
-      "source_id": "chetat_khongcapgiaychungnhan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_giaychungnhan"
-    },
-    {
-      "source_id": "dieu_146",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_capgiaychungnhan_saukhi_tachhop"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhan_saukhi_tachhop",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhan_saukhi_tachhop",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tachthuahopthua"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhan_saukhi_tachhop",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuadatdaduoccapGCN"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhan_saukhi_tachhop",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dapungdudieukien_Dieu220"
-    },
-    {
-      "source_id": "dieukien_dapungdudieukien_Dieu220",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_220"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhan_saukhi_tachhop",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_giaychungnhan"
+      "source_id": "dieu_146_2024",
+      "target_id": "dieukien_dudieukien",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

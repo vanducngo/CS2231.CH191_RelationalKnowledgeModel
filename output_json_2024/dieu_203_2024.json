@@ -1,511 +1,244 @@
 {
   "entities": [
     {
-      "id": "dieu_203",
-      "label": "ĐiềuLuật",
-      "name": "Điều 203"
+      "id": "dieu_203_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 203. Đất sử dụng cho khu kinh tế",
+        "ma_dieu": "203",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 203.\n\nĐất sử dụng cho khu kinh tế\n1. Đất sử dụng cho khu kinh tế là diện tích đất sử dụng cho các khu chức năng bao gồm:\na) Đất sử dụng cho khu phi thuế quan, khu bảo thuế, khu chế xuất, khu công nghiệp;\nb) Đất sử dụng cho khu giải trí, khu du lịch;\nc) Đất sử dụng cho khu đô thị, khu dân cư;\nd) Đất sử dụng cho khu hành chính và khu chức năng khác phù hợp với đặc điểm của từng khu kinh tế\nnhằm tạo môi trường đầu tư và kinh doanh đặc biệt thuận lợi cho nhà đầu tư.\n2. Việc thành lập, mở rộng khu kinh tế phải phù hợp với quy hoạch tỉnh đã được phê duyệt bảo đảm sử\ndụng đất tiết kiệm, hiệu quả.\n3. Việc thu hồi đất, giao đất, cho thuê đất trong khu kinh tế thực hiện theo quy định của Luật này .\n4. Ban quản lý khu kinh tế có trách nhiệm phối hợp với đơn vị, tổ chức thực hiện nhiệm vụ bồi thường,\ngiải phóng mặt bằng để thực hiện việc bồi thường, hỗ trợ, tái định cư đối với diện tích đất thu hồi trong\nkhu kinh tế.\n5. Thời hạn sử dụng đất để sản xuất, kinh doanh trong khu kinh tế thực hiện theo quy định tại  Điều 172\ncủa Luật này .\n6. Người sử dụng đất trong khu kinh tế được đầu tư xây dựng kinh doanh nhà ở, kết cấu hạ tầng, được\nsản xuất, kinh doanh, hoạt động dịch vụ và có các quyền, nghĩa vụ theo quy định của Luật này .\n7. Nhà nước khuyến khích đầu tư xây dựng kinh doanh kết cấu hạ tầng trong khu kinh tế.\n8. Chế độ sử dụng đất, quyền và nghĩa vụ của người sử dụng đất trong khu kinh tế được áp dụng đối\nvới từng loại đất theo quy định của Luật này .\n9. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "khainiem_khu_kinh_te",
-      "label": "KháiNiệm",
-      "name": "khu kinh tế"
+      "id": "khainiem_datsudungchokinhote",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho khu kinh tế"
+      }
     },
     {
-      "id": "khainiem_dat_su_dung_cho_khu_kinh_te",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng cho khu kinh tế"
+      "id": "khainiem_khuchucnang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu chức năng"
+      }
     },
     {
-      "id": "khainiem_khu_chuc_nang",
-      "label": "KháiNiệm",
-      "name": "khu chức năng"
+      "id": "khainiem_khupithuequan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu phi thuế quan"
+      }
     },
     {
-      "id": "khainiem_khu_phi_thue_quan",
-      "label": "KháiNiệm",
-      "name": "khu phi thuế quan"
+      "id": "khainiem_khubaothue",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu bảo thuế"
+      }
     },
     {
-      "id": "khainiem_khu_bao_thue",
-      "label": "KháiNiệm",
-      "name": "khu bảo thuế"
+      "id": "khainiem_khuchexuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu chế xuất"
+      }
     },
     {
-      "id": "khainiem_khu_che_xuat",
-      "label": "KháiNiệm",
-      "name": "khu chế xuất"
+      "id": "khainiem_khucongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu công nghiệp"
+      }
     },
     {
-      "id": "khainiem_khu_cong_nghiep",
-      "label": "KháiNiệm",
-      "name": "khu công nghiệp"
+      "id": "khainiem_khugiaitri",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu giải trí"
+      }
     },
     {
-      "id": "khainiem_khu_giai_tri",
-      "label": "KháiNiệm",
-      "name": "khu giải trí"
+      "id": "khainiem_khudulich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu du lịch"
+      }
     },
     {
-      "id": "khainiem_khu_du_lich",
-      "label": "KháiNiệm",
-      "name": "khu du lịch"
+      "id": "khainiem_khudothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu đô thị"
+      }
     },
     {
-      "id": "khainiem_khu_do_thi",
-      "label": "KháiNiệm",
-      "name": "khu đô thị"
+      "id": "khainiem_khudancu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu dân cư"
+      }
     },
     {
-      "id": "khainiem_khu_dan_cu",
-      "label": "KháiNiệm",
-      "name": "khu dân cư"
+      "id": "khainiem_khuhanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu hành chính"
+      }
     },
     {
-      "id": "khainiem_khu_hanh_chinh",
-      "label": "KháiNiệm",
-      "name": "khu hành chính"
+      "id": "chuthe_nhadautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "nhà đầu tư"
+      }
     },
     {
-      "id": "khainiem_khu_chuc_nang_khac",
-      "label": "KháiNiệm",
-      "name": "khu chức năng khác"
+      "id": "hanhviphaply_thanhlapkhukinhote",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thành lập khu kinh tế"
+      }
     },
     {
-      "id": "hanhviphaply_thanh_lap",
-      "label": "HànhViPhápLý",
-      "name": "thành lập"
+      "id": "hanhviphaply_morongkhukinhote",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "mở rộng khu kinh tế"
+      }
     },
     {
-      "id": "hanhviphaply_mo_rong",
-      "label": "HànhViPhápLý",
-      "name": "mở rộng"
+      "id": "chuthe_banquanlykhukinhote",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý khu kinh tế"
+      }
     },
     {
-      "id": "dieukien_phu_hop_quy_hoach_tinh_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quy hoạch tỉnh đã được phê duyệt"
+      "id": "chuthe_donvitochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị, tổ chức"
+      }
     },
     {
-      "id": "dieukien_bao_dam_su_dung_dat_tiet_kiem_hieu_qua",
-      "label": "ĐiềuKiện",
-      "name": "bảo đảm sử dụng đất tiết kiệm, hiệu quả"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi đất"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "hanhviphaply_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "chuthe_ban_quan_ly_khu_kinh_te",
-      "label": "ChủThể",
-      "name": "Ban quản lý khu kinh tế"
-    },
-    {
-      "id": "hanhviphaply_phoi_hop",
-      "label": "HànhViPhápLý",
-      "name": "phối hợp"
-    },
-    {
-      "id": "chuthe_don_vi_thuc_hien_boi_thuong_giai_phong_mat_bang",
-      "label": "ChủThể",
-      "name": "đơn vị thực hiện nhiệm vụ bồi thường, giải phóng mặt bằng"
-    },
-    {
-      "id": "chuthe_to_chuc_thuc_hien_boi_thuong_giai_phong_mat_bang",
-      "label": "ChủThể",
-      "name": "tổ chức thực hiện nhiệm vụ bồi thường, giải phóng mặt bằng"
-    },
-    {
-      "id": "hanhviphaply_thuc_hien_boi_thuong_ho_tro_tai_dinh_cu",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "khainiem_dien_tich_dat_thu_hoi_trong_khu_kinh_te",
-      "label": "KháiNiệm",
-      "name": "diện tích đất thu hồi trong khu kinh tế"
-    },
-    {
-      "id": "khainiem_thoi_han_su_dung_dat_san_xuat_kinh_doanh_khu_kinh_te",
-      "label": "KháiNiệm",
-      "name": "Thời hạn sử dụng đất để sản xuất, kinh doanh trong khu kinh tế"
-    },
-    {
-      "id": "khainiem_dieu_172_luat_nay",
-      "label": "KháiNiệm",
-      "name": "Điều 172 của Luật này"
-    },
-    {
-      "id": "chuthe_nguoi_su_dung_dat_trong_khu_kinh_te",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất trong khu kinh tế"
-    },
-    {
-      "id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_nha_o",
-      "label": "HànhViPhápLý",
-      "name": "đầu tư xây dựng kinh doanh nhà ở"
-    },
-    {
-      "id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang",
-      "label": "HànhViPhápLý",
-      "name": "đầu tư xây dựng kinh doanh kết cấu hạ tầng"
-    },
-    {
-      "id": "hanhviphaply_san_xuat",
-      "label": "HànhViPhápLý",
-      "name": "sản xuất"
-    },
-    {
-      "id": "hanhviphaply_kinh_doanh",
-      "label": "HànhViPhápLý",
-      "name": "kinh doanh"
-    },
-    {
-      "id": "hanhviphaply_hoat_dong_dich_vu",
-      "label": "HànhViPhápLý",
-      "name": "hoạt động dịch vụ"
-    },
-    {
-      "id": "khainiem_quyen_va_nghia_vu_theo_luat",
-      "label": "KháiNiệm",
-      "name": "quyền, nghĩa vụ theo quy định của Luật này"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "hanhviphaply_khuyen_khich",
-      "label": "HànhViPhápLý",
-      "name": "khuyến khích"
-    },
-    {
-      "id": "khainiem_che_do_su_dung_dat_trong_khu_kinh_te",
-      "label": "KháiNiệm",
-      "name": "Chế độ sử dụng đất trong khu kinh tế"
-    },
-    {
-      "id": "khainiem_quyen_va_nghia_vu_nguoi_su_dung_dat_trong_khu_kinh_te",
-      "label": "KháiNiệm",
-      "name": "Quyền và nghĩa vụ của người sử dụng đất trong khu kinh tế"
-    },
-    {
-      "id": "khainiem_tung_loai_dat",
-      "label": "KháiNiệm",
-      "name": "từng loại đất"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_su_dung_cho_khu_kinh_te"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_datsudungchokinhote",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_khu_kinh_te"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khuchucnang",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_su_dung_cho_khu_kinh_te",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_chuc_nang"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khupithuequan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_phi_thue_quan"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khubaothue",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_bao_thue"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khuchexuat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_che_xuat"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khucongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_cong_nghiep"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khugiaitri",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_giai_tri"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khudulich",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_du_lich"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khudothi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_do_thi"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khudancu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_dan_cu"
+      "source_id": "dieu_203_2024",
+      "target_id": "khainiem_khuhanhchinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_hanh_chinh"
+      "source_id": "dieu_203_2024",
+      "target_id": "chuthe_nhadautu",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "khainiem_khu_chuc_nang",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khu_chuc_nang_khac"
+      "source_id": "dieu_203_2024",
+      "target_id": "hanhviphaply_thanhlapkhukinhote",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thanh_lap"
+      "source_id": "dieu_203_2024",
+      "target_id": "hanhviphaply_morongkhukinhote",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thanh_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
+      "source_id": "dieu_203_2024",
+      "target_id": "chuthe_banquanlykhukinhote",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thanh_lap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_tinh_phe_duyet"
+      "source_id": "dieu_203_2024",
+      "target_id": "chuthe_donvitochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thanh_lap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_su_dung_dat_tiet_kiem_hieu_qua"
+      "source_id": "dieu_203_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_mo_rong"
+      "source_id": "dieu_203_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_mo_rong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "hanhviphaply_mo_rong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_tinh_phe_duyet"
-    },
-    {
-      "source_id": "hanhviphaply_mo_rong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_su_dung_dat_tiet_kiem_hieu_qua"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thu_hoi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giao_dat"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_ban_quan_ly_khu_kinh_te"
-    },
-    {
-      "source_id": "chuthe_ban_quan_ly_khu_kinh_te",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_phoi_hop"
-    },
-    {
-      "source_id": "hanhviphaply_phoi_hop",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_don_vi_thuc_hien_boi_thuong_giai_phong_mat_bang"
-    },
-    {
-      "source_id": "hanhviphaply_phoi_hop",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_thuc_hien_boi_thuong_giai_phong_mat_bang"
-    },
-    {
-      "source_id": "hanhviphaply_phoi_hop",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_thuc_hien_boi_thuong_ho_tro_tai_dinh_cu"
-    },
-    {
-      "source_id": "hanhviphaply_thuc_hien_boi_thuong_ho_tro_tai_dinh_cu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dien_tich_dat_thu_hoi_trong_khu_kinh_te"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_thoi_han_su_dung_dat_san_xuat_kinh_doanh_khu_kinh_te"
-    },
-    {
-      "source_id": "khainiem_thoi_han_su_dung_dat_san_xuat_kinh_doanh_khu_kinh_te",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_dieu_172_luat_nay"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nguoi_su_dung_dat_trong_khu_kinh_te"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat_trong_khu_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_nha_o"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_nha_o",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat_trong_khu_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat_trong_khu_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_san_xuat"
-    },
-    {
-      "source_id": "hanhviphaply_san_xuat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat_trong_khu_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_kinh_doanh"
-    },
-    {
-      "source_id": "hanhviphaply_kinh_doanh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat_trong_khu_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_hoat_dong_dich_vu"
-    },
-    {
-      "source_id": "hanhviphaply_hoat_dong_dich_vu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat_trong_khu_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyen_va_nghia_vu_theo_luat"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_khuyen_khich"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_kinh_te"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_che_do_su_dung_dat_trong_khu_kinh_te"
-    },
-    {
-      "source_id": "khainiem_che_do_su_dung_dat_trong_khu_kinh_te",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_tung_loai_dat"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyen_va_nghia_vu_nguoi_su_dung_dat_trong_khu_kinh_te"
-    },
-    {
-      "source_id": "khainiem_quyen_va_nghia_vu_nguoi_su_dung_dat_trong_khu_kinh_te",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_tung_loai_dat"
-    },
-    {
-      "source_id": "dieu_203",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_chinh_phu"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_203"
+      "source_id": "dieu_203_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

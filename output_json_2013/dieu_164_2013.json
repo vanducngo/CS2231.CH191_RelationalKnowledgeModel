@@ -1,136 +1,117 @@
 {
   "entities": [
     {
-      "id": "dieu_164",
-      "label": "ĐiềuLuật",
-      "name": "Điều 164"
+      "id": "dieu_164_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 164. Quản lý đất chưa sử dụng",
+        "ma_dieu": "164",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 164.\n\nQuản lý đất chưa sử dụng\n1. Ủy ban nhân dân cấp xã có trách nhiệm quản lý, bảo vệ đất chưa sử dụng tại địa phương và đăng ký\nvào hồ sơ địa chính.\n2. Ủy ban nhân dân cấp tỉnh quản lý đất chưa sử dụng tại các đảo chưa có người ở.\n3. Việc quản lý đất chưa sử dụng được thực hiện theo quy định của Chính phủ."
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "id": "khainiem_datchuasudung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất chưa sử dụng"
+      }
     },
     {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "id": "hanhviphaply_quanlybove",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quản lý, bảo vệ"
+      }
     },
     {
-      "id": "hanhviphaply_quan_ly_dat_chua_su_dung",
-      "label": "HànhViPhápLý",
-      "name": "Quản lý đất chưa sử dụng"
+      "id": "hanhviphaply_dangkyvaohosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "đăng ký vào hồ sơ địa chính"
+      }
     },
     {
-      "id": "hanhviphaply_bao_ve_dat_chua_su_dung",
-      "label": "HànhViPhápLý",
-      "name": "bảo vệ đất chưa sử dụng"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "hanhviphaply_dang_ky_vao_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "đăng ký vào hồ sơ địa chính"
+      "id": "khainiem_daochuaconguoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "các đảo chưa có người ở"
+      }
     },
     {
-      "id": "khaikiem_dat_chua_su_dung",
-      "label": "KháiNiệm",
-      "name": "đất chưa sử dụng"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "khaikiem_ho_so_dia_chinh",
-      "label": "KháiNiệm",
-      "name": "hồ sơ địa chính"
-    },
-    {
-      "id": "khaikiem_dao_chua_co_nguoi_o",
-      "label": "KháiNiệm",
-      "name": "các đảo chưa có người ở"
-    },
-    {
-      "id": "khaikiem_quy_dinh_cua_chinh_phu",
-      "label": "KháiNiệm",
-      "name": "quy định của Chính phủ"
-    },
-    {
-      "id": "dieukien_tai_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "tại địa phương"
-    },
-    {
-      "id": "dieukien_tai_cac_dao_chua_co_nguoi_o",
-      "label": "ĐiềuKiện",
-      "name": "tại các đảo chưa có người ở"
+      "id": "hanhviphaply_quanlydatchuasudung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý đất chưa sử dụng"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_164",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_dat_chua_su_dung"
+      "source_id": "dieu_164_2013",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quan_ly_dat_chua_su_dung"
+      "source_id": "chuthe_ubndcapxa",
+      "target_id": "hanhviphaply_quanlybove",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_bao_ve_dat_chua_su_dung"
+      "source_id": "chuthe_ubndcapxa",
+      "target_id": "hanhviphaply_dangkyvaohosodiachinh",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_dang_ky_vao_ho_so_dia_chinh"
+      "source_id": "dieu_164_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_dat_chua_su_dung"
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "khainiem_datchuasudung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_bao_ve_dat_chua_su_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_dat_chua_su_dung"
+      "source_id": "dieu_164_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dang_ky_vao_ho_so_dia_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_dat_chua_su_dung"
+      "source_id": "dieu_164_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dang_ky_vao_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_ho_so_dia_chinh"
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "khainiem_daochuaconguoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tai_dia_phuong"
-    },
-    {
-      "source_id": "hanhviphaply_bao_ve_dat_chua_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tai_dia_phuong"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quan_ly_dat_chua_su_dung"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tai_cac_dao_chua_co_nguoi_o"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_dat_chua_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_quy_dinh_cua_chinh_phu"
+      "source_id": "chuthe_ubndcaptinh",
+      "target_id": "hanhviphaply_quanlydatchuasudung",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

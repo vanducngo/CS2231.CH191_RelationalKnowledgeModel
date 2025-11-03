@@ -1,356 +1,196 @@
 {
   "entities": [
     {
-      "id": "dieu_216",
-      "name": "Điều 216",
-      "label": "ĐiềuLuật"
+      "id": "dieu_216_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 216. Đất xây dựng công trình ngầm",
+        "ma_dieu": "216",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 216.\n\nĐất xây dựng công trình ngầm\n1. Đất xây dựng công trình ngầm bao gồm đất xây dựng công trình trên mặt đất phục vụ cho việc vận\nhành, khai thác sử dụng công trình ngầm và không gian dưới lòng đất để xây dựng công trình trong lòng\nđất mà công trình này không phải là phần ngầm của công trình xây dựng trên mặt đất.\n2. Người sử dụng đất được chuyển nhượng, cho thuê, cho thuê lại không gian dưới lòng đất sau khi\nđược Nhà nước xác định theo quy định của pháp luật về xây dựng , pháp luật về quy hoạch đô thị , pháp\nluật về kiến trúc.\n3. Nhà nước khuyến khích các tổ chức, cá nhân sử dụng vốn, kỹ thuật, công nghệ thực hiện các dự án\nxây dựng công trình ngầm đồng thời có chính sách hỗ trợ, ưu đãi cho nhà đầu tư theo quy định của\npháp luật.\n4. Việc sử dụng đất xây dựng công trình ngầm phải bảo đảm các yêu cầu sau đây:\na) Bảo đảm quốc phòng, an ninh, bảo vệ môi trường, phát triển bền vững, bảo vệ di tích lịch sử - văn\nhóa, danh lam thắng cảnh;\nb) Phù hợp với quy hoạch xây dựng, quy hoạch đô thị;\nc) Bồi thường theo quy định của pháp luật đối với trường hợp gây thiệt hại đến việc sử dụng đất của\nngười sử dụng đất trên bề mặt của công trình ngầm;\nd) Việc xây dựng công trình ngầm phải được thực hiện theo dự án đầu tư hoặc hạng mục của dự án đầu\ntư theo quy định của pháp luật;\nđ) Tuân thủ quy định của pháp luật về xây dựng.\n5. Việc giao đất, cho thuê đất đối với đất xây dựng công trình trên mặt đất phục vụ cho việc vận hành,\nkhai thác sử dụng công trình ngầm được thực hiện theo quy định sau đây:\na) Giao đất không thu tiền sử dụng đất đối với trường hợp sử dụng đất xây dựng công trình trên mặt\nđất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm không nhằm mục đích kinh doanh;\nb) Cho thuê đất thu tiền thuê đất hằng năm đối với trường hợp sử dụng đất xây dựng công trình trên\nmặt đất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm nhằm mục đích kinh doanh. about:blank\n. Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây\ndựng công trình ngầm được thực hiện theo quy định sau đây:\na) Chủ đầu tư dự án xây dựng công trình ngầm được cấp Giấy chứng nhận quyền sử dụng đất, quyền\nsở hữu tài sản gắn liền với đất đối với diện tích đất xây dựng công trình trên mặt đất phục vụ cho việc\nvận hành, khai thác sử dụng công trình ngầm và được thực hiện quyền của người sử dụng đất theo quy\nđịnh của Luật này;\nb) Chủ đầu tư dự án xây dựng công trình ngầm được chứng nhận quyền sở hữu đối với công trình\nngầm dưới mặt đất và thực hiện quyền của chủ sở hữu theo quy định của pháp luật.\n7. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "khainiem_dat_xay_dung_cong_trinh_ngam",
-      "name": "Đất xây dựng công trình ngầm",
-      "label": "KháiNiệm"
+      "id": "khainiem_datxaydungcongtrinhngam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình ngầm"
+      }
     },
     {
-      "id": "khainiem_dat_xay_dung_cong_trinh_tren_mat_dat_phuc_vu_cong_trinh_ngam",
-      "name": "đất xây dựng công trình trên mặt đất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm",
-      "label": "KháiNiệm"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_khong_gian_duoi_long_dat",
-      "name": "không gian dưới lòng đất",
-      "label": "KháiNiệm"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khainiem_cong_trinh_ngam",
-      "name": "công trình ngầm",
-      "label": "KháiNiệm"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
-      "label": "KháiNiệm"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "name": "Người sử dụng đất",
-      "label": "ChủThể"
+      "id": "chuthe_nhadautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà đầu tư"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "name": "Nhà nước",
-      "label": "ChủThể"
+      "id": "hanhviphaply_chuyennhuong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển nhượng"
+      }
     },
     {
-      "id": "chuthe_to_chuc",
-      "name": "tổ chức",
-      "label": "ChủThể"
+      "id": "hanhviphaply_chothue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê"
+      }
     },
     {
-      "id": "chuthe_ca_nhan",
-      "name": "cá nhân",
-      "label": "ChủThể"
+      "id": "hanhviphaply_chothuelaithue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê lại"
+      }
     },
     {
-      "id": "chuthe_nha_dau_tu",
-      "name": "nhà đầu tư",
-      "label": "ChủThể"
+      "id": "dieukien_baodamquocphonganminh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Bảo đảm quốc phòng, an ninh, bảo vệ môi trường, phát triển bền vững, bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      }
     },
     {
-      "id": "chuthe_chu_dau_tu_du_an_xay_dung_cong_trinh_ngam",
-      "name": "Chủ đầu tư dự án xây dựng công trình ngầm",
-      "label": "ChủThể"
+      "id": "dieukien_phuhopquyhoachxaydung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch xây dựng, quy hoạch đô thị"
+      }
     },
     {
-      "id": "chuthe_chinh_phu",
-      "name": "Chính phủ",
-      "label": "ChủThể"
+      "id": "dieukien_boithuong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Bồi thường theo quy định của pháp luật đối với trường hợp gây thiệt hại đến việc sử dụng đất của người sử dụng đất trên bề mặt của công trình ngầm"
+      }
     },
     {
-      "id": "hanhvi_chuyen_nhuong_khong_gian_duoi_long_dat",
-      "name": "chuyển nhượng không gian dưới lòng đất",
-      "label": "HànhViPhápLý"
+      "id": "dieukien_thuchiendautu",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Việc xây dựng công trình ngầm phải được thực hiện theo dự án đầu tư hoặc hạng mục của dự án đầu tư theo quy định của pháp luật"
+      }
     },
     {
-      "id": "hanhvi_cho_thue_khong_gian_duoi_long_dat",
-      "name": "cho thuê không gian dưới lòng đất",
-      "label": "HànhViPhápLý"
+      "id": "dieukien_tuantuphapluatxaydung",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tuân thủ quy định của pháp luật về xây dựng"
+      }
     },
     {
-      "id": "hanhvi_cho_thue_lai_khong_gian_duoi_long_dat",
-      "name": "cho thuê lại không gian dưới lòng đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_khuyen_khich_thuc_hien_du_an_cong_trinh_ngam",
-      "name": "khuyến khích thực hiện các dự án xây dựng công trình ngầm",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_ho_tro_uu_dai",
-      "name": "hỗ trợ, ưu đãi",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_su_dung_dat_xay_dung_cong_trinh_ngam",
-      "name": "sử dụng đất xây dựng công trình ngầm",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_giao_dat",
-      "name": "Giao đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_cho_thue_dat",
-      "name": "cho thuê đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_giao_dat_khong_thu_tien_su_dung_dat",
-      "name": "Giao đất không thu tiền sử dụng đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_cho_thue_dat_thu_tien_thue_dat_hang_nam",
-      "name": "Cho thuê đất thu tiền thuê đất hằng năm",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat_doi_voi_dien_tich_dat",
-      "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với diện tích đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat",
-      "name": "thực hiện quyền của người sử dụng đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_chung_nhan_quyen_so_huu_cong_trinh_ngam_duoi_mat_dat",
-      "name": "chứng nhận quyền sở hữu đối với công trình ngầm dưới mặt đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_thuc_hien_quyen_chu_so_huu",
-      "name": "thực hiện quyền của chủ sở hữu",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvi_quy_dinh_chi_tiet",
-      "name": "quy định chi tiết Điều này",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "dieukien_duoc_nha_nuoc_xac_dinh_theo_phap_luat_ve_xay_dung_quy_hoach_do_thi_kien_truc",
-      "name": "được Nhà nước xác định theo quy định của pháp luật về xây dựng , pháp luật về quy hoạch đô thị , pháp luật về kiến trúc",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_bao_dam_quoc_phong_an_ninh_moi_truong_phat_trien_ben_vung_di_tich",
-      "name": "Bảo đảm quốc phòng, an ninh, bảo vệ môi trường, phát triển bền vững, bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_phu_hop_quy_hoach_xay_dung_quy_hoach_do_thi",
-      "name": "Phù hợp với quy hoạch xây dựng, quy hoạch đô thị",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_boi_thuong_truong_hop_gay_thiet_hai",
-      "name": "Bồi thường theo quy định của pháp luật đối với trường hợp gây thiệt hại đến việc sử dụng đất của người sử dụng đất trên bề mặt của công trình ngầm",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_thuc_hien_theo_du_an_dau_tu_hoac_hang_muc_du_an_dau_tu",
-      "name": "thực hiện theo dự án đầu tư hoặc hạng mục của dự án đầu tư theo quy định của pháp luật",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tuan_thu_quy_dinh_phap_luat_ve_xay_dung",
-      "name": "Tuân thủ quy định của pháp luật về xây dựng",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_khong_nham_muc_dich_kinh_doanh",
-      "name": "không nhằm mục đích kinh doanh",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_nham_muc_dich_kinh_doanh",
-      "name": "nhằm mục đích kinh doanh",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_su_dung_von_ky_thuat_cong_nghe",
-      "name": "sử dụng vốn, kỹ thuật, công nghệ",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_khong_phai_phan_ngam_cua_cong_trinh_tren_mat_dat",
-      "name": "không phải là phần ngầm của công trình xây dựng trên mặt đất",
-      "label": "ĐiềuKiện"
+      "id": "chuthe_chudautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ đầu tư"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_216",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_xay_dung_cong_trinh_ngam"
+      "source_id": "dieu_216_2024",
+      "target_id": "khainiem_datxaydungcongtrinhngam",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_xay_dung_cong_trinh_ngam",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_xay_dung_cong_trinh_tren_mat_dat_phuc_vu_cong_trinh_ngam"
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_xay_dung_cong_trinh_ngam",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_khong_gian_duoi_long_dat"
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khong_gian_duoi_long_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_phai_phan_ngam_cua_cong_trinh_tren_mat_dat"
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_chuyen_nhuong_khong_gian_duoi_long_dat"
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_cho_thue_khong_gian_duoi_long_dat"
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_nhadautu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_cho_thue_lai_khong_gian_duoi_long_dat"
+      "source_id": "dieu_216_2024",
+      "target_id": "hanhviphaply_chuyennhuong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_chuyen_nhuong_khong_gian_duoi_long_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_nha_nuoc_xac_dinh_theo_phap_luat_ve_xay_dung_quy_hoach_do_thi_kien_truc"
+      "source_id": "dieu_216_2024",
+      "target_id": "hanhviphaply_chothue",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_cho_thue_khong_gian_duoi_long_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_nha_nuoc_xac_dinh_theo_phap_luat_ve_xay_dung_quy_hoach_do_thi_kien_truc"
+      "source_id": "dieu_216_2024",
+      "target_id": "hanhviphaply_chothuelaithue",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_cho_thue_lai_khong_gian_duoi_long_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_nha_nuoc_xac_dinh_theo_phap_luat_ve_xay_dung_quy_hoach_do_thi_kien_truc"
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_baodamquocphonganminh",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_khuyen_khich_thuc_hien_du_an_cong_trinh_ngam"
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_phuhopquyhoachxaydung",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_to_chuc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_khuyen_khich_thuc_hien_du_an_cong_trinh_ngam"
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_boithuong",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_khuyen_khich_thuc_hien_du_an_cong_trinh_ngam"
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_thuchiendautu",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhvi_khuyen_khich_thuc_hien_du_an_cong_trinh_ngam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_su_dung_von_ky_thuat_cong_nghe"
+      "source_id": "dieu_216_2024",
+      "target_id": "dieukien_tuantuphapluatxaydung",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_ho_tro_uu_dai"
-    },
-    {
-      "source_id": "hanhvi_ho_tro_uu_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_dau_tu"
-    },
-    {
-      "source_id": "hanhvi_su_dung_dat_xay_dung_cong_trinh_ngam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_quoc_phong_an_ninh_moi_truong_phat_trien_ben_vung_di_tich"
-    },
-    {
-      "source_id": "hanhvi_su_dung_dat_xay_dung_cong_trinh_ngam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_xay_dung_quy_hoach_do_thi"
-    },
-    {
-      "source_id": "hanhvi_su_dung_dat_xay_dung_cong_trinh_ngam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_boi_thuong_truong_hop_gay_thiet_hai"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_ngam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_thuc_hien_theo_du_an_dau_tu_hoac_hang_muc_du_an_dau_tu"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_ngam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_tuan_thu_quy_dinh_phap_luat_ve_xay_dung"
-    },
-    {
-      "source_id": "dieu_216",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giao_dat"
-    },
-    {
-      "source_id": "dieu_216",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhvi_giao_dat_khong_thu_tien_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_nham_muc_dich_kinh_doanh"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_dat_thu_tien_thue_dat_hang_nam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nham_muc_dich_kinh_doanh"
-    },
-    {
-      "source_id": "dieu_216",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "chuthe_chu_dau_tu_du_an_xay_dung_cong_trinh_ngam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat_doi_voi_dien_tich_dat"
-    },
-    {
-      "source_id": "chuthe_chu_dau_tu_du_an_xay_dung_cong_trinh_ngam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_thuc_hien_quyen_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_chu_dau_tu_du_an_xay_dung_cong_trinh_ngam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_chung_nhan_quyen_so_huu_cong_trinh_ngam_duoi_mat_dat"
-    },
-    {
-      "source_id": "chuthe_chu_dau_tu_du_an_xay_dung_cong_trinh_ngam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_thuc_hien_quyen_chu_so_huu"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhvi_quy_dinh_chi_tiet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_216"
+      "source_id": "dieu_216_2024",
+      "target_id": "chuthe_chudautu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

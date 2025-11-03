@@ -1,181 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_17",
-      "label": "ĐiềuLuật",
-      "name": "Điều 17"
+      "id": "dieu_17_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 17. Bảo đảm của Nhà nước đối với người sử dụng đất",
+        "ma_dieu": "17",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 17.\n\nBảo đảm của Nhà nước đối với người sử dụng đất\n1. Nhà nước bảo hộ quyền sử dụng đất và tài sản gắn liền với đất hợp pháp của người sử dụng đất.\n2. Nhà nước không thừa nhận việc đòi lại đất đã được giao theo quy định của Nhà nước cho người khác\nsử dụng trong quá trình thực hiện chính sách đất đai của Nhà nước Việt Nam dân chủ cộng hòa, Chính\nphủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt\nNam."
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_bao_ho",
-      "label": "HànhViPhápLý",
-      "name": "bảo hộ"
+      "id": "hanhviphaply_baohoquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "bảo hộ quyền sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "quyền sử dụng đất"
+      "id": "hanhviphaply_taisanganlienvoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "khainiem_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "tài sản gắn liền với đất"
-    },
-    {
-      "id": "dieukien_hop_phap",
-      "label": "ĐiềuKiện",
-      "name": "hợp pháp"
-    },
-    {
-      "id": "hanhviphaply_khong_thua_nhan",
-      "label": "HànhViPhápLý",
-      "name": "không thừa nhận"
-    },
-    {
-      "id": "hanhviphaply_doi_lai_dat",
-      "label": "HànhViPhápLý",
-      "name": "đòi lại đất"
-    },
-    {
-      "id": "khainiem_dat_da_duoc_giao",
-      "label": "KháiNiệm",
-      "name": "đất đã được giao"
-    },
-    {
-      "id": "dieukien_theo_quy_dinh_cua_nha_nuoc",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của Nhà nước"
-    },
-    {
-      "id": "chuthe_nguoi_duoc_giao_su_dung",
-      "label": "ChủThể",
-      "name": "người được giao sử dụng"
-    },
-    {
-      "id": "dieukien_trong_qua_trinh_thuc_hien_chinh_sach_dat_dai",
-      "label": "ĐiềuKiện",
-      "name": "trong quá trình thực hiện chính sách đất đai"
-    },
-    {
-      "id": "khainiem_chinh_sach_dat_dai",
-      "label": "KháiNiệm",
-      "name": "chính sách đất đai"
-    },
-    {
-      "id": "chuthe_nha_nuoc_viet_nam_dan_chu_cong_hoa",
-      "label": "ChủThể",
-      "name": "Nhà nước Việt Nam dân chủ cộng hòa"
-    },
-    {
-      "id": "chuthe_chinh_phu_cach_mang_lam_thoi_cong_hoa_mien_nam_viet_nam",
-      "label": "ChủThể",
-      "name": "Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam"
-    },
-    {
-      "id": "chuthe_nha_nuoc_cong_hoa_xa_hoi_chu_nghia_viet_nam",
-      "label": "ChủThể",
-      "name": "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+      "id": "hanhviphaply_khongthuanhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "không thừa nhận việc đòi lại đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_17",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_bao_ho"
+      "source_id": "dieu_17_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_bao_ho"
+      "source_id": "dieu_17_2024",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_bao_ho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyen_su_dung_dat"
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_baohoquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_bao_ho",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tai_san_gan_lien_voi_dat"
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_taisanganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hop_phap"
-    },
-    {
-      "source_id": "khainiem_tai_san_gan_lien_voi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hop_phap"
-    },
-    {
-      "source_id": "hanhviphaply_bao_ho",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "dieu_17",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_khong_thua_nhan"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_khong_thua_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_khong_thua_nhan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_doi_lai_dat"
-    },
-    {
-      "source_id": "hanhviphaply_doi_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_da_duoc_giao"
-    },
-    {
-      "source_id": "khainiem_dat_da_duoc_giao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_cua_nha_nuoc"
-    },
-    {
-      "source_id": "khainiem_dat_da_duoc_giao",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_duoc_giao_su_dung"
-    },
-    {
-      "source_id": "khainiem_dat_da_duoc_giao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_qua_trinh_thuc_hien_chinh_sach_dat_dai"
-    },
-    {
-      "source_id": "dieukien_trong_qua_trinh_thuc_hien_chinh_sach_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chinh_sach_dat_dai"
-    },
-    {
-      "source_id": "khainiem_chinh_sach_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc_viet_nam_dan_chu_cong_hoa"
-    },
-    {
-      "source_id": "khainiem_chinh_sach_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinh_phu_cach_mang_lam_thoi_cong_hoa_mien_nam_viet_nam"
-    },
-    {
-      "source_id": "khainiem_chinh_sach_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc_cong_hoa_xa_hoi_chu_nghia_viet_nam"
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_khongthuanhan",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

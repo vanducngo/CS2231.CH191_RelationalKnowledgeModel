@@ -1,691 +1,676 @@
 {
   "entities": [
     {
-      "id": "dieu_9",
-      "label": "ĐiềuLuật",
-      "name": "Điều 9"
+      "id": "dieu_9_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Phân loại đất",
+        "ma_dieu": "9",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 9.\n\nPhân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi\nnông nghiệp, nhóm đất chưa sử dụng.\n2. Nhóm đất nông nghiệp bao gồm các loại đất sau đây:\na) Đất trồng cây hằng năm, gồm đất trồng lúa và đất trồng cây hằng năm khác;\nb) Đất trồng cây lâu năm;\nc) Đất lâm nghiệp, gồm đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất;\nd) Đất nuôi trồng thủy sản;\nđ) Đất chăn nuôi tập trung;\ne) Đất làm muối;\ng) Đất nông nghiệp khác.\n3. Nhóm đất phi nông nghiệp bao gồm các loại đất sau đây:\na) Đất ở, gồm đất ở tại nông thôn, đất ở tại đô thị;\nb) Đất xây dựng trụ sở cơ quan;\nc) Đất sử dụng vào mục đích quốc phòng, an ninh (sau đây gọi là đất quốc phòng, an ninh); about:blank\nd) Đất xây dựng công trình sự nghiệp, gồm: đất xây dựng cơ sở văn hóa, xã hội, y tế, giáo dục và đào\ntạo, thể dục, thể thao, khoa học và công nghệ, môi trường, khí tượng thủy văn, ngoại giao và công trình\nsự nghiệp khác hoặc đất xây dựng trụ sở của đơn vị sự nghiệp công lập khác;\nđ) Đất sản xuất, kinh doanh phi nông nghiệp, gồm: đất khu công nghiệp, cụm công nghiệp; đất thương\nmại, dịch vụ; đất cơ sở sản xuất phi nông nghiệp; đất sử dụng cho hoạt động khoáng sản;\ne) Đất sử dụng vào mục đích công cộng, gồm: đất công trình giao thông; đất công trình thủy lợi; đất\ncông trình cấp nước, thoát nước; đất công trình phòng, chống thiên tai; đất có di tích lịch sử - văn hóa,\ndanh lam thắng cảnh, di sản thiên nhiên; đất công trình xử lý chất thải; đất công trình năng lượng , chiếu\nsáng công cộng ; đất công trình hạ tầng bưu chính, viễn thông, công nghệ thông tin; đất chợ dân sinh,\nchợ đầu mối; đất khu vui chơi, giải trí công cộng, sinh hoạt cộng đồng;\ng) Đất sử dụng cho hoạt động tôn giáo (sau đây gọi là đất tôn giáo); đất sử dụng cho hoạt động tín\nngưỡng (sau đây gọi là đất tín ngưỡng);\nh) Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt;\ni) Đất có mặt nước chuyên dùng;\nk) Đất phi nông nghiệp khác.\n4. Nhóm đất chưa sử dụng là đất chưa xác định mục đích sử dụng và chưa giao, chưa cho thuê.\n5. Chính phủ quy định chi tiết các loại đất tại Điều này ."
+      }
     },
     {
-      "id": "khainiem_phanloaidat",
-      "label": "KháiNiệm",
-      "name": "Phân loại đất"
-    },
-    {
-      "id": "dieukien_mucdichsudung",
-      "label": "ĐiềuKiện",
-      "name": "mục đích sử dụng"
+      "id": "khainiem_datdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất đai"
+      }
     },
     {
       "id": "khainiem_nhomdatnongnghiep",
-      "label": "KháiNiệm",
-      "name": "nhóm đất nông nghiệp"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhóm đất nông nghiệp"
+      }
     },
     {
       "id": "khainiem_nhomdatphinongnghiep",
-      "label": "KháiNiệm",
-      "name": "nhóm đất phi nông nghiệp"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhóm đất phi nông nghiệp"
+      }
     },
     {
       "id": "khainiem_nhomdatchuasudung",
-      "label": "KháiNiệm",
-      "name": "nhóm đất chưa sử dụng"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhóm đất chưa sử dụng"
+      }
     },
     {
       "id": "khainiem_dattrongcayhangnam",
-      "label": "KháiNiệm",
-      "name": "Đất trồng cây hằng năm"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng cây hằng năm"
+      }
     },
     {
       "id": "khainiem_dattronglua",
-      "label": "KháiNiệm",
-      "name": "đất trồng lúa"
-    },
-    {
-      "id": "khainiem_dattrongcayhangnamkhac",
-      "label": "KháiNiệm",
-      "name": "đất trồng cây hằng năm khác"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất trồng lúa"
+      }
     },
     {
       "id": "khainiem_dattrongcaylaunam",
-      "label": "KháiNiệm",
-      "name": "Đất trồng cây lâu năm"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng cây lâu năm"
+      }
     },
     {
       "id": "khainiem_datlamnghiep",
-      "label": "KháiNiệm",
-      "name": "Đất lâm nghiệp"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất lâm nghiệp"
+      }
     },
     {
       "id": "khainiem_datrungdacdung",
-      "label": "KháiNiệm",
-      "name": "đất rừng đặc dụng"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất rừng đặc dụng"
+      }
     },
     {
       "id": "khainiem_datrungphongho",
-      "label": "KháiNiệm",
-      "name": "đất rừng phòng hộ"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất rừng phòng hộ"
+      }
     },
     {
       "id": "khainiem_datrungsanxuat",
-      "label": "KháiNiệm",
-      "name": "đất rừng sản xuất"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất rừng sản xuất"
+      }
     },
     {
       "id": "khainiem_datnuoitrongthuysan",
-      "label": "KháiNiệm",
-      "name": "Đất nuôi trồng thủy sản"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nuôi trồng thủy sản"
+      }
     },
     {
       "id": "khainiem_datchannuoitaptrung",
-      "label": "KháiNiệm",
-      "name": "Đất chăn nuôi tập trung"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất chăn nuôi tập trung"
+      }
     },
     {
       "id": "khainiem_datlammuoi",
-      "label": "KháiNiệm",
-      "name": "Đất làm muối"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất làm muối"
+      }
     },
     {
       "id": "khainiem_datnongnghiepkhac",
-      "label": "KháiNiệm",
-      "name": "Đất nông nghiệp khác"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nông nghiệp khác"
+      }
     },
     {
       "id": "khainiem_dato",
-      "label": "KháiNiệm",
-      "name": "Đất ở"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
     },
     {
-      "id": "khainiem_datotainongthon",
-      "label": "KháiNiệm",
-      "name": "đất ở tại nông thôn"
+      "id": "khainiem_datatnongthon",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất ở tại nông thôn"
+      }
     },
     {
-      "id": "khainiem_datotaidothi",
-      "label": "KháiNiệm",
-      "name": "đất ở tại đô thị"
+      "id": "khainiem_datatdothi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất ở tại đô thị"
+      }
     },
     {
       "id": "khainiem_datxaydungtrusocoquan",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng trụ sở cơ quan"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng trụ sở cơ quan"
+      }
     },
     {
-      "id": "khainiem_datsudungvaomucdichquocphongan",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng vào mục đích quốc phòng, an ninh"
-    },
-    {
-      "id": "khainiem_datquocphongan",
-      "label": "KháiNiệm",
-      "name": "đất quốc phòng, an ninh"
+      "id": "khainiem_datsudungvaomucdichquocphongan_ninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích quốc phòng, an ninh"
+      }
     },
     {
       "id": "khainiem_datxaydungcongtrinhsunghiep",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng công trình sự nghiệp"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình sự nghiệp"
+      }
     },
     {
-      "id": "khainiem_datxaydungcosovanhoa",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở văn hóa"
+      "id": "khainiem_datxaydungcosovanhoaxahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất xây dựng cơ sở văn hóa, xã hội"
+      }
     },
     {
-      "id": "khainiem_datxaydungcosoxahoi",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở xã hội"
-    },
-    {
-      "id": "khainiem_datxaydungcosoyte",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở y tế"
+      "id": "khainiem_datxaydungcosoytexaydungcosoyte",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất xây dựng cơ sở y tế"
+      }
     },
     {
       "id": "khainiem_datxaydungcosogiaoducvadaotao",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở giáo dục và đào tạo"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất xây dựng cơ sở giáo dục và đào tạo"
+      }
     },
     {
-      "id": "khainiem_datxaydungcosothedocthethao",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở thể dục, thể thao"
+      "id": "khainiem_datxaydungcosotheducthethao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất xây dựng cơ sở thể dục, thể thao"
+      }
     },
     {
       "id": "khainiem_datxaydungcosokhoahocvacongnghe",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở khoa học và công nghệ"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất xây dựng cơ sở khoa học và công nghệ"
+      }
     },
     {
       "id": "khainiem_datxaydungcosomoitruong",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở môi trường"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất xây dựng cơ sở môi trường"
+      }
     },
     {
       "id": "khainiem_datxaydungcosokhituongthuyvan",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở khí tượng thủy văn"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất xây dựng cơ sở khí tượng thủy văn"
+      }
     },
     {
-      "id": "khainiem_datxaydungcosongoaigiao",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở ngoại giao"
+      "id": "khainiem_datxaydungcosongoaidiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất xây dựng cơ sở ngoại giao"
+      }
     },
     {
-      "id": "khainiem_congtrinhsunghiepkhac",
-      "label": "KháiNiệm",
-      "name": "công trình sự nghiệp khác"
-    },
-    {
-      "id": "khainiem_datxaydungtrusodovsvclkhac",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng trụ sở của đơn vị sự nghiệp công lập khác"
+      "id": "khainiem_datxaydungtrusocuasunghiepconglap",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất xây dựng trụ sở của đơn vị sự nghiệp công lập khác"
+      }
     },
     {
       "id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
-      "label": "KháiNiệm",
-      "name": "Đất sản xuất, kinh doanh phi nông nghiệp"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sản xuất, kinh doanh phi nông nghiệp"
+      }
     },
     {
       "id": "khainiem_datkhucongnghiep",
-      "label": "KháiNiệm",
-      "name": "đất khu công nghiệp"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất khu công nghiệp"
+      }
     },
     {
       "id": "khainiem_datcumcongnghiep",
-      "label": "KháiNiệm",
-      "name": "đất cụm công nghiệp"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất cụm công nghiệp"
+      }
     },
     {
       "id": "khainiem_datthuongmaidichvu",
-      "label": "KháiNiệm",
-      "name": "đất thương mại, dịch vụ"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất thương mại, dịch vụ"
+      }
     },
     {
       "id": "khainiem_datcososanxuatphinongnghiep",
-      "label": "KháiNiệm",
-      "name": "đất cơ sở sản xuất phi nông nghiệp"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất cơ sở sản xuất phi nông nghiệp"
+      }
     },
     {
       "id": "khainiem_datsudungchohoatdongkhoangsan",
-      "label": "KháiNiệm",
-      "name": "đất sử dụng cho hoạt động khoáng sản"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất sử dụng cho hoạt động khoáng sản"
+      }
     },
     {
-      "id": "khainiem_datsudungvaomucdichcongcong",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng vào mục đích công cộng"
+      "id": "khainiem_datsudungvaomucdichconggong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng vào mục đích công cộng"
+      }
     },
     {
       "id": "khainiem_datcongtrinhgiaothong",
-      "label": "KháiNiệm",
-      "name": "đất công trình giao thông"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất công trình giao thông"
+      }
     },
     {
-      "id": "khainiem_datcongtrinhthuylloi",
-      "label": "KháiNiệm",
-      "name": "đất công trình thủy lợi"
+      "id": "khainiem_datcongtrinhthuyloi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất công trình thủy lợi"
+      }
     },
     {
       "id": "khainiem_datcongtrinhcapnuocthoatnuoc",
-      "label": "KháiNiệm",
-      "name": "đất công trình cấp nước, thoát nước"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất công trình cấp nước, thoát nước"
+      }
     },
     {
       "id": "khainiem_datcongtrinhphongchongthientai",
-      "label": "KháiNiệm",
-      "name": "đất công trình phòng, chống thiên tai"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất công trình phòng, chống thiên tai"
+      }
     },
     {
-      "id": "khainiem_datcoditichls_vh_dltc_ds_tn",
-      "label": "KháiNiệm",
-      "name": "đất có di tích lịch sử - văn hóa, danh lam thắng cảnh, di sản thiên nhiên"
+      "id": "khainiem_datcotichlichsuvanhoadanhlamthangcanhdisanthiennhien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất có di tích lịch sử - văn hóa, danh lam thắng cảnh, di sản thiên nhiên"
+      }
     },
     {
       "id": "khainiem_datcongtrinhxulychatthai",
-      "label": "KháiNiệm",
-      "name": "đất công trình xử lý chất thải"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất công trình xử lý chất thải"
+      }
     },
     {
-      "id": "khainiem_datcongtrinhnangluong",
-      "label": "KháiNiệm",
-      "name": "đất công trình năng lượng"
+      "id": "khainiem_datcongtrinhenergi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất công trình năng lượng"
+      }
     },
     {
       "id": "khainiem_datchieusangcongcong",
-      "label": "KháiNiệm",
-      "name": "đất chiếu sáng công cộng"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất chiếu sáng công cộng"
+      }
     },
     {
-      "id": "khainiem_datcongtrinhhatangbcvttcntt",
-      "label": "KháiNiệm",
-      "name": "đất công trình hạ tầng bưu chính, viễn thông, công nghệ thông tin"
+      "id": "khainiem_dathatangbuuchinhvienthongcongnghethongtin",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất công trình hạ tầng bưu chính, viễn thông, công nghệ thông tin"
+      }
     },
     {
-      "id": "khainiem_datchodansinh",
-      "label": "KháiNiệm",
-      "name": "đất chợ dân sinh"
+      "id": "khainiem_datchodansinhchodau",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất chợ dân sinh, chợ đầu mối"
+      }
     },
     {
-      "id": "khainiem_datchodaumoi",
-      "label": "KháiNiệm",
-      "name": "đất chợ đầu mối"
-    },
-    {
-      "id": "khainiem_datkhuvuichoigiaitricongcongsinhoatcongdong",
-      "label": "KháiNiệm",
-      "name": "đất khu vui chơi, giải trí công cộng, sinh hoạt cộng đồng"
+      "id": "khainiem_datkhuvuichoaigiaitricongcongsinhhoatcongdong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất khu vui chơi, giải trí công cộng, sinh hoạt cộng đồng"
+      }
     },
     {
       "id": "khainiem_datsudungchohoatdongtongiao",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng cho hoạt động tôn giáo"
-    },
-    {
-      "id": "khainiem_dattongiao",
-      "label": "KháiNiệm",
-      "name": "đất tôn giáo"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho hoạt động tôn giáo"
+      }
     },
     {
       "id": "khainiem_datsudungchohoatdongtinnguong",
-      "label": "KháiNiệm",
-      "name": "đất sử dụng cho hoạt động tín ngưỡng"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho hoạt động tín ngưỡng"
+      }
     },
     {
-      "id": "khainiem_dattinnguong",
-      "label": "KháiNiệm",
-      "name": "đất tín ngưỡng"
+      "id": "khainiem_datnghiatrangnhatanglecosohoatang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng"
+      }
     },
     {
-      "id": "khainiem_datnghiatrang",
-      "label": "KháiNiệm",
-      "name": "Đất nghĩa trang"
-    },
-    {
-      "id": "khainiem_datnhatangle",
-      "label": "KháiNiệm",
-      "name": "nhà tang lễ"
-    },
-    {
-      "id": "khainiem_datcosohoatang",
-      "label": "KháiNiệm",
-      "name": "cơ sở hỏa táng"
-    },
-    {
-      "id": "khainiem_datcosolugiutrocot",
-      "label": "KháiNiệm",
-      "name": "đất cơ sở lưu giữ tro cốt"
+      "id": "khainiem_datcosoluutrocot",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất cơ sở lưu giữ tro cốt"
+      }
     },
     {
       "id": "khainiem_datcomatnuocchuyendung",
-      "label": "KháiNiệm",
-      "name": "Đất có mặt nước chuyên dùng"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có mặt nước chuyên dùng"
+      }
     },
     {
       "id": "khainiem_datphinongnghiepkhac",
-      "label": "KháiNiệm",
-      "name": "Đất phi nông nghiệp khác"
-    },
-    {
-      "id": "khainiem_datcxacdinhmdsd",
-      "label": "KháiNiệm",
-      "name": "đất chưa xác định mục đích sử dụng"
-    },
-    {
-      "id": "dieukien_chuagiaochuachothue",
-      "label": "ĐiềuKiện",
-      "name": "chưa giao, chưa cho thuê"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất phi nông nghiệp khác"
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhvi_quydinhchitiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_9",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_phanloaidat"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_phanloaidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_mucdichsudung"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_nhomdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_phanloaidat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nhomdatnongnghiep"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_nhomdatphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_phanloaidat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nhomdatphinongnghiep"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_nhomdatchuasudung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_phanloaidat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nhomdatchuasudung"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_dattrongcayhangnam",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatnongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dattrongcayhangnam"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_dattronglua",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dattrongcayhangnam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dattronglua"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_dattrongcaylaunam",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dattrongcayhangnam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dattrongcayhangnamkhac"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datlamnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatnongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dattrongcaylaunam"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatnongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datlamnghiep"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datlamnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datrungdacdung"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datlamnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datrungphongho"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datnuoitrongthuysan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datlamnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datrungsanxuat"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datchannuoitaptrung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatnongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datnuoitrongthuysan"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datlammuoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatnongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datchannuoitaptrung"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datnongnghiepkhac",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatnongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datlammuoi"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_dato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatnongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datnongnghiepkhac"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datatnongthon",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dato"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datatdothi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dato",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datotainongthon"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungtrusocoquan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dato",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datotaidothi"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datsudungvaomucdichquocphongan_ninh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungtrusocoquan"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungcongtrinhsunghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datsudungvaomucdichquocphongan"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungcosovanhoaxahoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichquocphongan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datquocphongan"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungcosoytexaydungcosoyte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcongtrinhsunghiep"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungcosogiaoducvadaotao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcosovanhoa"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungcosotheducthethao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcosoxahoi"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungcosokhoahocvacongnghe",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcosoyte"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungcosomoitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcosogiaoducvadaotao"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungcosokhituongthuyvan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcosothedocthethao"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungcosongoaidiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcosokhoahocvacongnghe"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datxaydungtrusocuasunghiepconglap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcosomoitruong"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcosokhituongthuyvan"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datkhucongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungcosongoaigiao"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcumcongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_congtrinhsunghiepkhac"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datthuongmaidichvu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datxaydungcongtrinhsunghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datxaydungtrusodovsvclkhac"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcososanxuatphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datsanxuatkinhdoanhphinongnghiep"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datsudungchohoatdongkhoangsan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datkhucongnghiep"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datsudungvaomucdichconggong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcumcongnghiep"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcongtrinhgiaothong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datthuongmaidichvu"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcongtrinhthuyloi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcososanxuatphinongnghiep"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcongtrinhcapnuocthoatnuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsanxuatkinhdoanhphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datsudungchohoatdongkhoangsan"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcongtrinhphongchongthientai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datsudungvaomucdichcongcong"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcotichlichsuvanhoadanhlamthangcanhdisanthiennhien",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcongtrinhgiaothong"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcongtrinhxulychatthai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcongtrinhthuylloi"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcongtrinhenergi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcongtrinhcapnuocthoatnuoc"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datchieusangcongcong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcongtrinhphongchongthientai"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_dathatangbuuchinhvienthongcongnghethongtin",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcoditichls_vh_dltc_ds_tn"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datchodansinhchodau",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcongtrinhxulychatthai"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datkhuvuichoaigiaitricongcongsinhhoatcongdong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcongtrinhnangluong"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datsudungchohoatdongtongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datchieusangcongcong"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datsudungchohoatdongtinnguong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcongtrinhhatangbcvttcntt"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datnghiatrangnhatanglecosohoatang",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datchodansinh"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcosoluutrocot",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datchodaumoi"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datcomatnuocchuyendung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_datsudungvaomucdichcongcong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datkhuvuichoigiaitricongcongsinhoatcongdong"
+      "source_id": "dieu_9_2024",
+      "target_id": "khainiem_datphinongnghiepkhac",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datsudungchohoatdongtongiao"
-    },
-    {
-      "source_id": "khainiem_datsudungchohoatdongtongiao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dattongiao"
-    },
-    {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datsudungchohoatdongtinnguong"
-    },
-    {
-      "source_id": "khainiem_datsudungchohoatdongtinnguong",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dattinnguong"
-    },
-    {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datnghiatrang"
-    },
-    {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datnhatangle"
-    },
-    {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcosohoatang"
-    },
-    {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcosolugiutrocot"
-    },
-    {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcomatnuocchuyendung"
-    },
-    {
-      "source_id": "khainiem_nhomdatphinongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datphinongnghiepkhac"
-    },
-    {
-      "source_id": "khainiem_nhomdatchuasudung",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datcxacdinhmdsd"
-    },
-    {
-      "source_id": "khainiem_nhomdatchuasudung",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "dieukien_chuagiaochuachothue"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_quydinhchitiet"
-    },
-    {
-      "source_id": "hanhvi_quydinhchitiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_9"
+      "source_id": "dieu_9_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

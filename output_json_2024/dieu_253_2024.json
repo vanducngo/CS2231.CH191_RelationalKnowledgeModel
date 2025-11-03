@@ -1,164 +1,64 @@
 {
-  "graph_id": "knowledge_graph_dieu_253_ldd_2024",
-  "nodes": [
+  "entities": [
     {
-      "id": "dieu_253",
-      "label": "ĐiềuLuật",
+      "id": "dieu_253_2024",
+      "label": "DieuLuat",
       "properties": {
-        "ten": "Quy định chuyển tiếp về quy hoạch, kế hoạch sử dụng đất khi Luật này có hiệu lực thi hành",
-        "sohieu": "253",
-        "ten_luat": "Luật Đất đai 2024"
+        "name": "Điều 253. Quy định chuyển tiếp về quy hoạch, kế hoạch sử dụng đất khi Luật này có hiệu lực thi hành",
+        "ma_dieu": "253",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 253.\n\nQuy định chuyển tiếp về quy hoạch, kế hoạch sử dụng đất khi Luật này có hiệu lực thi\nhành\n1. Quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền quyết định, phê duyệt\ntrước ngày Luật này có hiệu lực thi hành thì được tiếp tục thực hiện và được điều chỉnh khi rà soát quy\nhoạch, kế hoạch sử dụng đất theo quy định tại Điều 73 của Luật này .\n2. Đối với địa phương đã được phê duyệt quy hoạch tỉnh thời kỳ 2021 - 2030 theo quy định của pháp\nluật về quy hoạch trước ngày Luật này có hiệu lực thi hành thì được tiếp tục sử dụng phương án phân\nbổ và khoanh vùng đất đai trong quy hoạch tỉnh để thực hiện công tác quản lý đất đai cho đến hết kỳ\nquy hoạch. Việc điều chỉnh quy hoạch tỉnh thực hiện theo quy định của  Luật Quy hoạch số\n21/2017/QH14 ."
       }
     },
     {
-      "id": "khainiem_quyhoachkehoachsudungdat",
-      "label": "KháiNiệm",
+      "id": "khainiem_quyhoach",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Quy hoạch, kế hoạch sử dụng đất"
+        "name": "Quy hoạch"
       }
     },
     {
-      "id": "chuthe_coquannhanuoccothamquyen",
-      "label": "ChủThể",
+      "id": "khainiem_kehoachsudungdat",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Cơ quan nhà nước có thẩm quyền"
+        "name": "Kế hoạch sử dụng đất"
       }
     },
     {
-      "id": "dieukien_daduoquyetdinhpheduyettruocngayluatcohieuluc",
-      "label": "ĐiềuKiện",
+      "id": "chuthe_coquannhanuoc",
+      "label": "ChuThe",
       "properties": {
-        "ten": "Quy hoạch, kế hoạch sử dụng đất đã được quyết định, phê duyệt trước ngày Luật Đất đai 2024 có hiệu lực thi hành"
+        "name": "Cơ quan nhà nước"
       }
     },
     {
-      "id": "hanhviphaply_tieptucthuchien",
-      "label": "HànhViPhápLý",
+      "id": "dieukien_luatnaycohieulucthihanh",
+      "label": "DieuKien",
       "properties": {
-        "ten": "Tiếp tục thực hiện quy hoạch, kế hoạch sử dụng đất"
-      }
-    },
-    {
-      "id": "hanhviphaply_dieuchinhquyhoachkehoachsudungdat",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "ten": "Điều chỉnh quy hoạch, kế hoạch sử dụng đất"
-      }
-    },
-    {
-      "id": "dieu_73",
-      "label": "ĐiềuLuật",
-      "properties": {
-        "ten": "Điều 73 của Luật Đất đai 2024",
-        "sohieu": "73",
-        "ten_luat": "Luật Đất đai 2024"
-      }
-    },
-    {
-      "id": "chuthe_diaphuong",
-      "label": "ChủThể",
-      "properties": {
-        "ten": "Địa phương"
-      }
-    },
-    {
-      "id": "khainiem_quyhoachtinh",
-      "label": "KháiNiệm",
-      "properties": {
-        "ten": "Quy hoạch tỉnh thời kỳ 2021 - 2030"
-      }
-    },
-    {
-      "id": "dieukien_daduocpheduyetquyhoachtinh",
-      "label": "ĐiềuKiện",
-      "properties": {
-        "ten": "Đã được phê duyệt quy hoạch tỉnh trước ngày Luật Đất đai 2024 có hiệu lực thi hành"
-      }
-    },
-    {
-      "id": "khainiem_phuonganphanbovakhoanhvungdatdai",
-      "label": "KháiNiệm",
-      "properties": {
-        "ten": "Phương án phân bổ và khoanh vùng đất đai trong quy hoạch tỉnh"
-      }
-    },
-    {
-      "id": "hanhviphaply_tieptucsudungphuonganphanbo",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "ten": "Tiếp tục sử dụng phương án phân bổ và khoanh vùng đất đai"
-      }
-    },
-    {
-      "id": "hanhviphaply_dieuchinhquyhoachtinh",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "ten": "Điều chỉnh quy hoạch tỉnh"
-      }
-    },
-    {
-      "id": "dieu_luatquyhoachso212017qh14",
-      "label": "ĐiềuLuật",
-      "properties": {
-        "ten": "Luật Quy hoạch số 21/2017/QH14"
+        "name": "Luật này có hiệu lực thi hành"
       }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_253",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyhoachkehoachsudungdat"
+      "source_id": "dieu_253_2024",
+      "target_id": "khainiem_quyhoach",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_253",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tieptucthuchien"
+      "source_id": "dieu_253_2024",
+      "target_id": "khainiem_kehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_253",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dieuchinhquyhoachkehoachsudungdat"
+      "source_id": "dieu_253_2024",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_daduoquyetdinhpheduyettruocngayluatcohieuluc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_tieptucthuchien"
-    },
-    {
-      "source_id": "hanhviphaply_dieuchinhquyhoachkehoachsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_73"
-    },
-    {
-      "source_id": "dieu_253",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_diaphuong"
-    },
-    {
-      "source_id": "dieu_253",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyhoachtinh"
-    },
-    {
-      "source_id": "dieukien_daduocpheduyetquyhoachtinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_tieptucsudungphuonganphanbo"
-    },
-    {
-      "source_id": "hanhviphaply_tieptucsudungphuonganphanbo",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phuonganphanbovakhoanhvungdatdai"
-    },
-    {
-      "source_id": "dieu_253",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dieuchinhquyhoachtinh"
-    },
-    {
-      "source_id": "hanhviphaply_dieuchinhquyhoachtinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_luatquyhoachso212017qh14"
+      "source_id": "dieu_253_2024",
+      "target_id": "dieukien_luatnaycohieulucthihanh",
+      "relationship_type": "AP_DUNG_CHO"
     }
   ]
 }

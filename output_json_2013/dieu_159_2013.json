@@ -1,206 +1,155 @@
 {
   "entities": [
     {
-      "id": "dieu_159",
-      "label": "ĐiềuLuật",
-      "text": "Điều 159"
+      "id": "dieu_159_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 159. Đất cơ sở tôn giáo",
+        "ma_dieu": "159",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 159.\n\nĐất cơ sở tôn giáo\n1. Đất cơ sở tôn giáo gồm đất thuộc chùa, nhà thờ, nhà nguyện, thánh thất, thánh đường, niệm phật\nđường, tu viện, trường đào tạo riêng của tôn giáo, trụ sở của tổ chức tôn giáo, các cơ sở khác của tôn\ngiáo được Nhà nước cho phép hoạt động.\n2. Ủy ban nhân dân cấp tỉnh căn cứ vào chính sách tôn giáo của Nhà nước, quy hoạch, kế hoạch sử\ndụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt quyết định diện tích đất giao cho cơ sở\ntôn giáo."
+      }
     },
     {
-      "id": "khainiem_dat_co_so_ton_giao",
-      "label": "KháiNiệm",
-      "text": "Đất cơ sở tôn giáo"
+      "id": "khainiem_datcosotongiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cơ sở tôn giáo"
+      }
     },
     {
-      "id": "khainiem_chua",
-      "label": "KháiNiệm",
-      "text": "chùa"
+      "id": "chuthe_chua",
+      "label": "ChuThe",
+      "properties": {
+        "name": "chùa"
+      }
     },
     {
-      "id": "khainiem_nha_tho",
-      "label": "KháiNiệm",
-      "text": "nhà thờ"
+      "id": "chuthe_nhatho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "nhà thờ"
+      }
     },
     {
-      "id": "khainiem_nha_nguyen",
-      "label": "KháiNiệm",
-      "text": "nhà nguyện"
+      "id": "chuthe_nhanguyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "nhà nguyện"
+      }
     },
     {
-      "id": "khainiem_thanh_that",
-      "label": "KháiNiệm",
-      "text": "thánh thất"
+      "id": "chuthe_thanhthat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "thánh thất"
+      }
     },
     {
-      "id": "khainiem_thanh_duong",
-      "label": "KháiNiệm",
-      "text": "thánh đường"
+      "id": "chuthe_thanhduong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "thánh đường"
+      }
     },
     {
-      "id": "khainiem_niem_phat_duong",
-      "label": "KháiNiệm",
-      "text": "niệm phật đường"
+      "id": "chuthe_niemphatduong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "niệm phật đường"
+      }
     },
     {
-      "id": "khainiem_tu_vien",
-      "label": "KháiNiệm",
-      "text": "tu viện"
+      "id": "chuthe_tuvien",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tu viện"
+      }
     },
     {
-      "id": "khainiem_truong_dao_tao_rieng_cua_ton_giao",
-      "label": "KháiNiệm",
-      "text": "trường đào tạo riêng của tôn giáo"
+      "id": "chuthe_truongdaotaoriengcuatongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "trường đào tạo riêng của tôn giáo"
+      }
     },
     {
-      "id": "khainiem_tru_so_cua_to_chuc_ton_giao",
-      "label": "KháiNiệm",
-      "text": "trụ sở của tổ chức tôn giáo"
+      "id": "chuthe_trusocuatochuctongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "trụ sở của tổ chức tôn giáo"
+      }
     },
     {
-      "id": "khainiem_cac_co_so_khac_cua_ton_giao",
-      "label": "KháiNiệm",
-      "text": "các cơ sở khác của tôn giáo"
+      "id": "chuthe_caccosokhaccuatongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "các cơ sở khác của tôn giáo"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "text": "Nhà nước"
-    },
-    {
-      "id": "hanhvipaply_cho_phep_hoat_dong",
-      "label": "HànhViPhápLý",
-      "text": "cho phép hoạt động"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "text": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "dieukien_chinh_sach_ton_giao_cua_nha_nuoc",
-      "label": "ĐiềuKiện",
-      "text": "chính sách tôn giáo của Nhà nước"
-    },
-    {
-      "id": "dieukien_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "text": "quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "text": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "hanhvipaply_phe_duyet",
-      "label": "HànhViPhápLý",
-      "text": "phê duyệt"
-    },
-    {
-      "id": "hanhvipaply_quyet_dinh_dien_tich_dat_giao",
-      "label": "HànhViPhápLý",
-      "text": "quyết định diện tích đất giao"
-    },
-    {
-      "id": "khainiem_co_so_ton_giao",
-      "label": "KháiNiệm",
-      "text": "cơ sở tôn giáo"
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_159",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_co_so_ton_giao"
+      "source_id": "dieu_159_2013",
+      "target_id": "khainiem_datcosotongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_chua"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_chua",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_nha_tho"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_nhatho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_nha_nguyen"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_nhanguyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_thanh_that"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_thanhthat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_thanh_duong"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_thanhduong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_niem_phat_duong"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_niemphatduong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_tu_vien"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_tuvien",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_truong_dao_tao_rieng_cua_ton_giao"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_truongdaotaoriengcuatongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_tru_so_cua_to_chuc_ton_giao"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_trusocuatochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_so_ton_giao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cac_co_so_khac_cua_ton_giao"
-    },
-    {
-      "source_id": "khainiem_cac_co_so_khac_cua_ton_giao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_cho_phep_hoat_dong"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_cho_phep_hoat_dong"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_quyet_dinh_dien_tich_dat_giao"
-    },
-    {
-      "source_id": "hanhvipaply_quyet_dinh_dien_tich_dat_giao",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_co_so_ton_giao"
-    },
-    {
-      "source_id": "hanhvipaply_quyet_dinh_dien_tich_dat_giao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chinh_sach_ton_giao_cua_nha_nuoc"
-    },
-    {
-      "source_id": "hanhvipaply_quyet_dinh_dien_tich_dat_giao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_phe_duyet"
+      "source_id": "dieu_159_2013",
+      "target_id": "chuthe_caccosokhaccuatongiao",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

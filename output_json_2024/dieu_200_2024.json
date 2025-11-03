@@ -1,246 +1,210 @@
 {
   "entities": [
     {
-      "id": "dieu_200",
-      "label": "ĐiềuLuật",
-      "name": "Điều 200"
+      "id": "dieu_200_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 200. Đất quốc phòng, an ninh",
+        "ma_dieu": "200",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 200.\n\nĐất quốc phòng, an ninh\n1. Đất quốc phòng, an ninh bao gồm đất sử dụng vào các mục đích quy định tại Điều 78 của Luật\nnày.\n2. Ủy ban nhân dân cấp tỉnh chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an thực hiện việc quản lý\nnhà nước đối với đất quốc phòng, an ninh thuộc phạm vi quản lý hành chính của địa phương.\n3. Đối với những khu vực nằm trong quy hoạch sử dụng đất quốc phòng, an ninh nhưng chưa có nhu\ncầu sử dụng vào mục đích quốc phòng, an ninh thì người đang sử dụng đất được tiếp tục sử dụng đến\nkhi có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền nhưng không được làm biến dạng\nđịa hình tự nhiên.\n4. Trường hợp thu hồi đất quốc phòng, an ninh để thực hiện dự án phát triển kinh tế - xã hội vì mục\nđích quốc gia, công cộng thì không phải thực hiện việc sắp xếp lại, xử lý tài sản công theo quy định của\npháp luật về quản lý, sử dụng tài sản công.\n5. Việc quản lý, sử dụng tài sản gắn liền với đất là tài sản công của đơn vị sự nghiệp công lập thuộc Bộ\nQuốc phòng, Bộ Công an không thuộc trường hợp sử dụng đất kết hợp với hoạt động lao động sản\nxuất, xây dựng kinh tế quy định tại Điều 201 của Luật này  thì thực hiện theo quy định của pháp luật về\nquản lý, sử dụng tài sản công.\n6. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "dat_quoc_phong_an_ninh",
-      "label": "KháiNiệm",
-      "name": "Đất quốc phòng, an ninh"
+      "id": "khainiem_datquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất quốc phòng, an ninh"
+      }
     },
     {
-      "id": "dat_su_dung_muc_dich_dieu_78",
-      "label": "KháiNiệm",
-      "name": "đất sử dụng vào các mục đích quy định tại Điều 78 của Luật này"
+      "id": "dieu_78_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 78",
+        "ma_dieu": "78",
+        "phien_ban": 2024
+      }
     },
     {
-      "id": "dieu_78",
-      "label": "ĐiềuLuật",
-      "name": "Điều 78"
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
     },
     {
-      "id": "bo_quoc_phong",
-      "label": "ChủThể",
-      "name": "Bộ Quốc phòng"
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
     },
     {
-      "id": "bo_cong_an",
-      "label": "ChủThể",
-      "name": "Bộ Công an"
+      "id": "hanhviphaply_quanlynhanuoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý nhà nước"
+      }
     },
     {
-      "id": "quan_ly_nha_nuoc_doi_voi_dat_quoc_phong_an_ninh",
-      "label": "HànhViPhápLý",
-      "name": "quản lý nhà nước đối với đất quốc phòng, an ninh"
+      "id": "hanhviphaply_tieptucsudung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tiếp tục sử dụng"
+      }
     },
     {
-      "id": "khu_vuc_quy_hoach_sd_dat_qp_an_ninh_chua_co_nhu_cau",
-      "label": "ĐiềuKiện",
-      "name": "những khu vực nằm trong quy hoạch sử dụng đất quốc phòng, an ninh nhưng chưa có nhu cầu sử dụng vào mục đích quốc phòng, an ninh"
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
     },
     {
-      "id": "nguoi_dang_su_dung_dat",
-      "label": "ChủThể",
-      "name": "người đang sử dụng đất"
+      "id": "chuthe_coquannhancothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước có thẩm quyền"
+      }
     },
     {
-      "id": "tiep_tuc_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "tiếp tục sử dụng đất"
+      "id": "hanhviphaply_lambiendangdiadahinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Làm biến dạng địa hình"
+      }
     },
     {
-      "id": "quyet_dinh_thu_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "quyết định thu hồi đất"
+      "id": "hanhviphaply_thuchienduan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện dự án"
+      }
     },
     {
-      "id": "co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
+      "id": "hanhviphaply_sapsxepxulytaisan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sắp xếp lại, xử lý tài sản"
+      }
     },
     {
-      "id": "khong_lam_bien_dang_dia_hinh_tu_nhien",
-      "label": "ChếTài",
-      "name": "không được làm biến dạng địa hình tự nhiên"
+      "id": "chuthe_donvisunghiệpcong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị sự nghiệp công lập"
+      }
     },
     {
-      "id": "truong_hop_thu_hoi_dat_qp_an_ninh_lam_du_an_ptktxh",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp thu hồi đất quốc phòng, an ninh để thực hiện dự án phát triển kinh tế - xã hội vì mục đích quốc gia, công cộng"
+      "id": "hanhviphaply_quanlysudungtaisancong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quản lý, sử dụng tài sản công"
+      }
     },
     {
-      "id": "khong_phai_thuc_hien_sap_xep_lai_xu_ly_tai_san_cong",
-      "label": "HànhViPhápLý",
-      "name": "không phải thực hiện việc sắp xếp lại, xử lý tài sản công"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "phap_luat_ve_quan_ly_su_dung_tai_san_cong",
-      "label": "KháiNiệm",
-      "name": "pháp luật về quản lý, sử dụng tài sản công"
-    },
-    {
-      "id": "quan_ly_su_dung_tai_san_gan_lien_voi_dat_la_tai_san_cong",
-      "label": "HànhViPhápLý",
-      "name": "Việc quản lý, sử dụng tài sản gắn liền với đất là tài sản công"
-    },
-    {
-      "id": "don_vi_su_nghiep_cong_lap_thuoc_bo_qp_bo_ca",
-      "label": "ChủThể",
-      "name": "đơn vị sự nghiệp công lập thuộc Bộ Quốc phòng, Bộ Công an"
-    },
-    {
-      "id": "dieu_kien_khong_thuoc_truong_hop_su_dung_dat_ket_hop_sx_kd",
-      "label": "ĐiềuKiện",
-      "name": "không thuộc trường hợp sử dụng đất kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế"
-    },
-    {
-      "id": "dieu_201",
-      "label": "ĐiềuLuật",
-      "name": "Điều 201"
-    },
-    {
-      "id": "chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "quy_dinh_chi_tiet_dieu_200",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết Điều này"
+      "id": "hanhviphaply_quydinhchitiet",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quy định chi tiết"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_200",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dat_quoc_phong_an_ninh"
+      "source_id": "dieu_200_2024",
+      "target_id": "khainiem_datquocphonganinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dat_quoc_phong_an_ninh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "dat_su_dung_muc_dich_dieu_78"
+      "source_id": "dieu_200_2024",
+      "target_id": "dieu_78_2024",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dat_su_dung_muc_dich_dieu_78",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_78"
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_200",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "quan_ly_nha_nuoc_doi_voi_dat_quoc_phong_an_ninh"
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "quan_ly_nha_nuoc_doi_voi_dat_quoc_phong_an_ninh"
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "bo_quoc_phong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "quan_ly_nha_nuoc_doi_voi_dat_quoc_phong_an_ninh"
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_quanlynhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "bo_cong_an",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "quan_ly_nha_nuoc_doi_voi_dat_quoc_phong_an_ninh"
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_tieptucsudung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "quan_ly_nha_nuoc_doi_voi_dat_quoc_phong_an_ninh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dat_quoc_phong_an_ninh"
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_200",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "tiep_tuc_su_dung_dat"
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_coquannhancothamquyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khu_vuc_quy_hoach_sd_dat_qp_an_ninh_chua_co_nhu_cau",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "tiep_tuc_su_dung_dat"
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_lambiendangdiadahinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "nguoi_dang_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "tiep_tuc_su_dung_dat"
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_thuchienduan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "tiep_tuc_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khong_lam_bien_dang_dia_hinh_tu_nhien"
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_sapsxepxulytaisan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "tiep_tuc_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "quyet_dinh_thu_hoi_dat"
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_donvisunghiệpcong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "quyet_dinh_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "co_quan_nha_nuoc_co_tham_quyen"
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_quanlysudungtaisancong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_200",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khong_phai_thuc_hien_sap_xep_lai_xu_ly_tai_san_cong"
+      "source_id": "dieu_200_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "truong_hop_thu_hoi_dat_qp_an_ninh_lam_du_an_ptktxh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khong_phai_thuc_hien_sap_xep_lai_xu_ly_tai_san_cong"
-    },
-    {
-      "source_id": "khong_phai_thuc_hien_sap_xep_lai_xu_ly_tai_san_cong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "phap_luat_ve_quan_ly_su_dung_tai_san_cong"
-    },
-    {
-      "source_id": "dieu_200",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "quan_ly_su_dung_tai_san_gan_lien_voi_dat_la_tai_san_cong"
-    },
-    {
-      "source_id": "don_vi_su_nghiep_cong_lap_thuoc_bo_qp_bo_ca",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "quan_ly_su_dung_tai_san_gan_lien_voi_dat_la_tai_san_cong"
-    },
-    {
-      "source_id": "quan_ly_su_dung_tai_san_gan_lien_voi_dat_la_tai_san_cong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_khong_thuoc_truong_hop_su_dung_dat_ket_hop_sx_kd"
-    },
-    {
-      "source_id": "dieu_kien_khong_thuoc_truong_hop_su_dung_dat_ket_hop_sx_kd",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_201"
-    },
-    {
-      "source_id": "quan_ly_su_dung_tai_san_gan_lien_voi_dat_la_tai_san_cong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "phap_luat_ve_quan_ly_su_dung_tai_san_cong"
-    },
-    {
-      "source_id": "dieu_200",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "quy_dinh_chi_tiet_dieu_200"
-    },
-    {
-      "source_id": "chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "quy_dinh_chi_tiet_dieu_200"
-    },
-    {
-      "source_id": "quy_dinh_chi_tiet_dieu_200",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_200"
+      "source_id": "dieu_200_2024",
+      "target_id": "hanhviphaply_quydinhchitiet",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

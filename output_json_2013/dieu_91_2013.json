@@ -1,126 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_91",
-      "label": "ĐiềuLuật",
-      "name": "Điều 91"
+      "id": "dieu_91_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 91. Bồi thường chi phí di chuyển khi Nhà nước thu hồi đất",
+        "ma_dieu": "91",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 91.\n\nBồi thường chi phí di chuyển khi Nhà nước thu hồi đất\n1. Khi Nhà nước thu hồi đất mà phải di chuyển tài sản thì được Nhà nước bồi thường chi phí để tháo\ndỡ, di chuyển, lắp đặt; trường hợp phải di chuyển hệ thống máy móc, dây chuyền sản xuất còn được\nbồi thường đối với thiệt hại khi tháo dỡ, vận chuyển, lắp đặt.\n2. Ủy ban nhân dân cấp tỉnh quy định mức bồi thường tại khoản 1 Điều này ."
+      }
     },
     {
-      "id": "khainiem_boithuongchiphidichuyen",
-      "label": "KháiNiệm",
-      "name": "Bồi thường chi phí di chuyển"
+      "id": "hanhviphaply_nhanuoc_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "hanhviphaply_thuhoiland",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi đất"
+      "id": "hanhviphaply_dichuyen_taisan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "di chuyển tài sản"
+      }
     },
     {
-      "id": "hanhviphaply_dichuyentaisan",
-      "label": "HànhViPhápLý",
-      "name": "di chuyển tài sản"
+      "id": "khainiem_chiphithaodo",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chi phí để tháo dỡ, di chuyển, lắp đặt"
+      }
     },
     {
-      "id": "dieukien_nhanuoc_thuhoiland_phaidichuyentaisan",
-      "label": "ĐiềuKiện",
-      "name": "Khi Nhà nước thu hồi đất mà phải di chuyển tài sản"
+      "id": "khainiem_hethongmaymoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hệ thống máy móc, dây chuyền sản xuất"
+      }
     },
     {
-      "id": "hanhviphaply_boithuongchiphithaodo_dichuyen_lapdat",
-      "label": "HànhViPhápLý",
-      "name": "bồi thường chi phí để tháo dỡ, di chuyển, lắp đặt"
+      "id": "khainiem_thiethai_thaodo",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thiệt hại khi tháo dỡ, vận chuyển, lắp đặt"
+      }
     },
     {
-      "id": "dieukien_phaidichuyen_maymoc_daychuyensanxuat",
-      "label": "ĐiềuKiện",
-      "name": "trường hợp phải di chuyển hệ thống máy móc, dây chuyền sản xuất"
-    },
-    {
-      "id": "hanhviphaply_dichuyenmaymoc_daychuyensanxuat",
-      "label": "HànhViPhápLý",
-      "name": "di chuyển hệ thống máy móc, dây chuyền sản xuất"
-    },
-    {
-      "id": "hanhviphaply_boithuongthiet Hai_thaodo_vanchuyen_lapdat",
-      "label": "HànhViPhápLý",
-      "name": "bồi thường đối với thiệt hại khi tháo dỡ, vận chuyển, lắp đặt"
-    },
-    {
-      "id": "chuthe_ubannhandancaptinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "hanhviphaply_quydinhmucboithuong",
-      "label": "HànhViPhápLý",
-      "name": "quy định mức bồi thường"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_91",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_boithuongchiphidichuyen"
+      "source_id": "dieu_91_2013",
+      "target_id": "hanhviphaply_nhanuoc_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_boithuongchiphidichuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nhanuoc_thuhoiland_phaidichuyentaisan"
+      "source_id": "dieu_91_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thuhoiland"
+      "source_id": "dieu_91_2013",
+      "target_id": "hanhviphaply_dichuyen_taisan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_boithuongchiphithaodo_dichuyen_lapdat"
+      "source_id": "dieu_91_2013",
+      "target_id": "khainiem_chiphithaodo",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dichuyentaisan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_nhanuoc_thuhoiland_phaidichuyentaisan"
+      "source_id": "dieu_91_2013",
+      "target_id": "khainiem_hethongmaymoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_nhanuoc_thuhoiland_phaidichuyentaisan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_boithuongchiphithaodo_dichuyen_lapdat"
+      "source_id": "dieu_91_2013",
+      "target_id": "khainiem_thiethai_thaodo",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_nhanuoc_thuhoiland_phaidichuyentaisan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phaidichuyen_maymoc_daychuyensanxuat"
-    },
-    {
-      "source_id": "hanhviphaply_dichuyenmaymoc_daychuyensanxuat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_phaidichuyen_maymoc_daychuyensanxuat"
-    },
-    {
-      "source_id": "dieukien_phaidichuyen_maymoc_daychuyensanxuat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_boithuongthiet Hai_thaodo_vanchuyen_lapdat"
-    },
-    {
-      "source_id": "chuthe_ubannhandancaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quydinhmucboithuong"
-    },
-    {
-      "source_id": "hanhviphaply_quydinhmucboithuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_boithuongchiphithaodo_dichuyen_lapdat"
-    },
-    {
-      "source_id": "hanhviphaply_quydinhmucboithuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_boithuongthiet Hai_thaodo_vanchuyen_lapdat"
+      "source_id": "dieu_91_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

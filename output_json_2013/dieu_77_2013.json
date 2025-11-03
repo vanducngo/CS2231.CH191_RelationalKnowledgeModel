@@ -1,396 +1,64 @@
 {
   "entities": [
     {
-      "id": "dieu_77",
-      "label": "ĐiềuLuật",
-      "name": "Điều 77"
+      "id": "dieu_77_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 77. Bồi thường về đất, chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất nông nghiệp của hộ gia đình, cá nhân",
+        "ma_dieu": "77",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 77.\n\nBồi thường về đất, chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất nông nghiệp\ncủa hộ gia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất thì được bồi thường\nvề đất, chi phí đầu tư vào đất còn lại theo quy định sau đây:\na) Diện tích đất nông nghiệp được bồi thường bao gồm diện tích trong hạn mức theo quy định tại  Điều\n129, Điều 130 của Luật này  và diện tích đất do được nhận thừa kế;\nb) Đối với diện tích đất nông nghiệp vượt hạn mức quy định tại  Điều 129 của Luật này  thì không được\nbồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn lại;\nc) Đối với diện tích đất nông nghiệp do nhận chuyển quyền sử dụng đất vượt hạn mức trước ngày Luật\nnày có hiệu lực thi hành thì việc bồi thường, hỗ trợ được thực hiện theo quy định của Chính phủ.\n2. Đối với đất nông nghiệp đã sử dụng trước ngày 01 tháng 7 năm 2004 mà người sử dụng đất là hộ gia\nđình, cá nhân trực tiếp sản xuất nông nghiệp nhưng không có Giấy chứng nhận hoặc không đủ điều\nkiện để được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với\nđất theo quy định của Luật này thì được bồi thường đối với diện tích đất thực tế đang sử dụng, diện\ntích được bồi thường không vượt quá hạn mức giao đất nông nghiệp quy định tại  Điều 129 của Luật\nnày."
+      }
     },
     {
-      "id": "dieu_129",
-      "label": "ĐiềuLuật",
-      "name": "Điều 129"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "dieu_130",
-      "label": "ĐiềuLuật",
-      "name": "Điều 130"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "khainiem_boi_thuong_ve_dat",
-      "label": "KháiNiệm",
-      "name": "Bồi thường về đất"
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
     },
     {
-      "id": "khainiem_chi_phi_dau_tu_vao_dat_con_lai",
-      "label": "KháiNiệm",
-      "name": "Chi phí đầu tư vào đất còn lại"
-    },
-    {
-      "id": "khainiem_han_muc",
-      "label": "KháiNiệm",
-      "name": "Hạn mức"
-    },
-    {
-      "id": "khainiem_luat_dat_dai_2013",
-      "label": "KháiNiệm",
-      "name": "Luật Đất đai 2013"
-    },
-    {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
-    },
-    {
-      "id": "khainiem_quy_dinh_cua_chinh_phu",
-      "label": "KháiNiệm",
-      "name": "Quy định của Chính phủ"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "Hộ gia đình"
-    },
-    {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
-    },
-    {
-      "id": "hanhviphaply_thu_hoi_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Thu hồi đất nông nghiệp"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất nông nghiệp"
-    },
-    {
-      "id": "hanhviphaply_nhan_thua_ke",
-      "label": "HànhViPhápLý",
-      "name": "Nhận thừa kế"
-    },
-    {
-      "id": "hanhviphaply_nhan_chuyen_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Nhận chuyển quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_san_xuat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Sản xuất nông nghiệp"
-    },
-    {
-      "id": "hanhviphaply_duoc_cap_giay_chung_nhan",
-      "label": "HànhViPhápLý",
-      "name": "Được cấp Giấy chứng nhận quyền sử dụng đất"
-    },
-    {
-      "id": "chetai_duoc_boi_thuong_ve_dat",
-      "label": "ChếTài",
-      "name": "Được bồi thường về đất"
-    },
-    {
-      "id": "chetai_khong_duoc_boi_thuong_ve_dat",
-      "label": "ChếTài",
-      "name": "Không được bồi thường về đất"
-    },
-    {
-      "id": "chetai_duoc_boi_thuong_chi_phi_dau_tu",
-      "label": "ChếTài",
-      "name": "Được bồi thường chi phí đầu tư vào đất còn lại"
-    },
-    {
-      "id": "chetai_boi_thuong_ho_tro_theo_quy_dinh_chinh_phu",
-      "label": "ChếTài",
-      "name": "Việc bồi thường, hỗ trợ được thực hiện theo quy định của Chính phủ"
-    },
-    {
-      "id": "chetai_duoc_boi_thuong_dien_tich_thuc_te_dang_su_dung",
-      "label": "ChếTài",
-      "name": "Được bồi thường đối với diện tích đất thực tế đang sử dụng"
-    },
-    {
-      "id": "dieukien_dang_su_dung_dat_nong_nghiep",
-      "label": "ĐiềuKiện",
-      "name": "Đang sử dụng đất nông nghiệp"
-    },
-    {
-      "id": "dieukien_trong_han_muc",
-      "label": "ĐiềuKiện",
-      "name": "Diện tích trong hạn mức"
-    },
-    {
-      "id": "dieukien_vuot_han_muc",
-      "label": "ĐiềuKiện",
-      "name": "Diện tích vượt hạn mức"
-    },
-    {
-      "id": "dieukien_dat_do_nhan_thua_ke",
-      "label": "ĐiềuKiện",
-      "name": "Diện tích đất do được nhận thừa kế"
-    },
-    {
-      "id": "dieukien_dat_do_nhan_chuyen_quyen_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Diện tích đất do nhận chuyển quyền sử dụng đất"
-    },
-    {
-      "id": "dieukien_truoc_ngay_luat_co_hieu_luc",
-      "label": "ĐiềuKiện",
-      "name": "Trước ngày Luật này có hiệu lực thi hành"
-    },
-    {
-      "id": "dieukien_dat_su_dung_truoc_01_07_2004",
-      "label": "ĐiềuKiện",
-      "name": "Đất nông nghiệp đã sử dụng trước ngày 01 tháng 7 năm 2004"
-    },
-    {
-      "id": "dieukien_truc_tiep_san_xuat_nong_nghiep",
-      "label": "ĐiềuKiện",
-      "name": "Trực tiếp sản xuất nông nghiệp"
-    },
-    {
-      "id": "dieukien_khong_co_giay_chung_nhan",
-      "label": "ĐiềuKiện",
-      "name": "Không có Giấy chứng nhận"
-    },
-    {
-      "id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan",
-      "label": "ĐiềuKiện",
-      "name": "Không đủ điều kiện để được cấp Giấy chứng nhận"
-    },
-    {
-      "id": "dieukien_dien_tich_boi_thuong_khong_vuot_han_muc_giao_dat",
-      "label": "ĐiềuKiện",
-      "name": "Diện tích được bồi thường không vượt quá hạn mức giao đất nông nghiệp"
+      "id": "hanhviphaply_nhanuquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "nhận chuyển quyền sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_77",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_boi_thuong_ve_dat"
+      "source_id": "dieu_77_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_77",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chi_phi_dau_tu_vao_dat_con_lai"
+      "source_id": "dieu_77_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_boi_thuong_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thu_hoi_dat_nong_nghiep"
+      "source_id": "dieu_77_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_chi_phi_dau_tu_vao_dat_con_lai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thu_hoi_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat_nong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat_nong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dang_su_dung_dat_nong_nghiep"
-    },
-    {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dang_su_dung_dat_nong_nghiep"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thu_hoi_dat_nong_nghiep"
-    },
-    {
-      "source_id": "dieukien_dang_su_dung_dat_nong_nghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_boi_thuong_ve_dat"
-    },
-    {
-      "source_id": "dieukien_dang_su_dung_dat_nong_nghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_boi_thuong_chi_phi_dau_tu"
-    },
-    {
-      "source_id": "chetai_duoc_boi_thuong_ve_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_77"
-    },
-    {
-      "source_id": "chetai_duoc_boi_thuong_chi_phi_dau_tu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_77"
-    },
-    {
-      "source_id": "chetai_duoc_boi_thuong_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_trong_han_muc"
-    },
-    {
-      "source_id": "dieukien_trong_han_muc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_129"
-    },
-    {
-      "source_id": "dieukien_trong_han_muc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_130"
-    },
-    {
-      "source_id": "dieu_129",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_luat_dat_dai_2013"
-    },
-    {
-      "source_id": "dieu_130",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_luat_dat_dai_2013"
-    },
-    {
-      "source_id": "chetai_duoc_boi_thuong_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_dat_do_nhan_thua_ke"
-    },
-    {
-      "source_id": "dieukien_dat_do_nhan_thua_ke",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_nhan_thua_ke"
-    },
-    {
-      "source_id": "dieukien_vuot_han_muc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_129"
-    },
-    {
-      "source_id": "dieukien_vuot_han_muc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_khong_duoc_boi_thuong_ve_dat"
-    },
-    {
-      "source_id": "dieukien_vuot_han_muc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_boi_thuong_chi_phi_dau_tu"
-    },
-    {
-      "source_id": "dieukien_dat_do_nhan_chuyen_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_nhan_chuyen_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_dat_do_nhan_chuyen_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_vuot_han_muc"
-    },
-    {
-      "source_id": "dieukien_dat_do_nhan_chuyen_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truoc_ngay_luat_co_hieu_luc"
-    },
-    {
-      "source_id": "dieukien_dat_do_nhan_chuyen_quyen_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_ho_tro_theo_quy_dinh_chinh_phu"
-    },
-    {
-      "source_id": "dieukien_truoc_ngay_luat_co_hieu_luc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_ho_tro_theo_quy_dinh_chinh_phu"
-    },
-    {
-      "source_id": "chetai_boi_thuong_ho_tro_theo_quy_dinh_chinh_phu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quy_dinh_cua_chinh_phu"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_su_dung_truoc_01_07_2004"
-    },
-    {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_su_dung_truoc_01_07_2004"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truc_tiep_san_xuat_nong_nghiep"
-    },
-    {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truc_tiep_san_xuat_nong_nghiep"
-    },
-    {
-      "source_id": "dieukien_truc_tiep_san_xuat_nong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_san_xuat_nong_nghiep"
-    },
-    {
-      "source_id": "dieukien_khong_co_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_luat_dat_dai_2013"
-    },
-    {
-      "source_id": "dieukien_dat_su_dung_truoc_01_07_2004",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_boi_thuong_dien_tich_thuc_te_dang_su_dung"
-    },
-    {
-      "source_id": "dieukien_truc_tiep_san_xuat_nong_nghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_boi_thuong_dien_tich_thuc_te_dang_su_dung"
-    },
-    {
-      "source_id": "dieukien_khong_co_giay_chung_nhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_boi_thuong_dien_tich_thuc_te_dang_su_dung"
-    },
-    {
-      "source_id": "dieukien_khong_du_dieu_kien_cap_giay_chung_nhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_duoc_boi_thuong_dien_tich_thuc_te_dang_su_dung"
-    },
-    {
-      "source_id": "chetai_duoc_boi_thuong_dien_tich_thuc_te_dang_su_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dien_tich_boi_thuong_khong_vuot_han_muc_giao_dat"
-    },
-    {
-      "source_id": "dieukien_dien_tich_boi_thuong_khong_vuot_han_muc_giao_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_han_muc"
-    },
-    {
-      "source_id": "khainiem_han_muc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_129"
+      "source_id": "dieu_77_2013",
+      "target_id": "hanhviphaply_nhanuquyen",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

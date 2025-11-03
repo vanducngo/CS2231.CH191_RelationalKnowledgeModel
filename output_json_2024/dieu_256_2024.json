@@ -1,451 +1,184 @@
 {
   "entities": [
     {
-      "id": "dieu_256",
-      "label": "ĐiềuLuật",
-      "name": "Điều 256. Giải quyết về hồ sơ địa chính, đăng ký đất đai, cấp giấy chứng nhận khi Luật này có hiệu lực thi hành"
+      "id": "dieu_256_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 256.",
+        "ma_dieu": "256",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 256.\n\nGiải quyết về hồ sơ địa chính, đăng ký đất đai, cấp giấy chứng nhận khi Luật này có\nhiệu lực thi hành\n1. Hồ sơ địa chính dạng giấy đã xây dựng trước ngày Luật này có hiệu lực thi hành thì được tiếp tục sử\ndụng để phục vụ cho công tác quản lý đất đai và phải được số hóa trong quá trình xây dựng cơ sở dữ\nliệu quốc gia về đất đai theo quy định của Luật này .\n2. Hồ sơ đăng ký đất đai, tài sản gắn liền với đất, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở\nhữu nhà ở và tài sản khác gắn liền với đất đã được cơ quan có thẩm quyền tiếp nhận nhưng đến ngày\nLuật này có hiệu lực thi hành mà chưa được cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất thì tiếp tục giải quyết thủ tục theo quy\nđịnh của Luật Đất đai số 45/2013/QH13  và các văn bản quy định chi tiết, hướng dẫn thi hành; thẩm\nquyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất thực hiện theo\nquy định của Luật này . Trường hợp người sử dụng đất đề nghị thực hiện theo quy định của Luật này thì\ncơ quan có thẩm quyền giải quyết theo quy định của Luật này .\n3. Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở,\nGiấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng, Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đã được cấp theo\nquy định của pháp luật về đất đai, pháp luật về nhà ở, pháp luật về xây dựng trước ngày Luật này có\nhiệu lực thi hành vẫn có giá trị pháp lý và không phải cấp đổi sang Giấy chứng nhận quyền sử dụng\nđất, quyền sở hữu tài sản gắn liền với đất ; trường hợp có nhu cầu thì được cấp đổi sang Giấy chứng\nnhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này .\n4. Trường hợp Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử\ndụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất\nđã cấp cho đại diện hộ gia đình trước ngày Luật này có hiệu lực thi hành, nếu các thành viên có chung\nquyền sử dụng đất của hộ gia đình có nhu cầu thì được cấp đổi sang Giấy chứng nhận quyền sử dụng\nđất, quyền sở hữu tài sản gắn liền với đất và ghi đầy đủ tên các thành viên có chung quyền sử dụng\nđất.\nViệc xác định các thành viên có chung quyền sử dụng đất của hộ gia đình để ghi tên trên Giấy chứng\nnhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do các thành viên này tự thỏa thuận và\nchịu trách nhiệm trước pháp luật."
+      }
     },
     {
-      "id": "khainiem_hosodiachinhdanggiay",
-      "label": "KháiNiệm",
-      "name": "Hồ sơ địa chính dạng giấy"
+      "id": "khainiem_hosodiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hồ sơ địa chính"
+      }
     },
     {
-      "id": "khainiem_cong_tac_quan_ly_dat_dai",
-      "label": "KháiNiệm",
-      "name": "công tác quản lý đất đai"
+      "id": "khainiem_dangkydatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký đất đai"
+      }
     },
     {
-      "id": "khainiem_co_so_du_lieu_quoc_gia_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "cơ sở dữ liệu quốc gia về đất đai"
+      "id": "khainiem_giaychungnhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận"
+      }
     },
     {
-      "id": "khainiem_hosodangky_datdai_taisanganlienvoiland",
-      "label": "KháiNiệm",
-      "name": "Hồ sơ đăng ký đất đai, tài sản gắn liền với đất"
+      "id": "khainiem_cosodulieuquocgiavedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cơ sở dữ liệu quốc gia về đất đai"
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_tong_hop_cu",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất (loại cũ)"
+      "id": "khainiem_taisangganlienvoiđat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "khainiem_luat_dat_dai_45_2013_qh13",
-      "label": "KháiNiệm",
-      "name": "Luật Đất đai số 45/2013/QH13"
+      "id": "khainiem_giaychungnhanquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_van_ban_huong_dan_thi_hanh_luat_cu",
-      "label": "KháiNiệm",
-      "name": "các văn bản quy định chi tiết, hướng dẫn thi hành (của Luật Đất đai 2013)"
+      "id": "khainiem_giaychungnhanquyensohuuonhavataisankhacganlienvoiđat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
     },
     {
-      "id": "khainiem_tham_quyen_cap_giay_chung_nhan_ldd2024",
-      "label": "KháiNiệm",
-      "name": "thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (theo Luật Đất đai 2024)"
+      "id": "chuthe_cơquanbothamquyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan có thẩm quyền"
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất"
+      "id": "dieukien_luatdatdai2013",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Luật Đất đai số 45/2013/QH13"
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_quyen_so_huu_nha_o_va_quyen_su_dung_dat_o",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở"
+      "id": "khainiem_giaychungnhanquyensohuuonhaovaquyensudungdato",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở"
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_quyen_so_huu_nha_o",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sở hữu nhà ở"
+      "id": "khainiem_giaychungnhanquyensohuuonha",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sở hữu nhà ở"
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_quyen_so_huu_cong_trinh_xay_dung",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sở hữu công trình xây dựng"
+      "id": "khainiem_giaychungnhanquyensohuucongbtrinhxaydung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sở hữu công trình xây dựng"
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (loại mới)"
+      "id": "chuthe_dai_dien_ho_gia_dinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đại diện hộ gia đình"
+      }
     },
     {
-      "id": "khainiem_phap_luat_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "pháp luật về đất đai"
-    },
-    {
-      "id": "khainiem_phap_luat_ve_nha_o",
-      "label": "KháiNiệm",
-      "name": "pháp luật về nhà ở"
-    },
-    {
-      "id": "khainiem_phap_luat_ve_xay_dung",
-      "label": "KháiNiệm",
-      "name": "pháp luật về xây dựng"
-    },
-    {
-      "id": "khainiem_giatriphaply",
-      "label": "KháiNiệm",
-      "name": "giá trị pháp lý"
-    },
-    {
-      "id": "khainiem_luat_dat_dai_2024",
-      "label": "KháiNiệm",
-      "name": "Luật Đất đai 2024 (Luật này)"
-    },
-    {
-      "id": "chuthe_coquancothamquyen",
-      "label": "ChủThể",
-      "name": "cơ quan có thẩm quyền"
-    },
-    {
-      "id": "chuthe_nguoisudungdat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
-    },
-    {
-      "id": "chuthe_daidienhogiadinh",
-      "label": "ChủThể",
-      "name": "đại diện hộ gia đình"
-    },
-    {
-      "id": "chuthe_thanh_vien_co_chung_quyen_su_dung_dat",
-      "label": "ChủThể",
-      "name": "các thành viên có chung quyền sử dụng đất"
-    },
-    {
-      "id": "hanhvi_su_dung",
-      "label": "HànhViPhápLý",
-      "name": "tiếp tục sử dụng"
-    },
-    {
-      "id": "hanhvi_so_hoa",
-      "label": "HànhViPhápLý",
-      "name": "số hóa"
-    },
-    {
-      "id": "hanhvi_tiep_nhan",
-      "label": "HànhViPhápLý",
-      "name": "tiếp nhận"
-    },
-    {
-      "id": "hanhvi_giai_quyet_thu_tuc",
-      "label": "HànhViPhápLý",
-      "name": "giải quyết thủ tục"
-    },
-    {
-      "id": "hanhvi_cap_giay_chung_nhan",
-      "label": "HànhViPhápLý",
-      "name": "cấp Giấy chứng nhận"
-    },
-    {
-      "id": "hanhvi_thuc_hien",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện (thẩm quyền)"
-    },
-    {
-      "id": "hanhvi_de_nghi_thuc_hien",
-      "label": "HànhViPhápLý",
-      "name": "đề nghị thực hiện"
-    },
-    {
-      "id": "hanhvi_cap_doi",
-      "label": "HànhViPhápLý",
-      "name": "cấp đổi"
-    },
-    {
-      "id": "hanhvi_khong_phai_cap_doi",
-      "label": "HànhViPhápLý",
-      "name": "không phải cấp đổi"
-    },
-    {
-      "id": "hanhvi_xac_dinh",
-      "label": "HànhViPhápLý",
-      "name": "xác định"
-    },
-    {
-      "id": "hanhvi_ghi_ten",
-      "label": "HànhViPhápLý",
-      "name": "ghi đầy đủ tên"
-    },
-    {
-      "id": "hanhvi_thoa_thuan",
-      "label": "HànhViPhápLý",
-      "name": "tự thỏa thuận"
-    },
-    {
-      "id": "hanhvi_chiu_trach_nhiem",
-      "label": "HànhViPhápLý",
-      "name": "chịu trách nhiệm trước pháp luật"
-    },
-    {
-      "id": "dieukien_ho_so_da_xay_dung_truoc_ngay_luat_co_hieu_luc",
-      "label": "ĐiềuKiện",
-      "name": "Hồ sơ địa chính dạng giấy đã xây dựng trước ngày Luật này có hiệu lực thi hành"
-    },
-    {
-      "id": "dieukien_ho_so_da_tiep_nhan_nhung_chua_cap_gcn_den_ngay_luat_co_hieu_luc",
-      "label": "ĐiềuKiện",
-      "name": "Hồ sơ đã được tiếp nhận nhưng chưa được cấp GCN đến ngày Luật này có hiệu lực thi hành"
-    },
-    {
-      "id": "dieukien_nguoi_sd_dat_de_nghi_thuc_hien_theo_luat_nay",
-      "label": "ĐiềuKiện",
-      "name": "người sử dụng đất đề nghị thực hiện theo quy định của Luật này"
-    },
-    {
-      "id": "dieukien_gcn_da_cap_truoc_ngay_luat_co_hieu_luc",
-      "label": "ĐiềuKiện",
-      "name": "Giấy chứng nhận đã được cấp theo quy định của pháp luật liên quan trước ngày Luật này có hiệu lực thi hành"
-    },
-    {
-      "id": "dieukien_co_nhu_cau_cap_doi",
-      "label": "ĐiềuKiện",
-      "name": "có nhu cầu (cấp đổi)"
-    },
-    {
-      "id": "dieukien_gcn_cap_cho_dai_dien_ho_gia_dinh_truoc_ngay_luat_co_hieu_luc",
-      "label": "ĐiềuKiện",
-      "name": "Giấy chứng nhận đã cấp cho đại diện hộ gia đình trước ngày Luật này có hiệu lực thi hành"
-    },
-    {
-      "id": "dieukien_thanh_vien_chung_quyen_sd_dat_co_nhu_cau",
-      "label": "ĐiềuKiện",
-      "name": "các thành viên có chung quyền sử dụng đất của hộ gia đình có nhu cầu"
+      "id": "chuthe_thanhvien_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "thành viên có chung quyền sử dụng đất của hộ gia đình"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_256",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hosodiachinhdanggiay"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_hosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_256",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hosodangky_datdai_taisanganlienvoiland"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_dangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_256",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cap_giay_chung_nhan"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_giaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hosodiachinhdanggiay",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_ho_so_da_xay_dung_truoc_ngay_luat_co_hieu_luc"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_cosodulieuquocgiavedatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_ho_so_da_xay_dung_truoc_ngay_luat_co_hieu_luc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_su_dung"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_taisangganlienvoiđat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_su_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_cong_tac_quan_ly_dat_dai"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_giaychungnhanquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hosodiachinhdanggiay",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_so_hoa"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_giaychungnhanquyensohuuonhavataisankhacganlienvoiđat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_so_hoa",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_co_so_du_lieu_quoc_gia_ve_dat_dai"
+      "source_id": "dieu_256_2024",
+      "target_id": "chuthe_cơquanbothamquyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_so_hoa",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_luat_dat_dai_2024"
+      "source_id": "dieu_256_2024",
+      "target_id": "dieukien_luatdatdai2013",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_coquancothamquyen",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_tiep_nhan"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_giaychungnhanquyensohuuonhaovaquyensudungdato",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_tiep_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_hosodangky_datdai_taisanganlienvoiland"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_giaychungnhanquyensohuuonha",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hosodangky_datdai_taisanganlienvoiland",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_ho_so_da_tiep_nhan_nhung_chua_cap_gcn_den_ngay_luat_co_hieu_luc"
+      "source_id": "dieu_256_2024",
+      "target_id": "khainiem_giaychungnhanquyensohuucongbtrinhxaydung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_ho_so_da_tiep_nhan_nhung_chua_cap_gcn_den_ngay_luat_co_hieu_luc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_giai_quyet_thu_tuc"
+      "source_id": "dieu_256_2024",
+      "target_id": "chuthe_dai_dien_ho_gia_dinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giai_quyet_thu_tuc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_luat_dat_dai_45_2013_qh13"
-    },
-    {
-      "source_id": "hanhvi_giai_quyet_thu_tuc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_van_ban_huong_dan_thi_hanh_luat_cu"
-    },
-    {
-      "source_id": "khainiem_tham_quyen_cap_giay_chung_nhan_ldd2024",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thuc_hien"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_luat_dat_dai_2024"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_de_nghi_thuc_hien"
-    },
-    {
-      "source_id": "hanhvi_de_nghi_thuc_hien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_nguoi_sd_dat_de_nghi_thuc_hien_theo_luat_nay"
-    },
-    {
-      "source_id": "dieukien_nguoi_sd_dat_de_nghi_thuc_hien_theo_luat_nay",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_giai_quyet_thu_tuc"
-    },
-    {
-      "source_id": "chuthe_coquancothamquyen",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_giai_quyet_thu_tuc"
-    },
-    {
-      "source_id": "hanhvi_giai_quyet_thu_tuc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_luat_dat_dai_2024"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_gcn_da_cap_truoc_ngay_luat_co_hieu_luc"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_quyen_so_huu_nha_o_va_quyen_su_dung_dat_o",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_gcn_da_cap_truoc_ngay_luat_co_hieu_luc"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_quyen_so_huu_nha_o",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_gcn_da_cap_truoc_ngay_luat_co_hieu_luc"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_quyen_so_huu_cong_trinh_xay_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_gcn_da_cap_truoc_ngay_luat_co_hieu_luc"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_tong_hop_cu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_gcn_da_cap_truoc_ngay_luat_co_hieu_luc"
-    },
-    {
-      "source_id": "dieukien_gcn_da_cap_truoc_ngay_luat_co_hieu_luc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_giatriphaply"
-    },
-    {
-      "source_id": "khainiem_giatriphaply",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_khong_phai_cap_doi"
-    },
-    {
-      "source_id": "dieukien_gcn_da_cap_truoc_ngay_luat_co_hieu_luc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_co_nhu_cau_cap_doi"
-    },
-    {
-      "source_id": "dieukien_co_nhu_cau_cap_doi",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_cap_doi"
-    },
-    {
-      "source_id": "hanhvi_cap_doi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhvi_cap_doi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_luat_dat_dai_2024"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_gcn_cap_cho_dai_dien_ho_gia_dinh_truoc_ngay_luat_co_hieu_luc"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_quyen_so_huu_nha_o_va_quyen_su_dung_dat_o",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_gcn_cap_cho_dai_dien_ho_gia_dinh_truoc_ngay_luat_co_hieu_luc"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_tong_hop_cu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_gcn_cap_cho_dai_dien_ho_gia_dinh_truoc_ngay_luat_co_hieu_luc"
-    },
-    {
-      "source_id": "dieukien_gcn_cap_cho_dai_dien_ho_gia_dinh_truoc_ngay_luat_co_hieu_luc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_thanh_vien_chung_quyen_sd_dat_co_nhu_cau"
-    },
-    {
-      "source_id": "dieukien_thanh_vien_chung_quyen_sd_dat_co_nhu_cau",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_cap_doi"
-    },
-    {
-      "source_id": "hanhvi_cap_doi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhvi_cap_doi",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_ghi_ten"
-    },
-    {
-      "source_id": "hanhvi_ghi_ten",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_thanh_vien_co_chung_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_xac_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_thanh_vien_co_chung_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_xac_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thoa_thuan"
-    },
-    {
-      "source_id": "hanhvi_xac_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_chiu_trach_nhiem"
-    },
-    {
-      "source_id": "chuthe_thanh_vien_co_chung_quyen_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_thoa_thuan"
-    },
-    {
-      "source_id": "chuthe_thanh_vien_co_chung_quyen_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_chiu_trach_nhiem"
+      "source_id": "dieu_256_2024",
+      "target_id": "chuthe_thanhvien_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

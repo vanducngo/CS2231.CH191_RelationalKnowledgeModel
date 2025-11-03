@@ -8,8 +8,8 @@ import openai
 load_dotenv()
 
 # --- Cấu hình cho Google Gemini ---
-# GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-GOOGLE_API_KEY = 'AIzaSyDIJ37sinRDhOzoEnqCN1MHGmAvYJZv0Ac'
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+print(f'GOOGLE_API_KEY: {GOOGLE_API_KEY}')
 if GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)
 

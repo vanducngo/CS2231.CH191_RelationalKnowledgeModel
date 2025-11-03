@@ -1,261 +1,172 @@
 {
   "entities": [
     {
-      "id": "dieu_131",
-      "label": "ĐiềuLuật",
-      "name": "Điều 131. Nguyên tắc đăng ký đất đai, tài sản gắn liền với đất"
+      "id": "dieu_131_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 131. Nguyên tắc đăng ký đất đai, tài sản gắn liền với đất",
+        "ma_dieu": "131",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 131.\n\nNguyên tắc đăng ký đất đai, tài sản gắn liền với đất\n1. Đăng ký đất đai là bắt buộc đối với người sử dụng đất và người được giao đất để quản lý.\n2. Tài sản gắn liền với đất là nhà ở, công trình xây dựng được đăng ký theo yêu cầu của chủ sở hữu. about:blank\n. Đăng ký đất đai, tài sản gắn liền với đất bao gồm đăng ký lần đầu và đăng ký biến động, được thực\nhiện bằng hình thức đăng ký trên giấy hoặc đăng ký điện tử và có giá trị pháp lý như nhau.\n4. Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, người được giao đất để quản lý đã kê khai\nđăng ký được ghi vào hồ sơ địa chính và được xem xét cấp Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu tài sản gắn liền với đất nếu đủ điều kiện theo quy định của Luật này .\n5. Chính phủ quy định chi tiết việc đăng ký đất đai, tài sản gắn liền với đất."
+      }
     },
     {
-      "id": "khauniem_dang_ky_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Đăng ký đất đai"
+      "id": "hanhviphaply_dangkydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đăng ký đất đai"
+      }
     },
     {
-      "id": "khauniem_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Tài sản gắn liền với đất"
+      "id": "khainiem_taisangganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_nguoi_duoc_giao_dat_de_quan_ly",
-      "label": "ChủThể",
-      "name": "người được giao đất để quản lý"
+      "id": "chuthe_nguoiduocgiaodatdequanly",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người được giao đất để quản lý"
+      }
     },
     {
-      "id": "dieukien_bat_buoc",
-      "label": "ĐiềuKiện",
-      "name": "bắt buộc"
+      "id": "khainiem_nhano",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhà ở"
+      }
     },
     {
-      "id": "khauniem_nha_o",
-      "label": "KháiNiệm",
-      "name": "nhà ở"
+      "id": "khainiem_congtrinhxaydung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công trình xây dựng"
+      }
     },
     {
-      "id": "khauniem_cong_trinh_xay_dung",
-      "label": "KháiNiệm",
-      "name": "công trình xây dựng"
+      "id": "chuthe_chusohuu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ sở hữu"
+      }
     },
     {
-      "id": "chuthe_chu_so_huu",
-      "label": "ChủThể",
-      "name": "chủ sở hữu"
+      "id": "khainiem_dangkybiendong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký biến động"
+      }
     },
     {
-      "id": "dieukien_theo_yeu_cau_cua_chu_so_huu",
-      "label": "ĐiềuKiện",
-      "name": "theo yêu cầu của chủ sở hữu"
+      "id": "khainiem_dangkygiay",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký trên giấy"
+      }
     },
     {
-      "id": "hanhvipaply_dang_ky",
-      "label": "HànhViPhápLý",
-      "name": "đăng ký"
+      "id": "khainiem_dangkydientu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đăng ký điện tử"
+      }
     },
     {
-      "id": "khauniem_dang_ky_lan_dau",
-      "label": "KháiNiệm",
-      "name": "đăng ký lần đầu"
+      "id": "khainiem_hosodiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hồ sơ địa chính"
+      }
     },
     {
-      "id": "khauniem_dang_ky_bien_dong",
-      "label": "KháiNiệm",
-      "name": "đăng ký biến động"
+      "id": "khainiem_giaychungnhan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "khauniem_dang_ky_tren_giay",
-      "label": "KháiNiệm",
-      "name": "đăng ký trên giấy"
-    },
-    {
-      "id": "khauniem_dang_ky_dien_tu",
-      "label": "KháiNiệm",
-      "name": "đăng ký điện tử"
-    },
-    {
-      "id": "khauniem_gia_tri_phap_ly_nhu_nhau",
-      "label": "KháiNiệm",
-      "name": "giá trị pháp lý như nhau"
-    },
-    {
-      "id": "hanhvipaply_ke_khai_dang_ky",
-      "label": "HànhViPhápLý",
-      "name": "kê khai đăng ký"
-    },
-    {
-      "id": "khauniem_ho_so_dia_chinh",
-      "label": "KháiNiệm",
-      "name": "hồ sơ địa chính"
-    },
-    {
-      "id": "khauniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "dieukien_du_dieu_kien_theo_quy_dinh_cua_Luat_nay",
-      "label": "ĐiềuKiện",
-      "name": "đủ điều kiện theo quy định của Luật này"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhvipaply_ghi_vao_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "ghi vào hồ sơ địa chính"
-    },
-    {
-      "id": "hanhvipaply_cap_giay_chung_nhan",
-      "label": "HànhViPhápLý",
-      "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhvipaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_131",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_dang_ky_dat_dai"
+      "source_id": "dieu_131_2024",
+      "target_id": "hanhviphaply_dangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_131",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_taisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_dang_ky_dat_dai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bat_buoc"
+      "source_id": "dieu_131_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_dang_ky_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
+      "source_id": "dieu_131_2024",
+      "target_id": "chuthe_nguoiduocgiaodatdequanly",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_dang_ky_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_duoc_giao_dat_de_quan_ly"
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_nhano",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_tai_san_gan_lien_voi_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khauniem_nha_o"
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_congtrinhxaydung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_tai_san_gan_lien_voi_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khauniem_cong_trinh_xay_dung"
+      "source_id": "dieu_131_2024",
+      "target_id": "chuthe_chusohuu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_dang_ky",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_dangkybiendong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_dang_ky",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_yeu_cau_cua_chu_so_huu"
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_dangkygiay",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_theo_yeu_cau_cua_chu_so_huu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chu_so_huu"
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_dangkydientu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_dang_ky",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_dang_ky_lan_dau"
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_hosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_dang_ky",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_dang_ky_bien_dong"
+      "source_id": "dieu_131_2024",
+      "target_id": "khainiem_giaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_dang_ky",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_dang_ky_tren_giay"
-    },
-    {
-      "source_id": "hanhvipaply_dang_ky",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_dang_ky_dien_tu"
-    },
-    {
-      "source_id": "khauniem_dang_ky_tren_giay",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_gia_tri_phap_ly_nhu_nhau"
-    },
-    {
-      "source_id": "khauniem_dang_ky_dien_tu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_gia_tri_phap_ly_nhu_nhau"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_ke_khai_dang_ky"
-    },
-    {
-      "source_id": "chuthe_chu_so_huu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_ke_khai_dang_ky"
-    },
-    {
-      "source_id": "chuthe_nguoi_duoc_giao_dat_de_quan_ly",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_ke_khai_dang_ky"
-    },
-    {
-      "source_id": "hanhvipaply_ke_khai_dang_ky",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_ghi_vao_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhvipaply_ghi_vao_ho_so_dia_chinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhvipaply_ghi_vao_ho_so_dia_chinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "hanhvipaply_cap_giay_chung_nhan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhvipaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_du_dieu_kien_theo_quy_dinh_cua_Luat_nay"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhvipaply_quy_dinh_chi_tiet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_dang_ky_dat_dai"
-    },
-    {
-      "source_id": "hanhvipaply_quy_dinh_chi_tiet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_131_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

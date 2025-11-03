@@ -1,131 +1,64 @@
 {
   "entities": [
     {
-      "id": "dieu_259",
-      "label": "ĐiềuLuật",
-      "name": "Điều 259. Xử lý quyền sử dụng đất của hộ gia đình có trước ngày Luật này có hiệu lực thi hành"
+      "id": "dieu_259_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 259. Xử lý quyền sử dụng đất của hộ gia đình có trước ngày Luật này có hiệu lực thi hành",
+        "ma_dieu": "259",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 259.\n\nXử lý quyền sử dụng đất của hộ gia đình có trước ngày Luật này có hiệu lực thi hành\n1. Hộ gia đình sử dụng đất được xác định theo quy định của pháp luật về đất đai trước ngày Luật này\ncó hiệu lực thi hành thì được tham gia quan hệ pháp luật về đất đai với tư cách nhóm người sử dụng about:blank\nđất mà có chung quyền sử dụng đất quy định tại khoản 2 Điều 27 của Luật này .\nHộ gia đình sử dụng đất đã được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất, nhận\nchuyển quyền sử dụng đất trước ngày Luật này có hiệu lực thi hành thì có quyền và nghĩa vụ như\nquyền và nghĩa vụ của cá nhân sử dụng đất theo quy định của Luật này .\n2. Khi cơ quan nhà nước có thẩm quyền thực hiện giao đất, cho thuê đất cho hộ gia đình để thực hiện\nphương án bồi thường, hỗ trợ, tái định cư đã được phê duyệt thì phải ghi cụ thể các cá nhân là thành\nviên hộ gia đình có quyền sử dụng đất vào quyết định giao đất, cho thuê đất.\n3. Hộ gia đình được Nhà nước giao đất không thu tiền sử dụng đất, giao đất có thu tiền sử dụng đất,\ncho thuê đất trước ngày Luật này có hiệu lực thi hành thì được tiếp tục sử dụng đất trong thời hạn sử\ndụng đất còn lại. Khi hết thời hạn sử dụng đất thì được gia hạn sử dụng đất theo hình thức giao đất,\ncho thuê đất cho các cá nhân là thành viên hộ gia đình đó theo quy định của Luật này ."
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh_su_dung_dat",
-      "label": "ChủThể",
-      "name": "Hộ gia đình sử dụng đất"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "dieukien_co_truoc_ngay_luat_co_hieu_luc",
-      "label": "ĐiềuKiện",
-      "name": "Có trước ngày Luật này có hiệu lực thi hành"
+      "id": "khainiem_quyen_su_dung_dat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_nhom_nguoi_su_dung_dat",
-      "label": "ChủThể",
-      "name": "Nhóm người sử dụng đất có chung quyền sử dụng đất"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khainiem_quyen_va_nghia_vu",
-      "label": "KháiNiệm",
-      "name": "Quyền và nghĩa vụ như của cá nhân sử dụng đất"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "Cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "hanhvi_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất"
-    },
-    {
-      "id": "hanhvi_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê đất"
-    },
-    {
-      "id": "hanhvi_ghi_ten_thanh_vien_vao_quyet_dinh",
-      "label": "HànhViPhápLý",
-      "name": "Ghi cụ thể các cá nhân là thành viên hộ gia đình vào quyết định"
-    },
-    {
-      "id": "chuthe_ca_nhan_la_thanh_vien_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "Các cá nhân là thành viên hộ gia đình"
-    },
-    {
-      "id": "khainiem_thoi_han_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Thời hạn sử dụng đất"
-    },
-    {
-      "id": "dieukien_het_thoi_han_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Khi hết thời hạn sử dụng đất"
-    },
-    {
-      "id": "hanhvi_gia_han_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Gia hạn sử dụng đất"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_259",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_ho_gia_dinh_su_dung_dat"
+      "source_id": "dieu_259_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ho_gia_dinh_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_truoc_ngay_luat_co_hieu_luc"
+      "source_id": "dieu_259_2024",
+      "target_id": "khainiem_quyen_su_dung_dat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ho_gia_dinh_su_dung_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_nhom_nguoi_su_dung_dat"
+      "source_id": "chuthe_hogiadinh",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ho_gia_dinh_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyen_va_nghia_vu"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giao_dat"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue_dat"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_ghi_ten_thanh_vien_vao_quyet_dinh"
-    },
-    {
-      "source_id": "hanhvi_ghi_ten_thanh_vien_vao_quyet_dinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan_la_thanh_vien_ho_gia_dinh"
-    },
-    {
-      "source_id": "dieu_259",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_thoi_han_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_het_thoi_han_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_gia_han_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_gia_han_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_het_thoi_han_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_gia_han_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan_la_thanh_vien_ho_gia_dinh"
+      "source_id": "chuthe_hogiadinh",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

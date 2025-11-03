@@ -1,661 +1,232 @@
 {
   "entities": [
     {
-      "id": "dieu_158",
-      "label": "ĐiềuLuật",
-      "name": "Điều 158"
+      "id": "dieu_158_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 158. Nguyên tắc, căn cứ, phương pháp định giá đất",
+        "ma_dieu": "158",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 158.\n\nNguyên tắc, căn cứ, phương pháp định giá đất\n1. Việc định giá đất phải bảo đảm các nguyên tắc sau đây:\na) Phương pháp định giá đất theo nguyên tắc thị trường;\nb) Tuân thủ đúng phương pháp, trình tự, thủ tục định giá đất;\nc) Bảo đảm trung thực, khách quan, công khai, minh bạch;\nd) Bảo đảm tính độc lập giữa tổ chức tư vấn xác định giá đất, Hội đồng thẩm định bảng giá đất, Hội\nđồng thẩm định giá đất cụ thể và cơ quan hoặc người có thẩm quyền quyết định giá đất ;\nđ) Bảo đảm hài hòa lợi ích giữa Nhà nước, người sử dụng đất và nhà đầu tư.\n2. Căn cứ định giá đất bao gồm:\na) Mục đích sử dụng đất được đưa ra định giá;\nb) Thời hạn sử dụng đất. Đối với đất nông nghiệp đã được Nhà nước giao cho hộ gia đình, cá nhân\ntheo hạn mức giao đất nông nghiệp, đất nông nghiệp trong hạn mức nhận chuyển quyền thì không căn\ncứ vào thời hạn sử dụng đất;\nc) Thông tin đầu vào để định giá đất theo các phương pháp định giá đất;\nd) Yếu tố khác ảnh hưởng đến giá đất;\nđ) Quy định của pháp luật có liên quan tại thời điểm định giá đất.\n3. Thông tin đầu vào để định giá đất theo các phương pháp định giá đất quy định tại điểm c khoản 2\nĐiều này bao gồm:\na) Giá đất được ghi nhận trong cơ sở dữ liệu quốc gia về đất đai, cơ sở dữ liệu quốc gia về giá;\nb) Giá đất được ghi trong hợp đồng chuyển nhượng quyền sử dụng đất; giá trúng đấu giá quyền sử\ndụng đất sau khi hoàn thành nghĩa vụ tài chính;\nc) Giá đất thu thập qua điều tra, khảo sát đối với trường hợp chưa có thông tin giá đất quy định tại\nđiểm a và điểm b khoản này;\nd) Thông tin về doanh thu, chi phí, thu nhập từ việc sử dụng đất .\n4. Thông tin giá đất đầu vào quy định tại các điểm a, b và c khoản 3 Điều này là thông tin được hình\nthành trong thời gian 24 tháng tính từ thời điểm định giá đất quy định tại  khoản 2 Điều 91 và khoản 3\nĐiều 155 của Luật này  trở về trước .\nViệc sử dụng thông tin được thu thập quy định tại khoản này ưu tiên sử dụng thông tin gần nhất với\nthời điểm định giá đất.\n5. Các phương pháp định giá đất bao gồm:\na) Phương pháp so sánh được thực hiện bằng cách điều chỉnh mức giá của các thửa đất có cùng mục\nđích sử dụng đất, tương đồng nhất định về các yếu tố có ảnh hưởng đến giá đất đã chuyển nhượng\ntrên thị trường, đã trúng đấu giá quyền sử dụng đất mà người trúng đấu giá đã hoàn thành nghĩa vụ tài\nchính theo quyết định trúng đấu giá thông qua việc phân tích, so sánh các yếu tố ảnh hưởng đến giá đất\nsau khi đã loại trừ giá trị tài sản gắn liền với đất (nếu có) để xác định giá của thửa đất cần định giá; about:blank\nb) Phương pháp thu nhập được thực hiện bằng cách lấy thu nhập ròng bình quân năm trên một diện tích\nđất chia cho lãi suất tiền gửi tiết kiệm bình quân của loại tiền gửi bằng tiền Việt Nam kỳ hạn 12 tháng\ntại các ngân hàng thương mại do Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có\nquyền biểu quyết trên địa bàn cấp tỉnh của 03 năm liền kề tính đến hết quý gần nhất có số liệu trước\nthời điểm định giá đất;\nc) Phương pháp thặng dư được thực hiện bằng cách lấy tổng doanh thu phát triển ước tính trừ đi tổng\nchi phí phát triển ước tính của thửa đất, khu đất trên cơ sở sử dụng đất có hiệu quả cao nhất (hệ số sử\ndụng đất, mật độ xây dựng, số tầng cao tối đa của công trình) theo quy hoạch sử dụng đất,  quy hoạch\nchi tiết xây dựng  đã được cơ quan có thẩm quyền phê duyệt;\nd) Phương pháp hệ số điều chỉnh giá đất được thực hiện bằng cách lấy giá đất trong bảng giá đất nhân\nvới hệ số điều chỉnh giá đất. Hệ số điều chỉnh giá đất được xác định thông qua việc so sánh giá đất\ntrong bảng giá đất với giá đất thị trường;\nđ) Chính phủ quy định phương pháp định giá đất khác chưa được quy định tại các điểm a, b, c và d\nkhoản này sau khi được sự đồng ý của Ủy ban Thường vụ Quốc hội.\n6. Trường hợp và điều kiện áp dụng phương pháp định giá đất được quy định như sau:\na) Phương pháp so sánh được áp dụng để định giá đối với trường hợp có tối thiểu 03 thửa đất có cùng\nmục đích sử dụng đất, tương đồng nhất định về các yếu tố có ảnh hưởng đến giá đất đã chuyển\nnhượng trên thị trường, trúng đấu giá quyền sử dụng đất mà người trúng đấu giá đã hoàn thành nghĩa\nvụ tài chính theo quyết định trúng đấu giá;\nb) Phương pháp thu nhập được áp dụng để định giá đối với trường hợp thửa đất, khu đất nông nghiệp,\nđất phi nông nghiệp không phải là đất ở mà thửa đất, khu đất cần định giá không đủ điều kiện áp dụng\nphương pháp so sánh nhưng xác định được các khoản thu nhập, chi phí từ việc sử dụng đất theo mục\nđích sử dụng đất được đưa ra định giá;\nc) Phương pháp thặng dư được áp dụng để định giá đối với trường hợp thửa đất, khu đất để thực hiện\ndự án đầu tư không đủ điều kiện áp dụng phương pháp so sánh, phương pháp thu nhập nhưng ước tính\nđược tổng doanh thu phát triển và tổng chi phí phát triển của dự án;\nd) Phương pháp hệ số điều chỉnh giá đất được áp dụng để định giá cụ thể tính tiền bồi thường khi Nhà\nnước thu hồi đất đối với các trường hợp thu hồi nhiều thửa đất liền kề nhau, có cùng mục đích sử\ndụng và đã được quy định giá đất trong bảng giá đất mà không đủ điều kiện để áp dụng phương pháp\nso sánh.\n7. Các phương pháp định giá đất quy định tại khoản 5 Điều này được sử dụng để xác định giá đất cụ\nthể và xây dựng bảng giá đất.\n8. Trường hợp áp dụng các phương pháp định giá đất tại các điểm a, b và d khoản 5 Điều này để xác\nđịnh giá đất cụ thể mà có kết quả thấp hơn giá đất trong bảng giá đất thì sử dụng giá đất trong bảng giá\nđất.\n9. Việc lựa chọn phương pháp định giá đất do tổ chức thực hiện định giá đất đề xuất và Hội đồng thẩm\nđịnh giá đất cụ thể quyết định.\n10. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
       "id": "khainiem_dinhgiadat",
-      "label": "KháiNiệm",
-      "name": "Định giá đất"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Định giá đất"
+      }
     },
     {
-      "id": "khainiem_nguyentacdinhgiadat",
-      "label": "KháiNiệm",
-      "name": "Nguyên tắc định giá đất"
-    },
-    {
-      "id": "khainiem_ppdinhgiadattheonguyentacthitruong",
-      "label": "KháiNiệm",
-      "name": "Phương pháp định giá đất theo nguyên tắc thị trường"
-    },
-    {
-      "id": "khainiem_tuantudungpptrinhtuthutucdinhgiadat",
-      "label": "KháiNiệm",
-      "name": "Tuân thủ đúng phương pháp, trình tự, thủ tục định giá đất"
-    },
-    {
-      "id": "khainiem_baodamtrungthuckhachquancongkhaiminhbach",
-      "label": "KháiNiệm",
-      "name": "Bảo đảm trung thực, khách quan, công khai, minh bạch"
-    },
-    {
-      "id": "khainiem_baodamtinhdoclap",
-      "label": "KháiNiệm",
-      "name": "Bảo đảm tính độc lập"
-    },
-    {
-      "id": "chuthe_tochuctuvnxacdinhgiadat",
-      "label": "ChủThể",
-      "name": "Tổ chức tư vấn xác định giá đất"
-    },
-    {
-      "id": "chuthe_hoidongthamdinhbanggia_dat",
-      "label": "ChủThể",
-      "name": "Hội đồng thẩm định bảng giá đất"
-    },
-    {
-      "id": "chuthe_hoidongthamdinhgiadatcuthe",
-      "label": "ChủThể",
-      "name": "Hội đồng thẩm định giá đất cụ thể"
-    },
-    {
-      "id": "chuthe_coquan_nguoicothamquyenquyetdinhgiadat",
-      "label": "ChủThể",
-      "name": "Cơ quan hoặc người có thẩm quyền quyết định giá đất"
-    },
-    {
-      "id": "khainiem_baodamhaihoaloiich",
-      "label": "KháiNiệm",
-      "name": "Bảo đảm hài hòa lợi ích"
-    },
-    {
-      "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_ngoisudungdat",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất"
-    },
-    {
-      "id": "chuthe_nhadautu",
-      "label": "ChủThể",
-      "name": "Nhà đầu tư"
-    },
-    {
-      "id": "khainiem_cancudinhgiadat",
-      "label": "KháiNiệm",
-      "name": "Căn cứ định giá đất"
-    },
-    {
-      "id": "dieukien_mucdichsudungdat",
-      "label": "ĐiềuKiện",
-      "name": "Mục đích sử dụng đất được đưa ra định giá"
-    },
-    {
-      "id": "dieukien_thoihansudungdat",
-      "label": "ĐiềuKiện",
-      "name": "Thời hạn sử dụng đất"
-    },
-    {
-      "id": "dieukien_datnongnghiepgiaochohogiacanhantheohanmuc",
-      "label": "ĐiềuKiện",
-      "name": "Đất nông nghiệp đã được Nhà nước giao cho hộ gia đình, cá nhân theo hạn mức giao đất nông nghiệp"
-    },
-    {
-      "id": "chuthe_hogiadinh",
-      "label": "ChủThể",
-      "name": "Hộ gia đình"
-    },
-    {
-      "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
-    },
-    {
-      "id": "dieukien_datnongnghieptronghanmucnhanchuyenquyen",
-      "label": "ĐiềuKiện",
-      "name": "Đất nông nghiệp trong hạn mức nhận chuyển quyền"
-    },
-    {
-      "id": "khainiem_thongtindaovaodedinhgiadat",
-      "label": "KháiNiệm",
-      "name": "Thông tin đầu vào để định giá đất"
-    },
-    {
-      "id": "dieukien_yotokhacanhhuongdengiadat",
-      "label": "ĐiềuKiện",
-      "name": "Yếu tố khác ảnh hưởng đến giá đất"
-    },
-    {
-      "id": "dieukien_quydinhphapluatcolienquan",
-      "label": "ĐiềuKiện",
-      "name": "Quy định của pháp luật có liên quan tại thời điểm định giá đất"
-    },
-    {
-      "id": "khainiem_giadatgheconcsdldatdaigiaca",
-      "label": "KháiNiệm",
-      "name": "Giá đất được ghi nhận trong cơ sở dữ liệu quốc gia về đất đai, cơ sở dữ liệu quốc gia về giá"
-    },
-    {
-      "id": "khainiem_giadatgihopdongchuyennhuong",
-      "label": "KháiNiệm",
-      "name": "Giá đất được ghi trong hợp đồng chuyển nhượng quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_chuyennhuongquyensudungdat",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển nhượng quyền sử dụng đất"
-    },
-    {
-      "id": "khainiem_giatrungdaugiahoanthanhnghiavu",
-      "label": "KháiNiệm",
-      "name": "Giá trúng đấu giá quyền sử dụng đất sau khi hoàn thành nghĩa vụ tài chính"
-    },
-    {
-      "id": "hanhviphaply_trungdau_giaquyensudungdat",
-      "label": "HànhViPhápLý",
-      "name": "Trúng đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_hoanthanhnghiavutaichinh",
-      "label": "HànhViPhápLý",
-      "name": "Hoàn thành nghĩa vụ tài chính"
-    },
-    {
-      "id": "khainiem_giadatdieutrakhaosat",
-      "label": "KháiNiệm",
-      "name": "Giá đất thu thập qua điều tra, khảo sát"
-    },
-    {
-      "id": "khainiem_thongtindoanhthuchiphithunhap",
-      "label": "KháiNiệm",
-      "name": "Thông tin về doanh thu, chi phí, thu nhập từ việc sử dụng đất"
-    },
-    {
-      "id": "dieukien_thoitgianhinhthongtintoida24thang",
-      "label": "ĐiềuKiện",
-      "name": "Thông tin được hình thành trong thời gian 24 tháng tính từ thời điểm định giá đất"
-    },
-    {
-      "id": "dieu_91_khoan_2",
-      "label": "ĐiềuLuật",
-      "name": "Điều 91 khoản 2"
-    },
-    {
-      "id": "dieu_155_khoan_3",
-      "label": "ĐiềuLuật",
-      "name": "Điều 155 khoản 3"
-    },
-    {
-      "id": "dieukien_uutienthongtingannhat",
-      "label": "ĐiềuKiện",
-      "name": "Ưu tiên sử dụng thông tin gần nhất với thời điểm định giá đất"
+      "id": "khainiem_nguyentacthitruong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nguyên tắc thị trường"
+      }
     },
     {
       "id": "khainiem_phuongphapdinhgiadat",
-      "label": "KháiNiệm",
-      "name": "Các phương pháp định giá đất"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phương pháp định giá đất"
+      }
     },
     {
-      "id": "khainiem_phuongphapsosanh",
-      "label": "KháiNiệm",
-      "name": "Phương pháp so sánh"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khainiem_cachdieu_chinhgia_ppsosanh",
-      "label": "KháiNiệm",
-      "name": "Cách thức thực hiện phương pháp so sánh (điều chỉnh giá)"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_nhadautu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà đầu tư"
+      }
+    },
+    {
+      "id": "khainiem_mucdichsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Mục đích sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_thoihansudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thời hạn sử dụng đất"
+      }
+    },
+    {
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
+    },
+    {
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
+    },
+    {
+      "id": "khainiem_giadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giá đất"
+      }
+    },
+    {
+      "id": "khainiem_chuyennhuongquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chuyển nhượng quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_daugiathuematdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đấu giá quyền sử dụng đất"
+      }
+    },
+    {
+      "id": "khainiem_phuongphapso sánh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phương pháp so sánh"
+      }
     },
     {
       "id": "khainiem_phuongphapthunhap",
-      "label": "KháiNiệm",
-      "name": "Phương pháp thu nhập"
-    },
-    {
-      "id": "khainiem_cachtinhtoan_ppthunhap",
-      "label": "KháiNiệm",
-      "name": "Cách thức thực hiện phương pháp thu nhập (tính thu nhập ròng)"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phương pháp thu nhập"
+      }
     },
     {
       "id": "khainiem_phuongphapthangdu",
-      "label": "KháiNiệm",
-      "name": "Phương pháp thặng dư"
-    },
-    {
-      "id": "khainiem_cachtinhtoan_ppthangdu",
-      "label": "KháiNiệm",
-      "name": "Cách thức thực hiện phương pháp thặng dư (tính doanh thu, chi phí)"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phương pháp thặng dư"
+      }
     },
     {
       "id": "khainiem_phuongphaphesodieuchinhgiadat",
-      "label": "KháiNiệm",
-      "name": "Phương pháp hệ số điều chỉnh giá đất"
-    },
-    {
-      "id": "khainiem_banggia_dat",
-      "label": "KháiNiệm",
-      "name": "Bảng giá đất"
-    },
-    {
-      "id": "khainiem_cachtinhtoan_pphesodieuchinh",
-      "label": "KháiNiệm",
-      "name": "Cách thức thực hiện phương pháp hệ số điều chỉnh giá đất (nhân bảng giá với hệ số)"
-    },
-    {
-      "id": "khainiem_phuongphapdinhgiadatkhac",
-      "label": "KháiNiệm",
-      "name": "Phương pháp định giá đất khác"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phương pháp hệ số điều chỉnh giá đất"
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "chuthe_uybanthuongvuquochoi",
-      "label": "ChủThể",
-      "name": "Ủy ban Thường vụ Quốc hội"
-    },
-    {
-      "id": "dieukien_dieukienapsosanh",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp áp dụng phương pháp so sánh"
-    },
-    {
-      "id": "dieukien_dieukienapthunhap",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp áp dụng phương pháp thu nhập"
-    },
-    {
-      "id": "dieukien_dieukienapthangdu",
-      "label": "ĐiềuKiệm",
-      "name": "Trường hợp áp dụng phương pháp thặng dư"
-    },
-    {
-      "id": "dieukien_dieukienaphesodieuchinh",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp áp dụng phương pháp hệ số điều chỉnh giá đất"
-    },
-    {
-      "id": "khainiem_tienboithuongkhinhathuoihodat",
-      "label": "KháiNiệm",
-      "name": "Tiền bồi thường khi Nhà nước thu hồi đất"
-    },
-    {
-      "id": "hanhviphaply_thuhoildat",
-      "label": "HànhViPhápLý",
-      "name": "Thu hồi đất"
-    },
-    {
-      "id": "hanhviphaply_xacdinhgiadatcuthe",
-      "label": "HànhViPhápLý",
-      "name": "Xác định giá đất cụ thể"
-    },
-    {
-      "id": "hanhviphaply_xaydungbanggia_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng bảng giá đất"
-    },
-    {
-      "id": "dieukien_ketquathaphonbanggia_dat",
-      "label": "ĐiềuKiện",
-      "name": "Có kết quả thấp hơn giá đất trong bảng giá đất"
-    },
-    {
-      "id": "hanhviphaply_sudunggiadattrongbanggia_dat",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng giá đất trong bảng giá đất"
-    },
-    {
-      "id": "chuthe_tochucthuchien_dinhgiadat",
-      "label": "ChủThể",
-      "name": "Tổ chức thực hiện định giá đất"
-    },
-    {
-      "id": "hanhviphaply_dexuatphuongphapdinhgiadat",
-      "label": "HànhViPhápLý",
-      "name": "Đề xuất phương pháp định giá đất"
-    },
-    {
-      "id": "hanhviphaply_quyetdinhphuongphapdinhgiadat",
-      "label": "HànhViPhápLý",
-      "name": "Quyết định phương pháp định giá đất"
-    },
-    {
-      "id": "hanhviphaply_giaodat",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_158",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nguyentacdinhgiadat"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_dinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_158",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_cancudinhgiadat"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_nguyentacthitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_158",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_phuongphapdinhgiadat"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_phuongphapdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dinhgiadat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_nguyentacdinhgiadat"
+      "source_id": "dieu_158_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nguyentacdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_ppdinhgiadattheonguyentacthitruong"
+      "source_id": "dieu_158_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nguyentacdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_tuantudungpptrinhtuthutucdinhgiadat"
+      "source_id": "dieu_158_2024",
+      "target_id": "chuthe_nhadautu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nguyentacdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_baodamtrungthuckhachquancongkhaiminhbach"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_mucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nguyentacdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_baodamtinhdoclap"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_thoihansudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baodamtinhdoclap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuctuvnxacdinhgiadat"
+      "source_id": "dieu_158_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baodamtinhdoclap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hoidongthamdinhbanggia_dat"
+      "source_id": "dieu_158_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baodamtinhdoclap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hoidongthamdinhgiadatcuthe"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_giadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baodamtinhdoclap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_coquan_nguoicothamquyenquyetdinhgiadat"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_chuyennhuongquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nguyentacdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_baodamhaihoaloiich"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_daugiathuematdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baodamhaihoaloiich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhanuoc"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_phuongphapso sánh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baodamhaihoaloiich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ngoisudungdat"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_phuongphapthunhap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baodamhaihoaloiich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhadautu"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_phuongphapthangdu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dinhgiadat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_cancudinhgiadat"
+      "source_id": "dieu_158_2024",
+      "target_id": "khainiem_phuongphaphesodieuchinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_cancudinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "dieukien_mucdichsudungdat"
-    },
-    {
-      "source_id": "khainiem_cancudinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "dieukien_thoihansudungdat"
-    },
-    {
-      "source_id": "dieukien_thoihansudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_datnongnghiepgiaochohogiacanhantheohanmuc"
-    },
-    {
-      "source_id": "dieukien_thoihansudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_datnongnghieptronghanmucnhanchuyenquyen"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_giaodat"
-    },
-    {
-      "source_id": "hanhviphaply_giaodat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh"
-    },
-    {
-      "source_id": "hanhviphaply_giaodat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "khainiem_cancudinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_thongtindaovaodedinhgiadat"
-    },
-    {
-      "source_id": "khainiem_cancudinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "dieukien_yotokhacanhhuongdengiadat"
-    },
-    {
-      "source_id": "khainiem_cancudinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "dieukien_quydinhphapluatcolienquan"
-    },
-    {
-      "source_id": "khainiem_thongtindaovaodedinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_giadatgheconcsdldatdaigiaca"
-    },
-    {
-      "source_id": "khainiem_thongtindaovaodedinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_giadatgihopdongchuyennhuong"
-    },
-    {
-      "source_id": "khainiem_giadatgihopdongchuyennhuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyennhuongquyensudungdat"
-    },
-    {
-      "source_id": "khainiem_thongtindaovaodedinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_giatrungdaugiahoanthanhnghiavu"
-    },
-    {
-      "source_id": "khainiem_giatrungdaugiahoanthanhnghiavu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_trungdau_giaquyensudungdat"
-    },
-    {
-      "source_id": "khainiem_giatrungdaugiahoanthanhnghiavu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_hoanthanhnghiavutaichinh"
-    },
-    {
-      "source_id": "khainiem_thongtindaovaodedinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_giadatdieutrakhaosat"
-    },
-    {
-      "source_id": "khainiem_thongtindaovaodedinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_thongtindoanhthuchiphithunhap"
-    },
-    {
-      "source_id": "khainiem_thongtindaovaodedinhgiadat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoitgianhinhthongtintoida24thang"
-    },
-    {
-      "source_id": "dieukien_thoitgianhinhthongtintoida24thang",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_91_khoan_2"
-    },
-    {
-      "source_id": "dieukien_thoitgianhinhthongtintoida24thang",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_155_khoan_3"
-    },
-    {
-      "source_id": "khainiem_thongtindaovaodedinhgiadat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_uutienthongtingannhat"
-    },
-    {
-      "source_id": "khainiem_phuongphapdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_phuongphapsosanh"
-    },
-    {
-      "source_id": "khainiem_phuongphapsosanh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cachdieu_chinhgia_ppsosanh"
-    },
-    {
-      "source_id": "khainiem_phuongphapdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_phuongphapthunhap"
-    },
-    {
-      "source_id": "khainiem_phuongphapthunhap",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cachtinhtoan_ppthunhap"
-    },
-    {
-      "source_id": "khainiem_phuongphapdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_phuongphapthangdu"
-    },
-    {
-      "source_id": "khainiem_phuongphapthangdu",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cachtinhtoan_ppthangdu"
-    },
-    {
-      "source_id": "khainiem_phuongphapdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_phuongphaphesodieuchinhgiadat"
-    },
-    {
-      "source_id": "khainiem_phuongphaphesodieuchinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cachtinhtoan_pphesodieuchinh"
-    },
-    {
-      "source_id": "khainiem_phuongphapdinhgiadat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_phuongphapdinhgiadatkhac"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_phuongphapdinhgiadatkhac"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uybanthuongvuquochoi"
-    },
-    {
-      "source_id": "khainiem_phuongphapsosanh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_dieukienapsosanh"
-    },
-    {
-      "source_id": "khainiem_phuongphapthunhap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_dieukienapthunhap"
-    },
-    {
-      "source_id": "khainiem_phuongphapthangdu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_dieukienapthangdu"
-    },
-    {
-      "source_id": "khainiem_phuongphaphesodieuchinhgiadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_dieukienaphesodieuchinh"
-    },
-    {
-      "source_id": "dieukien_dieukienaphesodieuchinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tienboithuongkhinhathuoihodat"
-    },
-    {
-      "source_id": "khainiem_tienboithuongkhinhathuoihodat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuhoildat"
-    },
-    {
-      "source_id": "hanhviphaply_thuhoildat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhanuoc"
-    },
-    {
-      "source_id": "khainiem_phuongphapdinhgiadat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_xacdinhgiadatcuthe"
-    },
-    {
-      "source_id": "khainiem_phuongphapdinhgiadat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_xaydungbanggia_dat"
-    },
-    {
-      "source_id": "khainiem_phuongphapsosanh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_sudunggiadattrongbanggia_dat"
-    },
-    {
-      "source_id": "khainiem_phuongphapthunhap",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_sudunggiadattrongbanggia_dat"
-    },
-    {
-      "source_id": "khainiem_phuongphaphesodieuchinhgiadat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_sudunggiadattrongbanggia_dat"
-    },
-    {
-      "source_id": "hanhviphaply_sudunggiadattrongbanggia_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_banggia_dat"
-    },
-    {
-      "source_id": "hanhviphaply_sudunggiadattrongbanggia_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ketquathaphonbanggia_dat"
-    },
-    {
-      "source_id": "chuthe_tochucthuchien_dinhgiadat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_dexuatphuongphapdinhgiadat"
-    },
-    {
-      "source_id": "chuthe_hoidongthamdinhgiadatcuthe",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_quyetdinhphuongphapdinhgiadat"
-    },
-    {
-      "source_id": "dieu_158",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_chinhphu"
+      "source_id": "dieu_158_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

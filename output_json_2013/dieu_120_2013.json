@@ -1,82 +1,64 @@
 {
   "entities": [
     {
-      "id": "dieu_120",
-      "label": "ĐiềuLuật",
-      "name": "Điều 120",
-      "description": "Hệ thống thông tin đất đai"
+      "id": "dieu_120_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 120. Hệ thống thông tin đất đai",
+        "ma_dieu": "120",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 120.\n\nHệ thống thông tin đất đai\n1. Hệ thống thông tin đất đai được thiết kế tổng thể và xây dựng thành một hệ thống thống nhất trên\nphạm vi cả nước, phục vụ đa mục tiêu; theo tiêu chuẩn, quy chuẩn quốc gia, quốc tế được công nhận tại\nViệt Nam.\n2. Hệ thống thông tin đất đai gồm các thành phần cơ bản sau đây:\na) Hạ tầng kỹ thuật công nghệ thông tin đất đai;\nb) Hệ thống phần mềm hệ điều hành, phần mềm hệ thống và phần mềm ứng dụng;\nc) Cơ sở dữ liệu đất đai quốc gia."
+      }
     },
     {
       "id": "khainiem_hethongthongtindatdai",
-      "label": "KháiNiệm",
-      "name": "Hệ thống thông tin đất đai"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin đất đai"
+      }
     },
     {
-      "id": "dieukien_thongnhatphamvicanuoc",
-      "label": "ĐiềuKiện",
-      "name": "Thống nhất trên phạm vi cả nước"
+      "id": "khainiem_hatangkythuatcongnghethongtindatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hạ tầng kỹ thuật công nghệ thông tin đất đai"
+      }
     },
     {
-      "id": "dieukien_phucvudamuctieu",
-      "label": "ĐiềuKiện",
-      "name": "Phục vụ đa mục tiêu"
-    },
-    {
-      "id": "dieukien_theotieuchuanquycuan",
-      "label": "ĐiềuKiện",
-      "name": "Theo tiêu chuẩn, quy chuẩn quốc gia, quốc tế được công nhận tại Việt Nam"
-    },
-    {
-      "id": "khainiem_hatangkythuatcnttdatdai",
-      "label": "KháiNiệm",
-      "name": "Hạ tầng kỹ thuật công nghệ thông tin đất đai"
-    },
-    {
-      "id": "khainiem_hethongphanmem",
-      "label": "KháiNiệm",
-      "name": "Hệ thống phần mềm hệ điều hành, phần mềm hệ thống và phần mềm ứng dụng"
+      "id": "khainiem_hethongphanmemhedieuhanh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống phần mềm hệ điều hành, phần mềm hệ thống và phần mềm ứng dụng"
+      }
     },
     {
       "id": "khainiem_cosodulieudatdaiquocgia",
-      "label": "KháiNiệm",
-      "name": "Cơ sở dữ liệu đất đai quốc gia"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cơ sở dữ liệu đất đai quốc gia"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_120",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hethongthongtindatdai"
+      "source_id": "dieu_120_2013",
+      "target_id": "khainiem_hethongthongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hethongthongtindatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thongnhatphamvicanuoc"
+      "source_id": "dieu_120_2013",
+      "target_id": "khainiem_hatangkythuatcongnghethongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hethongthongtindatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phucvudamuctieu"
+      "source_id": "dieu_120_2013",
+      "target_id": "khainiem_hethongphanmemhedieuhanh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hethongthongtindatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theotieuchuanquycuan"
-    },
-    {
-      "source_id": "khainiem_hethongthongtindatdai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_hatangkythuatcnttdatdai"
-    },
-    {
-      "source_id": "khainiem_hethongthongtindatdai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_hethongphanmem"
-    },
-    {
-      "source_id": "khainiem_hethongthongtindatdai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cosodulieudatdaiquocgia"
+      "source_id": "dieu_120_2013",
+      "target_id": "khainiem_cosodulieudatdaiquocgia",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

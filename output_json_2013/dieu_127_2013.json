@@ -1,301 +1,196 @@
 {
   "entities": [
     {
-      "id": "dieu_127",
-      "label": "ĐiềuLuật",
-      "text": "Điều 127. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất"
+      "id": "dieu_127_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 127. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất",
+        "ma_dieu": "127",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 127.\n\nThời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với hộ gia đình, cá nhân khi chuyển mục đích sử dụng đất được quy định\nnhư sau:\na) Trường hợp chuyển đất rừng phòng hộ, đất rừng đặc dụng sang sử dụng vào mục đích khác thì thời\nhạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng\nđất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng lúa, đất trồng cây hàng năm khác, đất trồng cây lâu năm, đất rừng sản\nxuất, đất nuôi trồng thủy sản, đất làm muối sang trồng rừng phòng hộ, trồng rừng đặc dụng thì hộ gia\nđình, cá nhân được sử dụng đất ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất bao gồm đất trồng cây hàng năm khác, đất\ntrồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối thì hộ gia đình, cá nhân sử\ndụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê.\nKhi hết thời hạn, hộ gia đình, cá nhân sử dụng đất được Nhà nước xem xét gia hạn sử dụng đất nhưng\nkhông quá thời hạn quy định tại khoản 1 Điều 126 của Luật này  nếu có nhu cầu tiếp tục sử dụng;\nd) Trường hợp chuyển đất nông nghiệp sang sử dụng vào mục đích phi nông nghiệp thì thời hạn sử\ndụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử\ndụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nđ) Trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi\nnông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông\nnghiệp sử dụng ổn định lâu dài thì hộ gia đình, cá nhân được sử dụng đất ổn định lâu dài. about:blank\n. Thời hạn sử dụng đất đối với tổ chức, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn\nđầu tư nước ngoài thực hiện dự án đầu tư không thuộc khu công nghiệp, cụm công nghiệp, khu chế\nxuất, khu công nghệ cao khi chuyển mục đích sử dụng đất được xác định theo dự án đầu tư quy định tại\nkhoản 3 Điều 126 của Luật này .\n3. Tổ chức kinh tế chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất\nphi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông\nnghiệp sử dụng ổn định lâu dài thì tổ chức kinh tế được sử dụng đất ổn định lâu dài."
+      }
     },
     {
-      "id": "khaikiem_thoinhan_sudungdat",
-      "label": "KháiNiệm",
-      "text": "Thời hạn sử dụng đất"
-    },
-    {
-      "id": "khaikiem_thoinhan_loaidat_sauchuyendich",
-      "label": "KháiNiệm",
-      "text": "thời hạn của loại đất sau khi được chuyển mục đích sử dụng"
-    },
-    {
-      "id": "khaikiem_thoikiem_coquyetdinhchophechuyenmucdichsudungdat",
-      "label": "KháiNiệm",
-      "text": "thời điểm có quyết định cho phép chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "khaikiem_sudungdat_on_dinh_lau_dai",
-      "label": "KháiNiệm",
-      "text": "sử dụng đất ổn định lâu dài"
-    },
-    {
-      "id": "khaikiem_tieptuc_sudungdat_theo_thoihanda_duocgiao_chothue",
-      "label": "KháiNiệm",
-      "text": "tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê"
-    },
-    {
-      "id": "khaikiem_thoihangiahan_khongquahoan_khoan1_dieu126",
-      "label": "KháiNiệm",
-      "text": "không quá thời hạn quy định tại khoản 1 Điều 126 của Luật này"
-    },
-    {
-      "id": "khaikiem_duan_dautu_khoan3_dieu126",
-      "label": "KháiNiệm",
-      "text": "dự án đầu tư quy định tại khoản 3 Điều 126 của Luật này"
-    },
-    {
-      "id": "chuthe_hogiadinh_canhan",
-      "label": "ChủThể",
-      "text": "hộ gia đình, cá nhân"
-    },
-    {
-      "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "text": "Nhà nước"
-    },
-    {
-      "id": "chuthe_tochuc",
-      "label": "ChủThể",
-      "text": "tổ chức"
-    },
-    {
-      "id": "chuthe_nguoivietnam_dinhcu_onuocngoai",
-      "label": "ChủThể",
-      "text": "người Việt Nam định cư ở nước ngoài"
-    },
-    {
-      "id": "chuthe_doanhnghiep_covondautunuocngoai",
-      "label": "ChủThể",
-      "text": "doanh nghiệp có vốn đầu tư nước ngoài"
-    },
-    {
-      "id": "chuthe_tochuc_kinhte",
-      "label": "ChủThể",
-      "text": "Tổ chức kinh tế"
+      "id": "khainiem_thoihansudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thời hạn sử dụng đất"
+      }
     },
     {
       "id": "hanhviphaply_chuyenmucdichsudungdat",
-      "label": "HànhViPhápLý",
-      "text": "chuyển mục đích sử dụng đất"
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_xemxet_giahan_sudungdat",
-      "label": "HànhViPhápLý",
-      "text": "xem xét gia hạn sử dụng đất"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "hanhviphaply_thuchien_duan_dautu_khongthuoc_khucn_kcx_kcn",
-      "label": "HànhViPhápLý",
-      "text": "thực hiện dự án đầu tư không thuộc khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "dieukien_chuyen_datrungphongho_datrungdacdung_sang_mucdichkhac",
-      "label": "ĐiềuKiện",
-      "text": "chuyển đất rừng phòng hộ, đất rừng đặc dụng sang sử dụng vào mục đích khác"
+      "id": "khainiem_datrungphongho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất rừng phòng hộ"
+      }
     },
     {
-      "id": "dieukien_chuyen_datnongnghiepkhac_sang_trongrungphongho_trongrungdacdung",
-      "label": "ĐiềuKiện",
-      "text": "chuyển đất trồng lúa, đất trồng cây hàng năm khác, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang trồng rừng phòng hộ, trồng rừng đặc dụng"
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất rừng đặc dụng"
+      }
     },
     {
-      "id": "dieukien_chuyen_mucdichsudung_giua_cacloaidat_nongnghiep",
-      "label": "ĐiềuKiện",
-      "text": "chuyển mục đích sử dụng giữa các loại đất bao gồm đất trồng cây hàng năm khác, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối"
+      "id": "khainiem_dattronglua",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất trồng lúa"
+      }
     },
     {
-      "id": "dieukien_khinhetthoihansudung",
-      "label": "ĐiềuKiện",
-      "text": "Khi hết thời hạn"
+      "id": "khainiem_dattrongcayhangnamkhac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất trồng cây hàng năm khác"
+      }
     },
     {
-      "id": "dieukien_concunhu_tieptucsudung",
-      "label": "ĐiềuKiện",
-      "text": "có nhu cầu tiếp tục sử dụng"
+      "id": "khainiem_dattrongcaylaunam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất trồng cây lâu năm"
+      }
     },
     {
-      "id": "dieukien_chuyen_datnongnghiep_sang_phinongnghiep",
-      "label": "ĐiềuKiện",
-      "text": "chuyển đất nông nghiệp sang sử dụng vào mục đích phi nông nghiệp"
+      "id": "khainiem_datrungsanxuat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất rừng sản xuất"
+      }
     },
     {
-      "id": "dieukien_chuyen_mucdich_datphinongnghiep_on_dinh_hoac_cothoiha",
-      "label": "ĐiềuKiện",
-      "text": "chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài"
+      "id": "khainiem_datnuoitrongthuysan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nuôi trồng thủy sản"
+      }
+    },
+    {
+      "id": "khainiem_datlammuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất làm muối"
+      }
+    },
+    {
+      "id": "khainiem_datnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất nông nghiệp"
+      }
+    },
+    {
+      "id": "khainiem_datphinongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất phi nông nghiệp"
+      }
+    },
+    {
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_127",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_thoinhan_sudungdat"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_thoihansudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh_canhan"
+      "source_id": "dieu_127_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyenmucdichsudungdat"
+      "source_id": "dieu_127_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "dieu_127",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_chuyen_datrungphongho_datrungdacdung_sang_mucdichkhac"
+      "source_id": "dieu_127_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "dieukien_chuyen_datrungphongho_datrungdacdung_sang_mucdichkhac",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_thoinhan_sudungdat"
+      "source_id": "dieu_127_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_thoinhan_loaidat_sauchuyendich"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_datrungphongho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_thoikiem_coquyetdinhchophechuyenmucdichsudungdat"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_127",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_chuyen_datnongnghiepkhac_sang_trongrungphongho_trongrungdacdung"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_dattronglua",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_chuyen_datnongnghiepkhac_sang_trongrungphongho_trongrungdacdung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh_canhan"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_dattrongcayhangnamkhac",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_chuyen_datnongnghiepkhac_sang_trongrungphongho_trongrungdacdung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_sudungdat_on_dinh_lau_dai"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_dattrongcaylaunam",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_127",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_chuyen_mucdichsudung_giua_cacloaidat_nongnghiep"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_datrungsanxuat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_chuyen_mucdichsudung_giua_cacloaidat_nongnghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh_canhan"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_datnuoitrongthuysan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_chuyen_mucdichsudung_giua_cacloaidat_nongnghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_tieptuc_sudungdat_theo_thoihanda_duocgiao_chothue"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_datlammuoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_tieptuc_sudungdat_theo_thoihanda_duocgiao_chothue",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khinhetthoihansudung"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_datnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_khinhetthoihansudung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh_canhan"
-    },
-    {
-      "source_id": "dieukien_khinhetthoihansudung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_concunhu_tieptucsudung"
-    },
-    {
-      "source_id": "dieukien_khinhetthoihansudung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_xemxet_giahan_sudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_xemxet_giahan_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhanuoc"
-    },
-    {
-      "source_id": "hanhviphaply_xemxet_giahan_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_thoihangiahan_khongquahoan_khoan1_dieu126"
-    },
-    {
-      "source_id": "dieu_127",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_chuyen_datnongnghiep_sang_phinongnghiep"
-    },
-    {
-      "source_id": "dieukien_chuyen_datnongnghiep_sang_phinongnghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_thoinhan_sudungdat"
-    },
-    {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_thoinhan_loaidat_sauchuyendich"
-    },
-    {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_thoikiem_coquyetdinhchophechuyenmucdichsudungdat"
-    },
-    {
-      "source_id": "dieu_127",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_chuyen_mucdich_datphinongnghiep_on_dinh_hoac_cothoiha"
-    },
-    {
-      "source_id": "dieukien_chuyen_mucdich_datphinongnghiep_on_dinh_hoac_cothoiha",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh_canhan"
-    },
-    {
-      "source_id": "dieukien_chuyen_mucdich_datphinongnghiep_on_dinh_hoac_cothoiha",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_sudungdat_on_dinh_lau_dai"
-    },
-    {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc"
-    },
-    {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoivietnam_dinhcu_onuocngoai"
-    },
-    {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanhnghiep_covondautunuocngoai"
-    },
-    {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chuyenmucdichsudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thuchien_duan_dautu_khongthuoc_khucn_kcx_kcn"
-    },
-    {
-      "source_id": "khaikiem_thoinhan_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_duan_dautu_khoan3_dieu126"
-    },
-    {
-      "source_id": "dieu_127",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_chuyen_mucdich_datphinongnghiep_on_dinh_hoac_cothoiha"
-    },
-    {
-      "source_id": "dieukien_chuyen_mucdich_datphinongnghiep_on_dinh_hoac_cothoiha",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_kinhte"
-    },
-    {
-      "source_id": "dieukien_chuyen_mucdich_datphinongnghiep_on_dinh_hoac_cothoiha",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_sudungdat_on_dinh_lau_dai"
+      "source_id": "dieu_127_2013",
+      "target_id": "khainiem_datphinongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

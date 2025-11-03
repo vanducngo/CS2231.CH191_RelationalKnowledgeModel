@@ -1,131 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_96",
-      "label": "ĐiềuLuật",
-      "text": "Điều 96"
+      "id": "dieu_96_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 96. Hồ sơ địa chính",
+        "ma_dieu": "96",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 96.\n\nHồ sơ địa chính\n1. Hồ sơ địa chính bao gồm các tài liệu dạng giấy hoặc dạng số thể hiện thông tin chi tiết về từng thửa\nđất, người được giao quản lý đất, người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, các quyền và\nthay đổi quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n2. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về hồ sơ địa chính và việc lập, chỉnh lý, quản lý\nhồ sơ địa chính; lộ trình chuyển đổi hồ sơ địa chính dạng giấy sang hồ sơ địa chính dạng số.\nMỤC 2. CẤP  GIẤY  CHỨNG NHẬN QUYỀN SỬ DỤNG ĐẤT , QUYỀN SỞ HỮU NHÀ Ở VÀ\nTÀI SẢN KHÁC GẮN LIỀN VỚI ĐẤT"
+      }
     },
     {
-      "id": "khainiem_ho_so_dia_chinh",
-      "label": "KháiNiệm",
-      "text": "Hồ sơ địa chính"
+      "id": "khainiem_hosodiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hồ sơ địa chính"
+      }
     },
     {
-      "id": "khainiem_thong_tin_chi_tiet_ve_tung_thua_dat",
-      "label": "KháiNiệm",
-      "text": "thông tin chi tiết về từng thửa đất"
+      "id": "chuthe_nguoiduocgiaoquanlydat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người được giao quản lý đất"
+      }
     },
     {
-      "id": "chuthe_nguoi_duoc_giao_quan_ly_dat",
-      "label": "ChủThể",
-      "text": "người được giao quản lý đất"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "label": "ChủThể",
-      "text": "người sử dụng đất"
+      "id": "chuthe_chusohuutaisangganlienvoidat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "chủ sở hữu tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "chuthe_chu_so_huu_tai_san_gan_lien_voi_dat",
-      "label": "ChủThể",
-      "text": "chủ sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "khainiem_cac_quyen_va_thay_doi_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "text": "các quyền và thay đổi quyền sử dụng đất"
-    },
-    {
-      "id": "khainiem_quyen_so_huu_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "text": "quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "label": "ChủThể",
-      "text": "Bộ trưởng Bộ Tài nguyên và Môi trường"
-    },
-    {
-      "id": "hanhviphaply_lap_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "text": "lập hồ sơ địa chính"
-    },
-    {
-      "id": "hanhviphaply_chinh_ly_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "text": "chỉnh lý hồ sơ địa chính"
-    },
-    {
-      "id": "hanhviphaply_quan_ly_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "text": "quản lý hồ sơ địa chính"
-    },
-    {
-      "id": "khainiem_lo_trinh_chuyen_doi_ho_so_dia_chinh_dang_giay_sang_dang_so",
-      "label": "KháiNiệm",
-      "text": "lộ trình chuyển đổi hồ sơ địa chính dạng giấy sang hồ sơ địa chính dạng số"
+      "id": "chuthe_botruongbotainnguyenvamoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_96",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_ho_so_dia_chinh"
+      "source_id": "dieu_96_2013",
+      "target_id": "khainiem_hosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_ho_so_dia_chinh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_thong_tin_chi_tiet_ve_tung_thua_dat"
+      "source_id": "dieu_96_2013",
+      "target_id": "chuthe_nguoiduocgiaoquanlydat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_ho_so_dia_chinh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_nguoi_duoc_giao_quan_ly_dat"
+      "source_id": "dieu_96_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_ho_so_dia_chinh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_nguoi_su_dung_dat"
+      "source_id": "dieu_96_2013",
+      "target_id": "chuthe_chusohuutaisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_ho_so_dia_chinh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_chu_so_huu_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "khainiem_ho_so_dia_chinh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cac_quyen_va_thay_doi_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_ho_so_dia_chinh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_quyen_so_huu_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_lap_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chinh_ly_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_lo_trinh_chuyen_doi_ho_so_dia_chinh_dang_giay_sang_dang_so"
+      "source_id": "dieu_96_2013",
+      "target_id": "chuthe_botruongbotainnguyenvamoitruong",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

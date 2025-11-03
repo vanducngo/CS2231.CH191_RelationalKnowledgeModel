@@ -1,146 +1,52 @@
 {
   "entities": [
     {
-      "id": "dieu_150",
-      "name": "Điều 150",
-      "label": "ĐiềuLuật"
+      "id": "dieu_150_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 150. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp Nhà nước đã có quyết định quản lý đối với đất đai, tài sản gắn liền với đất nhưng chưa thực hiện",
+        "ma_dieu": "150",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 150.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp Nhà nước đã có quyết định quản lý đối với đất đai, tài sản gắn liền với đất nhưng chưa thực hiện\nHộ gia đình, cá nhân đang sử dụng đất, tài sản gắn liền với đất mà trước đây cơ quan nhà nước đã có quyết định quản lý đối với đất đai, tài sản đó trong quá trình thực hiện chính sách của Nhà nước nhưng thực tế Nhà nước chưa thực hiện quyết định thì người đang sử dụng đất, tài sản gắn liền với đất được tiếp tục sử dụng và được xem xét cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật."
+      }
     },
     {
-      "id": "hanhviphaply_cap_GCN_quyen_SD_dat_SH_taisanganlien",
-      "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "khaikiem_GCN_quyen_SD_dat_SH_taisanganlien",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất",
-      "label": "KháiNiệm"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "khaikiem_quyen_tiep_tuc_SD_dat_taisanganlien",
-      "name": "quyền tiếp tục sử dụng đất, tài sản gắn liền với đất",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "chuthe_hogiadinh_canhan",
-      "name": "Hộ gia đình, cá nhân",
-      "label": "ChủThể"
-    },
-    {
-      "id": "chuthe_nhanuoc",
-      "name": "Nhà nước",
-      "label": "ChủThể"
-    },
-    {
-      "id": "chuthe_coquannhanuoc",
-      "name": "cơ quan nhà nước",
-      "label": "ChủThể"
-    },
-    {
-      "id": "dieukien_NhaNuoc_da_co_QD_quanly_nhung_chua_thuchien",
-      "name": "Nhà nước đã có quyết định quản lý đối với đất đai, tài sản gắn liền với đất nhưng chưa thực hiện",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_chu_the_dang_su_dung_dat_taisanganlien",
-      "name": "đang sử dụng đất, tài sản gắn liền với đất",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_CQNN_co_QD_quanly_truocday",
-      "name": "trước đây cơ quan nhà nước đã có quyết định quản lý đối với đất đai, tài sản đó trong quá trình thực hiện chính sách của Nhà nước",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_thuc_te_NhaNuoc_chua_thuc_hien_QD",
-      "name": "thực tế Nhà nước chưa thực hiện quyết định",
-      "label": "ĐiềuKiện"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_150",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_GCN_quyen_SD_dat_SH_taisanganlien"
+      "source_id": "dieu_150_2024",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_150",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_quyen_tiep_tuc_SD_dat_taisanganlien"
+      "source_id": "dieu_150_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "dieu_150",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_NhaNuoc_da_co_QD_quanly_nhung_chua_thuchien"
-    },
-    {
-      "source_id": "hanhviphaply_cap_GCN_quyen_SD_dat_SH_taisanganlien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_GCN_quyen_SD_dat_SH_taisanganlien"
-    },
-    {
-      "source_id": "khaikiem_quyen_tiep_tuc_SD_dat_taisanganlien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh_canhan"
-    },
-    {
-      "source_id": "hanhviphaply_cap_GCN_quyen_SD_dat_SH_taisanganlien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh_canhan"
-    },
-    {
-      "source_id": "chuthe_hogiadinh_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chu_the_dang_su_dung_dat_taisanganlien"
-    },
-    {
-      "source_id": "chuthe_hogiadinh_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_CQNN_co_QD_quanly_truocday"
-    },
-    {
-      "source_id": "chuthe_hogiadinh_canhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuc_te_NhaNuoc_chua_thuc_hien_QD"
-    },
-    {
-      "source_id": "dieukien_CQNN_co_QD_quanly_truocday",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_coquannhanuoc"
-    },
-    {
-      "source_id": "dieukien_thuc_te_NhaNuoc_chua_thuc_hien_QD",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nhanuoc"
-    },
-    {
-      "source_id": "dieukien_chu_the_dang_su_dung_dat_taisanganlien",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_quyen_tiep_tuc_SD_dat_taisanganlien"
-    },
-    {
-      "source_id": "dieukien_CQNN_co_QD_quanly_truocday",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_quyen_tiep_tuc_SD_dat_taisanganlien"
-    },
-    {
-      "source_id": "dieukien_thuc_te_NhaNuoc_chua_thuc_hien_QD",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_quyen_tiep_tuc_SD_dat_taisanganlien"
-    },
-    {
-      "source_id": "dieukien_chu_the_dang_su_dung_dat_taisanganlien",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cap_GCN_quyen_SD_dat_SH_taisanganlien"
-    },
-    {
-      "source_id": "dieukien_CQNN_co_QD_quanly_truocday",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cap_GCN_quyen_SD_dat_SH_taisanganlien"
-    },
-    {
-      "source_id": "dieukien_thuc_te_NhaNuoc_chua_thuc_hien_QD",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cap_GCN_quyen_SD_dat_SH_taisanganlien"
+      "source_id": "dieu_150_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
     }
   ]
 }

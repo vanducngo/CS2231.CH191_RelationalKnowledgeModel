@@ -1,226 +1,119 @@
 {
   "entities": [
     {
-      "id": "dieu_186",
-      "label": "ĐiềuLuật",
-      "name": "Điều 186. Đất rừng đặc dụng"
+      "id": "dieu_186_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 186. Đất rừng đặc dụng",
+        "ma_dieu": "186",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 186.\n\nĐất rừng đặc dụng\n1. Nhà nước giao đất rừng đặc dụng để quản lý, sử dụng, bảo vệ, phát triển rừng theo quy định của pháp\nluật về lâm nghiệp cho các đối tượng sau đây:\na) Ban quản lý rừng đặc dụng;\nb) Tổ chức khoa học và công nghệ, đào tạo, giáo dục nghề nghiệp về lâm nghiệp; about:blank\nc) Ban quản lý rừng phòng hộ, tổ chức kinh tế, đơn vị thuộc lực lượng vũ trang nhân dân;\nd) Cộng đồng dân cư trên địa bàn cấp xã nơi có rừng đặc dụng.\n2. Căn cứ điều kiện cụ thể, ban quản lý rừng đặc dụng phối hợp với chính quyền địa phương lập dự án\ndi dân, tái định cư trình cơ quan có thẩm quyền phê duyệt để di dân ra khỏi phân khu bảo vệ nghiêm\nngặt của rừng đặc dụng.\n3. Các đối tượng được Nhà nước giao đất rừng đặc dụng quy định tại khoản 1 Điều này được xây dựng\ncông trình kết cấu hạ tầng phục vụ quản lý, bảo vệ, phát triển rừng theo quy định của pháp luật về lâm\nnghiệp.\n4. Người được Nhà nước giao đất quy định tại khoản 1 Điều này được cấp Giấy chứng nhận quyền sử\ndụng đất, quyền sở hữu tài sản gắn liền với đất nhưng không được ghi nhận tài sản là tài sản công trên\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất."
+      }
     },
     {
-      "id": "khainiem_dat_rung_dac_dung",
-      "label": "KháiNiệm",
-      "name": "Đất rừng đặc dụng"
+      "id": "khainiem_datrungdacdung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất rừng đặc dụng"
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất rừng đặc dụng"
+      }
     },
     {
-      "id": "chuthe_ban_quan_ly_rung_dac_dung",
-      "label": "ChủThể",
-      "name": "Ban quản lý rừng đặc dụng"
+      "id": "chuthe_banquanlyrungdacdung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng đặc dụng"
+      }
     },
     {
-      "id": "chuthe_tochuc_khoahoc_congnghe_daotao_giaoduc_nghenghiep_lamnghiep",
-      "label": "ChủThể",
-      "name": "Tổ chức khoa học và công nghệ, đào tạo, giáo dục nghề nghiệp về lâm nghiệp"
+      "id": "chuthe_tochucnghiencuu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức khoa học và công nghệ, đào tạo, giáo dục nghề nghiệp về lâm nghiệp"
+      }
     },
     {
-      "id": "chuthe_ban_quan_ly_rung_phong_ho",
-      "label": "ChủThể",
-      "name": "Ban quản lý rừng phòng hộ"
+      "id": "chuthe_banquanlyrungphongho",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý rừng phòng hộ"
+      }
     },
     {
-      "id": "chuthe_to_chuc_kinh_te",
-      "label": "ChủThể",
-      "name": "Tổ chức kinh tế"
+      "id": "chuthe_tochucyte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế"
+      }
     },
     {
-      "id": "chuthe_donvi_luc_luong_vu_trang_nhan_dan",
-      "label": "ChủThể",
-      "name": "Đơn vị thuộc lực lượng vũ trang nhân dân"
+      "id": "chuthe_donvilucluongvutrang",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị thuộc lực lượng vũ trang nhân dân"
+      }
     },
     {
-      "id": "chuthe_cong_dong_dan_cu",
-      "label": "ChủThể",
-      "name": "Cộng đồng dân cư"
-    },
-    {
-      "id": "chuthe_chinh_quyen_dia_phuong",
-      "label": "ChủThể",
-      "name": "Chính quyền địa phương"
-    },
-    {
-      "id": "hanhvi_giao_dat_rung_dac_dung",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất rừng đặc dụng để quản lý, sử dụng, bảo vệ, phát triển rừng"
-    },
-    {
-      "id": "hanhvi_lap_du_an_di_dan_tai_dinh_cu",
-      "label": "HànhViPhápLý",
-      "name": "Lập dự án di dân, tái định cư"
-    },
-    {
-      "id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng công trình kết cấu hạ tầng phục vụ quản lý, bảo vệ, phát triển rừng"
-    },
-    {
-      "id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "dieukien_khong_ghi_nhan_tai_san_cong",
-      "label": "ĐiềuKiện",
-      "name": "Không ghi nhận tài sản là tài sản công trên Giấy chứng nhận"
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư trên địa bàn cấp xã nơi có rừng đặc dụng"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_186",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_rung_dac_dung"
+      "source_id": "dieu_186_2024",
+      "target_id": "khainiem_datrungdacdung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_186",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giao_dat_rung_dac_dung"
+      "source_id": "chuthe_nhanuoc",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat_rung_dac_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc"
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_banquanlyrungdacdung",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_giao_dat_rung_dac_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_dac_dung"
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_tochucnghiencuu",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_giao_dat_rung_dac_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_khoahoc_congnghe_daotao_giaoduc_nghenghiep_lamnghiep"
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_banquanlyrungphongho",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_giao_dat_rung_dac_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_phong_ho"
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_tochucyte",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_giao_dat_rung_dac_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_donvilucluongvutrang",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_giao_dat_rung_dac_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvi_luc_luong_vu_trang_nhan_dan"
-    },
-    {
-      "source_id": "hanhvi_giao_dat_rung_dac_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "dieu_186",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_lap_du_an_di_dan_tai_dinh_cu"
-    },
-    {
-      "source_id": "hanhvi_lap_du_an_di_dan_tai_dinh_cu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_dac_dung"
-    },
-    {
-      "source_id": "hanhvi_lap_du_an_di_dan_tai_dinh_cu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_chinh_quyen_dia_phuong"
-    },
-    {
-      "source_id": "dieu_186",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_dac_dung"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_khoahoc_congnghe_daotao_giaoduc_nghenghiep_lamnghiep"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_phong_ho"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvi_luc_luong_vu_trang_nhan_dan"
-    },
-    {
-      "source_id": "hanhvi_xay_dung_cong_trinh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "dieu_186",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_ghi_nhan_tai_san_cong"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_dac_dung"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_khoahoc_congnghe_daotao_giaoduc_nghenghiep_lamnghiep"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_rung_phong_ho"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvi_luc_luong_vu_trang_nhan_dan"
-    },
-    {
-      "source_id": "hanhvi_cap_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cong_dong_dan_cu"
+      "source_id": "hanhviphaply_giaodat",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "AP_DUNG_CHO"
     }
   ]
 }

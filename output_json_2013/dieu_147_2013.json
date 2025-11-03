@@ -1,381 +1,121 @@
 {
   "entities": [
     {
-      "id": "dieu_147",
-      "label": "ĐiềuLuật",
-      "name": "Điều 147"
+      "id": "dieu_147_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 147. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp",
+        "ma_dieu": "147",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 147.\n\nĐất xây dựng trụ sở cơ quan, công trình sự nghiệp\n1. Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị -\nxã hội.\n2. Đất xây dựng công trình sự nghiệp gồm đất xây dựng các công trình sự nghiệp thuộc các ngành và\nlĩnh vực về kinh tế, văn hóa, xã hội, y tế, giáo dục và đào tạo, thể dục thể thao, khoa học và công nghệ,\nmôi trường, ngoại giao và các công trình sự nghiệp khác.\n3. Việc sử dụng đất quy định tại khoản 1 và khoản 2 Điều này phải phù hợp với quy hoạch, kế hoạch sử\ndụng đất, quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn đã được cơ quan nhà\nnước có thẩm quyền phê duyệt.\n4. Người đứng đầu cơ quan, tổ chức được giao đất, cho thuê đất có trách nhiệm bảo toàn diện tích đất\nđược giao, được thuê và phải sử dụng đất đúng mục đích.\nNghiêm cấm việc sử dụng đất xây dựng trụ sở cơ quan, xây dựng công trình sự nghiệp vào mục đích\nkhác.\n5. Nhà nước khuyến khích việc sử dụng đất vào mục đích phát triển văn hóa, y tế, giáo dục và đào tạo,\nthể dục thể thao, khoa học và công nghệ, môi trường."
+      }
     },
     {
-      "id": "khainiem_dat_xay_dung_tru_so_co_quan",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng trụ sở cơ quan"
+      "id": "khainiem_datxaydungtrusocoquan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng trụ sở cơ quan"
+      }
     },
     {
-      "id": "khainiem_dat_tru_so_co_quan_nha_nuoc",
-      "label": "KháiNiệm",
-      "name": "đất trụ sở cơ quan nhà nước"
+      "id": "khainiem_datxaydungcongtrinhsunghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng công trình sự nghiệp"
+      }
     },
     {
-      "id": "chuthe_co_quan_nha_nuoc",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước"
+      "id": "chuthe_coquannhanhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
     },
     {
-      "id": "chuthe_to_chuc_chinh_tri",
-      "label": "ChủThể",
-      "name": "tổ chức chính trị"
+      "id": "chuthe_tochucchinhTri",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức chính trị"
+      }
     },
     {
-      "id": "chuthe_to_chuc_chinh_tri_xa_hoi",
-      "label": "ChủThể",
-      "name": "tổ chức chính trị - xã hội"
+      "id": "chuthe_tochucchinhtrixahoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức chính trị - xã hội"
+      }
     },
     {
-      "id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng công trình sự nghiệp"
+      "id": "chuthe_nguoidungdautochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người đứng đầu cơ quan, tổ chức"
+      }
     },
     {
-      "id": "khainiem_cong_trinh_su_nghiep",
-      "label": "KháiNiệm",
-      "name": "công trình sự nghiệp"
+      "id": "hanhviphaply_baotoandientichdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo toàn diện tích đất được giao, được thuê"
+      }
     },
     {
-      "id": "khainiem_kinh_te",
-      "label": "KháiNiệm",
-      "name": "kinh tế"
+      "id": "hanhviphaply_sudungdatdungmucdich",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất đúng mục đích"
+      }
     },
     {
-      "id": "khainiem_van_hoa",
-      "label": "KháiNiệm",
-      "name": "văn hóa"
+      "id": "hanhviphaply_sudungdatphattrienvantre",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Sử dụng đất vào mục đích phát triển văn hóa, y tế, giáo dục và đào tạo, thể dục thể thao, khoa học và công nghệ, môi trường"
+      }
     },
     {
-      "id": "khainiem_xa_hoi",
-      "label": "KháiNiệm",
-      "name": "xã hội"
-    },
-    {
-      "id": "khainiem_y_te",
-      "label": "KháiNiệm",
-      "name": "y tế"
-    },
-    {
-      "id": "khainiem_giao_duc_va_dao_tao",
-      "label": "KháiNiệm",
-      "name": "giáo dục và đào tạo"
-    },
-    {
-      "id": "khainiem_the_duc_the_thao",
-      "label": "KháiNiệm",
-      "name": "thể dục thể thao"
-    },
-    {
-      "id": "khainiem_khoa_hoc_va_cong_nghe",
-      "label": "KháiNiệm",
-      "name": "khoa học và công nghệ"
-    },
-    {
-      "id": "khainiem_moi_truong",
-      "label": "KháiNiệm",
-      "name": "môi trường"
-    },
-    {
-      "id": "khainiem_ngoai_giao",
-      "label": "KháiNiệm",
-      "name": "ngoại giao"
-    },
-    {
-      "id": "hanhviphaply_viec_su_dung_dat_khoan_1_2",
-      "label": "HànhViPhápLý",
-      "name": "Việc sử dụng đất quy định tại khoản 1 và khoản 2 Điều này"
-    },
-    {
-      "id": "dieukien_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "dieukien_quy_hoach_xay_dung_do_thi",
-      "label": "ĐiềuKiện",
-      "name": "quy hoạch xây dựng đô thị"
-    },
-    {
-      "id": "dieukien_quy_hoach_xay_dung_diem_dan_cu_nong_thon",
-      "label": "ĐiềuKiện",
-      "name": "quy hoạch xây dựng điểm dân cư nông thôn"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "chuthe_nguoi_dung_dau_co_quan_to_chuc",
-      "label": "ChủThể",
-      "name": "Người đứng đầu cơ quan, tổ chức"
-    },
-    {
-      "id": "hanhviphaply_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "hanhviphaply_bao_toan_dien_tich_dat",
-      "label": "HànhViPhápLý",
-      "name": "bảo toàn diện tích đất"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat_dung_muc_dich",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất đúng mục đích"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat_muc_dich_khac",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất xây dựng trụ sở cơ quan, xây dựng công trình sự nghiệp vào mục đích khác"
-    },
-    {
-      "id": "chetài_nghiem_cam",
-      "label": "ChếTài",
-      "name": "Nghiêm cấm"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "hanhviphaply_khuyen_khich_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "khuyến khích việc sử dụng đất"
-    },
-    {
-      "id": "khainiem_phat_trien_van_hoa",
-      "label": "KháiNiệm",
-      "name": "phát triển văn hóa"
-    },
-    {
-      "id": "khainiem_phat_trien_y_te",
-      "label": "KháiNiệm",
-      "name": "phát triển y tế"
-    },
-    {
-      "id": "khainiem_phat_trien_giao_duc_va_dao_tao",
-      "label": "KháiNiệm",
-      "name": "phát triển giáo dục và đào tạo"
-    },
-    {
-      "id": "khainiem_phat_trien_the_duc_the_thao",
-      "label": "KháiNiệm",
-      "name": "phát triển thể dục thể thao"
-    },
-    {
-      "id": "khainiem_phat_trien_khoa_hoc_va_cong_nghe",
-      "label": "KháiNiệm",
-      "name": "phát triển khoa học và công nghệ"
-    },
-    {
-      "id": "khainiem_phat_trien_moi_truong",
-      "label": "KháiNiệm",
-      "name": "phát triển môi trường"
+      "id": "dieukien_phuhopquyhoach",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_147",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_xay_dung_tru_so_co_quan"
+      "source_id": "dieu_147_2013",
+      "target_id": "khainiem_datxaydungtrusocoquan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_147",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep"
+      "source_id": "dieu_147_2013",
+      "target_id": "khainiem_datxaydungcongtrinhsunghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_tru_so_co_quan_nha_nuoc"
+      "source_id": "dieu_147_2013",
+      "target_id": "chuthe_nguoidungdautochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_to_chuc_chinh_tri"
+      "source_id": "dieu_147_2013",
+      "target_id": "hanhviphaply_baotoandientichdat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_dat_xay_dung_tru_so_co_quan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_to_chuc_chinh_tri_xa_hoi"
+      "source_id": "dieu_147_2013",
+      "target_id": "hanhviphaply_sudungdatdungmucdich",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_dat_tru_so_co_quan_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_co_quan_nha_nuoc"
+      "source_id": "dieu_147_2013",
+      "target_id": "dieukien_phuhopquyhoach",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cong_trinh_su_nghiep"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_su_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_kinh_te"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_su_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_van_hoa"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_su_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_xa_hoi"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_su_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_y_te"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_su_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_giao_duc_va_dao_tao"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_su_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_the_duc_the_thao"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_su_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khoa_hoc_va_cong_nghe"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_su_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_moi_truong"
-    },
-    {
-      "source_id": "khainiem_cong_trinh_su_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_ngoai_giao"
-    },
-    {
-      "source_id": "hanhviphaply_viec_su_dung_dat_khoan_1_2",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_xay_dung_tru_so_co_quan"
-    },
-    {
-      "source_id": "hanhviphaply_viec_su_dung_dat_khoan_1_2",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_viec_su_dung_dat_khoan_1_2",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_viec_su_dung_dat_khoan_1_2",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quy_hoach_xay_dung_do_thi"
-    },
-    {
-      "source_id": "hanhviphaply_viec_su_dung_dat_khoan_1_2",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quy_hoach_xay_dung_diem_dan_cu_nong_thon"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_quy_hoach_xay_dung_do_thi"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_quy_hoach_xay_dung_diem_dan_cu_nong_thon"
-    },
-    {
-      "source_id": "chuthe_nguoi_dung_dau_co_quan_to_chuc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giao_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_dung_dau_co_quan_to_chuc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_dung_dau_co_quan_to_chuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_bao_toan_dien_tich_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_dung_dau_co_quan_to_chuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_su_dung_dat_dung_muc_dich"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_muc_dich_khac",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_xay_dung_tru_so_co_quan"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_muc_dich_khac",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_xay_dung_cong_trinh_su_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_muc_dich_khac",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetài_nghiem_cam"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_khuyen_khich_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phat_trien_van_hoa"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phat_trien_y_te"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phat_trien_giao_duc_va_dao_tao"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phat_trien_the_duc_the_thao"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phat_trien_khoa_hoc_va_cong_nghe"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_phat_trien_moi_truong"
+      "source_id": "dieu_147_2013",
+      "target_id": "hanhviphaply_sudungdatphattrienvantre",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

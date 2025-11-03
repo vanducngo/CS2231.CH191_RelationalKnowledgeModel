@@ -1,176 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_92",
-      "label": "ĐiềuLuật",
-      "name": "Điều 92"
+      "id": "dieu_92_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 92",
+        "ma_dieu": "92",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 92.\n\nTrường hợp Nhà nước thu hồi đất không được bồi thường tài sản gắn liền với đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các  điểm a, b, d, đ,\ne, i khoản 1 Điều 64  và điểm b, d khoản 1 Điều 65 của Luật này .\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập từ sau khi có thông báo\nthu hồi đất của cơ quan nhà nước có thẩm quyền.\n3. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác không còn sử dụng."
+      }
     },
     {
-      "id": "khauniem_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Không được bồi thường tài sản gắn liền với đất"
+      "id": "hanhviphaply_nhanuoc_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
     },
     {
-      "id": "khauniem_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Tài sản gắn liền với đất"
+      "id": "khainiem_taisangganlienvoidat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "dieukien_thuhoidat_die64",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Trường hợp thu hồi đất quy định tại các điểm a, b, d, đ, e, i khoản 1 Điều 64"
+      }
     },
     {
-      "id": "hanhviphaply_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "Thu hồi đất"
+      "id": "dieukien_thuhoidat_die65",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Trường hợp thu hồi đất quy định tại điểm b, d khoản 1 Điều 65"
+      }
     },
     {
-      "id": "dieukien_tai_san_thuoc_truong_hop_dieu_64_65",
-      "label": "ĐiềuKiện",
-      "name": "Tài sản thuộc trường hợp thu hồi đất quy định tại Điều 64, 65"
+      "id": "dieukien_taisantaolap_traiphapluat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật"
+      }
     },
     {
-      "id": "dieukien_tai_san_tao_lap_trai_phap_luat",
-      "label": "ĐiềuKiện",
-      "name": "Tài sản tạo lập trái quy định của pháp luật"
+      "id": "dieukien_taisantaolap_sausacbao",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Tài sản gắn liền với đất được tạo lập từ sau khi có thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền"
+      }
     },
     {
-      "id": "dieukien_tai_san_tao_lap_sau_thong_bao_thu_hoi_dat",
-      "label": "ĐiềuKiện",
-      "name": "Tài sản tạo lập từ sau khi có thông báo thu hồi đất"
-    },
-    {
-      "id": "hanhviphaply_tao_lap",
-      "label": "HànhViPhápLý",
-      "name": "Tạo lập"
-    },
-    {
-      "id": "khauniem_thong_bao_thu_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "Thông báo thu hồi đất"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "Cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "khauniem_cong_trinh_ha_tang_ky_thuat",
-      "label": "KháiNiệm",
-      "name": "Công trình hạ tầng kỹ thuật"
-    },
-    {
-      "id": "khauniem_cong_trinh_ha_tang_xa_hoi",
-      "label": "KháiNiệm",
-      "name": "Công trình hạ tầng xã hội"
-    },
-    {
-      "id": "khauniem_cong_trinh_xay_dung_khac",
-      "label": "KháiNiệm",
-      "name": "Công trình xây dựng khác"
-    },
-    {
-      "id": "dieukien_cong_trinh_khong_con_su_dung",
-      "label": "ĐiềuKiện",
-      "name": "Công trình không còn sử dụng"
+      "id": "khainiem_congtrinhhatang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_92",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_92_2013",
+      "target_id": "hanhviphaply_nhanuoc_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_92_2013",
+      "target_id": "khainiem_taisangganlienvoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thu_hoi_dat"
+      "source_id": "dieu_92_2013",
+      "target_id": "dieukien_thuhoidat_die64",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_92_2013",
+      "target_id": "dieukien_thuhoidat_die65",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_tai_san_thuoc_truong_hop_dieu_64_65",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khauniem_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_92_2013",
+      "target_id": "dieukien_taisantaolap_traiphapluat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_tai_san_thuoc_truong_hop_dieu_64_65",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thu_hoi_dat"
+      "source_id": "dieu_92_2013",
+      "target_id": "dieukien_taisantaolap_sausacbao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_tai_san_tao_lap_trai_phap_luat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khauniem_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "dieukien_tai_san_tao_lap_trai_phap_luat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tao_lap"
-    },
-    {
-      "source_id": "dieukien_tai_san_tao_lap_sau_thong_bao_thu_hoi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khauniem_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "dieukien_tai_san_tao_lap_sau_thong_bao_thu_hoi_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tao_lap"
-    },
-    {
-      "source_id": "dieukien_tai_san_tao_lap_sau_thong_bao_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khauniem_thong_bao_thu_hoi_dat"
-    },
-    {
-      "source_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khauniem_thong_bao_thu_hoi_dat"
-    },
-    {
-      "source_id": "khauniem_tai_san_gan_lien_voi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_cong_trinh_ha_tang_ky_thuat"
-    },
-    {
-      "source_id": "khauniem_tai_san_gan_lien_voi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_cong_trinh_ha_tang_xa_hoi"
-    },
-    {
-      "source_id": "khauniem_tai_san_gan_lien_voi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_cong_trinh_xay_dung_khac"
-    },
-    {
-      "source_id": "khauniem_cong_trinh_ha_tang_ky_thuat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_cong_trinh_khong_con_su_dung"
-    },
-    {
-      "source_id": "khauniem_cong_trinh_ha_tang_xa_hoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_cong_trinh_khong_con_su_dung"
-    },
-    {
-      "source_id": "khauniem_cong_trinh_xay_dung_khac",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_cong_trinh_khong_con_su_dung"
-    },
-    {
-      "source_id": "dieukien_cong_trinh_khong_con_su_dung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khauniem_khong_duoc_boi_thuong_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_92_2013",
+      "target_id": "khainiem_congtrinhhatang",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

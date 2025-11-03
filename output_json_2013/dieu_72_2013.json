@@ -1,621 +1,196 @@
 {
   "entities": [
     {
-      "id": "dieu_72",
-      "label": "ĐiềuLuật",
-      "name": "Điều 72"
+      "id": "dieu_72_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 72. Trưng dụng đất",
+        "ma_dieu": "72",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 72.\n\nTrưng dụng đất\n1. Nhà nước trưng dụng đất trong trường hợp thật cần thiết để thực hiện nhiệm vụ quốc phòng, an ninh\nhoặc trong tình trạng chiến tranh, tình trạng khẩn cấp, phòng, chống thiên tai.\n2. Quyết định trưng dụng đất phải được thể hiện bằng văn bản; trường hợp khẩn cấp không thể ra\nquyết định bằng văn bản thì người có thẩm quyền được quyết định trưng dụng đất bằng lời nói nhưng\nphải viết giấy xác nhận việc quyết định trưng dụng đất ngay tại thời điểm trưng dụng. Quyết định trưng\ndụng đất có hiệu lực thi hành kể từ thời điểm ban hành.\nChậm nhất là 48 giờ, kể từ thời điểm quyết định trưng dụng đất bằng lời nói, cơ quan của người đã\nquyết định trưng dụng đất bằng lời nói có trách nhiệm xác nhận bằng văn bản việc trưng dụng đất và\ngửi cho người có đất trưng dụng.\n3. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Giao thông vận tải, Bộ trưởng Bộ\nNông nghiệp và Phát triển nông thôn, Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Công Thương, Bộ trưởng Bộ\nTài nguyên và Môi trường, Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện có\nthẩm quyền quyết định trưng dụng đất, quyết định gia hạn trưng dụng đất. Người có thẩm quyền trưng\ndụng đất không được phân cấp thẩm quyền cho người khác. about:blank\n. Thời hạn trưng dụng đất là không quá 30 ngày kể từ khi quyết định trưng dụng có hiệu lực thi hành.\nTrường hợp trong tình trạng chiến tranh, tình trạng khẩn cấp thì thời hạn trưng dụng được tính từ ngày\nra quyết định đến không quá 30 ngày kể từ ngày bãi bỏ tình trạng chiến tranh, tình trạng khẩn cấp.\nTrường hợp hết thời hạn trưng dụng đất mà mục đích của việc trưng dụng chưa hoàn thành thì được gia\nhạn nhưng không quá 30 ngày . Quyết định gia hạn trưng dụng đất phải được thể hiện bằng văn bản và\ngửi cho người có đất trưng dụng trước khi kết thúc thời hạn trưng dụng.\n5. Người có đất trưng dụng phải chấp hành quyết định trưng dụng. Trường hợp quyết định trưng dụng\nđất đã được thực hiện theo đúng quy định của pháp luật mà người có đất trưng dụng không chấp hành\nthì người quyết định trưng dụng đất ra quyết định cưỡng chế thi hành và tổ chức cưỡng chế thi hành\nhoặc giao cho Chủ tịch Ủy ban nhân dân cấp tỉnh, cấp huyện nơi có đất trưng dụng tổ chức cưỡng chế\nthi hành.\n6. Người có thẩm quyền trưng dụng đất có trách nhiệm giao cho tổ chức, cá nhân quản lý, sử dụng đất\ntrưng dụng đúng mục đích, hiệu quả; hoàn trả đất khi hết thời hạn trưng dụng; bồi thường thiệt hại do\nviệc trưng dụng đất gây ra.\n7. Việc bồi thường thiệt hại do việc trưng dụng đất gây ra thực hiện theo quy định sau đây:\na) Người có đất trưng dụng được bồi thường thiệt hại trong trường hợp đất trưng dụng bị hủy hoại;\ntrường hợp người có đất trưng dụng bị thiệt hại về thu nhập do việc trưng dụng đất trực tiếp gây ra;\nb) Trường hợp đất trưng dụng bị hủy hoại thì việc bồi thường được thực hiện bằng tiền theo giá chuyển\nnhượng quyền sử dụng đất trên thị trường tại thời điểm thanh toán;\nc) Trường hợp người có đất trưng dụng bị thiệt hại về thu nhập do việc trưng dụng đất trực tiếp gây ra\nthì mức bồi thường được xác định căn cứ vào mức thiệt hại thu nhập thực tế tính từ ngày giao đất trưng\ndụng đến ngày hoàn trả đất trưng dụng được ghi trong quyết định hoàn trả đất trưng dụng.\nMức thiệt hại thu nhập thực tế phải phù hợp với thu nhập do đất trưng dụng mang lại trong điều kiện\nbình thường trước thời điểm trưng dụng đất;\nd) Chủ tịch Ủy ban nhân dân cấp tỉnh, cấp huyện nơi có đất trưng dụng thành lập Hội đồng để xác định\nmức bồi thường thiệt hại do thực hiện trưng dụng đất gây ra trên cơ sở văn bản kê khai của người sử\ndụng đất và hồ sơ địa chính. Căn cứ vào mức bồi thường thiệt hại do Hội đồng xác định, Chủ tịch Ủy\nban nhân dân cấp tỉnh, cấp huyện quyết định mức bồi thường.\nđ) Tiền bồi thường thiệt hại do việc trưng dụng đất gây ra được ngân sách nhà nước chi trả một lần,\ntrực tiếp cho người có đất trưng dụng trong thời hạn không quá 30 ngày , kể từ ngày hoàn trả đất.\n8. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "khauniem_trungdungdat",
-      "label": "KháiNiệm",
-      "name": "Trưng dụng đất"
+      "id": "hanhviphaply_trungdungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Trưng dụng đất"
+      }
+    },
+    {
+      "id": "dieukien_truonghaptatcanthiet",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Thật cần thiết để thực hiện nhiệm vụ quốc phòng, an ninh hoặc trong tình trạng chiến tranh, tình trạng khẩn cấp, phòng, chống thiên tai"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "dieukien_thatcanthiet",
-      "label": "ĐiềuKiện",
-      "name": "Thật cần thiết"
+      "id": "chuthe_nguoicodattrungdung",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có đất trưng dụng"
+      }
     },
     {
-      "id": "dieukien_thuchiennhiemvuquocphonganninh",
-      "label": "ĐiềuKiện",
-      "name": "Thực hiện nhiệm vụ quốc phòng, an ninh"
+      "id": "chuthe_bo_truong_bo_quoc_phong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Quốc phòng"
+      }
     },
     {
-      "id": "dieukien_tinhtrangchientranh",
-      "label": "ĐiềuKiện",
-      "name": "Tình trạng chiến tranh"
+      "id": "chuthe_bo_truong_bo_cong_an",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Công an"
+      }
     },
     {
-      "id": "dieukien_tinhtrangkhancap",
-      "label": "ĐiềuKiện",
-      "name": "Tình trạng khẩn cấp"
+      "id": "chuthe_bo_truong_bo_giaothongvantai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Giao thông vận tải"
+      }
     },
     {
-      "id": "dieukien_phongchongthientai",
-      "label": "ĐiềuKiện",
-      "name": "Phòng, chống thiên tai"
+      "id": "chuthe_bo_truong_bo_nongnghiepvaphattriennongthon",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn"
+      }
     },
     {
-      "id": "khauniem_quyetdinhtrungdungdat",
-      "label": "KháiNiệm",
-      "name": "Quyết định trưng dụng đất"
+      "id": "chuthe_bo_truong_bo_yte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Y tế"
+      }
     },
     {
-      "id": "dieukien_thehienbangvanban",
-      "label": "ĐiềuKiện",
-      "name": "Thể hiện bằng văn bản"
+      "id": "chuthe_bo_truong_bo_congthuong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Công Thương"
+      }
     },
     {
-      "id": "chuthe_nguoicothamquyen",
-      "label": "ChủThể",
-      "name": "Người có thẩm quyền"
+      "id": "chuthe_bo_truong_bo_tainguyenvmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
     },
     {
-      "id": "dieukien_khongthequyetdinhbangvanbankhancap",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp khẩn cấp không thể ra quyết định bằng văn bản"
+      "id": "chuthe_chutich_ubnd_captinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "dieukien_quyetdinhbangloinoi",
-      "label": "ĐiềuKiện",
-      "name": "Quyết định bằng lời nói"
+      "id": "chuthe_chutich_ubnd_caphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
+      }
     },
     {
-      "id": "dieukien_vietgiayxacnhanngaytaithoidiemtrungdung",
-      "label": "ĐiềuKiện",
-      "name": "Viết giấy xác nhận ngay tại thời điểm trưng dụng"
-    },
-    {
-      "id": "dieukien_cohieulucbanhanh",
-      "label": "ĐiềuKiện",
-      "name": "Có hiệu lực thi hành kể từ thời điểm ban hành"
-    },
-    {
-      "id": "chuthe_coquannguoiquyetdinhbangloinoi",
-      "label": "ChủThể",
-      "name": "Cơ quan của người đã quyết định trưng dụng đất bằng lời nói"
-    },
-    {
-      "id": "dieukien_xacnhanbangvanban48h",
-      "label": "ĐiềuKiện",
-      "name": "Xác nhận bằng văn bản trong 48 giờ"
-    },
-    {
-      "id": "chuthe_nguoicodat_trungdung",
-      "label": "ChủThể",
-      "name": "Người có đất trưng dụng"
-    },
-    {
-      "id": "chuthe_botruongboquocphong",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Quốc phòng"
-    },
-    {
-      "id": "chuthe_botruongbocongan",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Công an"
-    },
-    {
-      "id": "chuthe_botruongbogiaothongvantai",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Giao thông vận tải"
-    },
-    {
-      "id": "chuthe_botruongbonongnghiep",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn"
-    },
-    {
-      "id": "chuthe_botruongboyte",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Y tế"
-    },
-    {
-      "id": "chuthe_botruongbocongthuong",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Công Thương"
-    },
-    {
-      "id": "chuthe_botruongbotainguyenmoitruong",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
-    },
-    {
-      "id": "chuthe_chutichubndcaptinh",
-      "label": "ChủThể",
-      "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "chuthe_chutichubndcaphuyen",
-      "label": "ChủThể",
-      "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "khauniem_quyetdinhgiahan_trungdungdat",
-      "label": "KháiNiệm",
-      "name": "Quyết định gia hạn trưng dụng đất"
-    },
-    {
-      "id": "dieukien_khongduocphancapthamquyen",
-      "label": "ĐiềuKiện",
-      "name": "Không được phân cấp thẩm quyền"
-    },
-    {
-      "id": "khauniem_thoihantrungdungdat",
-      "label": "KháiNiệm",
-      "name": "Thời hạn trưng dụng đất"
-    },
-    {
-      "id": "dieukien_thoihantrungdung_khongqua30ngay_hieuluc",
-      "label": "ĐiềuKiện",
-      "name": "Không quá 30 ngày kể từ khi quyết định có hiệu lực"
-    },
-    {
-      "id": "dieukien_trongtinhtrangchientranhkhancap",
-      "label": "ĐiềuKiện",
-      "name": "Trong tình trạng chiến tranh, tình trạng khẩn cấp"
-    },
-    {
-      "id": "dieukien_thoihantrungdung_tinhtrangchientranhkhancap",
-      "label": "ĐiềuKiện",
-      "name": "Thời hạn trưng dụng được tính từ ngày ra quyết định đến không quá 30 ngày kể từ ngày bãi bỏ tình trạng chiến tranh, tình trạng khẩn cấp"
-    },
-    {
-      "id": "dieukien_hetthoihan_muchuadatchuahoanthanh",
-      "label": "ĐiềuKiện",
-      "name": "Hết thời hạn trưng dụng mà mục đích chưa hoàn thành"
-    },
-    {
-      "id": "dieukien_duocgiahan_khongqua30ngay",
-      "label": "ĐiềuKiện",
-      "name": "Được gia hạn không quá 30 ngày"
-    },
-    {
-      "id": "dieukien_quyetdinhgiahan_bangvanban",
-      "label": "ĐiềuKiện",
-      "name": "Quyết định gia hạn phải bằng văn bản"
-    },
-    {
-      "id": "dieukien_guiquyetdinhgiahan_truockhicothoihan",
-      "label": "ĐiềuKiện",
-      "name": "Gửi cho người có đất trưng dụng trước khi kết thúc thời hạn"
-    },
-    {
-      "id": "hanhviphaply_chaphanhquyetdinhtrungdung",
-      "label": "HànhViPhápLý",
-      "name": "Chấp hành quyết định trưng dụng"
-    },
-    {
-      "id": "chetai_cuongchethihanh",
-      "label": "ChếTài",
-      "name": "Cưỡng chế thi hành"
-    },
-    {
-      "id": "dieukien_nguoicodatkhongchaphanh",
-      "label": "ĐiềuKiện",
-      "name": "Người có đất trưng dụng không chấp hành"
-    },
-    {
-      "id": "dieukien_quyetdinhtrungdungdungphapluat",
-      "label": "ĐiềuKiện",
-      "name": "Quyết định trưng dụng đã thực hiện đúng quy định pháp luật"
-    },
-    {
-      "id": "chuthe_tochuc_canhan_quanlysudungdat",
-      "label": "ChủThể",
-      "name": "Tổ chức, cá nhân quản lý, sử dụng đất trưng dụng"
-    },
-    {
-      "id": "hanhviphaply_giaodatdungmucdichhieuqua",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất đúng mục đích, hiệu quả"
-    },
-    {
-      "id": "hanhviphaply_hoantradatkhicothehan",
-      "label": "HànhViPhápLý",
-      "name": "Hoàn trả đất khi hết thời hạn"
-    },
-    {
-      "id": "hanhviphaply_boithuongthiethai",
-      "label": "HànhViPhápLý",
-      "name": "Bồi thường thiệt hại"
-    },
-    {
-      "id": "khauniem_quytrinhboithuongthiethai_trungdungdat",
-      "label": "KháiNiệm",
-      "name": "Quy định bồi thường thiệt hại do trưng dụng đất"
-    },
-    {
-      "id": "dieukien_dattrungdungbihuyhoai",
-      "label": "ĐiềuKiện",
-      "name": "Đất trưng dụng bị hủy hoại"
-    },
-    {
-      "id": "dieukien_thiethaithunhapdotrungdungdatgayra",
-      "label": "ĐiềuKiện",
-      "name": "Thiệt hại về thu nhập do trưng dụng đất trực tiếp gây ra"
-    },
-    {
-      "id": "dieukien_boithuongbangtien_giathitruong",
-      "label": "ĐiềuKiện",
-      "name": "Bồi thường bằng tiền theo giá chuyển nhượng trên thị trường"
-    },
-    {
-      "id": "dieukien_mucboithuongthunhap_thucte",
-      "label": "ĐiềuKiện",
-      "name": "Mức bồi thường thiệt hại thu nhập thực tế"
-    },
-    {
-      "id": "dieukien_thunhapthucte_phuhopphutruoc",
-      "label": "ĐiềuKiện",
-      "name": "Thu nhập thực tế phù hợp với thu nhập bình thường trước trưng dụng"
-    },
-    {
-      "id": "hanhviphaply_thanhlapHoidong_xacdinhmucboithuong",
-      "label": "HànhViPhápLý",
-      "name": "Thành lập Hội đồng để xác định mức bồi thường"
-    },
-    {
-      "id": "chuthe_Hoidong",
-      "label": "ChủThể",
-      "name": "Hội đồng"
-    },
-    {
-      "id": "khauniem_tienboithuongthiethai",
-      "label": "KháiNiệm",
-      "name": "Tiền bồi thường thiệt hại"
-    },
-    {
-      "id": "chuthe_ngansachnhanuoc",
-      "label": "ChủThể",
-      "name": "Ngân sách nhà nước"
-    },
-    {
-      "id": "dieukien_chitramotlan_tructiep",
-      "label": "ĐiềuKiện",
-      "name": "Chi trả một lần, trực tiếp"
-    },
-    {
-      "id": "dieukien_chitrakhongqua30ngay_tuhoantradat",
-      "label": "ĐiềuKiện",
-      "name": "Chi trả không quá 30 ngày kể từ ngày hoàn trả đất"
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_72",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_trungdungdat"
+      "source_id": "dieu_72_2013",
+      "target_id": "hanhviphaply_trungdungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_trungdungdat"
+      "source_id": "hanhviphaply_trungdungdat",
+      "target_id": "dieukien_truonghaptatcanthiet",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "khauniem_trungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thatcanthiet"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_trungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thuchiennhiemvuquocphonganninh"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_nguoicodattrungdung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_trungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tinhtrangchientranh"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_bo_truong_bo_quoc_phong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_trungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tinhtrangkhancap"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_bo_truong_bo_cong_an",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_trungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phongchongthientai"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_bo_truong_bo_giaothongvantai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_quyetdinhtrungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thehienbangvanban"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_bo_truong_bo_nongnghiepvaphattriennongthon",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nguoicothamquyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_bo_truong_bo_yte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_khongthequyetdinhbangvanbankhancap",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_quyetdinhbangloinoi"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_bo_truong_bo_congthuong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_quyetdinhbangloinoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_vietgiayxacnhanngaytaithoidiemtrungdung"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_bo_truong_bo_tainguyenvmoitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_quyetdinhtrungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_cohieulucbanhanh"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_chutich_ubnd_captinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_coquannguoiquyetdinhbangloinoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_xacnhanbangvanban48h"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_chutich_ubnd_caphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_xacnhanbangvanban48h",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicodat_trungdung"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_botruongboquocphong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbocongan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbogiaothongvantai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbonongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongboyte",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbocongthuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbotainguyenmoitruong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaphuyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhtrungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongboquocphong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhgiahan_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbocongan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhgiahan_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbogiaothongvantai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhgiahan_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbonongnghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhgiahan_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongboyte",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhgiahan_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbocongthuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhgiahan_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_botruongbotainguyenmoitruong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhgiahan_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhgiahan_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaphuyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quyetdinhgiahan_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_nguoicothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongduocphancapthamquyen"
-    },
-    {
-      "source_id": "khauniem_thoihantrungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoihantrungdung_khongqua30ngay_hieuluc"
-    },
-    {
-      "source_id": "dieukien_trongtinhtrangchientranhkhancap",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_thoihantrungdung_tinhtrangchientranhkhancap"
-    },
-    {
-      "source_id": "dieukien_hetthoihan_muchuadatchuahoanthanh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieukien_duocgiahan_khongqua30ngay"
-    },
-    {
-      "source_id": "khauniem_quyetdinhgiahan_trungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quyetdinhgiahan_bangvanban"
-    },
-    {
-      "source_id": "khauniem_quyetdinhgiahan_trungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_guiquyetdinhgiahan_truockhicothoihan"
-    },
-    {
-      "source_id": "dieukien_guiquyetdinhgiahan_truockhicothoihan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicodat_trungdung"
-    },
-    {
-      "source_id": "chuthe_nguoicodat_trungdung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chaphanhquyetdinhtrungdung"
-    },
-    {
-      "source_id": "dieukien_nguoicodatkhongchaphanh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_cuongchethihanh"
-    },
-    {
-      "source_id": "dieukien_nguoicodatkhongchaphanh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quyetdinhtrungdungdungphapluat"
-    },
-    {
-      "source_id": "chuthe_nguoicothamquyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chetai_cuongchethihanh"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chetai_cuongchethihanh"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaphuyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chetai_cuongchethihanh"
-    },
-    {
-      "source_id": "chuthe_nguoicothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_giaodatdungmucdichhieuqua"
-    },
-    {
-      "source_id": "hanhviphaply_giaodatdungmucdichhieuqua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_canhan_quanlysudungdat"
-    },
-    {
-      "source_id": "chuthe_nguoicothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_hoantradatkhicothehan"
-    },
-    {
-      "source_id": "chuthe_nguoicothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_boithuongthiethai"
-    },
-    {
-      "source_id": "khauniem_quytrinhboithuongthiethai_trungdungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicodat_trungdung"
-    },
-    {
-      "source_id": "dieukien_dattrungdungbihuyhoai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khauniem_quytrinhboithuongthiethai_trungdungdat"
-    },
-    {
-      "source_id": "dieukien_thiethaithunhapdotrungdungdatgayra",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khauniem_quytrinhboithuongthiethai_trungdungdat"
-    },
-    {
-      "source_id": "khauniem_quytrinhboithuongthiethai_trungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_boithuongbangtien_giathitruong"
-    },
-    {
-      "source_id": "khauniem_quytrinhboithuongthiethai_trungdungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_mucboithuongthunhap_thucte"
-    },
-    {
-      "source_id": "dieukien_mucboithuongthunhap_thucte",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thunhapthucte_phuhopphutruoc"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thanhlapHoidong_xacdinhmucboithuong"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaphuyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thanhlapHoidong_xacdinhmucboithuong"
-    },
-    {
-      "source_id": "chuthe_Hoidong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quytrinhboithuongthiethai_trungdungdat"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_tienboithuongthiethai"
-    },
-    {
-      "source_id": "chuthe_chutichubndcaphuyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_tienboithuongthiethai"
-    },
-    {
-      "source_id": "khauniem_tienboithuongthiethai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ngansachnhanuoc"
-    },
-    {
-      "source_id": "khauniem_tienboithuongthiethai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicodat_trungdung"
-    },
-    {
-      "source_id": "khauniem_tienboithuongthiethai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chitramotlan_tructiep"
-    },
-    {
-      "source_id": "khauniem_tienboithuongthiethai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chitrakhongqua30ngay_tuhoantradat"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_72"
+      "source_id": "dieu_72_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

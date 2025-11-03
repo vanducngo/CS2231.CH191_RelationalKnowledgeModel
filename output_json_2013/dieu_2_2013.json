@@ -1,81 +1,52 @@
 {
   "entities": [
     {
-      "id": "dieu_2",
-      "label": "ĐiềuLuật",
-      "name": "Điều 2"
-    },
-    {
-      "id": "khainiem_doituongapdung",
-      "label": "KháiNiệm",
-      "name": "Đối tượng áp dụng"
+      "id": "dieu_2_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 2",
+        "ma_dieu": "2",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 2.\n\nĐối tượng áp dụng\n1. Cơ quan nhà nước thực hiện quyền hạn và trách nhiệm đại diện chủ sở hữu toàn dân về đất đai, thực\nhiện nhiệm vụ thống nhất quản lý nhà nước về đất đai.\n2. Người sử dụng đất.\n3. Các đối tượng khác có liên quan đến việc quản lý, sử dụng đất."
+      }
     },
     {
       "id": "chuthe_coquannhanuoc",
-      "label": "ChủThể",
-      "name": "Cơ quan nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan nhà nước"
+      }
     },
     {
-      "id": "khainiem_quyenhanvatrachnhiemdaidienchusohuutoandanvedatdai",
-      "label": "KháiNiệm",
-      "name": "quyền hạn và trách nhiệm đại diện chủ sở hữu toàn dân về đất đai"
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_thuchiennhiemvuthongnhatquanlynhanuocvedatdai",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện nhiệm vụ thống nhất quản lý nhà nước về đất đai"
-    },
-    {
-      "id": "chuthe_ngoisudungdat",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất"
-    },
-    {
-      "id": "chuthe_cacdoituongkhaccolienquandenviecquanlysudungdat",
-      "label": "ChủThể",
-      "name": "Các đối tượng khác có liên quan đến việc quản lý, sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_quanlysudungdat",
-      "label": "HànhViPhápLý",
-      "name": "quản lý, sử dụng đất"
+      "id": "khainiem_doituongkhac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Các đối tượng khác"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_2",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_doituongapdung"
+      "source_id": "dieu_2_2013",
+      "target_id": "chuthe_coquannhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_doituongapdung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_coquannhanuoc"
+      "source_id": "dieu_2_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_coquannhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyenhanvatrachnhiemdaidienchusohuutoandanvedatdai"
-    },
-    {
-      "source_id": "chuthe_coquannhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuchiennhiemvuthongnhatquanlynhanuocvedatdai"
-    },
-    {
-      "source_id": "khainiem_doituongapdung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ngoisudungdat"
-    },
-    {
-      "source_id": "khainiem_doituongapdung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cacdoituongkhaccolienquandenviecquanlysudungdat"
-    },
-    {
-      "source_id": "chuthe_cacdoituongkhaccolienquandenviecquanlysudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quanlysudungdat"
+      "source_id": "dieu_2_2013",
+      "target_id": "khainiem_doituongkhac",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

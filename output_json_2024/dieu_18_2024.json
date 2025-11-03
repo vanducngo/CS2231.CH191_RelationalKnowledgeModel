@@ -1,151 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_18",
-      "label": "ĐiềuLuật"
-    },
-    {
-      "id": "khainiem_trachnhiem_nhanuoc_cungcap_thongtin_datdai",
-      "label": "KháiNiệm"
+      "id": "dieu_18_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 18. Trách nhiệm của Nhà nước trong việc cung cấp thông tin đất đai",
+        "ma_dieu": "18",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 18.\n\nTrách nhiệm của Nhà nước tr ong việc cung cấp thông tin đất đai\n1. Bảo đảm quyền tiếp cận của người sử dụng đất và tổ chức, cá nhân khác đối với Hệ thống thông tin\nquốc gia về đất đai theo quy định của pháp luật; ưu tiên lựa chọn hình thức phù hợp với phong tục, tập\nquán và văn hóa truyền thống của từng dân tộc, từng vùng.\n2. Công bố kịp thời, công khai thông tin thuộc Hệ thống thông tin quốc gia về đất đai cho người sử\ndụng đất và tổ chức, cá nhân khác, trừ những thông tin thuộc bí mật nhà nước theo quy định của pháp\nluật. about:blank\n. Thông báo quyết định hành chính, hành vi hành chính trong lĩnh vực quản lý đất đai đến người sử\ndụng đất và tổ chức, cá nhân khác bị ảnh hưởng quyền và lợi ích hợp pháp."
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "hanhviphaply_baodam_quyen_tiepcan",
-      "label": "HànhViPhápLý"
+      "id": "khainiem_thongtindatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "thông tin đất đai"
+      }
     },
     {
       "id": "chuthe_nguoisudungdat",
-      "label": "ChủThể"
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_tochuc_canhankhac",
-      "label": "ChủThể"
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức, cá nhân"
+      }
     },
     {
-      "id": "khainiem_hethong_thongtin_quocgia_ve_dat_dai",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_uu_tien_hinh_thuc_phu_hop_phong_tuc_tap_quan_van_hoa",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "hanhviphaply_cong_bo_thong_tin",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "khainiem_thong_tin_bi_mat_nha_nuoc",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_thong_tin_khong_thuoc_bi_mat_nha_nuoc",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "hanhviphaply_thong_bao_quyet_dinh_hanh_chinh",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "khainiem_quyet_dinh_hanh_chinh_hanh_vi_hanh_chinh_linh_vuc_quan_ly_dat_dai",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "khainiem_quyen_loi_ich_hop_phap",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "dieukien_bi_anh_huong_quyen_loi_ich_hop_phap",
-      "label": "ĐiềuKiện"
+      "id": "khainiem_hethongthongtinquocgiadatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống thông tin quốc gia về đất đai"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_18",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_trachnhiem_nhanuoc_cungcap_thongtin_datdai"
+      "source_id": "dieu_18_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_trachnhiem_nhanuoc_cungcap_thongtin_datdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhanuoc"
+      "source_id": "dieu_18_2024",
+      "target_id": "khainiem_thongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baodam_quyen_tiepcan"
+      "source_id": "dieu_18_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_baodam_quyen_tiepcan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdat"
+      "source_id": "dieu_18_2024",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_baodam_quyen_tiepcan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_canhankhac"
-    },
-    {
-      "source_id": "hanhviphaply_baodam_quyen_tiepcan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hethong_thongtin_quocgia_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_baodam_quyen_tiepcan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_uu_tien_hinh_thuc_phu_hop_phong_tuc_tap_quan_van_hoa"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cong_bo_thong_tin"
-    },
-    {
-      "source_id": "hanhviphaply_cong_bo_thong_tin",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hethong_thongtin_quocgia_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_cong_bo_thong_tin",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_cong_bo_thong_tin",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_canhankhac"
-    },
-    {
-      "source_id": "hanhviphaply_cong_bo_thong_tin",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thong_tin_khong_thuoc_bi_mat_nha_nuoc"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thong_bao_quyet_dinh_hanh_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_thong_bao_quyet_dinh_hanh_chinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyet_dinh_hanh_chinh_hanh_vi_hanh_chinh_linh_vuc_quan_ly_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_thong_bao_quyet_dinh_hanh_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_thong_bao_quyet_dinh_hanh_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_canhankhac"
-    },
-    {
-      "source_id": "hanhviphaply_thong_bao_quyet_dinh_hanh_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bi_anh_huong_quyen_loi_ich_hop_phap"
+      "source_id": "dieu_18_2024",
+      "target_id": "khainiem_hethongthongtinquocgiadatdai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

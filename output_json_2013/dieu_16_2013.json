@@ -1,146 +1,148 @@
 {
   "entities": [
     {
-      "id": "dieu_16",
-      "label": "ĐiềuLuật",
-      "name": "Điều 16"
+      "id": "dieu_16_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 16. Nhà nước quyết định thu hồi đất, trưng dụng đất",
+        "ma_dieu": "16",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 16.\n\nNhà nước quyết định thu hồi đất, trưng dụng đất\n1. Nhà nước quyết định thu hồi đất trong các trường hợp sau đây:\na) Thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công\ncộng;\nb) Thu hồi đất do vi phạm pháp luật về đất đai;\nc) Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa\ntính mạng con người.\n2. Nhà nước quyết định trưng dụng đất trong trường hợp thật cần thiết để thực hiện nhiệm vụ quốc\nphòng, an ninh hoặc trong tình trạng chiến tranh, tình trạng khẩn cấp, phòng, chống thiên tai."
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "hanhviphaply_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi đất"
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
     },
     {
-      "id": "hanhviphaply_trung_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "trưng dụng đất"
+      "id": "hanhviphaply_trungdungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Trưng dụng đất"
+      }
     },
     {
-      "id": "dieu_kien_muc_dich_quoc_phong_an_ninh",
-      "label": "ĐiềuKiện",
-      "name": "mục đích quốc phòng, an ninh"
+      "id": "dieukien_mu đíchquocphongan ninh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "mục đích quốc phòng, an ninh"
+      }
     },
     {
-      "id": "dieu_kien_phat_trien_kinh_te_xa_hoi_vi_loi_ich_quoc_gia_cong_cong",
-      "label": "ĐiềuKiện",
-      "name": "phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+      "id": "dieukien_phattrienkinhtexahoiviviloiichquocgiacongcong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+      }
     },
     {
-      "id": "dieu_kien_vi_pham_phap_luat_ve_dat_dai",
-      "label": "ĐiềuKiện",
-      "name": "vi phạm pháp luật về đất đai"
+      "id": "dieukien_viphamphapluatvedatdai",
+      "label": "DieuKien",
+      "properties": {
+        "name": "vi phạm pháp luật về đất đai"
+      }
     },
     {
-      "id": "dieu_kien_cham_dut_viec_su_dung_dat_theo_phap_luat",
-      "label": "ĐiềuKiện",
-      "name": "chấm dứt việc sử dụng đất theo pháp luật"
+      "id": "dieukien_chamdutviecsudungdattheophapluat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "chấm dứt việc sử dụng đất theo pháp luật"
+      }
     },
     {
-      "id": "dieu_kien_tu_nguyen_tra_lai_dat",
-      "label": "ĐiềuKiện",
-      "name": "tự nguyện trả lại đất"
+      "id": "dieukien_tnguyentralaidat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "tự nguyện trả lại đất"
+      }
     },
     {
-      "id": "dieu_kien_co_nguy_co_de_doa_tinh_mang_con_nguoi",
-      "label": "ĐiềuKiện",
-      "name": "có nguy cơ đe dọa tính mạng con người"
+      "id": "dieukien_conguycodetoatinhmangconnguoi",
+      "label": "DieuKien",
+      "properties": {
+        "name": "có nguy cơ đe dọa tính mạng con người"
+      }
     },
     {
-      "id": "dieu_kien_that_can_thiet_de_thuc_hien_nhiem_vu_quoc_phong_an_ninh",
-      "label": "ĐiềuKiện",
-      "name": "thật cần thiết để thực hiện nhiệm vụ quốc phòng, an ninh"
+      "id": "dieukien_thậtcanthietdethuchiennhiemvuquocphongan ninh",
+      "label": "DieuKien",
+      "properties": {
+        "name": "thật cần thiết để thực hiện nhiệm vụ quốc phòng, an ninh"
+      }
     },
     {
-      "id": "dieu_kien_tinh_trang_chien_tranh",
-      "label": "ĐiềuKiện",
-      "name": "trong tình trạng chiến tranh"
-    },
-    {
-      "id": "dieu_kien_tinh_trang_khan_cap",
-      "label": "ĐiềuKiện",
-      "name": "tình trạng khẩn cấp"
-    },
-    {
-      "id": "dieu_kien_phong_chong_thien_tai",
-      "label": "ĐiềuKiện",
-      "name": "phòng, chống thiên tai"
+      "id": "dieukien_tinhthangchientranhtinhtrangkhancapphongchongthientai",
+      "label": "DieuKien",
+      "properties": {
+        "name": "tình trạng chiến tranh, tình trạng khẩn cấp, phòng, chống thiên tai"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thu_hoi_dat"
+      "source_id": "dieu_16_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_16",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_trung_dung_dat"
+      "source_id": "dieu_16_2013",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thu_hoi_dat"
+      "source_id": "dieu_16_2013",
+      "target_id": "hanhviphaply_trungdungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_trung_dung_dat"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_mu đíchquocphongan ninh",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_muc_dich_quoc_phong_an_ninh"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_phattrienkinhtexahoiviviloiichquocgiacongcong",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_phat_trien_kinh_te_xa_hoi_vi_loi_ich_quoc_gia_cong_cong"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_viphamphapluatvedatdai",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_vi_pham_phap_luat_ve_dat_dai"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_chamdutviecsudungdattheophapluat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_cham_dut_viec_su_dung_dat_theo_phap_luat"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_tnguyentralaidat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_tu_nguyen_tra_lai_dat"
+      "source_id": "hanhviphaply_thuhoidat",
+      "target_id": "dieukien_conguycodetoatinhmangconnguoi",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_co_nguy_co_de_doa_tinh_mang_con_nguoi"
+      "source_id": "hanhviphaply_trungdungdat",
+      "target_id": "dieukien_thậtcanthietdethuchiennhiemvuquocphongan ninh",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_trung_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_that_can_thiet_de_thuc_hien_nhiem_vu_quoc_phong_an_ninh"
-    },
-    {
-      "source_id": "hanhviphaply_trung_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_tinh_trang_chien_tranh"
-    },
-    {
-      "source_id": "hanhviphaply_trung_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_tinh_trang_khan_cap"
-    },
-    {
-      "source_id": "hanhviphaply_trung_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_phong_chong_thien_tai"
+      "source_id": "hanhviphaply_trungdungdat",
+      "target_id": "dieukien_tinhthangchientranhtinhtrangkhancapphongchongthientai",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

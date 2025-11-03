@@ -1,146 +1,52 @@
 {
   "entities": [
     {
-      "id": "dieu_30",
-      "label": "ĐiềuLuật",
-      "name": "Điều 30"
+      "id": "dieu_30_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 30. Bản đồ hành chính",
+        "ma_dieu": "30",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 30.\n\nBản đồ hành chính\n1. Bản đồ hành chính của địa phương nào thì được lập trên cơ sở bản đồ địa giới hành chính của địa\nphương đó.\n2. Việc lập bản đồ hành chính được thực hiện theo quy định sau đây:\na) Bộ Tài nguyên và Môi trường chỉ đạo, hướng dẫn việc lập bản đồ hành chính các cấp trong phạm vi\ncả nước và tổ chức thực hiện việc lập bản đồ hành chính toàn quốc, tỉnh, thành phố trực thuộc trung\nương;\nb) Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp\ntỉnh) tổ chức thực hiện việc lập bản đồ hành chính huyện, quận, thị xã, thành phố thuộc tỉnh.\nMỤC 2. ĐIỀU TRA  CƠ BẢN VỀ ĐẤT  ĐAI"
+      }
     },
     {
       "id": "khainiem_bandohanhchinh",
-      "label": "KháiNiệm",
-      "name": "Bản đồ hành chính"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bản đồ hành chính"
+      }
     },
     {
-      "id": "khainiem_bandodiagioihanhchinh",
-      "label": "KháiNiệm",
-      "name": "bản đồ địa giới hành chính"
+      "id": "chuthe_botainguyenvamitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
     },
     {
-      "id": "khainiem_diaphuong",
-      "label": "KháiNiệm",
-      "name": "địa phương"
-    },
-    {
-      "id": "hanhviphaply_lapbandohanhchinh",
-      "label": "HànhViPhápLý",
-      "name": "lập bản đồ hành chính"
-    },
-    {
-      "id": "dieukien_trencocobandodiagioi",
-      "label": "ĐiềuKiện",
-      "name": "trên cơ sở bản đồ địa giới hành chính của địa phương đó"
-    },
-    {
-      "id": "chuthe_botainguyenmoitruong",
-      "label": "ChủThể",
-      "name": "Bộ Tài nguyên và Môi trường"
-    },
-    {
-      "id": "hanhviphaply_chidaohuongdan",
-      "label": "HànhViPhápLý",
-      "name": "chỉ đạo, hướng dẫn"
-    },
-    {
-      "id": "khainiem_caccap",
-      "label": "KháiNiệm",
-      "name": "các cấp"
-    },
-    {
-      "id": "hanhviphaply_tochucthuchien",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức thực hiện"
-    },
-    {
-      "id": "khainiem_toanquoc",
-      "label": "KháiNiệm",
-      "name": "toàn quốc"
-    },
-    {
-      "id": "khainiem_tinhtpvttw",
-      "label": "KháiNiệm",
-      "name": "tỉnh, thành phố trực thuộc trung ương"
-    },
-    {
-      "id": "chuthe_ubndcaptinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "khainiem_huyenquanthixatptinh",
-      "label": "KháiNiệm",
-      "name": "huyện, quận, thị xã, thành phố thuộc tỉnh"
+      "id": "chuthe_ubndcapTinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_30",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_bandohanhchinh"
+      "source_id": "dieu_30_2013",
+      "target_id": "khainiem_bandohanhchinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_30",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_lapbandohanhchinh"
+      "source_id": "dieu_30_2013",
+      "target_id": "chuthe_botainguyenvamitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_lapbandohanhchinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trencocobandodiagioi"
-    },
-    {
-      "source_id": "dieukien_trencocobandodiagioi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_bandodiagioihanhchinh"
-    },
-    {
-      "source_id": "dieukien_trencocobandodiagioi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_diaphuong"
-    },
-    {
-      "source_id": "chuthe_botainguyenmoitruong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chidaohuongdan"
-    },
-    {
-      "source_id": "hanhviphaply_chidaohuongdan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_lapbandohanhchinh"
-    },
-    {
-      "source_id": "hanhviphaply_lapbandohanhchinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_caccap"
-    },
-    {
-      "source_id": "chuthe_botainguyenmoitruong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tochucthuchien"
-    },
-    {
-      "source_id": "hanhviphaply_tochucthuchien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_lapbandohanhchinh"
-    },
-    {
-      "source_id": "hanhviphaply_lapbandohanhchinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_toanquoc"
-    },
-    {
-      "source_id": "hanhviphaply_lapbandohanhchinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_tinhtpvttw"
-    },
-    {
-      "source_id": "chuthe_ubndcaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tochucthuchien"
-    },
-    {
-      "source_id": "hanhviphaply_lapbandohanhchinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_huyenquanthixatptinh"
+      "source_id": "dieu_30_2013",
+      "target_id": "chuthe_ubndcapTinh",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

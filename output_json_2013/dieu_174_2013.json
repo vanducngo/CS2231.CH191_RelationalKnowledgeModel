@@ -1,556 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_174",
-      "label": "ĐiềuLuật",
-      "name": "Điều 174"
+      "id": "dieu_174_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 174. Quyền và nghĩa vụ của tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê",
+        "ma_dieu": "174",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 174.\n\nQuyền và nghĩa vụ của tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho\nthuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n1. Tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một\nlần cho cả thời gian thuê có quyền và nghĩa vụ chung quy định tại  Điều 166 và Điều 170 của Luật này .\n. Tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một\nlần cho cả thời gian thuê ngoài quyền và nghĩa vụ quy định tại khoản 1 Điều này còn có các quyền sau\nđây:\na) Chuyển nhượng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất;\nb) Cho thuê quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với trường hợp\nđược Nhà nước giao đất có thu tiền sử dụng đất; cho thuê lại quyền sử dụng đất, tài sản thuộc sở hữu\ncủa mình gắn liền với đất đối với trường hợp được Nhà nước cho thuê đất thu tiền thuê đất một lần\ncho cả thời gian thuê;\nc) Tặng cho quyền sử dụng đất cho Nhà nước; tặng cho quyền sử dụng đất cho cộng đồng dân cư để\nxây dựng các công trình phục vụ lợi ích chung của cộng đồng; tặng cho nhà tình nghĩa gắn liền với đất\ntheo quy định của pháp luật;\nd) Thế chấp bằng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín\ndụng được phép hoạt động tại Việt Nam;\nđ) Góp vốn bằng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất để hợp tác sản\nxuất, kinh doanh với tổ chức, cá nhân, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu\ntư nước ngoài theo quy định của pháp luật.\n3. Tổ chức sự nghiệp công lập tự chủ tài chính được Nhà nước cho thuê đất trả tiền thuê đất một lần\ncho cả thời gian thuê mà tiền thuê đất đã trả không có nguồn gốc từ ngân sách nhà nước thì có quyền\nvà nghĩa vụ quy định tại khoản 1 và khoản 2 Điều này; việc thực hiện các quyền phải được sự chấp\nthuận bằng văn bản của cơ quan nhà nước có thẩm quyền.\nTrường hợp tổ chức sự nghiệp công lập tự chủ tài chính được Nhà nước cho thuê đất trả tiền thuê đất\nmột lần cho cả thời gian thuê mà tiền thuê đất đã trả có nguồn gốc từ ngân sách nhà nước thì có quyền\nvà nghĩa vụ quy định tại Điều 173 của Luật này .\n4. Tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất trả tiền thuê đất một lần cho\ncả thời gian thuê nhưng được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có các quyền và nghĩa vụ\nsau đây:\na) Trường hợp được Nhà nước giao đất, cho thuê đất để thực hiện dự án xây dựng kinh doanh nhà ở\nmà được miễn hoặc giảm tiền sử dụng đất, tiền thuê đất thì có quyền và nghĩa vụ theo quy định của\npháp luật về đất đai như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất, tiền\nthuê đất;\nb) Trường hợp được Nhà nước giao đất, cho thuê đất để thực hiện dự án đầu tư vì mục đích lợi nhuận\nkhông thuộc trường hợp quy định tại điểm a khoản này mà được giảm tiền sử dụng đất, tiền thuê đất\nthì có quyền và nghĩa vụ theo quy định của pháp luật về đất đai như trường hợp không được miễn hoặc\nkhông được giảm tiền sử dụng đất, tiền thuê đất đối với loại đất có mục đích sử dụng tương ứng;\nc) Trường hợp được Nhà nước giao đất, cho thuê đất để thực hiện dự án đầu tư vì mục đích lợi nhuận\nkhông thuộc trường hợp quy định tại điểm a khoản này mà được miễn tiền sử dụng đất, tiền thuê đất\nthì có quyền và nghĩa vụ theo quy định của pháp luật về đất đai như trường hợp Nhà nước cho thuê đất\ntrả tiền thuê đất hàng năm đối với loại đất có mục đích sử dụng tương ứng."
+      }
     },
     {
-      "id": "dieu_166",
-      "label": "ĐiềuLuật",
-      "name": "Điều 166"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "dieu_170",
-      "label": "ĐiềuLuật",
-      "name": "Điều 170"
+      "id": "hanhviphaply_nhanuocgiaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước giao đất có thu tiền sử dụng đất"
+      }
     },
     {
-      "id": "dieu_173",
-      "label": "ĐiềuLuật",
-      "name": "Điều 173"
+      "id": "hanhviphaply_nhanuocchothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+      }
     },
     {
-      "id": "quyen_nghia_vu_to_chuc_giao_thue_dat_mot_lan",
-      "label": "KháiNiệm",
-      "name": "Quyền và nghĩa vụ của tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
+      "id": "chuthe_tochuckinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     },
     {
-      "id": "tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Tài sản thuộc sở hữu của mình gắn liền với đất"
-    },
-    {
-      "id": "phap_luat_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Pháp luật về đất đai"
-    },
-    {
-      "id": "loai_dat_co_muc_dich_su_dung_tuong_ung",
-      "label": "KháiNiệm",
-      "name": "Loại đất có mục đích sử dụng tương ứng"
-    },
-    {
-      "id": "du_an_xay_dung_kinh_doanh_nha_o",
-      "label": "KháiNiệm",
-      "name": "Dự án xây dựng kinh doanh nhà ở"
-    },
-    {
-      "id": "du_an_dau_tu_vi_muc_dich_loi_nhuan",
-      "label": "KháiNiệm",
-      "name": "Dự án đầu tư vì mục đích lợi nhuận"
-    },
-    {
-      "id": "chu_the_to_chuc_kinh_te",
-      "label": "ChủThể",
-      "name": "Tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
-    },
-    {
-      "id": "chu_the_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chu_the_to_chuc_tin_dung_viet_nam",
-      "label": "ChủThể",
-      "name": "Tổ chức tín dụng được phép hoạt động tại Việt Nam"
-    },
-    {
-      "id": "chu_the_to_chuc",
-      "label": "ChủThể",
-      "name": "Tổ chức"
-    },
-    {
-      "id": "chu_the_ca_nhan",
-      "label": "ChủThể",
-      "name": "Cá nhân"
-    },
-    {
-      "id": "chu_the_nguoi_viet_nam_dinh_cu_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "Người Việt Nam định cư ở nước ngoài"
-    },
-    {
-      "id": "chu_the_doanh_nghiep_von_dau_tu_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
-    },
-    {
-      "id": "chu_the_cong_dong_dan_cu",
-      "label": "ChủThể",
-      "name": "Cộng đồng dân cư"
-    },
-    {
-      "id": "chu_the_to_chuc_su_nghiep_cong_lap_tu_chu_tai_chinh",
-      "label": "ChủThể",
-      "name": "Tổ chức sự nghiệp công lập tự chủ tài chính"
-    },
-    {
-      "id": "chu_the_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "Cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "chu_the_to_chuc_duoc_mien_giam_tien_dat",
-      "label": "ChủThể",
-      "name": "Tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn, giảm tiền sử dụng đất, tiền thuê đất"
-    },
-    {
-      "id": "hanhvi_giao_dat_co_thu_tien_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất có thu tiền sử dụng đất"
-    },
-    {
-      "id": "hanhvi_cho_thue_dat_thu_tien_mot_lan",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
-    },
-    {
-      "id": "hanhvi_quyen_nghia_vu_chung_dieu_166_170",
-      "label": "HànhViPhápLý",
-      "name": "Quyền và nghĩa vụ chung quy định tại Điều 166 và Điều 170"
-    },
-    {
-      "id": "hanhvi_chuyen_nhuong_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển nhượng quyền sử dụng đất"
-    },
-    {
-      "id": "hanhvi_cho_thue_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê quyền sử dụng đất"
-    },
-    {
-      "id": "hanhvi_cho_thue_lai_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê lại quyền sử dụng đất"
-    },
-    {
-      "id": "hanhvi_tang_cho_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Tặng cho quyền sử dụng đất"
-    },
-    {
-      "id": "hanhvi_tang_cho_nha_tinh_nghia",
-      "label": "HànhViPhápLý",
-      "name": "Tặng cho nhà tình nghĩa gắn liền với đất"
-    },
-    {
-      "id": "hanhvi_the_chap_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Thế chấp bằng quyền sử dụng đất"
-    },
-    {
-      "id": "hanhvi_gop_von_bang_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "Góp vốn bằng quyền sử dụng đất"
-    },
-    {
-      "id": "hanhvi_xay_dung_cong_trinh_loi_ich_cong_dong",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng các công trình phục vụ lợi ích chung của cộng đồng"
-    },
-    {
-      "id": "hanhvi_thuc_hien_quyen_nghia_vu_khoan_1_2",
-      "label": "HànhViPhápLý",
-      "name": "Thực hiện quyền và nghĩa vụ quy định tại khoản 1 và khoản 2 Điều này"
-    },
-    {
-      "id": "hanhvi_thuc_hien_quyen_nghia_vu_dieu_173",
-      "label": "HànhViPhápLý",
-      "name": "Thực hiện quyền và nghĩa vụ quy định tại Điều 173"
-    },
-    {
-      "id": "hanhvi_quyen_nghia_vu_nhu_khong_mien_giam_cho_du_an_nha_o",
-      "label": "HànhViPhápLý",
-      "name": "Quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất, tiền thuê đất (dự án kinh doanh nhà ở)"
-    },
-    {
-      "id": "hanhvi_quyen_nghia_vu_nhu_khong_mien_giam_loi_nhuan_giam",
-      "label": "HànhViPhápLý",
-      "name": "Quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất, tiền thuê đất đối với loại đất có mục đích sử dụng tương ứng (dự án lợi nhuận được giảm)"
-    },
-    {
-      "id": "hanhvi_quyen_nghia_vu_nhu_thue_dat_hang_nam_loi_nhuan_mien",
-      "label": "HànhViPhápLý",
-      "name": "Quyền và nghĩa vụ như trường hợp Nhà nước cho thuê đất trả tiền thuê đất hàng năm đối với loại đất có mục đích sử dụng tương ứng (dự án lợi nhuận được miễn)"
-    },
-    {
-      "id": "hanhvi_cho_thue_dat_tra_tien_thue_dat_hang_nam",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê đất trả tiền thuê đất hàng năm"
-    },
-    {
-      "id": "dieu_kien_chung_giao_dat_co_thu_tien",
-      "label": "ĐiềuKiện",
-      "name": "Được Nhà nước giao đất có thu tiền sử dụng đất"
-    },
-    {
-      "id": "dieu_kien_chung_cho_thue_dat_mot_lan",
-      "label": "ĐiềuKiện",
-      "name": "Được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê"
-    },
-    {
-      "id": "dieu_kien_tien_thue_dat_khong_nguon_ngan_sach",
-      "label": "ĐiềuKiện",
-      "name": "Tiền thuê đất đã trả không có nguồn gốc từ ngân sách nhà nước"
-    },
-    {
-      "id": "dieu_kien_tien_thue_dat_co_nguon_ngan_sach",
-      "label": "ĐiềuKiện",
-      "name": "Tiền thuê đất đã trả có nguồn gốc từ ngân sách nhà nước"
-    },
-    {
-      "id": "dieu_kien_chap_thuan_bang_van_ban_co_quan_tham_quyen",
-      "label": "ĐiềuKiện",
-      "name": "Việc thực hiện các quyền phải được sự chấp thuận bằng văn bản của cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "dieu_kien_duoc_mien_giam_tien_su_dung_dat_thue_dat",
-      "label": "ĐiềuKiện",
-      "name": "Được miễn, giảm tiền sử dụng đất, tiền thuê đất"
-    },
-    {
-      "id": "dieu_kien_mien_giam_cho_du_an_kinh_doanh_nha_o",
-      "label": "ĐiềuKiện",
-      "name": "Được miễn hoặc giảm tiền sử dụng đất, tiền thuê đất (dự án kinh doanh nhà ở)"
-    },
-    {
-      "id": "dieu_kien_duoc_giam_tien_cho_du_an_loi_nhuan",
-      "label": "ĐiềuKiện",
-      "name": "Được giảm tiền sử dụng đất, tiền thuê đất (dự án lợi nhuận)"
-    },
-    {
-      "id": "dieu_kien_duoc_mien_tien_cho_du_an_loi_nhuan",
-      "label": "ĐiềuKiện",
-      "name": "Được miễn tiền sử dụng đất, tiền thuê đất (dự án lợi nhuận)"
-    },
-    {
-      "id": "dieu_kien_khong_thuoc_khoan_4a",
-      "label": "ĐiềuKiện",
-      "name": "Không thuộc trường hợp quy định tại điểm a khoản 4"
-    },
-    {
-      "id": "dieu_kien_theo_quy_dinh_phap_luat",
-      "label": "ĐiềuKiện",
-      "name": "Theo quy định của pháp luật"
-    },
-    {
-      "id": "dieu_kien_ap_dung_cho_thue_quyen_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp được Nhà nước giao đất có thu tiền sử dụng đất (cho cho thuê quyền sử dụng đất)"
-    },
-    {
-      "id": "dieu_kien_ap_dung_cho_thue_lai_quyen_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê (cho cho thuê lại quyền sử dụng đất)"
+      "id": "chuthe_tochucsunghiệpconglậptutuchitich",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức sự nghiệp công lập tự chủ tài chính"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_174",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "quyen_nghia_vu_to_chuc_giao_thue_dat_mot_lan"
+      "source_id": "dieu_174_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_174",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chu_the_to_chuc_kinh_te"
+      "source_id": "dieu_174_2013",
+      "target_id": "hanhviphaply_nhanuocgiaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_174",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chu_the_to_chuc_su_nghiep_cong_lap_tu_chu_tai_chinh"
+      "source_id": "dieu_174_2013",
+      "target_id": "hanhviphaply_nhanuocchothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_174",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chu_the_to_chuc_duoc_mien_giam_tien_dat"
+      "source_id": "dieu_174_2013",
+      "target_id": "chuthe_tochuckinhte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_chung_giao_dat_co_thu_tien"
-    },
-    {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_chung_cho_thue_dat_mot_lan"
-    },
-    {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quyen_nghia_vu_chung_dieu_166_170"
-    },
-    {
-      "source_id": "hanhvi_quyen_nghia_vu_chung_dieu_166_170",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_166"
-    },
-    {
-      "source_id": "hanhvi_quyen_nghia_vu_chung_dieu_166_170",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_170"
-    },
-    {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_chuyen_nhuong_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_chuyen_nhuong_quyen_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_quyen_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_kien_ap_dung_cho_thue_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue_lai_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_lai_quyen_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_lai_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_kien_ap_dung_cho_thue_lai_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_tang_cho_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_tang_cho_quyen_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chu_the_nha_nuoc"
-    },
-    {
-      "source_id": "hanhvi_tang_cho_quyen_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chu_the_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "hanhvi_tang_cho_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_xay_dung_cong_trinh_loi_ich_cong_dong"
-    },
-    {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_tang_cho_nha_tinh_nghia"
-    },
-    {
-      "source_id": "hanhvi_tang_cho_nha_tinh_nghia",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_theo_quy_dinh_phap_luat"
-    },
-    {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_the_chap_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_the_chap_quyen_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhvi_the_chap_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_the_to_chuc_tin_dung_viet_nam"
-    },
-    {
-      "source_id": "chu_the_to_chuc_kinh_te",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_gop_von_bang_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_gop_von_bang_quyen_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhvi_gop_von_bang_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_the_to_chuc"
-    },
-    {
-      "source_id": "hanhvi_gop_von_bang_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_the_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_gop_von_bang_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_the_nguoi_viet_nam_dinh_cu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_gop_von_bang_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_the_doanh_nghiep_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_gop_von_bang_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_theo_quy_dinh_phap_luat"
-    },
-    {
-      "source_id": "chu_the_to_chuc_su_nghiep_cong_lap_tu_chu_tai_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_chung_cho_thue_dat_mot_lan"
-    },
-    {
-      "source_id": "chu_the_to_chuc_su_nghiep_cong_lap_tu_chu_tai_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_kien_tien_thue_dat_khong_nguon_ngan_sach"
-    },
-    {
-      "source_id": "dieu_kien_tien_thue_dat_khong_nguon_ngan_sach",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_thuc_hien_quyen_nghia_vu_khoan_1_2"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien_quyen_nghia_vu_khoan_1_2",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_chap_thuan_bang_van_ban_co_quan_tham_quyen"
-    },
-    {
-      "source_id": "dieu_kien_chap_thuan_bang_van_ban_co_quan_tham_quyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chu_the_co_quan_nha_nuoc_co_tham_quyen"
-    },
-    {
-      "source_id": "chu_the_to_chuc_su_nghiep_cong_lap_tu_chu_tai_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_kien_tien_thue_dat_co_nguon_ngan_sach"
-    },
-    {
-      "source_id": "dieu_kien_tien_thue_dat_co_nguon_ngan_sach",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_thuc_hien_quyen_nghia_vu_dieu_173"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien_quyen_nghia_vu_dieu_173",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_173"
-    },
-    {
-      "source_id": "chu_the_to_chuc_duoc_mien_giam_tien_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_chung_giao_dat_co_thu_tien"
-    },
-    {
-      "source_id": "chu_the_to_chuc_duoc_mien_giam_tien_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_chung_cho_thue_dat_mot_lan"
-    },
-    {
-      "source_id": "chu_the_to_chuc_duoc_mien_giam_tien_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_duoc_mien_giam_tien_su_dung_dat_thue_dat"
-    },
-    {
-      "source_id": "chu_the_to_chuc_duoc_mien_giam_tien_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "du_an_xay_dung_kinh_doanh_nha_o"
-    },
-    {
-      "source_id": "du_an_xay_dung_kinh_doanh_nha_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_mien_giam_cho_du_an_kinh_doanh_nha_o"
-    },
-    {
-      "source_id": "chu_the_to_chuc_duoc_mien_giam_tien_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quyen_nghia_vu_nhu_khong_mien_giam_cho_du_an_nha_o"
-    },
-    {
-      "source_id": "hanhvi_quyen_nghia_vu_nhu_khong_mien_giam_cho_du_an_nha_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "phap_luat_ve_dat_dai"
-    },
-    {
-      "source_id": "chu_the_to_chuc_duoc_mien_giam_tien_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "du_an_dau_tu_vi_muc_dich_loi_nhuan"
-    },
-    {
-      "source_id": "du_an_dau_tu_vi_muc_dich_loi_nhuan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_khong_thuoc_khoan_4a"
-    },
-    {
-      "source_id": "du_an_dau_tu_vi_muc_dich_loi_nhuan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_duoc_giam_tien_cho_du_an_loi_nhuan"
-    },
-    {
-      "source_id": "chu_the_to_chuc_duoc_mien_giam_tien_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quyen_nghia_vu_nhu_khong_mien_giam_loi_nhuan_giam"
-    },
-    {
-      "source_id": "hanhvi_quyen_nghia_vu_nhu_khong_mien_giam_loi_nhuan_giam",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "phap_luat_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhvi_quyen_nghia_vu_nhu_khong_mien_giam_loi_nhuan_giam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "loai_dat_co_muc_dich_su_dung_tuong_ung"
-    },
-    {
-      "source_id": "du_an_dau_tu_vi_muc_dich_loi_nhuan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_duoc_mien_tien_cho_du_an_loi_nhuan"
-    },
-    {
-      "source_id": "chu_the_to_chuc_duoc_mien_giam_tien_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quyen_nghia_vu_nhu_thue_dat_hang_nam_loi_nhuan_mien"
-    },
-    {
-      "source_id": "hanhvi_quyen_nghia_vu_nhu_thue_dat_hang_nam_loi_nhuan_mien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "phap_luat_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhvi_quyen_nghia_vu_nhu_thue_dat_hang_nam_loi_nhuan_mien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "loai_dat_co_muc_dich_su_dung_tuong_ung"
-    },
-    {
-      "source_id": "hanhvi_quyen_nghia_vu_nhu_thue_dat_hang_nam_loi_nhuan_mien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue_dat_tra_tien_thue_dat_hang_nam"
+      "source_id": "dieu_174_2013",
+      "target_id": "chuthe_tochucsunghiệpconglậptutuchitich",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

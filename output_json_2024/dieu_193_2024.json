@@ -1,276 +1,124 @@
 {
   "entities": [
     {
-      "id": "dieu_193",
-      "label": "ĐiềuLuật",
-      "name": "Điều 193"
+      "id": "dieu_193_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 193. Tích tụ đất nông nghiệp",
+        "ma_dieu": "193",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 193.\n\nTích tụ đất nông nghiệp\n1. Tích tụ đất nông nghiệp  là việc tăng diện tích đất nông nghiệp của người sử dụng đất để tổ chức sản\nxuất thông qua các phương thức sau đây:\na) Nhận chuyển nhượng quyền sử dụng đất nông nghiệp;\nb) Nhận góp vốn bằng quyền sử dụng đất nông nghiệp .\n2. Việc tích tụ đất nông nghiệp phải bảo đảm các nguyên tắc sau đây:\na) Bảo đảm quyền, lợi ích hợp pháp của Nhà nước, người sử dụng đất và của các tổ chức, cá nhân có\nliên quan; không ảnh hưởng đến quốc phòng, an ninh;\nb) Tuân thủ quy định của pháp luật về đất đai, pháp luật về dân sự và pháp luật có liên quan; sử dụng\nđúng mục đích, phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê\nduyệt;\nc) Phù hợp với đặc điểm về đất đai, địa hình, khí hậu, văn hóa, quá trình chuyển dịch lao động, chuyển\nđổi nghề, việc làm ở nông thôn của từng vùng, từng khu vực, từng địa phương và phù hợp với nhu cầu\ncủa thị trường .\n3. Nhà nước có chính sách khuyến khích tổ chức, cá nhân ứng dụng khoa học, công nghệ để sử dụng\ntiết kiệm, hiệu quả quỹ đất đã tích tụ.\n4. Ủy ban nhân dân các cấp có trách nhiệm tuyên truyền, phổ biến chính sách, pháp luật, hướng dẫn, hỗ\ntrợ các bên trong việc thực hiện tích tụ đất nông nghiệp và bảo đảm ổn định quy hoạch đối với diện tích\nđất nông nghiệp đã tích tụ.\n5. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "khainiem_tich_tu_dat_nong_nghiep",
-      "label": "KháiNiệm",
-      "name": "Tích tụ đất nông nghiệp"
+      "id": "khainiem_tichtudatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tích tụ đất nông nghiệp"
+      }
     },
     {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_tang_dien_tich_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "tăng diện tích đất nông nghiệp"
+      "id": "hanhviphaply_nhanchuyennhuongquyen",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận chuyển nhượng quyền"
+      }
     },
     {
-      "id": "hanhviphaply_to_chuc_san_xuat",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức sản xuất"
+      "id": "hanhviphaply_nhangopvon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhận góp vốn"
+      }
     },
     {
-      "id": "hanhviphaply_nhan_chuyen_nhuong_quyen_su_dung_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Nhận chuyển nhượng quyền sử dụng đất nông nghiệp"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "hanhviphaply_nhan_gop_von_bang_quyen_su_dung_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Nhận góp vốn bằng quyền sử dụng đất nông nghiệp"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
     },
     {
-      "id": "dieukien_bao_dam_quyen_loi_nha_nuoc_nguoi_su_dung_dat_to_chuc_ca_nhan",
-      "label": "ĐiềuKiện",
-      "name": "Bảo đảm quyền, lợi ích hợp pháp của Nhà nước, người sử dụng đất và của các tổ chức, cá nhân có liên quan"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
     },
     {
-      "id": "dieukien_khong_anh_huong_quoc_phong_an_ninh",
-      "label": "ĐiềuKiện",
-      "name": "Không ảnh hưởng đến quốc phòng, an ninh"
+      "id": "chuthe_uybannhandancaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
     },
     {
-      "id": "dieukien_tuan_thu_phap_luat",
-      "label": "ĐiềuKiện",
-      "name": "Tuân thủ quy định của pháp luật về đất đai, pháp luật về dân sự và pháp luật có liên quan"
-    },
-    {
-      "id": "dieukien_su_dung_dung_muc_dich",
-      "label": "ĐiềuKiện",
-      "name": "Sử dụng đúng mục đích"
-    },
-    {
-      "id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "dieukien_phu_hop_dac_diem_vung_khu_vuc_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với đặc điểm về đất đai, địa hình, khí hậu, văn hóa, quá trình chuyển dịch lao động, chuyển đổi nghề, việc làm ở nông thôn của từng vùng, từng khu vực, từng địa phương"
-    },
-    {
-      "id": "dieukien_phu_hop_nhu_cau_thi_truong",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với nhu cầu của thị trường"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_to_chuc_ca_nhan_co_lien_quan",
-      "label": "ChủThể",
-      "name": "các tổ chức, cá nhân có liên quan"
-    },
-    {
-      "id": "chuthe_co_quan_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan có thẩm quyền"
-    },
-    {
-      "id": "chuthe_to_chuc_ca_nhan",
-      "label": "ChủThể",
-      "name": "tổ chức, cá nhân"
-    },
-    {
-      "id": "hanhviphaply_ung_dung_khoa_hoc_cong_nghe",
-      "label": "HànhViPhápLý",
-      "name": "ứng dụng khoa học, công nghệ"
-    },
-    {
-      "id": "hanhviphaply_su_dung_tiet_kiem_hieu_qua_quy_dat",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng tiết kiệm, hiệu quả quỹ đất"
-    },
-    {
-      "id": "khainiem_quy_dat_da_tich_tu",
-      "label": "KháiNiệm",
-      "name": "quỹ đất đã tích tụ"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cac_cap",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân các cấp"
-    },
-    {
-      "id": "hanhviphaply_tuyen_truyen_pho_bien_phap_luat",
-      "label": "HànhViPhápLý",
-      "name": "tuyên truyền, phổ biến chính sách, pháp luật"
-    },
-    {
-      "id": "hanhviphaply_huong_dan_ho_tro_thuc_hien_tich_tu_dat",
-      "label": "HànhViPhápLý",
-      "name": "hướng dẫn, hỗ trợ các bên trong việc thực hiện tích tụ đất nông nghiệp"
-    },
-    {
-      "id": "hanhviphaply_bao_dam_on_dinh_quy_hoach",
-      "label": "HànhViPhápLý",
-      "name": "bảo đảm ổn định quy hoạch"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_193",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tich_tu_dat_nong_nghiep"
+      "source_id": "dieu_193_2024",
+      "target_id": "khainiem_tichtudatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_tang_dien_tich_dat_nong_nghiep"
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_tang_dien_tich_dat_nong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
+      "source_id": "dieu_193_2024",
+      "target_id": "hanhviphaply_nhanchuyennhuongquyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_tang_dien_tich_dat_nong_nghiep",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_to_chuc_san_xuat"
+      "source_id": "dieu_193_2024",
+      "target_id": "hanhviphaply_nhangopvon",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_nhan_chuyen_nhuong_quyen_su_dung_dat_nong_nghiep"
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_nhan_gop_von_bang_quyen_su_dung_dat_nong_nghiep"
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_quyen_loi_nha_nuoc_nguoi_su_dung_dat_to_chuc_ca_nhan"
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_anh_huong_quoc_phong_an_ninh"
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_uybannhandancaccap",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuan_thu_phap_luat"
-    },
-    {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_su_dung_dung_muc_dich"
-    },
-    {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_dac_diem_vung_khu_vuc_dia_phuong"
-    },
-    {
-      "source_id": "khainiem_tich_tu_dat_nong_nghiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phu_hop_nhu_cau_thi_truong"
-    },
-    {
-      "source_id": "dieukien_phu_hop_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_co_quan_co_tham_quyen"
-    },
-    {
-      "source_id": "dieu_193",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_ung_dung_khoa_hoc_cong_nghe"
-    },
-    {
-      "source_id": "hanhviphaply_ung_dung_khoa_hoc_cong_nghe",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_ca_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_ung_dung_khoa_hoc_cong_nghe",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_su_dung_tiet_kiem_hieu_qua_quy_dat"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_tiet_kiem_hieu_qua_quy_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quy_dat_da_tich_tu"
-    },
-    {
-      "source_id": "dieu_193",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uy_ban_nhan_dan_cac_cap"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cac_cap",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tuyen_truyen_pho_bien_phap_luat"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cac_cap",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_huong_dan_ho_tro_thuc_hien_tich_tu_dat"
-    },
-    {
-      "source_id": "hanhviphaply_huong_dan_ho_tro_thuc_hien_tich_tu_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_tich_tu_dat_nong_nghiep"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cac_cap",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_bao_dam_on_dinh_quy_hoach"
-    },
-    {
-      "source_id": "hanhviphaply_bao_dam_on_dinh_quy_hoach",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quy_dat_da_tich_tu"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_193"
+      "source_id": "dieu_193_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

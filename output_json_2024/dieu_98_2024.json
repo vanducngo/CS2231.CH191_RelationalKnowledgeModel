@@ -1,201 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_98",
-      "label": "ĐiềuLuật",
-      "name": "Điều 98"
+      "id": "dieu_98_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 98. Bồi thường về đất khi Nhà nước thu hồi đất ở",
+        "ma_dieu": "98",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 98.\n\nBồi thường về đất khi Nhà nước thu hồi đất ở\n1. Hộ gia đình, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế đang sử dụng đất ở,\nđang sở hữu nhà ở gắn liền với quyền sử dụng đất tại Việt Nam khi Nhà nước thu hồi đất, nếu có đủ\nđiều kiện được bồi thường quy định tại Điều 95 của Luật này  thì được bồi thường bằng đất ở hoặc\nbằng nhà ở hoặc bằng tiền hoặc bằng đất có mục đích sử dụng khác với loại đất thu hồi.\n2. Tổ chức kinh tế, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước\nngoài đang sử dụng đất để thực hiện dự án đầu tư xây dựng nhà ở khi Nhà nước thu hồi đất, nếu có đủ\nđiều kiện được bồi thường quy định tại Điều 95 của Luật này  thì được bồi thường bằng tiền hoặc bằng\nđất.\n3. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "khainiem_boi_thuong_ve_dat_khi_Nha_nuoc_thu_hoi_dat_o",
-      "label": "KháiNiệm",
-      "name": "Bồi thường về đất khi Nhà nước thu hồi đất ở"
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
     },
     {
-      "id": "chuthe_Nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "khainiem_boiduongvedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bồi thường về đất"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "Hộ gia đình"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "chuthe_nguoi_goc_Viet_Nam_dinh_cu_o_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "người gốc Việt Nam định cư ở nước ngoài"
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "chuthe_to_chuc_kinh_te",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế"
+      "id": "chuthe_tochuc kinh te",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     },
     {
-      "id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế có vốn đầu tư nước ngoài"
-    },
-    {
-      "id": "chuthe_Chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_boi_thuong",
-      "label": "HànhViPhápLý",
-      "name": "bồi thường"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
-    },
-    {
-      "id": "chetai_boi_thuong_bang_dat_o",
-      "label": "ChếTài",
-      "name": "bồi thường bằng đất ở"
-    },
-    {
-      "id": "chetai_boi_thuong_bang_nha_o",
-      "label": "ChếTài",
-      "name": "bồi thường bằng nhà ở"
-    },
-    {
-      "id": "chetai_boi_thuong_bang_tien",
-      "label": "ChếTài",
-      "name": "bồi thường bằng tiền"
-    },
-    {
-      "id": "chetai_boi_thuong_bang_dat_co_muc_dich_su_dung_khac",
-      "label": "ChếTài",
-      "name": "bồi thường bằng đất có mục đích sử dụng khác"
-    },
-    {
-      "id": "chetai_boi_thuong_bang_dat",
-      "label": "ChếTài",
-      "name": "bồi thường bằng đất"
-    },
-    {
-      "id": "dieukien_du_dieu_kien_boi_thuong_theo_dieu_95",
-      "label": "ĐiềuKiện",
-      "name": "có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này"
-    },
-    {
-      "id": "dieukien_Nha_nuoc_thu_hoi_dat",
-      "label": "ĐiềuKiện",
-      "name": "Nhà nước thu hồi đất"
-    },
-    {
-      "id": "dieukien_dang_su_dung_dat_o",
-      "label": "ĐiềuKiện",
-      "name": "đang sử dụng đất ở"
-    },
-    {
-      "id": "dieukien_dang_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat_tai_Viet_Nam",
-      "label": "ĐiềuKiện",
-      "name": "đang sở hữu nhà ở gắn liền với quyền sử dụng đất tại Việt Nam"
-    },
-    {
-      "id": "dieukien_dang_su_dung_dat_de_thuc_hien_du_an_dau_tu_xay_dung_nha_o",
-      "label": "ĐiềuKiện",
-      "name": "đang sử dụng đất để thực hiện dự án đầu tư xây dựng nhà ở"
+      "id": "dieukien_duocboiduong",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_98",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_boi_thuong_ve_dat_khi_Nha_nuoc_thu_hoi_dat_o"
+      "source_id": "dieu_98_2024",
+      "target_id": "khainiem_boiduongvedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_du_dieu_kien_boi_thuong_theo_dieu_95"
+      "source_id": "dieu_98_2024",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_Nha_nuoc_thu_hoi_dat"
+      "source_id": "dieu_98_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
+      "source_id": "dieu_98_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
+      "source_id": "dieu_98_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_goc_Viet_Nam_dinh_cu_o_nuoc_ngoai"
+      "source_id": "dieu_98_2024",
+      "target_id": "chuthe_tochuc kinh te",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dang_su_dung_dat_o"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dang_so_huu_nha_o_gan_lien_voi_quyen_su_dung_dat_tai_Viet_Nam"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_bang_dat_o"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_bang_nha_o"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_bang_tien"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_bang_dat_co_muc_dich_su_dung_khac"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dang_su_dung_dat_de_thuc_hien_du_an_dau_tu_xay_dung_nha_o"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_boi_thuong_bang_dat"
-    },
-    {
-      "source_id": "chuthe_Chinh_phu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_98"
+      "source_id": "dieu_98_2024",
+      "target_id": "dieukien_duocboiduong",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

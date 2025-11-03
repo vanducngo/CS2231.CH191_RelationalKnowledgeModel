@@ -1,576 +1,124 @@
 {
   "entities": [
     {
-      "id": "dieu_55",
-      "label": "ĐiềuLuật",
-      "name": "Điều 55"
-    },
-    {
-      "id": "khauniem_trachnhiem_tochuc_thuchien_dieu_tra_danh_gia_dat_dai_bao_ve_cai_tao_phuc_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "Trách nhiệm tổ chức thực hiện điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất"
+      "id": "dieu_55_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 55. Trách nhiệm tổ chức thực hiện điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất",
+        "ma_dieu": "55",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 55.\n\nTrách nhiệm tổ chức thực hiện điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất\n1. Chính phủ quy định chi tiết việc điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất và quy định\nđiều kiện năng lực của tổ chức dịch vụ tư vấn điều tra, đánh giá đất đai.\n2. Bộ Tài nguyên và Môi trường có trách nhiệm chủ trì, phối hợp với các Bộ có liên quan thực hiện các\nnhiệm vụ sau đây:\na) Quy định kỹ thuật điều tra, đánh giá đất đai; kỹ thuật bảo vệ, cải tạo, phục hồi đất;\nb) Xây dựng và duy trì hệ thống quan trắc;\nc) Tổ chức thực hiện, phê duyệt và công bố kết quả điều tra, đánh giá đất đai cả nước, các vùng kinh tế\n- xã hội và theo chuyên đề;\nd) Ban hành và tổ chức thực hiện kế hoạch bảo vệ, cải tạo, phục hồi đất đối với các khu vực đất thoái\nhóa nặng liên vùng, liên tỉnh; kế hoạch bảo vệ, cải tạo, phục hồi đất đối với khu vực đất bị ô nhiễm đặc\nbiệt nghiêm trọng.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm sau đây:\na) Tổ chức thực hiện, phê duyệt và công bố kết quả điều tra, đánh giá đất đai của địa phương; xây dựng\nvà thực hiện kế hoạch bảo vệ, cải tạo, phục hồi đất đối với các khu vực đất bị thoái hóa, ô nhiễm trên\nđịa bàn; cập nhật vào cơ sở dữ liệu quốc gia về đất đai;\nb) Thống kê và công bố các khu vực đất bị ô nhiễm; tổ chức đấu thầu lựa chọn nhà thầu xử lý, cải tạo\nvà phục hồi đất ở khu vực đất bị ô nhiễm trên địa bàn.\n4. Các hoạt động điều tra, đánh giá đất đai; bảo vệ, cải tạo, phục hồi đất được thực hiện bằng nguồn\nvốn sự nghiệp bảo vệ môi trường và các nguồn vốn khác theo quy định của pháp luật.\n5. Kết quả điều tra, đánh giá đất đai phải được phê duyệt trong năm thực hiện kiểm kê đất đai để làm\ncăn cứ lập quy hoạch sử dụng đất các cấp. Bộ Tài nguyên và Môi trường, cơ quan có chức năng quản lý\nđất đai cấp tỉnh có trách nhiệm công bố công khai kết quả điều tra, đánh giá đất đai trong thời hạn 30\nngày kể từ ngày được cơ quan có thẩm quyền phê duyệt."
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "hanhvi_quydinhchitiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
+      "id": "hanhviphaply_dieutra_danhgiadatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá đất đai"
+      }
     },
     {
-      "id": "khauniem_dieu_tra_danh_gia_dat_dai_bao_ve_cai_tao_phuc_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "việc điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất"
+      "id": "hanhviphaply_baove_caitaophuchoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo vệ, cải tạo, phục hồi đất"
+      }
     },
     {
-      "id": "hanhvi_quydinhdieukiennangluc",
-      "label": "HànhViPhápLý",
-      "name": "quy định điều kiện năng lực"
+      "id": "chuthe_botainguyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
     },
     {
-      "id": "dieukien_nangluc_tochuc_dichvu_tuvan",
-      "label": "ĐiềuKiện",
-      "name": "điều kiện năng lực của tổ chức dịch vụ tư vấn điều tra, đánh giá đất đai"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "khauniem_tochuc_dichvu_tuvan_dieu_tra_danh_gia_dat_dai",
-      "label": "KháiNiệm",
-      "name": "tổ chức dịch vụ tư vấn điều tra, đánh giá đất đai"
+      "id": "khainiem_khuvucdatbithoaihoa",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu vực đất bị thoái hóa"
+      }
     },
     {
-      "id": "chuthe_botainnguyenvamoitruong",
-      "label": "ChủThể",
-      "name": "Bộ Tài nguyên và Môi trường"
+      "id": "khainiem_khuvucdatbionhiem",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "khu vực đất bị ô nhiễm"
+      }
     },
     {
-      "id": "hanhvi_chutri",
-      "label": "HànhViPhápLý",
-      "name": "chủ trì"
+      "id": "khainiem_quyhoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất"
+      }
     },
     {
-      "id": "hanhvi_phoihop",
-      "label": "HànhViPhápLý",
-      "name": "phối hợp"
-    },
-    {
-      "id": "chuthe_cacbocohienquan",
-      "label": "ChủThể",
-      "name": "các Bộ có liên quan"
-    },
-    {
-      "id": "hanhvi_quydinhkythuat",
-      "label": "HànhViPhápLý",
-      "name": "Quy định kỹ thuật"
-    },
-    {
-      "id": "khauniem_kythuat_dieu_tra_danh_gia_dat_dai",
-      "label": "KháiNiệm",
-      "name": "kỹ thuật điều tra, đánh giá đất đai"
-    },
-    {
-      "id": "khauniem_kythuat_bao_ve_cai_tao_phuc_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "kỹ thuật bảo vệ, cải tạo, phục hồi đất"
-    },
-    {
-      "id": "hanhvi_xaydung",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng"
-    },
-    {
-      "id": "hanhvi_duytri",
-      "label": "HànhViPhápLý",
-      "name": "duy trì"
-    },
-    {
-      "id": "khauniem_he_thong_quan_trac",
-      "label": "KháiNiệm",
-      "name": "hệ thống quan trắc"
-    },
-    {
-      "id": "hanhvi_tochuc_thuchien",
-      "label": "HànhViPhápLý",
-      "name": "Tổ chức thực hiện"
-    },
-    {
-      "id": "hanhvi_pheduyet",
-      "label": "HànhViPhápLý",
-      "name": "phê duyệt"
-    },
-    {
-      "id": "hanhvi_cong_bo_ket_qua",
-      "label": "HànhViPhápLý",
-      "name": "công bố kết quả"
-    },
-    {
-      "id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai",
-      "label": "KháiNiệm",
-      "name": "kết quả điều tra, đánh giá đất đai"
-    },
-    {
-      "id": "khauniem_ca_nuoc",
-      "label": "KháiNiệm",
-      "name": "cả nước"
-    },
-    {
-      "id": "khauniem_cac_vung_kinh_te_xa_hoi",
-      "label": "KháiNiệm",
-      "name": "các vùng kinh tế - xã hội"
-    },
-    {
-      "id": "khauniem_theo_chuyen_de",
-      "label": "KháiNiệm",
-      "name": "theo chuyên đề"
-    },
-    {
-      "id": "hanhvi_banhanh",
-      "label": "HànhViPhápLý",
-      "name": "Ban hành"
-    },
-    {
-      "id": "hanhvi_tochuc_thuchien_kehoach",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức thực hiện kế hoạch"
-    },
-    {
-      "id": "khauniem_ke_hoach_bao_ve_cai_tao_phuc_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "kế hoạch bảo vệ, cải tạo, phục hồi đất"
-    },
-    {
-      "id": "khauniem_khu_vuc_dat_thoa_hoa_nang_lien_vung_lien_tinh",
-      "label": "KháiNiệm",
-      "name": "các khu vực đất thoái hóa nặng liên vùng, liên tỉnh"
-    },
-    {
-      "id": "khauniem_khu_vuc_dat_o_nhiem_dac_biet_nghiem_trong",
-      "label": "KháiNiệm",
-      "name": "khu vực đất bị ô nhiễm đặc biệt nghiêm trọng"
-    },
-    {
-      "id": "chuthe_uybannhandancaptinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "khauniem_khu_vuc_dat_thoai_hoa_o_nhiem_diaban",
-      "label": "KháiNiệm",
-      "name": "các khu vực đất bị thoái hóa, ô nhiễm trên địa bàn"
-    },
-    {
-      "id": "hanhvi_capnhat",
-      "label": "HànhViPhápLý",
-      "name": "cập nhật"
-    },
-    {
-      "id": "khauniem_co_so_du_lieu_quoc_gia_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "cơ sở dữ liệu quốc gia về đất đai"
-    },
-    {
-      "id": "hanhvi_thongke",
-      "label": "HànhViPhápLý",
-      "name": "Thống kê"
-    },
-    {
-      "id": "hanhvi_cong_bo_khu_vuc_o_nhiem",
-      "label": "HànhViPhápLý",
-      "name": "công bố các khu vực đất bị ô nhiễm"
-    },
-    {
-      "id": "khauniem_cac_khu_vuc_dat_o_nhiem",
-      "label": "KháiNiệm",
-      "name": "các khu vực đất bị ô nhiễm"
-    },
-    {
-      "id": "hanhvi_tochuc_dauthau_luachon_nhathau",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức đấu thầu lựa chọn nhà thầu"
-    },
-    {
-      "id": "chuthe_nhathau_xuly_caitao_phuchoi_dat",
-      "label": "ChủThể",
-      "name": "nhà thầu xử lý, cải tạo và phục hồi đất"
-    },
-    {
-      "id": "hanhvi_xuly_caitao_phuchoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "xử lý, cải tạo và phục hồi đất"
-    },
-    {
-      "id": "khauniem_khu_vuc_dat_o_nhiem_dia_ban",
-      "label": "KháiNiệm",
-      "name": "khu vực đất bị ô nhiễm trên địa bàn"
-    },
-    {
-      "id": "khauniem_cac_hoat_dong_dieu_tra_danh_gia_bao_ve_cai_tao_phuc_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "Các hoạt động điều tra, đánh giá đất đai; bảo vệ, cải tạo, phục hồi đất"
-    },
-    {
-      "id": "khauniem_nguon_von_su_nghiep_bao_ve_moi_truong",
-      "label": "KháiNiệm",
-      "name": "nguồn vốn sự nghiệp bảo vệ môi trường"
-    },
-    {
-      "id": "khauniem_cac_nguon_von_khac",
-      "label": "KháiNiệm",
-      "name": "các nguồn vốn khác"
-    },
-    {
-      "id": "dieukien_theo_quydinh_phapluat",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật"
-    },
-    {
-      "id": "khauniem_phapluat",
-      "label": "KháiNiệm",
-      "name": "pháp luật"
-    },
-    {
-      "id": "dieukien_trong_nam_thuc_hien_kiem_ke_dat_dai",
-      "label": "ĐiềuKiện",
-      "name": "trong năm thực hiện kiểm kê đất đai"
-    },
-    {
-      "id": "khauniem_kiem_ke_dat_dai",
-      "label": "KháiNiệm",
-      "name": "kiểm kê đất đai"
-    },
-    {
-      "id": "hanhvi_lam_can_cu_lap",
-      "label": "HànhViPhápLý",
-      "name": "làm căn cứ lập"
-    },
-    {
-      "id": "khauniem_quy_hoach_su_dung_dat_cac_cap",
-      "label": "KháiNiệm",
-      "name": "quy hoạch sử dụng đất các cấp"
-    },
-    {
-      "id": "chuthe_co_quan_ql_dat_dai_cap_tinh",
-      "label": "ChủThể",
-      "name": "cơ quan có chức năng quản lý đất đai cấp tỉnh"
-    },
-    {
-      "id": "hanhvi_cong_bo_cong_khai",
-      "label": "HànhViPhápLý",
-      "name": "công bố công khai"
-    },
-    {
-      "id": "dieukien_thoihan_30ngay_khi_pheduyet",
-      "label": "ĐiềuKiện",
-      "name": "trong thời hạn 30 ngày kể từ ngày được cơ quan có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "chuthe_co_quan_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan có thẩm quyền"
+      "id": "khainiem_kiemkedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kiểm kê đất đai"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_55",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khauniem_trachnhiem_tochuc_thuchien_dieu_tra_danh_gia_dat_dai_bao_ve_cai_tao_phuc_hoi_dat"
+      "source_id": "dieu_55_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_dieu_tra_danh_gia_dat_dai_bao_ve_cai_tao_phuc_hoi_dat"
+      "source_id": "dieu_55_2024",
+      "target_id": "hanhviphaply_dieutra_danhgiadatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_nangluc_tochuc_dichvu_tuvan"
+      "source_id": "dieu_55_2024",
+      "target_id": "hanhviphaply_baove_caitaophuchoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_chutri"
+      "source_id": "dieu_55_2024",
+      "target_id": "chuthe_botainguyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_chutri",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_dieu_tra_danh_gia_dat_dai_bao_ve_cai_tao_phuc_hoi_dat"
+      "source_id": "dieu_55_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_phoihop"
+      "source_id": "dieu_55_2024",
+      "target_id": "khainiem_khuvucdatbithoaihoa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_phoihop",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cacbocohienquan"
+      "source_id": "dieu_55_2024",
+      "target_id": "khainiem_khuvucdatbionhiem",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_quydinhkythuat"
+      "source_id": "dieu_55_2024",
+      "target_id": "khainiem_quyhoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_quydinhkythuat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_kythuat_dieu_tra_danh_gia_dat_dai"
-    },
-    {
-      "source_id": "hanhvi_quydinhkythuat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_kythuat_bao_ve_cai_tao_phuc_hoi_dat"
-    },
-    {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_xaydung"
-    },
-    {
-      "source_id": "hanhvi_xaydung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_he_thong_quan_trac"
-    },
-    {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_duytri"
-    },
-    {
-      "source_id": "hanhvi_duytri",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_he_thong_quan_trac"
-    },
-    {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_tochuc_thuchien"
-    },
-    {
-      "source_id": "hanhvi_tochuc_thuchien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai"
-    },
-    {
-      "source_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_ca_nuoc"
-    },
-    {
-      "source_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_cac_vung_kinh_te_xa_hoi"
-    },
-    {
-      "source_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_theo_chuyen_de"
-    },
-    {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_pheduyet"
-    },
-    {
-      "source_id": "hanhvi_pheduyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai"
-    },
-    {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_cong_bo_ket_qua"
-    },
-    {
-      "source_id": "hanhvi_cong_bo_ket_qua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai"
-    },
-    {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_banhanh"
-    },
-    {
-      "source_id": "hanhvi_banhanh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_ke_hoach_bao_ve_cai_tao_phuc_hoi_dat"
-    },
-    {
-      "source_id": "khauniem_ke_hoach_bao_ve_cai_tao_phuc_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_khu_vuc_dat_thoa_hoa_nang_lien_vung_lien_tinh"
-    },
-    {
-      "source_id": "khauniem_ke_hoach_bao_ve_cai_tao_phuc_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_khu_vuc_dat_o_nhiem_dac_biet_nghiem_trong"
-    },
-    {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_tochuc_thuchien_kehoach"
-    },
-    {
-      "source_id": "hanhvi_tochuc_thuchien_kehoach",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_ke_hoach_bao_ve_cai_tao_phuc_hoi_dat"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_tochuc_thuchien"
-    },
-    {
-      "source_id": "hanhvi_tochuc_thuchien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_pheduyet"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_cong_bo_ket_qua"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_xaydung"
-    },
-    {
-      "source_id": "hanhvi_xaydung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_ke_hoach_bao_ve_cai_tao_phuc_hoi_dat"
-    },
-    {
-      "source_id": "khauniem_ke_hoach_bao_ve_cai_tao_phuc_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_khu_vuc_dat_thoai_hoa_o_nhiem_diaban"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_tochuc_thuchien_kehoach"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_capnhat"
-    },
-    {
-      "source_id": "hanhvi_capnhat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_co_so_du_lieu_quoc_gia_ve_dat_dai"
-    },
-    {
-      "source_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_capnhat"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thongke"
-    },
-    {
-      "source_id": "hanhvi_thongke",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_cac_khu_vuc_dat_o_nhiem"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_cong_bo_khu_vuc_o_nhiem"
-    },
-    {
-      "source_id": "hanhvi_cong_bo_khu_vuc_o_nhiem",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_cac_khu_vuc_dat_o_nhiem"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_tochuc_dauthau_luachon_nhathau"
-    },
-    {
-      "source_id": "hanhvi_tochuc_dauthau_luachon_nhathau",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhathau_xuly_caitao_phuchoi_dat"
-    },
-    {
-      "source_id": "chuthe_nhathau_xuly_caitao_phuchoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_xuly_caitao_phuchoi_dat"
-    },
-    {
-      "source_id": "hanhvi_xuly_caitao_phuchoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_khu_vuc_dat_o_nhiem_dia_ban"
-    },
-    {
-      "source_id": "khauniem_cac_hoat_dong_dieu_tra_danh_gia_bao_ve_cai_tao_phuc_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_nguon_von_su_nghiep_bao_ve_moi_truong"
-    },
-    {
-      "source_id": "khauniem_cac_hoat_dong_dieu_tra_danh_gia_bao_ve_cai_tao_phuc_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_cac_nguon_von_khac"
-    },
-    {
-      "source_id": "khauniem_cac_hoat_dong_dieu_tra_danh_gia_bao_ve_cai_tao_phuc_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quydinh_phapluat"
-    },
-    {
-      "source_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_pheduyet"
-    },
-    {
-      "source_id": "hanhvi_pheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trong_nam_thuc_hien_kiem_ke_dat_dai"
-    },
-    {
-      "source_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_lam_can_cu_lap"
-    },
-    {
-      "source_id": "hanhvi_lam_can_cu_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quy_hoach_su_dung_dat_cac_cap"
-    },
-    {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_cong_bo_cong_khai"
-    },
-    {
-      "source_id": "chuthe_co_quan_ql_dat_dai_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_cong_bo_cong_khai"
-    },
-    {
-      "source_id": "hanhvi_cong_bo_cong_khai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_ket_qua_dieu_tra_danh_gia_dat_dai"
-    },
-    {
-      "source_id": "hanhvi_cong_bo_cong_khai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thoihan_30ngay_khi_pheduyet"
-    },
-    {
-      "source_id": "dieukien_thoihan_30ngay_khi_pheduyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_co_quan_co_tham_quyen"
+      "source_id": "dieu_55_2024",
+      "target_id": "khainiem_kiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

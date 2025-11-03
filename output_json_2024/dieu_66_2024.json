@@ -1,216 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_66",
-      "label": "ĐiềuLuật",
+      "id": "dieu_66_2024",
+      "label": "DieuLuat",
       "properties": {
-        "ten": "Điều 66. Quy hoạch sử dụng đất cấp huyện",
-        "luat": "Luật Đất đai 2024"
+        "name": "Điều 66. Quy hoạch sử dụng đất cấp huyện",
+        "ma_dieu": "66",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 66.\n\nQuy hoạch sử dụng đất cấp huyện\n1. Căn cứ lập quy hoạch sử dụng đất cấp huyện bao gồm: about:blank\na) Quy hoạch tỉnh, quy hoạch sử dụng đất cấp tỉnh; quy hoạch đô thị của thành phố trực thuộc Trung\nương đối với trường hợp không lập quy hoạch sử dụng đất cấp tỉnh;\nb) Các quy hoạch có tính chất kỹ thuật, chuyên ngành;\nc) Kế hoạch phát triển kinh tế - xã hội cấp huyện;\nd) Điều kiện tự nhiên, kinh tế, xã hội của đơn vị hành chính cấp huyện;\nđ) Hiện trạng sử dụng đất, biến động đất đai, tiềm năng đất đai và kết quả thực hiện quy hoạch sử dụng\nđất thời kỳ trước của cấp huyện;\ne) Nhu cầu, khả năng sử dụng đất của các ngành, lĩnh vực, Ủy ban nhân dân cấp xã; đối với việc xác\nđịnh nhu cầu sử dụng đất ở, đất khu đô thị, đất khu dân cư nông thôn được xác định trên cơ sở dự báo\ndân số, điều kiện hạ tầng, cảnh quan, môi trường theo quy định của pháp luật về xây dựng;\ng) Định mức sử dụng đất, tiến bộ khoa học và công nghệ có liên quan đến việc sử dụng đất.\n2. Nội dung quy hoạch sử dụng đất cấp huyện bao gồm:\na) Định hướng sử dụng đất , tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng,\nan ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu; bảo đảm phù hợp, đồng bộ giữa quy hoạch\nsử dụng đất với quy hoạch giao thông, quy hoạch xây dựng, quy hoạch đô thị, quy hoạch nông thôn ;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất cấp tỉnh được thể hiện\nthông tin đến đơn vị hành chính cấp xã;\nc) Xác định chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất của cấp huyện và cấp xã;\nd) Xác định diện tích và khoanh vùng các khu vực đã được phân bổ chỉ tiêu sử dụng đất trong quy\nhoạch sử dụng đất cấp tỉnh theo quy định tại điểm b và điểm đ khoản 2 Điều 65 của Luật này , trong đó\nxác định diện tích các loại đất để bảo đảm chính sách hỗ trợ đất đai cho đồng bào dân tộc thiểu số;\nđ) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông\nnghiệp;\ne) Phân kỳ quy hoạch sử dụng đất 05 năm cấp huyện theo các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n3. Lập bản đồ quy hoạch sử dụng đất cấp huyện; xây dựng và cập nhật dữ liệu quy hoạch, kế hoạch sử\ndụng đất hằng năm cấp huyện vào cơ sở dữ liệu quốc gia về đất đai.\n4. Quận, thành phố, thị xã thuộc thành phố trực thuộc Trung ương, thành phố, thị xã thuộc tỉnh đã có\nquy hoạch chung hoặc quy hoạch phân khu được phê duyệt theo quy định của pháp luật về quy hoạch\nđô thị  thì không phải lập quy hoạch sử dụng đất cấp huyện mà căn cứ vào quy hoạch chung hoặc quy\nhoạch phân khu và chỉ tiêu sử dụng đất đã được phân bổ từ quy hoạch sử dụng đất cấp tỉnh và các chỉ\ntiêu sử dụng đất của địa phương để lập kế hoạch sử dụng đất hằng năm cấp huyện.\n5. Đối với những khu vực không thuộc quy định tại khoản 4 Điều này mà đã có  quy hoạch xây dựng,\nquy hoạch đô thị, quy hoạch nông thôn  được phê duyệt thì việc lập quy hoạch sử dụng đất cấp huyện\nphải cập nhật định hướng không gian sử dụng đất và hệ thống hạ tầng kỹ thuật, hạ tầng xã hội theo thời\nkỳ quy hoạch sử dụng đất."
       }
     },
     {
-      "id": "khainiem_quyhoachsudungdatcaphuyen",
-      "label": "KháiNiệm",
+      "id": "khainiem_quydinhcuaphapluatvequydo",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Quy hoạch sử dụng đất cấp huyện"
+        "name": "Quy định của pháp luật về quy hoạch đô thị"
       }
     },
     {
-      "id": "dieukien_canculapquyhoach",
-      "label": "ĐiềuKiện",
+      "id": "khainiem_quydinhvequydonghiem",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Căn cứ lập quy hoạch sử dụng đất cấp huyện",
-        "trichdan": "Khoản 1, Điều 66"
+        "name": "Quy hoạch đô thị"
       }
     },
     {
-      "id": "dieukien_noidungquyhoach",
-      "label": "ĐiềuKiện",
+      "id": "khainiem_quydinhvequydongnongthon",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Nội dung quy hoạch sử dụng đất cấp huyện",
-        "trichdan": "Khoản 2, Điều 66"
+        "name": "Quy hoạch nông thôn"
       }
     },
     {
-      "id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
-      "label": "HànhViPhápLý",
+      "id": "khainiem_quydinhvequydoxaydung",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Lập quy hoạch sử dụng đất cấp huyện"
+        "name": "Quy hoạch xây dựng"
       }
     },
     {
-      "id": "khainiem_quyhoachsudungdatcaptinh",
-      "label": "KháiNiệm",
+      "id": "khainiem_quydinhsudungdatcaphuyen",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Quy hoạch sử dụng đất cấp tỉnh"
+        "name": "Quy hoạch sử dụng đất cấp huyện"
       }
     },
     {
-      "id": "khainiem_quyhoachdothi",
-      "label": "KháiNiệm",
+      "id": "khainiem_quydinhsudungdatcaptinh",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Quy hoạch đô thị"
+        "name": "Quy hoạch sử dụng đất cấp tỉnh"
       }
     },
     {
-      "id": "khainiem_kehoachphattrienkinhtexahoi",
-      "label": "KháiNiệm",
+      "id": "khainiem_quydinhtinh",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Kế hoạch phát triển kinh tế - xã hội cấp huyện"
-      }
-    },
-    {
-      "id": "khainiem_nhucausudungdat",
-      "label": "KháiNiệm",
-      "properties": {
-        "ten": "Nhu cầu sử dụng đất của các ngành, lĩnh vực, cấp xã"
-      }
-    },
-    {
-      "id": "chuthe_uybannhandancapxa",
-      "label": "ChủThể",
-      "properties": {
-        "ten": "Ủy ban nhân dân cấp xã"
-      }
-    },
-    {
-      "id": "chuthe_dongbaodantocthieuso",
-      "label": "ChủThể",
-      "properties": {
-        "ten": "Đồng bào dân tộc thiểu số"
-      }
-    },
-    {
-      "id": "hanhviphaply_capnhatdulieuvaocsdl",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "ten": "Xây dựng và cập nhật dữ liệu quy hoạch vào cơ sở dữ liệu quốc gia về đất đai"
-      }
-    },
-    {
-      "id": "khainiem_cosodulieuluocgiavedatdai",
-      "label": "KháiNiệm",
-      "properties": {
-        "ten": "Cơ sở dữ liệu quốc gia về đất đai"
-      }
-    },
-    {
-      "id": "chuthe_donvihanhchinhdacouyhoach",
-      "label": "ChủThể",
-      "properties": {
-        "ten": "Quận, thành phố, thị xã đã có quy hoạch chung hoặc quy hoạch phân khu"
-      }
-    },
-    {
-      "id": "dieukien_coquyhoachchungduocpheduyet",
-      "label": "ĐiềuKiện",
-      "properties": {
-        "ten": "Đã có quy hoạch chung hoặc quy hoạch phân khu được phê duyệt",
-        "trichdan": "Khoản 4, Điều 66"
-      }
-    },
-    {
-      "id": "hanhviphaply_lapkehoachsudungdathangnam",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "ten": "Lập kế hoạch sử dụng đất hằng năm cấp huyện"
-      }
-    },
-    {
-      "id": "khainiem_quyhoachxaydung",
-      "label": "KháiNiệm",
-      "properties": {
-        "ten": "Quy hoạch xây dựng"
-      }
-    },
-    {
-      "id": "khainiem_quyhoachnongthon",
-      "label": "KháiNiệm",
-      "properties": {
-        "ten": "Quy hoạch nông thôn"
+        "name": "Quy hoạch tỉnh"
       }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_66",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyhoachsudungdatcaphuyen"
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhsudungdatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyhoachsudungdatcaphuyen",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen"
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhcuaphapluatvequydo",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_canculapquyhoach"
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhvequydonghiem",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_noidungquyhoach"
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhvequydongnongthon",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_canculapquyhoach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quyhoachsudungdatcaptinh"
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhvequydoxaydung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_canculapquyhoach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quyhoachdothi"
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_canculapquyhoach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_kehoachphattrienkinhtexahoi"
-    },
-    {
-      "source_id": "dieukien_canculapquyhoach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_nhucausudungdat"
-    },
-    {
-      "source_id": "khainiem_nhucausudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uybannhandancapxa"
-    },
-    {
-      "source_id": "dieukien_noidungquyhoach",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_dongbaodantocthieuso"
-    },
-    {
-      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_capnhatdulieuvaocsdl"
-    },
-    {
-      "source_id": "hanhviphaply_capnhatdulieuvaocsdl",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_cosodulieuluocgiavedatdai"
-    },
-    {
-      "source_id": "dieukien_coquyhoachchungduocpheduyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvihanhchinhdacouyhoach"
-    },
-    {
-      "source_id": "chuthe_donvihanhchinhdacouyhoach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_lapkehoachsudungdathangnam"
-    },
-    {
-      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quyhoachxaydung"
-    },
-    {
-      "source_id": "hanhviphaply_lapquyhoachsudungdatcaphuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quyhoachnongthon"
+      "source_id": "dieu_66_2024",
+      "target_id": "khainiem_quydinhtinh",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

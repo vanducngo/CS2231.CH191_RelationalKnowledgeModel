@@ -1,116 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_106",
-      "name": "Điều 106",
-      "label": "ĐiềuLuật",
-      "description": "Bồi thường thiệt hại đối với đất thuộc hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn khi xây dựng công trình, khu vực có hành lang bảo vệ an toàn."
+      "id": "dieu_106_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 106. Bồi thường thiệt hại đối với đất thuộc hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn khi xây dựng công trình, khu vực có hành lang bảo vệ an toàn",
+        "ma_dieu": "106",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 106.\n\nBồi thường thiệt hại đối với đất thuộc hành lang bảo vệ an toàn công trình, khu vực\nbảo vệ, vành đai an toàn khi xây dựng công trình, khu vực có hành lang bảo vệ an toàn about:blank\nKhi xây dựng công trình, khu vực có hành lang bảo vệ an toàn mà không thu hồi đất nằm trong phạm vi\nhành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn thì người sử dụng đất được bồi\nthường thiệt hại do hạn chế khả năng sử dụng đất, thiệt hại tài sản gắn liền với đất theo quy định của\nChính phủ."
+      }
     },
     {
-      "id": "khainiem_hanh_lang_an_toan",
-      "name": "hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn",
-      "label": "KháiNiệm",
-      "description": "Phạm vi không gian được xác định để bảo vệ an toàn cho các công trình hoặc khu vực đặc biệt."
+      "id": "hanhviphaply_xaydungcongtrinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng công trình"
+      }
     },
     {
-      "id": "khainiem_dat_trong_hanh_lang_an_toan",
-      "name": "đất nằm trong phạm vi hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn",
-      "label": "KháiNiệm",
-      "description": "Diện tích đất nằm trong ranh giới của hành lang bảo vệ an toàn."
+      "id": "khainiem_datthuochanhlangbaoveantoan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất thuộc hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn"
+      }
     },
     {
-      "id": "khainiem_thiet_hai_do_han_che_su_dung_dat",
-      "name": "thiệt hại do hạn chế khả năng sử dụng đất",
-      "label": "KháiNiệm",
-      "description": "Thiệt hại kinh tế phát sinh khi quyền và khả năng khai thác, sử dụng đất bị giảm sút."
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_thiet_hai_tai_san_gan_lien_voi_dat",
-      "name": "thiệt hại tài sản gắn liền với đất",
-      "label": "KháiNiệm",
-      "description": "Thiệt hại đối với các tài sản vật chất (nhà cửa, công trình, cây trồng...) tồn tại trên đất."
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "name": "người sử dụng đất",
-      "label": "ChủThể",
-      "description": "Cá nhân, tổ chức được nhà nước giao, cho thuê, công nhận quyền sử dụng đất hoặc đang sử dụng đất hợp pháp."
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "name": "Chính phủ",
-      "label": "ChủThể",
-      "description": "Cơ quan hành chính nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam, có trách nhiệm ban hành các quy định chi tiết thi hành luật."
-    },
-    {
-      "id": "hanhviphaply_xay_dung_cong_trinh",
-      "name": "xây dựng công trình, khu vực có hành lang bảo vệ an toàn",
-      "label": "HànhViPhápLý",
-      "description": "Hoạt động thi công, thiết lập các công trình hoặc khu vực cần bảo vệ an toàn theo quy định."
-    },
-    {
-      "id": "hanhviphaply_boi_thuong_thiet_hai",
-      "name": "bồi thường thiệt hại",
-      "label": "HànhViPhápLý",
-      "description": "Hành vi bù đắp các tổn thất, mất mát về vật chất hoặc tinh thần do hành vi trái pháp luật hoặc do pháp luật quy định phải bồi thường."
-    },
-    {
-      "id": "dieu_kien_phat_sinh_boi_thuong_khong_thu_hoi_dat",
-      "name": "Khi xây dựng công trình, khu vực có hành lang bảo vệ an toàn mà không thu hồi đất nằm trong phạm vi hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn",
-      "label": "ĐiềuKiện",
-      "description": "Điều kiện phát sinh quyền được bồi thường khi đất bị ảnh hưởng bởi việc xây dựng công trình trong hành lang an toàn nhưng không bị Nhà nước thu hồi."
+      "id": "hanhviphaply_boithuongthiethai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bồi thường thiệt hại"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_106",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_boi_thuong_thiet_hai"
+      "source_id": "dieu_106_2024",
+      "target_id": "khainiem_datthuochanhlangbaoveantoan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_106",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_phat_sinh_boi_thuong_khong_thu_hoi_dat"
+      "source_id": "dieu_106_2024",
+      "target_id": "hanhviphaply_xaydungcongtrinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_kien_phat_sinh_boi_thuong_khong_thu_hoi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_boi_thuong_thiet_hai"
+      "source_id": "dieu_106_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_boi_thuong_thiet_hai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
+      "source_id": "dieu_106_2024",
+      "target_id": "hanhviphaply_boithuongthiethai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_boi_thuong_thiet_hai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_thiet_hai_do_han_che_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong_thiet_hai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_thiet_hai_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_boi_thuong_thiet_hai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_chinh_phu"
-    },
-    {
-      "source_id": "dieu_kien_phat_sinh_boi_thuong_khong_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_xay_dung_cong_trinh"
-    },
-    {
-      "source_id": "dieu_kien_phat_sinh_boi_thuong_khong_thu_hoi_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_trong_hanh_lang_an_toan"
-    },
-    {
-      "source_id": "khainiem_hanh_lang_an_toan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_trong_hanh_lang_an_toan"
+      "source_id": "dieu_106_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

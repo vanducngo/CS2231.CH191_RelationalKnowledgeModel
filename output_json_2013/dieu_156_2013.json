@@ -1,371 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_156",
-      "label": "ĐiềuLuật",
-      "name": "Điều 156"
+      "id": "dieu_156_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 156. Đất cảng hàng không, sân bay dân dụng",
+        "ma_dieu": "156",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 156.\n\nĐất cảng hàng không, sân bay dân dụng\n1. Đất phục vụ cho hoạt động hàng không dân dụng tại cảng hàng không, sân bay bao gồm:\na) Đất xây dựng trụ sở các cơ quan quản lý nhà nước hoạt động thường xuyên tại cảng hàng không, sân\nbay;\nb) Đất xây dựng các hạng mục thuộc kết cấu hạ tầng cảng hàng không, sân bay gồm đất để xây dựng\nđường cất hạ cánh, đường lăn, sân đỗ tàu bay , cơ sở bảo đảm hoạt động bay , bảo đảm an ninh hàng\nkhông, khẩn nguy sân bay , hàng rào, đường công vụ, đường giao thông nội cảng và các công trình, khu\nphụ trợ khác của sân bay;\nc) Đất xây dựng cơ sở, công trình phục vụ kinh doanh dịch vụ hàng không tại cảng hàng không, sân\nbay;\nd) Đất xây dựng công trình phục vụ kinh doanh dịch vụ phi hàng không.\n2. Cảng vụ hàng không được Ủy ban nhân dân cấp tỉnh giao đất theo quy hoạch, kế hoạch sử dụng đất\nvà quy hoạch cảng hàng không, sân bay đã được cơ quan nhà nước có thẩm quyền phê duyệt. Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất phục vụ hoạt động\nhàng không dân dụng tại cảng hàng không, sân bay được cấp cho Cảng vụ hàng không.\n3. Căn cứ vào quy hoạch, kế hoạch sử dụng đất được cơ quan quản lý nhà nước về hàng không dân\ndụng phê duyệt, Cảng vụ hàng không giao đất không thu tiền sử dụng đất, cho thuê đất theo quy định\nsau đây:\na) Giao đất không thu tiền sử dụng đất đối với đất quy định tại điểm a và điểm b khoản 1 Điều này;\nb) Cho thuê đất trả tiền thuê đất hàng năm đối với đất quy định tại điểm c và điểm d khoản 1 Điều này .\nViệc tính tiền thuê đất và thu tiền thuê đất được thực hiện theo quy định của Luật này .\n4. Tổ chức, cá nhân sử dụng đất tại cảng hàng không, sân bay có các quyền và nghĩa vụ sau đây:\na) Sử dụng đất đúng mục đích; không được chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử\ndụng đất, thế chấp, góp vốn bằng quyền sử dụng đất;\nb) Được dùng tài sản thuộc sở hữu của mình gắn liền với đất thuê để thế chấp tại tổ chức tín dụng\nđược phép hoạt động tại Việt Nam; được bán, cho thuê tài sản, góp vốn bằng tài sản thuộc sở hữu của\nmình gắn liền với đất thuê.\n5. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "khainiem_dat_cang_hang_khong_san_bay_dan_dung",
-      "label": "KháiNiệm",
-      "name": "Đất cảng hàng không, sân bay dân dụng"
+      "id": "khainiem_datcanghangkhongsanbay",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất cảng hàng không, sân bay dân dụng"
+      }
     },
     {
-      "id": "khainiem_dat_phuc_vu_hoat_dong_hang_khong_dan_dung",
-      "label": "KháiNiệm",
-      "name": "Đất phục vụ cho hoạt động hàng không dân dụng tại cảng hàng không, sân bay"
+      "id": "chuthe_cangvuhangkhong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cảng vụ hàng không"
+      }
     },
     {
-      "id": "khainiem_dat_xay_dung_tru_so_cq_ql_nha_nuoc",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng trụ sở các cơ quan quản lý nhà nước hoạt động thường xuyên tại cảng hàng không, sân bay"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "khainiem_dat_xay_dung_ket_cau_ha_tang",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng các hạng mục thuộc kết cấu hạ tầng cảng hàng không, sân bay"
+      "id": "chuthe_tochuccanhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức, cá nhân"
+      }
     },
     {
-      "id": "khainiem_dat_xay_dung_co_so_kinh_doanh_dv_hang_khong",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng cơ sở, công trình phục vụ kinh doanh dịch vụ hàng không tại cảng hàng không, sân bay"
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
     },
     {
-      "id": "khainiem_dat_xay_dung_cong_trinh_kinh_doanh_dv_phi_hang_khong",
-      "label": "KháiNiệm",
-      "name": "Đất xây dựng công trình phục vụ kinh doanh dịch vụ phi hàng không"
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
     },
     {
-      "id": "chuthe_cang_vu_hang_khong",
-      "label": "ChủThể",
-      "name": "Cảng vụ hàng không"
+      "id": "dieukien_quyhoachkehoach",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất và quy hoạch cảng hàng không, sân bay đã được cơ quan nhà nước có thẩm quyền phê duyệt"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "khainiem_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khainiem_quy_hoach_cang_hang_khong_san_bay",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch cảng hàng không, sân bay"
-    },
-    {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
-    },
-    {
-      "id": "chuthe_cq_ql_nha_nuoc_hang_khong_dan_dung",
-      "label": "ChủThể",
-      "name": "Cơ quan quản lý nhà nước về hàng không dân dụng"
-    },
-    {
-      "id": "hanhviphaply_giao_dat_khong_thu_tien",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất không thu tiền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê đất trả tiền thuê đất hàng năm"
-    },
-    {
-      "id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb",
-      "label": "ChủThể",
-      "name": "Tổ chức, cá nhân sử dụng đất tại cảng hàng không, sân bay"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat_dung_muc_dich",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng đất đúng mục đích"
-    },
-    {
-      "id": "chetai_khong_chuyen_doi_qsd_dat",
-      "label": "ChếTài",
-      "name": "Không được chuyển đổi quyền sử dụng đất"
-    },
-    {
-      "id": "chetai_khong_chuyen_nhuong_qsd_dat",
-      "label": "ChếTài",
-      "name": "Không được chuyển nhượng quyền sử dụng đất"
-    },
-    {
-      "id": "chetai_khong_tang_cho_qsd_dat",
-      "label": "ChếTài",
-      "name": "Không được tặng cho quyền sử dụng đất"
-    },
-    {
-      "id": "chetai_khong_cho_thue_qsd_dat",
-      "label": "ChếTài",
-      "name": "Không được cho thuê quyền sử dụng đất"
-    },
-    {
-      "id": "chetai_khong_the_chap_qsd_dat",
-      "label": "ChếTài",
-      "name": "Không được thế chấp quyền sử dụng đất"
-    },
-    {
-      "id": "chetai_khong_gop_von_qsd_dat",
-      "label": "ChếTài",
-      "name": "Không được góp vốn bằng quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_dung_tai_san_gan_lien_dat_thue_the_chap",
-      "label": "HànhViPhápLý",
-      "name": "Được dùng tài sản thuộc sở hữu gắn liền với đất thuê để thế chấp"
-    },
-    {
-      "id": "chuthe_to_chuc_tin_dung",
-      "label": "ChủThể",
-      "name": "Tổ chức tín dụng được phép hoạt động tại Việt Nam"
-    },
-    {
-      "id": "hanhviphaply_ban_tai_san_gan_lien_dat_thue",
-      "label": "HànhViPhápLý",
-      "name": "Được bán tài sản thuộc sở hữu gắn liền với đất thuê"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_tai_san_gan_lien_dat_thue",
-      "label": "HànhViPhápLý",
-      "name": "Được cho thuê tài sản thuộc sở hữu gắn liền với đất thuê"
-    },
-    {
-      "id": "hanhviphaply_gop_von_bang_tai_san_gan_lien_dat_thue",
-      "label": "HànhViPhápLý",
-      "name": "Được góp vốn bằng tài sản thuộc sở hữu gắn liền với đất thuê"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "Quy định chi tiết"
-    },
-    {
-      "id": "hanhviphaply_giao_dat_chung",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat_chung",
-      "label": "HànhViPhápLý",
-      "name": "Cho thuê đất"
-    },
-    {
-      "id": "dieukien_can_cu_quy_hoach_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "Căn cứ vào quy hoạch, kế hoạch sử dụng đất được cơ quan quản lý nhà nước về hàng không dân dụng phê duyệt"
+      "id": "khainiem_quyenquyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_cang_hang_khong_san_bay_dan_dung"
+      "source_id": "dieu_156_2013",
+      "target_id": "khainiem_datcanghangkhongsanbay",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_cang_hang_khong_san_bay_dan_dung",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_phuc_vu_hoat_dong_hang_khong_dan_dung"
+      "source_id": "dieu_156_2013",
+      "target_id": "chuthe_cangvuhangkhong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_xay_dung_tru_so_cq_ql_nha_nuoc"
+      "source_id": "dieu_156_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_xay_dung_ket_cau_ha_tang"
+      "source_id": "dieu_156_2013",
+      "target_id": "chuthe_tochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_xay_dung_co_so_kinh_doanh_dv_hang_khong"
+      "source_id": "dieu_156_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_xay_dung_cong_trinh_kinh_doanh_dv_phi_hang_khong"
+      "source_id": "dieu_156_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_cang_vu_hang_khong"
+      "source_id": "chuthe_cangvuhangkhong",
+      "target_id": "dieukien_quyhoachkehoach",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_giao_dat_chung"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_chung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cang_vu_hang_khong"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_chung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_chung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quy_hoach_cang_hang_khong_san_bay"
-    },
-    {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cang_vu_hang_khong"
-    },
-    {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_cq_ql_nha_nuoc_hang_khong_dan_dung"
-    },
-    {
-      "source_id": "chuthe_cang_vu_hang_khong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_giao_dat_khong_thu_tien"
-    },
-    {
-      "source_id": "chuthe_cang_vu_hang_khong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_khong_thu_tien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_cu_quy_hoach_phe_duyet"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_cu_quy_hoach_phe_duyet"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_khong_thu_tien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_xay_dung_tru_so_cq_ql_nha_nuoc"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_khong_thu_tien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_xay_dung_ket_cau_ha_tang"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_xay_dung_co_so_kinh_doanh_dv_hang_khong"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_tra_tien_hang_nam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_xay_dung_cong_trinh_kinh_doanh_dv_phi_hang_khong"
-    },
-    {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb"
-    },
-    {
-      "source_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_su_dung_dat_dung_muc_dich"
-    },
-    {
-      "source_id": "chetai_khong_chuyen_doi_qsd_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb"
-    },
-    {
-      "source_id": "chetai_khong_chuyen_nhuong_qsd_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb"
-    },
-    {
-      "source_id": "chetai_khong_tang_cho_qsd_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb"
-    },
-    {
-      "source_id": "chetai_khong_cho_thue_qsd_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb"
-    },
-    {
-      "source_id": "chetai_khong_the_chap_qsd_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb"
-    },
-    {
-      "source_id": "chetai_khong_gop_von_qsd_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb"
-    },
-    {
-      "source_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_dung_tai_san_gan_lien_dat_thue_the_chap"
-    },
-    {
-      "source_id": "hanhviphaply_dung_tai_san_gan_lien_dat_thue_the_chap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_tin_dung"
-    },
-    {
-      "source_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_ban_tai_san_gan_lien_dat_thue"
-    },
-    {
-      "source_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cho_thue_tai_san_gan_lien_dat_thue"
-    },
-    {
-      "source_id": "chuthe_to_chuc_ca_nhan_su_dung_dat_cang_hk_sb",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_gop_von_bang_tai_san_gan_lien_dat_thue"
-    },
-    {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_to_chuc_tin_dung"
-    },
-    {
-      "source_id": "dieu_156",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_chinh_phu"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_156"
+      "source_id": "dieu_156_2013",
+      "target_id": "khainiem_quyenquyen",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

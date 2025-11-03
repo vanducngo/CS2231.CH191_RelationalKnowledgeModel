@@ -1,196 +1,128 @@
 {
   "entities": [
     {
-      "id": "dieu_61",
-      "name": "Điều 61",
-      "label": "ĐiềuLuật"
+      "id": "dieu_61_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 61. Hệ thống quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "61",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 61.\n\nHệ thống quy hoạch, kế hoạch sử dụng đất\n1. Hệ thống quy hoạch, kế hoạch sử dụng đất bao gồm:\na) Quy hoạch, kế hoạch sử dụng đất quốc gia ;\nb) Quy hoạch, kế hoạch sử dụng đất cấp tỉnh;\nc) Quy hoạch sử dụng đất cấp huyện , kế hoạch sử dụng đất hằng năm cấp huyện;\nd) Quy hoạch sử dụng đất quốc phòng;\nđ) Quy hoạch sử dụng đất an ninh.\n2. Quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng và quy hoạch sử dụng đất an\nninh thuộc hệ thống quy hoạch quốc gia, thực hiện theo quy định của Luật này và pháp luật về quy\nhoạch. about:blank\n. Quy hoạch sử dụng đất cấp tỉnh và quy hoạch sử dụng đất cấp huyện là quy hoạch có tính chất kỹ\nthuật, chuyên ngành cụ thể hóa quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh."
+      }
     },
     {
-      "id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
-      "name": "Hệ thống quy hoạch, kế hoạch sử dụng đất",
-      "label": "KháiNiệm"
+      "id": "khainiem_hethongquydinhkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống quy hoạch, kế hoạch sử dụng đất"
+      }
     },
     {
-      "id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat_quoc_gia",
-      "name": "Quy hoạch, kế hoạch sử dụng đất quốc gia",
-      "label": "KháiNiệm"
+      "id": "khainiem_quyhoachkehoachsudungdatquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất quốc gia"
+      }
     },
     {
-      "id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh_item_1b",
-      "name": "Quy hoạch, kế hoạch sử dụng đất cấp tỉnh",
-      "label": "KháiNiệm"
+      "id": "khainiem_quyhoachkehoachsudungdatcaptinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất cấp tỉnh"
+      }
     },
     {
-      "id": "khaikiem_quy_hoach_su_dung_dat_cap_huyen",
-      "name": "Quy hoạch sử dụng đất cấp huyện",
-      "label": "KháiNiệm"
+      "id": "khainiem_quyhoachsudungdatcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất cấp huyện"
+      }
     },
     {
-      "id": "khaikiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen",
-      "name": "Kế hoạch sử dụng đất hằng năm cấp huyện",
-      "label": "KháiNiệm"
+      "id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất hằng năm cấp huyện"
+      }
     },
     {
-      "id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong",
-      "name": "Quy hoạch sử dụng đất quốc phòng",
-      "label": "KháiNiệm"
+      "id": "khainiem_quyhoachsudungdatquocphong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất quốc phòng"
+      }
     },
     {
-      "id": "khaikiem_quy_hoach_su_dung_dat_an_ninh",
-      "name": "Quy hoạch sử dụng đất an ninh",
-      "label": "KháiNiệm"
+      "id": "khainiem_quyhoachsudungdatanninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất an ninh"
+      }
     },
     {
-      "id": "khaikiem_quy_hoach_su_dung_dat_quoc_gia",
-      "name": "Quy hoạch sử dụng đất quốc gia",
-      "label": "KháiNiệm"
+      "id": "khainiem_hethongquyhoachquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Hệ thống quy hoạch quốc gia"
+      }
     },
     {
-      "id": "khaikiem_he_thong_quy_hoach_quoc_gia",
-      "name": "Hệ thống quy hoạch quốc gia",
-      "label": "KháiNiệm"
+      "id": "khainiem_quyhoachcapquocgia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch cấp quốc gia"
+      }
     },
     {
-      "id": "khaikiem_luat_nay",
-      "name": "Luật này",
-      "label": "KháiNiệm"
+      "id": "khainiem_quyhoachvung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch vùng"
+      }
     },
     {
-      "id": "khaikiem_phap_luat_ve_quy_hoach",
-      "name": "pháp luật về quy hoạch",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_quy_hoach_su_dung_dat_cap_tinh",
-      "name": "Quy hoạch sử dụng đất cấp tỉnh",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh",
-      "name": "quy hoạch có tính chất kỹ thuật, chuyên ngành",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_quy_hoach_cap_quoc_gia",
-      "name": "quy hoạch cấp quốc gia",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_quy_hoach_vung",
-      "name": "quy hoạch vùng",
-      "label": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_quy_hoach_tinh",
-      "name": "quy hoạch tỉnh",
-      "label": "KháiNiệm"
+      "id": "khainiem_quyhoachtinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch tỉnh"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_61",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat"
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_hethongquydinhkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat_quoc_gia"
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachkehoachsudungdatquocgia",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khaikiem_quy_hoach_ke_hoach_su_dung_dat_cap_tinh_item_1b"
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachkehoachsudungdatcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khaikiem_quy_hoach_su_dung_dat_cap_huyen"
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachsudungdatcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khaikiem_ke_hoach_su_dung_dat_hang_nam_cap_huyen"
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_kehoachsudungdathangnamcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong"
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachsudungdatquocphong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_he_thong_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khaikiem_quy_hoach_su_dung_dat_an_ninh"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_gia",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_he_thong_quy_hoach_quoc_gia"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_he_thong_quy_hoach_quoc_gia"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_an_ninh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_he_thong_quy_hoach_quoc_gia"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_gia",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_luat_nay"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_gia",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_phap_luat_ve_quy_hoach"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_luat_nay"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_quoc_phong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_phap_luat_ve_quy_hoach"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_luat_nay"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_phap_luat_ve_quy_hoach"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_cap_tinh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_su_dung_dat_cap_huyen",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_quy_hoach_cap_quoc_gia"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_quy_hoach_vung"
-    },
-    {
-      "source_id": "khaikiem_quy_hoach_co_tinh_chat_ky_thuat_chuyen_nganh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_quy_hoach_tinh"
+      "source_id": "dieu_61_2024",
+      "target_id": "khainiem_quyhoachsudungdatanninh",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

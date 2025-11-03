@@ -1,276 +1,184 @@
 {
   "entities": [
     {
-      "id": "dieu_59",
-      "label": "ĐiềuLuật",
-      "name": "Điều 59"
+      "id": "dieu_59_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 59. Thẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất",
+        "ma_dieu": "59",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 59.\n\nThẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n1. Ủy ban nhân dân cấp tỉnh quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\ntrong các trường hợp sau đây:\na) Giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với tổ chức;\nb) Giao đất đối với cơ sở tôn giáo;\nc) Giao đất đối với người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài\ntheo quy định tại  khoản 3 Điều 55 của Luật này;\nd) Cho thuê đất đối với người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài\ntheo quy định tại  điểm đ và điểm e khoản 1 Điều 56 của Luật này ;\nđ) Cho thuê đất đối với tổ chức nước ngoài có chức năng ngoại giao.\n2. Ủy ban nhân dân cấp huyện quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng\nđất trong các trường hợp sau đây: about:blank\na) Giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với hộ gia đình, cá nhân. Trường\nhợp cho hộ gia đình, cá nhân thuê đất, cho phép chuyển mục đích sử dụng đất nông nghiệp để sử dụng\nvào mục đích thương mại, dịch vụ với diện tích từ 0,5 héc ta trở lên thì phải có văn bản chấp thuận của\nỦy ban nhân dân cấp tỉnh trước khi quyết định;\nb) Giao đất đối với cộng đồng dân cư.\n3. Ủy ban nhân dân cấp xã cho thuê đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích của\nxã, phường, thị trấn.\n4. Cơ quan có thẩm quyền quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\nquy định tại khoản 1 và khoản 2 Điều này không được ủy quyền."
+      }
     },
     {
-      "id": "khainiem_tham_quyen_giao_thue_chuyen_mdsd",
-      "label": "KháiNiệm",
-      "name": "Thẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
     },
     {
-      "id": "hanhvi_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
     },
     {
-      "id": "hanhvi_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
+      "id": "hanhviphaply_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho phép chuyển mục đích sử dụng đất"
+      }
     },
     {
-      "id": "hanhvi_cho_phep_chuyen_muc_dich_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho phép chuyển mục đích sử dụng đất"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
     },
     {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
+      "id": "chuthe_cosotoniao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ sở tôn giáo"
+      }
     },
     {
-      "id": "khainiem_co_so_ton_giao",
-      "label": "KháiNiệm",
-      "name": "cơ sở tôn giáo"
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "người Việt Nam định cư ở nước ngoài"
+      "id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+      }
     },
     {
-      "id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+      "id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức nước ngoài có chức năng ngoại giao"
+      }
     },
     {
-      "id": "dieukien_theo_k3_d55",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định tại khoản 3 Điều 55 của Luật này"
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
-      "id": "dieukien_theo_dd_de_k1_d56",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định tại điểm đ và điểm e khoản 1 Điều 56 của Luật này"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ gia đình"
+      }
     },
     {
-      "id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao",
-      "label": "ChủThể",
-      "name": "tổ chức nước ngoài có chức năng ngoại giao"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
+      "id": "chuthe_conggdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh_ca_nhan",
-      "label": "ChủThể",
-      "name": "hộ gia đình, cá nhân"
-    },
-    {
-      "id": "hanhvi_chothuedat_chuyen_mdsd_nn_tm_dv",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất, cho phép chuyển mục đích sử dụng đất nông nghiệp để sử dụng vào mục đích thương mại, dịch vụ"
-    },
-    {
-      "id": "dieukien_dien_tich_tu_0_5_hec_ta_tro_len",
-      "label": "ĐiềuKiện",
-      "name": "diện tích từ 0,5 héc ta trở lên"
-    },
-    {
-      "id": "dieukien_co_van_ban_chap_thuan_cua_ubnd_cap_tinh_truoc_khi_quyet_dinh",
-      "label": "ĐiềuKiện",
-      "name": "phải có văn bản chấp thuận của Ủy ban nhân dân cấp tỉnh trước khi quyết định"
-    },
-    {
-      "id": "khainiem_cong_dong_dan_cu",
-      "label": "KháiNiệm",
-      "name": "cộng đồng dân cư"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
-    },
-    {
-      "id": "khainiem_quy_dat_nong_nghiep_su_dung_muc_dich_cong_ich",
-      "label": "KháiNiệm",
-      "name": "quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn"
-    },
-    {
-      "id": "dieukien_khong_duoc_uy_quyen",
-      "label": "ĐiềuKiện",
-      "name": "không được ủy quyền"
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_59",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tham_quyen_giao_thue_chuyen_mdsd"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_59",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
+      "source_id": "dieu_59_2013",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giao_dat"
+      "source_id": "dieu_59_2013",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue_dat"
+      "source_id": "dieu_59_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_phep_chuyen_muc_dich_su_dung_dat"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_cosotoniao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_cho_phep_chuyen_muc_dich_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_co_so_ton_giao"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_tochucnuocngoaicochucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_k3_d55"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_conggdongdancu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_dd_de_k1_d56"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_nuoc_ngoai_co_chuc_nang_ngoai_giao"
-    },
-    {
-      "source_id": "dieu_59",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giao_dat"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue_dat"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_phep_chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_cho_phep_chuyen_muc_dich_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_chothuedat_chuyen_mdsd_nn_tm_dv",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
-    },
-    {
-      "source_id": "hanhvi_chothuedat_chuyen_mdsd_nn_tm_dv",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dien_tich_tu_0_5_hec_ta_tro_len"
-    },
-    {
-      "source_id": "hanhvi_chothuedat_chuyen_mdsd_nn_tm_dv",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_van_ban_chap_thuan_cua_ubnd_cap_tinh_truoc_khi_quyet_dinh"
-    },
-    {
-      "source_id": "hanhvi_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "dieu_59",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhvi_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quy_dat_nong_nghiep_su_dung_muc_dich_cong_ich"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_duoc_uy_quyen"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_duoc_uy_quyen"
+      "source_id": "dieu_59_2013",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

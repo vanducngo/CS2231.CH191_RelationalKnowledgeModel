@@ -1,131 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_dieu23",
-      "label": "ĐiềuLuật",
-      "name": "Điều 23"
-    },
-    {
-      "id": "khaikiem_trachnhiemquanlynhanuocvedatdai",
-      "label": "KháiNiệm",
-      "name": "Trách nhiệm quản lý nhà nước về đất đai"
+      "id": "dieu_23_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 23. Trách nhiệm quản lý nhà nước về đất đai",
+        "ma_dieu": "23",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 23.\n\nTrách nhiệm quản lý nhà nước về đất đai\n1. Chính phủ thống nhất quản lý nhà nước về đất đai trong phạm vi cả nước.\n2. Bộ Tài nguyên và Môi trường chịu trách nhiệm trước Chính phủ trong việc thống nhất quản lý nhà\nnước về đất đai.\nBộ, cơ quan ngang bộ có liên quan trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm giúp\nChính phủ trong quản lý nhà nước về đất đai.\n3. Ủy ban nhân dân các cấp có trách nhiệm quản lý nhà nước về đất đai tại địa phương theo thẩm\nquyền quy định tại Luật này ."
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "hanhviphaply_thongnhatquanlynhanuocvedatdai",
-      "label": "HànhViPhápLý",
-      "name": "thống nhất quản lý nhà nước về đất đai"
+      "id": "hanhviphaply_quanlynhanuocvedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "quản lý nhà nước về đất đai"
+      }
     },
     {
-      "id": "chuthe_botainnguyenvamoitruong",
-      "label": "ChủThể",
-      "name": "Bộ Tài nguyên và Môi trường"
+      "id": "chuthe_botainguyenvamitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
     },
     {
-      "id": "hanhviphaply_chiutrachnhiemthongnhatquanlynhanuocvedatdai",
-      "label": "HànhViPhápLý",
-      "name": "chịu trách nhiệm thống nhất quản lý nhà nước về đất đai"
+      "id": "chuthe_bocoquanngangbo",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ, cơ quan ngang bộ"
+      }
     },
     {
-      "id": "chuthe_bocoquanngangbocolienquan",
-      "label": "ChủThể",
-      "name": "Bộ, cơ quan ngang bộ có liên quan"
-    },
-    {
-      "id": "hanhviphaply_giupchinhphuquanlynhanuocvedatdai",
-      "label": "HànhViPhápLý",
-      "name": "giúp Chính phủ trong quản lý nhà nước về đất đai"
-    },
-    {
-      "id": "dieukien_trongphamvinhiemvuquyenhan",
-      "label": "ĐiềuKiện",
-      "name": "trong phạm vi nhiệm vụ, quyền hạn của mình"
-    },
-    {
-      "id": "chuthe_uybannhandancaccap",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân các cấp"
-    },
-    {
-      "id": "hanhviphaply_quanlynhanuocvedatdaiatdiaphuong",
-      "label": "HànhViPhápLý",
-      "name": "quản lý nhà nước về đất đai tại địa phương"
-    },
-    {
-      "id": "dieukien_theothamquyenquydinhtailuatnay",
-      "label": "ĐiềuKiện",
-      "name": "theo thẩm quyền quy định tại Luật này"
+      "id": "chuthe_ubndcaccap",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_dieu23",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_trachnhiemquanlynhanuocvedatdai"
+      "source_id": "dieu_23_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thongnhatquanlynhanuocvedatdai"
+      "source_id": "dieu_23_2013",
+      "target_id": "hanhviphaply_quanlynhanuocvedatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_dieu23",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thongnhatquanlynhanuocvedatdai"
+      "source_id": "dieu_23_2013",
+      "target_id": "chuthe_botainguyenvamitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_botainnguyenvamoitruong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chiutrachnhiemthongnhatquanlynhanuocvedatdai"
+      "source_id": "dieu_23_2013",
+      "target_id": "chuthe_bocoquanngangbo",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chiutrachnhiemthongnhatquanlynhanuocvedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinhphu"
-    },
-    {
-      "source_id": "dieu_dieu23",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chiutrachnhiemthongnhatquanlynhanuocvedatdai"
-    },
-    {
-      "source_id": "chuthe_bocoquanngangbocolienquan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_giupchinhphuquanlynhanuocvedatdai"
-    },
-    {
-      "source_id": "hanhviphaply_giupchinhphuquanlynhanuocvedatdai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinhphu"
-    },
-    {
-      "source_id": "hanhviphaply_giupchinhphuquanlynhanuocvedatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trongphamvinhiemvuquyenhan"
-    },
-    {
-      "source_id": "dieu_dieu23",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giupchinhphuquanlynhanuocvedatdai"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaccap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quanlynhanuocvedatdaiatdiaphuong"
-    },
-    {
-      "source_id": "hanhviphaply_quanlynhanuocvedatdaiatdiaphuong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theothamquyenquydinhtailuatnay"
-    },
-    {
-      "source_id": "dieu_dieu23",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quanlynhanuocvedatdaiatdiaphuong"
+      "source_id": "dieu_23_2013",
+      "target_id": "chuthe_ubndcaccap",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,427 +1,52 @@
 {
   "entities": [
     {
-      "id": "dieu_229",
-      "label": "ĐiềuLuật",
-      "name": "Điều 229",
-      "description": "Trình tự, thủ tục giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất"
+      "id": "dieu_229_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 229. Trình tự, thủ tục giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất",
+        "ma_dieu": "229",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 229.\n\nTrình tự, thủ tục giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất\n1. Việc chuẩn bị tổ chức thực hiện đấu giá quyền sử dụng đất được thực hiện như sau:\na) Đơn vị đang được giao quản lý quỹ đất lập phương án đấu giá quyền sử dụng đất trình cơ quan có\nthẩm quyền phê duyệt;\nb) Đơn vị được giao tổ chức thực hiện việc đấu giá quyền sử dụng đất có trách nhiệm chuẩn bị hồ sơ\ncủa khu đất, thửa đất đấu giá, gửi đến cơ quan có chức năng quản lý đất đai để trình Ủy ban nhân dân\ncấp có thẩm quyền quyết định đấu giá quyền sử dụng đất;\nc) Cơ quan có chức năng quản lý đất đai tổ chức thực hiện việc xác định giá khởi điểm của khu đất,\nthửa đất đấu giá, trình Ủy ban nhân dân cấp có thẩm quyền phê duyệt;\nd) Căn cứ đề nghị của cơ quan có chức năng quản lý đất đai, Ủy ban nhân dân cấp có thẩm quyền\nquyết định đấu giá quyền sử dụng đất;\nđ) Đơn vị được giao tổ chức thực hiện việc đấu giá quyền sử dụng đất có trách nhiệm tổ chức lựa chọn\nvà ký hợp đồng thuê đơn vị, tổ chức thực hiện cuộc bán đấu giá quyền sử dụng đất.\n2. Đơn vị, tổ chức thực hiện cuộc bán đấu giá quyền sử dụng đất có trách nhiệm thực hiện cuộc bán\nđấu giá quyền sử dụng đất theo quy định của pháp luật về đấu giá tài sản.\n3. Việc công nhận kết quả đấu giá quyền sử dụng đất được thực hiện như sau:\na) Đơn vị được giao tổ chức thực hiện việc đấu giá quyền sử dụng đất lập hồ sơ gửi cơ quan có chức\nnăng quản lý đất đai để trình Ủy ban nhân dân cấp có thẩm quyền ban hành quyết định công nhận kết\nquả trúng đấu giá quyền sử dụng đất; about:blank\nb) Ủy ban nhân dân cấp có thẩm quyền ký ban hành quyết định công nhận kết quả trúng đấu giá quyền\nsử dụng đất đã bán đấu giá thành công để gửi cho cơ quan có chức năng quản lý đất đai, đơn vị được\ngiao tổ chức thực hiện việc đấu giá quyền sử dụng đất, cơ quan thuế và người trúng đấu giá quyền sử\ndụng đất.\n4. Người trúng đấu giá nộp tiền sử dụng đất, tiền thuê đất theo quy định của pháp luật.\n5. Sau khi người trúng đấu giá hoàn thành việc nộp tiền sử dụng đất, tiền thuê đất, cơ quan có chức\nnăng quản lý đất đai có trách nhiệm:\na) Trình Ủy ban nhân dân cấp có thẩm quyền ban hành quyết định giao đất, cho thuê đất và ký Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Chuyển hồ sơ đến tổ chức đăng ký đất đai hoặc chi nhánh của tổ chức đăng ký đất đai để thực hiện\ncập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính theo quy định;\nc) Ký hợp đồng thuê đất đối với trường hợp thuê đất.\n6. Cơ quan có chức năng quản lý đất đai chủ trì, phối hợp với đơn vị tổ chức thực hiện việc đấu giá\nquyền sử dụng đất và Ủy ban nhân dân cấp xã nơi có đất tổ chức bàn giao đất trên thực địa và trao\nGiấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người trúng đấu giá\nquyền sử dụng đất.\nChương XV\nGIÁM SÁT , THEO DÕI VÀ ĐÁNH GIÁ VIỆC QUẢN LÝ, SỬ DỤNG ĐẤT  ĐAI; THANH TRA,\nKIỂM TRA, KIỂM TOÁN; GIẢI QUYẾT  TRANH CHẤP , KHIẾU NẠI, TỐ CÁO VÀ XỬ LÝ VI\nPHẠM PHÁP  LUẬT  VỀ ĐẤT  ĐAI\nMục 1. GIÁM SÁT , THEO DÕI VÀ ĐÁNH GIÁ ĐỐI VỚI QUẢN LÝ, SỬ DỤNG ĐẤT  ĐAI"
+      }
     },
     {
-      "id": "khainiem_trinhtuthutucgiaodat",
-      "label": "KháiNiệm",
-      "name": "Trình tự, thủ tục giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất"
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
     },
     {
-      "id": "khainiem_chuanbituchucthuchienaugiadsd",
-      "label": "KháiNiệm",
-      "name": "Việc chuẩn bị tổ chức thực hiện đấu giá quyền sử dụng đất"
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
     },
     {
-      "id": "khainiem_congnhanketquadaugiadsd",
-      "label": "KháiNiệm",
-      "name": "Việc công nhận kết quả đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "khainiem_quydinhphapluatdaugiataisan",
-      "label": "KháiNiệm",
-      "name": "Quy định của pháp luật về đấu giá tài sản"
-    },
-    {
-      "id": "khainiem_quydinhphapluatvetiensd",
-      "label": "KháiNiệm",
-      "name": "Quy định của pháp luật về tiền sử dụng đất, tiền thuê đất"
-    },
-    {
-      "id": "chuthe_donvidangduocgiaoquanlyquy",
-      "label": "ChủThể",
-      "name": "Đơn vị đang được giao quản lý quỹ đất"
-    },
-    {
-      "id": "chuthe_coquancothamquyenpheduyet",
-      "label": "ChủThể",
-      "name": "Cơ quan có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "chuthe_donvituchucthuchiendaugiadsd",
-      "label": "ChủThể",
-      "name": "Đơn vị được giao tổ chức thực hiện việc đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "chuthe_coquanchucnangquanlydatdai",
-      "label": "ChủThể",
-      "name": "Cơ quan có chức năng quản lý đất đai"
-    },
-    {
-      "id": "chuthe_ubndcapcothamquyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp có thẩm quyền"
-    },
-    {
-      "id": "chuthe_donvitochucthuchiencuocbandaugia",
-      "label": "ChủThể",
-      "name": "Đơn vị, tổ chức thực hiện cuộc bán đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "chuthe_coquanthue",
-      "label": "ChủThể",
-      "name": "Cơ quan thuế"
-    },
-    {
-      "id": "chuthe_nguoitrungdaugiadsd",
-      "label": "ChủThể",
-      "name": "Người trúng đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "chuthe_tochucdangkyddhoacchinhanh",
-      "label": "ChủThể",
-      "name": "Tổ chức đăng ký đất đai hoặc chi nhánh của tổ chức đăng ký đất đai"
-    },
-    {
-      "id": "chuthe_ubndcapsanoidat",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã nơi có đất"
-    },
-    {
-      "id": "hanhviphaply_lapphuongan",
-      "label": "HànhViPhápLý",
-      "name": "Lập phương án đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_pheduyetphuongan",
-      "label": "HànhViPhápLý",
-      "name": "Phê duyệt phương án đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_chuanbihoso",
-      "label": "HànhViPhápLý",
-      "name": "Chuẩn bị hồ sơ của khu đất, thửa đất đấu giá"
-    },
-    {
-      "id": "hanhviphaply_quyetdinhdaugiadsd",
-      "label": "HànhViPhápLý",
-      "name": "Quyết định đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_xacdinhgiakhoidiem",
-      "label": "HànhViPhápLý",
-      "name": "Xác định giá khởi điểm của khu đất, thửa đất đấu giá"
-    },
-    {
-      "id": "hanhviphaply_pheduyetgiakhoidiem",
-      "label": "HànhViPhápLý",
-      "name": "Phê duyệt giá khởi điểm"
-    },
-    {
-      "id": "hanhviphaply_tochucvakihopdongthuedv",
-      "label": "HànhViPhápLý",
-      "name": "Tổ chức lựa chọn và ký hợp đồng thuê đơn vị, tổ chức thực hiện cuộc bán đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_thuchiencuocbandaugia",
-      "label": "HànhViPhápLý",
-      "name": "Thực hiện cuộc bán đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_laphosocongnhanketqua",
-      "label": "HànhViPhápLý",
-      "name": "Lập hồ sơ công nhận kết quả trúng đấu giá"
-    },
-    {
-      "id": "hanhviphaply_banhanhquyetdinhcongnhan",
-      "label": "HànhViPhápLý",
-      "name": "Ban hành quyết định công nhận kết quả trúng đấu giá quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_noptiensudungdatvathuedat",
-      "label": "HànhViPhápLý",
-      "name": "Nộp tiền sử dụng đất, tiền thuê đất"
-    },
-    {
-      "id": "hanhviphaply_banhanhquyetdinhgiaodatchothuedat",
-      "label": "HànhViPhápLý",
-      "name": "Ban hành quyết định giao đất, cho thuê đất"
-    },
-    {
-      "id": "hanhviphaply_kygiaychungnhan",
-      "label": "HànhViPhápLý",
-      "name": "Ký Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_chuyenhoso",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển hồ sơ"
-    },
-    {
-      "id": "hanhviphaply_capnhatchinhlycsdl",
-      "label": "HànhViPhápLý",
-      "name": "Cập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính"
-    },
-    {
-      "id": "hanhviphaply_kyhopdongthuedat",
-      "label": "HànhViPhápLý",
-      "name": "Ký hợp đồng thuê đất"
-    },
-    {
-      "id": "hanhviphaply_tochucbanggiaodat",
-      "label": "HànhViPhápLý",
-      "name": "Tổ chức bàn giao đất trên thực địa"
-    },
-    {
-      "id": "hanhviphaply_traogiaychungnhan",
-      "label": "HànhViPhápLý",
-      "name": "Trao Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "dieukien_denghicuaquanchucnangquanlydd",
-      "label": "ĐiềuKiện",
-      "name": "Đề nghị của cơ quan có chức năng quản lý đất đai"
-    },
-    {
-      "id": "dieukien_bandaugiathanhcong",
-      "label": "ĐiềuKiện",
-      "name": "Bán đấu giá thành công"
-    },
-    {
-      "id": "dieukien_hoanthanhnopten",
-      "label": "ĐiềuKiện",
-      "name": "Hoàn thành việc nộp tiền sử dụng đất, tiền thuê đất"
-    },
-    {
-      "id": "dieukien_truonghopthuedat",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp thuê đất"
+      "id": "khainiem_daugiacquyensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đấu giá quyền sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_229",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_trinhtuthutucgiaodat"
+      "source_id": "dieu_229_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_229",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chuanbituchucthuchienaugiadsd"
+      "source_id": "dieu_229_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_229",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_congnhanketquadaugiadsd"
-    },
-    {
-      "source_id": "chuthe_donvidangduocgiaoquanlyquy",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_lapphuongan"
-    },
-    {
-      "source_id": "hanhviphaply_lapphuongan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_pheduyetphuongan"
-    },
-    {
-      "source_id": "chuthe_coquancothamquyenpheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_pheduyetphuongan"
-    },
-    {
-      "source_id": "chuthe_donvituchucthuchiendaugiadsd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chuanbihoso"
-    },
-    {
-      "source_id": "hanhviphaply_chuanbihoso",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_coquanchucnangquanlydatdai"
-    },
-    {
-      "source_id": "chuthe_coquanchucnangquanlydatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quyetdinhdaugiadsd"
-    },
-    {
-      "source_id": "chuthe_ubndcapcothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quyetdinhdaugiadsd"
-    },
-    {
-      "source_id": "chuthe_coquanchucnangquanlydatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_xacdinhgiakhoidiem"
-    },
-    {
-      "source_id": "hanhviphaply_xacdinhgiakhoidiem",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_pheduyetgiakhoidiem"
-    },
-    {
-      "source_id": "chuthe_ubndcapcothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_pheduyetgiakhoidiem"
-    },
-    {
-      "source_id": "hanhviphaply_quyetdinhdaugiadsd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_denghicuaquanchucnangquanlydd"
-    },
-    {
-      "source_id": "chuthe_donvituchucthuchiendaugiadsd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tochucvakihopdongthuedv"
-    },
-    {
-      "source_id": "hanhviphaply_tochucvakihopdongthuedv",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_donvitochucthuchiencuocbandaugia"
-    },
-    {
-      "source_id": "chuthe_donvitochucthuchiencuocbandaugia",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thuchiencuocbandaugia"
-    },
-    {
-      "source_id": "hanhviphaply_thuchiencuocbandaugia",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quydinhphapluatdaugiataisan"
-    },
-    {
-      "source_id": "chuthe_donvituchucthuchiendaugiadsd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_laphosocongnhanketqua"
-    },
-    {
-      "source_id": "hanhviphaply_laphosocongnhanketqua",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_coquanchucnangquanlydatdai"
-    },
-    {
-      "source_id": "chuthe_coquanchucnangquanlydatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_banhanhquyetdinhcongnhan"
-    },
-    {
-      "source_id": "chuthe_ubndcapcothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_banhanhquyetdinhcongnhan"
-    },
-    {
-      "source_id": "hanhviphaply_banhanhquyetdinhcongnhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bandaugiathanhcong"
-    },
-    {
-      "source_id": "hanhviphaply_banhanhquyetdinhcongnhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_coquanchucnangquanlydatdai"
-    },
-    {
-      "source_id": "hanhviphaply_banhanhquyetdinhcongnhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_donvituchucthuchiendaugiadsd"
-    },
-    {
-      "source_id": "hanhviphaply_banhanhquyetdinhcongnhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_coquanthue"
-    },
-    {
-      "source_id": "hanhviphaply_banhanhquyetdinhcongnhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_nguoitrungdaugiadsd"
-    },
-    {
-      "source_id": "chuthe_nguoitrungdaugiadsd",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_noptiensudungdatvathuedat"
-    },
-    {
-      "source_id": "hanhviphaply_noptiensudungdatvathuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quydinhphapluatvetiensd"
-    },
-    {
-      "source_id": "chuthe_coquanchucnangquanlydatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_banhanhquyetdinhgiaodatchothuedat"
-    },
-    {
-      "source_id": "chuthe_ubndcapcothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_banhanhquyetdinhgiaodatchothuedat"
-    },
-    {
-      "source_id": "chuthe_ubndcapcothamquyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_kygiaychungnhan"
-    },
-    {
-      "source_id": "hanhviphaply_banhanhquyetdinhgiaodatchothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hoanthanhnopten"
-    },
-    {
-      "source_id": "hanhviphaply_kygiaychungnhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hoanthanhnopten"
-    },
-    {
-      "source_id": "chuthe_coquanchucnangquanlydatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chuyenhoso"
-    },
-    {
-      "source_id": "hanhviphaply_chuyenhoso",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_tochucdangkyddhoacchinhanh"
-    },
-    {
-      "source_id": "chuthe_tochucdangkyddhoacchinhanh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_capnhatchinhlycsdl"
-    },
-    {
-      "source_id": "hanhviphaply_capnhatchinhlycsdl",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hoanthanhnopten"
-    },
-    {
-      "source_id": "chuthe_coquanchucnangquanlydatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_kyhopdongthuedat"
-    },
-    {
-      "source_id": "hanhviphaply_kyhopdongthuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truonghopthuedat"
-    },
-    {
-      "source_id": "hanhviphaply_kyhopdongthuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hoanthanhnopten"
-    },
-    {
-      "source_id": "chuthe_coquanchucnangquanlydatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tochucbanggiaodat"
-    },
-    {
-      "source_id": "chuthe_coquanchucnangquanlydatdai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_traogiaychungnhan"
-    },
-    {
-      "source_id": "chuthe_donvituchucthuchiendaugiadsd",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_tochucbanggiaodat"
-    },
-    {
-      "source_id": "chuthe_ubndcapsanoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_tochucbanggiaodat"
-    },
-    {
-      "source_id": "hanhviphaply_traogiaychungnhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_nguoitrungdaugiadsd"
+      "source_id": "dieu_229_2024",
+      "target_id": "khainiem_daugiacquyensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

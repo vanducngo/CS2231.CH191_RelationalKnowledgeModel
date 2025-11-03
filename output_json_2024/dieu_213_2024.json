@@ -1,266 +1,184 @@
 {
   "entities": [
     {
-      "id": "dieu_213",
-      "label": "ĐiềuLuật",
-      "name": "Điều 213"
+      "id": "dieu_213_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 213. Đất tôn giáo",
+        "ma_dieu": "213",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 213.\n\nĐất tôn giáo\n1. Đất tôn giáo bao gồm đất xây dựng cơ sở tôn giáo, trụ sở của tổ chức tôn giáo, tổ chức tôn giáo trực\nthuộc và công trình tôn giáo hợp pháp khác.\n2. Nhà nước giao đất không thu tiền sử dụng đất đối với đất xây dựng cơ sở tôn giáo, trụ sở của tổ\nchức tôn giáo, tổ chức tôn giáo trực thuộc.\n3. Nhà nước cho thuê đất thu tiền thuê đất hằng năm đối với tổ chức tôn giáo, tổ chức tôn giáo trực\nthuộc sử dụng đất không thuộc các trường hợp quy định tại khoản 2 Điều này .\n4. Ủy ban nhân dân cấp tỉnh căn cứ nhu cầu thực tế về hoạt động tôn giáo và khả năng quỹ đất của địa\nphương để quy định hạn mức và quyết định diện tích đất giao cho tổ chức tôn giáo, tổ chức tôn giáo\ntrực thuộc trên địa bàn tỉnh.\n5. Việc sử dụng đất tôn giáo kết hợp với thương mại, dịch vụ phải bảo đảm các yêu cầu quy định tại\nkhoản 2 Điều 218 của Luật này .\n6. Trường hợp Nhà nước thu hồi đất tôn giáo quy định tại khoản 2 Điều này thì được bố trí địa điểm\nmới phù hợp với quỹ đất của địa phương và sinh hoạt tôn giáo của các tín đồ."
+      }
     },
     {
       "id": "khainiem_dattongiao",
-      "label": "KháiNiệm",
-      "name": "Đất tôn giáo"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tôn giáo"
+      }
     },
     {
-      "id": "khainiem_datxaydungcosotontiao",
-      "label": "KháiNiệm",
-      "name": "đất xây dựng cơ sở tôn giáo"
+      "id": "khainiem_datxaydungcosotongiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất xây dựng cơ sở tôn giáo"
+      }
     },
     {
-      "id": "khainiem_trusocotontiao",
-      "label": "KháiNiệm",
-      "name": "trụ sở của tổ chức tôn giáo"
+      "id": "khainiem_trusocuatochuctongiao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Trụ sở của tổ chức tôn giáo"
+      }
     },
     {
-      "id": "khainiem_trusocotontiaotructhuoc",
-      "label": "KháiNiệm",
-      "name": "trụ sở của tổ chức tôn giáo trực thuộc"
+      "id": "khainiem_tochuctonggiaotructhuoc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tổ chức tôn giáo trực thuộc"
+      }
     },
     {
-      "id": "khainiem_congtrinhtongiaohopkhac",
-      "label": "KháiNiệm",
-      "name": "công trình tôn giáo hợp pháp khác"
+      "id": "khainiem_congtrinhtongiaohoplekhac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Công trình tôn giáo hợp pháp khác"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "hanhviphaply_giaodatkhongthutien",
-      "label": "HànhViPhápLý",
-      "name": "giao đất không thu tiền sử dụng đất"
+      "id": "hanhviphaply_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất"
+      }
     },
     {
-      "id": "hanhviphaply_chothuedatthutienhangnam",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất thu tiền thuê đất hằng năm"
+      "id": "hanhviphaply_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cho thuê đất"
+      }
     },
     {
       "id": "chuthe_tochuctongiao",
-      "label": "ChủThể",
-      "name": "tổ chức tôn giáo"
-    },
-    {
-      "id": "chuthe_tochuctongiaotructhuoc",
-      "label": "ChủThể",
-      "name": "tổ chức tôn giáo trực thuộc"
-    },
-    {
-      "id": "dieukien_khongthuoctruonghopkhoan2dieu213",
-      "label": "ĐiềuKiện",
-      "name": "không thuộc các trường hợp quy định tại khoản 2 Điều này"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tôn giáo"
+      }
     },
     {
       "id": "chuthe_ubndcaptinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "hanhviphaply_quydinhanmuccodien",
-      "label": "HànhViPhápLý",
-      "name": "quy định hạn mức và quyết định diện tích đất giao"
+      "id": "hanhviphaply_quydinhhanmuc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quy định hạn mức"
+      }
     },
     {
-      "id": "dieukien_canhucauhoatdongtongiao",
-      "label": "ĐiềuKiện",
-      "name": "căn cứ nhu cầu thực tế về hoạt động tôn giáo"
+      "id": "hanhviphaply_quyetdinhdientichdatgiao",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định diện tích đất giao"
+      }
     },
     {
-      "id": "dieukien_khanangquydatdialuong",
-      "label": "ĐiềuKiện",
-      "name": "khả năng quỹ đất của địa phương"
+      "id": "hanhviphaply_thuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thu hồi đất"
+      }
     },
     {
-      "id": "hanhviphaply_sudungdattongiaokethoptmdv",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất tôn giáo kết hợp với thương mại, dịch vụ"
-    },
-    {
-      "id": "dieukien_baodamyeucaukhoan2dieu218",
-      "label": "ĐiềuKiện",
-      "name": "bảo đảm các yêu cầu quy định tại khoản 2 Điều 218 của Luật này"
-    },
-    {
-      "id": "hanhviphaply_thuhoiddattongiao",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi đất tôn giáo"
-    },
-    {
-      "id": "dieukien_quydinhtaikhoan2dieu213",
-      "label": "ĐiềuKiện",
-      "name": "quy định tại khoản 2 Điều này"
-    },
-    {
-      "id": "chetai_bostidiemmoiphuphop",
-      "label": "ChếTài",
-      "name": "bố trí địa điểm mới"
-    },
-    {
-      "id": "dieukien_phuhopquydatdialuong",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quỹ đất của địa phương"
-    },
-    {
-      "id": "dieukien_sinhoattongiaotindo",
-      "label": "ĐiềuKiện",
-      "name": "sinh hoạt tôn giáo của các tín đồ"
+      "id": "hanhviphaply_botridiadiemmoi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bố trí địa điểm mới"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_213",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dattongiao"
+      "source_id": "dieu_213_2024",
+      "target_id": "khainiem_dattongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dattongiao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_datxaydungcosotontiao"
+      "source_id": "dieu_213_2024",
+      "target_id": "khainiem_datxaydungcosotongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dattongiao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_trusocotontiao"
+      "source_id": "dieu_213_2024",
+      "target_id": "khainiem_trusocuatochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dattongiao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_trusocotontiaotructhuoc"
+      "source_id": "dieu_213_2024",
+      "target_id": "khainiem_tochuctonggiaotructhuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dattongiao",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_congtrinhtongiaohopkhac"
+      "source_id": "dieu_213_2024",
+      "target_id": "khainiem_congtrinhtongiaohoplekhac",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_213",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaodatkhongthutien"
+      "source_id": "dieu_213_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaodatkhongthutien"
+      "source_id": "dieu_213_2024",
+      "target_id": "hanhviphaply_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaodatkhongthutien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_datxaydungcosotontiao"
+      "source_id": "dieu_213_2024",
+      "target_id": "hanhviphaply_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaodatkhongthutien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_trusocotontiao"
+      "source_id": "dieu_213_2024",
+      "target_id": "chuthe_tochuctongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaodatkhongthutien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_trusocotontiaotructhuoc"
+      "source_id": "dieu_213_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_213",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothuedatthutienhangnam"
+      "source_id": "dieu_213_2024",
+      "target_id": "hanhviphaply_quydinhhanmuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothuedatthutienhangnam"
+      "source_id": "dieu_213_2024",
+      "target_id": "hanhviphaply_quyetdinhdientichdatgiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chothuedatthutienhangnam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuctongiao"
+      "source_id": "dieu_213_2024",
+      "target_id": "hanhviphaply_thuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chothuedatthutienhangnam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuctongiaotructhuoc"
-    },
-    {
-      "source_id": "hanhviphaply_chothuedatthutienhangnam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongthuoctruonghopkhoan2dieu213"
-    },
-    {
-      "source_id": "dieu_213",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quydinhanmuccodien"
-    },
-    {
-      "source_id": "chuthe_ubndcaptinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quydinhanmuccodien"
-    },
-    {
-      "source_id": "hanhviphaply_quydinhanmuccodien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_canhucauhoatdongtongiao"
-    },
-    {
-      "source_id": "hanhviphaply_quydinhanmuccodien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khanangquydatdialuong"
-    },
-    {
-      "source_id": "hanhviphaply_quydinhanmuccodien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuctongiao"
-    },
-    {
-      "source_id": "hanhviphaply_quydinhanmuccodien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuctongiaotructhuoc"
-    },
-    {
-      "source_id": "dieu_213",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_sudungdattongiaokethoptmdv"
-    },
-    {
-      "source_id": "hanhviphaply_sudungdattongiaokethoptmdv",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_baodamyeucaukhoan2dieu218"
-    },
-    {
-      "source_id": "dieu_213",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuhoiddattongiao"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuhoiddattongiao"
-    },
-    {
-      "source_id": "hanhviphaply_thuhoiddattongiao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quydinhtaikhoan2dieu213"
-    },
-    {
-      "source_id": "hanhviphaply_thuhoiddattongiao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_bostidiemmoiphuphop"
-    },
-    {
-      "source_id": "chetai_bostidiemmoiphuphop",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopquydatdialuong"
-    },
-    {
-      "source_id": "chetai_bostidiemmoiphuphop",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_sinhoattongiaotindo"
+      "source_id": "dieu_213_2024",
+      "target_id": "hanhviphaply_botridiadiemmoi",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

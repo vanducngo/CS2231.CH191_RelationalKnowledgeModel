@@ -1,161 +1,124 @@
 {
   "entities": [
     {
-      "id": "dieu_144",
-      "label": "ĐiềuLuật",
-      "name": "Điều 144"
+      "id": "dieu_144_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 144. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh",
+        "ma_dieu": "144",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 144.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh\nViệc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh đã được xếp hạng hoặc được Ủy ban nhân dân cấp tỉnh đưa vào danh mục kiểm kê di tích theo quy định của pháp luật về di sản văn hóa được thực hiện như sau:\n1. Trường hợp đất chỉ do một cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình, cá nhân đang sử dụng thì Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp cho cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình, cá nhân đó;\n2. Trường hợp có nhiều người sử dụng đất, có nhiều loại đất khác nhau thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng người sử dụng đất. Người sử dụng đất phải tuân thủ các quy định của pháp luật về bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh."
+      }
     },
     {
-      "id": "khauniem_giaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      "id": "hanhviphaply_capgiaychungnhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "khauniem_datcoditichlichsuvanhoadanhlamsacanh",
-      "label": "KháiNiệm",
-      "name": "Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      "id": "khainiem_datcoditichlichsuvanhoa",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đất có di tích lịch sử - văn hóa, danh lam thắng cảnh"
+      }
     },
     {
       "id": "chuthe_coquan",
-      "label": "ChủThể",
-      "name": "cơ quan"
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan"
+      }
     },
     {
       "id": "chuthe_tochuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
     },
     {
       "id": "chuthe_congdongdancu",
-      "label": "ChủThể",
-      "name": "cộng đồng dân cư"
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
     },
     {
       "id": "chuthe_hogiadinh",
-      "label": "ChủThể",
-      "name": "hộ gia đình"
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ gia đình"
+      }
     },
     {
       "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
     },
     {
-      "id": "chuthe_uybannhandancaptinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "id": "dieukien_datduocxephang",
+      "label": "DieuKien",
+      "properties": {
+        "name": "đã được xếp hạng hoặc được Ủy ban nhân dân cấp tỉnh đưa vào danh mục kiểm kê di tích theo quy định của pháp luật về di sản văn hóa"
+      }
     },
     {
-      "id": "chuthe_ngoisudungdat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "label": "HànhViPhápLý",
-      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_duavaodanhmuckiemkedich",
-      "label": "HànhViPhápLý",
-      "name": "đưa vào danh mục kiểm kê di tích"
-    },
-    {
-      "id": "hanhviphaply_baoveditichlichsuvanhoadanhlamsacanh",
-      "label": "HànhViPhápLý",
-      "name": "bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh"
-    },
-    {
-      "id": "dieukien_dadocxephang",
-      "label": "ĐiềuKiện",
-      "name": "đã được xếp hạng"
-    },
-    {
-      "id": "dieukien_docuybannhandancaptinhduavaodanhmuckiemkedich",
-      "label": "ĐiềuKiện",
-      "name": "được Ủy ban nhân dân cấp tỉnh đưa vào danh mục kiểm kê di tích"
-    },
-    {
-      "id": "dieukien_chidoamotcoquantochuccongdongdancuhogiadinhcanhandangsudung",
-      "label": "ĐiềuKiện",
-      "name": "đất chỉ do một cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình, cá nhân đang sử dụng"
-    },
-    {
-      "id": "dieukien_conominhungoisudungdatcominhuloaidatkhacnhau",
-      "label": "ĐiềuKiện",
-      "name": "có nhiều người sử dụng đất, có nhiều loại đất khác nhau"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_144",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat"
+      "source_id": "dieu_144_2024",
+      "target_id": "hanhviphaply_capgiaychungnhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_datcoditichlichsuvanhoadanhlamsacanh"
+      "source_id": "dieu_144_2024",
+      "target_id": "khainiem_datcoditichlichsuvanhoa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dadocxephang"
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_coquan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_docuybannhandancaptinhduavaodanhmuckiemkedich"
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_duavaodanhmuckiemkedich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uybannhandancaptinh"
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chidoamotcoquantochuccongdongdancuhogiadinhcanhandangsudung"
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_coquan"
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc"
+      "source_id": "dieu_144_2024",
+      "target_id": "dieukien_datduocxephang",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_congdongdancu"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinh"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_conominhungoisudungdatcominhuloaidatkhacnhau"
-    },
-    {
-      "source_id": "hanhviphaply_capgiaychungnhanquyensudungdatquyensohuutaiganlienvoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ngoisudungdat"
-    },
-    {
-      "source_id": "chuthe_ngoisudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_baoveditichlichsuvanhoadanhlamsacanh"
+      "source_id": "dieu_144_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

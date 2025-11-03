@@ -1,466 +1,136 @@
 {
   "entities": [
     {
-      "id": "dieu_32",
-      "label": "ĐiềuLuật",
-      "name": "Điều 32"
+      "id": "dieu_32_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 32. Hoạt động điều tra, đánh giá đất đai",
+        "ma_dieu": "32",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 32.\n\nHoạt động điều tra, đánh giá đất đai\n1. Điều tra, đánh giá đất đai bao gồm các hoạt động sau đây:\na) Điều tra, đánh giá về chất lượng đất, tiềm năng đất đai;\nb) Điều tra, đánh giá thoái hóa đất, ô nhiễm đất;\nc) Điều tra, phân hạng đất nông nghiệp;\nd) Thống kê, kiểm kê đất đai;\nđ) Điều tra, thống kê giá đất; theo dõi biến động giá đất;\ne) Xây dựng và duy trì hệ thống quan trắc giám sát tài nguyên đất.\n2. Điều tra, đánh giá đất đai bao gồm các nội dung sau đây:\na) Lấy mẫu, phân tích, thống kê số liệu quan trắc đất đai;\nb) Xây dựng bản đồ về chất lượng đất, tiềm năng đất đai, thoái hóa đất, ô nhiễm đất, phân hạng đất\nnông nghiệp, giá đất;\nc) Xây dựng báo cáo đánh giá về chất lượng đất, tiềm năng đất đai, thoái hóa đất, ô nhiễm đất, phân\nhạng đất nông nghiệp, giá đất;\nd) Xây dựng báo cáo thống kê, kiểm kê đất đai, lập bản đồ hiện trạng sử dụng đất, báo cáo về giá đất\nvà biến động giá đất."
+      }
     },
     {
-      "id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Hoạt động điều tra, đánh giá đất đai"
+      "id": "hanhviphaply_dieutradanhgiadatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá đất đai"
+      }
     },
     {
-      "id": "khainiem_chat_luong_dat",
-      "label": "KháiNiệm",
-      "name": "chất lượng đất"
+      "id": "hanhviphaply_dieutravechatluongdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá về chất lượng đất"
+      }
     },
     {
-      "id": "khainiem_tiem_nang_dat_dai",
-      "label": "KháiNiệm",
-      "name": "tiềm năng đất đai"
+      "id": "hanhviphaply_dieutravetiemnangdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá về tiềm năng đất đai"
+      }
     },
     {
-      "id": "khainiem_thoai_hoa_dat",
-      "label": "KháiNiệm",
-      "name": "thoái hóa đất"
+      "id": "hanhviphaply_dieutrathoaihoadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá thoái hóa đất"
+      }
     },
     {
-      "id": "khainiem_o_nhiem_dat",
-      "label": "KháiNiệm",
-      "name": "ô nhiễm đất"
+      "id": "hanhviphaply_dieuotnhiemdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, đánh giá ô nhiễm đất"
+      }
     },
     {
-      "id": "khainiem_dat_nong_nghiep",
-      "label": "KháiNiệm",
-      "name": "đất nông nghiệp"
+      "id": "hanhviphaply_dieutraphanhangdatnongnghiep",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, phân hạng đất nông nghiệp"
+      }
     },
     {
-      "id": "khainiem_gia_dat",
-      "label": "KháiNiệm",
-      "name": "giá đất"
+      "id": "hanhviphaply_thongkekiemkedatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thống kê, kiểm kê đất đai"
+      }
     },
     {
-      "id": "khainiem_bien_dong_gia_dat",
-      "label": "KháiNiệm",
-      "name": "biến động giá đất"
+      "id": "hanhviphaply_dieutrathongkegiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tra, thống kê giá đất"
+      }
     },
     {
-      "id": "khainiem_he_thong_quan_trac_giam_sat_tai_nguyen_dat",
-      "label": "KháiNiệm",
-      "name": "hệ thống quan trắc giám sát tài nguyên đất"
+      "id": "hanhviphaply_theodoibiendonggiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Theo dõi biến động giá đất"
+      }
     },
     {
-      "id": "khainiem_so_lieu_quan_trac_dat_dai",
-      "label": "KháiNiệm",
-      "name": "số liệu quan trắc đất đai"
-    },
-    {
-      "id": "khainiem_dat_dai",
-      "label": "KháiNiệm",
-      "name": "đất đai"
-    },
-    {
-      "id": "khainiem_ban_do_hien_trang_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "bản đồ hiện trạng sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_dieu_tra_danh_gia_chat_luong_dat",
-      "label": "HànhViPhápLý",
-      "name": "Điều tra, đánh giá về chất lượng đất"
-    },
-    {
-      "id": "hanhviphaply_dieu_tra_danh_gia_tiem_nang_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Điều tra, đánh giá về tiềm năng đất đai"
-    },
-    {
-      "id": "hanhviphaply_dieu_tra_danh_gia_thoai_hoa_dat",
-      "label": "HànhViPhápLý",
-      "name": "Điều tra, đánh giá thoái hóa đất"
-    },
-    {
-      "id": "hanhviphaply_dieu_tra_danh_gia_o_nhiem_dat",
-      "label": "HànhViPhápLý",
-      "name": "Điều tra, đánh giá ô nhiễm đất"
-    },
-    {
-      "id": "hanhviphaply_dieu_tra_phan_hang_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Điều tra, phân hạng đất nông nghiệp"
-    },
-    {
-      "id": "hanhviphaply_thong_ke_kiem_ke_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Thống kê, kiểm kê đất đai"
-    },
-    {
-      "id": "hanhviphaply_dieu_tra_thong_ke_gia_dat",
-      "label": "HànhViPhápLý",
-      "name": "Điều tra, thống kê giá đất"
-    },
-    {
-      "id": "hanhviphaply_theo_doi_bien_dong_gia_dat",
-      "label": "HànhViPhápLý",
-      "name": "theo dõi biến động giá đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_duy_tri_he_thong_quan_trac_giam_sat_tai_nguyen_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng và duy trì hệ thống quan trắc giám sát tài nguyên đất"
-    },
-    {
-      "id": "hanhviphaply_lay_mau_phan_tich_thong_ke_so_lieu_quan_trac_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Lấy mẫu, phân tích, thống kê số liệu quan trắc đất đai"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_ban_do_ve_chat_luong_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng bản đồ về chất lượng đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_ban_do_ve_tiem_nang_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng bản đồ về tiềm năng đất đai"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_ban_do_ve_thoai_hoa_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng bản đồ về thoái hóa đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_ban_do_ve_o_nhiem_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng bản đồ về ô nhiễm đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_ban_do_ve_phan_hang_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng bản đồ về phân hạng đất nông nghiệp"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_ban_do_ve_gia_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng bản đồ về giá đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_chat_luong_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng báo cáo đánh giá về chất lượng đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_tiem_nang_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng báo cáo đánh giá về tiềm năng đất đai"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_thoai_hoa_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng báo cáo đánh giá về thoái hóa đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_o_nhiem_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng báo cáo đánh giá về ô nhiễm đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_phan_hang_dat_nong_nghiep",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng báo cáo đánh giá về phân hạng đất nông nghiệp"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_gia_dat",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng báo cáo đánh giá về giá đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_bao_cao_thong_ke_kiem_ke_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Xây dựng báo cáo thống kê, kiểm kê đất đai"
-    },
-    {
-      "id": "hanhviphaply_lap_ban_do_hien_trang_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "lập bản đồ hiện trạng sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_bao_cao_ve_gia_dat",
-      "label": "HànhViPhápLý",
-      "name": "xây dựng báo cáo về giá đất"
-    },
-    {
-      "id": "hanhviphaply_xay_dung_bao_cao_ve_bien_dong_gia_dat",
-      "label": "HànhViPhápLý",
-      "name": "xây dựng báo cáo về biến động giá đất"
+      "id": "hanhviphaply_xaydungvaduytrihethongquantrac",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng và duy trì hệ thống quan trắc giám sát tài nguyên đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_32",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutradanhgiadatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dieu_tra_danh_gia_chat_luong_dat"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutravechatluongdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dieu_tra_danh_gia_chat_luong_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chat_luong_dat"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutravetiemnangdatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dieu_tra_danh_gia_tiem_nang_dat_dai"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutrathoaihoadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dieu_tra_danh_gia_tiem_nang_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_tiem_nang_dat_dai"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieuotnhiemdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dieu_tra_danh_gia_thoai_hoa_dat"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutraphanhangdatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dieu_tra_danh_gia_thoai_hoa_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoai_hoa_dat"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_thongkekiemkedatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dieu_tra_danh_gia_o_nhiem_dat"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_dieutrathongkegiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dieu_tra_danh_gia_o_nhiem_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_o_nhiem_dat"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_theodoibiendonggiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dieu_tra_phan_hang_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_dieu_tra_phan_hang_dat_nong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_nong_nghiep"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thong_ke_kiem_ke_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_thong_ke_kiem_ke_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_dai"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dieu_tra_thong_ke_gia_dat"
-    },
-    {
-      "source_id": "hanhviphaply_dieu_tra_thong_ke_gia_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_gia_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_theo_doi_bien_dong_gia_dat"
-    },
-    {
-      "source_id": "hanhviphaply_theo_doi_bien_dong_gia_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_bien_dong_gia_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_duy_tri_he_thong_quan_trac_giam_sat_tai_nguyen_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_duy_tri_he_thong_quan_trac_giam_sat_tai_nguyen_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_he_thong_quan_trac_giam_sat_tai_nguyen_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_lay_mau_phan_tich_thong_ke_so_lieu_quan_trac_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_lay_mau_phan_tich_thong_ke_so_lieu_quan_trac_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_so_lieu_quan_trac_dat_dai"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_ban_do_ve_chat_luong_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_ban_do_ve_chat_luong_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chat_luong_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_ban_do_ve_tiem_nang_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_ban_do_ve_tiem_nang_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_tiem_nang_dat_dai"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_ban_do_ve_thoai_hoa_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_ban_do_ve_thoai_hoa_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoai_hoa_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_ban_do_ve_o_nhiem_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_ban_do_ve_o_nhiem_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_o_nhiem_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_ban_do_ve_phan_hang_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_ban_do_ve_phan_hang_dat_nong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_nong_nghiep"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_ban_do_ve_gia_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_ban_do_ve_gia_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_gia_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_chat_luong_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_chat_luong_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chat_luong_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_tiem_nang_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_tiem_nang_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_tiem_nang_dat_dai"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_thoai_hoa_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_thoai_hoa_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thoai_hoa_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_o_nhiem_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_o_nhiem_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_o_nhiem_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_phan_hang_dat_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_phan_hang_dat_nong_nghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_nong_nghiep"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_gia_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_bao_cao_danh_gia_ve_gia_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_gia_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_bao_cao_thong_ke_kiem_ke_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_bao_cao_thong_ke_kiem_ke_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_dai"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_lap_ban_do_hien_trang_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_lap_ban_do_hien_trang_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_ban_do_hien_trang_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_bao_cao_ve_gia_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_bao_cao_ve_gia_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_gia_dat"
-    },
-    {
-      "source_id": "khainiem_hoat_dong_dieu_tra_danh_gia_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xay_dung_bao_cao_ve_bien_dong_gia_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung_bao_cao_ve_bien_dong_gia_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_bien_dong_gia_dat"
+      "source_id": "dieu_32_2013",
+      "target_id": "hanhviphaply_xaydungvaduytrihethongquantrac",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

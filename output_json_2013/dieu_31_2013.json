@@ -1,170 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_31",
-      "name": "Điều 31",
-      "labels": [
-        "ĐiềuLuật"
-      ]
+      "id": "dieu_31_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 31. Lập, chỉnh lý bản đồ địa chính",
+        "ma_dieu": "31",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 31.\n\nLập, chỉnh lý bản đồ địa chính\n1. Việc đo đạc, lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính\nxã, phường, thị trấn.\n2. Việc chỉnh lý bản đồ địa chính được thực hiện khi có sự thay đổi về hình dạng kích thước diện tích\nthửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định việc lập, chỉnh lý và quản lý bản đồ địa chính\ntrong phạm vi cả nước; điều kiện hành nghề đo đạc địa chính.\n4. Ủy ban nhân dân cấp tỉnh tổ chức thực hiện việc lập, chỉnh lý và quản lý bản đồ địa chính ở địa\nphương."
+      }
     },
     {
-      "id": "hanhviphaply_lap_bando_dia_chinh",
-      "name": "lập bản đồ địa chính",
-      "labels": [
-        "HànhViPhápLý"
-      ]
+      "id": "hanhviphaply_dodaclapbando",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đo đạc, lập bản đồ địa chính"
+      }
     },
     {
-      "id": "hanhviphaply_chinh_ly_bando_dia_chinh",
-      "name": "chỉnh lý bản đồ địa chính",
-      "labels": [
-        "HànhViPhápLý"
-      ]
+      "id": "khainiem_thuadat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thửa đất"
+      }
     },
     {
-      "id": "hanhviphaply_do_dac_dia_chinh",
-      "name": "đo đạc địa chính",
-      "labels": [
-        "HànhViPhápLý"
-      ]
+      "id": "khainiem_donvihanhchinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đơn vị hành chính xã, phường, thị trấn"
+      }
     },
     {
-      "id": "khainiem_thua_dat",
-      "name": "thửa đất",
-      "labels": [
-        "KháiNiệm"
-      ]
+      "id": "hanhviphaply_chinhlybando",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chỉnh lý bản đồ địa chính"
+      }
     },
     {
-      "id": "khainiem_don_vi_hanh_chinh_xa_phuong_thi_tran",
-      "name": "đơn vị hành chính xã, phường, thị trấn",
-      "labels": [
-        "KháiNiệm"
-      ]
+      "id": "chuthe_botruongbotainuyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
     },
     {
-      "id": "khainiem_hinh_dang_kich_thuoc_dien_tich_thua_dat",
-      "name": "hình dạng kích thước diện tích thửa đất",
-      "labels": [
-        "KháiNiệm"
-      ]
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "khainiem_cac_yeu_to_khac_lien_quan_bando_dia_chinh",
-      "name": "các yếu tố khác có liên quan đến nội dung bản đồ địa chính",
-      "labels": [
-        "KháiNiệm"
-      ]
-    },
-    {
-      "id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường",
-      "labels": [
-        "ChủThể"
-      ]
-    },
-    {
-      "id": "hanhviphaply_quan_ly_bando_dia_chinh",
-      "name": "quản lý bản đồ địa chính",
-      "labels": [
-        "HànhViPhápLý"
-      ]
-    },
-    {
-      "id": "dieukien_hanh_nghe_do_dac_dia_chinh",
-      "name": "điều kiện hành nghề đo đạc địa chính",
-      "labels": [
-        "ĐiềuKiện"
-      ]
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "name": "Ủy ban nhân dân cấp tỉnh",
-      "labels": [
-        "ChủThể"
-      ]
+      "id": "dieukien_hanhnghedodac",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện hành nghề đo đạc địa chính"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_31",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_lap_bando_dia_chinh"
+      "source_id": "dieu_31_2013",
+      "target_id": "hanhviphaply_dodaclapbando",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_31",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chinh_ly_bando_dia_chinh"
+      "source_id": "dieu_31_2013",
+      "target_id": "khainiem_thuadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_31",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_do_dac_dia_chinh"
+      "source_id": "dieu_31_2013",
+      "target_id": "khainiem_donvihanhchinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_do_dac_dia_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thua_dat"
+      "source_id": "dieu_31_2013",
+      "target_id": "hanhviphaply_chinhlybando",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_do_dac_dia_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_don_vi_hanh_chinh_xa_phuong_thi_tran"
+      "source_id": "dieu_31_2013",
+      "target_id": "chuthe_botruongbotainuyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_lap_bando_dia_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_thua_dat"
+      "source_id": "dieu_31_2013",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_lap_bando_dia_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_don_vi_hanh_chinh_xa_phuong_thi_tran"
-    },
-    {
-      "source_id": "hanhviphaply_chinh_ly_bando_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_hinh_dang_kich_thuoc_dien_tich_thua_dat"
-    },
-    {
-      "source_id": "hanhviphaply_chinh_ly_bando_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_cac_yeu_to_khac_lien_quan_bando_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_lap_bando_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chinh_ly_bando_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_bando_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_hanh_nghe_do_dac_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_lap_bando_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_chinh_ly_bando_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_quan_ly_bando_dia_chinh"
+      "source_id": "dieu_31_2013",
+      "target_id": "dieukien_hanhnghedodac",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

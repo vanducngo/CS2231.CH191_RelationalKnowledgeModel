@@ -1,566 +1,136 @@
 {
   "entities": [
     {
-      "id": "dieu_150",
-      "label": "ĐiềuLuật",
-      "name": "Điều 150"
+      "id": "dieu_150_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 150. Đất sử dụng cho khu công nghệ cao",
+        "ma_dieu": "150",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 150.\n\nĐất sử dụng cho khu công nghệ cao\n1. Đất sử dụng cho khu công nghệ cao theo quyết định thành lập của Thủ tướng Chính phủ bao gồm các\nloại đất có chế độ sử dụng khác nhau phục vụ sản xuất, kinh doanh sản phẩm công nghệ cao; nghiên\ncứu phát triển và ứng dụng công nghệ cao; đào tạo nhân lực công nghệ cao.\nKhi quy hoạch, thành lập khu công nghệ cao phải đồng thời lập quy hoạch, xây dựng khu nhà ở, công\ntrình công cộng nằm ngoài khu công nghệ cao để phục vụ đời sống chuyên gia, người lao động làm việc\ntrong khu công nghệ cao.\n2. Ban quản lý khu công nghệ cao được Ủy ban nhân dân cấp tỉnh giao đất khu công nghệ cao. Ban\nquản lý khu công nghệ cao được cho thuê đất đối với tổ chức, cá nhân, người Việt Nam định cư ở nước\ngoài; doanh nghiệp có vốn đầu tư nước ngoài sử dụng đất trong khu công nghệ cao theo quy định của\nLuật này .\n3. Ban quản lý khu công nghệ cao lập quy hoạch chi tiết xây dựng của khu công nghệ cao và trình Ủy\nban nhân dân cấp tỉnh nơi có đất phê duyệt.\nỦy ban nhân dân cấp tỉnh giao đất cho Ban quản lý khu công nghệ cao để tổ chức xây dựng, phát triển\nkhu công nghệ cao theo quy hoạch đã được phê duyệt.\n4. Người sử dụng đất được Ban quản lý khu công nghệ cao cho thuê đất trong khu công nghệ cao có\ncác quyền và nghĩa vụ như được Nhà nước cho thuê đất theo quy định của Luật này .\n5. Doanh nghiệp phát triển khu công nghệ cao, doanh nghiệp phát triển hạ tầng được Ban quản lý khu\ncông nghệ cao cho thuê đất; người có nhu cầu sử dụng đất trong khu công nghệ cao được thuê lại đất\ncủa doanh nghiệp phát triển khu công nghệ cao, doanh nghiệp phát triển hạ tầng.\n6. Người sử dụng đất trong khu công nghệ cao phải sử dụng đất đúng mục đích đã được ghi trong hợp\nđồng thuê đất, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn\nliền với đất và có các quyền, nghĩa vụ theo quy định của Luật này .\nTrường hợp chuyển nhượng quyền sử dụng đất trong khu công nghệ cao thì người nhận chuyển\nnhượng phải tiếp tục sử dụng đất đúng mục đích đã được xác định.\n7. Nhà nước khuyến khích tổ chức, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư\nnước ngoài đầu tư xây dựng kinh doanh kết cấu hạ tầng trong khu công nghệ cao và khuyến khích tổ\nchức, cá nhân, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài sử dụng\nđất vào mục đích phát triển khoa học và công nghệ.\n8. Việc xác định giá cho thuê đất và tính thu tiền thuê đất trong khu công nghệ cao thực hiện theo quy\nđịnh của Luật này ."
+      }
     },
     {
-      "id": "khainiem_dat_su_dung_cho_khu_cong_nghe_cao",
-      "label": "KháiNiệm",
-      "name": "Đất sử dụng cho khu công nghệ cao"
+      "id": "khainiem_datsudungchokhucongnghecao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sử dụng cho khu công nghệ cao"
+      }
     },
     {
-      "id": "khainiem_khu_cong_nghe_cao",
-      "label": "KháiNiệm",
-      "name": "khu công nghệ cao"
+      "id": "chuthe_banquanlykhucongnghecao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ban quản lý khu công nghệ cao"
+      }
     },
     {
-      "id": "dieukien_theo_quyet_dinh_thanh_lap_cua_thu_tuong_chinh_phu",
-      "label": "ĐiềuKiện",
-      "name": "theo quyết định thành lập của Thủ tướng Chính phủ"
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "chuthe_thu_tuong_chinh_phu",
-      "label": "ChủThể",
-      "name": "Thủ tướng Chính phủ"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "khainiem_san_xuat_kinh_doanh_san_pham_cong_nghe_cao",
-      "label": "KháiNiệm",
-      "name": "sản xuất, kinh doanh sản phẩm công nghệ cao"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "khainiem_nghien_cuu_phat_trien_va_ung_dung_cong_nghe_cao",
-      "label": "KháiNiệm",
-      "name": "nghiên cứu phát triển và ứng dụng công nghệ cao"
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "khainiem_dao_tao_nhan_luc_cong_nghe_cao",
-      "label": "KháiNiệm",
-      "name": "đào tạo nhân lực công nghệ cao"
+      "id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
     },
     {
-      "id": "hanhviphaply_quy_hoach_khu_cong_nghe_cao",
-      "label": "HànhViPhápLý",
-      "name": "quy hoạch khu công nghệ cao"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "hanhviphaply_thanh_lap_khu_cong_nghe_cao",
-      "label": "HànhViPhápLý",
-      "name": "thành lập khu công nghệ cao"
+      "id": "chuthe_doanhnghiepphattrienkhucongnghecao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp phát triển khu công nghệ cao"
+      }
     },
     {
-      "id": "hanhviphaply_lap_quy_hoach",
-      "label": "HànhViPhápLý",
-      "name": "lập quy hoạch"
-    },
-    {
-      "id": "hanhviphaply_xay_dung",
-      "label": "HànhViPhápLý",
-      "name": "xây dựng"
-    },
-    {
-      "id": "khainiem_khu_nha_o_cong_trinh_cong_cong",
-      "label": "KháiNiệm",
-      "name": "khu nhà ở, công trình công cộng"
-    },
-    {
-      "id": "dieukien_khu_nha_o_cong_trinh_cong_cong_nam_ngoai_khu_cong_nghe_cao",
-      "label": "ĐiềuKiện",
-      "name": "nằm ngoài khu công nghệ cao"
-    },
-    {
-      "id": "khainiem_chuyen_gia",
-      "label": "KháiNiệm",
-      "name": "chuyên gia"
-    },
-    {
-      "id": "khainiem_nguoi_lao_dong",
-      "label": "KháiNiệm",
-      "name": "người lao động"
-    },
-    {
-      "id": "chuthe_ban_quan_ly_khu_cong_nghe_cao",
-      "label": "ChủThể",
-      "name": "Ban quản lý khu công nghệ cao"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "hanhviphaply_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
-    },
-    {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
-    },
-    {
-      "id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "người Việt Nam định cư ở nước ngoài"
-    },
-    {
-      "id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
-    },
-    {
-      "id": "dieukien_theo_quy_dinh_cua_luat_nay",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của Luật này"
-    },
-    {
-      "id": "hanhviphaply_lap_quy_hoach_chi_tiet_xay_dung",
-      "label": "HànhViPhápLý",
-      "name": "lập quy hoạch chi tiết xây dựng"
-    },
-    {
-      "id": "hanhviphaply_trinh_phe_duyet",
-      "label": "HànhViPhápLý",
-      "name": "trình phê duyệt"
-    },
-    {
-      "id": "hanhviphaply_phe_duyet",
-      "label": "HànhViPhápLý",
-      "name": "phê duyệt"
-    },
-    {
-      "id": "hanhviphaply_to_chuc_xay_dung_phat_trien",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức xây dựng, phát triển"
-    },
-    {
-      "id": "dieukien_theo_quy_hoach_da_duoc_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "theo quy hoạch đã được phê duyệt"
-    },
-    {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_doanh_nghiep_phat_trien_khu_cong_nghe_cao",
-      "label": "ChủThể",
-      "name": "Doanh nghiệp phát triển khu công nghệ cao"
-    },
-    {
-      "id": "chuthe_doanh_nghiep_phat_trien_ha_tang",
-      "label": "ChủThể",
-      "name": "doanh nghiệp phát triển hạ tầng"
-    },
-    {
-      "id": "hanhviphaply_thue_lai_dat",
-      "label": "HànhViPhápLý",
-      "name": "thuê lại đất"
-    },
-    {
-      "id": "chuthe_nguoi_co_nhu_cau_su_dung_dat",
-      "label": "ChủThể",
-      "name": "người có nhu cầu sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất"
-    },
-    {
-      "id": "dieukien_su_dung_dat_dung_muc_dich_ghi_trong_hop_dong_thue_dat",
-      "label": "ĐiềuKiện",
-      "name": "sử dụng đất đúng mục đích đã được ghi trong hợp đồng thuê đất"
-    },
-    {
-      "id": "hanhviphaply_cap_giay_chung_nhan",
-      "label": "HànhViPhápLý",
-      "name": "cấp Giấy chứng nhận"
-    },
-    {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
-    },
-    {
-      "id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "chuyển nhượng quyền sử dụng đất"
-    },
-    {
-      "id": "dieukien_nguoi_nhan_chuyen_nhuong_tiep_tuc_su_dung_dat_dung_muc_dich",
-      "label": "ĐiềuKiện",
-      "name": "người nhận chuyển nhượng phải tiếp tục sử dụng đất đúng mục đích đã được xác định"
-    },
-    {
-      "id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang",
-      "label": "HànhViPhápLý",
-      "name": "đầu tư xây dựng kinh doanh kết cấu hạ tầng"
-    },
-    {
-      "id": "khainiem_ket_cau_ha_tang",
-      "label": "KháiNiệm",
-      "name": "kết cấu hạ tầng"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat_vao_muc_dich_phat_trien_khoa_hoc_va_cong_nghe",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất vào mục đích phát triển khoa học và công nghệ"
-    },
-    {
-      "id": "hanhviphaply_xac_dinh_gia_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "xác định giá cho thuê đất"
-    },
-    {
-      "id": "khainiem_gia_cho_thue_dat",
-      "label": "KháiNiệm",
-      "name": "giá cho thuê đất"
-    },
-    {
-      "id": "hanhviphaply_tinh_thu_tien_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "tính thu tiền thuê đất"
-    },
-    {
-      "id": "khainiem_tien_thue_dat",
-      "label": "KháiNiệm",
-      "name": "tiền thuê đất"
+      "id": "chuthe_doanhnghiepphattrienhatang",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp phát triển hạ tầng"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_150",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_su_dung_cho_khu_cong_nghe_cao"
+      "source_id": "dieu_150_2013",
+      "target_id": "khainiem_datsudungchokhucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_su_dung_cho_khu_cong_nghe_cao",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_cong_nghe_cao"
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_banquanlykhucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_khu_cong_nghe_cao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quyet_dinh_thanh_lap_cua_thu_tuong_chinh_phu"
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_theo_quyet_dinh_thanh_lap_cua_thu_tuong_chinh_phu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_thu_tuong_chinh_phu"
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_su_dung_cho_khu_cong_nghe_cao",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_san_xuat_kinh_doanh_san_pham_cong_nghe_cao"
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_su_dung_cho_khu_cong_nghe_cao",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nghien_cuu_phat_trien_va_ung_dung_cong_nghe_cao"
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_su_dung_cho_khu_cong_nghe_cao",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dao_tao_nhan_luc_cong_nghe_cao"
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quy_hoach_khu_cong_nghe_cao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_lap_quy_hoach"
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thanh_lap_khu_cong_nghe_cao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_lap_quy_hoach"
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_doanhnghiepphattrienkhucongnghecao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_lap_quy_hoach",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_nha_o_cong_trinh_cong_cong"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_xay_dung"
-    },
-    {
-      "source_id": "hanhviphaply_xay_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_nha_o_cong_trinh_cong_cong"
-    },
-    {
-      "source_id": "khainiem_khu_nha_o_cong_trinh_cong_cong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khu_nha_o_cong_trinh_cong_cong_nam_ngoai_khu_cong_nghe_cao"
-    },
-    {
-      "source_id": "khainiem_khu_nha_o_cong_trinh_cong_cong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chuyen_gia"
-    },
-    {
-      "source_id": "khainiem_khu_nha_o_cong_trinh_cong_cong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_nguoi_lao_dong"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_giao_dat"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_khu_cong_nghe_cao"
-    },
-    {
-      "source_id": "chuthe_ban_quan_ly_khu_cong_nghe_cao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_cua_luat_nay"
-    },
-    {
-      "source_id": "chuthe_ban_quan_ly_khu_cong_nghe_cao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_lap_quy_hoach_chi_tiet_xay_dung"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_chi_tiet_xay_dung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_trinh_phe_duyet"
-    },
-    {
-      "source_id": "hanhviphaply_trinh_phe_duyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_giao_dat"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ban_quan_ly_khu_cong_nghe_cao"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_to_chuc_xay_dung_phat_trien"
-    },
-    {
-      "source_id": "hanhviphaply_to_chuc_xay_dung_phat_trien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_hoach_da_duoc_phe_duyet"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_cua_luat_nay"
-    },
-    {
-      "source_id": "chuthe_ban_quan_ly_khu_cong_nghe_cao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_phat_trien_khu_cong_nghe_cao"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_phat_trien_ha_tang"
-    },
-    {
-      "source_id": "chuthe_doanh_nghiep_phat_trien_khu_cong_nghe_cao",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_thue_lai_dat"
-    },
-    {
-      "source_id": "chuthe_doanh_nghiep_phat_trien_ha_tang",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_thue_lai_dat"
-    },
-    {
-      "source_id": "hanhviphaply_thue_lai_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_co_nhu_cau_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_su_dung_dat_dung_muc_dich_ghi_trong_hop_dong_thue_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_khac_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_cua_luat_nay"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_khu_cong_nghe_cao"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_nhuong_quyen_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nguoi_nhan_chuyen_nhuong_tiep_tuc_su_dung_dat_dung_muc_dich"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_ket_cau_ha_tang"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu_xay_dung_kinh_doanh_ket_cau_ha_tang",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_su_dung_dat_vao_muc_dich_phat_trien_khoa_hoc_va_cong_nghe"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_vao_muc_dich_phat_trien_khoa_hoc_va_cong_nghe",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_vao_muc_dich_phat_trien_khoa_hoc_va_cong_nghe",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_vao_muc_dich_phat_trien_khoa_hoc_va_cong_nghe",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_vao_muc_dich_phat_trien_khoa_hoc_va_cong_nghe",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "dieu_150",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xac_dinh_gia_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xac_dinh_gia_cho_thue_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_gia_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xac_dinh_gia_cho_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_cua_luat_nay"
-    },
-    {
-      "source_id": "dieu_150",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_tinh_thu_tien_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_tinh_thu_tien_thue_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_tien_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_tinh_thu_tien_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_cua_luat_nay"
+      "source_id": "dieu_150_2013",
+      "target_id": "chuthe_doanhnghiepphattrienhatang",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

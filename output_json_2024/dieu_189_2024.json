@@ -1,486 +1,88 @@
 {
   "entities": [
     {
-      "id": "dieu_189",
-      "label": "ĐiềuLuật",
-      "name": "Điều 189"
+      "id": "dieu_189_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 189. Đất có mặt nước ven biển",
+        "ma_dieu": "189",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 189.\n\nĐất có mặt nước ven biển\n1. Đất có mặt nước ven biển được Nhà nước giao đất, cho thuê đất đối với tổ chức kinh tế, cá nhân,\nngười gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài để sử dụng vào\ncác mục đích theo quy định của Luật này .\n2. Việc sử dụng đất có mặt nước ven biển theo quy định sau đây: about:blank\na) Phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt;\nb) Bảo vệ đất, làm tăng sự bồi tụ đất ven biển;\nc) Bảo vệ hệ sinh thái, môi trường và cảnh quan;\nd) Không cản trở việc bảo vệ an ninh quốc gia và giao thông trên biển;\nđ) Bảo vệ chất lượng nước khu vực ven biển; không gây nhiễm mặn các tầng chứa nước dưới đất.\n3. Việc giao đất, cho thuê đất có mặt nước ven biển vào các mục đích nông nghiệp, phi nông nghiệp mà\nkhông phải hoạt động lấn biển phải tuân thủ chế độ sử dụng các loại đất theo quy định của Luật này ,\nquy định của Luật Biển Việt Nam , Luật Tài nguyên, môi trường biển và hải đảo  và luật khác có liên\nquan."
+      }
     },
     {
       "id": "khainiem_datcomatnuocvenbien",
-      "label": "KháiNiệm",
-      "name": "Đất có mặt nước ven biển"
-    },
-    {
-      "id": "khainiem_quyhoachkehoachsudungdat",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khainiem_hesinhthaimoitruongvacanhquan",
-      "label": "KháiNiệm",
-      "name": "hệ sinh thái, môi trường và cảnh quan"
-    },
-    {
-      "id": "khainiem_anninhquocgia",
-      "label": "KháiNiệm",
-      "name": "an ninh quốc gia"
-    },
-    {
-      "id": "khainiem_giaothongtrenbien",
-      "label": "KháiNiệm",
-      "name": "giao thông trên biển"
-    },
-    {
-      "id": "khainiem_chatluongnuockhuvucvenbien",
-      "label": "KháiNiệm",
-      "name": "chất lượng nước khu vực ven biển"
-    },
-    {
-      "id": "khainiem_tangchuanuocduoidat",
-      "label": "KháiNiệm",
-      "name": "tầng chứa nước dưới đất"
-    },
-    {
-      "id": "khainiem_hoatdonglanbien",
-      "label": "KháiNiệm",
-      "name": "hoạt động lấn biển"
-    },
-    {
-      "id": "khainiem_mucdicnongnghiep",
-      "label": "KháiNiệm",
-      "name": "mục đích nông nghiệp"
-    },
-    {
-      "id": "khainiem_mucdicphinongnghiep",
-      "label": "KháiNiệm",
-      "name": "mục đích phi nông nghiệp"
-    },
-    {
-      "id": "khainiem_chedosudungcacloaidat",
-      "label": "KháiNiệm",
-      "name": "chế độ sử dụng các loại đất"
-    },
-    {
-      "id": "khainiem_luatdatdai2024",
-      "label": "KháiNiệm",
-      "name": "Luật Đất đai 2024"
-    },
-    {
-      "id": "khainiem_luatbienvietnam",
-      "label": "KháiNiệm",
-      "name": "Luật Biển Việt Nam"
-    },
-    {
-      "id": "khainiem_luattainguyenmoitruongbienvaiadao",
-      "label": "KháiNiệm",
-      "name": "Luật Tài nguyên, môi trường biển và hải đảo"
-    },
-    {
-      "id": "khainiem_luatkhaccolienquan",
-      "label": "KháiNiệm",
-      "name": "luật khác có liên quan"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có mặt nước ven biển"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "chuthe_tochuckinhte",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế"
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế"
+      }
     },
     {
       "id": "chuthe_canhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
     },
     {
       "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
-      "label": "ChủThể",
-      "name": "người gốc Việt Nam định cư ở nước ngoài"
+      "label": "ChuThe",
+      "properties": {
+        "name": "người gốc Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "chuthe_tochuckinhtecovondautunuocngoai",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế có vốn đầu tư nước ngoài"
-    },
-    {
-      "id": "chuthe_coquancothamquyen",
-      "label": "ChủThể",
-      "name": "cơ quan có thẩm quyền"
-    },
-    {
-      "id": "hanhvi_giaodat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
-    },
-    {
-      "id": "hanhvi_chothuedat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "hanhvi_sudungdat",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất"
-    },
-    {
-      "id": "hanhvi_pheduyet",
-      "label": "HànhViPhápLý",
-      "name": "phê duyệt"
-    },
-    {
-      "id": "hanhvi_baovedat",
-      "label": "HànhViPhápLý",
-      "name": "Bảo vệ đất"
-    },
-    {
-      "id": "hanhvi_lamtangboitutdatvenbien",
-      "label": "HànhViPhápLý",
-      "name": "làm tăng sự bồi tụ đất ven biển"
-    },
-    {
-      "id": "hanhvi_baovehesinhthaimoitruongvacanhquan",
-      "label": "HànhViPhápLý",
-      "name": "Bảo vệ hệ sinh thái, môi trường và cảnh quan"
-    },
-    {
-      "id": "hanhvi_cancrobaoveanninhquocgia",
-      "label": "HànhViPhápLý",
-      "name": "cản trở việc bảo vệ an ninh quốc gia"
-    },
-    {
-      "id": "hanhvi_cantrogiaothongtrenbien",
-      "label": "HànhViPhápLý",
-      "name": "cản trở giao thông trên biển"
-    },
-    {
-      "id": "hanhvi_baovechatluongnuockhuvucvenbien",
-      "label": "HànhViPhápLý",
-      "name": "Bảo vệ chất lượng nước khu vực ven biển"
-    },
-    {
-      "id": "hanhvi_gaynhiemmantangchuanuocduoidat",
-      "label": "HànhViPhápLý",
-      "name": "gây nhiễm mặn các tầng chứa nước dưới đất"
-    },
-    {
-      "id": "hanhvi_tuanthu",
-      "label": "HànhViPhápLý",
-      "name": "tuân thủ"
-    },
-    {
-      "id": "dieukien_mucdictheoquydinhluat",
-      "label": "ĐiềuKiện",
-      "name": "mục đích theo quy định của Luật này"
-    },
-    {
-      "id": "dieukien_phuhopquyhoachkehoachsudungdat",
-      "label": "ĐiềuKiện",
-      "name": "Phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "dieukien_baovedatlamtangboitut",
-      "label": "ĐiềuKiện",
-      "name": "Bảo vệ đất, làm tăng sự bồi tụ đất ven biển"
-    },
-    {
-      "id": "dieukien_baovehesinhthaimoitruongvacanhquan",
-      "label": "ĐiềuKiện",
-      "name": "Bảo vệ hệ sinh thái, môi trường và cảnh quan"
-    },
-    {
-      "id": "dieukien_khongcantroanninhgiaothongbien",
-      "label": "ĐiềuKiện",
-      "name": "Không cản trở việc bảo vệ an ninh quốc gia và giao thông trên biển"
-    },
-    {
-      "id": "dieukien_baovechatluongnuockhonggaynhiemman",
-      "label": "ĐiềuKiện",
-      "name": "Bảo vệ chất lượng nước khu vực ven biển; không gây nhiễm mặn các tầng chứa nước dưới đất"
-    },
-    {
-      "id": "dieukien_khongphaihoatdonglanbien",
-      "label": "ĐiềuKiện",
-      "name": "mà không phải hoạt động lấn biển"
-    },
-    {
-      "id": "dieukien_tuanthuchedosudungdat",
-      "label": "ĐiềuKiện",
-      "name": "tuân thủ chế độ sử dụng các loại đất theo quy định của Luật này, Luật Biển Việt Nam, Luật Tài nguyên, môi trường biển và hải đảo và luật khác có liên quan"
+      "id": "chuthe_tochuc_kinhte_covondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_189",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_datcomatnuocvenbien"
+      "source_id": "dieu_189_2024",
+      "target_id": "khainiem_datcomatnuocvenbien",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_189",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giaodat"
+      "source_id": "dieu_189_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_189",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_chothuedat"
+      "source_id": "dieu_189_2024",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_189",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdat"
+      "source_id": "dieu_189_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giaodat"
+      "source_id": "dieu_189_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_chothuedat"
-    },
-    {
-      "source_id": "hanhvi_giaodat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_datcomatnuocvenbien"
-    },
-    {
-      "source_id": "hanhvi_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_datcomatnuocvenbien"
-    },
-    {
-      "source_id": "hanhvi_giaodat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhte"
-    },
-    {
-      "source_id": "hanhvi_giaodat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "hanhvi_giaodat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai"
-    },
-    {
-      "source_id": "hanhvi_giaodat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhtecovondautunuocngoai"
-    },
-    {
-      "source_id": "hanhvi_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhte"
-    },
-    {
-      "source_id": "hanhvi_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan"
-    },
-    {
-      "source_id": "hanhvi_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai"
-    },
-    {
-      "source_id": "hanhvi_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhtecovondautunuocngoai"
-    },
-    {
-      "source_id": "hanhvi_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_mucdictheoquydinhluat"
-    },
-    {
-      "source_id": "dieukien_mucdictheoquydinhluat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_luatdatdai2024"
-    },
-    {
-      "source_id": "hanhvi_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_datcomatnuocvenbien"
-    },
-    {
-      "source_id": "hanhvi_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhopquyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "dieukien_phuhopquyhoachkehoachsudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "chuthe_coquancothamquyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_pheduyet"
-    },
-    {
-      "source_id": "hanhvi_pheduyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "hanhvi_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_baovedatlamtangboitut"
-    },
-    {
-      "source_id": "dieukien_baovedatlamtangboitut",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_baovedat"
-    },
-    {
-      "source_id": "dieukien_baovedatlamtangboitut",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_lamtangboitutdatvenbien"
-    },
-    {
-      "source_id": "hanhvi_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_baovehesinhthaimoitruongvacanhquan"
-    },
-    {
-      "source_id": "dieukien_baovehesinhthaimoitruongvacanhquan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_baovehesinhthaimoitruongvacanhquan"
-    },
-    {
-      "source_id": "hanhvi_baovehesinhthaimoitruongvacanhquan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_hesinhthaimoitruongvacanhquan"
-    },
-    {
-      "source_id": "hanhvi_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongcantroanninhgiaothongbien"
-    },
-    {
-      "source_id": "dieukien_khongcantroanninhgiaothongbien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cancrobaoveanninhquocgia"
-    },
-    {
-      "source_id": "dieukien_khongcantroanninhgiaothongbien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cantrogiaothongtrenbien"
-    },
-    {
-      "source_id": "hanhvi_cancrobaoveanninhquocgia",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_anninhquocgia"
-    },
-    {
-      "source_id": "hanhvi_cantrogiaothongtrenbien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_giaothongtrenbien"
-    },
-    {
-      "source_id": "hanhvi_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_baovechatluongnuockhonggaynhiemman"
-    },
-    {
-      "source_id": "dieukien_baovechatluongnuockhonggaynhiemman",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_baovechatluongnuockhuvucvenbien"
-    },
-    {
-      "source_id": "dieukien_baovechatluongnuockhonggaynhiemman",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_gaynhiemmantangchuanuocduoidat"
-    },
-    {
-      "source_id": "hanhvi_baovechatluongnuockhuvucvenbien",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chatluongnuockhuvucvenbien"
-    },
-    {
-      "source_id": "hanhvi_gaynhiemmantangchuanuocduoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_tangchuanuocduoidat"
-    },
-    {
-      "source_id": "hanhvi_giaodat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_mucdicnongnghiep"
-    },
-    {
-      "source_id": "hanhvi_giaodat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_mucdicphinongnghiep"
-    },
-    {
-      "source_id": "hanhvi_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_mucdicnongnghiep"
-    },
-    {
-      "source_id": "hanhvi_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_mucdicphinongnghiep"
-    },
-    {
-      "source_id": "hanhvi_giaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongphaihoatdonglanbien"
-    },
-    {
-      "source_id": "hanhvi_chothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongphaihoatdonglanbien"
-    },
-    {
-      "source_id": "dieukien_khongphaihoatdonglanbien",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hoatdonglanbien"
-    },
-    {
-      "source_id": "hanhvi_giaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuanthuchedosudungdat"
-    },
-    {
-      "source_id": "hanhvi_chothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuanthuchedosudungdat"
-    },
-    {
-      "source_id": "dieukien_tuanthuchedosudungdat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chedosudungcacloaidat"
-    },
-    {
-      "source_id": "khainiem_chedosudungcacloaidat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_luatdatdai2024"
-    },
-    {
-      "source_id": "khainiem_chedosudungcacloaidat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_luatbienvietnam"
-    },
-    {
-      "source_id": "khainiem_chedosudungcacloaidat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_luattainguyenmoitruongbienvaiadao"
-    },
-    {
-      "source_id": "khainiem_chedosudungcacloaidat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_luatkhaccolienquan"
-    },
-    {
-      "source_id": "hanhvi_tuanthu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_chedosudungcacloaidat"
+      "source_id": "dieu_189_2024",
+      "target_id": "chuthe_tochuc_kinhte_covondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

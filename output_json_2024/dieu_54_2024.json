@@ -1,181 +1,136 @@
 {
   "entities": [
     {
-      "id": "dieu_54",
-      "name": "Điều 54",
-      "label": "ĐiềuLuật"
+      "id": "dieu_54_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 54. Bảo vệ, cải tạo, phục hồi đất about:blank. Nội dung bảo vệ, cải tạo và phục hồi đất bao gồm:\na) Phân loại các khu vực đất đã được khoanh vùng theo quy định tại điểm c khoản 1, điểm c khoản 2 và\nđiểm c khoản 3 Điều 53 của Luật này ;\nb) Tổng hợp, xác định phạm vi, mức độ cần bảo vệ, cải tạo, phục hồi đất theo từng khu vực đất đã\nđược phân loại tại điểm a khoản này;\nc) Lập kế hoạch và lộ trình thực hiện bảo vệ, cải tạo, phục hồi đất đối với các khu vực đất đã được xác\nđịnh tại điểm b khoản này;\nd) Xác định các biện pháp kỹ thuật, giải pháp kinh tế, xã hội kèm theo các phân tích để lựa chọn phương\nán tối ưu và quyết định phương án thực hiện;\nđ) Lập báo cáo kết quả thực hiện bảo vệ, cải tạo, phục hồi đất;\ne) Giám sát, kiểm soát quá trình xử lý, bảo vệ, cải tạo, phục hồi đất.\n2. Lập bản đồ các khu vực đất đã thực hiện bảo vệ, cải tạo, phục hồi đất; xây dựng và cập nhật dữ liệu\nvề bảo vệ, cải tạo, phục hồi đất vào cơ sở dữ liệu quốc gia về đất đai.\n3. Kiểm soát các khu vực đất bị thoái hóa, ô nhiễm chưa được bảo vệ, cải tạo, phục hồi theo quy định\nkhoản 1 Điều này bao gồm khoanh vùng, cảnh báo, không cho phép hoặc hạn chế hoạt động trên đất\nnhằm giảm thiểu tác động xấu đến đất.",
+        "ma_dieu": "54",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 54.\n\nBảo vệ, cải tạo, phục hồi đất about:blank\n. Nội dung bảo vệ, cải tạo và phục hồi đất bao gồm:\na) Phân loại các khu vực đất đã được khoanh vùng theo quy định tại điểm c khoản 1, điểm c khoản 2 và\nđiểm c khoản 3 Điều 53 của Luật này ;\nb) Tổng hợp, xác định phạm vi, mức độ cần bảo vệ, cải tạo, phục hồi đất theo từng khu vực đất đã\nđược phân loại tại điểm a khoản này;\nc) Lập kế hoạch và lộ trình thực hiện bảo vệ, cải tạo, phục hồi đất đối với các khu vực đất đã được xác\nđịnh tại điểm b khoản này;\nd) Xác định các biện pháp kỹ thuật, giải pháp kinh tế, xã hội kèm theo các phân tích để lựa chọn phương\nán tối ưu và quyết định phương án thực hiện;\nđ) Lập báo cáo kết quả thực hiện bảo vệ, cải tạo, phục hồi đất;\ne) Giám sát, kiểm soát quá trình xử lý, bảo vệ, cải tạo, phục hồi đất.\n2. Lập bản đồ các khu vực đất đã thực hiện bảo vệ, cải tạo, phục hồi đất; xây dựng và cập nhật dữ liệu\nvề bảo vệ, cải tạo, phục hồi đất vào cơ sở dữ liệu quốc gia về đất đai.\n3. Kiểm soát các khu vực đất bị thoái hóa, ô nhiễm chưa được bảo vệ, cải tạo, phục hồi theo quy định\nkhoản 1 Điều này bao gồm khoanh vùng, cảnh báo, không cho phép hoặc hạn chế hoạt động trên đất\nnhằm giảm thiểu tác động xấu đến đất."
+      }
     },
     {
-      "id": "khainiem_baove_caitao_phuchoi_dat",
-      "name": "Bảo vệ, cải tạo, phục hồi đất",
-      "label": "KháiNiệm"
+      "id": "hanhviphaply_baovecaitaophuchoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo vệ, cải tạo, phục hồi đất"
+      }
     },
     {
-      "id": "khainiem_kiemsoat_khuvuc_dat_bi_thoaihoa_onhiem",
-      "name": "Kiểm soát các khu vực đất bị thoái hóa, ô nhiễm chưa được bảo vệ, cải tạo, phục hồi",
-      "label": "KháiNiệm"
+      "id": "hanhviphaply_phanloaikhuvucdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Phân loại các khu vực đất"
+      }
     },
     {
-      "id": "hanhvipaply_phanloai_khuvuc_dat_khoanhvung",
-      "name": "Phân loại các khu vực đất đã được khoanh vùng",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_tonghopxacdinphamvi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tổng hợp, xác định phạm vi, mức độ cần bảo vệ, cải tạo, phục hồi đất"
+      }
     },
     {
-      "id": "hanhvipaply_tonghop_xacdinh_phamvi_mucdo_canbaove",
-      "name": "Tổng hợp, xác định phạm vi, mức độ cần bảo vệ, cải tạo, phục hồi đất",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_lapkehoach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập kế hoạch và lộ trình thực hiện bảo vệ, cải tạo, phục hồi đất"
+      }
     },
     {
-      "id": "hanhvipaply_lapkehoach_lotrinh_thuchien_baove_dat",
-      "name": "Lập kế hoạch và lộ trình thực hiện bảo vệ, cải tạo, phục hồi đất",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_xacdinhbienphapkythuat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xác định các biện pháp kỹ thuật, giải pháp kinh tế, xã hội"
+      }
     },
     {
-      "id": "hanhvipaply_xacdinh_luachon_phuongan",
-      "name": "Xác định các biện pháp kỹ thuật, giải pháp kinh tế, xã hội kèm theo các phân tích để lựa chọn phương án tối ưu và quyết định phương án thực hiện",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_lapbaocaoketqua",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập báo cáo kết quả thực hiện bảo vệ, cải tạo, phục hồi đất"
+      }
     },
     {
-      "id": "hanhvipaply_lapbaocao_ketqua_thuchien_baove_dat",
-      "name": "Lập báo cáo kết quả thực hiện bảo vệ, cải tạo, phục hồi đất",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_giamsatkiemsoat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giám sát, kiểm soát quá trình xử lý, bảo vệ, cải tạo, phục hồi đất"
+      }
     },
     {
-      "id": "hanhvipaply_giamsat_kiemsoat_quatrinh_xuly_baove_dat",
-      "name": "Giám sát, kiểm soát quá trình xử lý, bảo vệ, cải tạo, phục hồi đất",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_lapbandokhuvuc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lập bản đồ các khu vực đất đã thực hiện bảo vệ, cải tạo, phục hồi đất"
+      }
     },
     {
-      "id": "hanhvipaply_lapbando_khuvuc_dat_thuchien_baove",
-      "name": "Lập bản đồ các khu vực đất đã thực hiện bảo vệ, cải tạo, phục hồi đất",
-      "label": "HànhViPhápLý"
+      "id": "hanhviphaply_xaydungcapnhatdulieu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Xây dựng và cập nhật dữ liệu về bảo vệ, cải tạo, phục hồi đất vào cơ sở dữ liệu quốc gia về đất đai"
+      }
     },
     {
-      "id": "hanhvipaply_xaydung_capnhat_dulieu_baove_dat",
-      "name": "Xây dựng và cập nhật dữ liệu về bảo vệ, cải tạo, phục hồi đất vào cơ sở dữ liệu quốc gia về đất đai",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvipaply_khoanhvung",
-      "name": "khoanh vùng",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvipaply_canhbao",
-      "name": "cảnh báo",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhvipaply_khongcho_hanche_hoatdong",
-      "name": "không cho phép hoặc hạn chế hoạt động trên đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "dieukien_theoquydinh_diemc_dieu53",
-      "name": "theo quy định tại điểm c khoản 1, điểm c khoản 2 và điểm c khoản 3 Điều 53 của Luật này",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_theotung_khuvuc_dat_phanloai_diema",
-      "name": "theo từng khu vực đất đã được phân loại tại điểm a khoản này",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_doivoi_khuvuc_dat_xacdinh_diemb",
-      "name": "đối với các khu vực đất đã được xác định tại điểm b khoản này",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_theoquydinh_khoan1_dieunay",
-      "name": "theo quy định khoản 1 Điều này",
-      "label": "ĐiềuKiện"
+      "id": "hanhviphaply_kiemsoatkhuvucdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Kiểm soát các khu vực đất bị thoái hóa, ô nhiễm chưa được bảo vệ, cải tạo, phục hồi"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_54",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_baove_caitao_phuchoi_dat"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_baovecaitaophuchoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_54",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_lapbando_khuvuc_dat_thuchien_baove"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_phanloaikhuvucdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_54",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_xaydung_capnhat_dulieu_baove_dat"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_tonghopxacdinphamvi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_54",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_kiemsoat_khuvuc_dat_bi_thoaihoa_onhiem"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_lapkehoach",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baove_caitao_phuchoi_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvipaply_phanloai_khuvuc_dat_khoanhvung"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_xacdinhbienphapkythuat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baove_caitao_phuchoi_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvipaply_tonghop_xacdinh_phamvi_mucdo_canbaove"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_lapbaocaoketqua",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baove_caitao_phuchoi_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvipaply_lapkehoach_lotrinh_thuchien_baove_dat"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_giamsatkiemsoat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baove_caitao_phuchoi_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvipaply_xacdinh_luachon_phuongan"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_lapbandokhuvuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baove_caitao_phuchoi_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvipaply_lapbaocao_ketqua_thuchien_baove_dat"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_xaydungcapnhatdulieu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_baove_caitao_phuchoi_dat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvipaply_giamsat_kiemsoat_quatrinh_xuly_baove_dat"
-    },
-    {
-      "source_id": "khainiem_kiemsoat_khuvuc_dat_bi_thoaihoa_onhiem",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvipaply_khoanhvung"
-    },
-    {
-      "source_id": "khainiem_kiemsoat_khuvuc_dat_bi_thoaihoa_onhiem",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvipaply_canhbao"
-    },
-    {
-      "source_id": "khainiem_kiemsoat_khuvuc_dat_bi_thoaihoa_onhiem",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvipaply_khongcho_hanche_hoatdong"
-    },
-    {
-      "source_id": "hanhvipaply_phanloai_khuvuc_dat_khoanhvung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinh_diemc_dieu53"
-    },
-    {
-      "source_id": "hanhvipaply_tonghop_xacdinh_phamvi_mucdo_canbaove",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theotung_khuvuc_dat_phanloai_diema"
-    },
-    {
-      "source_id": "hanhvipaply_lapkehoach_lotrinh_thuchien_baove_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_doivoi_khuvuc_dat_xacdinh_diemb"
-    },
-    {
-      "source_id": "khainiem_kiemsoat_khuvuc_dat_bi_thoaihoa_onhiem",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinh_khoan1_dieunay"
+      "source_id": "dieu_54_2024",
+      "target_id": "hanhviphaply_kiemsoatkhuvucdat",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

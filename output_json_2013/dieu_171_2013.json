@@ -1,106 +1,107 @@
 {
   "entities": [
     {
-      "id": "dieu_171",
-      "label": "ĐiềuLuật",
-      "name": "Điều 171"
+      "id": "dieu_171_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 171. Quyền sử dụng hạn chế đối với thửa đất liền kề",
+        "ma_dieu": "171",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 171.\n\nQuyền sử dụng hạn chế đối với thửa đất liền kề\n1. Quyền sử dụng hạn chế đối với thửa đất liền kề bao gồm quyền về lối đi; cấp, thoát nước; tưới\nnước, tiêu nước trong canh tác; cấp khí ga; đường dây tải điện, thông tin liên lạc và các nhu cầu cần\nthiết khác một cách hợp lý trên thửa đất liền kề.\n2. Việc xác lập quyền sử dụng hạn chế đối với thửa đất liền kề thực hiện theo quy định của pháp luật\ndân sự và phải thực hiện đăng ký theo quy định tại  Điều 95 của Luật này ."
+      }
     },
     {
-      "id": "khainiem_quyensudunghanche_doivoithuadatlienke",
-      "label": "KháiNiệm",
-      "name": "Quyền sử dụng hạn chế đối với thửa đất liền kề"
+      "id": "khainiem_quyensudunghanche",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quyền sử dụng hạn chế"
+      }
     },
     {
-      "id": "khainiem_quyen_veloidi",
-      "label": "KháiNiệm",
-      "name": "quyền về lối đi"
+      "id": "khainiem_thuadatlienkề",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thửa đất liền kề"
+      }
     },
     {
-      "id": "khainiem_capthoatnuoc",
-      "label": "KháiNiệm",
-      "name": "cấp, thoát nước"
+      "id": "hanhviphaply_capthoatnuoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp, thoát nước"
+      }
     },
     {
-      "id": "khainiem_tuoinuoctieunuoc_trongcanhtac",
-      "label": "KháiNiệm",
-      "name": "tưới nước, tiêu nước trong canh tác"
+      "id": "hanhviphaply_tuoinuoctieunuoc",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tưới nước, tiêu nước trong canh tác"
+      }
     },
     {
-      "id": "khainiem_capkhiga",
-      "label": "KháiNiệm",
-      "name": "cấp khí ga"
+      "id": "hanhviphaply_capkhiga",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Cấp khí ga"
+      }
     },
     {
-      "id": "khainiem_duongdaytaidien_thongtinlienlac",
-      "label": "KháiNiệm",
-      "name": "đường dây tải điện, thông tin liên lạc"
+      "id": "khainiem_duongdaytaidien",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đường dây tải điện"
+      }
     },
     {
-      "id": "hanhviphaply_xaclapquyensudunghanche_doivoithuadatlienke",
-      "label": "HànhViPhápLý",
-      "name": "xác lập quyền sử dụng hạn chế đối với thửa đất liền kề"
+      "id": "khainiem_thongtinlienlac",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thông tin liên lạc"
+      }
     },
     {
-      "id": "hanhviphaply_thuchiendangky",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện đăng ký"
-    },
-    {
-      "id": "dieukien_theoquydinh_phapluatdansu",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật dân sự"
-    },
-    {
-      "id": "dieukien_theoquydinh_dieu95_cualuatnay",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định tại Điều 95 của Luật này"
+      "id": "dieu_95_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 95 của Luật này"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_171",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyensudunghanche_doivoithuadatlienke"
+      "source_id": "dieu_171_2013",
+      "target_id": "khainiem_quyensudunghanche",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyensudunghanche_doivoithuadatlienke",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyen_veloidi"
+      "source_id": "dieu_171_2013",
+      "target_id": "khainiem_thuadatlienkề",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyensudunghanche_doivoithuadatlienke",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_capthoatnuoc"
+      "source_id": "dieu_171_2013",
+      "target_id": "hanhviphaply_capthoatnuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyensudunghanche_doivoithuadatlienke",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tuoinuoctieunuoc_trongcanhtac"
+      "source_id": "dieu_171_2013",
+      "target_id": "hanhviphaply_tuoinuoctieunuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyensudunghanche_doivoithuadatlienke",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_capkhiga"
+      "source_id": "dieu_171_2013",
+      "target_id": "hanhviphaply_capkhiga",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyensudunghanche_doivoithuadatlienke",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_duongdaytaidien_thongtinlienlac"
+      "source_id": "dieu_171_2013",
+      "target_id": "khainiem_duongdaytaidien",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_xaclapquyensudunghanche_doivoithuadatlienke",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinh_phapluatdansu"
-    },
-    {
-      "source_id": "hanhviphaply_xaclapquyensudunghanche_doivoithuadatlienke",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thuchiendangky"
-    },
-    {
-      "source_id": "hanhviphaply_thuchiendangky",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinh_dieu95_cualuatnay"
+      "source_id": "dieu_171_2013",
+      "target_id": "khainiem_thongtinlienlac",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

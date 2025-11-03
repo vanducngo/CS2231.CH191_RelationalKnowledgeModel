@@ -1,246 +1,172 @@
 {
   "entities": [
     {
-      "id": "dieu_162",
-      "label": "ĐiềuLuật",
-      "name": "Điều 162. Quyền và nghĩa vụ của tổ chức tư vấn xác định giá đất"
+      "id": "dieu_162_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 162. Quyền và nghĩa vụ của tổ chức tư vấn xác định giá đất",
+        "ma_dieu": "162",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 162.\n\nQuyền và nghĩa vụ của tổ chức tư vấn xác định giá đất\n1. Tổ chức tư vấn xác định giá đất có các quyền sau đây:\na) Được cung cấp dịch vụ tư vấn xác định giá đất;\nb) Được yêu cầu bên thuê tư vấn, cơ quan, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu để\nphục vụ xác định giá đất theo quy định của pháp luật;\nc) Quyền khác theo quy định của pháp luật.\n2. Tổ chức tư vấn xác định giá đất có các nghĩa vụ sau đây:\na) Tuân thủ nguyên tắc, căn cứ, phương pháp, trình tự thủ tục định giá đất theo quy định của Luật này\nvà quy định khác của luật có liên quan;\nb) Phải độc lập, khách quan, trung thực trong hoạt động tư vấn xác định giá đất;\nc) Bảo đảm việc tuân thủ đạo đức nghề nghiệp của các định giá viên thuộc tổ chức của mình;\nd) Chịu trách nhiệm về chuyên môn trong tư vấn xác định giá đất, tư vấn thẩm định giá đất do mình\nthực hiện;\nđ) Thực hiện tư vấn xác định giá đất theo quy định của Luật này và quy định khác của pháp luật có liên\nquan;\ne) Chịu sự thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền; báo cáo kết quả tư vấn xác định giá\nđất khi có yêu cầu gửi cơ quan có chức năng quản lý đất đai cấp tỉnh nơi đăng ký trụ sở chính hoặc nơi\nthực hiện tư vấn xác định giá đất;\ng) Đăng ký danh sách định giá viên và việc thay đổi, bổ sung danh sách định giá viên với cơ quan có\nchức năng quản lý đất đai cấp tỉnh nơi đăng ký trụ sở chính;\nh) Có trách nhiệm thực hiện tư vấn xác định, thẩm định bảng giá đất, giá đất cụ thể; cử đại diện tham\ngia Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể khi có yêu cầu của cơ quan\nnhà nước có thẩm quyền;\ni) Lưu trữ hồ sơ, tài liệu về kết quả tư vấn xác định giá đất;\nk) Nghĩa vụ khác theo quy định của pháp luật.\n3. Tổ chức được hoạt động tư vấn xác định giá đất khi có đủ các điều kiện sau đây:\na) Tổ chức có đăng ký hoạt động kinh doanh dịch vụ xác định giá đất hoặc kinh doanh dịch vụ thẩm\nđịnh giá; đơn vị sự nghiệp công lập có chức năng kinh doanh dịch vụ xác định giá đất hoặc kinh doanh\ndịch vụ thẩm định giá; about:blank\nb) Có ít nhất 03 định giá viên đủ điều kiện hành nghề tư vấn xác định giá đất hoặc 03 thẩm định viên\nvề giá theo quy định của Chính phủ.\nChương XII\nHỆ THỐNG THÔNG TIN QUỐC GIA  VỀ ĐẤT  ĐAI VÀ CƠ SỞ DỮ LIỆU QUỐC GIA  VỀ ĐẤT\nĐAI"
+      }
     },
     {
-      "id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "label": "ChủThể",
-      "name": "Tổ chức tư vấn xác định giá đất"
+      "id": "chuthe_tochuctuvanxacdinhgiadat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức tư vấn xác định giá đất"
+      }
     },
     {
-      "id": "chuthe_ben_thue_tuvan",
-      "label": "ChủThể",
-      "name": "Bên thuê tư vấn"
+      "id": "hanhviphaply_cungcapdichvutuvanxacdinhgiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được cung cấp dịch vụ tư vấn xác định giá đất"
+      }
     },
     {
-      "id": "chuthe_coquan_tochuc_canhan_lienquan",
-      "label": "ChủThể",
-      "name": "Cơ quan, tổ chức, cá nhân có liên quan"
+      "id": "hanhviphaply_yeucaucungcapthongtin",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Được yêu cầu bên thuê tư vấn, cơ quan, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu"
+      }
     },
     {
-      "id": "chuthe_dinhgiavien",
-      "label": "ChủThể",
-      "name": "Định giá viên"
+      "id": "hanhviphaply_tuanthunguyentac",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tuân thủ nguyên tắc, căn cứ, phương pháp, trình tự thủ tục định giá đất"
+      }
     },
     {
-      "id": "chuthe_coquan_nhanuoc_cothamquyen",
-      "label": "ChủThể",
-      "name": "Cơ quan nhà nước có thẩm quyền"
+      "id": "dieukien_doclapkachquantrungthuc",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Phải độc lập, khách quan, trung thực trong hoạt động tư vấn xác định giá đất"
+      }
     },
     {
-      "id": "chuthe_coquan_quanly_datdai_captinh",
-      "label": "ChủThể",
-      "name": "Cơ quan có chức năng quản lý đất đai cấp tỉnh"
+      "id": "hanhviphaply_baodamtuantu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Bảo đảm việc tuân thủ đạo đức nghề nghiệp của các định giá viên"
+      }
     },
     {
-      "id": "chuthe_hoidong_thamdinh_banggiadat",
-      "label": "ChủThể",
-      "name": "Hội đồng thẩm định bảng giá đất"
+      "id": "hanhviphaply_chiutrachnhiemchuyenmon",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chịu trách nhiệm về chuyên môn trong tư vấn xác định giá đất, tư vấn thẩm định giá đất"
+      }
     },
     {
-      "id": "chuthe_hoidong_thamdinh_giadat_cuthe",
-      "label": "ChủThể",
-      "name": "Hội đồng thẩm định giá đất cụ thể"
+      "id": "hanhviphaply_thuchientuvanxacdinhgiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thực hiện tư vấn xác định giá đất"
+      }
     },
     {
-      "id": "khainiem_quyen_cua_tochuc_tuvan",
-      "label": "KháiNiệm",
-      "name": "Quyền của tổ chức tư vấn xác định giá đất"
+      "id": "hanhviphaply_chiusuthanhtrakiemtra",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chịu sự thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền"
+      }
     },
     {
-      "id": "khainiem_nghiavu_cua_tochuc_tuvan",
-      "label": "KháiNiệm",
-      "name": "Nghĩa vụ của tổ chức tư vấn xác định giá đất"
+      "id": "hanhviphaply_baocaoketquatuvan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Báo cáo kết quả tư vấn xác định giá đất khi có yêu cầu"
+      }
     },
     {
-      "id": "hanhviphaply_cungcap_dichvu_tuvan",
-      "label": "HànhViPhápLý",
-      "name": "Cung cấp dịch vụ tư vấn xác định giá đất"
+      "id": "hanhviphaply_dangkybaosungdanhsach",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đăng ký danh sách định giá viên và việc thay đổi, bổ sung danh sách định giá viên"
+      }
     },
     {
-      "id": "hanhviphaply_yeucau_cungcap_thongtin",
-      "label": "HànhViPhápLý",
-      "name": "Yêu cầu cung cấp thông tin, tài liệu để phục vụ xác định giá đất"
+      "id": "hanhviphaply_thuchienthamdinhbanggiadat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Có trách nhiệm thực hiện tư vấn xác định, thẩm định bảng giá đất, giá đất cụ thể"
+      }
     },
     {
-      "id": "hanhviphaply_tuanthu_nguyentac_dinhgia",
-      "label": "HànhViPhápLý",
-      "name": "Tuân thủ nguyên tắc, căn cứ, phương pháp, trình tự thủ tục định giá đất"
-    },
-    {
-      "id": "hanhviphaply_chiu_trachnhiem_ve_chuyenmon",
-      "label": "HànhViPhápLý",
-      "name": "Chịu trách nhiệm về chuyên môn trong tư vấn xác định giá đất"
-    },
-    {
-      "id": "hanhviphaply_chiu_su_thanhtra_kiemtra",
-      "label": "HànhViPhápLý",
-      "name": "Chịu sự thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "hanhviphaply_baocao_ketqua_tuvan",
-      "label": "HànhViPhápLý",
-      "name": "Báo cáo kết quả tư vấn xác định giá đất"
-    },
-    {
-      "id": "hanhviphaply_dangky_danhsach_dinhgiavien",
-      "label": "HànhViPhápLý",
-      "name": "Đăng ký danh sách định giá viên"
-    },
-    {
-      "id": "hanhviphaply_tuvan_thamdinh_gia",
-      "label": "HànhViPhápLý",
-      "name": "Thực hiện tư vấn xác định, thẩm định bảng giá đất, giá đất cụ thể"
-    },
-    {
-      "id": "hanhviphaply_thamgia_hoidong_thamdinh",
-      "label": "HànhViPhápLý",
-      "name": "Cử đại diện tham gia Hội đồng thẩm định"
-    },
-    {
-      "id": "hanhviphaply_luutru_hoso",
-      "label": "HànhViPhápLý",
-      "name": "Lưu trữ hồ sơ, tài liệu về kết quả tư vấn xác định giá đất"
-    },
-    {
-      "id": "hanhviphaply_hoatdong_tuvan_xacdinh_giadat",
-      "label": "HànhViPhápLý",
-      "name": "Hoạt động tư vấn xác định giá đất"
-    },
-    {
-      "id": "dieukien_co_dangky_kinhdoanh",
-      "label": "ĐiềuKiện",
-      "name": "Có đăng ký hoạt động kinh doanh dịch vụ xác định giá đất hoặc kinh doanh dịch vụ thẩm định giá"
-    },
-    {
-      "id": "dieukien_co_itnhat_03_dinhgiavien",
-      "label": "ĐiềuKiện",
-      "name": "Có ít nhất 03 định giá viên đủ điều kiện hành nghề hoặc 03 thẩm định viên về giá"
+      "id": "hanhviphaply_lurutruhosotailieu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lưu trữ hồ sơ, tài liệu về kết quả tư vấn xác định giá đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_162",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_tochuc_tuvan_xacdinh_giadat"
+      "source_id": "dieu_162_2024",
+      "target_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_162",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_quyen_cua_tochuc_tuvan"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_cungcapdichvutuvanxacdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_162",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_nghiavu_cua_tochuc_tuvan"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_yeucaucungcapthongtin",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyen_cua_tochuc_tuvan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_tuvan_xacdinh_giadat"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_tuanthunguyentac",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nghiavu_cua_tochuc_tuvan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_tuvan_xacdinh_giadat"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "dieukien_doclapkachquantrungthuc",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_cungcap_dichvu_tuvan"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_baodamtuantu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_yeucau_cungcap_thongtin"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_chiutrachnhiemchuyenmon",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_yeucau_cungcap_thongtin",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_ben_thue_tuvan"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_thuchientuvanxacdinhgiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_yeucau_cungcap_thongtin",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_coquan_tochuc_canhan_lienquan"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_chiusuthanhtrakiemtra",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_tuanthu_nguyentac_dinhgia"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_baocaoketquatuvan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_chiu_trachnhiem_ve_chuyenmon"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_dangkybaosungdanhsach",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_chiu_su_thanhtra_kiemtra"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_thuchienthamdinhbanggiadat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chiu_su_thanhtra_kiemtra",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_coquan_nhanuoc_cothamquyen"
-    },
-    {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_baocao_ketqua_tuvan"
-    },
-    {
-      "source_id": "hanhviphaply_baocao_ketqua_tuvan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_coquan_quanly_datdai_captinh"
-    },
-    {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_dangky_danhsach_dinhgiavien"
-    },
-    {
-      "source_id": "hanhviphaply_dangky_danhsach_dinhgiavien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_coquan_quanly_datdai_captinh"
-    },
-    {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_tuvan_thamdinh_gia"
-    },
-    {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thamgia_hoidong_thamdinh"
-    },
-    {
-      "source_id": "chuthe_tochuc_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_luutru_hoso"
-    },
-    {
-      "source_id": "dieu_162",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_hoatdong_tuvan_xacdinh_giadat"
-    },
-    {
-      "source_id": "hanhviphaply_hoatdong_tuvan_xacdinh_giadat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuc_tuvan_xacdinh_giadat"
-    },
-    {
-      "source_id": "hanhviphaply_hoatdong_tuvan_xacdinh_giadat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_dangky_kinhdoanh"
-    },
-    {
-      "source_id": "hanhviphaply_hoatdong_tuvan_xacdinh_giadat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_itnhat_03_dinhgiavien"
+      "source_id": "chuthe_tochuctuvanxacdinhgiadat",
+      "target_id": "hanhviphaply_lurutruhosotailieu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

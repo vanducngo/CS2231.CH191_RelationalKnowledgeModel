@@ -1,311 +1,124 @@
 {
   "entities": [
     {
-      "id": "dieu_43",
-      "label": "ĐiềuLuật",
-      "name": "Điều 43"
+      "id": "dieu_43_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 43. Lấy ý kiến về quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "43",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 43.\n\nLấy ý kiến về quy hoạch, kế hoạch sử dụng đất\n1. Cơ quan tổ chức lập quy hoạch, kế hoạch sử dụng đất quy định tại  khoản 1 và khoản 2 Điều 42 của\nLuật này  có trách nhiệm tổ chức lấy ý kiến đóng góp của nhân dân về quy hoạch, kế hoạch sử dụng đất.\n2. Hình thức, nội dung và thời gian lấy ý kiến nhân dân về quy hoạch, kế hoạch sử dụng đất được thực\nhiện theo quy định sau đây:\na) Việc lấy ý kiến đóng góp của nhân dân về quy hoạch, kế hoạch sử dụng đất cấp quốc gia, cấp tỉnh\nđược thực hiện thông qua hình thức công khai thông tin về nội dung của quy hoạch, kế hoạch sử dụng\nđất trên trang thông tin điện tử của Bộ Tài nguyên và Môi trường, Ủy ban nhân dân cấp tỉnh; việc lấy ý\nkiến đóng góp của nhân dân về quy hoạch, kế hoạch sử dụng đất cấp huyện được thực hiện thông qua\nhình thức tổ chức hội nghị, lấy ý kiến trực tiếp và công khai thông tin về nội dung của quy hoạch, kế\nhoạch sử dụng đất trên trang thông tin điện tử của Ủy ban nhân dân cấp tỉnh và Ủy ban nhân dân cấp\nhuyện;\nb) Nội dung lấy ý kiến nhân dân về quy hoạch, kế hoạch sử dụng đất gồm các chỉ tiêu quy hoạch, kế\nhoạch sử dụng đất, các dự án công trình thực hiện trong kỳ quy hoạch, kế hoạch sử dụng đất;\nc) Thời gian lấy ý kiến về quy hoạch, kế hoạch sử dụng đất là 30 ngày kể từ ngày cơ quan nhà nước có\nthẩm quyền quyết định tổ chức lấy ý kiến.\n3. Cơ quan có trách nhiệm lấy ý kiến về quy hoạch, kế hoạch sử dụng đất quy định tại khoản 1 Điều\nnày có trách nhiệm xây dựng báo cáo tổng hợp, tiếp thu, giải trình ý kiến của nhân dân và hoàn thiện\nphương án quy hoạch, kế hoạch sử dụng đất trước khi trình Hội đồng thẩm định quy hoạch, kế hoạch\nsử dụng đất.\n4. Đối với quy hoạch, kế hoạch sử dụng đất quốc phòng, an ninh, Bộ Quốc phòng, Bộ Công an có trách\nnhiệm lấy ý kiến Ủy ban nhân dân cấp tỉnh trong quá trình tổ chức lập quy hoạch, kế hoạch sử dụng\nđất.\n5. Chính phủ quy định chi tiết Điều này ."
+      }
     },
     {
-      "id": "khainiem_layykienvequyhoachkehoachsudungdat",
-      "label": "KháiNiệm",
-      "name": "Lấy ý kiến về quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "chuthe_coquantochuclapquyhoachkehoachsudungdat",
-      "label": "ChủThể",
-      "name": "Cơ quan tổ chức lập quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_tochuc_layykien_donggop_nhandan_quyhoach_kehoachsudungdat",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức lấy ý kiến đóng góp của nhân dân về quy hoạch, kế hoạch sử dụng đất"
+      "id": "khainiem_quyhoachkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất"
+      }
     },
     {
       "id": "chuthe_nhandan",
-      "label": "ChủThể",
-      "name": "nhân dân"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhân dân"
+      }
     },
     {
-      "id": "dieukien_quy_dinh_tai_khoan_1_va_khoan_2_dieu_42",
-      "label": "ĐiềuKiện",
-      "name": "quy định tại khoản 1 và khoản 2 Điều 42 của Luật này"
+      "id": "chuthe_cobantochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan tổ chức"
+      }
     },
     {
-      "id": "khainiem_hinhthuc_noidung_thoigian_layykien",
-      "label": "KháiNiệm",
-      "name": "Hình thức, nội dung và thời gian lấy ý kiến nhân dân về quy hoạch, kế hoạch sử dụng đất"
+      "id": "chuthe_botainguyenvamotruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
     },
     {
-      "id": "khainiem_quyhoachkehoachsudungdat_capquocgia_captinh",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất cấp quốc gia, cấp tỉnh"
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "hanhviphaply_congkhaithongtin_trang_thongtin_dien_tu",
-      "label": "HànhViPhápLý",
-      "name": "công khai thông tin về nội dung của quy hoạch, kế hoạch sử dụng đất trên trang thông tin điện tử"
-    },
-    {
-      "id": "chuthe_botainguyenmoitruong",
-      "label": "ChủThể",
-      "name": "Bộ Tài nguyên và Môi trường"
-    },
-    {
-      "id": "chuthe_uybannhandancaptinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "khainiem_quyhoachkehoachsudungdat_caphuyen",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất cấp huyện"
-    },
-    {
-      "id": "hanhviphaply_tochuchoinghi_layykien_tructiep",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức hội nghị, lấy ý kiến trực tiếp"
-    },
-    {
-      "id": "chuthe_uybannhandancaphuyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "khainiem_noidung_layykien_quyhoachkehoachsudungdat",
-      "label": "KháiNiệm",
-      "name": "Nội dung lấy ý kiến nhân dân về quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khainiem_chitieukhoachsudungdat",
-      "label": "KháiNiệm",
-      "name": "các chỉ tiêu quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khainiem_cacduancongtrinh",
-      "label": "KháiNiệm",
-      "name": "các dự án công trình thực hiện trong kỳ quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khainiem_thoigian_layykien_quyhoachkehoachsudungdat",
-      "label": "KháiNiệm",
-      "name": "Thời gian lấy ý kiến về quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "dieukien_30ngayketungaycoquannuoc_quyetdinh",
-      "label": "ĐiềuKiện",
-      "name": "30 ngày kể từ ngày cơ quan nhà nước có thẩm quyền quyết định tổ chức lấy ý kiến"
-    },
-    {
-      "id": "hanhviphaply_xaydungbaocao_tonghop_tiepthugiaitrinh",
-      "label": "HànhViPhápLý",
-      "name": "xây dựng báo cáo tổng hợp, tiếp thu, giải trình ý kiến của nhân dân"
-    },
-    {
-      "id": "hanhviphaply_hoanthienphuonganquyhoach",
-      "label": "HànhViPhápLý",
-      "name": "hoàn thiện phương án quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "dieukien_truockhitrinh_hoithamdinhyhoach",
-      "label": "ĐiềuKiện",
-      "name": "trước khi trình Hội đồng thẩm định quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "chuthe_hoidongthamdinhquyhoach",
-      "label": "ChủThể",
-      "name": "Hội đồng thẩm định quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khainiem_quyhoachkehoachsudungdat_quocphong_anninh",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất quốc phòng, an ninh"
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
       "id": "chuthe_boquocphong",
-      "label": "ChủThể",
-      "name": "Bộ Quốc phòng"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
     },
     {
       "id": "chuthe_bocongan",
-      "label": "ChủThể",
-      "name": "Bộ Công an"
-    },
-    {
-      "id": "hanhviphaply_layykien_uybannhandancaptinh",
-      "label": "HànhViPhápLý",
-      "name": "lấy ý kiến Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "dieukien_trongquatrinh_tochuc_lapquyhoach",
-      "label": "ĐiềuKiện",
-      "name": "trong quá trình tổ chức lập quy hoạch, kế hoạch sử dụng đất"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
     },
     {
       "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_43",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_layykienvequyhoachkehoachsudungdat"
+      "source_id": "dieu_43_2013",
+      "target_id": "khainiem_quyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_43",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_coquantochuclapquyhoachkehoachsudungdat"
+      "source_id": "dieu_43_2013",
+      "target_id": "chuthe_nhandan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_coquantochuclapquyhoachkehoachsudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "dieukien_quy_dinh_tai_khoan_1_va_khoan_2_dieu_42"
+      "source_id": "dieu_43_2013",
+      "target_id": "chuthe_cobantochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_coquantochuclapquyhoachkehoachsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tochuc_layykien_donggop_nhandan_quyhoach_kehoachsudungdat"
+      "source_id": "dieu_43_2013",
+      "target_id": "chuthe_botainguyenvamotruong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_tochuc_layykien_donggop_nhandan_quyhoach_kehoachsudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhandan"
+      "source_id": "dieu_43_2013",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_43",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hinhthuc_noidung_thoigian_layykien"
+      "source_id": "dieu_43_2013",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_layykienvequyhoachkehoachsudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quyhoachkehoachsudungdat_capquocgia_captinh"
+      "source_id": "dieu_43_2013",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quyhoachkehoachsudungdat_capquocgia_captinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_congkhaithongtin_trang_thongtin_dien_tu"
+      "source_id": "dieu_43_2013",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_congkhaithongtin_trang_thongtin_dien_tu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_botainguyenmoitruong"
-    },
-    {
-      "source_id": "hanhviphaply_congkhaithongtin_trang_thongtin_dien_tu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uybannhandancaptinh"
-    },
-    {
-      "source_id": "khainiem_layykienvequyhoachkehoachsudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quyhoachkehoachsudungdat_caphuyen"
-    },
-    {
-      "source_id": "khainiem_quyhoachkehoachsudungdat_caphuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tochuchoinghi_layykien_tructiep"
-    },
-    {
-      "source_id": "khainiem_quyhoachkehoachsudungdat_caphuyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_congkhaithongtin_trang_thongtin_dien_tu"
-    },
-    {
-      "source_id": "hanhviphaply_congkhaithongtin_trang_thongtin_dien_tu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uybannhandancaptinh"
-    },
-    {
-      "source_id": "hanhviphaply_congkhaithongtin_trang_thongtin_dien_tu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uybannhandancaphuyen"
-    },
-    {
-      "source_id": "dieu_43",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_noidung_layykien_quyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "khainiem_noidung_layykien_quyhoachkehoachsudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_chitieukhoachsudungdat"
-    },
-    {
-      "source_id": "khainiem_noidung_layykien_quyhoachkehoachsudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_cacduancongtrinh"
-    },
-    {
-      "source_id": "dieu_43",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_thoigian_layykien_quyhoachkehoachsudungdat"
-    },
-    {
-      "source_id": "khainiem_thoigian_layykien_quyhoachkehoachsudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "dieukien_30ngayketungaycoquannuoc_quyetdinh"
-    },
-    {
-      "source_id": "chuthe_coquantochuclapquyhoachkehoachsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_xaydungbaocao_tonghop_tiepthugiaitrinh"
-    },
-    {
-      "source_id": "chuthe_coquantochuclapquyhoachkehoachsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_hoanthienphuonganquyhoach"
-    },
-    {
-      "source_id": "hanhviphaply_hoanthienphuonganquyhoach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truockhitrinh_hoithamdinhyhoach"
-    },
-    {
-      "source_id": "dieukien_truockhitrinh_hoithamdinhyhoach",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hoidongthamdinhquyhoach"
-    },
-    {
-      "source_id": "dieu_43",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyhoachkehoachsudungdat_quocphong_anninh"
-    },
-    {
-      "source_id": "chuthe_boquocphong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_layykien_uybannhandancaptinh"
-    },
-    {
-      "source_id": "chuthe_bocongan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_layykien_uybannhandancaptinh"
-    },
-    {
-      "source_id": "hanhviphaply_layykien_uybannhandancaptinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quyhoachkehoachsudungdat_quocphong_anninh"
-    },
-    {
-      "source_id": "hanhviphaply_layykien_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_trongquatrinh_tochuc_lapquyhoach"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_43"
+      "source_id": "dieu_43_2013",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,331 +1,88 @@
 {
-  "nodes": [
+  "entities": [
     {
-      "id": "dieu_179",
-      "label": "ĐiềuLuật",
-      "name": "Điều 179"
+      "id": "dieu_179_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích",
+        "ma_dieu": "179",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 179.\n\nQuỹ đất nông nghiệp sử dụng vào mục đích công ích\n1. Quỹ đất nông nghiệp sử dụng vào mục đích công ích đã được lập theo quy định của pháp luật về đất\nđai qua các thời kỳ thì tiếp tục được sử dụng để phục vụ cho các nhu cầu công ích của địa phương.\n2. Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn để sử dụng vào các\nmục đích sau đây:\na) Xây dựng các công trình văn hóa, thể dục thể thao, vui chơi, giải trí công cộng, y tế, giáo dục, chợ,\nnghĩa trang và các công trình công cộng khác do Ủy ban nhân dân cấp xã đầu tư, quản lý, sử dụng; xây\ndựng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết;\nb) Bồi thường cho người có đất thu hồi khi xây dựng các công trình quy định tại điểm a khoản này .\n3. Đối với diện tích đất chưa sử dụng vào các mục đích quy định tại khoản 2 Điều này thì Ủy ban nhân\ndân cấp xã cho cá nhân tại địa phương thuê để sản xuất nông nghiệp, nuôi trồng thủy sản theo hình thức\nđấu giá. Thời hạn sử dụng đất đối với mỗi lần thuê không quá 10 năm.\n4. Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn do Ủy ban nhân dân\ncấp xã nơi có đất quản lý, sử dụng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm\nquyền phê duyệt."
+      }
     },
     {
-      "id": "khauniem_quydat_nongnghiep_congich",
-      "label": "KháiNiệm",
-      "name": "Quỹ đất nông nghiệp sử dụng vào mục đích công ích"
+      "id": "khainiem_quydatnongnghiep",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quỹ đất nông nghiệp"
+      }
     },
     {
-      "id": "khauniem_mucdich_congich",
-      "label": "KháiNiệm",
-      "name": "mục đích công ích"
+      "id": "khainiem_mucdichconich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Mục đích công ích"
+      }
     },
     {
-      "id": "khauniem_congtrinh_congcong",
-      "label": "KháiNiệm",
-      "name": "các công trình văn hóa, thể dục thể thao, vui chơi, giải trí công cộng, y tế, giáo dục, chợ, nghĩa trang và các công trình công cộng khác"
+      "id": "chuthe_uybanndancapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
     },
     {
-      "id": "khauniem_nha_congdong",
-      "label": "KháiNiệm",
-      "name": "nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "khauniem_sanxuat_nongnghiep",
-      "label": "KháiNiệm",
-      "name": "sản xuất nông nghiệp"
+      "id": "hanhviphaply_thue",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thuê"
+      }
     },
     {
-      "id": "khauniem_nuoitrong_thuysan",
-      "label": "KháiNiệm",
-      "name": "nuôi trồng thủy sản"
-    },
-    {
-      "id": "khauniem_hinhthuc_dau_gia",
-      "label": "KháiNiệm",
-      "name": "hình thức đấu giá"
-    },
-    {
-      "id": "khauniem_thoihan_sudungdat",
-      "label": "KháiNiệm",
-      "name": "Thời hạn sử dụng đất"
-    },
-    {
-      "id": "khauniem_quyhoach_kehoach_sudungdat",
-      "label": "KháiNiệm",
-      "name": "quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "khauniem_phapluat_datdai",
-      "label": "KháiNiệm",
-      "name": "pháp luật về đất đai"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
-    },
-    {
-      "id": "chuthe_nguoi_co_dat_thu_hoi",
-      "label": "ChủThể",
-      "name": "người có đất thu hồi"
-    },
-    {
-      "id": "chuthe_canhan_tai_diaphuong",
-      "label": "ChủThể",
-      "name": "cá nhân tại địa phương"
-    },
-    {
-      "id": "chuthe_coquan_co_thamquyen",
-      "label": "ChủThể",
-      "name": "cơ quan có thẩm quyền"
-    },
-    {
-      "id": "chuthe_xa_phuong_thitran",
-      "label": "ChủThể",
-      "name": "xã, phường, thị trấn"
-    },
-    {
-      "id": "hanhvi_sudung",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng"
-    },
-    {
-      "id": "hanhvi_lap",
-      "label": "HànhViPhápLý",
-      "name": "lập"
-    },
-    {
-      "id": "hanhvi_phucvu",
-      "label": "HànhViPhápLý",
-      "name": "phục vụ"
-    },
-    {
-      "id": "hanhvi_xay_dung",
-      "label": "HànhViPhápLý",
-      "name": "xây dựng"
-    },
-    {
-      "id": "hanhvi_boi_thuong",
-      "label": "HànhViPhápLý",
-      "name": "Bồi thường"
-    },
-    {
-      "id": "hanhvi_thu_hoi",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi"
-    },
-    {
-      "id": "hanhvi_cho_thue",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê"
-    },
-    {
-      "id": "hanhvi_quan_ly",
-      "label": "HànhViPhápLý",
-      "name": "quản lý"
-    },
-    {
-      "id": "hanhvi_phe_duyet",
-      "label": "HànhViPhápLý",
-      "name": "phê duyệt"
-    },
-    {
-      "id": "dieukien_thelophapluat_datdai",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật về đất đai qua các thời kỳ"
-    },
-    {
-      "id": "dieukien_thue_khongqua_10nam",
-      "label": "ĐiềuKiện",
-      "name": "không quá 10 năm"
-    },
-    {
-      "id": "dieukien_thue_theohinhthuc_dau_gia",
-      "label": "ĐiềuKiện",
-      "name": "theo hình thức đấu giá"
-    },
-    {
-      "id": "dieukien_quanly_theoquyhoach_kehoach_sudungdat",
-      "label": "ĐiềuKiện",
-      "name": "theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "dieukien_chuasudung_khoan_2",
-      "label": "ĐiềuKiện",
-      "name": "chưa sử dụng vào các mục đích quy định tại khoản 2 Điều này"
+      "id": "dieukien_daugia",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Đấu giá"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_179",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quydat_nongnghiep_congich"
+      "source_id": "dieu_179_2024",
+      "target_id": "khainiem_quydatnongnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_quydat_nongnghiep_congich",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lap"
+      "source_id": "dieu_179_2024",
+      "target_id": "khainiem_mucdichconich",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_thelophapluat_datdai"
+      "source_id": "dieu_179_2024",
+      "target_id": "chuthe_uybanndancapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_quydat_nongnghiep_congich",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudung"
+      "source_id": "dieu_179_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_sudung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_mucdich_congich"
+      "source_id": "dieu_179_2024",
+      "target_id": "hanhviphaply_thue",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_xa_phuong_thitran",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quydat_nongnghiep_congich"
-    },
-    {
-      "source_id": "khauniem_quydat_nongnghiep_congich",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_xay_dung"
-    },
-    {
-      "source_id": "hanhvi_xay_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_congtrinh_congcong"
-    },
-    {
-      "source_id": "hanhvi_xay_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_nha_congdong"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_xay_dung"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quan_ly"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudung"
-    },
-    {
-      "source_id": "khauniem_quydat_nongnghiep_congich",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_boi_thuong"
-    },
-    {
-      "source_id": "hanhvi_xay_dung",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_thu_hoi"
-    },
-    {
-      "source_id": "hanhvi_thu_hoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_co_dat_thu_hoi"
-    },
-    {
-      "source_id": "hanhvi_thu_hoi",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvi_boi_thuong"
-    },
-    {
-      "source_id": "hanhvi_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_co_dat_thu_hoi"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_cho_thue"
-    },
-    {
-      "source_id": "hanhvi_cho_thue",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quydat_nongnghiep_congich"
-    },
-    {
-      "source_id": "hanhvi_cho_thue",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chuasudung_khoan_2"
-    },
-    {
-      "source_id": "hanhvi_cho_thue",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_canhan_tai_diaphuong"
-    },
-    {
-      "source_id": "hanhvi_cho_thue",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_sanxuat_nongnghiep"
-    },
-    {
-      "source_id": "hanhvi_cho_thue",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_nuoitrong_thuysan"
-    },
-    {
-      "source_id": "hanhvi_cho_thue",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thue_theohinhthuc_dau_gia"
-    },
-    {
-      "source_id": "khauniem_thoihan_sudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_cho_thue"
-    },
-    {
-      "source_id": "hanhvi_cho_thue",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_thue_khongqua_10nam"
-    },
-    {
-      "source_id": "chuthe_xa_phuong_thitran",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_quydat_nongnghiep_congich"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quan_ly"
-    },
-    {
-      "source_id": "hanhvi_quan_ly",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quydat_nongnghiep_congich"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudung"
-    },
-    {
-      "source_id": "hanhvi_sudung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_quydat_nongnghiep_congich"
-    },
-    {
-      "source_id": "hanhvi_quan_ly",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quanly_theoquyhoach_kehoach_sudungdat"
-    },
-    {
-      "source_id": "hanhvi_sudung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quanly_theoquyhoach_kehoach_sudungdat"
-    },
-    {
-      "source_id": "khauniem_quyhoach_kehoach_sudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_phe_duyet"
-    },
-    {
-      "source_id": "hanhvi_phe_duyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_coquan_co_thamquyen"
+      "source_id": "dieu_179_2024",
+      "target_id": "dieukien_daugia",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

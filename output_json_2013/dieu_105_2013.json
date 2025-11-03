@@ -1,201 +1,172 @@
 {
   "entities": [
     {
-      "id": "dieu_105",
-      "label": "ĐiềuLuật",
-      "name": "Điều 105"
+      "id": "dieu_105_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 105. Thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất",
+        "ma_dieu": "105",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 105.\n\nThẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản\nkhác gắn liền với đất\n1. Ủy ban nhân dân cấp tỉnh cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản\nkhác gắn liền với đất cho tổ chức, cơ sở tôn giáo; người Việt Nam định cư ở nước ngoài, doanh nghiệp\ncó vốn đầu tư nước ngoài thực hiện dự án đầu tư; tổ chức nước ngoài có chức năng ngoại giao.\nỦy ban nhân dân cấp tỉnh được ủy quyền cho cơ quan tài nguyên và môi trường cùng cấp cấp Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.\n2. Ủy ban nhân dân cấp huyện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản\nkhác gắn liền với đất cho hộ gia đình, cá nhân, cộng đồng dân cư, người Việt Nam định cư ở nước\nngoài được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam.\n3. Đối với những trường hợp đã được cấp Giấy chứng nhận, Giấy chứng nhận quyền sở hữu nhà ở,\nGiấy chứng nhận quyền sở hữu công trình xây dựng mà thực hiện các quyền của người sử dụng đất,\nchủ sở hữu tài sản gắn liền với đất hoặc cấp đổi, cấp lại Giấy chứng nhận, Giấy chứng nhận quyền sở\nhữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng thì do cơ quan tài nguyên và môi\ntrường thực hiện theo quy định của Chính phủ."
+      }
     },
     {
-      "id": "khainiem_tham_quyen_cap_GCN",
-      "label": "KháiNiệm",
-      "name": "Thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      "id": "chuthe_uybannhandancaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "chuthe_ubnd_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
     },
     {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
+      "id": "chuthe_cosotongiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ sở tôn giáo"
+      }
     },
     {
-      "id": "chuthe_co_so_ton_giao",
-      "label": "ChủThể",
-      "name": "cơ sở tôn giáo"
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "người Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "chuthe_nvndcnn_thuc_hien_DAĐT",
-      "label": "ChủThể",
-      "name": "người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài thực hiện dự án đầu tư"
+      "id": "chuthe_doanhnghiep",
+      "label": "ChuThe",
+      "properties": {
+        "name": "doanh nghiệp"
+      }
     },
     {
-      "id": "chuthe_tcn_chuc_nang_ngoai_giao",
-      "label": "ChủThể",
-      "name": "tổ chức nước ngoài có chức năng ngoại giao"
+      "id": "chuthe_covondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "có vốn đầu tư nước ngoài"
+      }
     },
     {
-      "id": "hanhviphaply_cap_GCN",
-      "label": "HànhViPhápLý",
-      "name": "cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+      "id": "chuthe_tochucnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức nước ngoài"
+      }
     },
     {
-      "id": "hanhviphaply_uy_quyen",
-      "label": "HànhViPhápLý",
-      "name": "ủy quyền"
+      "id": "chuthe_cochucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "có chức năng ngoại giao"
+      }
     },
     {
-      "id": "chuthe_co_quan_tnmt_cung_cap",
-      "label": "ChủThể",
-      "name": "cơ quan tài nguyên và môi trường cùng cấp"
+      "id": "chuthe_uybannhandancaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
-      "id": "chuthe_ubnd_cap_huyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "hộ gia đình"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "hộ gia đình"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
     },
     {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
+      "id": "chuthe_congdongdancu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cộng đồng dân cư"
+      }
     },
     {
-      "id": "chuthe_cong_dong_dan_cu",
-      "label": "ChủThể",
-      "name": "cộng đồng dân cư"
-    },
-    {
-      "id": "chuthe_nvndcnn_so_huu_nha_o_tai_VN",
-      "label": "ChủThể",
-      "name": "người Việt Nam định cư ở nước ngoài được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam"
-    },
-    {
-      "id": "chuthe_co_quan_tnmt",
-      "label": "ChủThể",
-      "name": "cơ quan tài nguyên và môi trường"
-    },
-    {
-      "id": "hanhviphaply_thuc_hien_thu_tuc_lien_quan_GCN",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện các thủ tục liên quan đến Giấy chứng nhận, quyền sở hữu nhà ở và tài sản gắn liền với đất"
-    },
-    {
-      "id": "dieukien_truong_hop_da_cap_GCN_thuc_hien_quyen",
-      "label": "ĐiềuKiện",
-      "name": "những trường hợp đã được cấp Giấy chứng nhận, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng mà thực hiện các quyền của người sử dụng đất, chủ sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "dieukien_truong_hop_cap_doi_cap_lai_GCN",
-      "label": "ĐiềuKiện",
-      "name": "cấp đổi, cấp lại Giấy chứng nhận, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng"
-    },
-    {
-      "id": "dieukien_theo_quy_dinh_Chinh_phu",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của Chính phủ"
+      "id": "chuthe_coquantainuyenmoitruong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cơ quan tài nguyên và môi trường"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_105",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tham_quyen_cap_GCN"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_uybannhandancaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ubnd_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_GCN"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_cap_GCN",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_cosotongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_cap_GCN",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_co_so_ton_giao"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_cap_GCN",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nvndcnn_thuc_hien_DAĐT"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_doanhnghiep",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_cap_GCN",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tcn_chuc_nang_ngoai_giao"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_covondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ubnd_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_uy_quyen"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_tochucnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_uy_quyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_co_quan_tnmt_cung_cap"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_cochucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_uy_quyen",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_cap_GCN"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_uybannhandancaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_co_quan_tnmt_cung_cap",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_GCN"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ubnd_cap_huyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_GCN"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_cap_GCN",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_cap_GCN",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_cap_GCN",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_cong_dong_dan_cu"
-    },
-    {
-      "source_id": "hanhviphaply_cap_GCN",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nvndcnn_so_huu_nha_o_tai_VN"
-    },
-    {
-      "source_id": "chuthe_co_quan_tnmt",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuc_hien_thu_tuc_lien_quan_GCN"
-    },
-    {
-      "source_id": "hanhviphaply_thuc_hien_thu_tuc_lien_quan_GCN",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truong_hop_da_cap_GCN_thuc_hien_quyen"
-    },
-    {
-      "source_id": "hanhviphaply_thuc_hien_thu_tuc_lien_quan_GCN",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_truong_hop_cap_doi_cap_lai_GCN"
-    },
-    {
-      "source_id": "hanhviphaply_thuc_hien_thu_tuc_lien_quan_GCN",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_Chinh_phu"
+      "source_id": "dieu_105_2013",
+      "target_id": "chuthe_coquantainuyenmoitruong",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

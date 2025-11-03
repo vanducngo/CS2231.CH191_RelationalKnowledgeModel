@@ -1,516 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_215",
-      "label": "ĐiềuLuật",
-      "name": "Điều 215"
+      "id": "dieu_215_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 215. Đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối",
+        "ma_dieu": "215",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 215.\n\nĐất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối\n1. Đất có mặt nước chuyên dùng là đất có mặt nước của các đối tượng thủy văn dạng ao, hồ, đầm, phá\nđã được xác định mục đích sử dụng mà không phải mục đích nuôi trồng thủy sản.\n2. Căn cứ vào mục đích sử dụng chủ yếu đã xác định, đất có mặt nước chuyên dùng và đất sông, ngòi,\nkênh, rạch, suối được quản lý, sử dụng theo quy định sau đây: about:blank\na) Nhà nước giao cho tổ chức để quản lý kết hợp sử dụng, khai thác đất có mặt nước chuyên dùng vào\nmục đích phi nông nghiệp hoặc phi nông nghiệp kết hợp với nuôi trồng, khai thác thủy sản;\nb) Nhà nước cho thuê đất sông, ngòi, kênh, rạch, suối thu tiền thuê đất hằng năm đối với tổ chức kinh\ntế, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài để\nnuôi trồng thủy sản hoặc sử dụng vào mục đích phi nông nghiệp hoặc sử dụng vào mục đích phi nông\nnghiệp kết hợp với nuôi trồng thủy sản và phải thực hiện theo quy định của pháp luật về tài nguyên\nnước;\nc) Nhà nước cho thuê đất có mặt nước là hồ thủy điện, thủy lợi để kết hợp sử dụng với mục đích phi\nnông nghiệp, nuôi trồng, khai thác thủy sản theo thẩm quyền;\nd) Nhà nước giao, cho thuê đất trong phạm vi bảo vệ và phạm vi phụ cận đập, hồ chứa nước thuộc công\ntrình thủy điện, thủy lợi cho tổ chức, cá nhân để quản lý, kết hợp sử dụng, khai thác đất có mặt nước\nkết hợp với các mục đích sử dụng đất khác theo quy định của pháp luật có liên quan và phải được cơ\nquan nhà nước có thẩm quyền cấp phép theo quy định.\n3. Việc khai thác, sử dụng đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối phải bảo\nđảm không ảnh hưởng đến mục đích sử dụng chủ yếu đã được xác định; phải tuân theo quy định về kỹ\nthuật của các ngành, lĩnh vực có liên quan và các quy định về bảo vệ cảnh quan, môi trường; không làm\ncản trở dòng chảy tự nhiên; không gây cản trở giao thông đường thủy ."
+      }
     },
     {
-      "id": "khainiem_dat_co_mat_nuoc_chuyen_dung",
-      "label": "KháiNiệm",
-      "name": "Đất có mặt nước chuyên dùng"
+      "id": "khainiem_datcomatnuocchuyendung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất có mặt nước chuyên dùng"
+      }
     },
     {
-      "id": "khainiem_dat_song_ngoi_kenh_rach_suoi",
-      "label": "KháiNiệm",
-      "name": "Đất sông, ngòi, kênh, rạch, suối"
+      "id": "khainiem_datsongngoikenhrachsuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sông, ngòi, kênh, rạch, suối"
+      }
     },
     {
-      "id": "khainiem_ao_ho_dam_pha",
-      "label": "KháiNiệm",
-      "name": "ao, hồ, đầm, phá"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khainiem_muc_dich_su_dung_da_xac_dinh",
-      "label": "KháiNiệm",
-      "name": "mục đích sử dụng đã xác định"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "khainiem_muc_dich_nuoi_trong_thuy_san",
-      "label": "KháiNiệm",
-      "name": "mục đích nuôi trồng thủy sản"
+      "id": "chuthe_tochuc_kinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     },
     {
-      "id": "khainiem_muc_dich_phi_nong_nghiep",
-      "label": "KháiNiệm",
-      "name": "mục đích phi nông nghiệp"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "khainiem_muc_dich_nuoi_trong_khai_thac_thuy_san",
-      "label": "KháiNiệm",
-      "name": "nuôi trồng, khai thác thủy sản"
+      "id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người gốc Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "khainiem_muc_dich_phi_nong_nghiep_ket_hop_nuoi_trong_thuy_san",
-      "label": "KháiNiệm",
-      "name": "mục đích phi nông nghiệp kết hợp với nuôi trồng thủy sản"
-    },
-    {
-      "id": "khainiem_ho_thuy_dien_thuy_loi",
-      "label": "KháiNiệm",
-      "name": "hồ thủy điện, thủy lợi"
-    },
-    {
-      "id": "khainiem_dat_trong_pham_vi_bao_ve_ho_chua_nuoc",
-      "label": "KháiNiệm",
-      "name": "đất trong phạm vi bảo vệ và phạm vi phụ cận đập, hồ chứa nước"
-    },
-    {
-      "id": "khainiem_cong_trinh_thuy_dien_thuy_loi",
-      "label": "KháiNiệm",
-      "name": "công trình thủy điện, thủy lợi"
-    },
-    {
-      "id": "khainiem_muc_dich_su_dung_dat_khac",
-      "label": "KháiNiệm",
-      "name": "các mục đích sử dụng đất khác"
-    },
-    {
-      "id": "khainiem_phap_luat_ve_tai_nguyen_nuoc",
-      "label": "KháiNiệm",
-      "name": "pháp luật về tài nguyên nước"
-    },
-    {
-      "id": "khainiem_quy_dinh_ky_thuat_nganh_linh_vuc",
-      "label": "KháiNiệm",
-      "name": "quy định về kỹ thuật của các ngành, lĩnh vực có liên quan"
-    },
-    {
-      "id": "khainiem_bao_ve_canh_quan_moi_truong",
-      "label": "KháiNiệm",
-      "name": "bảo vệ cảnh quan, môi trường"
-    },
-    {
-      "id": "khainiem_dong_chay_tu_nhien",
-      "label": "KháiNiệm",
-      "name": "dòng chảy tự nhiên"
-    },
-    {
-      "id": "khainiem_giao_thong_duong_thuy",
-      "label": "KháiNiệm",
-      "name": "giao thông đường thủy"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
-    },
-    {
-      "id": "chuthe_to_chuc_kinh_te",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế"
-    },
-    {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
-    },
-    {
-      "id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "người gốc Việt Nam định cư ở nước ngoài"
-    },
-    {
-      "id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế có vốn đầu tư nước ngoài"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
-    },
-    {
-      "id": "hanhviphaply_quan_ly_su_dung_dat_mat_nuoc_va_song_ngoi",
-      "label": "HànhViPhápLý",
-      "name": "quản lý, sử dụng đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối"
-    },
-    {
-      "id": "hanhviphaply_giao_dat_mat_nuoc_chuyen_dung",
-      "label": "HànhViPhápLý",
-      "name": "giao đất có mặt nước chuyên dùng"
-    },
-    {
-      "id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_chuyen_dung",
-      "label": "HànhViPhápLý",
-      "name": "quản lý kết hợp sử dụng, khai thác đất có mặt nước chuyên dùng"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất sông, ngòi, kênh, rạch, suối"
-    },
-    {
-      "id": "hanhviphaply_thu_tien_thue_dat_hang_nam",
-      "label": "HànhViPhápLý",
-      "name": "thu tiền thuê đất hằng năm"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat_ho_thuy_dien_thuy_loi",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất có mặt nước là hồ thủy điện, thủy lợi"
-    },
-    {
-      "id": "hanhviphaply_giao_cho_thue_dat_trong_pham_vi_bao_ve_ho_chua",
-      "label": "HànhViPhápLý",
-      "name": "giao, cho thuê đất trong phạm vi bảo vệ và phụ cận đập, hồ chứa nước"
-    },
-    {
-      "id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_ho_chua",
-      "label": "HànhViPhápLý",
-      "name": "quản lý, kết hợp sử dụng, khai thác đất có mặt nước (trong phạm vi bảo vệ hồ chứa)"
-    },
-    {
-      "id": "hanhviphaply_cap_phep_dat_ho_chua",
-      "label": "HànhViPhápLý",
-      "name": "cấp phép (cho việc quản lý, sử dụng đất hồ chứa)"
-    },
-    {
-      "id": "hanhviphaply_khai_thac_su_dung_dat_mat_nuoc_chuyen_dung_va_song_ngoi",
-      "label": "HànhViPhápLý",
-      "name": "khai thác, sử dụng đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối"
-    },
-    {
-      "id": "dieukien_can_cu_vao_muc_dich_su_dung_chu_yeu_da_xac_dinh",
-      "label": "ĐiềuKiện",
-      "name": "Căn cứ vào mục đích sử dụng chủ yếu đã xác định"
-    },
-    {
-      "id": "dieukien_khong_phai_muc_dich_nuoi_trong_thuy_san",
-      "label": "ĐiềuKiện",
-      "name": "không phải mục đích nuôi trồng thủy sản"
-    },
-    {
-      "id": "dieukien_phai_thuc_hien_theo_quy_dinh_phap_luat_ve_tai_nguyen_nuoc",
-      "label": "ĐiềuKiện",
-      "name": "phải thực hiện theo quy định của pháp luật về tài nguyên nước"
-    },
-    {
-      "id": "dieukien_theo_tham_quyen",
-      "label": "ĐiềuKiện",
-      "name": "theo thẩm quyền"
-    },
-    {
-      "id": "dieukien_theo_quy_dinh_phap_luat_co_lien_quan",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật có liên quan"
-    },
-    {
-      "id": "dieukien_duoc_co_quan_nha_nuoc_co_tham_quyen_cap_phep_theo_quy_dinh",
-      "label": "ĐiềuKiện",
-      "name": "phải được cơ quan nhà nước có thẩm quyền cấp phép theo quy định"
-    },
-    {
-      "id": "dieukien_bao_dam_khong_anh_huong_den_muc_dich_su_dung_chu_yeu_da_xac_dinh",
-      "label": "ĐiềuKiện",
-      "name": "phải bảo đảm không ảnh hưởng đến mục đích sử dụng chủ yếu đã được xác định"
-    },
-    {
-      "id": "dieukien_tuan_theo_quy_dinh_ky_thuat_lien_quan",
-      "label": "ĐiềuKiện",
-      "name": "phải tuân theo quy định về kỹ thuật của các ngành, lĩnh vực có liên quan"
-    },
-    {
-      "id": "dieukien_bao_ve_canh_quan_moi_truong",
-      "label": "ĐiềuKiện",
-      "name": "bảo vệ cảnh quan, môi trường"
-    },
-    {
-      "id": "dieukien_khong_lam_can_tro_dong_chay_tu_nhien",
-      "label": "ĐiềuKiện",
-      "name": "không làm cản trở dòng chảy tự nhiên"
-    },
-    {
-      "id": "dieukien_khong_gay_can_tro_giao_thong_duong_thuy",
-      "label": "ĐiềuKiện",
-      "name": "không gây cản trở giao thông đường thủy"
+      "id": "chuthe_tochuc_kinhte_covondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế có vốn đầu tư nước ngoài"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_co_mat_nuoc_chuyen_dung"
+      "source_id": "dieu_215_2024",
+      "target_id": "khainiem_datcomatnuocchuyendung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_song_ngoi_kenh_rach_suoi"
+      "source_id": "dieu_215_2024",
+      "target_id": "khainiem_datsongngoikenhrachsuoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_mat_nuoc_chuyen_dung",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_ao_ho_dam_pha"
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_mat_nuoc_chuyen_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_muc_dich_su_dung_da_xac_dinh"
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_co_mat_nuoc_chuyen_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_phai_muc_dich_nuoi_trong_thuy_san"
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_tochuc_kinhte",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_su_dung_dat_mat_nuoc_va_song_ngoi"
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quan_ly_su_dung_dat_mat_nuoc_va_song_ngoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_co_mat_nuoc_chuyen_dung"
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_nguoigocvietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_quan_ly_su_dung_dat_mat_nuoc_va_song_ngoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_song_ngoi_kenh_rach_suoi"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_su_dung_dat_mat_nuoc_va_song_ngoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_can_cu_vao_muc_dich_su_dung_chu_yeu_da_xac_dinh"
-    },
-    {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giao_dat_mat_nuoc_chuyen_dung"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_mat_nuoc_chuyen_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_mat_nuoc_chuyen_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_mat_nuoc_chuyen_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_co_mat_nuoc_chuyen_dung"
-    },
-    {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_chuyen_dung"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_chuyen_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_co_mat_nuoc_chuyen_dung"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_chuyen_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_muc_dich_phi_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_chuyen_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_muc_dich_nuoi_trong_khai_thac_thuy_san"
-    },
-    {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_song_ngoi_kenh_rach_suoi"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_o_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thu_tien_thue_dat_hang_nam"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_muc_dich_nuoi_trong_thuy_san"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_muc_dich_phi_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_muc_dich_phi_nong_nghiep_ket_hop_nuoi_trong_thuy_san"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_song_ngoi_kenh_rach_suoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phai_thuc_hien_theo_quy_dinh_phap_luat_ve_tai_nguyen_nuoc"
-    },
-    {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cho_thue_dat_ho_thuy_dien_thuy_loi"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_ho_thuy_dien_thuy_loi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_ho_thuy_dien_thuy_loi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_ho_thuy_dien_thuy_loi"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_ho_thuy_dien_thuy_loi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_muc_dich_phi_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_ho_thuy_dien_thuy_loi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_muc_dich_nuoi_trong_khai_thac_thuy_san"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat_ho_thuy_dien_thuy_loi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_tham_quyen"
-    },
-    {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giao_cho_thue_dat_trong_pham_vi_bao_ve_ho_chua"
-    },
-    {
-      "source_id": "hanhviphaply_giao_cho_thue_dat_trong_pham_vi_bao_ve_ho_chua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "hanhviphaply_giao_cho_thue_dat_trong_pham_vi_bao_ve_ho_chua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "hanhviphaply_giao_cho_thue_dat_trong_pham_vi_bao_ve_ho_chua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_giao_cho_thue_dat_trong_pham_vi_bao_ve_ho_chua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_trong_pham_vi_bao_ve_ho_chua_nuoc"
-    },
-    {
-      "source_id": "khainiem_dat_trong_pham_vi_bao_ve_ho_chua_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_cong_trinh_thuy_dien_thuy_loi"
-    },
-    {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_ho_chua"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_ho_chua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_trong_pham_vi_bao_ve_ho_chua_nuoc"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_ho_chua",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_muc_dich_su_dung_dat_khac"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_ho_chua",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theo_quy_dinh_phap_luat_co_lien_quan"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_ket_hop_su_dung_khai_thac_dat_mat_nuoc_ho_chua",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_co_quan_nha_nuoc_co_tham_quyen_cap_phep_theo_quy_dinh"
-    },
-    {
-      "source_id": "hanhviphaply_cap_phep_dat_ho_chua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
-    },
-    {
-      "source_id": "dieukien_duoc_co_quan_nha_nuoc_co_tham_quyen_cap_phep_theo_quy_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cap_phep_dat_ho_chua"
-    },
-    {
-      "source_id": "dieu_215",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_khai_thac_su_dung_dat_mat_nuoc_chuyen_dung_va_song_ngoi"
-    },
-    {
-      "source_id": "hanhviphaply_khai_thac_su_dung_dat_mat_nuoc_chuyen_dung_va_song_ngoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_co_mat_nuoc_chuyen_dung"
-    },
-    {
-      "source_id": "hanhviphaply_khai_thac_su_dung_dat_mat_nuoc_chuyen_dung_va_song_ngoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_song_ngoi_kenh_rach_suoi"
-    },
-    {
-      "source_id": "hanhviphaply_khai_thac_su_dung_dat_mat_nuoc_chuyen_dung_va_song_ngoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_dam_khong_anh_huong_den_muc_dich_su_dung_chu_yeu_da_xac_dinh"
-    },
-    {
-      "source_id": "hanhviphaply_khai_thac_su_dung_dat_mat_nuoc_chuyen_dung_va_song_ngoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuan_theo_quy_dinh_ky_thuat_lien_quan"
-    },
-    {
-      "source_id": "hanhviphaply_khai_thac_su_dung_dat_mat_nuoc_chuyen_dung_va_song_ngoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_bao_ve_canh_quan_moi_truong"
-    },
-    {
-      "source_id": "hanhviphaply_khai_thac_su_dung_dat_mat_nuoc_chuyen_dung_va_song_ngoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_lam_can_tro_dong_chay_tu_nhien"
-    },
-    {
-      "source_id": "hanhviphaply_khai_thac_su_dung_dat_mat_nuoc_chuyen_dung_va_song_ngoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_gay_can_tro_giao_thong_duong_thuy"
+      "source_id": "dieu_215_2024",
+      "target_id": "chuthe_tochuc_kinhte_covondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

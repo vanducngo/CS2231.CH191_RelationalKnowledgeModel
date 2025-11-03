@@ -1,241 +1,100 @@
 {
-  "nodes": [
+  "entities": [
     {
-      "id": "dieu_108",
-      "label": "ĐiềuLuật",
+      "id": "dieu_108_2024",
+      "label": "DieuLuat",
       "properties": {
-        "ten": "Điều 108. Hỗ trợ khi Nhà nước thu hồi đất"
+        "name": "Điều 108. Hỗ trợ khi Nhà nước thu hồi đất",
+        "ma_dieu": "108",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 108.\n\nHỗ trợ khi Nhà nước thu hồi đất\n1. Hỗ trợ khi Nhà nước thu hồi đất bao gồm:\na) Hỗ trợ ổn định đời sống;\nb) Hỗ trợ ổn định sản xuất, kinh doanh;\nc) Hỗ trợ di dời vật nuôi;\nd) Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm;\nđ) Hỗ trợ tái định cư đối với trường hợp quy định tại khoản 8 Điều 111 của Luật này ;\ne) Hỗ trợ để tháo dỡ, phá dỡ, di dời theo quy định tại khoản 3 Điều 105 của Luật này .\n2. Ngoài việc hỗ trợ quy định tại khoản 1 Điều này , căn cứ vào tình hình thực tế tại địa phương, Ủy ban\nnhân dân cấp tỉnh quyết định biện pháp, mức hỗ trợ khác để bảo đảm có chỗ ở, ổn định đời sống, sản\nxuất đối với người có đất thu hồi, chủ sở hữu tài sản cho từng dự án cụ thể.\n3. Chính phủ quy định chi tiết Điều này ."
       }
     },
     {
-      "id": "dieu_111",
-      "label": "ĐiềuLuật",
+      "id": "khainiem_hotrokhiNhannuocthuhoidat",
+      "label": "KhaiNiem",
       "properties": {
-        "ten": "Điều 111"
+        "name": "Hỗ trợ khi Nhà nước thu hồi đất"
       }
     },
     {
-      "id": "dieu_105",
-      "label": "ĐiềuLuật",
+      "id": "hanhviphaply_hotroondinhdoisong",
+      "label": "HanhViPhapLy",
       "properties": {
-        "ten": "Điều 105"
+        "name": "Hỗ trợ ổn định đời sống"
       }
     },
     {
-      "id": "khainiem_hotrokhinhannuocthuhoidat",
-      "label": "KháiNiệm",
+      "id": "hanhviphaply_hotroondinhsanxuatkinhdoanh",
+      "label": "HanhViPhapLy",
       "properties": {
-        "ten": "Hỗ trợ khi Nhà nước thu hồi đất"
+        "name": "Hỗ trợ ổn định sản xuất, kinh doanh"
       }
     },
     {
-      "id": "khainiem_hotroondoidoisong",
-      "label": "KháiNiệm",
+      "id": "hanhviphaply_hotrodidoivatnuoi",
+      "label": "HanhViPhapLy",
       "properties": {
-        "ten": "Hỗ trợ ổn định đời sống"
+        "name": "Hỗ trợ di dời vật nuôi"
       }
     },
     {
-      "id": "khainiem_hotroondinhsanxuatkinhdoanh",
-      "label": "KháiNiệm",
+      "id": "hanhviphaply_hotrodaotaochuyendoingevatimkiemvieclam",
+      "label": "HanhViPhapLy",
       "properties": {
-        "ten": "Hỗ trợ ổn định sản xuất, kinh doanh"
+        "name": "Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm"
       }
     },
     {
-      "id": "khainiem_hotrodidoivatnuoi",
-      "label": "KháiNiệm",
+      "id": "hanhviphaply_hotrotaidinhcu",
+      "label": "HanhViPhapLy",
       "properties": {
-        "ten": "Hỗ trợ di dời vật nuôi"
+        "name": "Hỗ trợ tái định cư"
       }
     },
     {
-      "id": "khainiem_hotrodaotaochuyennoinghetimkiemvieclam",
-      "label": "KháiNiệm",
+      "id": "hanhviphaply_hotrothaodoPhadoDoidoi",
+      "label": "HanhViPhapLy",
       "properties": {
-        "ten": "Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm"
-      }
-    },
-    {
-      "id": "khainiem_hotrotaidinhcu",
-      "label": "KháiNiệm",
-      "properties": {
-        "ten": "Hỗ trợ tái định cư"
-      }
-    },
-    {
-      "id": "khainiem_hotrodethaodophadodidoi",
-      "label": "KháiNiệm",
-      "properties": {
-        "ten": "Hỗ trợ để tháo dỡ, phá dỡ, di dời"
-      }
-    },
-    {
-      "id": "khainiem_bienphapmuchotrokhac",
-      "label": "KháiNiệm",
-      "properties": {
-        "ten": "Biện pháp, mức hỗ trợ khác"
-      }
-    },
-    {
-      "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "properties": {
-        "ten": "Nhà nước"
-      }
-    },
-    {
-      "id": "chuthe_uybannhandancaptinh",
-      "label": "ChủThể",
-      "properties": {
-        "ten": "Ủy ban nhân dân cấp tỉnh"
-      }
-    },
-    {
-      "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "properties": {
-        "ten": "Chính phủ"
-      }
-    },
-    {
-      "id": "chuthe_nguoicodatthuhoi",
-      "label": "ChủThể",
-      "properties": {
-        "ten": "Người có đất thu hồi"
-      }
-    },
-    {
-      "id": "chuthe_chusohuutaisan",
-      "label": "ChủThể",
-      "properties": {
-        "ten": "Chủ sở hữu tài sản"
-      }
-    },
-    {
-      "id": "hanhvi_thuahoidat",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "ten": "Thu hồi đất"
-      }
-    },
-    {
-      "id": "hanhvi_quyetdinhbienphapmuchotrokhac",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "ten": "Quyết định biện pháp, mức hỗ trợ khác"
-      }
-    },
-    {
-      "id": "hanhvi_quydinhchitiet",
-      "label": "HànhViPhápLý",
-      "properties": {
-        "ten": "Quy định chi tiết"
-      }
-    },
-    {
-      "id": "dieukien_tinhhinhthuctetaidiaphuong",
-      "label": "ĐiềuKiện",
-      "properties": {
-        "ten": "Tình hình thực tế tại địa phương"
+        "name": "Hỗ trợ để tháo dỡ, phá dỡ, di dời"
       }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_108",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_hotrokhinhannuocthuhoidat"
+      "source_id": "dieu_108_2024",
+      "target_id": "khainiem_hotrokhiNhannuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thuahoidat"
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotroondinhdoisong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_thuahoidat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_hotrokhinhannuocthuhoidat"
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotroondinhsanxuatkinhdoanh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_hotrokhinhannuocthuhoidat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicodatthuhoi"
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotrodidoivatnuoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_108",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hotroondoidoisong"
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotrodaotaochuyendoingevatimkiemvieclam",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_108",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hotroondinhsanxuatkinhdoanh"
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotrotaidinhcu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_108",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hotrodidoivatnuoi"
-    },
-    {
-      "source_id": "dieu_108",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hotrodaotaochuyennoinghetimkiemvieclam"
-    },
-    {
-      "source_id": "dieu_108",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hotrotaidinhcu"
-    },
-    {
-      "source_id": "dieu_111",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hotrotaidinhcu"
-    },
-    {
-      "source_id": "dieu_108",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hotrodethaodophadodidoi"
-    },
-    {
-      "source_id": "dieu_105",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_hotrodethaodophadodidoi"
-    },
-    {
-      "source_id": "dieu_108",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_bienphapmuchotrokhac"
-    },
-    {
-      "source_id": "chuthe_uybannhandancaptinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_quyetdinhbienphapmuchotrokhac"
-    },
-    {
-      "source_id": "hanhvi_quyetdinhbienphapmuchotrokhac",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tinhhinhthuctetaidiaphuong"
-    },
-    {
-      "source_id": "hanhvi_quyetdinhbienphapmuchotrokhac",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoicodatthuhoi"
-    },
-    {
-      "source_id": "hanhvi_quyetdinhbienphapmuchotrokhac",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chusohuutaisan"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_quydinhchitiet"
-    },
-    {
-      "source_id": "hanhvi_quydinhchitiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_108"
+      "source_id": "dieu_108_2024",
+      "target_id": "hanhviphaply_hotrothaodoPhadoDoidoi",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,151 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_52",
-      "label": "ĐiềuLuật",
-      "name": "Điều 52"
+      "id": "dieu_52_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 52. Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất",
+        "ma_dieu": "52",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 52.\n\nCăn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n1. Kế hoạch sử dụng đất hàng năm của cấp huyện đã được cơ quan nhà nước có thẩm quyền phê duyệt.\n2. Nhu cầu sử dụng đất thể hiện trong dự án đầu tư, đơn xin giao đất, thuê đất, chuyển mục đích sử\ndụng đất."
+      }
     },
     {
-      "id": "hanhviphaply_giaodat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
+      "id": "khainiem_kehoachsudungdathangnam",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kế hoạch sử dụng đất hàng năm"
+      }
     },
     {
-      "id": "hanhviphaply_chothuedat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
+      "id": "khainiem_giaodat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "giao đất"
+      }
     },
     {
-      "id": "hanhviphaply_chuyenmucdichsudungdat",
-      "label": "HànhViPhápLý",
-      "name": "cho phép chuyển mục đích sử dụng đất"
+      "id": "khainiem_chothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cho thuê đất"
+      }
     },
     {
-      "id": "dieukien_kehoachsudungdat_pheduyet",
-      "label": "ĐiềuKiện",
-      "name": "Kế hoạch sử dụng đất hàng năm của cấp huyện đã được cơ quan nhà nước có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "dieukien_nhucausudungdat_thedien",
-      "label": "ĐiềuKiện",
-      "name": "Nhu cầu sử dụng đất thể hiện trong dự án đầu tư, đơn xin giao đất, thuê đất, chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "khainiem_kehoachsudungdat_hangnam_caphuyen",
-      "label": "KháiNiệm",
-      "name": "Kế hoạch sử dụng đất hàng năm của cấp huyện"
-    },
-    {
-      "id": "chuthe_coquannhanuoccothamquyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
+      "id": "khainiem_chuyenmucdichsudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển mục đích sử dụng đất"
+      }
     },
     {
       "id": "khainiem_nhucausudungdat",
-      "label": "KháiNiệm",
-      "name": "Nhu cầu sử dụng đất"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhu cầu sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_duan_dautu",
-      "label": "KháiNiệm",
-      "name": "dự án đầu tư"
+      "id": "khainiem_dautu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "dự án đầu tư"
+      }
     },
     {
-      "id": "khainiem_don_xin_giaodat",
-      "label": "KháiNiệm",
-      "name": "đơn xin giao đất"
+      "id": "khainiem_dongiiaodat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đơn xin giao đất"
+      }
     },
     {
-      "id": "khainiem_don_xin_thuedat",
-      "label": "KháiNiệm",
-      "name": "đơn xin thuê đất"
-    },
-    {
-      "id": "khainiem_don_xin_chuyenmucdichsudungdat",
-      "label": "KháiNiệm",
-      "name": "đơn xin chuyển mục đích sử dụng đất"
+      "id": "khainiem_donthuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đơn thuê đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_52",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaodat"
+      "source_id": "dieu_52_2013",
+      "target_id": "khainiem_kehoachsudungdathangnam",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_52",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chothuedat"
+      "source_id": "dieu_52_2013",
+      "target_id": "khainiem_giaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_52",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyenmucdichsudungdat"
+      "source_id": "dieu_52_2013",
+      "target_id": "khainiem_chothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_kehoachsudungdat_pheduyet"
+      "source_id": "dieu_52_2013",
+      "target_id": "khainiem_chuyenmucdichsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nhucausudungdat_thedien"
+      "source_id": "dieu_52_2013",
+      "target_id": "khainiem_nhucausudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_kehoachsudungdat_pheduyet"
+      "source_id": "dieu_52_2013",
+      "target_id": "khainiem_dautu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nhucausudungdat_thedien"
+      "source_id": "dieu_52_2013",
+      "target_id": "khainiem_dongiiaodat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_kehoachsudungdat_pheduyet"
-    },
-    {
-      "source_id": "hanhviphaply_chuyenmucdichsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nhucausudungdat_thedien"
-    },
-    {
-      "source_id": "dieukien_kehoachsudungdat_pheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_kehoachsudungdat_hangnam_caphuyen"
-    },
-    {
-      "source_id": "dieukien_kehoachsudungdat_pheduyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_coquannhanuoccothamquyen"
-    },
-    {
-      "source_id": "dieukien_nhucausudungdat_thedien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_nhucausudungdat"
-    },
-    {
-      "source_id": "dieukien_nhucausudungdat_thedien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_duan_dautu"
-    },
-    {
-      "source_id": "dieukien_nhucausudungdat_thedien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_don_xin_giaodat"
-    },
-    {
-      "source_id": "dieukien_nhucausudungdat_thedien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_don_xin_thuedat"
-    },
-    {
-      "source_id": "dieukien_nhucausudungdat_thedien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_don_xin_chuyenmucdichsudungdat"
+      "source_id": "dieu_52_2013",
+      "target_id": "khainiem_donthuedat",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

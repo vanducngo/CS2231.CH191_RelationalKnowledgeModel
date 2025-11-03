@@ -1,411 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_86",
-      "label": "ĐiềuLuật",
-      "name": "Điều 86"
+      "id": "dieu_86_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 86. Cơ quan, đơn vị, tổ chức có trách nhiệm thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư; quản lý, khai thác, sử dụng quỹ đất đã thu hồi",
+        "ma_dieu": "86",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 86.\n\nCơ quan, đơn vị, tổ chức có trách nhiệm thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định\ncư; quản lý, khai thác, sử dụng quỹ đất đã thu hồi\n1. Ủy ban nhân dân cấp huyện có trách nhiệm chỉ đạo và tổ chức thực hiện nhiệm vụ bồi thường, hỗ\ntrợ, tái định cư theo quy định của Luật này .\n2. Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư bao gồm một hoặc các đơn vị, tổ\nchức sau đây:\na) Tổ chức phát triển quỹ đất;\nb) Đơn vị, tổ chức khác có chức năng thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư;\nc) Hội đồng bồi thường, hỗ trợ, tái định cư.\nHội đồng bồi thường, hỗ trợ, tái định cư do Chủ tịch Ủy ban nhân dân cấp huyện quyết định thành lập\nđối với từng dự án, bao gồm: Chủ tịch hoặc Phó Chủ tịch Ủy ban nhân dân cấp huyện làm Chủ tịch; đại\ndiện cơ quan tài chính, cơ quan có chức năng quản lý đất đai, Ủy ban nhân dân cấp xã nơi có đất thu\nhồi; đại diện của người sử dụng đất có đất thu hồi; một số thành viên khác do Chủ tịch Ủy ban nhân\ndân cấp huyện quyết định cho phù hợp với thực tế ở địa phương. Đại diện Hội đồng nhân dân, Ủy ban\nMặt trận Tổ quốc Việt Nam cấp huyện và đại diện các tổ chức chính trị - xã hội khác được mời tham dự\nhọp Hội đồng bồi thường, hỗ trợ, tái định cư để giám sát.\n3. Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư phối hợp với Ủy ban nhân dân\ncấp huyện thực hiện công tác bồi thường, hỗ trợ, tái định cư theo chức trách, nhiệm vụ được giao.\n4. Chủ tịch Ủy ban nhân dân cấp tỉnh chỉ đạo, theo dõi việc tổ chức thực hiện công tác bồi thường, hỗ\ntrợ, tái định cư của Ủy ban nhân dân cấp huyện; kịp thời tháo gỡ khó khăn không thuộc thẩm quyền của\ncấp huyện.\n5. Đất đã thu hồi theo quy định tại  Điều 78 và Điều 79 của Luật này  mà chưa giao, chưa cho thuê sử\ndụng tại khu vực đô thị thì giao cho tổ chức phát triển quỹ đất quản lý, khai thác, sử dụng; tại khu vực\nnông thôn thì giao cho Ủy ban nhân dân cấp xã quản lý."
+      }
     },
     {
-      "id": "khainiem_nhiem_vu_boi_thuong_ho_tro_tai_dinh_cư",
-      "label": "KháiNiệm",
-      "name": "nhiệm vụ bồi thường, hỗ trợ, tái định cư"
+      "id": "chuthe_coquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan"
+      }
     },
     {
-      "id": "khainiem_quan_ly_khai_thac_su_dung_quy_dat_da_thu_hoi",
-      "label": "KháiNiệm",
-      "name": "quản lý, khai thác, sử dụng quỹ đất đã thu hồi"
+      "id": "chuthe_donvi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Đơn vị"
+      }
     },
     {
-      "id": "chuthe_co_quan_don_vi_to_chuc",
-      "label": "ChủThể",
-      "name": "Cơ quan, đơn vị, tổ chức"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp huyện"
+      "id": "chuthe_ubndcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp huyện"
+      }
     },
     {
-      "id": "hanhviphaply_chi_dao_to_chuc_thuc_hien_nhiem_vu_btt_ht_tdc",
-      "label": "HànhViPhápLý",
-      "name": "chỉ đạo và tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư"
+      "id": "chuthe_tochucphattrienquydat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức phát triển quỹ đất"
+      }
     },
     {
-      "id": "chuthe_don_vi_to_chuc_thuc_hien_nhiem_vu_btt_ht_tdc",
-      "label": "ChủThể",
-      "name": "Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư"
+      "id": "chuthe_hoidongboithuonghotrotaidinhcu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hội đồng bồi thường, hỗ trợ, tái định cư"
+      }
     },
     {
-      "id": "chuthe_to_chuc_phat_trien_quy_dat",
-      "label": "ChủThể",
-      "name": "Tổ chức phát triển quỹ đất"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "chuthe_don_vi_to_chuc_khac_co_chuc_nang_thuc_hien_nhiem_vu_btt_ht_tdc",
-      "label": "ChủThể",
-      "name": "Đơn vị, tổ chức khác có chức năng thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư",
-      "label": "ChủThể",
-      "name": "Hội đồng bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Chủ tịch Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "hanhviphaply_quyet_dinh_thanh_lap",
-      "label": "HànhViPhápLý",
-      "name": "quyết định thành lập"
-    },
-    {
-      "id": "dieu_kien_doi_voi_tung_du_an",
-      "label": "ĐiềuKiện",
-      "name": "đối với từng dự án"
-    },
-    {
-      "id": "chuthe_chu_tich_hoac_pho_chu_tich_uy_ban_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Chủ tịch hoặc Phó Chủ tịch Ủy ban nhân dân cấp huyện"
-    },
-    {
-      "id": "chuthe_dai_dien_co_quan_tai_chinh",
-      "label": "ChủThể",
-      "name": "đại diện cơ quan tài chính"
-    },
-    {
-      "id": "chuthe_dai_dien_co_quan_co_chuc_nang_quan_ly_dat_dai",
-      "label": "ChủThể",
-      "name": "cơ quan có chức năng quản lý đất đai"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_xa_noi_co_dat_thu_hoi",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã nơi có đất thu hồi"
-    },
-    {
-      "id": "chuthe_dai_dien_nguoi_su_dung_dat_co_dat_thu_hoi",
-      "label": "ChủThể",
-      "name": "đại diện của người sử dụng đất có đất thu hồi"
-    },
-    {
-      "id": "chuthe_mot_so_thanh_vien_khac",
-      "label": "ChủThể",
-      "name": "một số thành viên khác"
-    },
-    {
-      "id": "dieu_kien_phu_hop_voi_thuc_te_o_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với thực tế ở địa phương"
-    },
-    {
-      "id": "chuthe_dai_dien_hoi_dong_nhan_dan_cap_huyen",
-      "label": "ChủThể",
-      "name": "Đại diện Hội đồng nhân dân cấp huyện"
-    },
-    {
-      "id": "chuthe_dai_dien_uy_ban_mat_tran_to_quoc_viet_nam_cap_huyen",
-      "label": "ChủThể",
-      "name": "Đại diện Ủy ban Mặt trận Tổ quốc Việt Nam cấp huyện"
-    },
-    {
-      "id": "chuthe_dai_dien_cac_to_chuc_chinh_tri_xa_hoi_khac",
-      "label": "ChủThể",
-      "name": "đại diện các tổ chức chính trị - xã hội khác"
-    },
-    {
-      "id": "hanhviphaply_tham_du_hop_hd_btt_ht_tdc_giam_sat",
-      "label": "HànhViPhápLý",
-      "name": "tham dự họp Hội đồng bồi thường, hỗ trợ, tái định cư để giám sát"
-    },
-    {
-      "id": "hanhviphaply_phoi_hop_thuc_hien_cong_tac_btt_ht_tdc",
-      "label": "HànhViPhápLý",
-      "name": "phối hợp thực hiện công tác bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "khainiem_cong_tac_boi_thuong_ho_tro_tai_dinh_cư",
-      "label": "KháiNiệm",
-      "name": "công tác bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "dieu_kien_theo_chuc_trach_nhiem_vu_duoc_giao",
-      "label": "ĐiềuKiện",
-      "name": "theo chức trách, nhiệm vụ được giao"
-    },
-    {
-      "id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Chủ tịch Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "hanhviphaply_chi_dao_theo_doi_thuc_hien_cong_tac_btt_ht_tdc",
-      "label": "HànhViPhápLý",
-      "name": "chỉ đạo, theo dõi việc tổ chức thực hiện công tác bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "hanhviphaply_thao_go_kho_khan_khong_thuoc_tham_quyen_cap_huyen",
-      "label": "HànhViPhápLý",
-      "name": "kịp thời tháo gỡ khó khăn không thuộc thẩm quyền của cấp huyện"
-    },
-    {
-      "id": "khainiem_dat_da_thu_hoi",
-      "label": "KháiNiệm",
-      "name": "Đất đã thu hồi"
-    },
-    {
-      "id": "dieu_kien_theo_dieu_78_79_luat_nay",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định tại Điều 78 và Điều 79 của Luật này"
-    },
-    {
-      "id": "dieu_kien_chua_giao_chua_cho_thue_su_dung",
-      "label": "ĐiềuKiện",
-      "name": "chưa giao, chưa cho thuê sử dụng"
-    },
-    {
-      "id": "dieu_kien_tai_khu_vuc_do_thi",
-      "label": "ĐiềuKiện",
-      "name": "tại khu vực đô thị"
-    },
-    {
-      "id": "dieu_kien_tai_khu_vuc_nong_thon",
-      "label": "ĐiềuKiện",
-      "name": "tại khu vực nông thôn"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
-    },
-    {
-      "id": "hanhviphaply_quan_ly_khai_thac_su_dung",
-      "label": "HànhViPhápLý",
-      "name": "quản lý, khai thác, sử dụng"
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_86",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nhiem_vu_boi_thuong_ho_tro_tai_dinh_cư"
+      "source_id": "dieu_86_2024",
+      "target_id": "chuthe_coquan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_86",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quan_ly_khai_thac_su_dung_quy_dat_da_thu_hoi"
+      "source_id": "dieu_86_2024",
+      "target_id": "chuthe_donvi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_86",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_co_quan_don_vi_to_chuc"
+      "source_id": "dieu_86_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_86",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
+      "source_id": "dieu_86_2024",
+      "target_id": "chuthe_ubndcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chi_dao_to_chuc_thuc_hien_nhiem_vu_btt_ht_tdc"
+      "source_id": "dieu_86_2024",
+      "target_id": "chuthe_tochucphattrienquydat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chi_dao_to_chuc_thuc_hien_nhiem_vu_btt_ht_tdc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_nhiem_vu_boi_thuong_ho_tro_tai_dinh_cư"
+      "source_id": "dieu_86_2024",
+      "target_id": "chuthe_hoidongboithuonghotrotaidinhcu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_86",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_don_vi_to_chuc_thuc_hien_nhiem_vu_btt_ht_tdc"
+      "source_id": "dieu_86_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_don_vi_to_chuc_thuc_hien_nhiem_vu_btt_ht_tdc",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_to_chuc_phat_trien_quy_dat"
-    },
-    {
-      "source_id": "chuthe_don_vi_to_chuc_thuc_hien_nhiem_vu_btt_ht_tdc",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_don_vi_to_chuc_khac_co_chuc_nang_thuc_hien_nhiem_vu_btt_ht_tdc"
-    },
-    {
-      "source_id": "chuthe_don_vi_to_chuc_thuc_hien_nhiem_vu_btt_ht_tdc",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư"
-    },
-    {
-      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quyet_dinh_thanh_lap"
-    },
-    {
-      "source_id": "hanhviphaply_quyet_dinh_thanh_lap",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư"
-    },
-    {
-      "source_id": "hanhviphaply_quyet_dinh_thanh_lap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_doi_voi_tung_du_an"
-    },
-    {
-      "source_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_chu_tich_hoac_pho_chu_tich_uy_ban_nhan_dan_cap_huyen"
-    },
-    {
-      "source_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_dai_dien_co_quan_tai_chinh"
-    },
-    {
-      "source_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_dai_dien_co_quan_co_chuc_nang_quan_ly_dat_dai"
-    },
-    {
-      "source_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa_noi_co_dat_thu_hoi"
-    },
-    {
-      "source_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_dai_dien_nguoi_su_dung_dat_co_dat_thu_hoi"
-    },
-    {
-      "source_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_mot_so_thanh_vien_khac"
-    },
-    {
-      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_mot_so_thanh_vien_khac"
-    },
-    {
-      "source_id": "hanhviphaply_quyet_dinh_thanh_lap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_phu_hop_voi_thuc_te_o_dia_phuong"
-    },
-    {
-      "source_id": "chuthe_dai_dien_hoi_dong_nhan_dan_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tham_du_hop_hd_btt_ht_tdc_giam_sat"
-    },
-    {
-      "source_id": "chuthe_dai_dien_uy_ban_mat_tran_to_quoc_viet_nam_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tham_du_hop_hd_btt_ht_tdc_giam_sat"
-    },
-    {
-      "source_id": "chuthe_dai_dien_cac_to_chuc_chinh_tri_xa_hoi_khac",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tham_du_hop_hd_btt_ht_tdc_giam_sat"
-    },
-    {
-      "source_id": "hanhviphaply_tham_du_hop_hd_btt_ht_tdc_giam_sat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hoi_dong_boi_thuong_ho_tro_tai_dinh_cư"
-    },
-    {
-      "source_id": "dieu_86",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_phoi_hop_thuc_hien_cong_tac_btt_ht_tdc"
-    },
-    {
-      "source_id": "chuthe_don_vi_to_chuc_thuc_hien_nhiem_vu_btt_ht_tdc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_phoi_hop_thuc_hien_cong_tac_btt_ht_tdc"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_huyen",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_phoi_hop_thuc_hien_cong_tac_btt_ht_tdc"
-    },
-    {
-      "source_id": "hanhviphaply_phoi_hop_thuc_hien_cong_tac_btt_ht_tdc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_cong_tac_boi_thuong_ho_tro_tai_dinh_cư"
-    },
-    {
-      "source_id": "hanhviphaply_phoi_hop_thuc_hien_cong_tac_btt_ht_tdc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_theo_chuc_trach_nhiem_vu_duoc_giao"
-    },
-    {
-      "source_id": "dieu_86",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_chi_dao_theo_doi_thuc_hien_cong_tac_btt_ht_tdc"
-    },
-    {
-      "source_id": "hanhviphaply_chi_dao_theo_doi_thuc_hien_cong_tac_btt_ht_tdc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_cong_tac_boi_thuong_ho_tro_tai_dinh_cư"
-    },
-    {
-      "source_id": "hanhviphaply_chi_dao_theo_doi_thuc_hien_cong_tac_btt_ht_tdc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_huyen"
-    },
-    {
-      "source_id": "chuthe_chu_tich_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thao_go_kho_khan_khong_thuoc_tham_quyen_cap_huyen"
-    },
-    {
-      "source_id": "dieu_86",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_da_thu_hoi"
-    },
-    {
-      "source_id": "khainiem_dat_da_thu_hoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_theo_dieu_78_79_luat_nay"
-    },
-    {
-      "source_id": "khainiem_dat_da_thu_hoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_chua_giao_chua_cho_thue_su_dung"
-    },
-    {
-      "source_id": "khainiem_dat_da_thu_hoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_tai_khu_vuc_do_thi"
-    },
-    {
-      "source_id": "chuthe_to_chuc_phat_trien_quy_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quan_ly_khai_thac_su_dung"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_khai_thac_su_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_da_thu_hoi"
-    },
-    {
-      "source_id": "khainiem_dat_da_thu_hoi",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_tai_khu_vuc_nong_thon"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quan_ly_khai_thac_su_dung"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_khai_thac_su_dung",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_da_thu_hoi"
+      "source_id": "dieu_86_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,106 +1,100 @@
 {
   "entities": [
     {
-      "id": "dieu_123",
-      "label": "ĐiềuLuật",
-      "name": "Điều 123"
+      "id": "dieu_123_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 123",
+        "ma_dieu": "123",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 123.\n\nDịch vụ công điện tử tr ong lĩnh vực đất đai\n1. Các dịch vụ công điện tử được thực hiện gồm đăng ký đất đai, tài sản gắn liền với đất; thực hiện các\ngiao dịch về đất đai và tài sản gắn liền với đất; cung cấp thông tin, dữ liệu về đất đai.\n2. Cơ quan quản lý đất đai có trách nhiệm thực hiện các dịch vụ công quy định tại khoản 1 Điều này;\ncung cấp các dịch vụ thuận tiện, đơn giản, an toàn cho tổ chức và cá nhân trên môi trường mạng."
+      }
     },
     {
-      "id": "khaikiem_dich_vu_cong_dien_tu_trong_linh_vuc_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Dịch vụ công điện tử trong lĩnh vực đất đai"
+      "id": "khainiem_dichvucongdientu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dịch vụ công điện tử"
+      }
     },
     {
-      "id": "hanhviphaply_dang_ky_dat_dai_tai_san_gan_lien_voi_dat",
-      "label": "HànhViPhápLý",
-      "name": "đăng ký đất đai, tài sản gắn liền với đất"
+      "id": "hanhviphaply_dangkydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "đăng ký đất đai"
+      }
     },
     {
-      "id": "hanhviphaply_thuc_hien_cac_giao_dich_ve_dat_dai_va_tai_san_gan_lien_voi_dat",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện các giao dịch về đất đai và tài sản gắn liền với đất"
+      "id": "hanhviphaply_giaodichdatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thực hiện các giao dịch về đất đai và tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "hanhviphaply_cung_cap_thong_tin_du_lieu_ve_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "cung cấp thông tin, dữ liệu về đất đai"
+      "id": "hanhviphaply_cungcapthongtindatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "cung cấp thông tin, dữ liệu về đất đai"
+      }
     },
     {
-      "id": "chuthe_co_quan_quan_ly_dat_dai",
-      "label": "ChủThể",
-      "name": "Cơ quan quản lý đất đai"
+      "id": "chuthe_coquanquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan quản lý đất đai"
+      }
     },
     {
-      "id": "hanhviphaply_cung_cap_cac_dich_vu_thuan_tien_don_gian_an_toan",
-      "label": "HànhViPhápLý",
-      "name": "cung cấp các dịch vụ thuận tiện, đơn giản, an toàn"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
     },
     {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
-    },
-    {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
-    },
-    {
-      "id": "diekien_tren_moi_truong_mang",
-      "label": "ĐiềuKiện",
-      "name": "trên môi trường mạng"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_123",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_dich_vu_cong_dien_tu_trong_linh_vuc_dat_dai"
+      "source_id": "dieu_123_2013",
+      "target_id": "khainiem_dichvucongdientu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dich_vu_cong_dien_tu_trong_linh_vuc_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_dang_ky_dat_dai_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_123_2013",
+      "target_id": "hanhviphaply_dangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dich_vu_cong_dien_tu_trong_linh_vuc_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_thuc_hien_cac_giao_dich_ve_dat_dai_va_tai_san_gan_lien_voi_dat"
+      "source_id": "dieu_123_2013",
+      "target_id": "hanhviphaply_giaodichdatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_dich_vu_cong_dien_tu_trong_linh_vuc_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhviphaply_cung_cap_thong_tin_du_lieu_ve_dat_dai"
+      "source_id": "dieu_123_2013",
+      "target_id": "hanhviphaply_cungcapthongtindatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_123",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_co_quan_quan_ly_dat_dai"
+      "source_id": "dieu_123_2013",
+      "target_id": "chuthe_coquanquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_co_quan_quan_ly_dat_dai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_dich_vu_cong_dien_tu_trong_linh_vuc_dat_dai"
+      "source_id": "dieu_123_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "chuthe_co_quan_quan_ly_dat_dai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cung_cap_cac_dich_vu_thuan_tien_don_gian_an_toan"
-    },
-    {
-      "source_id": "hanhviphaply_cung_cap_cac_dich_vu_thuan_tien_don_gian_an_toan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "hanhviphaply_cung_cap_cac_dich_vu_thuan_tien_don_gian_an_toan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_cung_cap_cac_dich_vu_thuan_tien_don_gian_an_toan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "diekien_tren_moi_truong_mang"
+      "source_id": "dieu_123_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
     }
   ]
 }

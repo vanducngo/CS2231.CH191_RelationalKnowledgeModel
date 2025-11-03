@@ -1,236 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_68",
-      "label": "ĐiềuLuật",
-      "name": "Điều 68"
+      "id": "dieu_68_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh",
+        "ma_dieu": "68",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 68.\n\nQuy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh\n1. Quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh là quy hoạch ngành quốc gia.\n2. Căn cứ lập quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh bao gồm các căn cứ\ntheo quy định của pháp luật về quy hoạch và các căn cứ sau đây: about:blank\na) Quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia;\nb) Điều kiện tự nhiên, kinh tế, xã hội của quốc gia;\nc) Hiện trạng sử dụng đất và kết quả thực hiện quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng\nđất an ninh thời kỳ trước;\nd) Nhu cầu, khả năng sử dụng đất quốc phòng, an ninh.\n3. Nội dung quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh thực hiện theo quy định\ncủa pháp luật về quy hoạch.\n4. Bộ Quốc phòng, Bộ Công an chủ trì, phối hợp với Ủy ban nhân dân cấp tỉnh trong quá trình lập quy\nhoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh bảo đảm phù hợp với yêu cầu phát triển\nkinh tế - xã hội, củng cố quốc phòng, an ninh; rà soát, xác định vị trí, diện tích, ranh giới đất sử dụng\nvào mục đích quốc phòng, an ninh; xác định vị trí, diện tích, ranh giới đất quốc phòng, an ninh không\ncòn nhu cầu sử dụng để bàn giao cho địa phương quản lý, sử dụng."
+      }
     },
     {
-      "id": "khainiem_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh"
+      "id": "khainiem_quydinhsudungdatquocphong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất quốc phòng"
+      }
     },
     {
-      "id": "khainiem_quy_hoach_nganh_quoc_gia",
-      "label": "KháiNiệm",
-      "name": "Quy hoạch ngành quốc gia"
+      "id": "khainiem_quydinhsudungdatanninh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch sử dụng đất an ninh"
+      }
     },
     {
-      "id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "label": "HànhViPhápLý",
-      "name": "Lập quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh"
+      "id": "chuthe_boquocphong",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Quốc phòng"
+      }
     },
     {
-      "id": "dieukien_quy_dinh_phap_luat_ve_quy_hoach",
-      "label": "ĐiềuKiện",
-      "name": "Quy định của pháp luật về quy hoạch"
+      "id": "chuthe_bocongan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Công an"
+      }
     },
     {
-      "id": "dieukien_quy_hoach_tong_the_quoc_gia",
-      "label": "ĐiềuKiện",
-      "name": "Quy hoạch tổng thể quốc gia"
-    },
-    {
-      "id": "dieukien_quy_hoach_khong_gian_bien_quoc_gia",
-      "label": "ĐiềuKiện",
-      "name": "Quy hoạch không gian biển quốc gia"
-    },
-    {
-      "id": "dieukien_quy_hoach_su_dung_dat_quoc_gia",
-      "label": "ĐiềuKiện",
-      "name": "Quy hoạch sử dụng đất quốc gia"
-    },
-    {
-      "id": "dieukien_dieu_kien_tu_nhien_kinh_te_xa_hoi_quoc_gia",
-      "label": "ĐiềuKiện",
-      "name": "Điều kiện tự nhiên, kinh tế, xã hội của quốc gia"
-    },
-    {
-      "id": "dieukien_hien_trang_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Hiện trạng sử dụng đất"
-    },
-    {
-      "id": "dieukien_ket_qua_thuc_hien_quy_hoach_sd_dat_qp_an_ky_truoc",
-      "label": "ĐiềuKiện",
-      "name": "Kết quả thực hiện quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh thời kỳ trước"
-    },
-    {
-      "id": "dieukien_nhu_cau_su_dung_dat_qp_an",
-      "label": "ĐiềuKiện",
-      "name": "Nhu cầu sử dụng đất quốc phòng, an ninh"
-    },
-    {
-      "id": "dieukien_kha_nang_su_dung_dat_qp_an",
-      "label": "ĐiềuKiện",
-      "name": "Khả năng sử dụng đất quốc phòng, an ninh"
-    },
-    {
-      "id": "khainiem_noi_dung_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "label": "KháiNiệm",
-      "name": "Nội dung quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh"
-    },
-    {
-      "id": "chuthe_bo_quoc_phong",
-      "label": "ChủThể",
-      "name": "Bộ Quốc phòng"
-    },
-    {
-      "id": "chuthe_bo_cong_an",
-      "label": "ChủThể",
-      "name": "Bộ Công an"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "khainiem_yeu_cau_phat_trien_kinh_te_xa_hoi",
-      "label": "KháiNiệm",
-      "name": "Yêu cầu phát triển kinh tế - xã hội"
-    },
-    {
-      "id": "khainiem_cung_co_quoc_phong_an_ninh",
-      "label": "KháiNiệm",
-      "name": "Củng cố quốc phòng, an ninh"
-    },
-    {
-      "id": "hanhviphaply_ra_soat_xac_dinh_dat_quoc_phong_an_ninh",
-      "label": "HànhViPhápLý",
-      "name": "Rà soát, xác định vị trí, diện tích, ranh giới đất sử dụng vào mục đích quốc phòng, an ninh"
-    },
-    {
-      "id": "hanhviphaply_xac_dinh_dat_qp_an_khong_con_nhu_cau",
-      "label": "HànhViPhápLý",
-      "name": "Xác định vị trí, diện tích, ranh giới đất quốc phòng, an ninh không còn nhu cầu sử dụng"
-    },
-    {
-      "id": "hanhviphaply_ban_giao_dat_qp_an_khong_con_nhu_cau",
-      "label": "HànhViPhápLý",
-      "name": "Bàn giao đất quốc phòng, an ninh không còn nhu cầu sử dụng"
-    },
-    {
-      "id": "chuthe_dia_phuong",
-      "label": "ChủThể",
-      "name": "Địa phương"
+      "id": "chuthe_ubndcapptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_68",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quy_hoach_su_dung_dat_quoc_phong_an_ninh"
+      "source_id": "dieu_68_2024",
+      "target_id": "khainiem_quydinhsudungdatquocphong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_quy_hoach_nganh_quoc_gia"
+      "source_id": "dieu_68_2024",
+      "target_id": "khainiem_quydinhsudungdatanninh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quy_dinh_phap_luat_ve_quy_hoach"
+      "source_id": "dieu_68_2024",
+      "target_id": "chuthe_boquocphong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quy_hoach_tong_the_quoc_gia"
+      "source_id": "dieu_68_2024",
+      "target_id": "chuthe_bocongan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quy_hoach_khong_gian_bien_quoc_gia"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quy_hoach_su_dung_dat_quoc_gia"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dieu_kien_tu_nhien_kinh_te_xa_hoi_quoc_gia"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hien_trang_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ket_qua_thuc_hien_quy_hoach_sd_dat_qp_an_ky_truoc"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nhu_cau_su_dung_dat_qp_an"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_kha_nang_su_dung_dat_qp_an"
-    },
-    {
-      "source_id": "khainiem_noi_dung_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_quy_dinh_phap_luat_ve_quy_hoach"
-    },
-    {
-      "source_id": "chuthe_bo_quoc_phong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh"
-    },
-    {
-      "source_id": "chuthe_bo_cong_an",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_yeu_cau_phat_trien_kinh_te_xa_hoi"
-    },
-    {
-      "source_id": "hanhviphaply_lap_quy_hoach_su_dung_dat_quoc_phong_an_ninh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_cung_co_quoc_phong_an_ninh"
-    },
-    {
-      "source_id": "chuthe_bo_quoc_phong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_ra_soat_xac_dinh_dat_quoc_phong_an_ninh"
-    },
-    {
-      "source_id": "chuthe_bo_cong_an",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_ra_soat_xac_dinh_dat_quoc_phong_an_ninh"
-    },
-    {
-      "source_id": "chuthe_bo_quoc_phong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xac_dinh_dat_qp_an_khong_con_nhu_cau"
-    },
-    {
-      "source_id": "chuthe_bo_cong_an",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_xac_dinh_dat_qp_an_khong_con_nhu_cau"
-    },
-    {
-      "source_id": "hanhviphaply_xac_dinh_dat_qp_an_khong_con_nhu_cau",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_ban_giao_dat_qp_an_khong_con_nhu_cau"
-    },
-    {
-      "source_id": "hanhviphaply_ban_giao_dat_qp_an_khong_con_nhu_cau",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_dia_phuong"
+      "source_id": "dieu_68_2024",
+      "target_id": "chuthe_ubndcapptinh",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

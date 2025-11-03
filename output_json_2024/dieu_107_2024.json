@@ -1,406 +1,148 @@
 {
   "entities": [
     {
-      "id": "dieu_107",
-      "label": "ĐiềuLuật",
-      "name": "Điều 107"
+      "id": "dieu_107_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+        "ma_dieu": "107",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 107.\n\nBồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc\nphòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp không được bồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn\nlại khi Nhà nước thu hồi đất bao gồm:\na) Đất được Nhà nước giao không thu tiền sử dụng đất, trừ trường hợp đất nông nghiệp của hộ gia\nđình, cá nhân được bồi thường về đất quy định tại Điều 96 của Luật này ;\nb) Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn\ntiền sử dụng đất;\nc) Đất được Nhà nước cho thuê trả tiền thuê đất hằng năm; đất thuê trả tiền thuê đất một lần cho cả\nthời gian thuê nhưng được miễn tiền thuê đất, trừ trường hợp quy định tại khoản 2 Điều 99 của Luật\nnày;\nd) Đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích do Ủy ban nhân dân cấp xã cho thuê;\nđ) Đất nhận khoán để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\ne) Diện tích đất nông nghiệp được giao vượt hạn mức quy định tại Điều 176 của Luật này .\n2. Chi phí đầu tư vào đất còn lại bao gồm toàn bộ hoặc một phần của các khoản chi phí sau đây:\na) Chi phí san lấp mặt bằng;\nb) Chi phí cải tạo làm tăng độ màu mỡ của đất, thau chua rửa mặn, chống xói mòn, xâm thực đối với\nđất sử dụng vào mục đích sản xuất nông nghiệp;\nc) Chi phí gia cố khả năng chịu lực chống rung, sụt lún đất đối với đất làm mặt bằng sản xuất, kinh\ndoanh;\nd) Kinh phí bồi thường, hỗ trợ, tái định cư đã ứng trước theo phương án bồi thường, hỗ trợ, tái định cư\nđã được cơ quan có thẩm quyền phê duyệt mà chưa khấu trừ hết vào tiền sử dụng đất, tiền thuê đất\nphải nộp;\nđ) Chi phí khác có liên quan đã đầu tư vào đất phù hợp với mục đích sử dụng đất.\n3. Chính phủ quy định chi tiết Điều này .\nMục 4. HỖ TRỢ"
+      }
     },
     {
-      "id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai",
-      "label": "KháiNiệm",
-      "name": "Bồi thường chi phí đầu tư vào đất còn lại"
+      "id": "khainiem_boiduongchiphi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Bồi thường chi phí đầu tư vào đất còn lại"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "hanhviphaply_nhanuocchothuedat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
     },
     {
-      "id": "hanhviphaply_thu_hoi_dat",
-      "label": "HànhViPhápLý",
-      "name": "thu hồi đất"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "dieukien_muc_dich_quoc_phong_an_ninh",
-      "label": "ĐiềuKiện",
-      "name": "mục đích quốc phòng, an ninh"
+      "id": "khainiem_mucchichquocphonganinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "mục đích quốc phòng, an ninh"
+      }
     },
     {
-      "id": "dieukien_phat_trien_kinh_te_xa_hoi_vi_loi_ich_quoc_gia_cong_cong",
-      "label": "ĐiềuKiện",
-      "name": "phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng"
+      "id": "khainiem_phattrienkinhtexahoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "phát triển kinh tế - xã hội"
+      }
     },
     {
-      "id": "dieukien_dat_duoc_nha_nuoc_giao_khong_thu_tien_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Đất được Nhà nước giao không thu tiền sử dụng đất"
+      "id": "khainiem_loiichquocgiacongcong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "lợi ích quốc gia, công cộng"
+      }
     },
     {
-      "id": "hanhviphaply_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
+      "id": "khainiem_chiphisanlapmatbang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí san lấp mặt bằng"
+      }
     },
     {
-      "id": "dieukien_dat_nong_nghiep_cua_ho_gia_dinh_ca_nhan_duoc_boi_thuong_ve_dat",
-      "label": "ĐiềuKiện",
-      "name": "đất nông nghiệp của hộ gia đình, cá nhân được bồi thường về đất"
+      "id": "khainiem_chiphicaitaododat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí cải tạo làm tăng độ màu mỡ của đất, thau chua rửa mặn, chống xói mòn, xâm thực đối với đất sử dụng vào mục đích sản xuất nông nghiệp"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh_ca_nhan",
-      "label": "ChủThể",
-      "name": "hộ gia đình, cá nhân"
+      "id": "khainiem_chiphigiacokhanangchiuluc",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí gia cố khả năng chịu lực chống rung, sụt lún đất đối với đất làm mặt bằng sản xuất, kinh doanh"
+      }
     },
     {
-      "id": "khainiem_boi_thuong_ve_dat",
-      "label": "KháiNiệm",
-      "name": "bồi thường về đất"
+      "id": "khainiem_kinhphiboiduonghotrotaidinhcu",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Kinh phí bồi thường, hỗ trợ, tái định cư đã ứng trước theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt mà chưa khấu trừ hết vào tiền sử dụng đất, tiền thuê đất phải nộp"
+      }
     },
     {
-      "id": "dieu_96",
-      "label": "ĐiềuLuật",
-      "name": "Điều 96"
-    },
-    {
-      "id": "dieukien_dat_duoc_nha_nuoc_giao_cho_to_chuc_mien_tien_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn tiền sử dụng đất"
-    },
-    {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
-    },
-    {
-      "id": "hanhviphaply_mien_tien_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "miễn tiền sử dụng đất"
-    },
-    {
-      "id": "dieukien_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_dat_hang_nam",
-      "label": "ĐiềuKiện",
-      "name": "Đất được Nhà nước cho thuê trả tiền thuê đất hằng năm"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "dieukien_dat_thue_tra_tien_thue_dat_mot_lan_mien_tien_thue_dat",
-      "label": "ĐiềuKiện",
-      "name": "đất thuê trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất"
-    },
-    {
-      "id": "hanhviphaply_mien_tien_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "miễn tiền thuê đất"
-    },
-    {
-      "id": "dieu_99_khoan_2",
-      "label": "ĐiềuLuật",
-      "name": "khoản 2 Điều 99"
-    },
-    {
-      "id": "dieukien_dat_thuoc_quy_dat_nong_nghiep_su_dung_muc_dich_cong_ich_do_ubnd_cap_xa_cho_thue",
-      "label": "ĐiềuKiện",
-      "name": "Đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích do Ủy ban nhân dân cấp xã cho thuê"
-    },
-    {
-      "id": "khainiem_quy_dat_nong_nghiep_su_dung_vao_muc_dich_cong_ich",
-      "label": "KháiNiệm",
-      "name": "quỹ đất nông nghiệp sử dụng vào mục đích công ích"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
-    },
-    {
-      "id": "dieukien_dat_nhan_khoan_de_san_xuat_nong_nghiep_lam_nghiep_nuoi_trong_thuy_san_lam_muoi",
-      "label": "ĐiềuKiện",
-      "name": "Đất nhận khoán để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối"
-    },
-    {
-      "id": "dieukien_dien_tich_dat_nong_nghiep_duoc_giao_vuot_han_muc",
-      "label": "ĐiềuKiện",
-      "name": "Diện tích đất nông nghiệp được giao vượt hạn mức"
-    },
-    {
-      "id": "khainiem_han_muc_quy_dinh",
-      "label": "KháiNiệm",
-      "name": "hạn mức quy định"
-    },
-    {
-      "id": "dieu_176",
-      "label": "ĐiềuLuật",
-      "name": "Điều 176"
-    },
-    {
-      "id": "khainiem_chi_phi_san_lap_mat_bang",
-      "label": "KháiNiệm",
-      "name": "Chi phí san lấp mặt bằng"
-    },
-    {
-      "id": "khainiem_chi_phi_cai_tao_lam_tang_do_mau_mo_cua_dat",
-      "label": "KháiNiệm",
-      "name": "Chi phí cải tạo làm tăng độ màu mỡ của đất, thau chua rửa mặn, chống xói mòn, xâm thực đối với đất sử dụng vào mục đích sản xuất nông nghiệp"
-    },
-    {
-      "id": "khainiem_chi_phi_gia_co_kha_nang_chiu_luc",
-      "label": "KháiNiệm",
-      "name": "Chi phí gia cố khả năng chịu lực chống rung, sụt lún đất đối với đất làm mặt bằng sản xuất, kinh doanh"
-    },
-    {
-      "id": "khainiem_kinh_phi_boi_thuong_ho_tro_tai_dinh_cu_da_ung_truoc",
-      "label": "KháiNiệm",
-      "name": "Kinh phí bồi thường, hỗ trợ, tái định cư đã ứng trước theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt mà chưa khấu trừ hết vào tiền sử dụng đất, tiền thuê đất phải nộp"
-    },
-    {
-      "id": "khainiem_chi_phi_khac_co_lien_quan_da_dau_tu_vao_dat",
-      "label": "KháiNiệm",
-      "name": "Chi phí khác có liên quan đã đầu tư vào đất phù hợp với mục đích sử dụng đất"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết"
+      "id": "khainiem_chiphikhaclienquan",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chi phí khác có liên quan đã đầu tư vào đất phù hợp với mục đích sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_107",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai"
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_boiduongchiphi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_thu_hoi_dat"
+      "source_id": "dieu_107_2024",
+      "target_id": "hanhviphaply_nhanuocchothuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nha_nuoc"
+      "source_id": "hanhviphaply_nhanuocchothuedat",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_muc_dich_quoc_phong_an_ninh"
+      "source_id": "hanhviphaply_nhanuocchothuedat",
+      "target_id": "khainiem_mucchichquocphonganinh",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phat_trien_kinh_te_xa_hoi_vi_loi_ich_quoc_gia_cong_cong"
+      "source_id": "hanhviphaply_nhanuocchothuedat",
+      "target_id": "khainiem_phattrienkinhtexahoi",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_107",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_dat_duoc_nha_nuoc_giao_khong_thu_tien_su_dung_dat"
+      "source_id": "hanhviphaply_nhanuocchothuedat",
+      "target_id": "khainiem_loiichquocgiacongcong",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_giao_khong_thu_tien_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nha_nuoc"
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_chiphisanlapmatbang",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_giao_khong_thu_tien_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_giao_dat"
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_chiphicaitaododat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_giao_khong_thu_tien_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai"
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_chiphigiacokhanangchiuluc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_dat_nong_nghiep_cua_ho_gia_dinh_ca_nhan_duoc_boi_thuong_ve_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_kinhphiboiduonghotrotaidinhcu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_dat_nong_nghiep_cua_ho_gia_dinh_ca_nhan_duoc_boi_thuong_ve_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_boi_thuong_ve_dat"
-    },
-    {
-      "source_id": "khainiem_boi_thuong_ve_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_96"
-    },
-    {
-      "source_id": "dieu_107",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_dat_duoc_nha_nuoc_giao_cho_to_chuc_mien_tien_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_giao_cho_to_chuc_mien_tien_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_giao_cho_to_chuc_mien_tien_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_giao_dat"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_giao_cho_to_chuc_mien_tien_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_giao_cho_to_chuc_mien_tien_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_mien_tien_su_dung_dat"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_giao_cho_to_chuc_mien_tien_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai"
-    },
-    {
-      "source_id": "dieu_107",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_dat_hang_nam"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_dat_hang_nam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_dat_hang_nam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_nha_nuoc_cho_thue_tra_tien_thue_dat_hang_nam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai"
-    },
-    {
-      "source_id": "dieu_107",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_dat_thue_tra_tien_thue_dat_mot_lan_mien_tien_thue_dat"
-    },
-    {
-      "source_id": "dieukien_dat_thue_tra_tien_thue_dat_mot_lan_mien_tien_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "dieukien_dat_thue_tra_tien_thue_dat_mot_lan_mien_tien_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "dieukien_dat_thue_tra_tien_thue_dat_mot_lan_mien_tien_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_mien_tien_thue_dat"
-    },
-    {
-      "source_id": "dieukien_dat_thue_tra_tien_thue_dat_mot_lan_mien_tien_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai"
-    },
-    {
-      "source_id": "dieukien_dat_thue_tra_tien_thue_dat_mot_lan_mien_tien_thue_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_99_khoan_2"
-    },
-    {
-      "source_id": "dieu_107",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_dat_thuoc_quy_dat_nong_nghiep_su_dung_muc_dich_cong_ich_do_ubnd_cap_xa_cho_thue"
-    },
-    {
-      "source_id": "dieukien_dat_thuoc_quy_dat_nong_nghiep_su_dung_muc_dich_cong_ich_do_ubnd_cap_xa_cho_thue",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quy_dat_nong_nghiep_su_dung_vao_muc_dich_cong_ich"
-    },
-    {
-      "source_id": "dieukien_dat_thuoc_quy_dat_nong_nghiep_su_dung_muc_dich_cong_ich_do_ubnd_cap_xa_cho_thue",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa"
-    },
-    {
-      "source_id": "dieukien_dat_thuoc_quy_dat_nong_nghiep_su_dung_muc_dich_cong_ich_do_ubnd_cap_xa_cho_thue",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "dieukien_dat_thuoc_quy_dat_nong_nghiep_su_dung_muc_dich_cong_ich_do_ubnd_cap_xa_cho_thue",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai"
-    },
-    {
-      "source_id": "dieu_107",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_dat_nhan_khoan_de_san_xuat_nong_nghiep_lam_nghiep_nuoi_trong_thuy_san_lam_muoi"
-    },
-    {
-      "source_id": "dieukien_dat_nhan_khoan_de_san_xuat_nong_nghiep_lam_nghiep_nuoi_trong_thuy_san_lam_muoi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai"
-    },
-    {
-      "source_id": "dieu_107",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_dien_tich_dat_nong_nghiep_duoc_giao_vuot_han_muc"
-    },
-    {
-      "source_id": "dieukien_dien_tich_dat_nong_nghiep_duoc_giao_vuot_han_muc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_han_muc_quy_dinh"
-    },
-    {
-      "source_id": "khainiem_han_muc_quy_dinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_176"
-    },
-    {
-      "source_id": "dieukien_dien_tich_dat_nong_nghiep_duoc_giao_vuot_han_muc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai"
-    },
-    {
-      "source_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chi_phi_san_lap_mat_bang"
-    },
-    {
-      "source_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chi_phi_cai_tao_lam_tang_do_mau_mo_cua_dat"
-    },
-    {
-      "source_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chi_phi_gia_co_kha_nang_chiu_luc"
-    },
-    {
-      "source_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_kinh_phi_boi_thuong_ho_tro_tai_dinh_cu_da_ung_truoc"
-    },
-    {
-      "source_id": "khainiem_boi_thuong_chi_phi_dau_tu_vao_dat_con_lai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chi_phi_khac_co_lien_quan_da_dau_tu_vao_dat"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_107"
+      "source_id": "dieu_107_2024",
+      "target_id": "khainiem_chiphikhaclienquan",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,421 +1,148 @@
 {
   "entities": [
     {
-      "id": "dieu_154",
-      "name": "Điều 154",
-      "label": "ĐiềuLuật"
+      "id": "dieu_154_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 154. Đất sản xuất vật liệu xây dựng, làm đồ gốm",
+        "ma_dieu": "154",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 154.\n\nĐất sản xuất vật liệu xây dựng, làm đồ gốm\n1. Đất sản xuất vật liệu xây dựng, làm đồ gốm bao gồm đất, đất có mặt nước để khai thác nguyên liệu\nvà đất làm mặt bằng để chế biến, sản xuất vật liệu xây dựng, làm đồ gốm.\nViệc sử dụng đất để khai thác nguyên liệu cho sản xuất gạch ngói, làm đồ gốm phải tận dụng các loại\nđất đồi, gò không canh tác, đất bãi hoang, đất lòng sông hoặc ao, hồ cần khơi sâu, đất ven sông ngòi\nkhông sản xuất nông nghiệp, đất đê bối không còn sử dụng, đất do cải tạo đồng ruộng.\n2. Đất, đất có mặt nước để khai thác nguyên liệu được Nhà nước cho thuê đối với hộ gia đình, cá nhân\nđược phép khai thác nguyên liệu để sản xuất vật liệu xây dựng, làm đồ gốm; đối với tổ chức kinh tế,\nngười Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài được phép thực hiện dự\nán đầu tư khai thác nguyên liệu để sản xuất vật liệu xây dựng, làm đồ gốm.\nĐất để làm mặt bằng sản xuất vật liệu xây dựng, làm đồ gốm thuộc loại đất sản xuất, kinh doanh phi\nnông nghiệp có chế độ sử dụng đất như đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp\nquy định tại Điều 153 của Luật này .\n3. Việc sử dụng đất để sản xuất vật liệu xây dựng, làm đồ gốm phải tuân theo các quy định sau đây:\na) Có quyết định cho thuê đất vào mục đích khai thác nguyên liệu, chế biến, sản xuất vật liệu xây dựng,\nlàm đồ gốm của cơ quan nhà nước có thẩm quyền;\nb) Thực hiện các biện pháp cần thiết để không gây thiệt hại cho sản xuất, đời sống và ảnh hưởng xấu\nđến môi trường, dòng chảy , giao thông;\nc) Người sử dụng đất có trách nhiệm trả lại đất đúng với tiến độ khai thác nguyên liệu và trạng thái mặt\nđất được quy định trong hợp đồng thuê đất.\n4. Nghiêm cấm sử dụng những loại đất sau đây để khai thác làm nguyên liệu cho sản xuất gạch ngói,\nlàm đồ gốm: about:blank\na) Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh đã được xếp hạng hoặc được Ủy ban nhân dân\ntỉnh, thành phố trực thuộc trung ương quyết định bảo vệ;\nb) Đất nằm trong phạm vi hành lang bảo vệ an toàn công trình.\n5. Trong quá trình sử dụng đất để khai thác nguyên liệu cho sản xuất gạch ngói, làm đồ gốm, người sử\ndụng đất phải áp dụng các biện pháp công nghệ thích hợp để khai thác, sử dụng đất hợp lý, tiết kiệm;\nphải thực hiện các biện pháp cần thiết để không gây thiệt hại cho sản xuất, đời sống của những người\nsử dụng đất xung quanh và không ảnh hưởng xấu đến môi trường."
+      }
     },
     {
-      "id": "dieu_153",
-      "name": "Điều 153",
-      "label": "ĐiềuLuật"
+      "id": "khainiem_datsanxuatvatlieuxaydunglamdogom",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất sản xuất vật liệu xây dựng, làm đồ gốm"
+      }
     },
     {
-      "id": "khainiem_dat_san_xuat_vat_lieu_xay_dung_lam_do_gom",
-      "name": "Đất sản xuất vật liệu xây dựng, làm đồ gốm",
-      "label": "KháiNiệm"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "khainiem_dat_khai_thac_nguyen_lieu",
-      "name": "Đất, đất có mặt nước để khai thác nguyên liệu",
-      "label": "KháiNiệm"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "khainiem_dat_lam_mat_bang_che_bien_san_xuat",
-      "name": "Đất làm mặt bằng để chế biến, sản xuất vật liệu xây dựng, làm đồ gốm",
-      "label": "KháiNiệm"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khainiem_dat_san_xuat_kinh_doanh_phi_nong_nghiep",
-      "name": "Đất sản xuất, kinh doanh phi nông nghiệp",
-      "label": "KháiNiệm"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     },
     {
-      "id": "khainiem_dat_thuong_mai_dich_vu",
-      "name": "Đất thương mại, dịch vụ",
-      "label": "KháiNiệm"
+      "id": "chuthe_nguoivietnamdincuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep",
-      "name": "Đất cơ sở sản xuất phi nông nghiệp",
-      "label": "KháiNiệm"
+      "id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
     },
     {
-      "id": "khainiem_dat_co_di_tich_lich_su_van_hoa_danh_lam_thang_canh",
-      "name": "Đất có di tích lịch sử - văn hóa, danh lam thắng cảnh",
-      "label": "KháiNiệm"
+      "id": "hanhviphaply_khaitacnguyenlieu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Khai thác nguyên liệu"
+      }
     },
     {
-      "id": "khainiem_dat_trong_pham_vi_hanh_lang_bao_ve_an_toan_cong_trinh",
-      "name": "Đất nằm trong phạm vi hành lang bảo vệ an toàn công trình",
-      "label": "KháiNiệm"
+      "id": "dieukien_quyetdinhchothuedat",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Có quyết định cho thuê đất"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "name": "Nhà nước",
-      "label": "ChủThể"
+      "id": "dieukien_thuchiencacbienphap",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Thực hiện các biện pháp cần thiết để không gây thiệt hại"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh_ca_nhan",
-      "name": "Hộ gia đình, cá nhân",
-      "label": "ChủThể"
-    },
-    {
-      "id": "chuthe_to_chuc_kinh_te",
-      "name": "Tổ chức kinh tế",
-      "label": "ChủThể"
-    },
-    {
-      "id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai",
-      "name": "Người Việt Nam định cư ở nước ngoài",
-      "label": "ChủThể"
-    },
-    {
-      "id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
-      "name": "Doanh nghiệp có vốn đầu tư nước ngoài",
-      "label": "ChủThể"
-    },
-    {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "name": "Cơ quan nhà nước có thẩm quyền",
-      "label": "ChủThể"
-    },
-    {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "name": "Người sử dụng đất",
-      "label": "ChủThể"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_tinh_thanh_pho",
-      "name": "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương",
-      "label": "ChủThể"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat_khai_thac_nguyen_lieu",
-      "name": "Sử dụng đất để khai thác nguyên liệu",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_nha_nuoc_cho_thue_dat",
-      "name": "Nhà nước cho thuê đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat_san_xuat_vat_lieu_xay_dung_lam_do_gom",
-      "name": "Sử dụng đất để sản xuất vật liệu xây dựng, làm đồ gốm",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_tra_lai_dat",
-      "name": "Trả lại đất",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_su_dung_dat_khai_thac_lam_nguyen_lieu_bi_cam",
-      "name": "Sử dụng đất để khai thác làm nguyên liệu (bị cấm)",
-      "label": "HànhViPhápLý"
-    },
-    {
-      "id": "chetac_nghiem_cam",
-      "name": "Nghiêm cấm",
-      "label": "ChếTài"
-    },
-    {
-      "id": "dieukien_tan_dung_dat_doi_go_khong_canh_tac",
-      "name": "Tận dụng các loại đất đồi, gò không canh tác",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tan_dung_dat_bai_hoang",
-      "name": "Tận dụng đất bãi hoang",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tan_dung_dat_long_song_ao_ho",
-      "name": "Tận dụng đất lòng sông hoặc ao, hồ cần khơi sâu",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tan_dung_dat_ven_song_ngoi",
-      "name": "Tận dụng đất ven sông ngòi không sản xuất nông nghiệp",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tan_dung_dat_de_boi",
-      "name": "Tận dụng đất đê bối không còn sử dụng",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tan_dung_dat_do_cai_tao_dong_ruong",
-      "name": "Tận dụng đất do cải tạo đồng ruộng",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_duoc_phep_khai_thac_nguyen_lieu",
-      "name": "Được phép khai thác nguyên liệu",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_duoc_phep_thuc_hien_du_an_dau_tu_khai_thac",
-      "name": "Được phép thực hiện dự án đầu tư khai thác nguyên liệu",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_co_quyet_dinh_cho_thue_dat",
-      "name": "Có quyết định cho thuê đất",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_khong_gay_thiet_hai_san_xuat_doi_song_moi_truong_dong_chay_giao_thong",
-      "name": "Không gây thiệt hại cho sản xuất, đời sống và ảnh hưởng xấu đến môi trường, dòng chảy, giao thông",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_tra_lai_dat_dung_tien_do_trang_thai",
-      "name": "Trả lại đất đúng với tiến độ khai thác nguyên liệu và trạng thái mặt đất",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_dat_duoc_xep_hang_bao_ve",
-      "name": "Đất đã được xếp hạng hoặc được quyết định bảo vệ",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_ap_dung_bien_phap_cong_nghe_thich_hop",
-      "name": "Áp dụng các biện pháp công nghệ thích hợp",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_khai_thac_su_dung_dat_hop_ly_tiet_kiem",
-      "name": "Khai thác, sử dụng đất hợp lý, tiết kiệm",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_khong_gay_thiet_hai_san_xuat_doi_song_xung_quanh",
-      "name": "Không gây thiệt hại cho sản xuất, đời sống của những người sử dụng đất xung quanh",
-      "label": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_khong_anh_huong_xau_den_moi_truong",
-      "name": "Không ảnh hưởng xấu đến môi trường",
-      "label": "ĐiềuKiện"
+      "id": "dieukien_nguoisudungdattralai",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Người sử dụng đất có trách nhiệm trả lại đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_san_xuat_vat_lieu_xay_dung_lam_do_gom"
+      "source_id": "dieu_154_2013",
+      "target_id": "khainiem_datsanxuatvatlieuxaydunglamdogom",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_san_xuat_vat_lieu_xay_dung_lam_do_gom",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_khai_thac_nguyen_lieu"
+      "source_id": "dieu_154_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_dat_san_xuat_vat_lieu_xay_dung_lam_do_gom",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_lam_mat_bang_che_bien_san_xuat"
+      "source_id": "dieu_154_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_su_dung_dat_khai_thac_nguyen_lieu"
+      "source_id": "dieu_154_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_su_dung_dat_khai_thac_nguyen_lieu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tan_dung_dat_doi_go_khong_canh_tac"
+      "source_id": "dieu_154_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_su_dung_dat_khai_thac_nguyen_lieu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tan_dung_dat_bai_hoang"
+      "source_id": "dieu_154_2013",
+      "target_id": "chuthe_nguoivietnamdincuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_su_dung_dat_khai_thac_nguyen_lieu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tan_dung_dat_long_song_ao_ho"
+      "source_id": "dieu_154_2013",
+      "target_id": "chuthe_doanhnghiepvocondautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_su_dung_dat_khai_thac_nguyen_lieu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tan_dung_dat_ven_song_ngoi"
+      "source_id": "dieu_154_2013",
+      "target_id": "hanhviphaply_khaitacnguyenlieu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_su_dung_dat_khai_thac_nguyen_lieu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tan_dung_dat_de_boi"
+      "source_id": "dieu_154_2013",
+      "target_id": "dieukien_quyetdinhchothuedat",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhviphaply_su_dung_dat_khai_thac_nguyen_lieu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tan_dung_dat_do_cai_tao_dong_ruong"
+      "source_id": "dieu_154_2013",
+      "target_id": "dieukien_thuchiencacbienphap",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_nha_nuoc_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_nha_nuoc_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_khai_thac_nguyen_lieu"
-    },
-    {
-      "source_id": "hanhviphaply_nha_nuoc_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh_ca_nhan"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_phep_khai_thac_nguyen_lieu"
-    },
-    {
-      "source_id": "hanhviphaply_nha_nuoc_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_kinh_te"
-    },
-    {
-      "source_id": "hanhviphaply_nha_nuoc_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai"
-    },
-    {
-      "source_id": "hanhviphaply_nha_nuoc_cho_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai"
-    },
-    {
-      "source_id": "chuthe_to_chuc_kinh_te",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_phep_thuc_hien_du_an_dau_tu_khai_thac"
-    },
-    {
-      "source_id": "chuthe_nguoi_viet_nam_dinh_cu_nuoc_ngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_phep_thuc_hien_du_an_dau_tu_khai_thac"
-    },
-    {
-      "source_id": "chuthe_doanh_nghiep_co_von_dau_tu_nuoc_ngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_phep_thuc_hien_du_an_dau_tu_khai_thac"
-    },
-    {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dat_lam_mat_bang_che_bien_san_xuat"
-    },
-    {
-      "source_id": "khainiem_dat_lam_mat_bang_che_bien_san_xuat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_san_xuat_kinh_doanh_phi_nong_nghiep"
-    },
-    {
-      "source_id": "khainiem_dat_san_xuat_kinh_doanh_phi_nong_nghiep",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_153"
-    },
-    {
-      "source_id": "khainiem_dat_lam_mat_bang_che_bien_san_xuat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_thuong_mai_dich_vu"
-    },
-    {
-      "source_id": "khainiem_dat_lam_mat_bang_che_bien_san_xuat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dat_co_so_san_xuat_phi_nong_nghiep"
-    },
-    {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_su_dung_dat_san_xuat_vat_lieu_xay_dung_lam_do_gom"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_san_xuat_vat_lieu_xay_dung_lam_do_gom",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_quyet_dinh_cho_thue_dat"
-    },
-    {
-      "source_id": "dieukien_co_quyet_dinh_cho_thue_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_san_xuat_vat_lieu_xay_dung_lam_do_gom",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_gay_thiet_hai_san_xuat_doi_song_moi_truong_dong_chay_giao_thong"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_san_xuat_vat_lieu_xay_dung_lam_do_gom",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_tra_lai_dat"
-    },
-    {
-      "source_id": "hanhviphaply_tra_lai_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tra_lai_dat_dung_tien_do_trang_thai"
-    },
-    {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chetac_nghiem_cam"
-    },
-    {
-      "source_id": "chetac_nghiem_cam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_su_dung_dat_khai_thac_lam_nguyen_lieu_bi_cam"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_khai_thac_lam_nguyen_lieu_bi_cam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_dat_co_di_tich_lich_su_van_hoa_danh_lam_thang_canh"
-    },
-    {
-      "source_id": "khainiem_dat_co_di_tich_lich_su_van_hoa_danh_lam_thang_canh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dat_duoc_xep_hang_bao_ve"
-    },
-    {
-      "source_id": "dieukien_dat_duoc_xep_hang_bao_ve",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uy_ban_nhan_dan_tinh_thanh_pho"
-    },
-    {
-      "source_id": "hanhviphaply_su_dung_dat_khai_thac_lam_nguyen_lieu_bi_cam",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_dat_trong_pham_vi_hanh_lang_bao_ve_an_toan_cong_trinh"
-    },
-    {
-      "source_id": "dieu_154",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_su_dung_dat_khai_thac_nguyen_lieu"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ap_dung_bien_phap_cong_nghe_thich_hop"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khai_thac_su_dung_dat_hop_ly_tiet_kiem"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_gay_thiet_hai_san_xuat_doi_song_xung_quanh"
-    },
-    {
-      "source_id": "chuthe_nguoi_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_anh_huong_xau_den_moi_truong"
+      "source_id": "dieu_154_2013",
+      "target_id": "dieukien_nguoisudungdattralai",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

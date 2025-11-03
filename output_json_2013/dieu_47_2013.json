@@ -1,106 +1,83 @@
 {
   "entities": [
     {
-      "id": "dieu_47",
-      "label": "ĐiềuLuật",
-      "text": "Điều 47"
+      "id": "dieu_47_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 47. Tư vấn lập quy hoạch, kế hoạch sử dụng đất",
+        "ma_dieu": "47",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 47.\n\nTư vấn lập quy hoạch, kế hoạch sử dụng đất\n1. Trong quá trình lập quy hoạch, kế hoạch sử dụng đất, cơ quan chịu trách nhiệm chủ trì việc lập quy\nhoạch, kế hoạch sử dụng đất được thuê tư vấn lập quy hoạch, kế hoạch sử dụng đất.\n2. Chính phủ quy định điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng\nđất."
+      }
     },
     {
-      "id": "khainiem_tu_van_lap_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "text": "Tư vấn lập quy hoạch, kế hoạch sử dụng đất"
+      "id": "hanhviphaply_tuvanlapquydat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Tư vấn lập quy hoạch, kế hoạch sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_co_quan_chu_tri_lap_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "ChủThể",
-      "text": "cơ quan chịu trách nhiệm chủ trì việc lập quy hoạch, kế hoạch sử dụng đất"
+      "id": "chuthe_coquan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan chịu trách nhiệm chủ trì việc lập quy hoạch, kế hoạch sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "text": "Chính phủ"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "chuthe_to_chuc_ca_nhan_hoat_dong_tu_van",
-      "label": "ChủThể",
-      "text": "tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "hanhvi_lap_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "text": "lập quy hoạch, kế hoạch sử dụng đất"
+      "id": "dieukien_dieukientochuccanhan",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất"
+      }
     },
     {
-      "id": "hanhvi_thue_tu_van",
-      "label": "HànhViPhápLý",
-      "text": "thuê tư vấn"
-    },
-    {
-      "id": "hanhvi_quy_dinh_dieu_kien",
-      "label": "HànhViPhápLý",
-      "text": "quy định điều kiện"
-    },
-    {
-      "id": "dieu_kien_hoat_dong_tu_van_lap_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "text": "điều kiện của tổ chức, cá nhân hoạt động tư vấn lập quy hoạch, kế hoạch sử dụng đất"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_47",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tu_van_lap_quy_hoach_ke_hoach_su_dung_dat"
+      "source_id": "dieu_47_2013",
+      "target_id": "hanhviphaply_tuvanlapquydat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_47",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_co_quan_chu_tri_lap_quy_hoach_ke_hoach_su_dung_dat"
+      "source_id": "dieu_47_2013",
+      "target_id": "chuthe_coquan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_co_quan_chu_tri_lap_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_thue_tu_van"
+      "source_id": "dieu_47_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_thue_tu_van",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhvi_lap_quy_hoach_ke_hoach_su_dung_dat"
+      "source_id": "dieu_47_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_47",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_chinh_phu"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_quy_dinh_dieu_kien"
-    },
-    {
-      "source_id": "hanhvi_quy_dinh_dieu_kien",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "dieu_kien_hoat_dong_tu_van_lap_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "dieu_kien_hoat_dong_tu_van_lap_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_to_chuc_ca_nhan_hoat_dong_tu_van"
-    },
-    {
-      "source_id": "dieu_47",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_kien_hoat_dong_tu_van_lap_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "dieu_47",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_to_chuc_ca_nhan_hoat_dong_tu_van"
-    },
-    {
-      "source_id": "khainiem_tu_van_lap_quy_hoach_ke_hoach_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc_ca_nhan_hoat_dong_tu_van"
+      "source_id": "chuthe_chinhphu",
+      "target_id": "dieukien_dieukientochuccanhan",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

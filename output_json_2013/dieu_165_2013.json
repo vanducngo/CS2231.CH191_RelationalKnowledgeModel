@@ -1,216 +1,88 @@
 {
   "entities": [
     {
-      "id": "dieu_165",
-      "label": "ĐiềuLuật",
-      "name": "Điều 165"
+      "id": "dieu_165_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 165. Đưa đất chưa sử dụng vào sử dụng",
+        "ma_dieu": "165",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 165.\n\nĐưa đất chưa sử dụng vào sử dụng\n1. Căn cứ vào quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt,\nỦy ban nhân dân các cấp có kế hoạch đầu tư, khai hoang, phục hóa, cải tạo đất để đưa đất chưa sử dụng\nvào sử dụng.\n2. Nhà nước khuyến khích tổ chức, hộ gia đình, cá nhân đầu tư để đưa đất chưa sử dụng vào sử dụng\ntheo quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt.\n3. Đối với diện tích đất được quy hoạch sử dụng vào mục đích nông nghiệp thì ưu tiên giao cho hộ gia\nđình, cá nhân trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối tại địa phương\nchưa được giao đất hoặc thiếu đất sản xuất.\nChương 1 1.\nQUYỀN VÀ NGHĨA  VỤ CỦA  NGƯỜI SỬ DỤNG ĐẤT\nMỤC 1. QUY  ĐỊNH CHUNG"
+      }
     },
     {
-      "id": "khaikiem_dua_dat_chua_su_dung_vao_su_dung",
-      "label": "KháiNiệm",
-      "name": "Đưa đất chưa sử dụng vào sử dụng"
+      "id": "hanhviphaply_duadatchuasudungvaosudung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Đưa đất chưa sử dụng vào sử dụng"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cac_cap",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân các cấp"
+      "id": "khainiem_quyhoachkehoachsudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Quy hoạch, kế hoạch sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_co_quan_nha_nuoc_co_tham_quyen",
-      "label": "ChủThể",
-      "name": "cơ quan nhà nước có thẩm quyền"
+      "id": "chuthe_uybannhandan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân các cấp"
+      }
     },
     {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức"
+      }
     },
     {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "hộ gia đình"
-    },
-    {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
-    },
-    {
-      "id": "hanhviphaply_phe_duyet",
-      "label": "HànhViPhápLý",
-      "name": "phê duyệt"
-    },
-    {
-      "id": "hanhviphaply_co_ke_hoach_dau_tu_khai_hoang_phuc_hoa_cai_tao_dat",
-      "label": "HànhViPhápLý",
-      "name": "có kế hoạch đầu tư, khai hoang, phục hóa, cải tạo đất"
-    },
-    {
-      "id": "hanhviphaply_dau_tu",
-      "label": "HànhViPhápLý",
-      "name": "đầu tư"
-    },
-    {
-      "id": "hanhviphaply_khuyen_khich",
-      "label": "HànhViPhápLý",
-      "name": "khuyến khích"
-    },
-    {
-      "id": "hanhviphaply_giao_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
-    },
-    {
-      "id": "dieu_kien_quy_hoach_ke_hoach_su_dung_dat_duoc_phe_duyet",
-      "label": "ĐiềuKiện",
-      "name": "quy hoạch, kế hoạch sử dụng đất đã được cơ quan nhà nước có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "dieu_kien_dat_quy_hoach_muc_dich_nong_nghiep",
-      "label": "ĐiềuKiện",
-      "name": "diện tích đất được quy hoạch sử dụng vào mục đích nông nghiệp"
-    },
-    {
-      "id": "dieu_kien_truc_tiep_san_xuat",
-      "label": "ĐiềuKiện",
-      "name": "trực tiếp sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối"
-    },
-    {
-      "id": "dieu_kien_tai_dia_phuong",
-      "label": "ĐiềuKiện",
-      "name": "tại địa phương"
-    },
-    {
-      "id": "dieu_kien_chua_duoc_giao_dat_hoac_thieu_dat_san_xuat",
-      "label": "ĐiềuKiện",
-      "name": "chưa được giao đất hoặc thiếu đất sản xuất"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_165",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_dua_dat_chua_su_dung_vao_su_dung"
+      "source_id": "dieu_165_2013",
+      "target_id": "hanhviphaply_duadatchuasudungvaosudung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_165",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_uy_ban_nhan_dan_cac_cap"
+      "source_id": "dieu_165_2013",
+      "target_id": "khainiem_quyhoachkehoachsudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cac_cap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_co_ke_hoach_dau_tu_khai_hoang_phuc_hoa_cai_tao_dat"
+      "source_id": "dieu_165_2013",
+      "target_id": "chuthe_uybannhandan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_co_ke_hoach_dau_tu_khai_hoang_phuc_hoa_cai_tao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_quy_hoach_ke_hoach_su_dung_dat_duoc_phe_duyet"
+      "source_id": "dieu_165_2013",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_co_ke_hoach_dau_tu_khai_hoang_phuc_hoa_cai_tao_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_dua_dat_chua_su_dung_vao_su_dung"
+      "source_id": "dieu_165_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_kien_quy_hoach_ke_hoach_su_dung_dat_duoc_phe_duyet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_phe_duyet"
-    },
-    {
-      "source_id": "hanhviphaply_phe_duyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_co_quan_nha_nuoc_co_tham_quyen"
-    },
-    {
-      "source_id": "dieu_165",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_khuyen_khich"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
-    },
-    {
-      "source_id": "hanhviphaply_khuyen_khich",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "chuthe_to_chuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_dau_tu"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_dau_tu"
-    },
-    {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_dau_tu"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_dua_dat_chua_su_dung_vao_su_dung"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_quy_hoach_ke_hoach_su_dung_dat_duoc_phe_duyet"
-    },
-    {
-      "source_id": "dieu_165",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giao_dat"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ho_gia_dinh"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_dat_quy_hoach_muc_dich_nong_nghiep"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_truc_tiep_san_xuat"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_tai_dia_phuong"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_kien_chua_duoc_giao_dat_hoac_thieu_dat_san_xuat"
+      "source_id": "dieu_165_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

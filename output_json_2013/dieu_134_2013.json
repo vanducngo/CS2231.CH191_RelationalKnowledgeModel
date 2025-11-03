@@ -1,286 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_134",
-      "label": "ĐiềuLuật",
-      "name": "Điều 134"
+      "id": "dieu_134_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 134. Đất trồng lúa",
+        "ma_dieu": "134",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 134.\n\nĐất trồng lúa\n1. Nhà nước có chính sách bảo vệ đất trồng lúa, hạn chế chuyển đất trồng lúa sang sử dụng vào mục\nđích phi nông nghiệp. Trường hợp cần thiết phải chuyển một phần diện tích đất trồng lúa sang sử dụng about:blank\nvào mục đích khác thì Nhà nước có biện pháp bổ sung diện tích đất hoặc tăng hiệu quả sử dụng đất\ntrồng lúa.\nNhà nước có chính sách hỗ trợ, đầu tư xây dựng kết cấu hạ tầng, áp dụng khoa học và công nghệ hiện\nđại cho vùng quy hoạch trồng lúa có năng suất, chất lượng cao.\n2. Người sử dụng đất trồng lúa có trách nhiệm cải tạo, làm tăng độ màu mỡ của đất; không được\nchuyển sang sử dụng vào mục đích trồng cây lâu năm, trồng rừng, nuôi trồng thủy sản, làm muối và\nvào mục đích phi nông nghiệp nếu không được cơ quan nhà nước có thẩm quyền cho phép.\n3. Người được Nhà nước giao đất, cho thuê đất để sử dụng vào mục đích phi nông nghiệp từ đất\nchuyên trồng lúa nước phải nộp một khoản tiền để Nhà nước bổ sung diện tích đất chuyên trồng lúa\nnước bị mất hoặc tăng hiệu quả sử dụng đất trồng lúa theo quy định của Chính phủ."
+      }
     },
     {
-      "id": "khainiem_dattroglua",
-      "label": "KháiNiệm",
-      "name": "Đất trồng lúa"
-    },
-    {
-      "id": "khainiem_mucdichphinongnghiep",
-      "label": "KháiNiệm",
-      "name": "Mục đích phi nông nghiệp"
-    },
-    {
-      "id": "khainiem_vungquyhoachtrogluacnsclc",
-      "label": "KháiNiệm",
-      "name": "Vùng quy hoạch trồng lúa có năng suất, chất lượng cao"
-    },
-    {
-      "id": "khainiem_datchuyentrogluanuoc",
-      "label": "KháiNiệm",
-      "name": "Đất chuyên trồng lúa nước"
-    },
-    {
-      "id": "khainiem_quydinhcuachinhphu",
-      "label": "KháiNiệm",
-      "name": "Quy định của Chính phủ"
+      "id": "khainiem_dattronglua",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất trồng lúa"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "chuthe_nguoisudungdattroglua",
-      "label": "ChủThể",
-      "name": "Người sử dụng đất trồng lúa"
+      "id": "hanhviphaply_chuyenmucdichsudung",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chuyển đất trồng lúa sang sử dụng vào mục đích phi nông nghiệp"
+      }
     },
     {
-      "id": "chuthe_coquannhanuoccothamquyen",
-      "label": "ChủThể",
-      "name": "Cơ quan nhà nước có thẩm quyền"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_chinhphu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "chuthe_nguoiduocnhanuocgiaodatchothuedat",
-      "label": "ChủThể",
-      "name": "Người được Nhà nước giao đất, cho thuê đất"
-    },
-    {
-      "id": "hanhviphaply_baovedattroglua",
-      "label": "HànhViPhápLý",
-      "name": "Bảo vệ đất trồng lúa"
-    },
-    {
-      "id": "hanhviphaply_hanchechuyendat_sangphinongnghiep",
-      "label": "HànhViPhápLý",
-      "name": "Hạn chế chuyển đất trồng lúa sang sử dụng vào mục đích phi nông nghiệp"
-    },
-    {
-      "id": "hanhviphaply_bosungdientichdat",
-      "label": "HànhViPhápLý",
-      "name": "Bổ sung diện tích đất"
-    },
-    {
-      "id": "hanhviphaply_tangehieusuat_sudungdat",
-      "label": "HànhViPhápLý",
-      "name": "Tăng hiệu quả sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_hotro_dautu_apdungkhcn",
-      "label": "HànhViPhápLý",
-      "name": "Hỗ trợ, đầu tư xây dựng kết cấu hạ tầng, áp dụng khoa học và công nghệ hiện đại"
-    },
-    {
-      "id": "hanhviphaply_caitao_tangdomaumo",
-      "label": "HànhViPhápLý",
-      "name": "Cải tạo, làm tăng độ màu mỡ của đất"
-    },
-    {
-      "id": "hanhviphaply_chuyensang_trongcaylaunam",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển sang sử dụng vào mục đích trồng cây lâu năm"
-    },
-    {
-      "id": "hanhviphaply_chuyensang_trongrung",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển sang sử dụng vào mục đích trồng rừng"
-    },
-    {
-      "id": "hanhviphaply_chuyensang_nuoitrongthuysan",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển sang sử dụng vào mục đích nuôi trồng thủy sản"
-    },
-    {
-      "id": "hanhviphaply_chuyensang_lammuoi",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển sang sử dụng vào mục đích làm muối"
-    },
-    {
-      "id": "hanhviphaply_chuyensang_phinongnghiep_boisudungdat",
-      "label": "HànhViPhápLý",
-      "name": "Chuyển sang sử dụng vào mục đích phi nông nghiệp (bởi người sử dụng đất)"
-    },
-    {
-      "id": "hanhviphaply_chophep",
-      "label": "HànhViPhápLý",
-      "name": "Cho phép"
-    },
-    {
-      "id": "hanhviphaply_giaodat_chothuedat",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất, cho thuê đất"
-    },
-    {
-      "id": "hanhviphaply_sudung_phinongnghiep_tu_datchuyentroglua",
-      "label": "HànhViPhápLý",
-      "name": "Sử dụng vào mục đích phi nông nghiệp từ đất chuyên trồng lúa nước"
-    },
-    {
-      "id": "hanhviphaply_nopkhoantien",
-      "label": "HànhViPhápLý",
-      "name": "Nộp một khoản tiền"
-    },
-    {
-      "id": "dieukien_canthiet_chuyenmotphandientich_dattroglua",
-      "label": "ĐiềuKiện",
-      "name": "Trường hợp cần thiết phải chuyển một phần diện tích đất trồng lúa"
-    },
-    {
-      "id": "dieukien_duoc_coquannhanuoc_cothammquyen_chophep",
-      "label": "ĐiềuKiện",
-      "name": "Nếu được cơ quan nhà nước có thẩm quyền cho phép"
+      "id": "dieukien_cokhanquanlynhanuoc",
+      "label": "DieuKien",
+      "properties": {
+        "name": "cơ quan nhà nước có thẩm quyền cho phép"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_134",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dattroglua"
+      "source_id": "dieu_134_2013",
+      "target_id": "khainiem_dattronglua",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_baovedattroglua"
+      "source_id": "dieu_134_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_baovedattroglua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dattroglua"
+      "source_id": "dieu_134_2013",
+      "target_id": "hanhviphaply_chuyenmucdichsudung",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_hanchechuyendat_sangphinongnghiep"
+      "source_id": "dieu_134_2013",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_hanchechuyendat_sangphinongnghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dattroglua"
-    },
-    {
-      "source_id": "hanhviphaply_hanchechuyendat_sangphinongnghiep",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_mucdichphinongnghiep"
-    },
-    {
-      "source_id": "dieukien_canthiet_chuyenmotphandientich_dattroglua",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_bosungdientichdat"
-    },
-    {
-      "source_id": "dieukien_canthiet_chuyenmotphandientich_dattroglua",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_tangehieusuat_sudungdat"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_hotro_dautu_apdungkhcn"
-    },
-    {
-      "source_id": "hanhviphaply_hotro_dautu_apdungkhcn",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_vungquyhoachtrogluacnsclc"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdattroglua",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_caitao_tangdomaumo"
-    },
-    {
-      "source_id": "hanhviphaply_caitao_tangdomaumo",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dattroglua"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdattroglua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyensang_trongcaylaunam"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdattroglua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyensang_trongrung"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdattroglua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyensang_nuoitrongthuysan"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdattroglua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyensang_lammuoi"
-    },
-    {
-      "source_id": "chuthe_nguoisudungdattroglua",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chuyensang_phinongnghiep_boisudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_chuyensang_phinongnghiep_boisudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_coquannhanuoc_cothammquyen_chophep"
-    },
-    {
-      "source_id": "chuthe_coquannhanuoccothamquyen",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chophep"
-    },
-    {
-      "source_id": "chuthe_nguoiduocnhanuocgiaodatchothuedat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_giaodat_chothuedat"
-    },
-    {
-      "source_id": "hanhviphaply_giaodat_chothuedat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoiduocnhanuocgiaodatchothuedat"
-    },
-    {
-      "source_id": "hanhviphaply_sudung_phinongnghiep_tu_datchuyentroglua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoiduocnhanuocgiaodatchothuedat"
-    },
-    {
-      "source_id": "hanhviphaply_sudung_phinongnghiep_tu_datchuyentroglua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_datchuyentrogluanuoc"
-    },
-    {
-      "source_id": "hanhviphaply_sudung_phinongnghiep_tu_datchuyentroglua",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_nopkhoantien"
-    },
-    {
-      "source_id": "hanhviphaply_nopkhoantien",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_bosungdientichdat"
-    },
-    {
-      "source_id": "hanhviphaply_nopkhoantien",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_tangehieusuat_sudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_nopkhoantien",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_quydinhcuachinhphu"
-    },
-    {
-      "source_id": "chuthe_chinhphu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quydinhcuachinhphu"
+      "source_id": "dieu_134_2013",
+      "target_id": "dieukien_cokhanquanlynhanuoc",
+      "relationship_type": "YEU_CAU"
     }
   ]
 }

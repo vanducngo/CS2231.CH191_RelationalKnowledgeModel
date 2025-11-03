@@ -1,196 +1,167 @@
 {
   "entities": [
     {
-      "id": "dieu_212",
-      "label": "ĐiềuLuật",
-      "name": "Điều 212"
+      "id": "dieu_212_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 212",
+        "ma_dieu": "212",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 212.\n\nĐất tín ngưỡng about:blank\n. Đất tín ngưỡng là đất có công trình tín ngưỡng bao gồm đình, đền, miếu, am, nhà thờ họ; chùa\nkhông thuộc quy định tại khoản 1 Điều 213 của Luật này ; các công trình tín ngưỡng khác.\n2. Việc sử dụng đất tín ngưỡng phải đúng mục đích, phù hợp với quy hoạch, kế hoạch sử dụng đất, quy\nhoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt.\n3. Việc sử dụng đất tín ngưỡng kết hợp với thương mại, dịch vụ phải bảo đảm các yêu cầu quy định tại\nkhoản 2 Điều 218 của Luật này ."
+      }
     },
     {
       "id": "khainiem_dattinnguong",
-      "label": "KháiNiệm",
-      "name": "Đất tín ngưỡng"
-    },
-    {
-      "id": "khainiem_dat_co_congtrinhtinnguong",
-      "label": "KháiNiệm",
-      "name": "đất có công trình tín ngưỡng"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất tín ngưỡng"
+      }
     },
     {
       "id": "khainiem_congtrinhtinnguong",
-      "label": "KháiNiệm",
-      "name": "công trình tín ngưỡng"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "công trình tín ngưỡng"
+      }
     },
     {
       "id": "khainiem_dinh",
-      "label": "KháiNiệm",
-      "name": "đình"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đình"
+      }
     },
     {
       "id": "khainiem_den",
-      "label": "KháiNiệm",
-      "name": "đền"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "đền"
+      }
     },
     {
       "id": "khainiem_mieu",
-      "label": "KháiNiệm",
-      "name": "miếu"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "miếu"
+      }
     },
     {
       "id": "khainiem_am",
-      "label": "KháiNiệm",
-      "name": "am"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "am"
+      }
     },
     {
       "id": "khainiem_nhathotho",
-      "label": "KháiNiệm",
-      "name": "nhà thờ họ"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "nhà thờ họ"
+      }
     },
     {
       "id": "khainiem_chua",
-      "label": "KháiNiệm",
-      "name": "chùa"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "chùa"
+      }
     },
     {
-      "id": "dieu_213",
-      "label": "ĐiềuLuật",
-      "name": "Điều 213"
+      "id": "hanhviphaply_suddungdattinnguong",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "sử dụng đất tín ngưỡng"
+      }
     },
     {
-      "id": "khainiem_congtrinhtinnguongkhac",
-      "label": "KháiNiệm",
-      "name": "các công trình tín ngưỡng khác"
+      "id": "khainiem_quydinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy định"
+      }
     },
     {
-      "id": "hanhvi_sudungdattinnguong",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất tín ngưỡng"
+      "id": "khainiem_mucdich",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "mục đích"
+      }
     },
     {
-      "id": "dieukien_dungmucdich",
-      "label": "ĐiềuKiện",
-      "name": "đúng mục đích"
+      "id": "khainiem_quyhoach",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "quy hoạch"
+      }
     },
     {
-      "id": "dieukien_phuhop_quyhoach_kehoachsudungdat",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quy hoạch, kế hoạch sử dụng đất"
-    },
-    {
-      "id": "dieukien_phuhop_quyhoachxaydung",
-      "label": "ĐiềuKiện",
-      "name": "phù hợp với quy hoạch xây dựng"
-    },
-    {
-      "id": "dieukien_duoc_coquan_thamquyen_pheduyet",
-      "label": "ĐiềuKiện",
-      "name": "đã được cơ quan có thẩm quyền phê duyệt"
-    },
-    {
-      "id": "hanhvi_sudungdattinnguongkethopthuongmaidichvu",
-      "label": "HànhViPhápLý",
-      "name": "sử dụng đất tín ngưỡng kết hợp với thương mại, dịch vụ"
-    },
-    {
-      "id": "dieu_218",
-      "label": "ĐiềuLuật",
-      "name": "Điều 218"
+      "id": "hanhviphaply_suddungdatkethopthuongmaidichvu",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "sử dụng đất tín ngưỡng kết hợp với thương mại, dịch vụ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_212",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dattinnguong"
+      "source_id": "dieu_212_2024",
+      "target_id": "khainiem_dattinnguong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
       "source_id": "khainiem_dattinnguong",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_dat_co_congtrinhtinnguong"
-    },
-    {
-      "source_id": "khainiem_dat_co_congtrinhtinnguong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_congtrinhtinnguong"
+      "target_id": "khainiem_congtrinhtinnguong",
+      "relationship_type": "DINH_NGHIA"
     },
     {
       "source_id": "khainiem_congtrinhtinnguong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_dinh"
+      "target_id": "khainiem_dinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
       "source_id": "khainiem_congtrinhtinnguong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_den"
+      "target_id": "khainiem_den",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
       "source_id": "khainiem_congtrinhtinnguong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_mieu"
+      "target_id": "khainiem_mieu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
       "source_id": "khainiem_congtrinhtinnguong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_am"
+      "target_id": "khainiem_am",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
       "source_id": "khainiem_congtrinhtinnguong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nhathotho"
+      "target_id": "khainiem_nhathotho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
       "source_id": "khainiem_congtrinhtinnguong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chua"
+      "target_id": "khainiem_chua",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_212",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_213"
+      "source_id": "dieu_212_2024",
+      "target_id": "hanhviphaply_suddungdattinnguong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_congtrinhtinnguong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_congtrinhtinnguongkhac"
+      "source_id": "dieu_212_2024",
+      "target_id": "khainiem_mucdich",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "dieu_212",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdattinnguong"
+      "source_id": "dieu_212_2024",
+      "target_id": "khainiem_quyhoach",
+      "relationship_type": "YEU_CAU"
     },
     {
-      "source_id": "hanhvi_sudungdattinnguong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dungmucdich"
-    },
-    {
-      "source_id": "hanhvi_sudungdattinnguong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhop_quyhoach_kehoachsudungdat"
-    },
-    {
-      "source_id": "hanhvi_sudungdattinnguong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuhop_quyhoachxaydung"
-    },
-    {
-      "source_id": "dieukien_phuhop_quyhoach_kehoachsudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_coquan_thamquyen_pheduyet"
-    },
-    {
-      "source_id": "dieukien_phuhop_quyhoachxaydung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_duoc_coquan_thamquyen_pheduyet"
-    },
-    {
-      "source_id": "dieu_212",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_sudungdattinnguongkethopthuongmaidichvu"
-    },
-    {
-      "source_id": "hanhvi_sudungdattinnguongkethopthuongmaidichvu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieu_218"
+      "source_id": "dieu_212_2024",
+      "target_id": "hanhviphaply_suddungdatkethopthuongmaidichvu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

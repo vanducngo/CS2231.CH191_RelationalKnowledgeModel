@@ -1,106 +1,64 @@
 {
   "entities": [
     {
-      "id": "dieu_12",
-      "label": "ĐiềuLuật",
-      "text": "Điều 12"
+      "id": "dieu_12_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 12. Sở hữu đất đai",
+        "ma_dieu": "12",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 12.\n\nSở hữu đất đai\nĐất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao\nquyền sử dụng đất cho người sử dụng đất theo quy định của Luật này ."
+      }
     },
     {
-      "id": "khauniem_sohuudatdai",
-      "label": "KháiNiệm",
-      "text": "Sở hữu đất đai"
+      "id": "khainiem_sotohuudatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Sở hữu đất đai"
+      }
     },
     {
-      "id": "khauniem_datdai",
-      "label": "KháiNiệm",
-      "text": "Đất đai"
-    },
-    {
-      "id": "khauniem_sohuutoandan",
-      "label": "KháiNiệm",
-      "text": "sở hữu toàn dân"
+      "id": "khainiem_datdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất đai"
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "text": "Nhà nước"
-    },
-    {
-      "id": "hanhviphaply_daidienchusohuu",
-      "label": "HànhViPhápLý",
-      "text": "đại diện chủ sở hữu"
-    },
-    {
-      "id": "hanhviphaply_thongnhatquanly",
-      "label": "HànhViPhápLý",
-      "text": "thống nhất quản lý"
-    },
-    {
-      "id": "hanhviphaply_traoquyensudungdat",
-      "label": "HànhViPhápLý",
-      "text": "trao quyền sử dụng đất"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
       "id": "chuthe_nguoisudungdat",
-      "label": "ChủThể",
-      "text": "người sử dụng đất"
-    },
-    {
-      "id": "dieukien_quydinhcualuatnay",
-      "label": "ĐiềuKiện",
-      "text": "quy định của Luật này"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_12",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_sohuudatdai"
+      "source_id": "dieu_12_2024",
+      "target_id": "khainiem_sotohuudatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_12",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_datdai"
+      "source_id": "dieu_12_2024",
+      "target_id": "khainiem_datdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_sohuutoandan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_datdai"
+      "source_id": "dieu_12_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_daidienchusohuu"
-    },
-    {
-      "source_id": "hanhviphaply_daidienchusohuu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_sohuutoandan"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thongnhatquanly"
-    },
-    {
-      "source_id": "hanhviphaply_thongnhatquanly",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_datdai"
-    },
-    {
-      "source_id": "chuthe_nhanuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_traoquyensudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_traoquyensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoisudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_traoquyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_quydinhcualuatnay"
+      "source_id": "dieu_12_2024",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

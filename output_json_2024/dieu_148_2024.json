@@ -1,631 +1,107 @@
 {
   "entities": [
     {
-      "id": "dieu_148",
-      "label": "ĐiềuLuật",
-      "name": "Điều 148"
+      "id": "dieu_148_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 148. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là nhà ở",
+        "ma_dieu": "148",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 148.\n\nCấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là nhà ở\n1. Hộ gia đình, cá nhân sở hữu nhà ở được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài\nsản gắn liền với đất khi có một trong các loại giấy tờ sau đây:\na) Giấy phép xây dựng nhà ở hoặc giấy phép xây dựng nhà ở có thời hạn đối với trường hợp phải xin\ngiấy phép xây dựng theo quy định của pháp luật về xây dựng;\nb) Hợp đồng mua bán nhà ở thuộc sở hữu nhà nước theo quy định tại Nghị định số 61-CP  ngày 05\ntháng 7 năm 1994 của Chính phủ về mua bán và kinh doanh nhà ở hoặc giấy tờ về thanh lý, hóa giá nhà\nở thuộc sở hữu nhà nước từ trước ngày 05 tháng 7 năm 1994;\nc) Giấy tờ về giao hoặc tặng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết;\nd) Giấy tờ về sở hữu nhà ở do cơ quan có thẩm quyền cấp qua các thời kỳ mà nhà đất đó không thuộc\ndiện Nhà nước xác lập sở hữu toàn dân theo quy định tại Nghị quyết số 23/2003/QH1 1 ngày 26 tháng\n11 năm 2003 của Quốc hội về nhà đất do Nhà nước đã quản lý, bố trí sử dụng trong quá trình thực hiện\ncác chính sách quản lý nhà đất và chính sách cải tạo xã hội chủ nghĩa trước ngày 01 tháng 7 năm 1991,\nNghị quyết số 755/2005/NQ-UBTVQH1 1 ngày 02 tháng 4 năm 2005 của Ủy ban Thường vụ Quốc hội\nquy định việc giải quyết đối với một số trường hợp cụ thể về nhà đất trong quá trình thực hiện các\nchính sách quản lý nhà đất và chính sách cải tạo xã hội chủ nghĩa trước ngày 01 tháng 7 năm 1991;\nđ) Giấy tờ về mua bán hoặc nhận tặng cho hoặc đổi hoặc nhận thừa kế nhà ở đã có chứng nhận của\ncông chứng hoặc chứng thực của Ủy ban nhân dân cấp có thẩm quyền theo quy định của pháp luật đối\nvới trường hợp giao dịch trước ngày 01 tháng 7 năm 2006.\nTrường hợp nhà ở do mua, nhận tặng cho, đổi, nhận thừa kế kể từ ngày 01 tháng 7 năm 2006 trở về sau\nthì phải có văn bản về giao dịch đó theo quy định của pháp luật về nhà ở.\nTrường hợp nhà ở do mua của doanh nghiệp kinh doanh bất động sản đầu tư xây dựng để bán thì phải\ncó hợp đồng mua bán nhà ở do hai bên ký kết;\ne) Bản án hoặc quyết định của Tòa án hoặc giấy tờ của cơ quan nhà nước có thẩm quyền đã có hiệu lực\npháp luật mà có xác định quyền sở hữu nhà ở;\ng) Một trong những giấy tờ quy định tại các điểm a, b, c, d, đ và e khoản này mà trên giấy tờ đó ghi tên\nngười khác và đang không có tranh chấp.\n2. Trường hợp hộ gia đình, cá nhân có nhà ở trước ngày 01 tháng 7 năm 2006 mà không có giấy tờ quy\nđịnh tại khoản 1 Điều này đang không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu tài sản gắn liền với đất.\n3. Trường hợp hộ gia đình, cá nhân có nhà ở không thuộc quy định tại khoản 1 và khoản 2 Điều này mà\nthuộc trường hợp không phải xin giấy phép xây dựng thì được cấp Giấy chứng nhận quyền sử dụng about:blank\nđất, quyền sở hữu tài sản gắn liền với đất; đối với trường hợp phải xin phép xây dựng thì phải có giấy\nxác nhận của cơ quan có chức năng quản lý về xây dựng cấp huyện đủ điều kiện tồn tại nhà ở đó theo\nquy định của pháp luật về xây dựng.\n4. Tổ chức trong nước, tổ chức kinh tế có vốn đầu tư nước ngoài, người gốc Việt Nam định cư ở nước\ngoài đầu tư xây dựng nhà ở để kinh doanh có giấy tờ phù hợp với quy định của pháp luật về nhà ở thì\nđược cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\nTrường hợp mua, nhận tặng cho, nhận thừa kế nhà ở hoặc được sở hữu nhà ở thông qua hình thức khác\ntheo quy định của pháp luật thì phải có giấy tờ về giao dịch đó theo quy định của pháp luật.\n5. Trường hợp chủ sở hữu nhà ở không có quyền sử dụng đất đối với thửa đất ở đó thì việc cấp Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được thực hiện như sau:\na) Đối với tổ chức nước ngoài, cá nhân nước ngoài sở hữu nhà ở tại Việt Nam thì phải có giấy tờ về\ngiao dịch nhà ở theo quy định của pháp luật về nhà ở;\nb) Đối với chủ sở hữu nhà ở theo quy định của pháp luật về nhà ở mà không thuộc trường hợp quy\nđịnh tại điểm a khoản này thì phải có giấy tờ chứng minh về quyền sở hữu nhà ở theo quy định tại Điều\nnày và hợp đồng thuê đất hoặc hợp đồng góp vốn hoặc hợp đồng hợp tác kinh doanh hoặc văn bản\nchấp thuận của người sử dụng đất đồng ý cho xây dựng nhà ở đã được công chứng hoặc chứng thực\ntheo quy định của pháp luật;\n6. Trường hợp công trình có mục đích hỗn hợp theo quy định của pháp luật và được tạo lập trên đất ở\nthì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản\nlà hạng mục công trình hoặc toàn bộ công trình đó; thời hạn sử dụng đất là ổn định lâu dài."
+      }
     },
     {
-      "id": "khainiem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "khainiem_nha_o",
-      "label": "KháiNiệm",
-      "name": "nhà ở"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "hanhviphaply_cap_giay_chung_nhan",
-      "label": "HànhViPhápLý",
-      "name": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      "id": "khainiem_giaychungnhanquyenquyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
+      }
     },
     {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "ChủThể",
-      "name": "Hộ gia đình"
+      "id": "khainiem_nhaho",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nhà ở"
+      }
     },
     {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
+      "id": "dieukien_giayphepxaydungnhao",
+      "label": "DieuKien",
+      "properties": {
+        "name": "Giấy phép xây dựng nhà ở"
+      }
     },
     {
-      "id": "khainiem_so_huu_nha_o",
-      "label": "KháiNiệm",
-      "name": "sở hữu nhà ở"
+      "id": "chuthe_tochucnuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức nước ngoài"
+      }
     },
     {
-      "id": "dieukien_co_giay_to_khoan_1",
-      "label": "ĐiềuKiện",
-      "name": "có một trong các loại giấy tờ sau đây (khoản 1)"
+      "id": "chuthe_canhannuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân nước ngoài"
+      }
     },
     {
-      "id": "dieukien_giay_phep_xay_dung",
-      "label": "ĐiềuKiện",
-      "name": "Giấy phép xây dựng nhà ở hoặc giấy phép xây dựng nhà ở có thời hạn"
-    },
-    {
-      "id": "khainiem_phap_luat_ve_xay_dung",
-      "label": "KháiNiệm",
-      "name": "pháp luật về xây dựng"
-    },
-    {
-      "id": "dieukien_hop_dong_mua_ban_nha_o_nn",
-      "label": "ĐiềuKiện",
-      "name": "Hợp đồng mua bán nhà ở thuộc sở hữu nhà nước"
-    },
-    {
-      "id": "khainiem_nghi_dinh_61_cp_1994",
-      "label": "KháiNiệm",
-      "name": "Nghị định số 61-CP ngày 05 tháng 7 năm 1994 của Chính phủ về mua bán và kinh doanh nhà ở"
-    },
-    {
-      "id": "dieukien_giay_to_thanh_ly_hoa_gia_nn",
-      "label": "ĐiềuKiện",
-      "name": "giấy tờ về thanh lý, hóa giá nhà ở thuộc sở hữu nhà nước từ trước ngày 05 tháng 7 năm 1994"
-    },
-    {
-      "id": "dieukien_giay_to_giao_tang_nha_tinh_nghia",
-      "label": "ĐiềuKiện",
-      "name": "Giấy tờ về giao hoặc tặng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết"
-    },
-    {
-      "id": "khainiem_nha_tinh_nghia",
-      "label": "KháiNiệm",
-      "name": "nhà tình nghĩa"
-    },
-    {
-      "id": "khainiem_nha_tinh_thuong",
-      "label": "KháiNiệm",
-      "name": "nhà tình thương"
-    },
-    {
-      "id": "khainiem_nha_dai_doan_ket",
-      "label": "KháiNiệm",
-      "name": "nhà đại đoàn kết"
-    },
-    {
-      "id": "dieukien_giay_to_so_huu_nha_o_cq_tham_quyen_cap",
-      "label": "ĐiềuKiện",
-      "name": "Giấy tờ về sở hữu nhà ở do cơ quan có thẩm quyền cấp qua các thời kỳ"
-    },
-    {
-      "id": "dieukien_khong_thuoc_dien_nn_xac_lap_so_huu_toan_dan",
-      "label": "ĐiềuKiện",
-      "name": "nhà đất đó không thuộc diện Nhà nước xác lập sở hữu toàn dân"
-    },
-    {
-      "id": "khainiem_nghi_quyet_23_2003_qh11",
-      "label": "KháiNiệm",
-      "name": "Nghị quyết số 23/2003/QH11 ngày 26 tháng 11 năm 2003 của Quốc hội"
-    },
-    {
-      "id": "khainiem_nghi_quyet_755_2005_nq_ubtvqh11",
-      "label": "KháiNiệm",
-      "name": "Nghị quyết số 755/2005/NQ-UBTVQH11 ngày 02 tháng 4 năm 2005 của Ủy ban Thường vụ Quốc hội"
-    },
-    {
-      "id": "dieukien_giay_to_giao_dich_nha_o_truoc_01_07_2006",
-      "label": "ĐiềuKiện",
-      "name": "Giấy tờ về mua bán hoặc nhận tặng cho hoặc đổi hoặc nhận thừa kế nhà ở đã có chứng nhận của công chứng hoặc chứng thực của Ủy ban nhân dân cấp có thẩm quyền đối với trường hợp giao dịch trước ngày 01 tháng 7 năm 2006"
-    },
-    {
-      "id": "dieukien_van_ban_giao_dich_nha_o_sau_01_07_2006",
-      "label": "ĐiềuKiện",
-      "name": "văn bản về giao dịch đó theo quy định của pháp luật về nhà ở đối với trường hợp nhà ở do mua, nhận tặng cho, đổi, nhận thừa kế kể từ ngày 01 tháng 7 năm 2006 trở về sau"
-    },
-    {
-      "id": "khainiem_phap_luat_ve_nha_o",
-      "label": "KháiNiệm",
-      "name": "pháp luật về nhà ở"
-    },
-    {
-      "id": "dieukien_hop_dong_mua_ban_nha_o_voi_doanh_nghiep_bds",
-      "label": "ĐiềuKiện",
-      "name": "hợp đồng mua bán nhà ở do hai bên ký kết đối với trường hợp nhà ở do mua của doanh nghiệp kinh doanh bất động sản đầu tư xây dựng để bán"
-    },
-    {
-      "id": "chuthe_doanh_nghiep_kinh_doanh_bat_dong_san",
-      "label": "ChủThể",
-      "name": "doanh nghiệp kinh doanh bất động sản"
-    },
-    {
-      "id": "dieukien_ban_an_quyet_dinh_toa_an_xac_dinh_so_huu",
-      "label": "ĐiềuKiện",
-      "name": "Bản án hoặc quyết định của Tòa án hoặc giấy tờ của cơ quan nhà nước có thẩm quyền đã có hiệu lực pháp luật mà có xác định quyền sở hữu nhà ở"
-    },
-    {
-      "id": "khainiem_quyen_so_huu_nha_o",
-      "label": "KháiNiệm",
-      "name": "quyền sở hữu nhà ở"
-    },
-    {
-      "id": "dieukien_giay_to_ghi_ten_nguoi_khac_khong_tranh_chap",
-      "label": "ĐiềuKiện",
-      "name": "Một trong những giấy tờ quy định tại các điểm a, b, c, d, đ và e khoản này mà trên giấy tờ đó ghi tên người khác và đang không có tranh chấp"
-    },
-    {
-      "id": "dieukien_khong_co_tranh_chap",
-      "label": "ĐiềuKiện",
-      "name": "đang không có tranh chấp"
-    },
-    {
-      "id": "dieukien_nha_o_truoc_01_07_2006",
-      "label": "ĐiềuKiện",
-      "name": "có nhà ở trước ngày 01 tháng 7 năm 2006"
-    },
-    {
-      "id": "dieukien_khong_co_giay_to_khoan_1",
-      "label": "ĐiềuKiện",
-      "name": "không có giấy tờ quy định tại khoản 1 Điều này"
-    },
-    {
-      "id": "dieukien_nha_o_khong_thuoc_khoan_1_2",
-      "label": "ĐiềuKiện",
-      "name": "có nhà ở không thuộc quy định tại khoản 1 và khoản 2 Điều này"
-    },
-    {
-      "id": "dieukien_khong_phai_xin_giay_phep_xay_dung",
-      "label": "ĐiềuKiện",
-      "name": "thuộc trường hợp không phải xin giấy phép xây dựng"
-    },
-    {
-      "id": "dieukien_phai_xin_giay_phep_xay_dung",
-      "label": "ĐiềuKiện",
-      "name": "phải xin phép xây dựng"
-    },
-    {
-      "id": "dieukien_giay_xac_nhan_co_quan_quan_ly_xay_dung",
-      "label": "ĐiềuKiện",
-      "name": "giấy xác nhận của cơ quan có chức năng quản lý về xây dựng cấp huyện đủ điều kiện tồn tại nhà ở đó"
-    },
-    {
-      "id": "khainiem_co_quan_quan_ly_ve_xay_dung_cap_huyen",
-      "label": "KháiNiệm",
-      "name": "cơ quan có chức năng quản lý về xây dựng cấp huyện"
-    },
-    {
-      "id": "chuthe_to_chuc_trong_nuoc",
-      "label": "ChủThể",
-      "name": "Tổ chức trong nước"
-    },
-    {
-      "id": "chuthe_to_chuc_kinh_te_von_dau_tu_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "tổ chức kinh tế có vốn đầu tư nước ngoài"
-    },
-    {
-      "id": "chuthe_nguoi_goc_viet_nam_dinh_cu_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "người gốc Việt Nam định cư ở nước ngoài"
-    },
-    {
-      "id": "hanhviphaply_dau_tu_xay_dung_nha_o_kinh_doanh",
-      "label": "HànhViPhápLý",
-      "name": "đầu tư xây dựng nhà ở để kinh doanh"
-    },
-    {
-      "id": "dieukien_co_giay_to_phu_hop_phap_luat_ve_nha_o",
-      "label": "ĐiềuKiện",
-      "name": "có giấy tờ phù hợp với quy định của pháp luật về nhà ở"
-    },
-    {
-      "id": "dieukien_giay_to_ve_giao_dich_nha_o_theo_phap_luat",
-      "label": "ĐiềuKiện",
-      "name": "giấy tờ về giao dịch đó theo quy định của pháp luật"
-    },
-    {
-      "id": "chuthe_chu_so_huu_nha_o",
-      "label": "ChủThể",
-      "name": "chủ sở hữu nhà ở"
-    },
-    {
-      "id": "dieukien_khong_co_quyen_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "không có quyền sử dụng đất đối với thửa đất ở đó"
-    },
-    {
-      "id": "chuthe_to_chuc_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "tổ chức nước ngoài"
-    },
-    {
-      "id": "chuthe_ca_nhan_nuoc_ngoai",
-      "label": "ChủThể",
-      "name": "cá nhân nước ngoài"
-    },
-    {
-      "id": "dieukien_giay_to_giao_dich_nha_o_theo_phap_luat_ve_nha_o",
-      "label": "ĐiềuKiện",
-      "name": "giấy tờ về giao dịch nhà ở theo quy định của pháp luật về nhà ở"
-    },
-    {
-      "id": "dieukien_khong_thuoc_diem_a_khoan_5",
-      "label": "ĐiềuKiện",
-      "name": "không thuộc trường hợp quy định tại điểm a khoản này"
-    },
-    {
-      "id": "dieukien_giay_to_chung_minh_quyen_so_huu_nha_o_theo_dieu_nay",
-      "label": "ĐiềuKiện",
-      "name": "giấy tờ chứng minh về quyền sở hữu nhà ở theo quy định tại Điều này"
-    },
-    {
-      "id": "dieukien_hop_dong_thue_dat",
-      "label": "ĐiềuKiện",
-      "name": "hợp đồng thuê đất"
-    },
-    {
-      "id": "dieukien_hop_dong_gop_von",
-      "label": "ĐiềuKiện",
-      "name": "hợp đồng góp vốn"
-    },
-    {
-      "id": "dieukien_hop_dong_hop_tac_kinh_doanh",
-      "label": "ĐiềuKiện",
-      "name": "hợp đồng hợp tác kinh doanh"
-    },
-    {
-      "id": "dieukien_van_ban_chap_thuan_nguoi_su_dung_dat_dong_y_xay_dung",
-      "label": "ĐiềuKiện",
-      "name": "văn bản chấp thuận của người sử dụng đất đồng ý cho xây dựng nhà ở đã được công chứng hoặc chứng thực"
-    },
-    {
-      "id": "khainiem_cong_trinh_muc_dich_hon_hop",
-      "label": "KháiNiệm",
-      "name": "công trình có mục đích hỗn hợp"
-    },
-    {
-      "id": "dieukien_cong_trinh_duoc_tao_lap_tren_dat_o",
-      "label": "ĐiềuKiện",
-      "name": "được tạo lập trên đất ở"
-    },
-    {
-      "id": "khainiem_thoi_han_su_dung_dat_on_dinh_lau_dai",
-      "label": "KháiNiệm",
-      "name": "thời hạn sử dụng đất là ổn định lâu dài"
+      "id": "chuthe_tochucnguocvietnam",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức người Việt Nam"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_148",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+      "source_id": "dieu_148_2024",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_nha_o"
+      "source_id": "dieu_148_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+      "source_id": "dieu_148_2024",
+      "target_id": "khainiem_giaychungnhanquyenquyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
+      "source_id": "dieu_148_2024",
+      "target_id": "khainiem_nhaho",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_so_huu_nha_o"
+      "source_id": "dieu_148_2024",
+      "target_id": "chuthe_tochucnuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_so_huu_nha_o"
+      "source_id": "dieu_148_2024",
+      "target_id": "chuthe_canhannuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_giay_to_khoan_1"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_phep_xay_dung"
-    },
-    {
-      "source_id": "dieukien_giay_phep_xay_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_phap_luat_ve_xay_dung"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hop_dong_mua_ban_nha_o_nn"
-    },
-    {
-      "source_id": "dieukien_hop_dong_mua_ban_nha_o_nn",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_nghi_dinh_61_cp_1994"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_thanh_ly_hoa_gia_nn"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_giao_tang_nha_tinh_nghia"
-    },
-    {
-      "source_id": "dieukien_giay_to_giao_tang_nha_tinh_nghia",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nha_tinh_nghia"
-    },
-    {
-      "source_id": "dieukien_giay_to_giao_tang_nha_tinh_nghia",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nha_tinh_thuong"
-    },
-    {
-      "source_id": "dieukien_giay_to_giao_tang_nha_tinh_nghia",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nha_dai_doan_ket"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_so_huu_nha_o_cq_tham_quyen_cap"
-    },
-    {
-      "source_id": "dieukien_giay_to_so_huu_nha_o_cq_tham_quyen_cap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_thuoc_dien_nn_xac_lap_so_huu_toan_dan"
-    },
-    {
-      "source_id": "dieukien_khong_thuoc_dien_nn_xac_lap_so_huu_toan_dan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nghi_quyet_23_2003_qh11"
-    },
-    {
-      "source_id": "dieukien_khong_thuoc_dien_nn_xac_lap_so_huu_toan_dan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nghi_quyet_755_2005_nq_ubtvqh11"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_giao_dich_nha_o_truoc_01_07_2006"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_van_ban_giao_dich_nha_o_sau_01_07_2006"
-    },
-    {
-      "source_id": "dieukien_van_ban_giao_dich_nha_o_sau_01_07_2006",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_phap_luat_ve_nha_o"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hop_dong_mua_ban_nha_o_voi_doanh_nghiep_bds"
-    },
-    {
-      "source_id": "dieukien_hop_dong_mua_ban_nha_o_voi_doanh_nghiep_bds",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanh_nghiep_kinh_doanh_bat_dong_san"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ban_an_quyet_dinh_toa_an_xac_dinh_so_huu"
-    },
-    {
-      "source_id": "dieukien_ban_an_quyet_dinh_toa_an_xac_dinh_so_huu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_quyen_so_huu_nha_o"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_khoan_1",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_ghi_ten_nguoi_khac_khong_tranh_chap"
-    },
-    {
-      "source_id": "dieukien_giay_to_ghi_ten_nguoi_khac_khong_tranh_chap",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_co_tranh_chap"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nha_o_truoc_01_07_2006"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_co_giay_to_khoan_1"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_co_tranh_chap"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nha_o_khong_thuoc_khoan_1_2"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_phai_xin_giay_phep_xay_dung"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phai_xin_giay_phep_xay_dung"
-    },
-    {
-      "source_id": "dieukien_phai_xin_giay_phep_xay_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_xac_nhan_co_quan_quan_ly_xay_dung"
-    },
-    {
-      "source_id": "dieukien_giay_xac_nhan_co_quan_quan_ly_xay_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_co_quan_quan_ly_ve_xay_dung_cap_huyen"
-    },
-    {
-      "source_id": "dieukien_giay_xac_nhan_co_quan_quan_ly_xay_dung",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_phap_luat_ve_xay_dung"
-    },
-    {
-      "source_id": "chuthe_to_chuc_trong_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "chuthe_to_chuc_kinh_te_von_dau_tu_nuoc_ngoai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_nuoc_ngoai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "chuthe_to_chuc_trong_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_dau_tu_xay_dung_nha_o_kinh_doanh"
-    },
-    {
-      "source_id": "chuthe_to_chuc_kinh_te_von_dau_tu_nuoc_ngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_dau_tu_xay_dung_nha_o_kinh_doanh"
-    },
-    {
-      "source_id": "chuthe_nguoi_goc_viet_nam_dinh_cu_nuoc_ngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_dau_tu_xay_dung_nha_o_kinh_doanh"
-    },
-    {
-      "source_id": "hanhviphaply_dau_tu_xay_dung_nha_o_kinh_doanh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_giay_to_phu_hop_phap_luat_ve_nha_o"
-    },
-    {
-      "source_id": "dieukien_co_giay_to_phu_hop_phap_luat_ve_nha_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_phap_luat_ve_nha_o"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_ve_giao_dich_nha_o_theo_phap_luat"
-    },
-    {
-      "source_id": "dieukien_giay_to_ve_giao_dich_nha_o_theo_phap_luat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_phap_luat_ve_nha_o"
-    },
-    {
-      "source_id": "chuthe_chu_so_huu_nha_o",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_co_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_to_chuc_nuoc_ngoai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "chuthe_ca_nhan_nuoc_ngoai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_cap_giay_chung_nhan"
-    },
-    {
-      "source_id": "chuthe_to_chuc_nuoc_ngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_giao_dich_nha_o_theo_phap_luat_ve_nha_o"
-    },
-    {
-      "source_id": "chuthe_ca_nhan_nuoc_ngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_giao_dich_nha_o_theo_phap_luat_ve_nha_o"
-    },
-    {
-      "source_id": "dieukien_giay_to_giao_dich_nha_o_theo_phap_luat_ve_nha_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_phap_luat_ve_nha_o"
-    },
-    {
-      "source_id": "chuthe_chu_so_huu_nha_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_thuoc_diem_a_khoan_5"
-    },
-    {
-      "source_id": "chuthe_chu_so_huu_nha_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_giay_to_chung_minh_quyen_so_huu_nha_o_theo_dieu_nay"
-    },
-    {
-      "source_id": "chuthe_chu_so_huu_nha_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hop_dong_thue_dat"
-    },
-    {
-      "source_id": "chuthe_chu_so_huu_nha_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hop_dong_gop_von"
-    },
-    {
-      "source_id": "chuthe_chu_so_huu_nha_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_hop_dong_hop_tac_kinh_doanh"
-    },
-    {
-      "source_id": "chuthe_chu_so_huu_nha_o",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_van_ban_chap_thuan_nguoi_su_dung_dat_dong_y_xay_dung"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_cong_trinh_muc_dich_hon_hop"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_cong_trinh_duoc_tao_lap_tren_dat_o"
-    },
-    {
-      "source_id": "hanhviphaply_cap_giay_chung_nhan",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_thoi_han_su_dung_dat_on_dinh_lau_dai"
+      "source_id": "dieu_148_2024",
+      "target_id": "chuthe_tochucnguocvietnam",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

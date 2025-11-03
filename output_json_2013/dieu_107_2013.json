@@ -1,281 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_107",
-      "label": "ĐiềuLuật",
-      "name": "Điều 107"
+      "id": "dieu_107_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 107. Các khoản thu tài chính từ đất đai",
+        "ma_dieu": "107",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 107.\n\nCác khoản thu tài chính từ đất đai\n1. Các khoản thu tài chính từ đất đai bao gồm:\na) Tiền sử dụng đất khi được Nhà nước giao đất có thu tiền sử dụng đất, cho phép chuyển mục đích sử\ndụng đất, công nhận quyền sử dụng đất mà phải nộp tiền sử dụng đất;\nb) Tiền thuê đất khi được Nhà nước cho thuê;\nc) Thuế sử dụng đất;\nd) Thuế thu nhập từ chuyển quyền sử dụng đất;\nđ) Tiền thu từ việc xử phạt vi phạm pháp luật về đất đai;\ne) Tiền bồi thường cho Nhà nước khi gây thiệt hại trong quản lý và sử dụng đất đai;\ng) Phí và lệ phí trong quản lý, sử dụng đất đai.\n2. Chính phủ quy định chi tiết việc thu tiền sử dụng đất, tiền thuê đất, tiền xử phạt vi phạm pháp luật về\nđất đai, tiền bồi thường cho Nhà nước khi gây thiệt hại trong quản lý và sử dụng đất đai."
+      }
     },
     {
-      "id": "khainiem_cac_khoan_thu_tai_chinh_tu_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Các khoản thu tài chính từ đất đai"
+      "id": "khainiem_khoanthutaichinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Các khoản thu tài chính từ đất đai"
+      }
     },
     {
-      "id": "khainiem_tien_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Tiền sử dụng đất"
+      "id": "khainiem_tiensudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_tien_thue_dat",
-      "label": "KháiNiệm",
-      "name": "Tiền thuê đất"
+      "id": "khainiem_tienthuedat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền thuê đất"
+      }
     },
     {
-      "id": "khainiem_thue_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Thuế sử dụng đất"
+      "id": "khainiem_thuesudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thuế sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_thue_thu_nhap_tu_chuyen_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Thuế thu nhập từ chuyển quyền sử dụng đất"
+      "id": "khainiem_thuenhaptuchuyenquyen",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Thuế thu nhập từ chuyển quyền sử dụng đất"
+      }
     },
     {
-      "id": "khainiem_tien_thu_tu_viec_xu_phat_vi_pham_phap_luat_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Tiền thu từ việc xử phạt vi phạm pháp luật về đất đai"
+      "id": "khainiem_tienthuvixuly",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền thu từ việc xử phạt vi phạm pháp luật về đất đai"
+      }
     },
     {
-      "id": "khainiem_tien_boi_thuong_cho_nha_nuoc",
-      "label": "KháiNiệm",
-      "name": "Tiền bồi thường cho Nhà nước"
+      "id": "khainiem_tienboithuong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền bồi thường cho Nhà nước khi gây thiệt hại trong quản lý và sử dụng đất đai"
+      }
     },
     {
-      "id": "khainiem_phi_va_le_phi_trong_quan_ly_su_dung_dat_dai",
-      "label": "KháiNiệm",
-      "name": "Phí và lệ phí trong quản lý, sử dụng đất đai"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhviphaply_giao_dat_co_thu_tien_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất có thu tiền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_cho_phep_chuyen_muc_dich_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho phép chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_cong_nhan_quyen_su_dung_dat_ma_phai_nop_tien_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "công nhận quyền sử dụng đất mà phải nộp tiền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_cho_thue_dat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê"
-    },
-    {
-      "id": "hanhviphaply_chuyen_quyen_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "chuyển quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_xu_phat_vi_pham_phap_luat_ve_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "xử phạt vi phạm pháp luật về đất đai"
-    },
-    {
-      "id": "hanhviphaply_gay_thiet_hai_trong_quan_ly_va_su_dung_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "gây thiệt hại trong quản lý và sử dụng đất đai"
-    },
-    {
-      "id": "hanhviphaply_quan_ly_va_su_dung_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "quản lý và sử dụng đất đai"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_chi_tiet_viec_thu",
-      "label": "HànhViPhápLý",
-      "name": "quy định chi tiết việc thu"
-    },
-    {
-      "id": "dieukien_duoc_nha_nuoc_giao_dat_co_thu_tien_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "khi được Nhà nước giao đất có thu tiền sử dụng đất"
-    },
-    {
-      "id": "dieukien_cho_phep_chuyen_muc_dich_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "cho phép chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "dieukien_cong_nhan_quyen_su_dung_dat_ma_phai_nop_tien_su_dung_dat",
-      "label": "ĐiềuKiện",
-      "name": "công nhận quyền sử dụng đất mà phải nộp tiền sử dụng đất"
-    },
-    {
-      "id": "dieukien_duoc_nha_nuoc_cho_thue",
-      "label": "ĐiềuKiện",
-      "name": "khi được Nhà nước cho thuê"
-    },
-    {
-      "id": "dieukien_gay_thiet_hai_trong_quan_ly_va_su_dung_dat_dai",
-      "label": "ĐiềuKiện",
-      "name": "khi gây thiệt hại trong quản lý và sử dụng đất đai"
+      "id": "khainiem_phivalephi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Phí và lệ phí trong quản lý, sử dụng đất đai"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_107",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_cac_khoan_thu_tai_chinh_tu_dat_dai"
+      "source_id": "dieu_107_2013",
+      "target_id": "khainiem_khoanthutaichinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_cac_khoan_thu_tai_chinh_tu_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_tien_su_dung_dat"
+      "source_id": "dieu_107_2013",
+      "target_id": "khainiem_tiensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_cac_khoan_thu_tai_chinh_tu_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_tien_thue_dat"
+      "source_id": "dieu_107_2013",
+      "target_id": "khainiem_tienthuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_cac_khoan_thu_tai_chinh_tu_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_thue_su_dung_dat"
+      "source_id": "dieu_107_2013",
+      "target_id": "khainiem_thuesudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_cac_khoan_thu_tai_chinh_tu_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_thue_thu_nhap_tu_chuyen_quyen_su_dung_dat"
+      "source_id": "dieu_107_2013",
+      "target_id": "khainiem_thuenhaptuchuyenquyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_cac_khoan_thu_tai_chinh_tu_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_tien_thu_tu_viec_xu_phat_vi_pham_phap_luat_ve_dat_dai"
+      "source_id": "dieu_107_2013",
+      "target_id": "khainiem_tienthuvixuly",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_cac_khoan_thu_tai_chinh_tu_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_tien_boi_thuong_cho_nha_nuoc"
+      "source_id": "dieu_107_2013",
+      "target_id": "khainiem_tienboithuong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_cac_khoan_thu_tai_chinh_tu_dat_dai",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "khainiem_phi_va_le_phi_trong_quan_ly_su_dung_dat_dai"
-    },
-    {
-      "source_id": "khainiem_tien_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_duoc_nha_nuoc_giao_dat_co_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_giao_dat_co_thu_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_giao_dat_co_thu_tien_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tien_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_tien_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_cho_phep_chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cho_phep_chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_cho_phep_chuyen_muc_dich_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tien_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_tien_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_cong_nhan_quyen_su_dung_dat_ma_phai_nop_tien_su_dung_dat"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cong_nhan_quyen_su_dung_dat_ma_phai_nop_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_cong_nhan_quyen_su_dung_dat_ma_phai_nop_tien_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tien_su_dung_dat"
-    },
-    {
-      "source_id": "khainiem_tien_thue_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_duoc_nha_nuoc_cho_thue"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_cho_thue_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tien_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_chuyen_quyen_su_dung_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_thue_thu_nhap_tu_chuyen_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_xu_phat_vi_pham_phap_luat_ve_dat_dai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tien_thu_tu_viec_xu_phat_vi_pham_phap_luat_ve_dat_dai"
-    },
-    {
-      "source_id": "khainiem_tien_boi_thuong_cho_nha_nuoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_gay_thiet_hai_trong_quan_ly_va_su_dung_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_gay_thiet_hai_trong_quan_ly_va_su_dung_dat_dai",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khainiem_tien_boi_thuong_cho_nha_nuoc"
-    },
-    {
-      "source_id": "khainiem_phi_va_le_phi_trong_quan_ly_su_dung_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_quan_ly_va_su_dung_dat_dai"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quy_dinh_chi_tiet_viec_thu"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet_viec_thu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tien_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet_viec_thu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tien_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet_viec_thu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tien_thu_tu_viec_xu_phat_vi_pham_phap_luat_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_chi_tiet_viec_thu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tien_boi_thuong_cho_nha_nuoc"
+      "source_id": "dieu_107_2013",
+      "target_id": "khainiem_phivalephi",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

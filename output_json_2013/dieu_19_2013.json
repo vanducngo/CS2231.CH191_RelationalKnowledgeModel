@@ -1,181 +1,148 @@
 {
   "entities": [
     {
-      "id": "dieu_19",
-      "label": "ĐiềuLuật",
-      "name": "Điều 19"
+      "id": "dieu_19_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 19",
+        "ma_dieu": "19",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 19.\n\nNhà nước quyết định chính sách tài chính về đất đai about:blank\n. Nhà nước quyết định chính sách thu, chi tài chính về đất đai.\n2. Nhà nước điều tiết phần giá trị tăng thêm từ đất mà không do đầu tư của người sử dụng đất mang lại\nthông qua chính sách thuế, tiền sử dụng đất, tiền thuê đất, đầu tư cơ sở hạ tầng và chính sách hỗ trợ\ncho người có đất thu hồi."
+      }
     },
     {
       "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "chuthe_ngoisudungdat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
+      "id": "khainiem_chinhsachtaichinhvedatdai",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chính sách tài chính về đất đai"
+      }
     },
     {
-      "id": "chuthe_ngoicodatthuhoi",
-      "label": "ChủThể",
-      "name": "người có đất thu hồi"
+      "id": "hanhviphaply_quyetdinhchinhsachthuchi",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Quyết định chính sách thu, chi tài chính"
+      }
     },
     {
-      "id": "hanhviphaply_quyetdinhchinhsach",
-      "label": "HànhViPhápLý",
-      "name": "quyết định chính sách"
+      "id": "hanhviphaply_dieutietgiatritangthem",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Điều tiết phần giá trị tăng thêm"
+      }
     },
     {
-      "id": "hanhviphaply_dieutiet",
-      "label": "HànhViPhápLý",
-      "name": "điều tiết"
-    },
-    {
-      "id": "khainiem_chinhsachtainhacuavandatdai",
-      "label": "KháiNiệm",
-      "name": "chính sách tài chính về đất đai"
-    },
-    {
-      "id": "khainiem_chinhsachthuchitainhacuavandatdai",
-      "label": "KháiNiệm",
-      "name": "chính sách thu, chi tài chính về đất đai"
-    },
-    {
-      "id": "khainiem_giatritangthem",
-      "label": "KháiNiệm",
-      "name": "phần giá trị tăng thêm từ đất"
+      "id": "chuthe_nguoisudungdat",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
       "id": "khainiem_chinhsachthue",
-      "label": "KháiNiệm",
-      "name": "chính sách thuế"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chính sách thuế"
+      }
     },
     {
       "id": "khainiem_tiensudungdat",
-      "label": "KháiNiệm",
-      "name": "tiền sử dụng đất"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền sử dụng đất"
+      }
     },
     {
       "id": "khainiem_tienthuedat",
-      "label": "KháiNiệm",
-      "name": "tiền thuê đất"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Tiền thuê đất"
+      }
     },
     {
-      "id": "khainiem_dautucosohathang",
-      "label": "KháiNiệm",
-      "name": "đầu tư cơ sở hạ tầng"
+      "id": "khainiem_dautucosohatang",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đầu tư cơ sở hạ tầng"
+      }
     },
     {
       "id": "khainiem_chinhsachhotro",
-      "label": "KháiNiệm",
-      "name": "chính sách hỗ trợ"
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Chính sách hỗ trợ"
+      }
     },
     {
-      "id": "dieukien_khongdodoitungoisudungdat",
-      "label": "ĐiềuKiện",
-      "name": "không do đầu tư của người sử dụng đất mang lại"
+      "id": "chuthe_nguoicodatthuhoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có đất thu hồi"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_19",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nhanuoc"
+      "source_id": "dieu_19_2013",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
+    },
+    {
+      "source_id": "dieu_19_2013",
+      "target_id": "khainiem_chinhsachtaichinhvedatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
       "source_id": "chuthe_nhanuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_quyetdinhchinhsach"
-    },
-    {
-      "source_id": "hanhviphaply_quyetdinhchinhsach",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chinhsachtainhacuavandatdai"
-    },
-    {
-      "source_id": "hanhviphaply_quyetdinhchinhsach",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chinhsachthuchitainhacuavandatdai"
-    },
-    {
-      "source_id": "dieu_19",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chinhsachtainhacuavandatdai"
-    },
-    {
-      "source_id": "dieu_19",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_chinhsachthuchitainhacuavandatdai"
+      "target_id": "hanhviphaply_quyetdinhchinhsachthuchi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
       "source_id": "chuthe_nhanuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_dieutiet"
+      "target_id": "hanhviphaply_dieutietgiatritangthem",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dieutiet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_giatritangthem"
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "chuthe_nguoisudungdat",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhviphaply_dieutiet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khongdodoitungoisudungdat"
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_chinhsachthue",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_khongdodoitungoisudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ngoisudungdat"
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_tiensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_19",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_giatritangthem"
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_tienthuedat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_19",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_khongdodoitungoisudungdat"
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_dautucosohatang",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dieutiet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_chinhsachthue"
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "khainiem_chinhsachhotro",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_dieutiet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_tiensudungdat"
-    },
-    {
-      "source_id": "hanhviphaply_dieutiet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_tienthuedat"
-    },
-    {
-      "source_id": "hanhviphaply_dieutiet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_dautucosohathang"
-    },
-    {
-      "source_id": "hanhviphaply_dieutiet",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_chinhsachhotro"
-    },
-    {
-      "source_id": "khainiem_chinhsachhotro",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ngoicodatthuhoi"
-    },
-    {
-      "source_id": "dieu_19",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_ngoisudungdat"
-    },
-    {
-      "source_id": "dieu_19",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_ngoicodatthuhoi"
+      "source_id": "hanhviphaply_dieutietgiatritangthem",
+      "target_id": "chuthe_nguoicodatthuhoi",
+      "relationship_type": "AP_DUNG_CHO"
     }
   ]
 }

@@ -8,35 +8,58 @@ from llm_callers import call_gemini_api as call_llm
 def get_extraction_prompt(law_year, article_code, article_content):
     # Prompt 1 chi tiết
     return f"""
-Bạn là một trợ lý pháp lý chuyên nghiệp với nhiệm vụ xây dựng một Đồ thị Tri thức (Knowledge Graph) từ văn bản luật. Với nội dung của Điều luật được cung cấp dưới đây, hãy trích xuất tất cả các thực thể và mối quan hệ giữa chúng theo một cấu trúc JSON định sẵn.
+    Bạn là một trợ lý pháp lý chuyên nghiệp, thực hiện nhiệm vụ trích xuất thông tin có cấu trúc để xây dựng Đồ thị Tri thức. Với nội dung của Điều luật dưới đây, hãy trích xuất các thực thể và mối quan hệ theo cấu trúc JSON định sẵn.
 
-**QUY TẮC TRÍCH XUẤT:**
+    **QUY TẮC BẮT BUỘC:**
 
-1.  **Định danh (ID):** Tạo một ID duy nhất cho mỗi thực thể, theo quy tắc: `[loại]_[tên_không_dấu]`. Ví dụ: `chuthe_canhan`, `hanhvi_chuyennhuong`. Với ĐiềuLuật, ID là `dieu_{article_code}`.
-2.  **Phân loại Thực thể:** Chỉ sử dụng các loại (labels) sau: `ĐiềuLuật`, `KháiNiệm`, `ChủThể`, `HànhViPhápLý`, `ChếTài`, `ĐiềuKiện`.
-3.  **Quan hệ:** Mô tả các mối quan hệ tìm thấy dưới dạng một mảng các object. Mỗi object gồm `source_id`, `relationship_type`, và `target_id`.
-4.  **Các loại quan hệ được phép:** Chỉ sử dụng các loại sau: `ĐỊNH_NGHĨA`, `QUY_ĐỊNH_VỀ`, `ÁP_DỤNG_CHO`, `DẪN_ĐẾN`, `YÊU_CẦU`.
+    1.  **ĐỊNH DANH (ID):**
+        *   Sử dụng định dạng `[loại]_[tên_không_dấu_viết_liền]`.
+        *   Ví dụ cho Khái niệm "Người sử dụng đất" -> ID là `khainiem_nguoisudungdat`.
+        *   Ví dụ cho Chủ thể "Hộ gia đình" -> ID là `chuthe_hogiadinh`.
+        *   **Với Điều Luật, ID phải là `dieu_[số hiệu]_[năm luật]`. Ví dụ: `dieu_4_2024`.**
 
----
+    2.  **PHÂN LOẠI THỰC THỂ (LABEL):**
+        *   Chỉ được phép sử dụng các label sau: `DieuLuat`, `KhaiNiem`, `ChuThe`, `HanhViPhapLy`, `CheTai`, `DieuKien`.
+        *   Phân loại một cách chính xác nhất có thể.
 
-**VĂN BẢN NGUỒN:**
+    3.  **THUỘC TÍNH (PROPERTIES):**
+        *   Tất cả các thuộc tính phải nằm trong một object JSON con có tên là "properties".
+        *   Mỗi thực thể phải có thuộc tính `name` chứa tên đầy đủ, có dấu.
+        *   **CHỈ nút có label `DieuLuat` mới được có thuộc tính `noi_dung` chứa toàn bộ văn bản của điều luật.** Các loại nút khác TUYỆT ĐỐI KHÔNG được có thuộc tính này.
+        *   Nút có label `DieuLuat` cũng phải có thuộc tính `ma_dieu` và `phien_ban`.
 
-*   **Tên Luật:** Luật Đất đai {law_year}
-*   **Mã Điều:** {article_code}
-*   **Nội dung:**
+    4.  **QUAN HỆ (RELATIONSHIPS):**
+        *   Mỗi quan hệ phải có `source_id` và `target_id` tương ứng với các ID đã được định nghĩa trong phần `entities`.
+        *   Chỉ được phép sử dụng các loại quan hệ sau: `QUY_DINH_VE`, `AP_DUNG_CHO`, `DAN_DEN`, `YEU_CAU`, `DINH_NGHIA`.
+
+    ---
+    **VÍ DỤ MẪU:**
+    Nếu Điều luật là "Điều 5. Người sử dụng đất gồm hộ gia đình...", output phải tương tự:
+    ```json
+    {{
+    "entities": [
+        {{ "id": "dieu_5_2013", "label": "DieuLuat", "properties": {{ "name": "Người sử dụng đất", "ma_dieu": "5", "phien_ban": 2013, "noi_dung": "Người sử dụng đất được giao đất, cho thuê đất..." }} }},
+        {{ "id": "chuthe_hogiadinh", "label": "ChuThe", "properties": {{ "name": "Hộ gia đình" }} }}
+    ],
+    "relationships": [
+        {{ "source_id": "dieu_5_2013", "target_id": "chuthe_hogiadinh", "relationship_type": "QUY_DINH_VE" }}
+    ]
+    }}
+
+    VĂN BẢN NGUỒN CẦN XỬ LÝ:
+    Tên Luật: Luật Đất đai {law_year}
+    Mã Điều: {article_code}
+    Nội dung:
     {article_content}
-
----
-
-**OUTPUT DƯỚI DẠNG JSON (Không thêm bất kỳ giải thích nào khác):**
-"""
+    JSON OUTPUT (Tuân thủ nghiêm ngặt các quy tắc trên):
+    """
 
 def process_single_file(filename, year, input_dir, output_dir):
     """Hàm này xử lý một file duy nhất, được gọi bởi các luồng."""
     output_path = os.path.join(output_dir, filename.replace('.txt', '.json'))
     
     if os.path.exists(output_path):
-        return f"Bỏ qua: {filename}"
+        return f"Đã xử lý: Bỏ qua: {filename}"
         
     input_path = os.path.join(input_dir, filename)
     

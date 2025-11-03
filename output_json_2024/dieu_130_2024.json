@@ -1,301 +1,136 @@
 {
   "entities": [
     {
-      "id": "dieu_130",
-      "label": "ĐiềuLuật",
-      "name": "Điều 130"
+      "id": "dieu_130_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 130. Trách nhiệm lập, chỉnh lý, cập nhật, quản lý, khai thác hồ sơ địa chính",
+        "ma_dieu": "130",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 130.\n\nTrách nhiệm lập, chỉnh lý, cập nhật, quản lý, khai thác hồ sơ địa chính\n1. Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc lập hồ sơ địa chính tại địa phương và bố trí\nkinh phí để tổ chức thực hiện.\n2. Cơ quan có chức năng quản lý đất đai có trách nhiệm tổ chức thực hiện việc lập hồ sơ địa chính;\nkiểm tra, giám sát việc chỉnh lý, cập nhật hồ sơ địa chính thường xuyên tại địa phương.\n3. Tổ chức đăng ký đất đai có trách nhiệm thực hiện việc lập, chỉnh lý hồ sơ địa chính, cập nhật biến\nđộng vào hồ sơ địa chính.\nĐối với những địa phương chưa xây dựng cơ sở dữ liệu đất đai thì tổ chức đăng ký đất đai có trách\nnhiệm cung cấp bản sao hồ sơ địa chính cho Ủy ban nhân dân cấp xã để sử dụng.\n4. Công chức làm nhiệm vụ địa chính cấp xã có trách nhiệm quản lý, sử dụng thông tin từ hồ sơ địa\nchính phục vụ cho yêu cầu quản lý nhà nước về đất đai tại địa phương và theo yêu cầu của công dân;\ncập nhật biến động đất đai đối với những trường hợp biến động thuộc thẩm quyền và phản ánh tình\nhình vi phạm trong quản lý, sử dụng đất vào hồ sơ địa chính.\n5. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về hồ sơ địa chính, hướng dẫn việc lập, chỉnh lý,\ncập nhật, quản lý hồ sơ địa chính, việc khai thác, sử dụng và kiểm tra, giám sát đối với hồ sơ địa chính.\nMục 2. ĐĂNG KÝ ĐẤT  ĐAI, TÀI SẢN GẮN LIỀN VỚI ĐẤT"
+      }
     },
     {
-      "id": "khainiem_trach_nhiem_lap_chinh_ly_cap_nhat_quan_ly_khai_thac_ho_so_dia_chinh",
-      "label": "KháiNiệm",
-      "name": "Trách nhiệm lập, chỉnh lý, cập nhật, quản lý, khai thác hồ sơ địa chính"
+      "id": "chuthe_ubndcadtinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "khainiem_ho_so_dia_chinh",
-      "label": "KháiNiệm",
-      "name": "hồ sơ địa chính"
+      "id": "hanhviphaply_chidaovielaphosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "chỉ đạo việc lập hồ sơ địa chính"
+      }
     },
     {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
+      "id": "khainiem_hosodiachinh",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "hồ sơ địa chính"
+      }
     },
     {
-      "id": "hanhviphaply_chi_dao_lap_ho_so_dia_chinh_tai_dia_phuong",
-      "label": "HànhViPhápLý",
-      "name": "chỉ đạo việc lập hồ sơ địa chính tại địa phương"
+      "id": "chuthe_coquancochucnangquanlydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ quan có chức năng quản lý đất đai"
+      }
     },
     {
-      "id": "hanhviphaply_bo_tri_kinh_phi_thuc_hien",
-      "label": "HànhViPhápLý",
-      "name": "bố trí kinh phí để tổ chức thực hiện"
+      "id": "hanhviphaply_tochucthuchienvieclaphosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "tổ chức thực hiện việc lập hồ sơ địa chính"
+      }
     },
     {
-      "id": "chuthe_co_quan_co_chuc_nang_quan_ly_dat_dai",
-      "label": "ChủThể",
-      "name": "Cơ quan có chức năng quản lý đất đai"
+      "id": "chuthe_tochucdangkydatdai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức đăng ký đất đai"
+      }
     },
     {
-      "id": "hanhviphaply_to_chuc_thuc_hien_lap_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "tổ chức thực hiện việc lập hồ sơ địa chính"
+      "id": "hanhviphaply_thuchiencapnhatbiendongvaohosodiachinh",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "thực hiện việc lập, chỉnh lý hồ sơ địa chính, cập nhật biến động vào hồ sơ địa chính"
+      }
     },
     {
-      "id": "hanhviphaply_kiem_tra_giam_sat_chinh_ly_cap_nhat_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "kiểm tra, giám sát việc chỉnh lý, cập nhật hồ sơ địa chính"
+      "id": "chuthe_ubndcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp xã"
+      }
     },
     {
-      "id": "chuthe_to_chuc_dang_ky_dat_dai",
-      "label": "ChủThể",
-      "name": "Tổ chức đăng ký đất đai"
+      "id": "chuthe_congchucdiaoccapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Công chức làm nhiệm vụ địa chính cấp xã"
+      }
     },
     {
-      "id": "hanhviphaply_thuc_hien_lap_chinh_ly_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện việc lập, chỉnh lý hồ sơ địa chính"
-    },
-    {
-      "id": "hanhviphaply_cap_nhat_bien_dong_vao_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "cập nhật biến động vào hồ sơ địa chính"
-    },
-    {
-      "id": "dieukien_dia_phuong_chua_xay_dung_co_so_du_lieu_dat_dai",
-      "label": "ĐiềuKiện",
-      "name": "những địa phương chưa xây dựng cơ sở dữ liệu đất đai"
-    },
-    {
-      "id": "hanhviphaply_cung_cap_ban_sao_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "cung cấp bản sao hồ sơ địa chính"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_xa",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp xã"
-    },
-    {
-      "id": "chuthe_cong_chuc_lam_nhiem_vu_dia_chinh_cap_xa",
-      "label": "ChủThể",
-      "name": "Công chức làm nhiệm vụ địa chính cấp xã"
-    },
-    {
-      "id": "hanhviphaply_quan_ly_su_dung_thong_tin_tu_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "quản lý, sử dụng thông tin từ hồ sơ địa chính"
-    },
-    {
-      "id": "hanhviphaply_phuc_vu_yeu_cau_quan_ly_nha_nuoc_ve_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "phục vụ cho yêu cầu quản lý nhà nước về đất đai"
-    },
-    {
-      "id": "hanhviphaply_phuc_vu_yeu_cau_cong_dan",
-      "label": "HànhViPhápLý",
-      "name": "phục vụ theo yêu cầu của công dân"
-    },
-    {
-      "id": "chuthe_cong_dan",
-      "label": "ChủThể",
-      "name": "công dân"
-    },
-    {
-      "id": "hanhviphaply_cap_nhat_bien_dong_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "cập nhật biến động đất đai"
-    },
-    {
-      "id": "dieukien_truong_hop_bien_dong_thuoc_tham_quyen",
-      "label": "ĐiềuKiện",
-      "name": "những trường hợp biến động thuộc thẩm quyền"
-    },
-    {
-      "id": "hanhviphaply_phan_anh_tinh_hinh_vi_pham_quan_ly_su_dung_dat_vao_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "phản ánh tình hình vi phạm trong quản lý, sử dụng đất vào hồ sơ địa chính"
-    },
-    {
-      "id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "label": "ChủThể",
-      "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_ve_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "quy định về hồ sơ địa chính"
-    },
-    {
-      "id": "hanhviphaply_huong_dan_lap_chinh_ly_cap_nhat_quan_ly_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "hướng dẫn việc lập, chỉnh lý, cập nhật, quản lý hồ sơ địa chính"
-    },
-    {
-      "id": "hanhviphaply_huong_dan_khai_thac_su_dung_kiem_tra_giam_sat_ho_so_dia_chinh",
-      "label": "HànhViPhápLý",
-      "name": "hướng dẫn việc khai thác, sử dụng và kiểm tra, giám sát đối với hồ sơ địa chính"
+      "id": "chuthe_botruongbotnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ trưởng Bộ Tài nguyên và Môi trường"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_130",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_trach_nhiem_lap_chinh_ly_cap_nhat_quan_ly_khai_thac_ho_so_dia_chinh"
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_ubndcadtinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_chi_dao_lap_ho_so_dia_chinh_tai_dia_phuong"
+      "source_id": "dieu_130_2024",
+      "target_id": "hanhviphaply_chidaovielaphosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_bo_tri_kinh_phi_thuc_hien"
+      "source_id": "dieu_130_2024",
+      "target_id": "khainiem_hosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chi_dao_lap_ho_so_dia_chinh_tai_dia_phuong",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_coquancochucnangquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_co_quan_co_chuc_nang_quan_ly_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_to_chuc_thuc_hien_lap_ho_so_dia_chinh"
+      "source_id": "dieu_130_2024",
+      "target_id": "hanhviphaply_tochucthuchienvieclaphosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_co_quan_co_chuc_nang_quan_ly_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_kiem_tra_giam_sat_chinh_ly_cap_nhat_ho_so_dia_chinh"
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_tochucdangkydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_to_chuc_thuc_hien_lap_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
+      "source_id": "dieu_130_2024",
+      "target_id": "hanhviphaply_thuchiencapnhatbiendongvaohosodiachinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_kiem_tra_giam_sat_chinh_ly_cap_nhat_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_ubndcapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_to_chuc_dang_ky_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thuc_hien_lap_chinh_ly_ho_so_dia_chinh"
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_congchucdiaoccapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_to_chuc_dang_ky_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_nhat_bien_dong_vao_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_thuc_hien_lap_chinh_ly_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_cap_nhat_bien_dong_vao_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "dieukien_dia_phuong_chua_xay_dung_co_so_du_lieu_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_cung_cap_ban_sao_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_to_chuc_dang_ky_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cung_cap_ban_sao_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_cung_cap_ban_sao_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_xa"
-    },
-    {
-      "source_id": "hanhviphaply_cung_cap_ban_sao_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_cong_chuc_lam_nhiem_vu_dia_chinh_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_su_dung_thong_tin_tu_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_su_dung_thong_tin_tu_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_su_dung_thong_tin_tu_ho_so_dia_chinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_phuc_vu_yeu_cau_quan_ly_nha_nuoc_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_quan_ly_su_dung_thong_tin_tu_ho_so_dia_chinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_phuc_vu_yeu_cau_cong_dan"
-    },
-    {
-      "source_id": "hanhviphaply_phuc_vu_yeu_cau_cong_dan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "chuthe_cong_dan"
-    },
-    {
-      "source_id": "chuthe_cong_chuc_lam_nhiem_vu_dia_chinh_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_cap_nhat_bien_dong_dat_dai"
-    },
-    {
-      "source_id": "dieukien_truong_hop_bien_dong_thuoc_tham_quyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_cap_nhat_bien_dong_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_cap_nhat_bien_dong_dat_dai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_cong_chuc_lam_nhiem_vu_dia_chinh_cap_xa",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_phan_anh_tinh_hinh_vi_pham_quan_ly_su_dung_dat_vao_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_phan_anh_tinh_hinh_vi_pham_quan_ly_su_dung_dat_vao_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quy_dinh_ve_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_ve_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_huong_dan_lap_chinh_ly_cap_nhat_quan_ly_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_huong_dan_lap_chinh_ly_cap_nhat_quan_ly_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_truong_bo_tai_nguyen_va_moi_truong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_huong_dan_khai_thac_su_dung_kiem_tra_giam_sat_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_huong_dan_khai_thac_su_dung_kiem_tra_giam_sat_ho_so_dia_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khainiem_ho_so_dia_chinh"
+      "source_id": "dieu_130_2024",
+      "target_id": "chuthe_botruongbotnmt",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,221 +1,76 @@
 {
   "entities": [
     {
-      "id": "dieu_51",
-      "label": "ĐiềuLuật",
-      "name": "Điều 51"
+      "id": "dieu_51_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 51. Nguyên tắc điều tra, đánh giá đất đai và bảo vệ, cải tạo, phục hồi đất",
+        "ma_dieu": "51",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 51.\n\nNguyên tắc điều tra, đánh giá đất đai và bảo vệ, cải tạo, phục hồi đất\n1. Bảo đảm kịp thời, khách quan, phản ánh đúng thực trạng tài nguyên đất.\n2. Thực hiện trên phạm vi cả nước, các vùng kinh tế - xã hội, đơn vị hành chính cấp tỉnh và bảo đảm\nliên tục, kế thừa.\n3. Nhà nước bảo đảm kinh phí thực hiện điều tra, đánh giá đất đai; khuyến khích các tổ chức, cá nhân\ncùng với Nhà nước thực hiện bảo vệ, cải tạo, phục hồi đất.\n4. Cung cấp kịp thời thông tin, số liệu để phục vụ công tác quản lý nhà nước về đất đai và nhu cầu\nthông tin đất đai cho các hoạt động kinh tế, xã hội, quốc phòng, an ninh, nghiên cứu khoa học, giáo dục\nvà đào tạo và các nhu cầu khác của Nhà nước và xã hội."
+      }
     },
     {
-      "id": "khainiem_nguyen_tac_dieu_tra_bao_ve_dat",
-      "label": "KháiNiệm",
-      "name": "Nguyên tắc điều tra, đánh giá đất đai và bảo vệ, cải tạo, phục hồi đất"
+      "id": "khainiem_nguyentacdieutra",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Nguyên tắc điều tra, đánh giá đất đai"
+      }
     },
     {
-      "id": "khainiem_dieu_tra_danh_gia_dat_dai",
-      "label": "KháiNiệm",
-      "name": "điều tra, đánh giá đất đai"
+      "id": "khainiem_baovecaitao",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bảo vệ, cải tạo, phục hồi đất"
+      }
     },
     {
-      "id": "khainiem_bao_ve_cai_tao_phuc_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "bảo vệ, cải tạo, phục hồi đất"
+      "id": "chuthe_nhanuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Nhà nước"
+      }
     },
     {
-      "id": "khainiem_tai_nguyen_dat",
-      "label": "KháiNiệm",
-      "name": "tài nguyên đất"
+      "id": "chuthe_tochuc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "tổ chức"
+      }
     },
     {
-      "id": "khainiem_kinh_phi",
-      "label": "KháiNiệm",
-      "name": "kinh phí"
-    },
-    {
-      "id": "khainiem_thong_tin_so_lieu_dat_dai",
-      "label": "KháiNiệm",
-      "name": "thông tin, số liệu đất đai"
-    },
-    {
-      "id": "khainiem_quan_ly_nha_nuoc_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "quản lý nhà nước về đất đai"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_to_chuc",
-      "label": "ChủThể",
-      "name": "tổ chức"
-    },
-    {
-      "id": "chuthe_ca_nhan",
-      "label": "ChủThể",
-      "name": "cá nhân"
-    },
-    {
-      "id": "hanhvipaply_bao_dam_kip_thoi_khach_quan",
-      "label": "HànhViPhápLý",
-      "name": "Bảo đảm kịp thời, khách quan, phản ánh đúng thực trạng"
-    },
-    {
-      "id": "hanhvipaply_thuc_hien_tren_pham_vi",
-      "label": "HànhViPhápLý",
-      "name": "Thực hiện trên phạm vi cả nước, các vùng kinh tế - xã hội, đơn vị hành chính cấp tỉnh"
-    },
-    {
-      "id": "hanhvipaply_bao_dam_lien_tuc_ke_thua",
-      "label": "HànhViPhápLý",
-      "name": "Bảo đảm liên tục, kế thừa"
-    },
-    {
-      "id": "hanhvipaply_bao_dam_kinh_phi",
-      "label": "HànhViPhápLý",
-      "name": "Bảo đảm kinh phí"
-    },
-    {
-      "id": "hanhvipaply_khuyen_khich",
-      "label": "HànhViPhápLý",
-      "name": "Khuyến khích"
-    },
-    {
-      "id": "hanhvipaply_cung_cap_thong_tin_so_lieu",
-      "label": "HànhViPhápLý",
-      "name": "Cung cấp kịp thời thông tin, số liệu"
-    },
-    {
-      "id": "hanhvipaply_thuc_hien_bao_ve_dat",
-      "label": "HànhViPhápLý",
-      "name": "Thực hiện bảo vệ, cải tạo, phục hồi đất"
-    },
-    {
-      "id": "dieukien_phuc_vu_quan_ly_nha_nuoc_dat_dai",
-      "label": "ĐiềuKiện",
-      "name": "phục vụ công tác quản lý nhà nước về đất đai"
-    },
-    {
-      "id": "dieukien_phuc_vu_nhu_cau_thong_tin_dat_dai",
-      "label": "ĐiềuKiện",
-      "name": "phục vụ nhu cầu thông tin đất đai cho các hoạt động kinh tế, xã hội, quốc phòng, an ninh, nghiên cứu khoa học, giáo dục và đào tạo và các nhu cầu khác của Nhà nước và xã hội"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "cá nhân"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_51",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_nguyen_tac_dieu_tra_bao_ve_dat"
+      "source_id": "dieu_51_2024",
+      "target_id": "khainiem_nguyentacdieutra",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nguyen_tac_dieu_tra_bao_ve_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_bao_dam_kip_thoi_khach_quan"
+      "source_id": "dieu_51_2024",
+      "target_id": "khainiem_baovecaitao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_bao_dam_kip_thoi_khach_quan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dieu_tra_danh_gia_dat_dai"
+      "source_id": "dieu_51_2024",
+      "target_id": "chuthe_nhanuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvipaply_bao_dam_kip_thoi_khach_quan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_tai_nguyen_dat"
+      "source_id": "dieu_51_2024",
+      "target_id": "chuthe_tochuc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khainiem_nguyen_tac_dieu_tra_bao_ve_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_thuc_hien_tren_pham_vi"
-    },
-    {
-      "source_id": "hanhvipaply_thuc_hien_tren_pham_vi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dieu_tra_danh_gia_dat_dai"
-    },
-    {
-      "source_id": "hanhvipaply_thuc_hien_tren_pham_vi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_bao_ve_cai_tao_phuc_hoi_dat"
-    },
-    {
-      "source_id": "khainiem_nguyen_tac_dieu_tra_bao_ve_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_bao_dam_lien_tuc_ke_thua"
-    },
-    {
-      "source_id": "hanhvipaply_bao_dam_lien_tuc_ke_thua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dieu_tra_danh_gia_dat_dai"
-    },
-    {
-      "source_id": "hanhvipaply_bao_dam_lien_tuc_ke_thua",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_bao_ve_cai_tao_phuc_hoi_dat"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_bao_dam_kinh_phi"
-    },
-    {
-      "source_id": "hanhvipaply_bao_dam_kinh_phi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_kinh_phi"
-    },
-    {
-      "source_id": "hanhvipaply_bao_dam_kinh_phi",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_dieu_tra_danh_gia_dat_dai"
-    },
-    {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvipaply_khuyen_khich"
-    },
-    {
-      "source_id": "hanhvipaply_khuyen_khich",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhvipaply_thuc_hien_bao_ve_dat"
-    },
-    {
-      "source_id": "hanhvipaply_thuc_hien_bao_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_to_chuc"
-    },
-    {
-      "source_id": "hanhvipaply_thuc_hien_bao_ve_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_ca_nhan"
-    },
-    {
-      "source_id": "hanhvipaply_thuc_hien_bao_ve_dat",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_bao_ve_cai_tao_phuc_hoi_dat"
-    },
-    {
-      "source_id": "khainiem_nguyen_tac_dieu_tra_bao_ve_dat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvipaply_cung_cap_thong_tin_so_lieu"
-    },
-    {
-      "source_id": "hanhvipaply_cung_cap_thong_tin_so_lieu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khainiem_thong_tin_so_lieu_dat_dai"
-    },
-    {
-      "source_id": "hanhvipaply_cung_cap_thong_tin_so_lieu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuc_vu_quan_ly_nha_nuoc_dat_dai"
-    },
-    {
-      "source_id": "dieukien_phuc_vu_quan_ly_nha_nuoc_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khainiem_quan_ly_nha_nuoc_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhvipaply_cung_cap_thong_tin_so_lieu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_phuc_vu_nhu_cau_thong_tin_dat_dai"
+      "source_id": "dieu_51_2024",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

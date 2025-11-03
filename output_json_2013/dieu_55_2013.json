@@ -1,141 +1,148 @@
 {
   "entities": [
     {
-      "id": "dieu_55",
-      "label": "ĐiềuLuật",
-      "name": "Điều 55"
+      "id": "dieu_55_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 55. Giao đất có thu tiền sử dụng đất",
+        "ma_dieu": "55",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 55.\n\nGiao đất có thu tiền sử dụng đất\nNhà nước giao đất có thu tiền sử dụng đất trong các trường hợp sau đây:\n1. Hộ gia đình, cá nhân được giao đất ở; about:blank\n. Tổ chức kinh tế được giao đất để thực hiện dự án đầu tư xây dựng nhà ở để bán hoặc để bán kết hợp\ncho thuê;\n3. Người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài được giao đất để\nthực hiện dự án đầu tư xây dựng nhà ở để bán hoặc để bán kết hợp cho thuê;\n4. Tổ chức kinh tế được giao đất thực hiện dự án đầu tư hạ tầng nghĩa trang, nghĩa địa để chuyển\nnhượng quyền sử dụng đất gắn với hạ tầng."
+      }
     },
     {
-      "id": "hanhvi_giaodatcothutiensudungdat",
-      "label": "HànhViPhápLý",
-      "name": "Giao đất có thu tiền sử dụng đất"
+      "id": "hanhviphaply_giaodatcothutiensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Giao đất có thu tiền sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_nhanuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
+      "id": "chuthe_hogiadinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình"
+      }
     },
     {
-      "id": "chuthe_hogiadinhcanhan",
-      "label": "ChủThể",
-      "name": "Hộ gia đình, cá nhân"
+      "id": "chuthe_canhan",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cá nhân"
+      }
     },
     {
-      "id": "dieukien_dato",
-      "label": "ĐiềuKiện",
-      "name": "đất ở"
+      "id": "khainiem_datodaydung",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Đất ở"
+      }
     },
     {
-      "id": "chuthe_tochuckinhte",
-      "label": "ChủThể",
-      "name": "Tổ chức kinh tế"
+      "id": "chuthe_tochucchinhte",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức kinh tế"
+      }
     },
     {
-      "id": "hanhvi_thuchien_duan_xaynha",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện dự án đầu tư xây dựng nhà ở"
+      "id": "khainiem_duandautuxaydungnhaodeban",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án đầu tư xây dựng nhà ở để bán"
+      }
     },
     {
-      "id": "dieukien_ban_hoac_banthue",
-      "label": "ĐiềuKiện",
-      "name": "để bán hoặc để bán kết hợp cho thuê"
+      "id": "khainiem_chothue",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Cho thuê"
+      }
     },
     {
-      "id": "chuthe_nguoivietnamdicuoinuocngoai",
-      "label": "ChủThể",
-      "name": "Người Việt Nam định cư ở nước ngoài"
+      "id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
     },
     {
       "id": "chuthe_doanhnghiepcovondautunuocngoai",
-      "label": "ChủThể",
-      "name": "doanh nghiệp có vốn đầu tư nước ngoài"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
     },
     {
-      "id": "hanhvi_thuchien_duan_hathanghiatrang",
-      "label": "HànhViPhápLý",
-      "name": "thực hiện dự án đầu tư hạ tầng nghĩa trang, nghĩa địa"
+      "id": "khainiem_duandautuhatangnghiatrangnghiadia",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Dự án đầu tư hạ tầng nghĩa trang, nghĩa địa"
+      }
     },
     {
-      "id": "dieukien_chuyennhuong_quyen_sd_dat_gan_hathang",
-      "label": "ĐiềuKiện",
-      "name": "chuyển nhượng quyền sử dụng đất gắn với hạ tầng"
+      "id": "hanhviphaply_chuyennhuongquyensudungdat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Chuyển nhượng quyền sử dụng đất"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_55",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_giaodatcothutiensudungdat"
+      "source_id": "dieu_55_2013",
+      "target_id": "hanhviphaply_giaodatcothutiensudungdat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_giaodatcothutiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nhanuoc"
+      "source_id": "dieu_55_2013",
+      "target_id": "chuthe_hogiadinh",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_giaodatcothutiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_hogiadinhcanhan"
+      "source_id": "dieu_55_2013",
+      "target_id": "chuthe_canhan",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "chuthe_hogiadinhcanhan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_dato"
+      "source_id": "dieu_55_2013",
+      "target_id": "khainiem_datodaydung",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_giaodatcothutiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhte"
+      "source_id": "dieu_55_2013",
+      "target_id": "chuthe_tochucchinhte",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "chuthe_tochuckinhte",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thuchien_duan_xaynha"
+      "source_id": "dieu_55_2013",
+      "target_id": "khainiem_duandautuxaydungnhaodeban",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_thuchien_duan_xaynha",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ban_hoac_banthue"
+      "source_id": "dieu_55_2013",
+      "target_id": "khainiem_chothue",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_giaodatcothutiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoivietnamdicuoinuocngoai"
+      "source_id": "dieu_55_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "hanhvi_giaodatcothutiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_doanhnghiepcovondautunuocngoai"
+      "source_id": "dieu_55_2013",
+      "target_id": "chuthe_doanhnghiepcovondautunuocngoai",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "chuthe_nguoivietnamdicuoinuocngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thuchien_duan_xaynha"
+      "source_id": "dieu_55_2013",
+      "target_id": "khainiem_duandautuhatangnghiatrangnghiadia",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "chuthe_doanhnghiepcovondautunuocngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thuchien_duan_xaynha"
-    },
-    {
-      "source_id": "hanhvi_thuchien_duan_xaynha",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_ban_hoac_banthue"
-    },
-    {
-      "source_id": "hanhvi_giaodatcothutiensudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_tochuckinhte"
-    },
-    {
-      "source_id": "chuthe_tochuckinhte",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thuchien_duan_hathanghiatrang"
-    },
-    {
-      "source_id": "hanhvi_thuchien_duan_hathanghiatrang",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_chuyennhuong_quyen_sd_dat_gan_hathang"
+      "source_id": "dieu_55_2013",
+      "target_id": "hanhviphaply_chuyennhuongquyensudungdat",
+      "relationship_type": "AP_DUNG_CHO"
     }
   ]
 }

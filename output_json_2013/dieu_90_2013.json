@@ -1,441 +1,64 @@
 {
   "entities": [
     {
-      "id": "dieu_90",
-      "label": "Điều 90",
-      "type": "ĐiềuLuật"
+      "id": "dieu_90_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 90. Bồi thường đối với cây trồng, vật nuôi",
+        "ma_dieu": "90",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 90.\n\nBồi thường đối với cây trồng, vật nuôi\n1. Khi Nhà nước thu hồi đất mà gây thiệt hại đối với cây trồng thì việc bồi thường thực hiện theo quy\nđịnh sau đây:\na) Đối với cây hàng năm, mức bồi thường được tính bằng giá trị sản lượng của vụ thu hoạch. Giá trị\nsản lượng của vụ thu hoạch được tính theo năng suất của vụ cao nhất trong 03 năm trước liền kề của\ncây trồng chính tại địa phương và giá trung bình tại thời điểm thu hồi đất;\nb) Đối với cây lâu năm, mức bồi thường được tính bằng giá trị hiện có của vườn cây theo giá ở địa\nphương tại thời điểm thu hồi đất mà không bao gồm giá trị quyền sử dụng đất;\nc) Đối với cây trồng chưa thu hoạch nhưng có thể di chuyển đến địa điểm khác thì được bồi thường chi\nphí di chuyển và thiệt hại thực tế do phải di chuyển, phải trồng lại; about:blank\nd) Đối với cây rừng trồng bằng nguồn vốn ngân sách nhà nước, cây rừng tự nhiên giao cho tổ chức, hộ\ngia đình, cá nhân trồng, quản lý, chăm sóc, bảo vệ thì bồi thường theo giá trị thiệt hại thực tế của vườn\ncây; tiền bồi thường được phân chia cho người quản lý, chăm sóc, bảo vệ theo quy định của pháp luật\nvề bảo vệ và phát triển rừng.\n2. Khi Nhà nước thu hồi đất mà gây thiệt hại đối với vật nuôi là thủy sản thì việc bồi thường thực hiện\ntheo quy định sau đây:\na) Đối với vật nuôi là thủy sản mà tại thời điểm thu hồi đất đã đến thời kỳ thu hoạch thì không phải bồi\nthường;\nb) Đối với vật nuôi là thủy sản mà tại thời điểm thu hồi đất chưa đến thời kỳ thu hoạch thì được bồi\nthường thiệt hại thực tế do phải thu hoạch sớm; trường hợp có thể di chuyển được thì được bồi thường\nchi phí di chuyển và thiệt hại do di chuyển gây ra; mức bồi thường cụ thể do Ủy ban nhân dân cấp tỉnh\nquy định."
+      }
     },
     {
-      "id": "khaikiem_boithuong_caytrong_vatnuoi",
-      "label": "Bồi thường đối với cây trồng, vật nuôi",
-      "type": "KháiNiệm"
+      "id": "hanhviphaply_nhanuocthuhoidat",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Nhà nước thu hồi đất"
+      }
     },
     {
-      "id": "khaikiem_cay_trong",
-      "label": "cây trồng",
-      "type": "KháiNiệm"
+      "id": "khainiem_caytrong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "cây trồng"
+      }
     },
     {
-      "id": "khaikiem_vat_nuoi",
-      "label": "vật nuôi",
-      "type": "KháiNiệm"
+      "id": "khainiem_vatnuoi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "vật nuôi"
+      }
     },
     {
-      "id": "khaikiem_cay_hang_nam",
-      "label": "cây hàng năm",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_cay_lau_nam",
-      "label": "cây lâu năm",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_cay_trong_chua_thu_hoach_co_the_di_chuyen",
-      "label": "cây trồng chưa thu hoạch nhưng có thể di chuyển",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_cay_rung_trong_nguon_von_ngan_sach",
-      "label": "cây rừng trồng bằng nguồn vốn ngân sách nhà nước",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_cay_rung_tu_nhien_giao_cho_chu_the",
-      "label": "cây rừng tự nhiên giao cho tổ chức, hộ gia đình, cá nhân trồng, quản lý, chăm sóc, bảo vệ",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_vat_nuoi_la_thuy_san",
-      "label": "vật nuôi là thủy sản",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_gia_tri_san_luong_vu_thu_hoach",
-      "label": "giá trị sản lượng của vụ thu hoạch",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_nang_suat_vu_cao_nhat_03_nam",
-      "label": "năng suất của vụ cao nhất trong 03 năm trước liền kề",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_gia_trung_binh_tai_thoi_diem_thu_hoi_dat",
-      "label": "giá trung bình tại thời điểm thu hồi đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_gia_tri_hien_co_vuon_cay",
-      "label": "giá trị hiện có của vườn cây",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_gia_o_dia_phuong_tai_thoi_diem_thu_hoi_dat",
-      "label": "giá ở địa phương tại thời điểm thu hồi đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_chi_phi_di_chuyen",
-      "label": "chi phí di chuyển",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_thiet_hai_thuc_te_do_phai_di_chuyen_trong_lai",
-      "label": "thiệt hại thực tế do phải di chuyển, phải trồng lại",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_gia_tri_thiet_hai_thuc_te_cua_vuon_cay",
-      "label": "giá trị thiệt hại thực tế của vườn cây",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_tien_boi_thuong",
-      "label": "tiền bồi thường",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_thiet_hai_thuc_te_do_phai_thu_hoach_som",
-      "label": "thiệt hại thực tế do phải thu hoạch sớm",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_thiet_hai_do_di_chuyen_gay_ra",
-      "label": "thiệt hại do di chuyển gây ra",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_khong_phai_boi_thuong",
-      "label": "không phải bồi thường",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_muc_boi_thuong_cu_the",
-      "label": "mức bồi thường cụ thể",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "khaikiem_gia_tri_quyen_su_dung_dat",
-      "label": "giá trị quyền sử dụng đất",
-      "type": "KháiNiệm"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "Nhà nước",
-      "type": "ChủThể"
-    },
-    {
-      "id": "chuthe_to_chuc",
-      "label": "tổ chức",
-      "type": "ChủThể"
-    },
-    {
-      "id": "chuthe_ho_gia_dinh",
-      "label": "hộ gia đình",
-      "type": "ChủThể"
-    },
-    {
-      "id": "chuthe_ca_nhan",
-      "label": "cá nhân",
-      "type": "ChủThể"
-    },
-    {
-      "id": "chuthe_nguoi_quan_ly_cham_soc_bao_ve",
-      "label": "người quản lý, chăm sóc, bảo vệ",
-      "type": "ChủThể"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "Ủy ban nhân dân cấp tỉnh",
-      "type": "ChủThể"
-    },
-    {
-      "id": "hanhviphaply_thu_hoi_dat",
-      "label": "thu hồi đất",
-      "type": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_gay_thiet_hai_cay_trong",
-      "label": "gây thiệt hại đối với cây trồng",
-      "type": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_gay_thiet_hai_vat_nuoi_thuy_san",
-      "label": "gây thiệt hại đối với vật nuôi là thủy sản",
-      "type": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_thuc_hien_boi_thuong",
-      "label": "thực hiện bồi thường",
-      "type": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_phan_chia_tien_boi_thuong",
-      "label": "phân chia tiền bồi thường",
-      "type": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_quan_ly_cham_soc_bao_ve",
-      "label": "quản lý, chăm sóc, bảo vệ",
-      "type": "HànhViPhápLý"
-    },
-    {
-      "id": "hanhviphaply_quy_dinh_muc_boi_thuong",
-      "label": "quy định mức bồi thường",
-      "type": "HànhViPhápLý"
-    },
-    {
-      "id": "dieukien_nha_nuoc_thu_hoi_dat_gay_thiet_hai_cay_trong",
-      "label": "Khi Nhà nước thu hồi đất mà gây thiệt hại đối với cây trồng",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_doi_voi_cay_hang_nam",
-      "label": "Đối với cây hàng năm",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_doi_voi_cay_lau_nam",
-      "label": "Đối với cây lâu năm",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_doi_voi_cay_trong_chua_thu_hoach_co_the_di_chuyen",
-      "label": "Đối với cây trồng chưa thu hoạch nhưng có thể di chuyển đến địa điểm khác",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_doi_voi_cay_rung_trong_bang_nguon_von_ngan_sach",
-      "label": "Đối với cây rừng trồng bằng nguồn vốn ngân sách nhà nước",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_doi_voi_cay_rung_tu_nhien_giao_cho_chu_the",
-      "label": "cây rừng tự nhiên giao cho tổ chức, hộ gia đình, cá nhân",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_nha_nuoc_thu_hoi_dat_gay_thiet_hai_vat_nuoi_thuy_san",
-      "label": "Khi Nhà nước thu hồi đất mà gây thiệt hại đối với vật nuôi là thủy sản",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_vat_nuoi_thuy_san_da_den_thoi_ky_thu_hoach",
-      "label": "Đối với vật nuôi là thủy sản mà tại thời điểm thu hồi đất đã đến thời kỳ thu hoạch",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_vat_nuoi_thuy_san_chua_den_thoi_ky_thu_hoach",
-      "label": "Đối với vật nuôi là thủy sản mà tại thời điểm thu hồi đất chưa đến thời kỳ thu hoạch",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_co_the_di_chuyen_duoc",
-      "label": "trường hợp có thể di chuyển được",
-      "type": "ĐiềuKiện"
-    },
-    {
-      "id": "dieukien_khong_bao_gom_gia_tri_quyen_su_dung_dat",
-      "label": "không bao gồm giá trị quyền sử dụng đất",
-      "type": "ĐiềuKiện"
+      "id": "khainiem_boithuong",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "bồi thường"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_boithuong_caytrong_vatnuoi"
+      "source_id": "dieu_90_2013",
+      "target_id": "khainiem_caytrong",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_nha_nuoc_thu_hoi_dat_gay_thiet_hai_cay_trong"
+      "source_id": "dieu_90_2013",
+      "target_id": "khainiem_vatnuoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieukien_nha_nuoc_thu_hoi_dat_gay_thiet_hai_cay_trong",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_thuc_hien_boi_thuong"
+      "source_id": "dieu_90_2013",
+      "target_id": "hanhviphaply_nhanuocthuhoidat",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chuthe_nha_nuoc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhviphaply_thu_hoi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_gay_thiet_hai_cay_trong"
-    },
-    {
-      "source_id": "hanhviphaply_thuc_hien_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_cay_trong"
-    },
-    {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_doi_voi_cay_hang_nam"
-    },
-    {
-      "source_id": "dieukien_doi_voi_cay_hang_nam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_gia_tri_san_luong_vu_thu_hoach"
-    },
-    {
-      "source_id": "khaikiem_gia_tri_san_luong_vu_thu_hoach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_nang_suat_vu_cao_nhat_03_nam"
-    },
-    {
-      "source_id": "khaikiem_gia_tri_san_luong_vu_thu_hoach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_gia_trung_binh_tai_thoi_diem_thu_hoi_dat"
-    },
-    {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_doi_voi_cay_lau_nam"
-    },
-    {
-      "source_id": "dieukien_doi_voi_cay_lau_nam",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_gia_tri_hien_co_vuon_cay"
-    },
-    {
-      "source_id": "khaikiem_gia_tri_hien_co_vuon_cay",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "khaikiem_gia_o_dia_phuong_tai_thoi_diem_thu_hoi_dat"
-    },
-    {
-      "source_id": "khaikiem_gia_tri_hien_co_vuon_cay",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_khong_bao_gom_gia_tri_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_doi_voi_cay_trong_chua_thu_hoach_co_the_di_chuyen"
-    },
-    {
-      "source_id": "dieukien_doi_voi_cay_trong_chua_thu_hoach_co_the_di_chuyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_chi_phi_di_chuyen"
-    },
-    {
-      "source_id": "dieukien_doi_voi_cay_trong_chua_thu_hoach_co_the_di_chuyen",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_thiet_hai_thuc_te_do_phai_di_chuyen_trong_lai"
-    },
-    {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_doi_voi_cay_rung_trong_bang_nguon_von_ngan_sach"
-    },
-    {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_doi_voi_cay_rung_tu_nhien_giao_cho_chu_the"
-    },
-    {
-      "source_id": "dieukien_doi_voi_cay_rung_trong_bang_nguon_von_ngan_sach",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_gia_tri_thiet_hai_thuc_te_cua_vuon_cay"
-    },
-    {
-      "source_id": "dieukien_doi_voi_cay_rung_tu_nhien_giao_cho_chu_the",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_gia_tri_thiet_hai_thuc_te_cua_vuon_cay"
-    },
-    {
-      "source_id": "khaikiem_tien_boi_thuong",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_phan_chia_tien_boi_thuong"
-    },
-    {
-      "source_id": "hanhviphaply_phan_chia_tien_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_quan_ly_cham_soc_bao_ve"
-    },
-    {
-      "source_id": "chuthe_to_chuc",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_cham_soc_bao_ve"
-    },
-    {
-      "source_id": "chuthe_ho_gia_dinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_cham_soc_bao_ve"
-    },
-    {
-      "source_id": "chuthe_ca_nhan",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_quan_ly_cham_soc_bao_ve"
-    },
-    {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_nha_nuoc_thu_hoi_dat_gay_thiet_hai_vat_nuoi_thuy_san"
-    },
-    {
-      "source_id": "dieukien_nha_nuoc_thu_hoi_dat_gay_thiet_hai_vat_nuoi_thuy_san",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_thuc_hien_boi_thuong"
-    },
-    {
-      "source_id": "hanhviphaply_thu_hoi_dat",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "hanhviphaply_gay_thiet_hai_vat_nuoi_thuy_san"
-    },
-    {
-      "source_id": "hanhviphaply_thuc_hien_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_vat_nuoi_la_thuy_san"
-    },
-    {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_vat_nuoi_thuy_san_da_den_thoi_ky_thu_hoach"
-    },
-    {
-      "source_id": "dieukien_vat_nuoi_thuy_san_da_den_thoi_ky_thu_hoach",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "khaikiem_khong_phai_boi_thuong"
-    },
-    {
-      "source_id": "dieu_90",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieukien_vat_nuoi_thuy_san_chua_den_thoi_ky_thu_hoach"
-    },
-    {
-      "source_id": "dieukien_vat_nuoi_thuy_san_chua_den_thoi_ky_thu_hoach",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_thiet_hai_thuc_te_do_phai_thu_hoach_som"
-    },
-    {
-      "source_id": "dieukien_vat_nuoi_thuy_san_chua_den_thoi_ky_thu_hoach",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_co_the_di_chuyen_duoc"
-    },
-    {
-      "source_id": "dieukien_co_the_di_chuyen_duoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_chi_phi_di_chuyen"
-    },
-    {
-      "source_id": "dieukien_co_the_di_chuyen_duoc",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_thiet_hai_do_di_chuyen_gay_ra"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_quy_dinh_muc_boi_thuong"
-    },
-    {
-      "source_id": "hanhviphaply_quy_dinh_muc_boi_thuong",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khaikiem_muc_boi_thuong_cu_the"
+      "source_id": "dieu_90_2013",
+      "target_id": "khainiem_boithuong",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

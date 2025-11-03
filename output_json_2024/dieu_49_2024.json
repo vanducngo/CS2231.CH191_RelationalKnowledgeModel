@@ -1,486 +1,136 @@
 {
   "entities": [
     {
-      "id": "dieu_49",
-      "label": "ĐiềuLuật",
-      "name": "Điều 49"
+      "id": "dieu_49_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Địa giới đơn vị hành chính",
+        "ma_dieu": "49",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 49.\n\nĐịa giới đơn vị hành chính\n1. Địa giới đơn vị hành chính được lập theo đơn vị hành chính cấp xã, cấp huyện, cấp tỉnh. Hồ sơ địa\ngiới đơn vị hành chính thể hiện thông tin về việc thành lập, nhập, chia, điều chỉnh địa giới đơn vị hành\nchính và các mốc địa giới, đường địa giới của đơn vị hành chính đó.\n2. Bộ Nội vụ hướng dẫn Ủy ban nhân dân cấp tỉnh có liên quan xác định địa giới đơn vị hành chính cấp\ntỉnh; Ủy ban nhân dân cấp trên trực tiếp chỉ đạo, hướng dẫn Ủy ban nhân dân cấp dưới có liên quan xác\nđịnh địa giới đơn vị hành chính trên thực địa và lập hồ sơ về địa giới đơn vị hành chính trong phạm vi\nđịa phương.\n3. Phạm vi quản lý đất đai trên đất liền được xác định theo đường địa giới đơn vị hành chính của từng\nđơn vị hành chính theo quy định của pháp luật.\n4. Trường hợp phạm vi quản lý đất đai cấp tỉnh chưa xác định được do chưa xác định được địa giới\nđơn vị hành chính thì Bộ Nội vụ chủ trì phối hợp với Bộ Tài nguyên và Môi trường và các địa phương\ncó liên quan lập hồ sơ trình Chính phủ.\n5. Trường hợp phạm vi quản lý đất đai cấp huyện, cấp xã chưa xác định được do chưa xác định được\nđịa giới đơn vị hành chính cấp huyện, cấp xã thì Ủy ban nhân dân cấp trên trực tiếp chỉ đạo Ủy ban\nnhân dân cấp dưới có liên quan phối hợp giải quyết; trong thời gian chưa có quyết định về xác định địa\ngiới đơn vị hành chính cấp huyện, cấp xã thì Ủy ban nhân dân cấp trên trực tiếp thực hiện các nội dung about:blank\nquản lý nhà nước về đất đai đối với khu vực chưa thống nhất. Trường hợp không thống nhất được\nphương án giải quyết thì Ủy ban nhân dân cấp tỉnh lập hồ sơ trình Chính phủ.\n6. Chính phủ có trách nhiệm hướng dẫn việc giải quyết trường hợp chưa thống nhất về địa giới đơn vị\nhành chính; tổ chức giải quyết việc chưa thống nhất về địa giới đơn vị hành chính quy định tại khoản 4\nvà khoản 5 Điều này .\n7. Bộ Nội vụ quy định về việc lập, quản lý hồ sơ địa giới đơn vị hành chính."
+      }
     },
     {
-      "id": "khauniem_diagioi_donvi_hanhchinh",
-      "label": "KháiNiệm",
-      "name": "Địa giới đơn vị hành chính"
+      "id": "khainiem_diagioi",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Địa giới đơn vị hành chính"
+      }
     },
     {
-      "id": "khauniem_hosodiagioi_donvi_hanhchinh",
-      "label": "KháiNiệm",
-      "name": "Hồ sơ địa giới đơn vị hành chính"
+      "id": "chuthe_donvihanhchinhcapxa",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp xã"
+      }
     },
     {
-      "id": "khauniem_diagioi_donvi_hanhchinh_cap_xa",
-      "label": "KháiNiệm",
-      "name": "Địa giới đơn vị hành chính cấp xã"
+      "id": "chuthe_donvihanhchinhcaphuyen",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp huyện"
+      }
     },
     {
-      "id": "khauniem_diagioi_donvi_hanhchinh_cap_huyen",
-      "label": "KháiNiệm",
-      "name": "Địa giới đơn vị hành chính cấp huyện"
+      "id": "chuthe_donvihanhchinhcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "đơn vị hành chính cấp tỉnh"
+      }
     },
     {
-      "id": "khauniem_diagioi_donvi_hanhchinh_cap_tinh",
-      "label": "KháiNiệm",
-      "name": "Địa giới đơn vị hành chính cấp tỉnh"
+      "id": "chuthe_bonoivu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Nội vụ"
+      }
     },
     {
-      "id": "khauniem_phamvi_quanly_datdai_tren_datlien",
-      "label": "KháiNiệm",
-      "name": "Phạm vi quản lý đất đai trên đất liền"
+      "id": "chuthe_ubndcaptinh",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp tỉnh"
+      }
     },
     {
-      "id": "khauniem_phamvi_quanly_datdai_cap_tinh",
-      "label": "KháiNiệm",
-      "name": "Phạm vi quản lý đất đai cấp tỉnh"
+      "id": "chuthe_ubndcapduoi",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp dưới"
+      }
     },
     {
-      "id": "khauniem_phamvi_quanly_datdai_cap_huyen",
-      "label": "KháiNiệm",
-      "name": "Phạm vi quản lý đất đai cấp huyện"
+      "id": "chuthe_botnmt",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Bộ Tài nguyên và Môi trường"
+      }
     },
     {
-      "id": "khauniem_phamvi_quanly_datdai_cap_xa",
-      "label": "KháiNiệm",
-      "name": "Phạm vi quản lý đất đai cấp xã"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     },
     {
-      "id": "khauniem_khuvuc_chua_thongnhat",
-      "label": "KháiNiệm",
-      "name": "Khu vực chưa thống nhất"
-    },
-    {
-      "id": "chuthe_bo_noi_vu",
-      "label": "ChủThể",
-      "name": "Bộ Nội vụ"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp tỉnh"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_tren_truc_tiep",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp trên trực tiếp"
-    },
-    {
-      "id": "chuthe_uy_ban_nhan_dan_cap_duoi_co_lien_quan",
-      "label": "ChủThể",
-      "name": "Ủy ban nhân dân cấp dưới có liên quan"
-    },
-    {
-      "id": "chuthe_bo_tai_nguyen_va_moi_truong",
-      "label": "ChủThể",
-      "name": "Bộ Tài nguyên và Môi trường"
-    },
-    {
-      "id": "chuthe_dia_phuong_co_lien_quan",
-      "label": "ChủThể",
-      "name": "Các địa phương có liên quan"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "hanhvi_lap_dia_gioi_don_vi_hanh_chinh",
-      "label": "HànhViPhápLý",
-      "name": "Lập địa giới đơn vị hành chính"
-    },
-    {
-      "id": "hanhvi_the_hien_thong_tin",
-      "label": "HànhViPhápLý",
-      "name": "Thể hiện thông tin"
-    },
-    {
-      "id": "hanhvi_thanh_lap",
-      "label": "HànhViPhápLý",
-      "name": "Thành lập"
-    },
-    {
-      "id": "hanhvi_nhap",
-      "label": "HànhViPhápLý",
-      "name": "Nhập"
-    },
-    {
-      "id": "hanhvi_chia",
-      "label": "HànhViPhápLý",
-      "name": "Chia"
-    },
-    {
-      "id": "hanhvi_dieu_chinh_dia_gioi_don_vi_hanh_chinh",
-      "label": "HànhViPhápLý",
-      "name": "Điều chỉnh địa giới đơn vị hành chính"
-    },
-    {
-      "id": "hanhvi_huong_dan",
-      "label": "HànhViPhápLý",
-      "name": "Hướng dẫn"
-    },
-    {
-      "id": "hanhvi_xac_dinh_dia_gioi_don_vi_hanh_chinh",
-      "label": "HànhViPhápLý",
-      "name": "Xác định địa giới đơn vị hành chính"
-    },
-    {
-      "id": "hanhvi_chi_dao",
-      "label": "HànhViPhápLý",
-      "name": "Chỉ đạo"
-    },
-    {
-      "id": "hanhvi_lap_ho_so_ve_dia_gioi_don_vi_hanh_chinh",
-      "label": "HànhViPhápLý",
-      "name": "Lập hồ sơ về địa giới đơn vị hành chính"
-    },
-    {
-      "id": "hanhvi_quan_ly_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Quản lý đất đai"
-    },
-    {
-      "id": "hanhvi_xac_dinh_pham_vi_quan_ly_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Xác định phạm vi quản lý đất đai"
-    },
-    {
-      "id": "hanhvi_chu_tri",
-      "label": "HànhViPhápLý",
-      "name": "Chủ trì"
-    },
-    {
-      "id": "hanhvi_phoi_hop",
-      "label": "HànhViPhápLý",
-      "name": "Phối hợp"
-    },
-    {
-      "id": "hanhvi_trinh_chinh_phu",
-      "label": "HànhViPhápLý",
-      "name": "Trình Chính phủ"
-    },
-    {
-      "id": "hanhvi_giai_quyet_truong_hop_chua_thong_nhat",
-      "label": "HànhViPhápLý",
-      "name": "Giải quyết trường hợp chưa thống nhất"
-    },
-    {
-      "id": "hanhvi_thuc_hien_noi_dung_quan_ly_nha_nuoc_ve_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "Thực hiện nội dung quản lý nhà nước về đất đai"
-    },
-    {
-      "id": "hanhvi_to_chuc_giai_quyet",
-      "label": "HànhViPhápLý",
-      "name": "Tổ chức giải quyết"
-    },
-    {
-      "id": "hanhvi_quy_dinh_ve_lap_quan_ly_ho_so_dia_gioi",
-      "label": "HànhViPhápLý",
-      "name": "Quy định về việc lập, quản lý hồ sơ địa giới đơn vị hành chính"
-    },
-    {
-      "id": "dieukien_chua_xac_dinh_duoc_dia_gioi_don_vi_hanh_chinh",
-      "label": "ĐiềuKiện",
-      "name": "Chưa xác định được địa giới đơn vị hành chính"
-    },
-    {
-      "id": "dieukien_chua_xac_dinh_duoc_dia_gioi_don_vi_hanh_chinh_cap_huyen_cap_xa",
-      "label": "ĐiềuKiện",
-      "name": "Chưa xác định được địa giới đơn vị hành chính cấp huyện, cấp xã"
-    },
-    {
-      "id": "dieukien_chua_co_quyet_dinh_ve_xac_dinh_dia_gioi_cap_huyen_cap_xa",
-      "label": "ĐiềuKiện",
-      "name": "Chưa có quyết định về xác định địa giới đơn vị hành chính cấp huyện, cấp xã"
-    },
-    {
-      "id": "dieukien_khong_thong_nhat_duoc_phuong_an_giai_quyet",
-      "label": "ĐiềuKiện",
-      "name": "Không thống nhất được phương án giải quyết"
-    },
-    {
-      "id": "dieukien_chua_thong_nhat_ve_dia_gioi_don_vi_hanh_chinh",
-      "label": "ĐiềuKiện",
-      "name": "Chưa thống nhất về địa giới đơn vị hành chính"
+      "id": "chuthe_ubndcapthientieptruc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Ủy ban nhân dân cấp trên trực tiếp"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_49",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_diagioi_donvi_hanhchinh"
+      "source_id": "dieu_49_2024",
+      "target_id": "khainiem_diagioi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_diagioi_donvi_hanhchinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_diagioi_donvi_hanhchinh_cap_xa"
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_donvihanhchinhcapxa",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_diagioi_donvi_hanhchinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_diagioi_donvi_hanhchinh_cap_huyen"
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_donvihanhchinhcaphuyen",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_diagioi_donvi_hanhchinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_diagioi_donvi_hanhchinh_cap_tinh"
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_donvihanhchinhcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_diagioi_donvi_hanhchinh",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvi_lap_dia_gioi_don_vi_hanh_chinh"
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_bonoivu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khauniem_hosodiagioi_donvi_hanhchinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_the_hien_thong_tin"
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_ubndcaptinh",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_the_hien_thong_tin",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_thanh_lap"
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_ubndcapduoi",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_the_hien_thong_tin",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_nhap"
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_botnmt",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_the_hien_thong_tin",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_chia"
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhvi_the_hien_thong_tin",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhvi_dieu_chinh_dia_gioi_don_vi_hanh_chinh"
-    },
-    {
-      "source_id": "chuthe_bo_noi_vu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_huong_dan"
-    },
-    {
-      "source_id": "hanhvi_huong_dan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_xac_dinh_dia_gioi_don_vi_hanh_chinh"
-    },
-    {
-      "source_id": "hanhvi_xac_dinh_dia_gioi_don_vi_hanh_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_diagioi_donvi_hanhchinh_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tren_truc_tiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_chi_dao"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tren_truc_tiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_huong_dan"
-    },
-    {
-      "source_id": "hanhvi_chi_dao",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_duoi_co_lien_quan"
-    },
-    {
-      "source_id": "hanhvi_huong_dan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_duoi_co_lien_quan"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_duoi_co_lien_quan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_xac_dinh_dia_gioi_don_vi_hanh_chinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_duoi_co_lien_quan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lap_ho_so_ve_dia_gioi_don_vi_hanh_chinh"
-    },
-    {
-      "source_id": "hanhvi_xac_dinh_dia_gioi_don_vi_hanh_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_diagioi_donvi_hanhchinh"
-    },
-    {
-      "source_id": "hanhvi_lap_ho_so_ve_dia_gioi_don_vi_hanh_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_diagioi_donvi_hanhchinh"
-    },
-    {
-      "source_id": "khauniem_phamvi_quanly_datdai_tren_datlien",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "hanhvi_xac_dinh_pham_vi_quan_ly_dat_dai"
-    },
-    {
-      "source_id": "hanhvi_xac_dinh_pham_vi_quan_ly_dat_dai",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_diagioi_donvi_hanhchinh"
-    },
-    {
-      "source_id": "dieukien_chua_xac_dinh_duoc_dia_gioi_don_vi_hanh_chinh",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_phamvi_quanly_datdai_cap_tinh"
-    },
-    {
-      "source_id": "dieukien_chua_xac_dinh_duoc_dia_gioi_don_vi_hanh_chinh",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_bo_noi_vu"
-    },
-    {
-      "source_id": "chuthe_bo_noi_vu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_chu_tri"
-    },
-    {
-      "source_id": "chuthe_bo_noi_vu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_phoi_hop"
-    },
-    {
-      "source_id": "hanhvi_phoi_hop",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_bo_tai_nguyen_va_moi_truong"
-    },
-    {
-      "source_id": "hanhvi_phoi_hop",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_dia_phuong_co_lien_quan"
-    },
-    {
-      "source_id": "chuthe_bo_noi_vu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lap_ho_so_ve_dia_gioi_don_vi_hanh_chinh"
-    },
-    {
-      "source_id": "hanhvi_lap_ho_so_ve_dia_gioi_don_vi_hanh_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_trinh_chinh_phu"
-    },
-    {
-      "source_id": "hanhvi_trinh_chinh_phu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinh_phu"
-    },
-    {
-      "source_id": "dieukien_chua_xac_dinh_duoc_dia_gioi_don_vi_hanh_chinh_cap_huyen_cap_xa",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_phamvi_quanly_datdai_cap_huyen"
-    },
-    {
-      "source_id": "dieukien_chua_xac_dinh_duoc_dia_gioi_don_vi_hanh_chinh_cap_huyen_cap_xa",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_phamvi_quanly_datdai_cap_xa"
-    },
-    {
-      "source_id": "dieukien_chua_xac_dinh_duoc_dia_gioi_don_vi_hanh_chinh_cap_huyen_cap_xa",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tren_truc_tiep"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tren_truc_tiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_chi_dao"
-    },
-    {
-      "source_id": "hanhvi_chi_dao",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_duoi_co_lien_quan"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_duoi_co_lien_quan",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_phoi_hop"
-    },
-    {
-      "source_id": "hanhvi_phoi_hop",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_giai_quyet_truong_hop_chua_thong_nhat"
-    },
-    {
-      "source_id": "dieukien_chua_co_quyet_dinh_ve_xac_dinh_dia_gioi_cap_huyen_cap_xa",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tren_truc_tiep"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tren_truc_tiep",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_thuc_hien_noi_dung_quan_ly_nha_nuoc_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhvi_thuc_hien_noi_dung_quan_ly_nha_nuoc_ve_dat_dai",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "khauniem_khuvuc_chua_thongnhat"
-    },
-    {
-      "source_id": "dieukien_khong_thong_nhat_duoc_phuong_an_giai_quyet",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chuthe_uy_ban_nhan_dan_cap_tinh"
-    },
-    {
-      "source_id": "chuthe_uy_ban_nhan_dan_cap_tinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_lap_ho_so_ve_dia_gioi_don_vi_hanh_chinh"
-    },
-    {
-      "source_id": "hanhvi_lap_ho_so_ve_dia_gioi_don_vi_hanh_chinh",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_trinh_chinh_phu"
-    },
-    {
-      "source_id": "hanhvi_trinh_chinh_phu",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_chinh_phu"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_huong_dan"
-    },
-    {
-      "source_id": "hanhvi_huong_dan",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_chua_thong_nhat_ve_dia_gioi_don_vi_hanh_chinh"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_to_chuc_giai_quyet"
-    },
-    {
-      "source_id": "hanhvi_to_chuc_giai_quyet",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieukien_chua_thong_nhat_ve_dia_gioi_don_vi_hanh_chinh"
-    },
-    {
-      "source_id": "dieukien_chua_thong_nhat_ve_dia_gioi_don_vi_hanh_chinh",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "dieu_49"
-    },
-    {
-      "source_id": "chuthe_bo_noi_vu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "hanhvi_quy_dinh_ve_lap_quan_ly_ho_so_dia_gioi"
-    },
-    {
-      "source_id": "hanhvi_quy_dinh_ve_lap_quan_ly_ho_so_dia_gioi",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khauniem_hosodiagioi_donvi_hanhchinh"
+      "source_id": "dieu_49_2024",
+      "target_id": "chuthe_ubndcapthientieptruc",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

@@ -1,326 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_240",
-      "label": "ĐiềuLuật",
-      "name": "Điều 240. Xử lý đối với người có hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ"
+      "id": "dieu_240_2024",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Xử lý đối với người có hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ",
+        "ma_dieu": "240",
+        "phien_ban": 2024,
+        "noi_dung": "Điều 240.\n\nXử lý đối với người có hành vi vi phạm pháp luật tr ong quản lý đất đai khi thi hành\ncông vụ\n1. Người có hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ thì tùy theo tính chất,\nmức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật about:blank\nđối với các hành vi vi phạm sau đây:\na) Lợi dụng hoặc lạm dụng chức vụ, quyền hạn làm trái với quy định của pháp luật trong công tác quy\nhoạch, kế hoạch sử dụng đất, giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất, trưng\ndụng đất, bồi thường, hỗ trợ, tái định cư, xác định nghĩa vụ tài chính về đất đai, quản lý hồ sơ địa\nchính, đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và\nquyền sử dụng đất ở, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình\nxây dựng, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản gắn liền với đất, Giấy\nchứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, ra quyết định hành chính trong\nquản lý đất đai;\nb) Thiếu trách nhiệm trong quản lý để xảy ra vi phạm pháp luật về đất đai hoặc có hành vi khác gây\nthiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của người sử dụng đất;\nc) Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin; vi phạm quy định về trình tự, thủ tục\nhành chính; vi phạm quy định về báo cáo trong quản lý đất đai.\n2. Chính phủ quy định chi tiết các hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ\nmà bị xử lý kỷ luật quy định tại khoản 1 Điều này ."
+      }
     },
     {
-      "id": "chuthe_nguoi_vipham_quantri_datdai_congvu",
-      "label": "ChủThể",
-      "name": "Người có hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ"
+      "id": "chuthe_nguoicohanhvivipham",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người có hành vi vi phạm pháp luật"
+      }
     },
     {
-      "id": "hanhviphaply_vipham_quantri_datdai_congvu",
-      "label": "HànhViPhápLý",
-      "name": "hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ"
+      "id": "hanhviphaply_vilamphapluatquanlydatdai",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm pháp luật trong quản lý đất đai"
+      }
     },
     {
-      "id": "chetai_xuly_kyluat",
-      "label": "ChếTài",
-      "name": "xử lý kỷ luật"
+      "id": "chetai_xulykyluat",
+      "label": "CheTai",
+      "properties": {
+        "name": "Xử lý kỷ luật"
+      }
     },
     {
-      "id": "chetai_truycuu_trachnhiem_hinhsu",
-      "label": "ChếTài",
-      "name": "truy cứu trách nhiệm hình sự"
+      "id": "chetai_truycuutrachnhiemhinhsu",
+      "label": "CheTai",
+      "properties": {
+        "name": "Truy cứu trách nhiệm hình sự"
+      }
     },
     {
-      "id": "dieukien_tuy_tinhchat_mucdo_vipham",
-      "label": "ĐiềuKiện",
-      "name": "tùy theo tính chất, mức độ vi phạm"
+      "id": "hanhviphaply_loidungchucvuquyenhan",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Lợi dụng hoặc lạm dụng chức vụ, quyền hạn"
+      }
     },
     {
-      "id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "label": "HànhViPhápLý",
-      "name": "Lợi dụng hoặc lạm dụng chức vụ, quyền hạn làm trái với quy định của pháp luật"
+      "id": "hanhviphaply_thieutrachnhiemquanly",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Thiếu trách nhiệm trong quản lý"
+      }
     },
     {
-      "id": "kavaniem_cong_tac_quy_hoach_ke_hoach_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "công tác quy hoạch, kế hoạch sử dụng đất"
+      "id": "hanhviphaply_viphamquydinhykien",
+      "label": "HanhViPhapLy",
+      "properties": {
+        "name": "Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin"
+      }
     },
     {
-      "id": "kavaniem_giao_dat",
-      "label": "KháiNiệm",
-      "name": "giao đất"
-    },
-    {
-      "id": "kavaniem_cho_thue_dat",
-      "label": "KháiNiệm",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "kavaniem_chuyen_muc_dich_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "chuyển mục đích sử dụng đất"
-    },
-    {
-      "id": "kavaniem_thu_hoi_dat",
-      "label": "KháiNiệm",
-      "name": "thu hồi đất"
-    },
-    {
-      "id": "kavaniem_trung_dung_dat",
-      "label": "KháiNiệm",
-      "name": "trưng dụng đất"
-    },
-    {
-      "id": "kavaniem_boi_thuong_ho_tro_tai_dinh_cu",
-      "label": "KháiNiệm",
-      "name": "bồi thường, hỗ trợ, tái định cư"
-    },
-    {
-      "id": "kavaniem_xac_dinh_nghia_vu_tai_chinh_ve_dat_dai",
-      "label": "KháiNiệm",
-      "name": "xác định nghĩa vụ tài chính về đất đai"
-    },
-    {
-      "id": "kavaniem_quan_ly_ho_so_dia_chinh",
-      "label": "KháiNiệm",
-      "name": "quản lý hồ sơ địa chính"
-    },
-    {
-      "id": "kavaniem_giay_chung_nhan_quyen_su_dung_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất"
-    },
-    {
-      "id": "kavaniem_giay_chung_nhan_quyen_so_huu_nha_o_va_quyen_su_dung_dat_o",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở"
-    },
-    {
-      "id": "kavaniem_giay_chung_nhan_quyen_so_huu_nha_o",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sở hữu nhà ở"
-    },
-    {
-      "id": "kavaniem_giay_chung_nhan_quyen_so_huu_cong_trinh_xay_dung",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sở hữu công trình xây dựng"
-    },
-    {
-      "id": "kavaniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản gắn liền với đất"
-    },
-    {
-      "id": "kavaniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat",
-      "label": "KháiNiệm",
-      "name": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất"
-    },
-    {
-      "id": "kavaniem_ra_quyet_dinh_hanh_chinh_trong_quan_ly_dat_dai",
-      "label": "KháiNiệm",
-      "name": "ra quyết định hành chính trong quản lý đất đai"
-    },
-    {
-      "id": "hanhviphaply_thieu_trach_nhiem_quan_ly_vipham_phap_luat",
-      "label": "HànhViPhápLý",
-      "name": "Thiếu trách nhiệm trong quản lý để xảy ra vi phạm pháp luật về đất đai"
-    },
-    {
-      "id": "hanhviphaply_gay_thiet_hai_loi_ich_nha_nuoc_nguoi_su_dung_dat",
-      "label": "HànhViPhápLý",
-      "name": "có hành vi khác gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của người sử dụng đất"
-    },
-    {
-      "id": "chuthe_nha_nuoc",
-      "label": "ChủThể",
-      "name": "Nhà nước"
-    },
-    {
-      "id": "chuthe_nguoi_su_dung_dat",
-      "label": "ChủThể",
-      "name": "người sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_vipham_lay_y_kien_cong_bo_cong_khai_thong_tin",
-      "label": "HànhViPhápLý",
-      "name": "Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin"
-    },
-    {
-      "id": "hanhviphaply_vipham_trinh_tu_thu_tuc_hanh_chinh",
-      "label": "HànhViPhápLý",
-      "name": "vi phạm quy định về trình tự, thủ tục hành chính"
-    },
-    {
-      "id": "hanhviphaply_vipham_bao_cao_quan_ly_dat_dai",
-      "label": "HànhViPhápLý",
-      "name": "vi phạm quy định về báo cáo trong quản lý đất đai"
-    },
-    {
-      "id": "chuthe_chinh_phu",
-      "label": "ChủThể",
-      "name": "Chính phủ"
-    },
-    {
-      "id": "kavaniem_cac_hanh_vi_vipham_phap_luat_bi_xuly_kyluat_khoan_1_dieu_240",
-      "label": "KháiNiệm",
-      "name": "các hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ mà bị xử lý kỷ luật quy định tại khoản 1 Điều này"
+      "id": "chuthe_chinhphu",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Chính phủ"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_240",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "chuthe_nguoi_vipham_quantri_datdai_congvu"
+      "source_id": "dieu_240_2024",
+      "target_id": "chuthe_nguoicohanhvivipham",
+      "relationship_type": "AP_DUNG_CHO"
     },
     {
-      "source_id": "chuthe_nguoi_vipham_quantri_datdai_congvu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_vipham_quantri_datdai_congvu"
+      "source_id": "dieu_240_2024",
+      "target_id": "hanhviphaply_vilamphapluatquanlydatdai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_vipham_quantri_datdai_congvu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_xuly_kyluat"
+      "source_id": "dieu_240_2024",
+      "target_id": "chetai_xulykyluat",
+      "relationship_type": "DAN_DEN"
     },
     {
-      "source_id": "hanhviphaply_vipham_quantri_datdai_congvu",
-      "relationship_type": "DẪN_ĐẾN",
-      "target_id": "chetai_truycuu_trachnhiem_hinhsu"
+      "source_id": "dieu_240_2024",
+      "target_id": "chetai_truycuutrachnhiemhinhsu",
+      "relationship_type": "DAN_DEN"
     },
     {
-      "source_id": "chetai_xuly_kyluat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuy_tinhchat_mucdo_vipham"
+      "source_id": "dieu_240_2024",
+      "target_id": "hanhviphaply_loidungchucvuquyenhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "chetai_truycuu_trachnhiem_hinhsu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tuy_tinhchat_mucdo_vipham"
+      "source_id": "dieu_240_2024",
+      "target_id": "hanhviphaply_thieutrachnhiemquanly",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "dieu_240",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han"
+      "source_id": "dieu_240_2024",
+      "target_id": "hanhviphaply_viphamquydinhykien",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_cong_tac_quy_hoach_ke_hoach_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_giao_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_cho_thue_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_chuyen_muc_dich_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_thu_hoi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_trung_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_boi_thuong_ho_tro_tai_dinh_cu"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_xac_dinh_nghia_vu_tai_chinh_ve_dat_dai"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_quan_ly_ho_so_dia_chinh"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_giay_chung_nhan_quyen_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_giay_chung_nhan_quyen_so_huu_nha_o_va_quyen_su_dung_dat_o"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_giay_chung_nhan_quyen_so_huu_nha_o"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_giay_chung_nhan_quyen_so_huu_cong_trinh_xay_dung"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_nha_o_va_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_giay_chung_nhan_quyen_su_dung_dat_quyen_so_huu_tai_san_gan_lien_voi_dat"
-    },
-    {
-      "source_id": "hanhviphaply_loi_dung_lam_dung_chuc_vu_quyen_han",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "kavaniem_ra_quyet_dinh_hanh_chinh_trong_quan_ly_dat_dai"
-    },
-    {
-      "source_id": "dieu_240",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_thieu_trach_nhiem_quan_ly_vipham_phap_luat"
-    },
-    {
-      "source_id": "dieu_240",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_gay_thiet_hai_loi_ich_nha_nuoc_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "hanhviphaply_gay_thiet_hai_loi_ich_nha_nuoc_nguoi_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nha_nuoc"
-    },
-    {
-      "source_id": "hanhviphaply_gay_thiet_hai_loi_ich_nha_nuoc_nguoi_su_dung_dat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "chuthe_nguoi_su_dung_dat"
-    },
-    {
-      "source_id": "dieu_240",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_vipham_lay_y_kien_cong_bo_cong_khai_thong_tin"
-    },
-    {
-      "source_id": "dieu_240",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_vipham_trinh_tu_thu_tuc_hanh_chinh"
-    },
-    {
-      "source_id": "dieu_240",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "hanhviphaply_vipham_bao_cao_quan_ly_dat_dai"
-    },
-    {
-      "source_id": "chuthe_chinh_phu",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "kavaniem_cac_hanh_vi_vipham_phap_luat_bi_xuly_kyluat_khoan_1_dieu_240"
-    },
-    {
-      "source_id": "kavaniem_cac_hanh_vi_vipham_phap_luat_bi_xuly_kyluat_khoan_1_dieu_240",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "dieu_240"
+      "source_id": "dieu_240_2024",
+      "target_id": "chuthe_chinhphu",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }

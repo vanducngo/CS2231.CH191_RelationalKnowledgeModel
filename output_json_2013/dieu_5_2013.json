@@ -1,206 +1,112 @@
 {
   "entities": [
     {
-      "id": "dieu_5",
-      "label": "ĐiềuLuật",
-      "name": "Điều 5"
+      "id": "dieu_5_2013",
+      "label": "DieuLuat",
+      "properties": {
+        "name": "Điều 5. Người sử dụng đất",
+        "ma_dieu": "5",
+        "phien_ban": 2013,
+        "noi_dung": "Điều 5.\n\nNgười sử dụng đất\nNgười sử dụng đất được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất, nhận chuyển\nquyền sử dụng đất theo quy định của Luật này , bao gồm:\n1. Tổ chức trong nước gồm cơ quan nhà nước, đơn vị vũ trang nhân dân, tổ chức chính trị, tổ chức\nchính trị - xã hội, tổ chức kinh tế, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội -\nnghề nghiệp, tổ chức sự nghiệp công lập và tổ chức khác theo quy định của pháp luật về dân sự (sau đây\ngọi chung là tổ chức);\n2. Hộ gia đình, cá nhân trong nước (sau đây gọi chung là hộ gia đình, cá nhân);\n3. Cộng đồng dân cư gồm cộng đồng người Việt Nam sinh sống trên cùng địa bàn thôn, làng, ấp, bản,\nbuôn, phum, sóc, tổ dân phố và điểm dân cư tương tự có cùng phong tục, tập quán hoặc có chung dòng\nhọ;\n4. Cơ sở tôn giáo gồm chùa, nhà thờ, nhà nguyện, thánh thất, thánh đường, niệm phật đường, tu viện,\ntrường đào tạo riêng của tôn giáo, trụ sở của tổ chức tôn giáo và cơ sở khác của tôn giáo;\n5. Tổ chức nước ngoài có chức năng ngoại giao gồm cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ\nquan đại diện khác của nước ngoài có chức năng ngoại giao được Chính phủ Việt Nam thừa nhận; cơ\nquan đại diện của tổ chức thuộc Liên hợp quốc, cơ quan hoặc tổ chức liên chính phủ, cơ quan đại diện\ncủa tổ chức liên chính phủ;\n6. Người Việt Nam định cư ở nước ngoài theo quy định của pháp luật về quốc tịch;\n7. Doanh nghiệp có vốn đầu tư nước ngoài gồm doanh nghiệp 100% vốn đầu tư nước ngoài, doanh\nnghiệp liên doanh, doanh nghiệp Việt Nam mà nhà đầu tư nước ngoài mua cổ phần, sáp nhập, mua lại\ntheo quy định của pháp luật về đầu tư."
+      }
     },
     {
-      "id": "khaikiem_nguoisudungdat",
-      "label": "KháiNiệm",
-      "name": "Người sử dụng đất"
+      "id": "khainiem_nguoisudungdat",
+      "label": "KhaiNiem",
+      "properties": {
+        "name": "Người sử dụng đất"
+      }
     },
     {
-      "id": "chuthe_tochuc",
-      "label": "ChủThể",
-      "name": "Tổ chức"
+      "id": "chuthe_tochuctrongnuoc",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức trong nước"
+      }
     },
     {
       "id": "chuthe_hogiadinhcanhan",
-      "label": "ChủThể",
-      "name": "Hộ gia đình, cá nhân"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Hộ gia đình, cá nhân"
+      }
     },
     {
       "id": "chuthe_congdongdancu",
-      "label": "ChủThể",
-      "name": "Cộng đồng dân cư"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cộng đồng dân cư"
+      }
     },
     {
       "id": "chuthe_cosotongiao",
-      "label": "ChủThể",
-      "name": "Cơ sở tôn giáo"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Cơ sở tôn giáo"
+      }
     },
     {
-      "id": "chuthe_tochucnuocngoai_cochucnangngoaigiao",
-      "label": "ChủThể",
-      "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      "id": "chuthe_tochucnuocngoaichucnangngoaigiao",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Tổ chức nước ngoài có chức năng ngoại giao"
+      }
     },
     {
       "id": "chuthe_nguoivietnamdinhcuonuocngoai",
-      "label": "ChủThể",
-      "name": "Người Việt Nam định cư ở nước ngoài"
+      "label": "ChuThe",
+      "properties": {
+        "name": "Người Việt Nam định cư ở nước ngoài"
+      }
     },
     {
-      "id": "chuthe_doanhnghiepcovondaubunuocngoai",
-      "label": "ChủThể",
-      "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
-    },
-    {
-      "id": "hanhviphaply_giaodat",
-      "label": "HànhViPhápLý",
-      "name": "giao đất"
-    },
-    {
-      "id": "hanhviphaply_chothuedat",
-      "label": "HànhViPhápLý",
-      "name": "cho thuê đất"
-    },
-    {
-      "id": "hanhviphaply_congnhanquyensudungdat",
-      "label": "HànhViPhápLý",
-      "name": "công nhận quyền sử dụng đất"
-    },
-    {
-      "id": "hanhviphaply_nhanchuyenquyensudungdat",
-      "label": "HànhViPhápLý",
-      "name": "nhận chuyển quyền sử dụng đất"
-    },
-    {
-      "id": "dieukien_theoquydinhcualanluatnay",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của Luật này"
-    },
-    {
-      "id": "dieukien_tochuc_theoquydinhphapluatvedansu",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật về dân sự"
-    },
-    {
-      "id": "dieukien_congdongdancu_sinhsongcungdiaban_cungphongtuc",
-      "label": "ĐiềuKiện",
-      "name": "sinh sống trên cùng địa bàn thôn, làng, ấp, bản, buôn, phum, sóc, tổ dân phố và điểm dân cư tương tự có cùng phong tục, tập quán hoặc có chung dòng họ"
-    },
-    {
-      "id": "dieukien_tochucnuocngoai_duocchinhphuvietnamthuanhan",
-      "label": "ĐiềuKiện",
-      "name": "được Chính phủ Việt Nam thừa nhận"
-    },
-    {
-      "id": "dieukien_nguoivietnamdinhcuonuocngoai_theoquydinhphapluatvequoctich",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật về quốc tịch"
-    },
-    {
-      "id": "dieukien_doanhnghiepcovondaubu_theoquydinhphapluatvedaubu",
-      "label": "ĐiềuKiện",
-      "name": "theo quy định của pháp luật về đầu tư"
+      "id": "chuthe_doanhnghiepvonđautunuocngoai",
+      "label": "ChuThe",
+      "properties": {
+        "name": "Doanh nghiệp có vốn đầu tư nước ngoài"
+      }
     }
   ],
   "relationships": [
     {
-      "source_id": "dieu_5",
-      "relationship_type": "QUY_ĐỊNH_VỀ",
-      "target_id": "khaikiem_nguoisudungdat"
+      "source_id": "dieu_5_2013",
+      "target_id": "khainiem_nguoisudungdat",
+      "relationship_type": "DINH_NGHIA"
     },
     {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_giaodat"
+      "source_id": "dieu_5_2013",
+      "target_id": "chuthe_tochuctrongnuoc",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_chothuedat"
+      "source_id": "dieu_5_2013",
+      "target_id": "chuthe_hogiadinhcanhan",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_congnhanquyensudungdat"
+      "source_id": "dieu_5_2013",
+      "target_id": "chuthe_congdongdancu",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ÁP_DỤNG_CHO",
-      "target_id": "hanhviphaply_nhanchuyenquyensudungdat"
+      "source_id": "dieu_5_2013",
+      "target_id": "chuthe_cosotongiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_giaodat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhcualanluatnay"
+      "source_id": "dieu_5_2013",
+      "target_id": "chuthe_tochucnuocngoaichucnangngoaigiao",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_chothuedat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhcualanluatnay"
+      "source_id": "dieu_5_2013",
+      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     },
     {
-      "source_id": "hanhviphaply_congnhanquyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhcualanluatnay"
-    },
-    {
-      "source_id": "hanhviphaply_nhanchuyenquyensudungdat",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_theoquydinhcualanluatnay"
-    },
-    {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_tochuc"
-    },
-    {
-      "source_id": "chuthe_tochuc",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tochuc_theoquydinhphapluatvedansu"
-    },
-    {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_hogiadinhcanhan"
-    },
-    {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_congdongdancu"
-    },
-    {
-      "source_id": "chuthe_congdongdancu",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_congdongdancu_sinhsongcungdiaban_cungphongtuc"
-    },
-    {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_cosotongiao"
-    },
-    {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_tochucnuocngoai_cochucnangngoaigiao"
-    },
-    {
-      "source_id": "chuthe_tochucnuocngoai_cochucnangngoaigiao",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_tochucnuocngoai_duocchinhphuvietnamthuanhan"
-    },
-    {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_nguoivietnamdinhcuonuocngoai"
-    },
-    {
-      "source_id": "chuthe_nguoivietnamdinhcuonuocngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_nguoivietnamdinhcuonuocngoai_theoquydinhphapluatvequoctich"
-    },
-    {
-      "source_id": "khaikiem_nguoisudungdat",
-      "relationship_type": "ĐỊNH_NGHĨA",
-      "target_id": "chuthe_doanhnghiepcovondaubunuocngoai"
-    },
-    {
-      "source_id": "chuthe_doanhnghiepcovondaubunuocngoai",
-      "relationship_type": "YÊU_CẦU",
-      "target_id": "dieukien_doanhnghiepcovondaubu_theoquydinhphapluatvedaubu"
+      "source_id": "dieu_5_2013",
+      "target_id": "chuthe_doanhnghiepvonđautunuocngoai",
+      "relationship_type": "QUY_DINH_VE"
     }
   ]
 }
