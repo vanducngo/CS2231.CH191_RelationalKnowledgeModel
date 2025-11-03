@@ -9,7 +9,7 @@ load_dotenv()
 
 # --- Cấu hình cho Google Gemini ---
 # GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-GOOGLE_API_KEY = 'vanducngo'
+GOOGLE_API_KEY = 'AIzaSyDIJ37sinRDhOzoEnqCN1MHGmAvYJZv0Ac'
 if GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)
 
@@ -20,7 +20,7 @@ if GOOGLE_API_KEY:
         print("-------------------------")
 
     # gemini_model = genai.GenerativeModel('gemini-pro')
-    gemini_model = genai.GenerativeModel('gemini-2.5-flash')
+    gemini_model = genai.GenerativeModel('gemini-2.0-flash')
 else:
     print("CẢNH BÁO: GOOGLE_API_KEY không được tìm thấy trong file .env")
     gemini_model = None

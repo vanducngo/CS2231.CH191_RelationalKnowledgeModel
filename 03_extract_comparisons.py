@@ -49,6 +49,7 @@ def process_single_comparison(filename, input_dir, output_dir, luat_2013_full_te
     
     # === BỎ QUA NẾU ĐÃ XỬ LÝ ===
     if os.path.exists(output_path):
+        print(f'{filename} đã được xử lý. Bỏ qua')
         return f"Bỏ qua (đã tồn tại): {filename}"
         
     input_path = os.path.join(input_dir, filename)
