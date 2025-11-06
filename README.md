@@ -1,14 +1,34 @@
-Bạn nói rất đúng! Đó là một điểm cực kỳ quan-trọng để giúp người khác có thể tái sử dụng dự án của bạn một cách dễ dàng. Phần hướng dẫn cần phải tách biệt rõ ràng giữa "build lại từ đầu" và "chạy ứng dụng với dữ liệu có sẵn".
-
-Dưới đây là phiên bản README được cập nhật, tập trung vào việc làm cho **Part 2** trở nên độc lập và dễ thực hiện nhất có thể cho người dùng mới.
-
----
-
-### **README.md (Phiên bản Cập Nhật)**
-
 # **Trợ lý Pháp lý Thông minh về Luật Đất đai (2013 & 2024)**
 
-... (Giữ nguyên các phần Tóm tắt, Tính năng chính, Kiến trúc) ...
+Dự án này là một hệ thống Hỏi-Đáp và So sánh thông minh, được xây dựng nhằm cung cấp các câu trả lời chính xác và có căn cứ về hai phiên bản Luật Đất đai 2013 và 2024 của Việt Nam.
+
+Hệ thống ứng dụng kiến trúc **RAG (Retrieval-Augmented Generation)** nâng cao, kết hợp sức mạnh của **Đồ thị Tri thức (Knowledge Graph - Neo4j)**, **Tìm kiếm Ngữ nghĩa (Semantic Search - FAISS)**, và các **Mô hình Ngôn ngữ Lớn (LLMs)**.
+
+ <!-- Bạn nên chụp một ảnh màn hình đẹp của ứng dụng và đặt link vào đây -->
+
+## **🌟 Tính Năng Chính**
+
+*   **Hỏi-Đáp Tình huống:** Trả lời các câu hỏi phức tạp về quyền và nghĩa vụ sử dụng đất, thủ tục hành chính, chế tài, hạn mức, v.v.
+*   **So sánh Luật:** Tự động đối chiếu và phân tích các điểm khác biệt cốt lõi về một chủ đề cụ thể giữa hai phiên bản luật 2013 và 2024.
+*   **Trích dẫn Đáng tin cậy:** Mọi câu trả lời đều đi kèm với trích dẫn Điều/Khoản luật cụ thể làm căn cứ, tăng cường tính minh bạch và độ tin cậy.
+*   **Truy xuất Thông minh:** Sử dụng pipeline truy xuất hai giai đoạn (two-stage retrieval):
+    1.  **Candidate Retrieval:** Dùng Semantic Search (FAISS) để nhanh chóng lọc ra một tập hợp lớn các điều luật có khả năng liên quan.
+    2.  **Reranking:** Dùng mô hình Cross-Encoder để sắp xếp lại chính xác tập hợp trên, đảm bảo những điều luật phù hợp nhất được ưu tiên.
+
+## **⚙️ Kiến trúc Hệ thống**
+
+Dự án được chia thành hai luồng chính: **Xây dựng Cơ sở Tri thức (Offline)** và **Xử lý Truy vấn (Online)**.
+
+ <!-- Bạn nên vẽ sơ đồ luồng đã tạo bằng Mermaid và đặt link vào đây -->
+
+1.  **Giao diện người dùng (Streamlit):** Giao diện web tương tác để người dùng nhập câu hỏi.
+2.  **Pipeline Truy xuất (Retrieval Pipeline):**
+    *   **Semantic Retriever (FAISS + Bi-Encoder):** Thực hiện tìm kiếm ngữ nghĩa trên toàn bộ văn bản luật để lấy ra top-K ứng viên.
+    *   **KG Connector (Neo4j):** Lấy nội dung chi tiết của các ứng viên và các thông tin có cấu trúc khác.
+    *   **Reranker (Cross-Encoder):** Đánh giá lại và sắp xếp các ứng viên để chọn ra những ngữ cảnh phù hợp nhất.
+3.  **Pipeline Sinh câu trả lời (Generation Pipeline):**
+    *   **Prompt Engineering:** Xây dựng các prompt chuyên biệt cho tác vụ hỏi-đáp và so sánh, tích hợp kỹ thuật Chain-of-Thought (CoT).
+    *   **Generator (LLM):** Sử dụng LLM (ví dụ: Google Gemini) để đọc ngữ cảnh đã được truy xuất và tạo ra câu trả lời cuối cùng.
 
 ---
 
@@ -116,6 +136,10 @@ Chạy các script sau theo đúng thứ tự. Mỗi script thực hiện một 
 python 01_process_pdfs.py
 python 02_chunking.py
 
+# --- BƯỚC THỦ CÔNG ---
+# Review lại tất cả các file chunking. Xem đã đủ điều luật chưa. Và điều chỉnh lại cho đầy đủ 
+# trước khi chạy các file tiếp theo.
+
 # 2. Dùng LLM để trích xuất thực thể, quan hệ và thông tin so sánh
 python 03_extract_entities.py
 python 04_extract_comparisons.py
@@ -139,8 +163,15 @@ python 08_process_comparison_json.py
 # 7. Gộp thành 2 file cuối cùng để import
 python 09_finalize_for_import.py
 
-# 8. Kiểm tra tính toàn vẹn của dữ liệu (khuyến khích)
+# 8. Kiểm tra tính toàn vẹn của dữ liệu
 python 10_validate_import_files.py
+
+# --- BƯỚC THỦ CÔNG ---
+# Nếu bước kiểm tra có data chưa toàn vẹn hoặc lỗi liên kết tới node trống (Sẽ có hướng dẫn khi chạy prompt)
+# Hãy kiểm tra, rà soát và fix lại dữ liệu. Sau đó chạy lại quá trình cần thiết.
+#  + Nếu chunk thiếu điều luật: Chạy lại 03_extract_entities.py, 05_merge_jsons.py, 07_normalize_and_merge_graph.py => 10_validate_import_files.py
+#  + Nếu node chưa chuẩn hóa, hoặc chuẩn hóa sai do LLM extract không chuẩn, hãy fix manual.
+# Đảm bảo sau khi fix phải chạy lại và validate lại lần nữa để chắc chắn dữ liệu toàn vẹn. Và bước vào quá trình import
 ```
 
 **Bước 3 & 4:** Sau khi đã tạo thành công các file `nodes_final.csv`, `relationships_final.csv`, `faiss_index.bin`, và `law_ids.json`, hãy làm theo **Bước 1, 2, 3 của Part 1** để nạp dữ liệu và khởi chạy ứng dụng.
