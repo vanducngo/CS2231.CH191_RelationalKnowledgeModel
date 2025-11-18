@@ -4,7 +4,6 @@ import pandas as pd
 from collections import defaultdict
 
 # --- Cấu hình ---
-# Liệt kê tất cả các file JSON thô bạn muốn phân tích
 INPUT_FILES = [
     'analysis/output_2024_merged.json',
     'analysis/output_2013_merged.json'

@@ -2,7 +2,6 @@ import os
 import re
 
 def get_comparison_prompt_for_chat(article_code_2024, article_content_2024, output_file_name):
-    # Prompt này có thêm dòng output_file_name
     return f"""
         Bạn là một chuyên gia pháp lý cao cấp, chuyên phân tích và so sánh các phiên bản luật.
         **NHIỆM VỤ:**

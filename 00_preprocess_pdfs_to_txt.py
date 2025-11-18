@@ -59,7 +59,6 @@ def main():
         text = pdf_to_text(pdf_file)
         cleaned_text = clean_text(text)
         
-        # === PHẦN CẬP NHẬT: LƯU FILE TEXT ĐẦY ĐỦ ===
         full_text_filename = f"LuatDatDai{year}_full.txt"
         with open(full_text_filename, 'w', encoding='utf-8') as f:
             f.write(cleaned_text)

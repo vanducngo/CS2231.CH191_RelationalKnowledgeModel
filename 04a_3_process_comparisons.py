@@ -3,7 +3,6 @@ import pandas as pd
 import os
 
 # --- Cấu hình ---
-# Đảm bảo bạn đặt đúng đường dẫn nếu file không cùng thư mục
 INPUT_JSON_FILE = 'analysis/comparisons_merged.json' 
 OUTPUT_CSV_FILE = 'result_final/graph_edges_comparison.csv'
 

@@ -6,7 +6,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from llm_callers import call_gemini_api as call_llm
 
 def get_extraction_prompt(law_year, article_code, article_content):
-    # Prompt 1 chi tiết
     return f"""
 Bạn là một trợ lý pháp lý chuyên nghiệp với nhiệm vụ xây dựng một Đồ thị Tri thức (Knowledge Graph) từ văn bản luật. Với nội dung của Điều luật được cung cấp dưới đây, hãy trích xuất tất cả các thực thể và mối quan hệ giữa chúng theo một cấu trúc JSON định sẵn.
 
@@ -63,7 +62,6 @@ def process_single_file(filename, year, input_dir, output_dir):
         return f"Lỗi: {filename} - {e}"
 
 def process_law_year_parallel(year, input_dir, output_dir, max_workers=5):
-    """Hàm xử lý song song."""
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         
@@ -83,9 +81,6 @@ def process_law_year_parallel(year, input_dir, output_dir, max_workers=5):
             pass
 
 def main():
-    # max_workers là số lượng yêu cầu bạn muốn gửi đi cùng lúc.
-    # Con số này phụ thuộc vào giới hạn RPM của bạn. Nếu RPM=60, bạn có thể đặt max_workers=10 hoặc 20.
-    # Bắt đầu với một con số nhỏ như 5 để an toàn.
     process_law_year_parallel(2024, 'chunks_2024', 'output_json_2024', max_workers=5)
     process_law_year_parallel(2013, 'chunks_2013', 'output_json_2013', max_workers=5)
     print("\n--- Hoàn thành trích xuất thực thể! ---")

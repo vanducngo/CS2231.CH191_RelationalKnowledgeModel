@@ -93,7 +93,6 @@ def create_semantic_mapping(synonym_groups):
     mapping = {}
     for group in synonym_groups:
         # Chọn ID ngắn nhất và không chứa ký tự lặp làm ID chuẩn
-        # Hoặc bạn có thể chọn một cách tường minh hơn
         canonical_id = sorted(list(group), key=len)[0] 
         for synonym in group:
             if synonym != canonical_id:
